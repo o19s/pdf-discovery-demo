@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "name": "pdfjs-vue",
+  "github": {
+    "silent": true,
+    "enabled": true
+  }
+}
