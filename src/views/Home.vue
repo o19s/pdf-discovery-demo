@@ -18,7 +18,7 @@ export default {
   data () {
     return {
       doc: null,
-      url: '/example2.pdf'
+      url: '/brainard20190711a.pdf'
     }
   }
 }
