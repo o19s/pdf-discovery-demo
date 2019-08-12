@@ -16,8 +16,7 @@
     <div class="app-body">
       <h1 class="title">Highlighting with PDF.js</h1>
       <PDFViewer
-        v-if="doc && !loading"
-        :doc="doc"
+        :url="url"
         :query="paramQuery"
       />
     </div>
@@ -25,7 +24,6 @@
 </template>
 
 <script>
-import pdfjsLib from 'pdfjs-dist/webpack'
 import PDFViewer from '@/components/PDFVIewer'
 
 export default {
@@ -36,10 +34,9 @@ export default {
   data () {
     return {
       doc: null,
-      url: '/example.pdf',
+      url: '/example2.pdf',
       searchQuery: '',
-      paramQuery: '',
-      loading: false
+      paramQuery: ''
     }
   },
   created () {
@@ -49,7 +46,8 @@ export default {
     }
   },
   mounted () {
-    this.loadPDF()
+    // this.pdfjsLib = require('pdfjs-dist/webpack')
+    // this.loadPDF()
   },
   methods: {
     handleSearch () {
@@ -60,21 +58,6 @@ export default {
         }
       })
       window.location.reload()
-    },
-    loadPDF () {
-      let loadingTask = pdfjsLib.getDocument(this.url)
-      this.loading = true
-      this.doc = null
-
-      this.$nextTick(() => {
-        loadingTask.promise.then((doc) => {
-          console.log(`Document ${this.url} loaded ${doc.numPages} page(s)`)
-          this.loading = false
-          this.doc = doc
-        }, (reason) => {
-          console.error(`Error during ${this.url} loading: ${reason}`)
-        })
-      })
     }
   }
 }
