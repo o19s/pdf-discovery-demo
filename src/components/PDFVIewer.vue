@@ -1,31 +1,50 @@
 <template>
   <div class="the-pdf-viewer">
-    <div
-      class="find-bar"
-      id="findbar"
-      ref="findbar"
-    >
-      <div id="viewFind">toggle</div>
-      <input
-        id="findInput"
-        ref="findInput"
-        @keyup.enter="updateExecutedQuery()"
-        v-model="query"
-      />
-      <label class="highlightAllToggle">
-        <input
-          type="checkbox"
-          id="findHighlightAll"
-          checked
-        />
-        Highlight All
-      </label>
-      <div id="findMatchCase"></div>
-      <div id="findEntireWord"></div>
-      <div id="findMsg"></div>
-      <div id="findResultsCount"></div>
-      <button id="findPrevious">Prev</button>
-      <button id="findNext">Next</button>
+    <div class="app-header">
+      <div
+        class="find-bar"
+        id="findbar"
+        ref="findbar"
+      >
+        <div id="viewFind">toggle</div>
+
+        <form @submit.prevent="executeQuery">
+          <input
+            type="text"
+            id="findInput"
+            ref="findInput"
+            v-model="query"
+          />
+          <input
+            type="submit"
+            value="Find"
+          />
+        </form>
+        <label class="highlightAllToggle">
+          <input
+            type="checkbox"
+            id="findHighlightAll"
+            checked
+          />
+          Highlight All
+        </label>
+        <div id="findMatchCase"></div>
+        <div id="findEntireWord"></div>
+        <div id="findMsg"></div>
+        <div id="findResultsCount"></div>
+        <button
+          id="findPrevious"
+          :disabled="query.length < 1"
+        >
+          &laquo;
+        </button>
+        <button
+          id="findNext"
+          :disabled="query.length < 1"
+        >
+          &raquo;
+        </button>
+      </div>
     </div>
     <div
       class="pdf-viewer-container"
@@ -75,25 +94,45 @@ export default {
   },
   methods: {
     triggerResize () {
-      this.$nextTick(() => {
-        this.PDFViewer.currentScaleValue = 1.0001
-        this.PDFViewer.currentScaleValue = 1
-      })
-    },
-    updateExecutedQuery () {
-      this.executedQuery = this.query
-      this.executeQuery()
+      this.PDFViewer.currentScaleValue = 1.0001
+      this.PDFViewer.currentScaleValue = 1
     },
     executeQuery (event) {
-      if (this.executedQuery && this.executedQuery.length > 3) {
-        this.PDFFindController.executeCommand('find' + event.detail.type, {
-          caseSensitive: event.detail.caseSensitive,
-          highlightAll: event.detail.highlightAll,
-          phraseSearch: event.detail.phraseSearch,
-          findPrevious: event.detail.findPrevious,
-          query: event.detail.query
-        })
+      event = event ? event.detail : {
+        type: '',
+        caseSensitive: false,
+        highlightAll: true,
+        phraseSearch: true,
+        findPrevious: false
+      }
+      this.executedQuery = this.query
+
+      this.PDFFindController.executeCommand('find' + event.type, {
+        caseSensitive: event.caseSensitive,
+        highlightAll: event.highlightAll,
+        phraseSearch: event.phraseSearch,
+        findPrevious: event.findPrevious,
+        query: this.query
+      })
+
+      if (event.type === 'again') {
         this.triggerResize()
+      } else {
+        setTimeout(() => {
+          this.triggerResize()
+          this.updateURL()
+        }, 500)
+      }
+    },
+    updateURL () {
+      if (!this.$route.query || this.$route.query.query !== this.query) {
+        this.$router.replace({
+          path: '/',
+          query: {
+            ...this.$route.query,
+            query: this.query
+          }
+        })
       }
     },
     initializeViewer () {
@@ -128,7 +167,6 @@ export default {
 
       document.addEventListener('pagesinit', () => {
         this.PDFViewer.currentScaleValue = 1
-        this.updateExecutedQuery()
       })
       window.addEventListener('resize', () => {
         this.triggerResize()
@@ -143,6 +181,7 @@ export default {
       loadingTask.promise.then((pdfDocument) => {
         this.PDFViewer.setDocument(pdfDocument)
         this.PDFLinkService.setDocument(pdfDocument, null)
+        this.executeQuery()
       })
     }
   }
@@ -157,25 +196,96 @@ export default {
 
 .pdf-viewer-container {
   width: 100%;
-  height: 100%;
-  top: 0;
+  height: calc(100% - 60px);
+  top: 60px;
   left: 0;
   position: absolute;
   overflow-y: scroll;
 }
 
-.find-bar {
+.app-header {
+  position: fixed;
+  width: 100%;
+  top: 0;
   height: 60px;
-  background-color: #000;
+  background-color: #3c424a;
+  border-bottom: 1px solid #2f3235;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 2;
+  box-shadow: 2px 0 2em 0 rgba(#2f3235, 0.33);
+
+  form {
+    display: flex;
+    justify-content: center;
+    margin-right: 1em;
+
+    input {
+      appearance: none;
+      border: none;
+      background-color: #fff;
+      outline: none;
+      font-size: 0.8em;
+    }
+
+    input[type="text"] {
+      padding: 0.75em 1em;
+      color: #444;
+      border-radius: 3px 0 0 3px;
+    }
+
+    input[type="submit"] {
+      background-color: #e6e9ef;
+      color: #3c4046;
+      border-left: 1px solid #b1b8c3;
+      font-weight: bold;
+      cursor: pointer;
+      padding: 0 1em;
+      border-radius: 0px 3px 3px 0px;
+
+      &:hover {
+        background-color: #838c99;
+        color: #fff;
+        cursor: pointer;
+      }
+    }
+  }
+
+  button {
+    appearance: none;
+    padding: 0.33em 1em;
+    background-color: #e6e9ef;
+    color: #3c4046;
+    left: 1;
+    font-weight: bold;
+    font-size: 1em;
+    margin-right: 0.25em;
+    outline: none;
+    border-radius: 3px;
+    border: none;
+
+    &:hover {
+      background-color: #838c99;
+      color: #fff;
+      cursor: pointer;
+    }
+
+    &[disabled] {
+      color: #3c4046;
+      background-color: #fff;
+      opacity: 0.5;
+      cursor: default;
+    }
+  }
+}
+
+.find-bar {
   display: flex;
   align-items: center;
   position: relative;
   z-index: 2;
   color: #fff;
-
-  & > * {
-    margin-right: 1em;
-  }
 }
 
 .pdf-viewer {
@@ -213,7 +323,7 @@ export default {
       background: linear-gradient(to right, rgba(255,0,0,0.66) 0%, #dd0000 100%);
       box-shadow: inset 0.5em 0 0.05em 0.1em #ff1122;
       transform: scaleX(1.05) scaleY(1.4) skew(-20deg);
-      transform-origin: 100% 75%;
+      transform-origin: 0% 25%;
       border-radius: 0.25em .33em 0.4em 0.2em;
 
       &.selected {
