@@ -31,7 +31,10 @@
         <div id="findMatchCase"></div>
         <div id="findEntireWord"></div>
         <div id="findMsg"></div>
-        <div id="findResultsCount"></div>
+        <span
+          ref="findResultsCount"
+          id="findResultsCount"
+        />
         <button
           id="findPrevious"
           :disabled="query.length < 1"
@@ -79,7 +82,9 @@ export default {
       PDFViewer: null,
       PDFFindController: null,
       PDFLinkService: null,
-      PDFFindBar: null
+      PDFFindBar: null,
+      viewportWidth: 0,
+      scaleMultiple: 1
     }
   },
   created () {
@@ -92,13 +97,19 @@ export default {
     this.pdfjsLib = require('pdfjs-dist/webpack')
     this.initializeViewer()
   },
+  computed: {
+    pdfScale () {
+      return this.viewportWidth >= 900 ? 1 * this.scaleMultiple : 'page-width'
+    }
+  },
   methods: {
     triggerResize () {
+      this.viewportWidth = window.innerWidth
       this.PDFViewer.currentScaleValue = 1.0001
-      this.PDFViewer.currentScaleValue = 1
+      this.PDFViewer.currentScaleValue = this.pdfScale
     },
-    executeQuery (event) {
-      event = event ? event.detail : {
+    executeQuery (e) {
+      let event = (e && e.detail) ? e.detail : {
         type: '',
         caseSensitive: false,
         highlightAll: true,
@@ -148,7 +159,7 @@ export default {
         caseSensitiveCheckbox: document.getElementById('findMatchCase'),
         entireWordCheckbox: document.getElementById('findEntireWord'),
         findMsg: document.getElementById('findMsg'),
-        findResultsCount: document.getElementById('findResultsCount'),
+        findResultsCount: this.$refs['findResultsCount'],
         findPreviousButton: document.getElementById('findPrevious'),
         findNextButton: document.getElementById('findNext')
       }, this.PDFEventBus)
