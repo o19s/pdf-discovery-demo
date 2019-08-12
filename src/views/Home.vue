@@ -9,6 +9,7 @@
 
 <script>
 import PDFViewer from '@/components/PDFVIewer'
+import sampleData from '../../ocr/output_brainard20190711a.json'
 
 export default {
   name: 'app',
@@ -18,7 +19,8 @@ export default {
   data () {
     return {
       doc: null,
-      url: '/brainard20190711a.pdf'
+      url: '/brainard20190711a.pdf',
+      sampleData
     }
   }
 }
