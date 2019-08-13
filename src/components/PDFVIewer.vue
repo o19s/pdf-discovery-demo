@@ -332,14 +332,14 @@ export default {
     .highlight {
       display: inline-block;
       background: linear-gradient(to right, rgba(255,0,0,0.66) 0%, #dd0000 100%);
-      box-shadow: inset 0.5em 0 0.05em 0.1em #ff1122;
-      transform: scaleX(1.05) scaleY(1.4) skew(-20deg);
+      box-shadow: inset 0.5em 0 0.05em 0.1em rgba(#ff1122, 0.75);
+      transform: scaleX(1.1) scaleY(1.4) skew(-20deg);
       transform-origin: 0% 25%;
       border-radius: 0.25em .33em 0.4em 0.2em;
 
       &.selected {
         background: linear-gradient(to right, rgba(0,255,0,0.66) 0%, green 100%);
-        box-shadow: inset 0.5em 0 0.05em 0.1em green;
+        box-shadow: inset 0.5em 0 0.05em 0.1em rgba(green, 0.5);
       }
     }
   }
