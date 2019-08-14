@@ -1,6 +1,7 @@
 {
   "version": 2,
   "name": "pdfjs-vue",
+  "alias": "osc-pdfjs-highlight.now.sh",
   "github": {
     "silent": true,
     "enabled": true
