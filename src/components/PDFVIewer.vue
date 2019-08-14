@@ -20,6 +20,7 @@
             value="Find"
           />
         </form>
+
         <label class="highlightAllToggle">
           <input
             type="checkbox"
@@ -47,6 +48,40 @@
         >
           &raquo;
         </button>
+
+        <form
+          @submit.prevent="updateCoordinates"
+          class="coordinates-form"
+        >
+          <input
+            ref="targetPage"
+            type="number"
+            class="page-number"
+            placeholder="Page"
+            v-model="activePage"
+          />
+          <input
+            ref="coordinatesX1"
+            type="number"
+            placeholder="X1"
+          />
+          <input
+            ref="coordinatesY1"
+            type="number"
+            placeholder="Y1"
+          />
+          <input
+            ref="coordinatesX2"
+            type="number"
+            placeholder="X2"
+          />
+          <input
+            ref="coordinatesY2"
+            type="number"
+            placeholder="Y2"
+          />
+          <input type="submit" value="Draw">
+        </form>
       </div>
     </div>
     <div
@@ -84,7 +119,14 @@ export default {
       PDFLinkService: null,
       PDFFindBar: null,
       viewportWidth: 0,
-      scaleMultiple: 1
+      scaleMultiple: 1,
+      activePage: null,
+      coordinates: {
+        x1: null,
+        x2: null,
+        y1: null,
+        y2: null
+      }
     }
   },
   created () {
@@ -194,6 +236,43 @@ export default {
         this.PDFLinkService.setDocument(pdfDocument, null)
         this.executeQuery()
       })
+    },
+    updateCoordinates () {
+      if (
+        this.$refs['targetPage'].value &&
+        this.$refs['coordinatesX1'].value &&
+        this.$refs['coordinatesX2'].value &&
+        this.$refs['coordinatesY1'].value &&
+        this.$refs['coordinatesY2'].value
+      ) {
+        this.coordinates.x1 = this.$refs['coordinatesX1'].value ? this.$refs['coordinatesX1'].value : null
+        this.coordinates.y1 = this.$refs['coordinatesY1'].value ? this.$refs['coordinatesY1'].value : null
+        this.coordinates.x2 = this.$refs['coordinatesX2'].value ? this.$refs['coordinatesX2'].value : null
+        this.coordinates.y2 = this.$refs['coordinatesY2'].value ? this.$refs['coordinatesY2'].value : null
+
+        this.addHighlightToPDF()
+      }
+    },
+    addHighlightToPDF () {
+      console.log('adding highlight')
+
+      let highlight = document.createElement('div')
+      let targetPage = document.querySelector(`[data-page-number="${this.$refs['targetPage'].value}"]`)
+
+      // set the relative position for the highlight
+      highlight.setAttribute('class', 'box-highlight')
+      highlight.setAttribute('style', `
+        position:absolute;
+        top:${this.coordinates.y1}px;
+        left:${this.coordinates.x1}px;
+        height:${this.coordinates.y2 - this.coordinates.y1}px;
+        width:${this.coordinates.x2 - this.coordinates.x1}px;
+      `)
+
+      console.log(highlight, targetPage)
+
+      // add the highlight to the page
+      targetPage.appendChild(highlight)
     }
   }
 }
@@ -232,6 +311,10 @@ export default {
     justify-content: center;
     margin-right: 1em;
 
+    &.coordinates-form {
+      margin-left: 5em;
+    }
+
     input {
       appearance: none;
       border: none;
@@ -240,10 +323,20 @@ export default {
       font-size: 0.8em;
     }
 
-    input[type="text"] {
+    input[type="text"],
+    input[type="number"] {
       padding: 0.75em 1em;
       color: #444;
       border-radius: 3px 0 0 3px;
+    }
+
+    input[type="number"] {
+      width: 4em;
+      margin-right: 0.25em;
+
+      &.page-number {
+        width: 6em;
+      }
     }
 
     input[type="submit"] {
@@ -341,6 +434,13 @@ export default {
         background: linear-gradient(to right, rgba(0,255,0,0.66) 0%, green 100%);
         box-shadow: inset 0.5em 0 0.05em 0.1em rgba(green, 0.5);
       }
+    }
+
+    .box-highlight {
+      display: block;
+      background: red;
+      opacity: 0.33;
+      border-radius: 5px;
     }
   }
 }
