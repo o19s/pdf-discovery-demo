@@ -40,3 +40,9 @@ java -cp tika-server-1.22.jar org.apache.tika.server.TikaServerCli
 curl -T ../public/brainard20190711a.pdf http://localhost:9998/rmeta --header "X-Tika-OCRLanguage: eng" --header "X-Tika-PDFOcrStrategy: ocr_only" --header "X-Tika-OCRoutputType: hocr"
 
 ```
+
+Assuming you have 'brew install powershell'
+
+```
+pwsh extract.ps1 ../public/brainard20190711a.pdf
+```
