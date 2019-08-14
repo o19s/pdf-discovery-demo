@@ -49,6 +49,7 @@
           &raquo;
         </button>
 
+        <span class="input-seperator">-- OR --</span>
         <form
           @submit.prevent="updateCoordinates"
           class="coordinates-form"
@@ -311,10 +312,6 @@ export default {
     justify-content: center;
     margin-right: 1em;
 
-    &.coordinates-form {
-      margin-left: 5em;
-    }
-
     input {
       appearance: none;
       border: none;
@@ -354,6 +351,12 @@ export default {
         cursor: pointer;
       }
     }
+  }
+
+  .input-seperator {
+    margin: 0 2.5em;
+    font-family: sans-serif;
+    font-weight: bold;
   }
 
   button {
