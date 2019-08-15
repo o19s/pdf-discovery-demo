@@ -6,10 +6,17 @@ Param(
 
 Write-Host "About to hocr PDF file " + $pdf_file
 
-$result = curl -T $pdf_file http://localhost:9998/rmeta --header "X-Tika-OCRLanguage: eng" --header "X-Tika-PDFOcrStrategy: ocr_only" --header "X-Tika-OCRoutputType: hocr"
+#$result = curl -T $pdf_file http://localhost:9998/rmeta --header "X-Tika-OCRLanguage: eng" --header "X-Tika-PDFOcrStrategy: ocr_only" --header "X-Tika-OCRoutputType: hocr"
+$result = java -cp ./tika-properties:tika-app-1.22.jar org.apache.tika.cli.TikaCLI --xmp --jsonRecursive --extract --pretty-print -x $pdf_file
+
+#Start-Process  -FilePath 'java' -ArgumentList '-cp tika-app-1.22.jar org.apache.tika.cli.TikaCLI --xmp --jsonRecursive --extract --pretty-print -x ../public/brainard20190711a.pdf' -NoNewWindow -Wait  -RedirectStandardError 'err.txt' -RedirectStandardOutput out.txt
+
+#$result = java -cp 'tika-app-1.22.jar' org.apache.tika.cli.TikaCLI --xmp --jsonRecursive --extract --pretty-print -x ../public/brainard20190711a.pdf
+
 
 Write-Host "Done with extract, now converting"
-#Write-Host $result
+Write-Host $result
+Write-Host "Done with Result"
 
 # $json = (Get-Content "output_brainard20190711a.json" -Raw) | ConvertFrom-Json
 $json = $result | ConvertFrom-Json
@@ -17,6 +24,7 @@ $json = $result | ConvertFrom-Json
 
 $hocr_xml = [xml]$json.'X-TIKA:content'
 
+#Write-Host $result
 
 $nsmgr = New-Object System.XML.XmlNamespaceManager($hocr_xml.NameTable)
 $nsmgr.AddNamespace('xsi','http://www.w3.org/2001/XMLSchema-instance')
