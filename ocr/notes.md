@@ -62,7 +62,15 @@ java -cp ./tika-properties:tika-app-1.22.jar org.apache.tika.cli.TikaCLI --json 
 java -cp tika-app-1.22.jar org.apache.tika.cli.TikaCLI --xmp --jsonRecursive --extract --pretty-print -x ../public/brainard20190711a.pdf
 ```
 
+this one works
+```
+java -cp ./tika-properties:tika-app-1.22.jar org.apache.tika.cli.TikaCLI --xmp --jsonRecursive --extract --pretty-print --verbose -x ../public/branard20190711a.pdf
+```
 
+
+```
+java -cp ./tika-properties:tika-app-1.22.jar org.apache.tika.cli.TikaCLI --xmp --jsonRecursive --extract --pretty-print -x ../public/branard20190711a.pdf 
+```
 
 {
   "id":"brainard201900711a.pdf",

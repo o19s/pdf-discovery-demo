@@ -15,7 +15,7 @@ $result = java -cp ./tika-properties:tika-app-1.22.jar org.apache.tika.cli.TikaC
 
 
 Write-Host "Done with extract, now converting"
-Write-Host $result
+#Write-Host $result
 Write-Host "Done with Result"
 
 # $json = (Get-Content "output_brainard20190711a.json" -Raw) | ConvertFrom-Json
@@ -34,7 +34,11 @@ $words = $hocr_xml.SelectNodes("//x:span[@class='ocrx_word']",$nsmgr)
 
 $hocr_output = ''
 foreach ($word in $words) {
-  $hocr_output = $hocr_output + $word.InnerText + "|" + $word.title + " "
+  #Write-Host $word.title
+  $split = $word.title.split(";")
+  $payload = $split[0].Replace("bbox ","")
+  #Write-Host $split[0]
+  $hocr_output = $hocr_output + $word.InnerText + "|" + $payload + " "
 }
 
 $hocr_output
