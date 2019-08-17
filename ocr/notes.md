@@ -138,5 +138,16 @@ java -cp tika-app-1.22.jar org.apache.tika.cli.TikaCLI --xmp --jsonRecursive --e
 docker run -p 8983:8983 -v $PWD/solr/solr_home:/opt/mysolrhome -e SOLR_HOME=/opt/mysolrhome -e INIT_SOLR_HOME=yes solr:6.2.1
 ```
 
-
+```
 http://localhost:8983/solr/speeches/select?fl=*,page_dimensions:[json]&hl=on&indent=on&q=release&wt=json
+```
+
+## Measuring Quality
+
+https://abbyy.technology/en:kb:tip:ocr-accuracy
+https://www.hsassocs.com/what-is-ocr-accuracy/
+https://dataturks.com/blog/compare-image-text-recognition-apis.php
+
+Okay, Let's just try and compare the tokens.
+
+So, running it with pairwise, we have one issue, wihth is OCR has `Iam` and text is `I am`.  Then change to only looking at 4 character or longer pairs, and it all matched!  This was with Brainard.
