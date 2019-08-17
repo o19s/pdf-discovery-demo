@@ -13,22 +13,29 @@ Write-Host "Done with extract, now converting"
 
 $outputFile = Split-Path $pdf_file -leaf
 
-$extract_file = "./extracts/" + $outputFile + ".xml"
+$extract_file = "./extracts/" + $outputFile + ".json"
 
 Set-Content -Path $extract_file -Value $result
 
-$json = $result | ConvertFrom-Json
+$json = (Get-Content $extract_file -Raw) | ConvertFrom-Json
 
 
-$hocr_xml = [xml]$json.'X-TIKA:content'
+$tika_content = [xml]$json.'X-TIKA:content'
 
-#Write-Host $result
+Write-Host $tika_content
 Write-Host "Done with Result"
-$nsmgr = New-Object System.XML.XmlNamespaceManager($hocr_xml.NameTable)
-$nsmgr.AddNamespace('xsi','http://www.w3.org/2001/XMLSchema-instance')
+$nsmgr = New-Object System.XML.XmlNamespaceManager($tika_content.NameTable)
 $nsmgr.AddNamespace('x','http://www.w3.org/1999/xhtml')
 
-$words = $hocr_xml.SelectNodes("//x:span[@class='ocrx_word']",$nsmgr)
+$pages = $tika_content.SelectNodes("//x:div[@class='page']",$nsmgr)
+
+$content_encoded = $pages[0].p
+Write-Host $content_encoded
+
+$page = $pages[0]
+
+
+$words = $tika_content.SelectNodes("//x:span[@class='ocrx_word']",$nsmgr)
 
 $hocr_output = ''
 
@@ -46,4 +53,10 @@ foreach ($word in $words) {
   $hocr_output = $hocr_output + $word.InnerText + "|" + $payload + " "
 }
 
-$hocr_output
+$extract_file = "./extracts/" + $outputFile + ".hocr"
+
+Set-Content -Path $extract_file -Value $hocr_output
+
+$extract_file = "./extracts/" + $outputFile + ".txt"
+
+Set-Content -Path $extract_file -Value $pages.p

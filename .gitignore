@@ -20,9 +20,5 @@ yarn-error.log*
 *.sln
 *.sw?
 
-# OCR
-ocr/extracts
-
 # Solr
 solr/solr_home/speeches/data/*
-
