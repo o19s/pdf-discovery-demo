@@ -19,3 +19,10 @@ yarn-error.log*
 *.njsproj
 *.sln
 *.sw?
+
+# OCR
+ocr/extracts
+
+# Solr
+solr/solr_home/speeches/data/*
+
