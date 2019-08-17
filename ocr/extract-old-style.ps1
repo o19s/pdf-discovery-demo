@@ -38,7 +38,8 @@ foreach ($word in $words) {
   #Write-Host $word.title
   $payload = $word.title
   # bbox 452 315 488 332; x_wconf 96
-  $payload=[Convert]::ToBase64String([System.Text.Encoding]::UTF8.GetBytes($payload))
+
+  $payload=[Convert]::ToBase64String([System.Text.Encoding]::ASCII.GetBytes($payload))
   #$split = $word.title.split(";")
   #$payload = $split[0].Replace("bbox ","")
   #Write-Host $split[0]
