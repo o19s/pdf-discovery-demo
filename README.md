@@ -27,3 +27,17 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+# Run Solr Demo
+
+## setup from project root
+
+```
+docker-compose up
+```
+
+And then browse to
+
+```
+http://localhost:8983/solr/documents/select?fl=id,path,page_dimensions:[json]&hl=on&indent=on&q=For&wt=json
+```
