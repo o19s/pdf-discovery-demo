@@ -1,0 +1,25 @@
+# Docker compose file for the application.
+
+#version: '2'   # on CircleCI the version and services cause build to puke.
+#services:
+  zookeeper:
+    image: jplock/zookeeper
+    ports:
+      - "2181:2181"
+      - "2888:2888"
+      - "3888:3888"
+  solr:
+    build: ./solr
+    ports:
+     - "8983:8983"
+    links:
+      - zookeeper
+    command: "bash -c '/opt/solr/bin/solr start -f -z zookeeper:2181 -Dbootstrap_confdir=/solr-config/index/conf'"
+
+
+  init:
+    build: ./ocr/init
+    links:
+      - solr
+      - zookeeper
+    #entrypoint: ./wait-for-it.sh solr:8983
