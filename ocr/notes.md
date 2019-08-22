@@ -1,3 +1,14 @@
+## Bugs/ Issues
+
+1. UnsolicitedCreditOffers2004.pdf has the .json version of the file is not pure json.s
+```
+Extracting 'image0.tif' (image/tiff) to ./image0.tif
+[
+  {
+    "Author": "Federal Reserve Board",
+    "Content-Length": "345888",
+```
+
 java -cp tika-server-1.22.jar:./tika org.apache.tika.server.TikaServerCli
 
 
