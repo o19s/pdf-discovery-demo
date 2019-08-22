@@ -39,5 +39,5 @@ docker-compose up
 And then browse to
 
 ```
-http://localhost:8983/solr/documents/select?fl=id,path,page_dimensions:[json]&hl=on&indent=on&q=For&wt=json
+http://localhost:8983/solr/documents/select?fl=id,path,page_dimensions:[json]&hl=on&hl.field=content_ocr&indent=on&q=For&wt=json
 ```
