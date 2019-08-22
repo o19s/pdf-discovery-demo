@@ -1,0 +1,701 @@
+
+For release on delivery 
+7:00 p.m. EDT (6 p.m. CDT) 
+June 28, 2016 
+ 
+
+
+Recent Economic Developments, Monetary Policy Considerations 
+and Longer-term Prospects  
+
+
+Remarks by 
+ 
+
+Jerome H. Powell 
+ 
+
+Member 
+ 
+
+Board of Governors of the Federal Reserve System 
+ 
+
+at the 
+ 
+
+Chicago Council on Global Affairs 
+ 
+
+Chicago, Illinois 
+ 
+
+
+June 28, 2016 
+ 
+
+
+
+Thank you for this opportunity to speak here today.  The Chicago Council on 
+
+Global Affairs has been a thought leader for nearly a century, encouraging public 
+
+discourse, education, and research on important global issues.  The Council’s global 
+
+focus is particularly important for understanding the challenges facing the U.S. economy 
+
+today, as shown by last week’s referendum on the United Kingdom’s status in the 
+
+European Union.  In my remarks, I will review recent economic developments and the 
+
+outlook for the economy.  I will also discuss the economy’s longer-term productive 
+
+potential.  As always, the view I express here today are my own.  
+
+The Dual Mandate and State of the Economy 
+
+As you know, the Federal Reserve, through the Federal Open Market Committee 
+
+(FOMC), is charged by the Congress with achieving maximum employment and stable 
+
+prices--the dual mandate.  For price stability, the FOMC has adopted a goal of 2 percent 
+
+for inflation, as measured by the annual change in the price index for personal 
+
+consumption expenditures.  Many other central banks in developed economies have 
+
+adopted inflation goals centered around 2 percent.   
+
+The FOMC has not set a numerical goal for maximum employment, because the 
+
+long-run sustainable level of employment is determined mainly by non-monetary factors 
+
+that are outside the Fed’s control, such as demographics, social change, and fiscal and 
+
+regulatory policies.  Nonetheless, four times a year, FOMC participants write down their 
+
+estimates of the longer-run sustainable level of the unemployment rate (which many 
+
+interpret as the “natural rate”); at the recent June FOMC meeting the median estimate of 
+
+that rate was 4.8 percent.   
+
+
+ - 2 - 
+
+How should we evaluate our current performance against the dual mandate?  I 
+
+would say that we have made substantial progress toward maximum employment, 
+
+although there is still some room for improvement.  We have more work to do to assure 
+
+that inflation moves back up to our 2 percent goal.   
+
+Let’s start with the employment mandate.  After several years of strong job 
+
+growth, employment is now over 5 million higher than the pre-crisis peak in 2007.  The 
+
+unemployment rate has fallen from 10 percent in 2009 to 4.7 percent in May, essentially 
+
+at the level that many observers identify as the natural rate.  This rate is very far from a 
+
+bright line--it cannot be observed directly, and estimates of its level are subject to great 
+
+uncertainty.1  So we look to a wide range of labor market indicators to assess the overall 
+
+health of the labor market.  Many of those indicators suggest that the labor market is 
+
+strong.  To mention a few of these, job openings are at an all-time high by some 
+
+measures.  The “quits” rate--the rate at which employees voluntarily leave their jobs--is 
+
+about at pre-crisis levels. Surveys of individuals and businesses suggest that the ease of 
+
+finding and filling jobs is similar to that experienced in the mid-2000s. 
+
+Even though we are near the natural rate of unemployment, there is still room for 
+
+improvement on several margins.  Important among these is the labor force participation 
+
+rate.  If someone leaves the labor force for any reason, even temporarily, that person is 
+
+not counted as unemployed.  So the labor force participation rate is also a key 
+
+determinant of the unemployment rate.  Labor force participation is influenced by many 
+
+                                                   
+1 Confidence intervals around statistical estimates of the natural rate are routinely estimated to be quite 
+wide, reflecting both uncertainty about the correct model specification as well as uncertainty about the 
+parameter estimates given the model.  The canonical paper by Douglas Staiger, James H. Stock and Mark 
+W. Watson (1997), “How Precise are Estimates of the Natural Rate of Unemployment?,” in Christina D. 
+Romer and David H. Romer, eds., Reducing Inflation: Motivation and Strategy (Chicago: University of 
+Chicago Press) puts the 95 percent confidence interval at 1½ percentage points on either side of the point 
+estimate. 
+
+
+ - 3 - 
+
+factors, including the age structure of the population and individuals’ perceptions of the 
+
+availability of jobs. 
+
+Participation rose steadily from the 1970s through the 1990s as increasing 
+
+numbers of women entered the formal workforce.  That process ran its course, and, 
+
+around the year 2000, participation began a gradual decline because of population aging 
+
+and the continuation of other long-term trends, particularly the decline in participation 
+
+among prime age males.  From 2008 through 2013, participation dropped sharply by 3 
+
+percentage points, but has remained about flat, on net, since late 2013 in a context of 
+
+strong job growth and declining unemployment.  Economists estimate that, as the 
+
+population ages, participation will naturally tend to decline at a trend rate of about 0.2 
+
+percentage point per year, so this period of flat participation actually represents an 
+
+improvement against the post-crisis cyclical drop.  Today, participation is near its longer-
+
+run trend as estimated by a group of Fed economists whose work is widely cited on these 
+
+issues.2  Some other estimates suggest that there is still a shortfall in participation, and, of 
+
+course, estimates of the trend participation rate are surrounded by fairly wide bands of 
+
+uncertainty.  I am inclined to believe that there are potential workers at the margins of the 
+
+labor market who will return as the recovery continues, the labor market tightens further 
+
+and wages increase.  The U.S. participation rate for workers in the 25-54 age group is 
+
+now below those of most other advanced economies, including the U.K., France and 
+
+Germany, for example.   
+
+                                                   
+2 See Stephanie Aaronson, Tomaz Cajner, Bruce Fallick, Felix Galbis-Reig, Christopher Smith, and 
+William Wascher (2014), “Labor Force Participation:  Recent Developments and Future Prospects,” 
+Brookings Papers on Economic Activity, Fall, pp. 197-275. 
+www.brookings.edu/~/media/Projects/BPEA/Fall-2014/Fall2014BPEA_Aaronson_et_al.pdf?la=en. 
+
+
+ - 4 - 
+
+The number of part-time workers who want full time work remains above pre-
+
+crisis levels, which suggests that there may be some remaining slack there as well.  In 
+
+addition, we should expect to see stronger wage increases as the labor market tightens.  
+
+There are welcome signs of a firming in wages, seen most clearly in the data on average 
+
+hourly earnings, which are rising faster than the sum of inflation and productivity growth. 
+
+After several years of improving labor market conditions, recent data have been 
+
+sending mixed signals on the level of momentum in the economy.  Business investment 
+
+has weakened, even outside the energy sector.  Growth in gross domestic product (GDP) 
+
+is estimated to have slowed to a rate of only 1-1/4 percent on an annualized basis over the 
+
+fourth quarter of last year and the first quarter of this year.  Incoming data do point to a 
+
+rebound.  For example, the Atlanta Fed’s GDPNow model, which bases its projection on 
+
+a range of incoming monthly data, estimates growth of 2.6 percent in the second quarter.  
+
+In contrast, the labor market data, especially the monthly increase in payroll jobs, after 
+
+displaying considerable strength for several years right through the first quarter of 2016, 
+
+weakened significantly in April and May.  While I would not want to make too much of 
+
+two monthly observations, the strength of the labor market has been a key feature of the 
+
+recovery, allowing us to look through quarterly fluctuations in GDP growth.  So the 
+
+possible loss of momentum in job growth is worrisome.        
+
+Turning to the inflation part of the mandate, the Fed’s preferred measure of 
+
+inflation has consistently run below our 2 percent objective since the end of the financial 
+
+crisis, with the exception of the “Arab Spring” period in 2011, when oil prices 
+
+temporarily spiked.  For the 12 months ending in April, total inflation was only 1 percent, 
+
+while core inflation (excluding food and energy prices) was 1-1/2 percent.  Core inflation 
+
+
+ - 5 - 
+
+has been held down by falling import prices, owing in large part to the rise in the dollar, 
+
+as well as the indirect effects of lower oil prices.  If the dollar and oil prices remain 
+
+broadly stable going forward, inflation should move up over time to our 2 percent 
+
+objective.   
+
+When I was first exposed to macroeconomics in college, more than four decades 
+
+ago, the view was that inflation was strongly influenced by the amount of slack in the 
+
+economy.  But the relationship between slack and inflation has weakened substantially 
+
+over the years.  In addition, inflation depends importantly on the inflation expectations of 
+
+workers and firms.  A widely shared view among economists today is that, unlike during 
+
+the 1970s, expectations are no longer heavily influenced by fluctuations in inflation, but 
+
+are fairly constant, or anchored.  For both these reasons, inflation has become less 
+
+responsive to cyclical changes in the economy.  We measure inflation expectations 
+
+through surveys of forecasters and the general public, and also through market readings 
+
+on inflation swaps and “breakevens,” which represent inflation compensation as 
+
+measured by the difference between the return offered by nominal Treasury securities and 
+
+that offered by TIPS.  Since mid-2014, these market-based measures have declined 
+
+significantly to historically low levels.  Some of this decline probably represents lower 
+
+risk of high inflation, or an elevated liquidity preference for much more heavily traded 
+
+nominal Treasury securities, rather than expectations of lower inflation.  Some survey 
+
+measures of inflation expectations have also trended down.  Given the importance of 
+
+expectations for determining inflation, these developments deserve, and receive, careful 
+
+attention.  While inflation expectations seem to me to remain reasonably well anchored, it 
+
+
+ - 6 - 
+
+is essential that they remain so.  The only way to assure that anchoring is to achieve 
+
+actual inflation of 2 percent, and I am strongly committed to that objective.   
+
+Looking Ahead 
+
+My baseline expectation has been that our economy is likely to continue on its 
+
+path of growth at around 2 percent.  I have also expected the ongoing healing in labor 
+
+markets to continue, with healthy wage increases and job creation.  As the economy 
+
+tightens, I have expected that inflation will move up over time to the Committee’s 2 
+
+percent objective.   
+
+For some time, the principal risks to that outlook have been from abroad.  Global 
+
+economic and financial conditions are particularly important for the U.S. economy at the 
+
+moment.  Weakness in economic activity around the world and related bouts of financial 
+
+volatility have weighed on the performance of our economy.  Given the stronger 
+
+performance of the U.S. economy, the trade-weighted value of the dollar has risen 
+
+roughly 20 percent since 2014.  Such a large appreciation of the dollar means that we will 
+
+“export” some of our strength to our trading partners and “import” some of their 
+
+weakness.   
+
+Growth and inflation remain stubbornly low for most of our major trading 
+
+partners.  European and Japanese authorities have limited scope to respond, with daunting 
+
+longer-run fiscal challenges and policy rates already set below zero.  In China, stimulus 
+
+measures should support growth in the near term, but may also slow China’s necessary 
+
+transition away from its export- and investment-led business model.  Emerging market 
+
+nations such as Brazil, Russia and Venezuela face challenging conditions.   
+
+These global risks have now shifted even further to the downside, with last 
+
+week’s referendum on the United Kingdom’s status in the European Union.  The Brexit 
+
+vote has the potential to create new headwinds for economies around the world, including 
+
+
+ - 7 - 
+
+our own.  The risks to the global outlook were somewhat elevated even prior to the 
+
+referendum, and the vote has introduced new uncertainties.  We have said that the Federal 
+
+Reserve is carefully monitoring developments in global financial markets, in cooperation 
+
+with other central banks.  We are prepared to provide dollar liquidity through our existing 
+
+swap lines with central banks, as necessary, to address pressures in global funding 
+
+markets, which could have adverse implications for our economy.  Although financial 
+
+conditions have tightened since the vote, markets have been functioning in an orderly 
+
+manner.  And the U.S. financial sector is strong and resilient.  As our recent stress tests 
+
+show, our largest financial institutions continue to build their capital and strengthen their 
+
+balance sheets.   
+
+It is far too early to judge the effects of the Brexit vote.  As the global outlook 
+
+evolves, it will be important to assess the implications for the U.S. economy, and for the 
+
+stance of policy appropriate to foster continued progress toward our objectives of 
+
+maximum employment and price stability. 
+
+I am often asked why rates remain so low now that we are near full employment.  
+
+A big part of the answer is that, at least for the time being, the appropriate level of rates is 
+
+simply lower than it was before the crisis.  As a result, policy is not as stimulative as it 
+
+might appear to be.  Estimates of the real interest rate needed to keep the economy on an 
+
+even keel if it were operating at 2 percent inflation and full employment--the “neutral 
+
+rate” of interest--are currently around zero.  Today, the real short term interest rate is 
+
+about negative 1-1/4 percent, so policy is actually only moderately stimulative.  I 
+
+anticipate that the neutral rate will move up over time, as some of the headwinds that 
+
+have weighed on economic growth ease. 
+
+
+ - 8 - 
+
+Longer-term Considerations: Potential output, productivity, labor market fluidity, 
+
+and business dynamism 
+
+I would like to take a step back from the current context and explore an issue that 
+
+ought to receive more attention--the longer-run potential growth rate of our economy.  
+
+One reason for the low neutral rate of interest is that potential growth appears to have 
+
+slowed.  Since the crisis ended, forecasters have broadly reduced their estimates of longer 
+
+run growth by a full percentage point--from about 3 percent to about 2 percent.3 This 
+
+seemingly modest reduction implies dramatically smaller increases in living standards 
+
+over time.  A growing body of research shows that deep recessions accompanied by 
+
+severe financial crises often leave behind permanent damage.4  One recent analysis 
+
+suggests that in about one-third of such cases there is no permanent damage; one-third of 
+
+the time there is a permanent reduction in the level of potential output but not its 
+
+subsequent growth rate; and one third of the time there is a reduction in both the level of 
+
+potential output and in the growth rate.5  Unfortunately, many economies are currently in 
+
+danger of falling into the third category, including the U.S. economy. 
+
+Output growth can be broken down into increases in hours worked and changes in 
+
+output per hour, or productivity.  Most of the decline in estimated potential U.S. growth 
+
+appears to be from lower productivity.  Labor productivity growth began to slow around 
+
+2005--before the crisis--and been only 1/2 percent annually since 2011--the slowest five 
+
+                                                   
+3 The long-range consensus U.S. economic projections for real GDP growth reported by Blue Chip 
+Economic Indicators moved down from 2.9 percent in March 2007 to 2.1 percent in March 2016. 
+4 See Robert F. Martin, Teyanna Munyan, and Beth Anne Wilson (2014), “Potential Output and 
+Recessions:  Are We Fooling Ourselves?” IFDP Notes (Washington:  Board of Governors of the Federal 
+Reserve System, November 12), www.federalreserve.gov/econresdata/notes/ifdp-notes/2014/potential-
+output-and-recessions-are-we-fooling-ourselves-20141112.html. 
+5 See Olivier Blanchard, Eugenio Cerutti and Lawrence Summers (2015), “Inflation and Activity –Two 
+Explorations and Their Monetary Policy Implications,” IMF Working Paper WP/15/230, 2015 
+(Washington: International Monetary Fund).   
+
+
+ - 9 - 
+
+year period since World War II.  The productivity slowdown has been worldwide, and 
+
+has been seen in countries that were not as strongly affected by the crisis, so U.S. specific 
+
+factors are probably not the main cause.6   
+
+Increasing productivity is necessary if living standards are to continue to rise over 
+
+generations.  So two important questions arise:  Why has productivity growth been so 
+
+slow?  And what does the future look like? 
+
+We have tentative answers to the first question.  Labor productivity is a function 
+
+of three things.  The first two are the skills of the labor force, and the tools they have, 
+
+particularly equipment, software and the like.  These are inputs to production and are 
+
+driven by private and public investment.  The third determinant is called “total factor 
+
+productivity,” or TFP, which refers to the ability of firms to produce more efficiently 
+
+given the first two inputs.  For example, as businesses learned how to incorporate 
+
+advances in information technology into their production processes, there was a surge of 
+
+productivity growth from roughly 1995 to 2005.   
+
+The weak performance of productivity since the crisis appears to stem mainly 
+
+from weak business investment and low TFP growth.  Weak business investment has 
+
+resulted from weak demand and uncertainty about the pace of the recovery.  TFP is 
+
+equally important and has generally accounted for most of the variation in productivity 
+
+over time, but is less well understood and so more difficult to forecast.   
+
+The second question--what will happen with productivity going forward--is the 
+
+subject of intense debate.  The range of forecasts is wide, and the historical record 
+
+                                                   
+6 See, for example, “New OECD indicators trace productivity growth slowdown pre- and post-crisis,” 
+http://www.oecd.org/economy/newoecdindicatorstraceproductivitygrowthslowdownpre-andpost-crisis.htm  
+ 
+
+
+ - 10 - 
+
+provides ample ground for humility.  This summer, many will be carrying Robert 
+
+Gordon’s massive The Rise and Fall of American Growth to the beach (or perhaps to the 
+
+lake, here in the Midwest), which argues the pessimistic view. 7  For balance, maybe 
+
+bring along Brynjolfsson and McAfee’s The Second Machine Age, which take a more 
+
+optimistic view and is a great deal shorter.8 
+
+One factor that may contribute to low productivity growth is the notable decline 
+
+in recent decades in measures of the dynamism of our economy.  Entrepreneurs start new 
+
+firms; most of them fail, but a few of them succeed, grow very rapidly, and account for 
+
+significant amounts of job formation.  Older firms shrink or go out of business if they fail 
+
+to keep up with innovation and advances in productivity.  Workers change jobs and move 
+
+around the country (or the world) as their careers evolve and as companies grow and 
+
+shrink.  These processes can be painful and messy for both workers and firms, but they 
+
+are essential to the allocation of resources to their highest, most productive uses.  The 
+
+high levels of innovation and fluidity of our economy have long been thought to be 
+
+among the principal reasons for our high and rising living standards.   
+
+The slowdown in essentially all of these processes is seen in declining rates of 
+
+creation and destruction of both firms and jobs. 
+
+Start-ups:  Start-ups are a key driver of productivity growth.  Although it may feel 
+
+that we are living in an age of disruption, the birthrate of startups has actually been in 
+
+decline since the 1970s.9  New firms can be loosely grouped into two categories:  those 
+
+                                                   
+7 See Robert J. Gordon (2016), The Rise and Fall of American Growth:  The U.S. Standard of Living since 
+the Civil War (Princeton, N.J.:  Princeton University Press). 
+8 See Erik Brynjolfsson and Andrew McAfee (2014), The Second Machine Age:  Work, Progress, and 
+Prosperity in a Time of Brilliant Technologies (New York:  W.W. Norton). 
+9 See Ryan A. Decker, John Haltiwanger, Ron S. Jarmin and Javier Miranda (2016), “Declining Business 
+Dynamism:  What We Know and the Way Forward,” Amercian Economic Review, vol. 106 (May), pp 203-
+07; Ryan Decker, John C. Haltiwanger, Ron Jarmin, and Javier Miranda (forthcoming), “Where Has all the 
+
+
+ - 11 - 
+
+started by “lifestyle entrepreneurs” who want to be their own boss, but who have little 
+
+prospect or desire for high growth; and those founded by transformational entrepreneurs 
+
+who start businesses that aspire to grow dramatically and change their industry.  Before 
+
+2000, the decline in new firm entry was mainly in the first sort; since 2000, it is also 
+
+found among the so-called transformational firms.  While the drop in the formation of 
+
+lifestyle-type firms could be neutral or even a positive for productivity, as in the case of 
+
+the U.S. retail sector, the reduction in the creation of high-performance new firms 
+
+suggests that lower dynamism could be associated with slower productivity growth.10 
+
+Labor Market Dynamism:  While changing jobs can be painful, job changes in the 
+
+aggregate are associated with higher compensation, implying higher productivity.  But 
+
+the rewards to job change may have declined.  Fewer start-ups has meant lower “job 
+
+flows,” as measured by job creation and destruction, and fewer opportunities for workers 
+
+to find better jobs.  And labor market dynamism across many dimensions has declined by 
+
+more than can be explained by the reduction in startups.  Workers have become less 
+
+likely to leave their jobs, change jobs, or move geographically to take new jobs.11   
+
+                                                   
+Skewness Gone? The Decline of High-Growth (Young) Firms in the U.S.” European Economic Review; 
+and Jorge Guzman and Scott Stern (2016), “The State of American Entrepreneurship: New Estimates of the 
+Quantity and Quality of Entrepreneurship for 15 US States, 1988-2014,” NBER Working Paper Series 
+22095 (Cambridge, Mass: National Bureau of Economic Research, March). 
+ 
+10 See Lucia Foster, John Haltiwaner and C. J. Krizan (2001) “Aggregate Productivity Growth: Lessons 
+from Microeconomic Evidence” in New Developments in Productivity Analysis, Charles Hulten, Ediwn 
+Dean and Michael Harper, eds. (Cambridge, Mass: National Bureau of Economic Research, March). 
+11 See Steven Davis and John Haltiwanger (2014) “Labor Market Fluidity and Economic Performance,” 
+NBER Working Paper Series 20479, (Cambridge, Mass: National Bureau of Economic Research, 
+September); Raven Malloy, Christopher Smith, Riccardo Trezzi and Abigail Wozniak (2016), 
+“Understanding Declining Fluidity in the Labor Market,” Brookings Papers on Economic Activity,  
+March 3, www.brookings.edu/about/projects/bpea/papers/2016/molloy-et-al-declining-fluidity; and Henry 
+Hyatt and James Spletzer (2013) “The Recent Decline in Employment Dynamics,” IZA Journal of Labor 
+Economics,  http://izajole.springeropen.com/articles/10.1186/2193-8997-2-5. 
+
+
+ - 12 - 
+
+ Dynamism is a relatively new field of inquiry, and there is no consensus yet on 
+
+the reasons for, or implications of, these developments.  Some plausible sources of these 
+
+changes are benign, while others are more negative and suggest that the reduction in 
+
+dynamism may be a factor behind the slower increases in productivity.  For example, 
+
+historically there has been a robust correlation at the firm level between productivity and 
+
+growth, with high productivity levels being correlated with faster growth and low 
+
+productivity levels being associated with contraction or exit.  This relationship has 
+
+weakened since 2000, particularly in the high-tech sector.12  High productivity firms are 
+
+not growing as quickly, and low productivity firms are shrinking or exiting at a slower 
+
+pace.  
+
+ It may be that some government policies, while well intended, have contributed to 
+
+these trends.  One example that may explain a small portion of the reduction in dynamism 
+
+is the substantial increase in occupational licensing.13  By some estimates, the fraction of 
+
+workers who are required to hold a government issued license or certification to perform 
+
+their jobs has risen from 5 percent in the 1950s to close to 40 percent.14  Like many 
+
+policies, licensing has benefits and costs.  Among the costs are that it tends to reduce job 
+
+switching and employment opportunities for excluded workers, and may restrict 
+
+competition and thus increase prices faced by consumers.  Among the benefits may be 
+
+higher quality products and services and improved health and safety standards.  Some 
+
+researchers have advanced the view that licensing requirements have become overly 
+
+                                                   
+12 See Decker and others, “Declining Business Dynamism,” in note 5. 
+13 Licensing restrictions increase the costs of switching occupations and potentially reduces interstate 
+mobility. The evidence linking licensing to labor market fluidity is inconclusive, with some researchers 
+finding a linkage and others not. 
+14 Davis and Haltiwanger (2014). 
+
+
+ - 13 - 
+
+burdensome and may have contributed to the secular decline in job and worker 
+
+reallocation.15     
+
+ Dynamism is a fast-developing field of research, and it will be important that 
+
+public policy react appropriately as this work continues.  It goes without saying that 
+
+economic policymakers should use all available information and tools to create a 
+
+supportive environment for growth.  We need policies that support labor force 
+
+participation and the development of skills, business hiring and investment, and 
+
+productivity growth.  For the most part, these policies are outside the remit of the Federal 
+
+Reserve, but monetary policy can contribute by supporting a strong and durable 
+
+expansion, in a context of price stability.  
+
+Conclusion 
+
+How should we think about the performance of our economy since the Crisis?  
+
+The picture is mixed, and that question will no doubt be debated in the decades ahead.  
+
+But here are some facts.  Since 2011, job growth has been stronger and unemployment 
+
+has declined faster than most forecasts.  On the other hand, economic growth has been 
+
+consistently lower than almost all private- and public-sector forecasts, including those of 
+
+FOMC participants.  Growth has been slower in this recovery than in many previous 
+
+recoveries; a growing body of research shows that weak recoveries are the norm after 
+
+deep recessions and those associated with severe financial crises.  Finally, our recovery 
+
+has also been stronger than those of many other advanced economies following this 
+
+crisis.   
+
+                                                   
+15 See, for example, The Department of the Treasury Office of Economic Policy, the Council of Economic 
+Advisers, and the Department of Labor (2015), “Occupational Licensing: A Framework for Policymakers,” 
+(Washington:  The White House, July), 
+https://www.whitehouse.gov/sites/default/files/docs/licensing_report_final_nonembargo.pdf. 
+
+
+ - 14 - 
+
+I expect our economy to continue to make progress.  Monetary policy will need to 
+
+remain supportive of growth, as we work through the challenging global environment.  
+
+As always, it will be important to carefully monitor economic developments in order to 
+
+assess the stance of policy appropriate to foster continued progress toward our objectives 
+
+of maximum employment and price stability. 
+
+
+

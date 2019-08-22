@@ -1,0 +1,476 @@
+
+
+For release on delivery 
+1:00 p.m. EST 
+January 19, 2018 
+ 
+
+
+Early Observations on Improving the Effectiveness of Post-Crisis Regulation 
+ 
+ 
+ 
+
+Remarks by 
+ 
+
+Randal K. Quarles 
+ 
+
+Vice Chairman for Supervision 
+ 
+
+Board of Governors of the Federal Reserve System 
+ 
+
+at the 
+ 
+
+American Bar Association Banking Law Committee Annual Meeting 
+ 
+ 
+
+The Ritz-Carlton  
+ 
+
+Washington, D.C. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+January 19, 2018 
+ 
+
+
+It is a pleasure to be here with you at the American Bar Association banking law 
+
+committee annual meeting.1  Thank you to Meg Tahyar, my longtime friend and colleague, for 
+
+inviting me to speak today.  These are still the early days of my tenure at the Federal 
+
+Reserve--last weekend marked my first three months as the first Vice Chairman for 
+
+Supervision.  In those three months, people have had a lot of questions for me, but the most 
+
+frequently asked question has been:  What’s next?  Today I hope to give you some insights into 
+
+how I am approaching the work of evaluating and improving the post-crisis regulatory regime 
+
+and to outline some specific areas that are emerging as areas of focus early in my tenure.  Some 
+
+of those areas are closer to being ready for action, while others are topics that I believe are 
+
+important and would benefit from more attention and discussion.  My hope is that you will come 
+
+away from our time together with a better sense of my preliminary thinking for charting a course 
+
+forward on financial regulation.  
+
+Efficiency, Transparency, and Simplicity of Regulation 
+
+Before I delve into specifics, let me say a few words about the principles that are guiding 
+
+my approach to evaluating changes to the current regime.  The body of post-crisis financial 
+
+regulation is broad in scope, complicated in detail, and extraordinarily ambitious in its 
+
+objectives.  Core aspects of that project have resulted in critical gains to our financial system: 
+
+higher and better quality capital, an innovative stress testing regime, new liquidity regulation, 
+
+and improvements in the resolvability of large firms.  We undoubtedly have a stronger and more 
+
+resilient financial system due in significant part to the gains from those core reforms.  These 
+
+achievements are consistent with the responsibility of the Federal Reserve to be a steward of a 
+
+                                                            
+1 The views I express here are my own and not necessarily those of the Board of Governors of the Federal Reserve 
+System. 
+
+
+- 2 - 
+ 
+
+safe financial system, and with the goal of maintaining the ability of banks to lend through the 
+
+business cycle.  
+
+ That said, the Federal Reserve and our colleagues at other agencies have now spent the 
+
+better part of the past decade building out and standing up the post-crisis regulatory regime.  At 
+
+this point, we have completed the bulk of the work of post-crisis regulation, with an important 
+
+exception being the U.S. implementation of the recently concluded Basel III “end game” 
+
+agreement on bank capital standards at the Basel Committee.  As such, now is an eminently 
+
+natural and expected time to step back and assess those efforts.  It is our responsibility to ensure 
+
+that they are working as intended and--given the breadth and complexity of this new body of 
+
+regulation--it is inevitable that we will be able to improve them, especially with the benefit of 
+
+experience and hindsight. 
+
+In undertaking this review and assessment, in addition to ensuring that we are satisfied 
+
+with the effectiveness of these regulations, I believe that we have an opportunity to improve the 
+
+efficiency, transparency, and simplicity of regulation.  By efficiency I mean the degree to which 
+
+the net cost of regulation--whether in reduced economic growth or in increased frictions in the 
+
+financial system--is outweighed by the benefits of the regulation.  In other words, if we have a 
+
+choice between two methods of equal effectiveness in achieving a goal, we should strive to 
+
+choose the one that is less burdensome for both the system and regulators.   
+
+Efficiency of regulation can be improved through a variety of means.  For example, it can 
+
+mean achieving a given regulation’s objective using fewer tools.  It can mean addressing 
+
+unintended adverse consequences to the industry and the broader public from a regulation or 
+
+eliminating perverse incentives created by a regulation.  It can mean calibrating a given 
+
+regulation more precisely to the risks in need of mitigation.  It can also mean simpler 
+
+
+- 3 - 
+ 
+
+examination procedures for bank supervisors, or less intrusive examinations for well managed 
+
+firms.  In our approach to assessing post-crisis regulation, we should consider all of these ways 
+
+of improving efficiency.  
+
+Transparency is an objective that ought to particularly resonate with this audience.  As 
+
+lawyers, we were all trained to view transparency as a necessary precondition to the core 
+
+democratic ideal of government accountability--the governed have a right to know the rules 
+
+imposed on them by the government.  In addition, as any good lawyer also recognizes, there are 
+
+valuable, practical benefits to transparency around rulemaking; even good ideas can improve as a 
+
+result of exposure to a variety of perspectives.  
+
+Finally, simplicity of regulation is a principle that promotes public understanding of 
+
+regulation, promotes meaningful compliance by the industry with regulation, and reduces 
+
+unexpected negative synergies among regulations.  Confusion that results from overly complex 
+
+regulation does not advance the goal of a safe system.   
+
+Common Ground Areas of Improvement    
+
+When I arrived at the Federal Reserve, the early stages of reflection on how to improve 
+
+the cost-benefit balance of post-crisis regulation had already begun, mainly in a few narrow areas 
+
+of focus.  These were areas of low-hanging fruit in which relatively broad consensus was reached 
+
+that efficiency enhancements were available with no material cost to the resiliency or 
+
+resolvability of the banking system.  My colleague and Chairman-nominee Jay Powell spoke 
+
+about five of these areas last summer when he served as the Board’s oversight governor for 
+
+supervision and regulation: small bank capital simplification, burden reduction in resolution 
+
+planning, enhancements to stress testing, leverage ratio recalibration, and Volcker rule 
+
+
+- 4 - 
+ 
+
+simplification.2  I wholeheartedly support these initiatives, and I am pleased that some of them 
+
+have progressed even in the months since the summer.  
+
+The banking agencies recently proposed changes to the capital rules for smaller firms, 
+
+consistent with last year’s Economic Growth and Regulatory Paperwork Reduction Act report, 
+
+which is a positive step toward meaningful burden relief for smaller banks.3  The Federal 
+
+Reserve, along with the Federal Deposit Insurance Corporation, extended the upcoming 
+
+resolution planning cycles for the eight most systemic domestic banking firms and for foreign 
+
+banks with limited U.S. operations in order to allow for more time between submissions.4  I 
+
+believe we should continue to improve the resolution planning process in light of the substantial 
+
+progress made by firms over the past few years, including a permanent extension of submission 
+
+cycles from annual to once every two years and reduced burden for banking firms with less 
+
+significant systemic footprints.  And, most recently, the Federal Reserve released a package of 
+
+proposed enhancements to the transparency of our stress testing program, which is currently out 
+
+for comment.5  The progress you have seen in those areas represents constructive early steps. 
+
+ Leverage ratio recalibration also is among the Federal Reserve’s highest-priority, near-
+
+term initiatives.  We have made considerable progress on that front in the past few months, and I 
+
+expect that you will see a proposal on this topic relatively soon.  Finally, the relevant agencies 
+
+have begun work on a proposal to streamline the Volcker rule.  This project is a quite 
+
+                                                            
+2 Jerome H. Powell, “Relationship Between Regulation and Economic Growth,” (testimony before the Committee 
+on Banking, Housing, and Urban Affairs, U.S. Senate, June 22, 2017) 
+https://www.federalreserve.gov/newsevents/testimony/powell20170622a.htm. 
+3 See Board of Governors of the Federal Reserve System, “Agencies propose simplifying regulatory capital rules,” 
+news release, September 27, 2017, https://www.federalreserve.gov/newsevents/pressreleases/bcreg20170927a.htm. 
+4 See Board of Governors of the Federal Reserve System, “Agencies extend next resolution plan filing deadline for 
+certain domestic and foreign banks,” news release, September 28, 2017,  
+https://www.federalreserve.gov/newsevents/pressreleases/bcreg20170928a.htm. 
+5 See Board of Governors of the Federal Reserve System, “Federal Reserve Board requests comment on package of 
+proposals that would increase the transparency of its stress testing program,” news release, December 7, 2017,  
+https://www.federalreserve.gov/newsevents/pressreleases/bcreg20171207a.htm. 
+
+
+- 5 - 
+ 
+
+comprehensive and substantial undertaking as well as a five-agency endeavor.  As such, it will 
+
+naturally take a bit of work for the agencies to congeal around a thoughtful Volcker rule 2.0 
+
+proposal for public review.  Volcker rule reform remains a priority in the Federal Reserve’s 
+
+regulatory efforts.  
+
+Emerging Areas for Review 
+
+With that update on the familiar, I will turn to my own impressions of what is next for 
+
+post-crisis regulation.  In my early days as the Vice Chairman for Supervision, I asked our staff 
+
+to conduct a comprehensive review of the regulations in the core areas of reform that I outlined 
+
+earlier--capital, stress testing, liquidity, and resolution.  The objective is to consider the effect of 
+
+those regulatory frameworks on resiliency and resolvability of the financial system, on credit 
+
+availability and economic growth, and more broadly to evaluate their costs and benefits.  This is 
+
+a comprehensive and serious process, and work is still underway.  I should note, however, that I 
+
+have already formed views on a few areas that warrant more focus, and that I will be working 
+
+with my colleagues on the Board to constructively consider.   
+
+I will start with the issue of tailoring supervision and regulation to the size, systemic 
+
+footprint, risk profile, and business model of banking firms.  The Federal Reserve has devoted 
+
+considerable energy in its post-crisis regulatory work to incorporate the tailoring concept in its 
+
+regulation and supervision across the spectrum of small, medium, and large firms.  A recent 
+
+example of this approach is our late 2017 proposal to simplify capital requirements for small- 
+
+and medium-sized banking firms.  In my view, there is further work for the Federal Reserve and 
+
+the other banking agencies to do on the tailoring front.   
+
+I would emphasize that tailoring is not an objective limited in scope to a subset of the 
+
+smallest firms.  As my colleagues and I have said before, the character of our regulation should 
+
+
+- 6 - 
+ 
+
+match the character of the risk at the institution.  Accordingly, we should also be looking at 
+
+additional opportunities for more tailoring for larger, non-Global Systemically Important Banks, 
+
+or non-G-SIBs. In this regard, I support congressional efforts regarding tailoring, whether by 
+
+raising the current $50 billion statutory threshold for application of enhanced prudential 
+
+standards or by articulating a so-called factors-based threshold.  Irrespective of where the 
+
+legislative efforts land, I believe we at the Federal Reserve have the responsibility to ensure that 
+
+we do further tailoring for the institutions that remain subject to our rules to ensure that 
+
+regulation matches the risk of the firm.  
+
+Take for example large non-G-SIBs whose failure would not individually pose a risk to 
+
+U.S. financial stability.  Even without financial stability implications, the distress or failure of 
+
+these firms still could harm the U.S. economy by, for example, significantly disrupting the flow 
+
+of credit to households and businesses.  In my view, this tranche of the U.S. banking system 
+
+ought to be subject to regulations that are generally stricter than those that apply to small banking 
+
+firms, but that are also meaningfully less strict than those that apply to the G-SIBs.  The Board 
+
+has effected this sort of G-SIB versus non-G-SIB tailoring among large banks in many areas of 
+
+the regulatory framework.  Most notably, each of the risk-based capital requirements, leverage 
+
+requirements, stress testing requirements, and total loss-absorbing capacity (TLAC) requirements 
+
+is calibrated substantially more strictly for G-SIBs than for large non-G-SIBs.  However, in some 
+
+key regulations, there is no distinction between the requirements for large non-G-SIBs and G-
+
+SIBs.  
+
+Liquidity regulation, for example, does not have a G-SIB versus non-G-SIB gradation.  In 
+
+particular, the full liquidity coverage ratio (LCR) requirement and internal stress testing 
+
+requirements of enhanced prudential standards apply to large, non-G-SIB banks in the same way 
+
+
+- 7 - 
+ 
+
+that they apply to G-SIB banks.  I believe it is time to take concrete steps toward calibrating 
+
+liquidity requirements differently for large, non-G-SIBs than for G-SIBs.  And I see prospects for 
+
+further liquidity tailoring in that the content and frequency of LCR reporting are the same for the 
+
+range of firms currently subject to the modified LCR as they are for the large non-G-SIBs that 
+
+are subject to the full LCR.  We should also explore opportunities to apply additional tailoring 
+
+for these firms in other areas, such as single counterparty credit limits and resolution planning 
+
+requirements. 
+
+Another area that I think we should revisit are the “advanced approaches” thresholds that 
+
+identify internationally active banks.  These thresholds are significant not only for identifying 
+
+which banking firms are subject to the advanced approaches risk-based capital requirements, but 
+
+also for identifying which firms are subject to various other Basel Committee standards, such as 
+
+the supplementary leverage ratio, the countercyclical capital buffer, and the LCR.  The metrics 
+
+used to identify internationally active firms--$250 billion in total assets or $10 billion in on-
+
+balance-sheet foreign exposures--were formulated well over a decade ago, were the result of a 
+
+defensible but not ineluctable analysis, and have not been refined since then.  We should explore 
+
+ways to bring these criteria into better alignment with our objectives.  
+
+A third area in which I will be working with my Board colleagues is a meaningful 
+
+simplification of our framework of loss absorbency requirements.  There are different ways to 
+
+count the number of loss absorbency constraints that our large banking firms face--which is 
+
+perhaps in itself an indication of a surfeit of complexity if we can’t be perfectly sure of how to 
+
+count them--but the number I come up with is 24 total requirements in the framework.  While I 
+
+do not know precisely the socially optimal number of loss absorbency requirements for large 
+
+banking firms, I am reasonably certain that 24 is too many.  Candidates for simplification 
+
+
+- 8 - 
+ 
+
+include: elimination of the advanced approaches risk-based capital requirements; one or more 
+
+ratios in stress testing; and some simplification of our TLAC rule.  I am not the first Federal 
+
+Reserve governor to mention some of these possibilities, and we should put them back on the 
+
+table in the context of a more holistic discussion of streamlining these requirements.  Let me be 
+
+clear, however, that while I am advocating a simplification of large bank loss absorbency 
+
+requirements, I am not advocating an enervation of the regulatory capital regime applicable to 
+
+large banking firms.  
+
+Although not a post-crisis regulation, the Board’s complex and occasionally opaque 
+
+framework for making determinations of control under the Bank Holding Company Act (BHC 
+
+Act) is another area that is ripe for re-examination through the lenses of efficiency, transparency, 
+
+and simplicity.  As you know, a determination of control under the BHC Act is significant 
+
+because even remote entities in a controlled group can be subject to the BHC Act’s restrictions 
+
+on activities and a host of other regulatory requirements.  Under the Board’s control framework--
+
+built up piecemeal over many decades--the practical determinants of when one company is 
+
+deemed to control another are now quite a bit more ornate than the basic standards set forth in 
+
+the statute and in some cases cannot be discovered except through supplication to someone who 
+
+has spent a long apprenticeship in the art of Fed interpretation.  The process can be burdensome 
+
+and time-consuming both for the requester and Federal Reserve staff.  We are taking a serious 
+
+look at rationalizing and recalibrating this framework.   
+
+Finally, as I mentioned earlier, an enhanced stress testing transparency package was 
+
+released for public comment last month.  I personally believe that our stress testing disclosures 
+
+can go further.  I appreciate the risks to the financial system of the industry converging on the 
+
+Federal Reserve’s stress testing model too completely, so I am hesitant to support complete 
+
+
+- 9 - 
+ 
+
+disclosure of our models for that reason.  However, I believe that the disclosure we have 
+
+provided does not go far enough to provide visibility into the supervisory models that often 
+
+deliver a firm’s binding capital constraint.  It is important in any proposal to receive comments, 
+
+and I can say that I and my colleagues on the Board will be paying particularly close attention to 
+
+your comments on how we might improve this current proposal. 
+
+Concluding Remarks 
+
+ To conclude, I hope that these remarks give you a sense of our approach to analyzing and 
+
+improving post-crisis regulation.  As I mentioned earlier, the areas of core reform--capital, 
+
+liquidity, stress testing, and resolution--have produced a stronger and more resilient system and 
+
+should be preserved.  We have made great progress, but there is further work to do.  Some clear 
+
+improvements are in the offing in the relatively near future.  Other areas will benefit from longer 
+
+term discussion.  I look forward to engaging with you and the public more broadly as I help to 
+
+chart a course for the important work ahead. 
+

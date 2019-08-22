@@ -1,0 +1,956 @@
+
+For release on delivery 
+12:45 p.m. EDT 
+June 9, 2014 
+ 
+
+
+Corporate Governance and Prudential Regulation 
+
+
+Remarks by 
+ 
+
+Daniel K. Tarullo 
+ 
+
+Member 
+ 
+
+Board of Governors of the Federal Reserve System 
+ 
+
+at 
+ 
+
+Association of American Law Schools  
+Midyear Meeting 
+
+ 
+Washington, D.C. 
+
+
+June 9, 2014 
+ 
+
+
+
+2 
+ 
+
+It is a pleasure to be back among law professors here at the Association of American Law 
+
+Schools (AALS) Midyear Meeting.  Let me begin by applauding the organizers for encouraging 
+
+collaboration between corporate and financial law scholars.  Indeed, it is striking how much of 
+
+the insightful legal scholarship that followed the financial crisis has come from corporate law 
+
+scholars.  On reflection, this outcome is not really surprising.  After all, much corporate law 
+
+scholarship revolves around incentive structures, agency costs, and asymmetric information 
+
+flows--all matters of great relevance to financial regulation.  Furthermore, legislatures and courts 
+
+have a long history of debating, and sometimes adopting, special corporate law and governance 
+
+rules for financial institutions.   
+
+ In my remarks this afternoon I will try to further the collaboration between corporate and 
+
+financial law scholarship by suggesting how the nature of finance and financial regulation affects 
+
+corporate governance and why, in turn, special corporate governance measures are needed as 
+
+part of an effective prudential regulatory system.  In making the latter argument, I will review 
+
+some of the measures, both longstanding and more recent, that illustrate the point and then 
+
+suggest some additional steps that might complement existing prudential regulations.  Finally, I 
+
+will offer some more tentative thoughts on the possible implication of this analysis for corporate 
+
+law fiduciary duties.  A theme running through these remarks will be the centrality of risk--its 
+
+assessment, assumption, and allocation--in understanding the relationship between corporate 
+
+governance and financial regulation. 
+
+Financial Firms and Corporate Governance 
+
+ There are at least three significant ways in which the nature of financial activities and 
+
+regulation affect the operation of key mechanisms of corporate governance.1  
+
+                                                 
+1 For a basic description of corporate governance mechanisms, see Mark J. Roe (2004), “The Institutions of 
+Corporate Governance,” in Claude Menard and Mary M. Shirley, eds., Handbook for New Institutional Economics 
+
+
+
+3 
+ 
+
+First, it has long been recognized that the unique features of deposit-taking financial 
+
+institutions raise the question whether generally applicable corporate law and governance 
+
+principles are adequate.  Because banks are financial intermediaries that use deposits to provide 
+
+much, if not most, of the funding for their lending, an insolvent bank may well be unable to 
+
+satisfy all its deposit liabilities.  The fear of this possibility lies at the heart of banking runs and 
+
+panics.  In the days before federal deposit insurance, the impracticality of contractual solutions to 
+
+reduce the vulnerability of depositors led to a variant of normally applicable limited liability 
+
+rules.  Many states enacted so-called double liability rules, whereby shareholders could be liable 
+
+for the losses of a failed bank in an amount equal, and in addition, to their investment in the 
+
+bank.  Presumably, these rules were intended to change the calculus of shareholders as to the 
+
+risks they wished their banks to assume and, perhaps, the degree to which they monitored 
+
+management. 
+
+Following the creation of federal deposit insurance, a series of constraints on normal 
+
+corporate prerogatives has been applied to insured institutions, justified in large part by the need 
+
+to counteract the resulting moral hazard and to protect the federal deposit insurance fund (DIF).  
+
+Bank charters have always differed from general corporate charters insofar as they grant special 
+
+privileges and forbid certain activities by the chartered institutions.  In addition, special 
+
+prudential requirements have always applied to chartered banks.  Perhaps the most important of 
+
+                                                                                                                                                             
+(The Netherlands: Springer).  Useful reviews of corporate governance in financial institutions, reflecting lessons 
+learned from the financial crisis, include Hamid Mehran and Lindsay Mollineaux (2012), “Corporate Governance of 
+Financial Institutions,” Federal Reserve Bank of New York Staff Report No. 539 (New York: Federal Reserve Bank 
+of New York, February), available at www.newyorkfed.org/research/staff_reports/sr539.pdf; Hamid Mehran, Alan 
+Morrison, and Joel Shapiro (2011), “Corporate Governance and Banks: What Have We Learned from the Financial 
+Crisis?” Federal Reserve Bank of New York Staff Report No. 502 (New York: Federal Reserve Bank of New York, 
+June), available at www.newyorkfed.org/research/staff_reports/sr502.pdf; Moonrad Choudhry (2010), “Effective 
+Bank Corporate Governance: Observations from the Market Crash and Recommendations for Policy,” Journal of 
+Applied Finance & Banking, vol. 1 (1), pp. 179-211. 
+
+
+
+4 
+ 
+
+these today is the imposition of minimum capital requirements on all insured depository 
+
+institutions and bank holding companies. 
+
+ Second, there is a variety of ways in which the attributes of financial markets and 
+
+financial regulation affect the capital market discipline assumed in much corporate governance 
+
+theory and corporate law.  The prior point about the moral hazard associated with insured 
+
+deposits implies that--at least in traditional, deposit-reliant banks--the kind of market discipline 
+
+associated with the price of funding and creditor monitoring will be attenuated.  More generally, 
+
+to the degree uninsured depositors or other bank creditors expect that they will be protected by 
+
+the government in the event the bank encounters serious difficulties, those same features of 
+
+market discipline will again be weakened.  This, of course, is the problem of moral hazard 
+
+associated with too-big-to-fail perceptions, whereby investors or counterparties are willing to 
+
+extend credit at prices that do not fully reflect the risk associated with the bank.2 
+
+ The market discipline traditionally associated with the market for corporate control is 
+
+also affected by banking regulation and supervision.  Mergers and acquisitions involving 
+
+banking organizations are subject to review, and possible disapproval, on a broad range of 
+
+grounds beyond the antitrust considerations relevant in all industries.  These include an 
+
+assessment of the adequacy of the financial resources of the firms, the “competence, experience, 
+
+and integrity” of the officers and directors, and the impact of the acquisition on systemic risk.3  
+
+Moreover, of course, any firm that acquires a commercial bank must be a bank holding company, 
+
+thereby subject to a range of activity restrictions and other regulatory requirements.  There are 
+
+                                                 
+2 For an argument that shareholders who might otherwise press for breakups of financial conglomerates are 
+disincentivized from doing so for too-big-to-fail institutions, see Mark J. Roe (2014), “Structural Corporate 
+Degradation Due to Too-Big-to-Fail Finance,” University of Pennsylvania Law Review, vol. 162, pp. 1419-64 
+(forthcoming). 
+3 Bank Holding Company Act of 1956 §3, 12 U.S.C. §1842(c).  The Bank Merger Act requires consideration of a 
+roughly comparable set of factors.  Acquisitions are also subject to special scrutiny where an acquiring firm has less-
+than-satisfactory supervisory ratings. 
+
+
+
+5 
+ 
+
+very good prudential reasons for these constraints upon acquisitions of, and by, banking 
+
+organizations.  But, by screening out transactions that would result in unacceptable increases in 
+
+risk, either to an institution or to the financial system as a whole, these provisions may in some 
+
+cases unintentionally limit the salutary disciplining effect on boards and management of the 
+
+market for corporate control. 
+
+ The third way in which the nature of financial activities and regulation affect the 
+
+operation of key mechanisms of corporate governance is that the risks associated with financial 
+
+intermediaries--especially those that are significantly leveraged and that engage in substantial 
+
+maturity transformation--pose a particular challenge for corporate governance.  All firms bear 
+
+the risk that problems may unexpectedly arise because of, say, product flaws that were unknown 
+
+to boards of directors and perhaps even senior management.  But in the case of financial 
+
+intermediaries, these problems can be incredibly fast-moving, including runs on funding that can 
+
+quickly place the very survival of the firm in doubt.  These risks have increased during the past 
+
+25 years, as many institutions have combined traditional lending activities with capital markets 
+
+businesses that rely on other funding models.  Accordingly, judgments about risk appetite and 
+
+control systems to manage risk must be effectively executed by senior management and overseen 
+
+by the board.  This imperative, in turn, means that the information and monitoring processes and 
+
+systems established for, or available to, boards of financial institutions may need to be more 
+
+extensive than those in large, nonfinancial firms.   
+
+Financial Regulation and Corporate Governance 
+
+ In the wake of the financial crisis, the public interest in regulation of banks and other 
+
+financial firms is, I think it fair to say, both self-evident and substantial.  A full discussion of the 
+
+
+
+6 
+ 
+
+rationales for various forms of regulation is beyond the scope of my remarks today.4  But let me 
+
+briefly note that prudential regulation has two distinct motivations--microprudential and 
+
+macroprudential.   
+
+Microprudential regulation is concerned largely with the safety and soundness of a 
+
+financial institution considered individually.  It seeks to protect the DIF by combatting what 
+
+would otherwise be moral hazard and subsidized funding through capital requirements, activities 
+
+restrictions, and other measures.  Because microprudential regulations were designed primarily 
+
+to minimize losses to the DIF, they have traditionally focused on insured depository institutions 
+
+(IDIs); the regulation of owners and affiliates of IDIs is essentially about ensuring that the 
+
+activities and risks of those other entities do not threaten the IDIs themselves.  Up until the last 
+
+several years, microprudential regulation would have come close to covering the entire field of 
+
+prudential regulation. 
+
+ The financial crisis highlighted the need to supplement traditional microprudential 
+
+regulation with a macroprudential approach oriented toward the well-being of the financial 
+
+system as a whole.  Here there are two related objectives, both of which seek to avoid costs that 
+
+failure or severe stress would impose on the economy beyond those suffered by shareholders of a 
+
+financial firm.  One is protecting against systemic risk--for example, the risk that certain 
+
+activities or the failure of a firm would result in very large negative externalities, either through a 
+
+classic domino effect or through contagion effects producing a financial crisis.  Losses in a tail 
+
+event are likely to be correlated for large firms deeply engaged in trading and relying on short-
+                                                 
+4 For more complete discussions of the reasons for prudential regulation, see Daniel K. Tarullo (2014), “Rethinking 
+the Aims of Prudential Regulation,” speech delivered at Bank Structure Conference, Federal Reserve Bank of 
+Chicago, May 8, available at www.federalreserve.gov/newsevents/speech/tarullo20140508a.htm; Daniel K. Tarullo 
+(2014), “A Macroprudential Perspective on Regulating Large Financial Institutions,” in Banque de France, 
+Financial Stability Review, no. 18, available at www.banque-
+france.fr/fileadmin/user_upload/banque_de_france/publications/FSR18_Tarullo.pdf. Consumer and investor 
+protection, anti-money-laundering efforts, and other nonprudential aims provide additional bases for regulation of 
+financial institutions. 
+
+
+
+7 
+ 
+
+term wholesale funding.  This objective, long neglected in financial regulation, is prominently 
+
+featured in post-crisis statutory, regulatory, and supervisory reforms.  The Dodd-Frank Wall 
+
+Street Reform and Consumer Protection Act (Dodd-Frank Act) explicitly establishes financial 
+
+stability and the containment of systemic risk as the aim of dozens of new regulatory provisions.5  
+
+Thus, for example, any firm whose failure could pose systemic risk is subject to prudential 
+
+regulation, quite apart from its relationship with IDIs. 
+
+A second objective of macroprudential regulation is to avoid a harmful contraction of 
+
+credit availability in significant regions or sectors of the economy, even if there were little 
+
+chance of a financial crisis.  This outcome could ensue were banks accounting for a material 
+
+portion of credit extension simultaneously to come under solvency or funding pressures that 
+
+caused them to pull back from lending.  The importance of both macroprudential objectives is 
+
+that the regulatory framework should aim to reduce the chances of transmission of systemic risk 
+
+by such firms to a greater extent than traditional, microprudential regulation would.  
+
+But even stipulating these crucial objectives, why should prudential regulation need to 
+
+involve itself with corporate governance?  After all, there are many important forms of 
+
+regulation applicable to corporations.  A regulatory field may establish certain behavioral norms, 
+
+require conformity with certain product or byproduct characteristics, or prohibit certain 
+
+activities.  Corporations are expected to conform to these obligations, many of which are 
+
+extensive and detailed.  While some regulatory systems require certain procedures within the 
+
+regulated entities--particularly as remedial measures following violations--few, if any, create 
+
+specific and significant ongoing requirements for corporate decisionmaking or oversight.  
+
+                                                 
+5 Some of the more important of these provisions are discussed in Daniel K. Tarullo (2012), “Financial Stability 
+Regulation,” speech delivered at the Distinguished Jurist Lecture, University of Pennsylvania Law School, 
+Philadelphia, Pennsylvania, October 10, available at 
+www.federalreserve.gov/newsevents/speech/tarullo20121010a.htm. 
+
+
+
+8 
+ 
+
+Corporate and securities law may establish a duty of management and directors to limit 
+
+regulatory violations, but the rationale for these duties is to protect shareholders from the 
+
+consequences of regulatory violation, not directly to further the public regulatory objective.6 
+
+The answer, I think, lies at least in part with the centrality and nature of risk in the 
+
+activities of financial intermediaries.  Risk-taking--whether well- or ill-considered--is perhaps 
+
+the central activity of all financial intermediaries.  Where those intermediaries are significantly 
+
+leveraged and engaged in maturity transformation, the risk-taking carries substantial potential 
+
+societal consequences beyond the possible losses to investors, counterparties, and employees of 
+
+the financial firm.  Microprudential and macroprudential regulation each respond to this 
+
+divergence between the private and social balances of costs and benefits associated with a given 
+
+level of risk-taking by financial intermediaries.   
+
+The focus of microprudential regulation is on the distortions to funding costs that may 
+
+arise when depositors or capital markets do not require the funds they provide fully to price in 
+
+the risks assumed by banks in using those funds, whether because of federal deposit insurance or 
+
+expectations of a government safety net.  The focus of macroprudential regulation is on the 
+
+negative externalities that large financial firms can impose on the rest of the economy.  In both 
+
+instances, the private assessment by shareholders and their representatives of the risk-reward 
+
+tradeoffs of the financial firm’s activities will differ from the public’s assessment of that risk-
+
+reward tradeoff.  That is, while the public has an interest in healthy, profitable banks, and thus 
+
+the interests of shareholders and the public overlap, they are not coincident. 
+
+                                                 
+6 For a discussion of this duty, particularly as applied to financial institutions, see Eric J. Pan (2010), “The Duty to 
+Monitor under Delaware Law: From Caremark to Citigroup,” The Conference Board, Director Notes, No. DN-004, 
+available at www.conference-board.org/retrievefile.cfm?filename=DN-004-10.pdf&type=subsite. 
+ 
+
+
+
+9 
+ 
+
+At root, then, prudential regulation seeks to influence risk-taking in regulated entities.  
+
+But this is difficult to do directly.  Conceptually, “risk” is not reducible to a single metric, such 
+
+as--for example--the density of particulate matter in the emissions of a power plant.  Practically 
+
+speaking, a financial institution more or less continually makes risk decisions, the circumstances 
+
+of which can vary substantially over time, across asset classes, and even contemporaneously in a 
+
+single asset class based on the differing circumstances of borrowers or counterparties.   
+
+Prudential rules can limit or prohibit certain bank activities that are thought to be 
+
+particularly risky.  With respect to activities that are permitted, prudential regulation can 
+
+indirectly influence corporate decisions on risk-taking by requiring minimum amounts of capital 
+
+to be held by the regulated firms.  But, fundamental as they are to contemporary prudential 
+
+regulation, capital requirements--particularly static, backward-looking standards--will 
+
+necessarily be somewhat imprecisely related to the range of actual risk incident to specific assets 
+
+or transactions within the various risk categories established by the capital regime.  In fact, the 
+
+capital regime may itself invite arbitrage, as firms look to maximize risk-taking within regulatory 
+
+risk categories.7   
+
+Thus it is also important for prudential regulation to influence the processes of risk-
+
+taking within regulated financial firms as a complementary tool to capital requirements and other 
+
+substantive measures.  This view is reflected in various banking laws, most notably in the Dodd-
+
+Frank Act requirement that all bank holding companies with $10 billion or more in assets have a 
+
+risk committee, composed of independent directors and “responsible for the oversight of the 
+
+                                                 
+7 Of course, strong capital requirements also build a loss absorption buffer that is useful in dealing with risks gone 
+bad ex post, even if they cannot entirely contain those risks ex ante. 
+
+
+
+10 
+ 
+
+enterprisewide risk management practices” of the firm.8  This provision in itself requires only 
+
+that the bank holding companies have capable and independent risk committees that, by 
+
+extension, should be overseeing well-developed risk-management practices and systems of 
+
+controls in the firms.  It does not specify what the risk appetite of the firm should be.  However, 
+
+its inclusion in section 165 of the Dodd-Frank Act, which requires an array of additional 
+
+prudential measures directed at firms that could pose threats to financial stability, suggests that 
+
+the risk-committee mandate has a prudential motivation. 
+
+Of course, good risk management is important for shareholders as well.  Regulatory 
+
+prods for efficient management information systems and well-developed risk-assessment 
+
+procedures should generally be welcomed by shareholders.  Similarly, regulatory insistence on 
+
+capable and independent oversight of risk management is consonant with shareholder interests, 
+
+which might be damaged by employees who exercise poor judgment or whose compensation 
+
+structures may incentivize them to take risks not desirable for the firm as a whole.  To a 
+
+considerable extent, then, fostering sound risk-management practices serves the overlapping 
+
+interests of both shareholders and regulators. 
+
+The possible divergence of interests comes not in the architecture of risk management but 
+
+in substantive decisions on risk appetite.  How, then, might corporate governance be changed to 
+
+incorporate risk considerations consistent with micro- and macroprudential regulatory 
+
+objectives?  One way would be to broaden the fiduciary duties of boards and management.  The 
+
+other, which has already been followed to some degree, is to apply regulatory and supervisory 
+
+requirements to relevant corporate governance processes.  Of course, realization of the first 
+
+approach would require either changes in state corporate law or amendments to federal securities 
+
+                                                 
+8 Dodd-Frank Act §165(h).  This provision further requires that the risk committee include “at least one risk 
+management expert having experience in identifying, assessing, and managing risk exposures of large, complex 
+firms.” 
+
+
+
+11 
+ 
+
+or financial regulatory statutes.  I shall speak briefly to this possibility after describing some 
+
+examples of the second approach already in place, along with some possibilities for further 
+
+measures. 
+
+Aligning Corporate Governance and Financial Regulation 
+
+ With no claim to comprehensiveness, let me suggest three kinds of regulatory and 
+
+supervisory measures that can better align corporate governance of financial firms with 
+
+regulatory objectives. 
+
+ First, regulatory requirements can be directed at changing the incentives of those making 
+
+decisions within a financial firm.  One good example is incentive compensation for senior 
+
+managers and other bank employees with substantial decisionmaking authority.  Compensation 
+
+arrangements that create high-powered incentives using stock options or other forms of reward 
+
+dominantly based on equity have their origins in efforts better to align management and 
+
+shareholder interests.  Otherwise, managers who stand to suffer reputational or job loss as their 
+
+firm declines or fails may have a more conservative risk appetite than diversified shareholders, 
+
+who value the upside of risk-taking and whose limited liability makes them relatively less 
+
+concerned with catastrophic downside possibilities.  As has been observed by numerous 
+
+commentators,9 however, where these kinds of incentive compensation arrangements have 
+
+succeeded in better aligning the interests of shareholders and employees, they intensify the 
+
+conflict between shareholder and regulatory interests.10  Ironically, regulatory objectives match 
+
+                                                 
+9 See, for example, Lucian Bebchuk and Holger Spamann (2010), “Regulating Bankers’ Pay,” Georgetown Law 
+Journal, vol. 98 (2), pp. 247-87; and Kenneth R. French, M. N. Baily, J. Y. Campbell, J. H. Cochrane, D. W. 
+Diamond, D. Duffie, A. K. Kashyap, F. S. Mishkin, R. G. Rajan, D. S. Scharfstein, R. J. Shiller, H. S. Shin, M. J. 
+Slaughter, J. C. Stein, and R. M. Stulz (2010), The Squam Lake Report: Fixing the Financial System (Princeton: 
+Princeton University Press). 
+10 Indeed, if the incentives are powerful enough, they may give employees a greater risk appetite than even 
+diversified shareholders are presumed to have. 
+
+
+
+12 
+ 
+
+up better with the old-style managers for whom the preservation of the firm is considerably more 
+
+important than for shareholders. 
+
+ Various suggestions for change have been made.  Some have proposed making incentive 
+
+compensation packages more closely reflect the composition of the liability side of a banking 
+
+organization’s balance sheet by including returns on debt, as well as equity, instruments in the 
+
+calculation of compensation.11  Others have proposed the much simpler approach of making a 
+
+significant part of incentive compensation deferred and subject to clawback and forfeiture, with 
+
+the employee’s ultimate right to the compensation dependent on the firm not having become 
+
+insolvent, received government assistance, or experienced a similar triggering event.  While 
+
+developing the details of an effective mechanism that also allows for motivating employees to 
+
+advance shareholder interests will take some work, some measure along these lines is key to 
+
+adjusting incentives so as to promote prudential objectives across the many risk decisions made 
+
+within the firm. 
+
+ Incentive realignment can also be achieved by fostering more of the capital market 
+
+discipline that has, as explained earlier, been limited.  One example is a byproduct of measures 
+
+to increase the total loss absorbency of systemically important financial firms by requiring 
+
+minimum amounts of debt that could be converted to equity upon a firm’s insolvency.  As you 
+
+may know, the Federal Reserve Board intends to issue a proposed rulemaking that would 
+
+implement such a requirement at the largest financial firms.  While the principal motivation of 
+
+such a requirement is to help ensure that even a very large financial firm can be resolved in an 
+
+orderly fashion without the injection of public capital, identifying debt instruments as convertible 
+
+                                                 
+11 See Bebchuk and Spamann, “Regulating Bankers’ Pay.” Depending on how closely one would want to tie 
+compensation to the prices of bonds, for example, there may be difficulties owing to the potential at times for 
+interest rate risk fluctuations to overwhelm credit risk fluctuations in the price of debt instruments.  Interest rate risk 
+fluctuations would not reflect the performance or risk associated with a specific firm. 
+
+
+
+13 
+ 
+
+to equity in a context where resolution is a credible option should make the price of those 
+
+instruments especially sensitive to the relative risk of failure of those firms.  Requiring 
+
+systemically important financial firms to issue a meaningful amount of long-term debt would 
+
+indirectly influence corporate governance by introducing at-risk debt holders as a constituency 
+
+whose concerns management must monitor and address. 
+
+ A second kind of measure to align corporate governance at financial firms more closely 
+
+to regulatory objectives is a substantive requirement or constraint upon decisions made within 
+
+the firm.  As a practical matter, it would be hard to develop a rule setting a comprehensive risk 
+
+appetite consonant with regulatory objectives.  However, there are regulatory requirements that 
+
+can serve as partial surrogates for such a rule.  A good example, already in place, is a feature of 
+
+the Federal Reserve’s program of stress testing and capital planning.  A firm may not make 
+
+capital distributions (whether in the form of dividends or capital repurchases) that would, when 
+
+added to losses under hypothesized adverse scenarios as projected in our annual supervisory 
+
+stress test, reduce the firm’s capital below certain minimum levels.   
+
+When we adopted this rule several years ago, we were criticized by some for encroaching 
+
+on the prerogative of boards of directors of financial firms to decide on capital distribution 
+
+policies, in accordance with general corporate governance practice.  This criticism has always 
+
+seemed to me misplaced.  After all, banking regulators are not only permitted, but obliged, to set 
+
+minimum capital requirements at banking organizations and other systemically important 
+
+financial firms.  Limiting capital distributions is, conceptually, no different from requiring a firm 
+
+to build capital in the first place.12  A regulation designed to maintain minimum capital levels in 
+
+large banking organizations in a projected period of stress is consistent with the macroprudential 
+
+                                                 
+12 Indeed, insured depository institutions are prohibited by statute from making any capital distribution that would 
+render the firm undercapitalized.  12 U.S.C. §1831o(d)(1). 
+
+
+
+14 
+ 
+
+objectives discussed earlier.  Indeed, these requirements counteract the practices seen at some 
+
+banks in the run-up to the financial crisis, whereby boards of directors continued to return capital 
+
+to shareholders even as conditions deteriorated severely.13  Tying capital levels to corporate 
+
+governance decisions about capital distributions simply recognizes that capital levels and capital 
+
+distributions are two sides of the same coin. 
+
+A third kind of measure seeks to affect the institutions and processes of corporate 
+
+governance, rather than directly to change incentive structures or regulate decisions.  Many 
+
+possible actions of this sort would really be efforts to improve the risk-assessment and risk-
+
+management capacities of management and boards, rather than to focus specifically on the 
+
+divergence between shareholder and regulatory interests with respect to risk appetite.  An 
+
+effective system of controls is important both to shareholders and to regulators.  Thus, for 
+
+instance, the considerable and continuing emphasis we have placed on firms developing and 
+
+maintaining effective management information systems makes risk assessment work better for 
+
+shareholders, even as it facilitates supervisory oversight. 
+
+With respect to the institutional features of board oversight of risk management, there is 
+
+also substantial overlap in the interests of shareholders and regulators.  For example, both 
+
+shareholders and supervisors should expect a board to include members with the expertise, 
+
+experience, and time commitment that are appropriate to risk management of the kinds of 
+
+activities in which the financial firm engages.  Of particular interest are three board positions--
+
+the nonexecutive chair or lead director, the head of the risk committee, and the head of the audit 
+
+committee.  More generally, shareholders and supervisors must have confidence that globally 
+
+active institutions with hundreds of thousands of employees have audit and risk committees with 
+
+                                                 
+13 Beverly Hirtle (2014), “Bank Holding Company Dividends and Repurchases during the Financial Crisis,” 
+Federal Reserve Bank of New York Staff Report No. 666 (New York: Federal Reserve Bank of New York, 
+March), available at www.newyorkfed.org/research/staff_reports/sr666.html. 
+
+
+
+15 
+ 
+
+the practical ability to provide effective oversight of risk decisions.14  I might note in passing that 
+
+regular discussion between board members and supervisors can also serve the interests of 
+
+shareholders, since supervisors may have an informed perspective on the firm’s operations that 
+
+enables boards better to fulfill their strategic and risk-oversight functions. 
+
+ Supervisors should also expect a well-conceived process for board review of major firm 
+
+decisions, which will nearly always carry some implications for risk management and risk 
+
+appetite.  In practical terms, such a process would connect decisions on strategy, risk-appetite 
+
+setting, and capital planning.  Neither we nor shareholders should be comfortable with a process 
+
+in which strategic decisions are made in one silo, risk-appetite setting in another, and capital 
+
+planning in yet a third, with the convergence of these efforts coming together only when it is too 
+
+late for each to affect the other, or for the board to be able to exercise effective oversight.  These 
+
+major decisions need to be made in an integrated manner. 
+
+ While regulators should have clear expectations for boards, we need to make sure that we 
+
+are creating expectations that lead to boards spending more time overseeing the risk-management 
+
+and control functions I have emphasized this afternoon.  There are many important regulatory 
+
+requirements applicable to large financial firms.  Boards must of course be aware of those 
+
+requirements and must help ensure that good corporate compliance systems are in place.  But it 
+
+has perhaps become a little too reflexive a reaction on the part of regulators to jump from the 
+
+observation that a regulation is important to the conclusion that the board must certify 
+
+compliance through its own processes.  We should probably be somewhat more selective in 
+
+                                                 
+14 There have also been proposals that boards of large financial firms have a small staff, independent of 
+management, who can help the board sift through the often voluminous materials delivered by management to foster 
+informed inquiries of management and decisions on risk appetite.  For example, a proposal for a “dedicated 
+secretariat” was offered by a parliamentary committee in the United Kingdom.  See U.K. House of Commons 
+Treasury Committee (2009), Banking Crisis: Reforming Corporate Governance and Pay in the City, (London: 
+House of Commons, May), available at 
+www.publications.parliament.uk/pa/cm200809/cmselect/cmtreasy/519/519.pdf. 
+
+
+
+16 
+ 
+
+creating the regulatory checklist for board compliance and regular consideration.  One example, 
+
+drawn from Federal Reserve practice, is the recent supervisory guidance requiring that every 
+
+notice of a “Matter Requiring Attention” (MRA) issued by supervisors must be reviewed, and 
+
+compliance signed off, by the board of directors.15  There are some MRAs that clearly should 
+
+come to the board’s attention, but the failure to discriminate among them is almost surely 
+
+distracting from strategic and risk-related analyses and oversight by boards. 
+
+ One might ask how the strengthening of systems of controls and risk-appetite decision 
+
+processes can promote achievement of regulatory interests beyond those shared with the owners 
+
+of firms.  One answer is that it clearly improves the supervisory line-of-sight into the safety and 
+
+soundness of financial firms.  The more timely and accurate the information that can be 
+
+aggregated by supervisors, the more responsive our supervisory and financial stability oversight 
+
+can be.  A well-developed set of risk and control functions also allows an effective point of entry 
+
+for pursuing certain regulatory objectives.  To date, the best example of this potential is our 
+
+annual supervisory stress tests and Comprehensive Capital Analysis and Review (CCAR) to 
+
+which I have already referred.    
+
+As a substantive matter, the CCAR requirements limit capital distributions of large 
+
+financial institutions based upon a forward-looking assessment of the losses that would be 
+
+suffered under hypothetical adverse economic scenarios, so that capital will be built and 
+
+maintained at levels high enough for the firms to remain viable financial intermediaries even 
+
+under such stressed conditions.  In addition to the microprudential improvement that comes from 
+
+                                                 
+15 An MRA is a supervisory finding that the Federal Reserve communicates to the firm and requires 
+remediation.  For more information, see Board of Governors of the Federal Reserve System, Division of Banking 
+Supervision and Regulation (2013), “Supervisory Considerations for the Communication of Supervisory Findings,” 
+Supervision and Regulation Letter SR 13-13 (June 17), www.federalreserve.gov/bankinforeg/srletters/sr1313.htm. 
+ 
+
+
+
+17 
+ 
+
+substituting a dynamic for a static capital calculation, there is an important macroprudential 
+
+motivation, reflected in the design of scenarios and the required levels of post-stress capital.   
+
+The efficacy of the CCAR process is substantially enhanced as the information systems 
+
+and internal risk-management capacities of the firm improve.  Beyond this important, but 
+
+discrete regulatory measure, well-developed processes for determining risk appetite give 
+
+supervisors better insight into risks specific to the activities and strategic decisions of each firm.  
+
+As a result, supervisors should be better able to identify points at which a firm’s risk-taking may 
+
+diverge from that which is consistent with microprudential and macroprudential objectives.  
+
+This, in turn, should permit more timely supervisory or regulatory responses. 
+
+Regulatory Objectives and Fiduciary Duties 
+
+ The regulatory focus on risk in corporate governance will produce additional examples of 
+
+each of the three kinds of measures I have just described.  For instance, the Office of the 
+
+Comptroller of the Currency has recently proposed guidance for risk governance at large national 
+
+banks.16  Still, particularly with an audience half composed of corporate law professors, it is 
+
+natural to ask whether corporate law tools might usefully supplement regulatory measures.  
+
+Specifically, the question arises as to whether the fiduciary duties of the boards of regulated 
+
+financial firms should be modified to reflect what I have characterized as regulatory objectives.  
+
+Doing so might make the boards of financial firms responsive to the broader interests implicated 
+
+by their risk-taking decisions even where regulatory and supervisory measures had not 
+
+anticipated or addressed a particular issue.  And, of course, the courts would thereby be available 
+
+as another route for managing the divergence between private and social interests in risk-taking. 
+
+                                                 
+16 U.S. Department of the Treasury, Office of the Comptroller of the Currency (2014), Guidelines Establishing 
+Heightened Standards for Certain Large Insured National Banks, Insured Federal Savings Associations, and Insured 
+Federal Branches; Integration of Regulations, 79 Fed. Reg. 4282 (January 27). 
+
+
+
+18 
+ 
+
+ As I noted at the outset, there is a long history of actual or considered measures to alter 
+
+the duties or liabilities of those with decisionmaking authority in the corporate governance of 
+
+banks.  A more contemporary variant on these ideas was offered a little over a decade ago by Jon 
+
+Macey and Maureen O’Hara, who proposed expanded fiduciary duties for directors of insured 
+
+banks, including giving bank creditors the right to sue for violations of these duties.17  In a 
+
+provocative recent paper, John Armour and Jeff Gordon suggest that the duties of directors of 
+
+systemically important financial institutions should be modified precisely because diversified 
+
+shareholders have a strong interest in avoiding risk decisions by these institutions that increase 
+
+systemic risk.18  Their analysis implies that the customary tension between regulatory and 
+
+diversified shareholders’ interests may be considerably mitigated in the case of systemically 
+
+important firms whose failure could result in financial turbulence and consequent economic loss 
+
+for the entire economy. 
+
+ A consideration of the merits of these or other such proposals is beyond the scope of my 
+
+remarks today.  Obviously, any such changes in corporate law are beyond the authority of the 
+
+Federal Reserve.  I mention them in the hope and anticipation that corporate law scholars will 
+
+continue to evaluate such ideas, since whatever one’s eventual conclusions on their desirability, 
+
+the analytic process is sure to yield further insights into the key question of how best to respond 
+
+to the points of divergence between shareholder and regulatory interests in risk-taking by large 
+
+financial firms. 
+
+
+
+                                                 
+17 Jonathan R. Macey and Maureen O’Hara (2003), “The Corporate Governance of Banks,” Federal Reserve Bank of 
+New York, Economic Policy Review, vol. 9 (April), pp. 91-107. 
+18 John Armour and Jeffrey N. Gordon (2013), “Systemic Harms and Shareholder Value,” European Corporate 
+Governance Institute Working Paper No. 222 (Brussels: ECGI, August), available at 
+http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2307959. 
+
+
+
+19 
+ 
+
+Conclusion 
+
+ In the wake of the financial crisis, the changes in finance, in financial regulation, and in 
+
+the relationship among government agencies that carry out prudential regulation have created 
+
+any number of opportunities for financial law scholars to collaborate with their colleagues in 
+
+other disciplines--from administrative law to constitutional law to bankruptcy law.  This 
+
+collaboration is perhaps natural, since major shocks to the economy, and thus the country, have 
+
+in the past occasioned legal changes whose implications reached far beyond the original area of 
+
+reform.  As I hope you can tell from my remarks today, I have already found the interaction 
+
+between corporate and financial law scholarship to have been helpful in thinking through the 
+
+policies that will shape a safer financial system.  I look forward to the fruits of the collaborations 
+
+encouraged by the event sponsored today. 
+
+
+
+

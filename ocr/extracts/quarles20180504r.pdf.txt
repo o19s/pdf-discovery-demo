@@ -1,0 +1,786 @@
+
+For release on delivery 
+5:30 p.m. EDT (2:30 p.m. PDT) 
+May 4, 2018 
+ 
+
+
+Liquidity Regulation and the Size of the Fed’s Balance Sheet 
+ 
+ 
+ 
+
+Remarks by 
+ 
+
+Randal K. Quarles 
+ 
+
+Vice Chairman for Supervision 
+ 
+
+Board of Governors of the Federal Reserve System 
+ 
+
+at  
+ 
+
+“Currencies, Capital, and Central Bank Balances: A Policy Conference” 
+a Hoover Institution Monetary Policy Conference 
+
+Stanford University 
+ 
+
+Stanford, California 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+May 4, 2018 
+Revised version: August 3, 2018 
+
+ 
+ 
+Vice Chairman for Supervision Quarles updated his remarks to reflect their publication in 
+Currencies, Capital, and Central Bank Balances. Hoover Institution Press 
+(Forthcoming).
+
+
+
+Thank you very much to the Hoover Institution for hosting this important 
+
+conference and to John Taylor and John Cochrane for inviting me to participate.1  In my 
+
+capacity as both the Vice Chairman for Supervision at the Board of Governors and a 
+
+member of the Federal Open Market Committee (FOMC), part of my job is to consider 
+
+the intersection of financial regulatory and monetary policy issues, the subject of my 
+
+discussion today.  This topic is both complex and dynamic, especially as both regulation 
+
+and the implementation of monetary policy continue to evolve.   
+
+One important issue for us at the Fed, and the one that I will spend some time 
+
+reflecting on today, is how post-crisis financial regulation, through its incentives for bank 
+
+behavior, may influence the size and composition of the Federal Reserve’s balance sheet 
+
+in the long run.  Obviously, the whole excessively kaleidoscopic body of financial 
+
+regulation is admittedly difficult to address in the time we have today, so I will focus on a 
+
+particular component -- the Liquidity Coverage Ratio (LCR--and its link to banks’ 
+
+demand for U.S. central bank reserve balances.  Besides illuminating this particular issue, 
+
+I hope my discussion will help illustrate the complexities associated with the 
+
+interconnection of regulatory and monetary policy issues in general.  Also, let me 
+
+emphasize at the outset that I will be touching on some issues that the Board and the 
+
+FOMC are in the process of observing and evaluating and, in some cases, on which we 
+
+may be far from reaching any final decisions.  As such, my thoughts on these issues are 
+
+my own and are likely to evolve, benefiting from further discussion and our continued 
+
+monitoring of bank behavior and financial markets over time.       
+
+                                                 
+1 The views I express here are my own and not necessarily those of the Federal Reserve Board or the 
+Federal Open Market Committee. 
+
+
+ - 2 - 
+
+Monetary Policy and the Efficiency of the Financial System  
+
+Before I delve into the more specific complicated subject of how one type of bank 
+
+regulation affects the Fed’s balance sheet, let me say a few words about financial 
+
+regulation more generally.   
+
+As I have said previously, I view promoting the safety, soundness, and efficiency 
+
+of the financial system as one of the most important roles of the Board.  Improving 
+
+efficiency of the financial system is not an isolated goal.  The task is to enhance 
+
+efficiency while maintaining the system’s resiliency.  Take, for example, the Board’s two 
+
+most recent and material proposals, the stress capital buffer and the enhanced 
+
+supplementary leverage ratio (eSLR).  The proposal to modify the eSLR, in particular, 
+
+initially raised questions in the minds of some as to whether it would reduce the ability of 
+
+the banking system to weather shocks.  A closer look at the proposal shows that the 
+
+opposite is true.  The proposed change simply restores the original intent of leverage 
+
+requirements as a backstop measure to risk-based capital requirements.  As we have seen, 
+
+a leverage requirement that is too high favors high-risk activities and disincentivizes low-
+
+risk activities.  
+
+We had initially calibrated the leverage ratio at a level that caused it to be the 
+
+binding constraint for a number of our largest banks.  As a result, those banks had an 
+
+incentive to add risk rather than reduce risk in their portfolios because the capital cost of 
+
+each additional asset was the same whether it was risky or safe, and the riskier assets 
+
+would produce the higher return.  The proposed recalibration eliminates this incentive by 
+
+returning this leverage ratio to a level that is a backstop rather than the driver of decisions 
+
+at the margin.  Yet, because of the complex way our capital regulations work together--
+
+
+ - 3 - 
+
+with risk-based constraints and stress tests regulating capital at both the operating and 
+
+holding company levels--this improvement in incentives is obtained with virtually no 
+
+change in the overall capital requirements of the affected firms.  Federal Reserve staff 
+
+estimate the proposal would potentially reduce capital requirements across the eight large 
+
+banks subject to the proposal by $400 million, or 0.04 percent of the $955 billion in 
+
+capital these banks held as of September 2017.2  So this recalibration is a win-win:  a 
+
+material realignment of incentives to reduce a regulatory encouragement to take on risk at 
+
+a time when we want to encourage prudent behavior without any material capital 
+
+reduction or cost to the system’s resiliency.  Taken together, I believe these new rules 
+
+will maintain the resiliency of the financial system and make our regulation simpler and 
+
+more risk sensitive. 
+
+Liquidity Regulations  
+
+Let me now back up to the time just before the financial crisis and briefly describe 
+
+the genesis of liquidity regulations for banks.  Banking organizations play a vital role in 
+
+the economy in serving the financial needs of U.S. households and businesses.  They 
+
+perform this function in part through the mechanism of maturity transformation--that is, 
+
+taking in short-term deposits, thereby making a form of short-term, liquid investments 
+
+available to households and businesses, while providing longer-term credit to these same 
+
+entities.  This role, however, makes banking firms vulnerable to the potential for rapid, 
+
+broad-based outflows of their funding (a so-called run), and these institutions must 
+
+                                                 
+2 Required capital at the bank subsidiaries of these firms would be reduced by larger amounts--and would 
+only allow the firm to move that capital to different subsidiaries within the firm—but, more importantly, 
+the overall capital regime prevents this capital from being distributed out of the banking organization as a 
+whole except in this de minimis amount.  Thus, the overall organization retains the same capital levels 
+without the structure of capital regulation creating an incentive to add risk to the system.   
+
+
+ - 4 - 
+
+therefore balance the extent of their profitable maturity transformation against the 
+
+associated liquidity risks.3  Leading up to the 2007-09 financial crisis, some large firms 
+
+were overly reliant on certain types of short-term funding and overly confident in their 
+
+ability to replenish their funding when it came due.  Thus, during the crisis, some large 
+
+banks did not have sufficient liquidity, and liquidity risk management at a broader set of 
+
+institutions proved inadequate at anticipating and compensating for potential outflows, 
+
+especially when those outflows occurred rapidly.4   
+
+In the wake of the crisis, central banks and regulators around the world 
+
+implemented a combination of regulatory reforms and stronger supervision to promote 
+
+increased resilience in the financial sector.  With regard to liquidity, the prudential 
+
+regulations and supervisory programs of the U.S. banking agencies have resulted in 
+
+significant increases in the liquidity positions and changes in the risk management of our 
+
+largest institutions.  And, working closely with other jurisdictions, we have also 
+
+implemented global liquidity standards for the first time.  These standards seek to limit 
+
+the effect of short-term outflows and extended overall funding mismatches, thus 
+
+improving banks’ liquidity resilience.   
+
+One particular liquidity requirement for large banking organizations is the 
+
+Liquidity Coverage Ratio, or LCR, which the U.S. federal banking agencies adopted in 
+
+2014.5  The LCR rule requires covered firms to hold sufficient high-quality liquid assets 
+
+                                                 
+3 While deposit insurance helps mitigate the incentive for many depositors to run, it cannot fully eliminate 
+this risk.  For a discussion of this vulnerability, see Douglas W. Diamond and Philip H. Dybvig (1983), 
+“Bank Runs, Deposit Insurance, and Liquidity,” Journal of Political Economy, vol. 91 (June), pp. 401-19.   
+4 See Senior Supervisors Group (2009), Risk Management Lessons from the Global Banking Crisis of 2008 
+(New York:  Federal Reserve Bank of New York, October), 
+https://www.newyorkfed.org/medialibrary/media/newsevents/news/banking/2009/SSG_report.pdf.  
+5 For a full description of the U.S. LCR, including which banks are covered, see Regulation WW--Liquidity 
+Risk Management Standards, 12 C.F.R. pt. 249 (2017), https://www.gpo.gov/fdsys/granule/CFR-2017-
+title12-vol4/CFR-2017-title12-vol4-part249.     
+
+
+ - 5 - 
+
+(HQLA)--in terms of both quantity and quality--to cover potential outflows over a 30-day 
+
+period of liquidity stress.  The LCR rule allows firms to meet this requirement with a 
+
+range of cash and securities and does not apply a haircut to reserve balances or Treasury 
+
+securities based on the estimated liquidity value of those instruments in times of stress.  
+
+Further, firms are required to demonstrate that they can monetize HQLA in a stress event 
+
+without adversely affecting the firm’s reputation or franchise.        
+
+The rules have resulted in some changes in the behavior of large banks and in 
+
+market dynamics.  Large banks have adjusted their funding profiles by shifting to more 
+
+stable funding sources.  Indeed, taken together, the covered banks have reduced their 
+
+reliance on short-term wholesale funding from about 50 percent of total assets in the 
+
+years before the financial crisis to about 30 percent in recent years, and they have also 
+
+reduced their reliance on contingent funding sources.  Meanwhile, covered banks have 
+
+also adjusted their asset profiles, materially increasing their holdings of cash and other 
+
+highly liquid assets.  In fact, these banks’ holdings of HQLA have increased significantly, 
+
+from fairly low levels at some firms in the lead-up to the crisis to an average of about 15 
+
+to 20 percent of total assets today.6  A sizable portion of these assets currently consists of 
+
+U.S. central bank reserve balances, in part because reserve balances, unlike other types of 
+
+highly liquid assets, do not need to be monetized, but also, importantly, because of the 
+
+conduct of the Fed’s monetary policy, a topic to which I will next turn.  
+
+                                                 
+6 See Jane Ihrig, Edward Kim, Ashish Kumbhat, Cindy M. Vojtech, and Gretchen C. Weinbach (2017), 
+“How Have Banks Been Managing the Composition of High-Quality Liquid Assets?” Finance and 
+Economics Discussion Series 2017-092 (Washington:  Board of Governors of the Federal Reserve System, 
+August; revised February 2018), https://www.federalreserve.gov/econres/feds/files/2017092r1pap.pdf.  
+
+
+ - 6 - 
+
+How Does the LCR Interact with the Size of the Fed’s Balance Sheet? 
+
+With this backdrop, a relevant question for monetary policymakers is, what 
+
+quantity of central bank reserve balances will banks likely want to hold, and, hence, how 
+
+might the LCR affect banks’ reserve demand and thereby the longer-run size of the Fed’s 
+
+balance sheet?  Let me emphasize that policymakers have long been aware of the 
+
+potential influence that regulations may have on reserve demand and thus the longer-run 
+
+size of the Fed’s balance sheet.  And, of course, regulatory influences on banks’ behavior, 
+
+my focus today, is just one of many factors that could affect policymakers’ decisions 
+
+regarding the appropriate long-run size of the Fed’s balance sheet.7  In particular, in 
+
+augmenting its Policy Normalization Principles and Plans, the FOMC stated in June 2017 
+
+that it “currently anticipates reducing the quantity of reserve balances, over time, to a 
+
+level appreciably below that seen in recent years but larger than before the financial 
+
+crisis” and went on to note that “the level will reflect the banking system’s demand for 
+
+reserve balances and the Committee’s decisions about how to implement monetary policy 
+
+most efficiently and effectively in the future.”8     
+
+With that said, it is useful to begin by examining banks’ current reserve holdings.  
+
+Figure 1 plots the aggregate level of reserve balances in the U.S. banking system, starting 
+
+well before the financial crisis.  As you can see, the current level of reserves--at around 
+
+                                                 
+7 For example, a separate factor that is relevant for policymakers in this regard is the FOMC’s choice of 
+long-run framework for monetary policy implementation.  For policymakers’ discussions of this factor, see  
+Board of Governors of the Federal Reserve System (2016), “Minutes of the Federal Open Market 
+Committee, July 26-27, 2016,” press release, August 17,   
+https://www.federalreserve.gov/newsevents/pressreleases/monetary20160817a.htm; and Board of 
+Governors of the Federal Reserve System (2016), “Minutes of the Federal Open Market Committee, 
+November 1-2, 2016,” press release, November 23, 
+https://www.federalreserve.gov/newsevents/pressreleases/monetary20161123a.htm.  
+8 See Board of Governors of the Federal Reserve System (2017), “FOMC Issues Addendum to the Policy 
+Normalization Principles and Plans,” press release, June 14, paragraph 6, 
+https://www.federalreserve.gov/newsevents/pressreleases/monetary20170614c.htm.   
+
+
+ - 7 - 
+
+$2 trillion--is many orders of magnitude higher than the level that prevailed before the 
+
+financial crisis, a result of the Fed’s large-scale asset purchase programs or “quantitative 
+
+easing.”  The vertical lines in the figure show key dates in the implementation of the 
+
+LCR, including the initial Basel III international introduction of the regulation followed 
+
+by its two-step introduction in the United States.  A key takeaway from this figure is that 
+
+the Fed was in the process of adding substantial quantities of reserve balances to the 
+
+banking system while the LCR was being implemented--and these two changes largely 
+
+happened simultaneously.  As a result, banks, in aggregate, are currently using reserve 
+
+balances to meet a significant portion of their LCR requirements.  In addition, because 
+
+these changes happened together, it is reasonable to conclude that the current 
+
+environment is likely not very informative about banks’ underlying demand for reserve 
+
+balances. 
+
+But now the situation is changing, albeit very slowly.  Last October, the Fed 
+
+began to gradually and predictably reduce the size of its balance sheet.9  The Fed is doing 
+
+so by reinvesting the principal payments it receives on its securities holdings only to the 
+
+extent that they exceed gradually increasing caps--that is, the Fed is allowing securities to 
+
+roll off its portfolio each month up to a specific maximum amount.  This policy is also 
+
+reducing reserve balances.  So far, after the first seven months of the program, the Fed 
+
+has shed about $120 billion of its securities holdings, which is a fairly modest amount 
+
+when compared with the remaining size of its balance sheet.  Consequently, the level of 
+
+reserves in the banking system is still quite abundant.    
+
+                                                 
+9 The FOMC announced this change to its balance sheet policy in its September 2017 postmeeting 
+statement; see Board of Governors of the Federal Reserve System (2017), “Federal Reserve Issues FOMC 
+Statement,” press release, September 20, 
+https://www.federalreserve.gov/newsevents/pressreleases/monetary20170920a.htm. 
+
+
+ - 8 - 
+
+So, how many more reserve balances can be drained, and how small will the 
+
+Fed’s balance sheet get?  Let me emphasize that this question is highly speculative--we 
+
+have not decided ex ante the desired long-run size of the Fed’s balance sheet, nor, as I 
+
+noted earlier, do we have a definitive handle on banks’ long-run demand for reserve 
+
+balances.  Indeed, the FOMC has said that it “expects to learn more about the underlying 
+
+demand for reserves during the process of balance sheet normalization.”10  Nonetheless, 
+
+let me spend a little time reflecting on this challenging question. 
+
+How banks respond to the Fed’s reduction in reserve balances could, in theory, 
+
+take a few different forms.  One could envision that as the Fed reduces its securities 
+
+holdings, a large share of which consists of Treasury securities, banks would easily 
+
+replace any reduction in reserve balances with Treasury holdings, thereby keeping their 
+
+LCRs roughly unchanged.  According to this line of thought, because central bank 
+
+reserve balances and Treasury securities are treated identically by the LCR, banks should 
+
+be largely indifferent to holding either asset to meet the regulation.  In that case, the 
+
+reduction in reserves and corresponding increase in Treasury holdings might occur with 
+
+relatively little adjustment in their relative rates of return.   
+
+Alternatively, one could argue that banks may have particular preferences about 
+
+the composition of their liquid assets.  And since banks are profit-maximizing entities, 
+
+they will likely compare rates of return across various HQLA-eligible assets in 
+
+determining how many reserves to hold.  If relative asset returns are a key driver of 
+
+reserve demand, then interest rates across various types of HQLA will adjust on an 
+
+                                                 
+10 See Board of Governors, “FOMC Issues Addendum,” paragraph 6, in note 7. 
+
+
+ - 9 - 
+
+ongoing basis until banks are satisfied holding the aggregate quantity of reserves that is 
+
+available.   
+
+Recent research by the Board staff shows that banks currently display a 
+
+significant degree of heterogeneity in their approaches to meeting their LCR 
+
+requirements, including in their chosen volumes of reserve balances.11  Figure 2 shows a 
+
+subset of this research to illustrate this point.  The top and bottom panels represent 
+
+estimates of how two large banks have been meeting their HQLA requirements over time.  
+
+In each panel, the blue portions of the bars denote the share of HQLA met by reserve 
+
+balances, while the red, yellow, and brown slices of the bars represent the share met by 
+
+Treasury securities, agency mortgage-backed securities, and other HQLA-eligible assets, 
+
+respectively.  Despite holding roughly similarly amounts of HQLA, the two banks exhibit 
+
+very different HQLA compositions, with the bank depicted in the top panel consistently 
+
+holding a much larger share of HQLA in the form of reserve balances than the bank 
+
+shown in the bottom panel.  This finding suggests that there likely is no single 
+
+“representative bank” behavioral model that can capture all we might want to know about 
+
+banks’ demand for central bank reserve balances.   
+
+Some of the differences we see in bank behavior likely relate to banks’ individual 
+
+liquidity needs and preferences.  Indeed, banks manage their balance sheets in part by 
+
+taking into account their internal liquidity targets, which are determined by the 
+
+interaction between the specific needs of their various business lines and bank 
+
+management’s preferences.  In any case, this picture illustrates the complexities that are 
+
+                                                 
+11 See Ihrig and others, “Managing the Composition of High-Quality Liquid Assets,” in note 5.  
+
+
+ - 10 - 
+
+inherent in understanding banks’ underlying demand for reserve balances, a topic for 
+
+which more research would be quite valuable to policymakers.    
+
+So, what does this finding say about the longer-run level of reserve balances 
+
+demanded by banks?  The answer is that there is a large degree of uncertainty.  In fact, 
+
+the Federal Reserve Bank of New York surveyed primary dealers and market participants 
+
+last December to solicit their views about the level of reserves they expect to prevail in 
+
+2025.12  A few features of the survey responses stand out.  All respondents thought that 
+
+the longer-run level of reserve balances would be substantially lower than the current 
+
+level of more than $2 trillion.  In addition, there appeared to be a widely held view that 
+
+the longer-run level of reserves will be significantly above the level that prevailed before 
+
+the financial crisis.  But even so, the respondents did not agree about what that longer-run 
+
+level will be, with about half expecting a level ranging between $400 billion and 
+
+$750 billion.         
+
+It is also important to point out that the Fed’s balance sheet will remain larger 
+
+than it was before the crisis even after abstracting from the issue of banks’ longer-run 
+
+demand for reserve balances.  The reason is that the ultimate size of the Fed’s balance 
+
+sheet also depends on developments across a broader set of Fed liabilities.  One such 
+
+liability is the outstanding amount of Federal Reserve notes in circulation--that is, paper 
+
+money--which has doubled over the past decade to a volume of more than $1.6 trillion, 
+
+growing at a rate that generally reflects the pace of expansion of economic activity in 
+
+nominal terms.  When I left my position in the Bush Treasury in 2006, by contrast, the 
+
+                                                 
+12 The December 2017 Survey of Primary Dealers is available on the Federal Reserve Bank of New York’s 
+website at https://www.newyorkfed.org/medialibrary/media/markets/survey/2017/dec-2017-spd-results.pdf. 
+The December 2017 Survey of Market Participants is available at 
+https://www.newyorkfed.org/medialibrary/media/markets/survey/2017/dec-2017-smp-results.pdf. 
+
+
+ - 11 - 
+
+total amount of paper currency outstanding was not quite $800 billion.  Other nonreserve 
+
+liabilities have also grown since the crisis, including the Treasury Department’s account 
+
+at the Fed, known as the Treasury’s General Account.  Recent growth in such items 
+
+means that the longer-run size of the Fed’s balance sheet will be noticeably larger than 
+
+before the crisis regardless of the volume of reserve balances that might ultimately 
+
+prevail.   
+
+Putting the various pieces together, figure 3 illustrates how the overall size of the 
+
+Fed’s balance sheet may evolve.  Given the uncertainties I have described, I have chosen 
+
+to show three different scenarios, drawn from the most recent annual report released by 
+
+the Federal Reserve Bank of New York, which was published last month.13  These 
+
+scenarios highlight the degree to which the longer-run size of the Fed’s domestic 
+
+securities portfolio--also known as the System Open Market Account, or SOMA, which 
+
+accounts for the vast majority of the Fed’s assets--will be affected by choices about the 
+
+future level of reserve balances and the evolution of nonreserve liabilities.  The 
+
+assumptions underlying the scenarios are based on the distribution of responses from the 
+
+surveys I described earlier, as those surveys also asked respondents to forecast the likely 
+
+longer-run levels of several liabilities on the Fed’s balance sheet other than reserves.  
+
+The “median” scenario, represented by the red (middle) line in the figure, is based on the 
+
+50th percentile of survey responses, while the “larger” and the “smaller” scenarios, 
+
+denoted by the gold dashed (top) and blue dotted (bottom) lines, are based on the 
+
+75th and 25th percentiles, respectively.   
+
+                                                 
+13 See Federal Reserve Bank of New York (2018), Open Market Operations during 2017 (New York:  
+FRBNY, April), available at https://www.newyorkfed.org/markets/annual_reports.html.  Among other 
+things, the report reviews the conduct of open market operations and other developments that influenced 
+the System Open Market Account of the Federal Reserve in 2017.  
+
+
+ - 12 - 
+
+The figure illustrates that the Fed’s securities holdings are projected to decline 
+
+about $400 billion this year and another $460 billion next year as Treasury and agency 
+
+securities continue to roll off gradually from the Fed’s portfolio.  The kink in each curve 
+
+captures what the FOMC has referred to as the point of “normalization” of the size of the 
+
+Fed’s balance sheet--that is, the point at which the balance sheet will begin to expand 
+
+again to support the underlying growth in liabilities items such as Federal Reserve notes 
+
+in circulation.  All else being equal, greater longer-run demand for currency, reserve 
+
+balances, or other liabilities implies an earlier timing of balance sheet normalization and a 
+
+higher longer-run size of the balance sheet, as illustrated by the top line.  And the 
+
+converse--smaller demand for these liabilities and a later timing of normalization, 
+
+illustrated by the bottom line--is also possible.  In the three scenarios shown, the size of 
+
+the Fed’s securities portfolio normalizes sometime between 2020 and 2022.  That is quite 
+
+a range of time, so as the balance sheet normalization program continues, the Fed will be 
+
+closely monitoring developments for clues about banks’ underlying demand for reserves.  
+
+What will the Fed be monitoring as reserves are drained and the balance sheet 
+
+shrinks?  I would first like to emphasize that the Fed regularly monitors financial markets 
+
+for a number of reasons, so I do not mean to imply that we will be doing anything that is 
+
+very much different for our normal practice.  As reserves continue to be drained, we will 
+
+want to gauge how banks are managing their balance sheets in continuing to meet their 
+
+LCRs, watching in particular how the distribution of reserve balances across the banking 
+
+system evolves as well as monitoring any large-scale changes in banks’ holdings of other 
+
+HQLA-eligible assets, including Treasury securities and agency mortgage-backed 
+
+securities.   
+
+
+ - 13 - 
+
+And on the liabilities side of banks’ books, we will be keeping our eye on both the 
+
+volume and the composition of deposits, as there are reasons why banks may take steps, 
+
+over time, to hold onto certain types of deposits more than others.  In particular, retail 
+
+deposits may be especially desired by banks going forward because they receive the most 
+
+favorable treatment under the LCR and also tend to be relatively low cost.   
+
+Retail deposits have grown quite a bit since the crisis, especially in light of the 
+
+prolonged period of broad-based low interest rates and accommodative monetary policy, 
+
+limiting the need for banks to compete for this most stable form of deposits.  However, 
+
+the combination of rising interest rates and the Fed’s shrinking balance sheet, together 
+
+with banks’ ongoing need to meet the LCR, may alter these competitive dynamics.   
+
+Of course, importantly, deposits will not necessarily decline one-for-one with 
+
+reserve balances as the Fed’s balance sheet shrinks.  The overall effects of the decline in 
+
+the Fed’s balance sheet will depend both on who ultimately ends up holding the securities 
+
+in place of the Fed and on the full range of portfolio adjustments that other economic 
+
+agents ultimately make as a result.14   
+
+We will also be monitoring movements in interest rates.  In part, we will be 
+
+tracking how the yields and spreads on the various assets that banks use to meet their 
+
+LCR requirements evolve.  For example, to the extent that some banks will wish to keep 
+
+meeting a significant portion of their LCR requirements with reserves, the reduction in 
+
+the Fed’s balance sheet and the associated drop in aggregate reserves could eventually 
+
+result in some upward pressure on the effective federal funds rate and on yields of 
+
+                                                 
+14 For a discussion of the overall effects of the decline in the Fed’s balance sheet, see Jane Ihrig, Lawrence 
+Mize, and Gretchen C. Weinbach (2017), “How Does the Fed Adjust Its Securities Holdings and Who Is 
+Affected?” Finance and Economics Discussion Series 2017-099 (Washington:  Board of Governors of the 
+Federal Reserve System, September), https://www.federalreserve.gov/econres/feds/files/2017099pap.pdf. 
+
+
+ - 14 - 
+
+Treasury securities.  This situation could occur if some banks eventually find that they 
+
+are holding fewer reserves than desired at a given constellation of interest rates and, in 
+
+response, begin to bid for more federal funds while selling Treasury securities or other 
+
+assets.  Interest rates will adjust up until banks are indifferent with regard to holding the 
+
+relatively smaller volume of reserves available in the banking system. 
+
+Overall, we will be monitoring to make sure that the level of reserves the Fed 
+
+supplies to the banking sector, which influences the composition of assets and liabilities 
+
+on banks’ balance sheets as well as market interest rates, provides the desired stance of 
+
+monetary policy to achieve our dual mandate of maximum employment and stable prices.  
+
+Of course, we will need to be very careful to understand the precise factors that underlie 
+
+any significant movements in these areas, because factors that are unrelated to the Fed’s 
+
+balance sheet policies might also cause such adjustments.   
+
+Conclusion 
+
+To conclude, I would like to reemphasize that I have touched on some highly 
+
+uncertain issues today--issues that, I would like to stress again, have not been decided by 
+
+the FOMC.  One such issue that closely relates to my remarks today, and one I believe 
+
+the upcoming panel will likely address, is which policy implementation framework the 
+
+Fed should use in the long run.  That is, broadly speaking, should the Fed continue to use 
+
+an operational framework that is characterized by having relatively abundant reserves and 
+
+operate in what is termed a “floor regime,” or should it use one in which the supply of 
+
+reserves is managed so that it is much closer to banks’ underlying demand for reserves as 
+
+in a “corridor regime”?   
+
+
+ - 15 - 
+
+Of course, a host of complex issues underlie this decision, so I would just like to 
+
+emphasize two general points.  First, a wide range of quantities of reserve balances--and 
+
+thus overall sizes of the Fed’s balance sheet--could be consistent with either type of 
+
+framework.  Second, while U.S. liquidity regulations likely influence banks’ demand for 
+
+reserves, the Fed is not constrained by such regulations in deciding its operational 
+
+framework, because U.S. banks will be readily able to meet their regulatory liquidity 
+
+requirements using the range of available high-quality liquid assets, of which reserve 
+
+balances is one type.   
+
+Importantly, additional experience with the Federal Reserve’s policy of gradually 
+
+reducing its balance sheet will help inform policymakers’ future deliberations regarding 
+
+issues related to the long-run size of the Fed’s balance sheet, issues that will not need to 
+
+be decided for some time.  
+
+The final and most general point is simply to underscore the premise with which I 
+
+began these remarks:  Financial regulation and monetary policy are, in important 
+
+respects, connected.  Thus, it will always be important for the Federal Reserve to 
+
+maintain its integral role in the regulation of the financial system not only for the 
+
+visibility this provides into the economy, but precisely in order to calibrate the sorts of 
+
+relationships we have been talking about today.   
+
+
+

@@ -1,0 +1,1301 @@
+
+For release on delivery 
+1:00 p.m. EST 
+March 7, 2016 
+ 
+
+
+Reflections on Macroeconomics Then and Now 
+ 
+ 
+ 
+
+Remarks by 
+ 
+
+Stanley Fischer 
+ 
+
+Vice Chairman 
+ 
+
+Board of Governors of the Federal Reserve System 
+ 
+
+at 
+ 
+
+“Policy Challenges in an Interconnected World” 
+32nd Annual National Association for Business Economics Economic Policy Conference 
+
+ 
+Washington, D.C. 
+
+
+March 7, 2016 
+ 
+
+
+
+I am grateful to the National Association for Business Economics (NABE) for 
+
+conferring the fourth annual NABE Paul A. Volcker Lifetime Achievement Award for 
+
+Economic Policy on me, thereby allowing me the honor of following in the footsteps of 
+
+Paul Volcker, Jean-Claude Trichet, and Alice Rivlin.1  The honor of receiving the award 
+
+is enhanced by its bearing the name of Paul Volcker, a model citizen and public servant, 
+
+and a giant in every sense among central bankers.   
+
+One thinks of many things on an occasion such as this one.  My mind goes back 
+
+first to growing up in a very small town in Zambia, then Northern Rhodesia, and to the 
+
+surprise and delight my parents would have felt at seeing me standing where I am now.  
+
+They would have been even more delighted that my girlfriend, Rhoda, whom I met when 
+
+my parents moved to a bigger town in Zimbabwe, and I have been happily married for 
+
+50 years.  But that is not the story I will tell today.  Rather, I want to talk about our field, 
+
+macroeconomics, and some of the lessons we have learned in the course of the last 
+
+55 years--and I say 55 years, because in 1961, at the end of my school years, on the 
+
+advice of a friend, I read Keynes’s General Theory for the first time.    
+
+Did I understand it?  Certainly not.  Was I captivated by it?  Certainly, though 
+
+“captured” is a more appropriate word than “captivated.”  Does it remain relevant?  
+
+Certainly.  Just a week ago I took it off the bookshelf to read parts of chapter 23, “Notes 
+
+on Mercantilism, the Usury Laws, Stamped Money and Theories of Under-
+
+Consumption.”  Today that chapter would be headed “Protectionism, the Zero Lower 
+
+                                                 
+1 I am grateful to David Lopez-Salido, Andrea Ajello, Elmar Mertens, Stacey Tevlin, and Bill English of 
+the Federal Reserve Board for their assistance.  Views expressed are mine, and are not necessarily those of 
+the Federal Reserve Board or the Federal Open Market Committee. 
+
+
+ - 2 - 
+
+Bound, and Secular Stagnation,” with the importance of usury laws having diminished 
+
+since 1936. 
+
+There is an old joke about our field--not the one about the one-handed economist, 
+
+nor the one about “assume you have a can opener,” nor the one that ends, “If I were you, 
+
+I wouldn’t start from here.”  Rather it’s the one about the Ph.D. economist who returns to 
+
+his university for his class’s 50th reunion.  He asks if he can see the most recent Ph.D. 
+
+generals exam.  After a while it is brought to him.  He reads it carefully, looking 
+
+perplexed, and then says, “But this is exactly the same as the exam I wrote over 50 years 
+
+ago.”  “Ah yes,” says the professor.  “It is the same, but all the answers are different.” 
+
+Is that really the case?  Not really, though it is true to some extent in the realm of 
+
+policy.  To discuss the question of whether the answers to the questions of how to deal 
+
+with macroeconomic policy problems have changed markedly over the past half-century 
+
+or so, I will start by briefly sketching the structure of a basic macro model.  The building 
+
+blocks of this model are similar to those used in many macro models, including FRB/US, 
+
+the Fed staff’s large-scale model, and a variety of DSGE (dynamic stochastic general 
+
+equilibrium) models used at the Fed and other central banks and by academic researchers.   
+
+The structure of the model starts with the standard textbook equation for 
+
+aggregate demand for domestically produced goods, namely:2 
+
+(1) AD = C + I + G + NX; 
+
+(2) Next is the wage-price block, which is based on a wage or price Phillips 
+
+curve.  Okun’s law is included to make the transition between output and 
+
+employment; 
+
+                                                 
+2 A fuller description of the equations is contained in the appendix. 
+
+
+ - 3 - 
+
+(3) Monetary policy is described by a money supply or interest rate rule; 
+
+(4) The credit markets and financial intermediation are built off links between the 
+
+policy interest rate and the rates of return on, and/or demand and supply 
+
+functions for, other assets; 
+
+(5) The balance of payments and the exchange rate enter through the balance of 
+
+payments identity, namely that the current account surplus must be equal to 
+
+the capital account deficit, corrected for official intervention; 
+
+(6) Dynamics of stocks:  There are dynamic equations for the capital stock, the 
+
+stock of government debt, and the external debt. 
+
+When I was an undergraduate at the London School of Economics (LSE) between 
+
+1962 and 1965, we learned the IS-LM model, which combined the aggregate demand 
+
+equation (1) with the money market equilibrium condition set out in (3).  That was the 
+
+basic understanding of the Keynesian model as crystallized by John Hicks, Franco 
+
+Modigliani, and others, in which it was easy to add detail to the demand functions for 
+
+private-sector consumption, C; for investment, I; for government spending, G; and for net 
+
+exports.  The Keynesian emphasis on aggregate demand and its determinants is one of the 
+
+basic innovations of the Keynesian revolution, and one that makes it far easier to 
+
+understand and explain what factors are determining output and employment.   
+
+Continuing down the list, on price and wage dynamics, the Phillips curve has 
+
+flattened somewhat since the 1950s and 1960s.3  Further, the role of expectations of 
+
+inflation in the Phillips curve has been developed far beyond what was understood when 
+
+A.W. Phillips--who was a New Zealander, an LSE faculty member, and a statistician and 
+
+                                                 
+3 See Blanchard (2016). 
+
+
+ - 4 - 
+
+former engineer--discovered what later became the Phillips curve.  The difference 
+
+between the short- and long-run Phillips curves, which is now a staple of textbooks, was 
+
+developed by Milton Friedman and Edmund Phelps, and the effect of making 
+
+expectations rational or model consistent was emphasized by Robert Lucas, whose 
+
+islands model provided an imperfect information reason for a nonvertical short-run 
+
+Phillips curve.  In Okun’s law, the Okun coefficient--the coefficient specifying how much 
+
+a change in the unemployment rate affects output--appears to have declined over time.  
+
+So has the trend rate of productivity growth, which is a critical determinant of future 
+
+levels of per capita income.   
+
+In (3), the monetary equilibrium condition, the monetary policy decision was 
+
+typically represented by the money stock at the LSE and perhaps also at the 
+
+Massachusetts Institute of Technology (MIT) after the Keynesian revolution (after all, 
+
+“L” represents the liquidity preference function and “M” the supply of money); now the 
+
+money supply rule is replaced by an interest-rate setting rule, for instance a reaction 
+
+function of some form, or by a calculated “optimal” policy based on a loss function.   
+
+The development of the flexible inflation-targeting approach to monetary policy is 
+
+one of the major achievements of modern macroeconomics.  Flexible inflation targeting 
+
+allows for flexibility in the speed with which the monetary authority plans on returning to 
+
+the target inflation rate, and is thereby close to the dual mandate that the law assigns to 
+
+the Fed.   
+
+A great deal of progress has been made in developing the credit and financial 
+
+intermediation block.  As early as the 1960s, each of James Tobin, Milton Friedman, and 
+
+Karl Brunner and Alan Meltzer wrote out models with more fully explicated financial 
+
+
+ - 5 - 
+
+sectors, based on demand functions for assets other than money.  Later the demand 
+
+functions were often replaced by pricing equations derived from the capital asset pricing 
+
+model.  Researchers at the Fed have been bold enough to add estimated term and risk 
+
+premiums to the determination of the returns on some assets.4  They have concluded, 
+
+inter alia, that the arguments we used to make about how easy it would be to measure 
+
+expected inflation if the government would introduce inflation-indexed bonds failed to 
+
+take into account that returns on bonds are affected by liquidity and risk premiums.  This 
+
+means that one of the major benefits that were expected from the introduction of 
+
+inflation-indexed bonds (Treasury Inflation-Protected Securities, generally called TIPS), 
+
+namely that they would provide a quick and reliable measure of inflation expectations, 
+
+has not been borne out, and that we still have to struggle to get reasonable estimates of 
+
+expected inflation.    
+
+As students, we included NX, net exports, in the aggregate demand equation, but 
+
+we did not generally solve for the exchange rate, possibly because the exchange rate was 
+
+typically fixed.  Later, in 1976, Rudi Dornbusch inaugurated modern international 
+
+macroeconomics--and here I’m quoting from a speech by Ken Rogoff--in his famous 
+
+overshooting model.5  As globalization of both goods and asset markets intensified over 
+
+the next 40 years, the international aspects of trade in goods and assets occupied an 
+
+increasingly important role in the economies of virtually all countries, not least the 
+
+United States, and in macroeconomics.   
+
+At the LSE, we took a course on the British economy from Frank Paish, whose 
+
+lectures consisted of a series of charts, accompanied by narrative from the professor.  He 
+
+                                                 
+4 See D’Amico, Kim, and Wei (2014). 
+5 See Dornbusch (1976) and Rogoff (2001). 
+
+
+ - 6 - 
+
+made a strong impression on me in a lecture in 1963, in which he said, “You see, it (the 
+
+balance of payments deficit) goes up and it goes down, and it is clear that we are moving 
+
+toward a balance of payments crisis in 1964.”  I waited and I watched, and the crisis 
+
+appeared on schedule, as predicted.  But Paish also warned us that forecasting was 
+
+difficult, and gave us the advice “Never look back at your forecasts--you may lose your 
+
+nerve.”  I pass that wisdom on to those of you who need it. 
+
+I remember also my excitement at being told by a friend in a more senior class 
+
+about the existence of econometric models of the entire economy.  It was a wonderful 
+
+moment.  I understood that economic policy would from then on be easy:  All that was 
+
+necessary was to feed the data into the model and work out at what level to set the policy 
+
+parameters.  Unfortunately, it hasn’t worked out that way.  On the use of econometric 
+
+models, I think often of something Paul Samuelson once said:  “I’d rather have Bob 
+
+Solow’s views than the predictions of a model.  But I’d rather have Solow with a model 
+
+than without one.” 
+
+We learned a lot at the LSE.  But wonderful as it was to be in London, and to 
+
+meet people from all over the world for the first time, and to be able to travel to Europe 
+
+and even to the Soviet Union with a student group, and to ski for the first time in my life 
+
+in Austria, it gradually became clear to me that the center of the academic economics 
+
+profession was not in London or Oxford or Cambridge, but in the United States. 
+
+There was then the delicate business of applying to graduate school.  There was a 
+
+strong Chicago tendency among many of the lecturers at the LSE, but I wanted to go to 
+
+MIT.  When asked why, I gave a simple answer:  “Samuelson and Solow.”  Fortunately, I 
+
+got into MIT and had the opportunity of getting to know Samuelson and Solow and other 
+
+
+ - 7 - 
+
+great professors.  And I also met the many outstanding students who were there at the 
+
+time, among them Robert Merton.  I took courses from Samuelson and Solow and other 
+
+MIT stars, and I wrote my thesis under the guidance of Paul Samuelson and Frank Fisher.  
+
+From there, my first job was at the University of Chicago--and I understood that I was 
+
+very lucky to have been able to learn from the great economists at both MIT and 
+
+Chicago.  Among the many things I learned at Chicago was a Milton Friedman saying:  
+
+“Man may not be rational, but he’s a great rationalizer,” which is a quote that often 
+
+comes to mind when listening to stock market analysts.   
+
+After four years at Chicago, I returned to the MIT Department of Economics, and 
+
+thought that I would never leave--even more so when MIT succeeded in persuading Rudi 
+
+Dornbusch, whom I had met when he was a student at Chicago, to move to MIT--thus 
+
+giving him too the benefit of having learned his economics at both Chicago and MIT, and 
+
+giving MIT the pleasure and benefit of having added a superb economist and human 
+
+being to the collection of such people already present. 
+
+MIT was still heavily involved in developing growth theory at the time I was a 
+
+Ph.D. student there, from 1966 to 1969.  We students were made aware of Kaldor’s 
+
+stylized facts about the process of growth, presented in his 1957 article “A Model of 
+
+Economic Growth.”  They were: 
+
+1. The shares of national income received by labor and capital are roughly 
+
+constant over long periods of time. 
+
+2. The rate of growth of the capital stock per worker is roughly constant over 
+
+long periods of time. 
+
+
+ - 8 - 
+
+3. The rate of growth of output per worker is roughly constant over long periods 
+
+of time. 
+
+4. The capital/output ratio is roughly constant over long periods of time. 
+
+5. The rate of return on investment is roughly constant over long periods of time. 
+
+6. The real wage grows over time. 
+
+Well, that was then, and many of the problems we face in our economy now relate 
+
+to the changes in the stylized facts about the behavior of the economy:  Every one of 
+
+Kaldor’s stylized facts is no longer true, and unfortunately the changes are mostly in a 
+
+direction that complicates the formulation of economic policy.6   
+
+While the basic approach outlined so far remains valid, and can be used to address 
+
+many macroeconomic policy issues, I would like briefly to take up several topics in more 
+
+detail.  Some of them are issues that have remained central to the macroeconomic agenda 
+
+over the past 50 years, some have to my regret fallen off the agenda, and others are new 
+
+to the agenda.   
+
+1. Inflation and unemployment:  Estimated Phillips curves appear to be flatter 
+
+than they were estimated to be many years ago--in terms of the textbooks, 
+
+Phillips curves appear to be closer to what used to be called the Keynesian 
+
+case (flat Phillips curve) than to the classical case (vertical Phillips curve).  
+
+Since the U.S. economy is now below our 2 percent inflation target, and since 
+
+unemployment is in the vicinity of full employment, it is sometimes argued 
+
+that the link between unemployment and inflation must have been broken.  I 
+
+don’t believe that.  Rather the link has never been very strong, but it exists, 
+
+                                                 
+6 See Jones and Romer (2010). 
+
+
+ - 9 - 
+
+and we may well at present be seeing the first stirrings of an increase in the 
+
+inflation rate--something that we would like to happen.   
+
+2. Productivity and growth:  The rate of productivity growth in the United States 
+
+and in much of the world has fallen dramatically in the past 20 years.  The 
+
+table shows calculated rates of annual productivity growth for the United 
+
+States over three periods:  1952 to 1973; 1974 to 2007; and the most recent 
+
+period, 2008 to 2015.  After having been 3 percent and 2.1 percent in the first 
+
+two periods, the annual rate of productivity growth has fallen to 1.2 percent in 
+
+the period since the start of the global financial crisis.   
+
+The right guide to thinking in this case is given by a famous Herbert Stein 
+
+line:  “The difference between a growth rate of 1 percent and 2 percent is 100 
+
+percent.”  Why?  Productivity growth is a major determinant of long-term 
+
+growth.  At a 1 percent growth rate, it takes income 70 years to double.  At a 
+
+2 percent growth rate, it takes 35 years to double.  That is to say, that with a 
+
+growth rate of 1 percent per capita, it takes two generations for per capita 
+
+income to double; at a 2 percent per capita growth rate, it takes one generation 
+
+for per capita income to double.  That is a massive difference, one that would 
+
+very likely have severe consequences for the national mood, and possibly for 
+
+economic policy.  That is to say, there are few issues more important for the 
+
+future of our economy, and those of every other country, than the rate of 
+
+productivity growth.  
+
+At this stage, we simply do not know what will happen to productivity 
+
+growth.  Robert Gordon of Northwestern University has just published an 
+
+
+ - 10 - 
+
+extremely interesting and pessimistic book that argues we will have to accept 
+
+the fact that productivity will not grow in future at anything like the rates of 
+
+the period before 1973.  Others look around and see impressive changes in 
+
+technology and cannot believe that productivity growth will not move back 
+
+closer to the higher levels of yesteryear.7  A great deal of work is taking place 
+
+to evaluate the data, but so far there is little evidence that data difficulties 
+
+account for a significant part of the decline in productivity growth as 
+
+calculated by the Bureau of Labor Statistics.8 
+
+3. The ZLB and the effectiveness of monetary policy:  From December 2008 to 
+
+December 2015, the federal funds rate target set by the Fed was a range of 
+
+0 to 1/4 percent, a range of rates that was described as the ZLB (zero lower 
+
+bound).9  Between December 2008 and December 2014, the Fed engaged in 
+
+QE--quantitative easing--through a variety of programs.  Empirical work done 
+
+at the Fed and elsewhere suggests that QE worked in the sense that it reduced 
+
+interest rates other than the federal funds rate, and particularly seems to have 
+
+succeeded in driving down longer-term rates, which are the rates most 
+
+relevant to spending decisions.  
+
+Critics have argued that QE has gradually become less effective over the 
+
+years, and should no longer be used.  It is extremely difficult to appraise the 
+
+effectiveness of a program all of whose parameters have been announced at 
+
+the beginning of the program.  But I regard it as significant with respect to the 
+
+                                                 
+7 See, for instance, Mokyr, Vickers, and Ziebarth (2015). 
+8 See Byrne, Fernald, and Reinsdorf (forthcoming).   
+9 Inside the Fed, the range of 0 to ¼ percent is generally called the ELB, the effective lower bound.   
+
+
+ - 11 - 
+
+effectiveness of QE that the taper tantrum in 2013, apparently caused by a 
+
+belief that the Fed was going to wind down its purchases sooner than 
+
+expected, had a major effect on interest rates.   
+
+More recently, critics have argued that QE, together with negative interest 
+
+rates, is no longer effective in either Japan or in the euro zone.  That case has 
+
+not yet been empirically established, and I believe that central banks still have 
+
+the capacity through QE and other measures to run expansionary monetary 
+
+policies, even at the zero lower bound.   
+
+4. The monetary-fiscal policy mix:  There was once a great deal of work on the 
+
+optimal monetary-fiscal policy mix.  The topic was interesting and the 
+
+analysis persuasive.  Nonetheless the subject seems to be disappearing from 
+
+the public dialogue; perhaps in ascendance is the notion that--except in 
+
+extremis, as in 2009--activist fiscal policy should not be used at all.  Certainly, 
+
+it is easier for a central bank to change its policies than for a Treasury or 
+
+Finance Ministry to do so, but it remains a pity that the fiscal lever seems to 
+
+have been disabled.   
+
+5. The financial sector:  Carmen Reinhart and Ken Rogoff’s book, This Time Is 
+
+Different, must have been written largely before the start of the great financial 
+
+crisis.  I find their evidence that a recession accompanied by a financial crisis 
+
+is likely to be much more serious than an ordinary recession persuasive, but 
+
+the point remains contentious.  Even in the case of the Great Recession, it is 
+
+possible that the U.S. recession got a second wind when the euro-zone crisis 
+
+worsened in 2011.  But no one should forget the immensity of the financial 
+
+
+ - 12 - 
+
+crisis that the U.S. economy and the world went through following the 
+
+bankruptcy of Lehman Brothers--and no one should forget that such things 
+
+could happen again.   
+
+The subsequent tightening of the financial regulatory system under the Dodd-
+
+Frank Act was essential, and the complaints about excessive regulation and 
+
+excessive demands for banks to hold capital betray at best a very short 
+
+memory.  We, the official sector and particularly the regulatory authorities, do 
+
+have an obligation to try to minimize the regulatory and other burdens placed 
+
+on the private sector by the official sector--but we have a no less important 
+
+obligation to try to prevent another financial crisis.  And we should also 
+
+remember that the shadow banking system played an important role in the 
+
+propagation of the financial crisis, and endeavor to reduce the riskiness of that 
+
+system. 
+
+6.   The economy and the price of oil:  For some time, at least since the United 
+
+States became an oil importer, it has been believed that a low price of oil is 
+
+good for the economy.  So when the price of oil began its descent below 
+
+$100 a barrel, we kept looking for an oil-price-cut dividend.  But that dividend 
+
+has been hard to discern in the macroeconomic data.  Part of the reason is that 
+
+as a result of the rapid expansion of the production of oil from shale, total U.S. 
+
+oil production had risen rapidly, and so a larger part of the economy was 
+
+adversely affected by the decline in the price of oil.  Another part is that 
+
+investment in the equipment and structures needed for shale oil production 
+
+had become an important component of aggregate U.S. investment, and that 
+
+
+ - 13 - 
+
+component began a rapid decline.  For these reasons, although the United 
+
+States has remained an oil importer, the decrease in the world price of oil had 
+
+a mixed effect on U.S. gross domestic product.  There is reason to believe that 
+
+when the price of oil stabilizes, and U.S. shale oil production reaches its new 
+
+equilibrium, the overall effect of the decline in the price of oil will be seen to 
+
+have had a positive effect on aggregate demand in the United States, since 
+
+lower energy prices are providing a noticeable boost to the real incomes of 
+
+households. 
+
+7. Secular stagnation:  During World War II in the United States, many 
+
+economists feared that at the end of the war, the economy would return to 
+
+high pre-war levels of unemployment--because with the end of the war, 
+
+demobilization, and the massive reduction that would take place in the defense 
+
+budget, there would not be enough demand to maintain full employment.   
+
+Thus was born or renewed the concept of secular stagnation--the view that the 
+
+economy could find itself permanently in a situation of low demand, less than 
+
+full employment, and low growth.10  That is not what happened after World 
+
+War II, and the thought of secular stagnation was correspondingly laid aside, 
+
+in part because of the growing confidence that intelligent economic policies--
+
+                                                 
+10 I am distinguishing in this section between secular stagnation as being caused by a deficiency of 
+aggregate demand and another view, that output growth will be very slow in future because productivity 
+growth will be very low.  The view that future productivity growth will be very low has already been 
+discussed, with the conclusion that we do not have a good basis for predictions of its future level, and that 
+we simply do not know whether future productivity growth will be extremely low or higher than it has been 
+recently.  There is no shortage of views on this issue among economists, but the views to some extent 
+appear to depend on whether the economist making the prediction is an optimist or a pessimist. 
+
+
+ - 14 - 
+
+fiscal and monetary--could be relied on to help keep the economy at full 
+
+employment with a reasonable growth rate. 
+
+Recently, Larry Summers has forcefully restated the secular stagnation 
+
+hypothesis, and argued that it accounts for the current slowness of economic 
+
+growth in the United States and the rest of the industrialized world.  The 
+
+theoretical case for secular stagnation in the sense of a shortage of demand is 
+
+tied to the question of the level of the interest rate that would be needed to 
+
+generate a situation of full employment.  If the equilibrium interest rate is 
+
+negative, or very small, the economy is likely to find itself growing slowly, 
+
+and frequently encountering the zero lower bound on the interest rate.    
+
+Research has shown a declining trend in estimates of the equilibrium interest 
+
+rate.  That finding has become more firmly established since the start of the 
+
+Great Recession and the global financial crisis.11  Moreover, the level of the 
+
+equilibrium interest rate seems likely to rise only gradually to a longer-run 
+
+level that would still be quite low by historical standards.   
+
+What factors determine the equilibrium interest rate?  Fundamentally, the 
+
+balance of saving and investment demands.  Several trends have been cited as 
+
+possible factors contributing to a decline in the long-run equilibrium real rate.  
+
+One likely factor is persistent weakness in aggregate demand.  Among the 
+
+many reasons for that, as Larry Summers has noted, is that the amount of 
+
+                                                 
+11 This research includes recent work by Johannsen and Mertens (2015) and Kiley (2015) that uses 
+extensions of the original Laubach and Williams (2003) framework.  An international perspective on 
+medium-to-long-run real interest rates is provided by U.S. Executive Office of the President (2015).  
+Reinhart and Rogoff (2009) and Hall (2014) discuss the long-lived effects of financial crises on economic 
+performance.  See also Hamilton and others (2015).  I have, in addition, drawn on Fischer (forthcoming). 
+
+
+ - 15 - 
+
+physical capital that the revolutionary information technology firms with high 
+
+stock market valuations have needed is remarkably small.  The slowdown of 
+
+productivity growth, which as already mentioned has been a prominent and 
+
+deeply concerning feature of the past six years, is another important factor.12  
+
+Others have pointed to demographic trends resulting in there being a larger 
+
+share of the population in age cohorts with high saving rates.13  Some have 
+
+also pointed to high saving rates in many emerging market countries, coupled 
+
+with a lack of suitable domestic investment opportunities in those countries, as 
+
+putting downward pressure on rates in advanced economies--the global 
+
+savings glut hypothesis advanced by Ben Bernanke and others at the Fed 
+
+about a decade ago.14  
+
+Whatever the cause, other things being equal, a lower level of the long-run 
+
+equilibrium real rate suggests that the frequency and duration of future 
+
+episodes in which monetary policy is constrained by the ZLB will be higher 
+
+than in the past.  Prior to the crisis, some research suggested that such 
+
+episodes were likely to be relatively infrequent and generally short lived.15  
+
+The past several years certainly require us to reconsider that basic assumption.   
+
+Moreover, recent experience in the United States and other countries has 
+
+taught us that conducting monetary policy at the effective lower bound is 
+
+                                                 
+12 It is also a major factor explaining the phenomenon of the economy’s impressive performance on the 
+jobs front during a period of historically slow growth. 
+13 See, for instance, Gordon (2014, 2016). 
+14 See Bernanke (2005).  See also the recent work by Caballero, Farhi, and Gourinchas (2008); and 
+Mendoza, Quadrini, and Rios-Rull (2009).    
+15 See, for instance, Reifschneider and Williams (2000), Blanchard and Simon (2001), and Stock and 
+Watson (2003). 
+
+
+ - 16 - 
+
+challenging.16  And while unconventional policy tools such as forward 
+
+guidance and asset purchases have been extremely helpful and effective, all 
+
+central banks would prefer a situation with positive interest rates, restoring 
+
+their ability to use the more traditional interest rate tool of monetary policy.17   
+
+The answer to the question “Will the equilibrium interest rate remain at 
+
+today’s low levels permanently?” is also that we do not know.  Many of the 
+
+factors that determine the equilibrium interest rate, particularly productivity 
+
+growth, are extremely difficult to forecast.  At present, it looks likely that the 
+
+equilibrium interest rate will remain low for the policy-relevant future, but 
+
+there have in the past been both long swings and short-term changes in what 
+
+can be thought of as equilibrium real rates. 
+
+Eventually, history will give us the answer.  But it is critical to emphasize that 
+
+history’s answer will depend also on future policies, monetary and other, 
+
+notably including fiscal policy.   
+
+Concluding Remarks 
+
+Well, are the answers all different than they were 50 years ago?  No.  The basic 
+
+framework we learned a half-century ago remains extremely useful.  But also yes:  Some 
+
+of the answers are different because they were not on previous exams because the 
+
+problems they deal with were not evident fifty years ago.  So the advice to potential 
+
+policymakers is simple:  Learn as much as you can, for most of it will come in useful at 
+
+                                                 
+16 For a discussion of various issues reviewed by the Federal Open Market Committee in late 2008 and 
+2009 regarding the complications of unconventional monetary policy at the ZLB, see the set of staff memos 
+on the Board’s website at www.federalreserve.gov/foia/fomc/readingrooms.htm. 
+17 See Williams (2013). 
+
+
+ - 17 - 
+
+some stage of your career; but never forget that identifying what is happening in the 
+
+economy is essential to your ability to do your job, and for that you need to keep your 
+
+eyes, your ears, and your mind open, and with regard to your mouth--to use it with 
+
+caution.   
+
+Many thanks again for this award and this opportunity to speak with you. 
+
+
+
+
+
+ - 18 - 
+
+References 
+
+Bernanke, Ben S. (2005).  “The Global Saving Glut and the U.S. Current Account 
+Deficit,” speech delivered at the Homer Jones Lecture, St. Louis, April 14, 
+www.federalreserve.gov/boarddocs/speeches/2005/20050414/default.htm. 
+
+ 
+Blanchard, Olivier (2014). “Where Danger Lurks:  The Recent Financial Crisis Has 
+
+Taught Us to Pay Attention to Dark Corners, Where the Economy Can 
+Malfunction Badly,” Finance and Development, vol. 51 (September), pp. 28-31. 
+
+  
+-------- (2016).  “The U.S. Phillips Curve:  Back to the 60s?” Policy Brief 16-1.  
+
+Washington:  Peterson Institute for International Economics, January, 
+https://www.piie.com/publications/pb/pb16-1.pdf. 
+
+ 
+Blanchard, Olivier, Eugenio Cerutti, and Lawrence Summers (2015).  “Inflation and 
+
+Activity--Two Explorations and Their Monetary Policy Implications,” IMF 
+Working Paper WP/15/230.  Washington:  International Monetary Fund, 
+November, https://www.imf.org/external/pubs/ft/wp/2015/wp15230.pdf. 
+
+ 
+Blanchard, Olivier, and John Simon (2001).  “The Long and Large Decline in U.S. 
+
+Output Volatility,” Brookings Papers on Economic Activity, 1, pp. 135-74, 
+www.brookings.edu/~/media/projects/bpea/spring-
+2001/2001a_bpea_blanchard.pdf. 
+
+ 
+Brunner, Karl, and Allan H. Meltzer (1972).  “Money, Debt, and Economic Activity,” 
+
+Journal of Political Economy, vol. 80 (September-October), pp.951-77. 
+ 
+Byrne, David M., John G. Fernald, and Marshall Reinsdorf (forthcoming).  “Does the 
+
+United States Have a Productivity Problem or a Measurement Problem?” 
+Brookings Papers on Economic Activity. 
+
+ 
+Caballero, Ricardo J., Emmanuel Farhi, and Pierre-Olivier Gourinchas (2008).  “An 
+
+Equilibrium Model of ‘Global Imbalances’ and Low Interest Rates,” American 
+Economic Review, vol. 98 (1), pp. 358-93. 
+
+ 
+Daly, Mary C., John G. Fernald, Òscar Jordà, and Fernanda Nechio (2014).  “Output and 
+
+Unemployment Dynamics,” Working Paper Series 2013-32.  San Francisco:  
+Federal Reserve Bank of San Francisco, November, www.frbsf.org/economic-
+research/files/wp2013-32.pdf. 
+
+ 
+-------- (2014).  “Interpreting Deviations from Okun’s Law,” FRBSF Economic Letter 
+
+2014-12.  San Francisco:  Federal Reserve Bank of San Francisco, 
+www.frbsf.org/economic-research/publications/economic-letter/2014/april/okun-
+law-deviation-unemployment-recession. 
+
+D’Amico, Stefania, Don H. Kim, and Min Wei (2014).  “Tips from TIPS:  The 
+Informational Content of Treasury Inflation-Protected Security Prices,” Finance 
+
+
+ - 19 - 
+
+and Economics Discussion Series 2014-24.  Washington:  Board of Governors of 
+the Federal Reserve System, January, 
+www.federalreserve.gov/pubs/feds/2014/201424/201424pap.pdf. 
+
+Dornbusch, Rudiger (1976).  “Expectations and Exchange Rate Dynamics,” Journal of 
+Political Economy, vol. 84 (December), pp. 1161-76. 
+
+Dornbusch, Rudiger, Stanley Fischer, and Richard Startz (2014).  Macroeconomics, 
+12th ed.  New York:  McGraw-Hill Education. 
+
+Fischer, Stanley (forthcoming).  “Monetary Policy, Financial Stability, and the Zero 
+Lower Bound,” American Economic Review (Papers and Proceedings). 
+
+Friedman, Milton (1968).  “The Role of Monetary Policy,” American Economic Review, 
+vol. 58 (March), pp. 1-17. 
+
+Gordon, Robert J. (2014).  “The Demise of U.S. Economic Growth:  Restatement, 
+Rebuttal, and Reflections,” NBER Working Paper Series 19895.  Cambridge, 
+Mass.:  National Bureau of Economic Research, February. 
+
+-------- (2016).  The Rise and Fall of American Growth:  The U.S. Standard of Living 
+since the Civil War.  Princeton, N.J.:  Princeton University Press. 
+
+Hall, Robert E. (2014).  “Quantifying the Lasting Harm to the U.S. Economy from the 
+Financial Crisis,” in Jonathan Parker and Michael Woodford, eds., NBER 
+Macroeconomics Annual 2014, vol. 29.  Chicago:  University of Chicago Press. 
+
+Hamilton, James D., Ethan S. Harris, Jan Hatzius, and Kenneth D. West (2015).  “The 
+Equilibrium Real Funds Rate:  Past, Present and Future,” NBER Working Paper 
+Series 21476.  Cambridge, Mass.:  National Bureau of Economic Research, 
+August. 
+
+Hicks, John R. (1937).  “Mr. Keynes and the ‘Classics’:  A Suggested Interpretation,” 
+Econometrica, vol. 5 (April), pp. 147-59. 
+
+ 
+Johannsen, Benjamin K., and Elmar Mertens (2016).  “The Expected Real Interest Rate 
+
+in the Long Run:  Time Series Evidence with the Effective Lower Bound,” FEDS 
+Notes.  Washington:  Board of Governors of the Federal Reserve System, 
+February 9, www.federalreserve.gov/econresdata/notes/feds-notes/2016/the-
+expected-real-interest-rate-in-the-long-run-time-series-evidence-with-the-
+effective-lower-bound-20160209.html. 
+
+ 
+Jones, Charles I., and Paul M. Romer (2010).  “The New Kaldor Facts:  Ideas, 
+
+Institutions, Population, and Human Capital,” American Economic Journal:  
+Macroeconomics, vol. 2 (January), pp. 224-45. 
+
+ 
+Kaldor, Nicholas (1957).  “A Model of Economic Growth,” Economic Journal, vol. 67 
+
+(December), pp. 591-624. 
+
+
+ - 20 - 
+
+ 
+Keynes, John Maynard (1936).  The General Theory of Employment, Interest and Money.  
+
+London:  Macmillan. 
+ 
+Kiley, Michael T. (2015).  “What Can the Data Tell Us about the Equilibrium Real 
+
+Interest Rate?” Finance and Economics Discussion Series 2015-077.  
+Washington:  Board of Governors of the Federal Reserve System, August, 
+www.federalreserve.gov/econresdata/feds/2015/files/2015077pap.pdf. 
+
+ 
+Knotek, Edward S., II (2007).  “How Useful Is Okun’s Law?” Federal Reserve Bank of 
+
+Kansas City, Economic Review, Fourth Quarter, pp. 73-103, 
+www.kansascityfed.org/publicat/econrev/pdf/4q07knotek.pdf. 
+
+ 
+Laubach, Thomas, and John C. Williams (2003).  “Measuring the Natural Rate of 
+
+Interest,” Review of Economics and Statistics, vol. 85 (November), pp. 1063-70. 
+ 
+Lucas, Robert E., Jr. (1972).  “Expectations and the Neutrality of Money,” Journal of 
+
+Economic Theory, vol. 4 (April), pp. 103-24. 
+ 
+Mendoza, Enrique G., Vincenzo Quadrini, and José-Víctor Ríos-Rull (2009).  “Financial 
+
+Integration, Financial Development, and Global Imbalances,” Journal of Political 
+Economy, vol. 117 (3), pp. 371-416. 
+
+ 
+Modigliani, Franco (1944).  “Liquidity Preference and the Theory of Interest and 
+
+Money,” Econometrica, vol. 12 (January), pp. 45-88. 
+ 
+Mokyr, Joel, Chris Vickers, and Nicolas L. Ziebarth (2015).  “The History of 
+
+Techonological Anxiety and the Future of Economic Growth:  Is This Time 
+Different?” Journal of Economic Perspectives, vol. 29 (Summer), pp. 31-50. 
+
+ 
+Obstfeld, Maurice, and Kenneth Rogoff (1996).  Foundations of International 
+
+Macroeconomics.  Cambridge, Mass.:  MIT Press. 
+ 
+Okun, Arthur M. (1962).  “Potential GNP:  Its Measurement and Significance,” 
+
+Proceedings of the Business and Economics Statistics Section of the American 
+Statistical Association, pp. 98-104.  
+
+ 
+Phelps, Edmund S. (1967). “Phillips Curves, Expectations of Inflation and Optimal 
+
+Unemployment over Time,” Economica, vol. 34 (August), pp. 254-81. 
+ 
+Reifschneider, David, and John C. Williams (2000).  “Three Lessons for Monetary Policy 
+
+in a Low-Inflation Era,” Journal of Money, Credit, and Banking, vol. 32 
+(November), pp. 936-66. 
+
+ 
+Reinhart, Carmen M., and Kenneth S. Rogoff (2009).  This Time Is Different:  Eight 
+
+Centuries of Financial Folly.  Princeton, N.J.:  Princeton University Press. 
+
+
+ - 21 - 
+
+ 
+Rogoff, Kenneth (2001).  “Dornbusch’s Overshooting Model after Twenty-Five Years,” 
+
+speech delivered at the Mundell-Fleming Lecture, Second Annual Research 
+Conference, International Monetary Fund, Washington, November 30 (revised 
+January 22, 2002), www.imf.org/external/np/speeches/2001/kr/112901.pdf. 
+
+ 
+Solow, Robert M. (2004).  “Introduction:  The Tobin Approach to Monetary Economics,” 
+
+Journal of Money, Credit, and Banking, vol. 36 (August), pp. 657-63. 
+ 
+Stock, James H., and Mark W. Watson (2003).  “Has the Business Cycle Changed and 
+
+Why?” NBER Macroeconomics Annual 2002, vol. 17 (January). 
+ 
+Tobin, James (1969).  “A General Equilibrium Approach to Monetary Theory,” Journal 
+
+of Money, Credit, and Banking, vol. 1 (February), pp. 15-29. 
+ 
+U.S. Executive Office of the President, Council of Economic Advisors (2015).  Long-
+
+Term Interest Rates:  A Survey.  Washington:  EOP, 
+https://www.whitehouse.gov/sites/default/files/docs/interest_rate_report_final.pdf. 
+
+ 
+Williams, John C. (2013).  “A Defense of Moderation in Monetary Policy,” Working 
+
+Paper Series 2013-15.  San Francisco:  Federal Reserve Bank of San Francisco, 
+July, www.frbsf.org/economic-research/files/wp2013-15.pdf. 
+
+ 
+Woodford, Michael (2010).  “Financial Intermediation and Macroeconomic Analysis,” 
+
+Journal of Economic Perspectives, vol. 24 (Fall), pp. 21-44. 
+
+
+
+
+
+ - 22 - 
+
+Appendix 
+
+The following model includes a number of elements that play a central role in the 
+
+analysis of economic fluctuations and in larger policy models as I have encountered them 
+
+at the Federal Reserve and other institutions. 
+
+An aggregate demand relationship, in the form of the investment-saving (or IS) 
+
+curve, characterizes the negative dependence of economic activity on the real borrowing 
+
+rate, 𝑖𝑖𝐵𝐵 − 𝜋𝜋𝑒𝑒 , and the positive dependence on expected output, 𝑦𝑦𝑒𝑒; government spending, 
+
+𝐺𝐺; and net exports, NX, as a function of the exchange rate, 𝑒𝑒, and foreign output, 𝑦𝑦𝑓𝑓: 
+
+ 
+𝑦𝑦 = 𝐴𝐴(𝑖𝑖𝐵𝐵 − 𝜋𝜋𝑒𝑒 , 𝑦𝑦𝑒𝑒 ,𝐺𝐺,𝑁𝑁𝑁𝑁), 𝑤𝑤𝑖𝑖𝑤𝑤ℎ  𝑁𝑁𝑁𝑁 = 𝑓𝑓 �𝑒𝑒𝑃𝑃𝑓𝑓
+
+𝑃𝑃
+,𝑦𝑦𝑓𝑓�.           (1) 
+
+ 
+The Phillips curve describes a relationship between inflation and labor market 
+
+slack.  Inflation responds negatively to the level of the unemployment gap, 𝑢𝑢,�  and to 
+
+changes in aggregate productivity, 𝑧𝑧 (including shocks to commodity prices).  Current 
+
+inflation also responds positively to expected future inflation, 𝜋𝜋𝑒𝑒 , and to the level of the 
+
+borrowing rate and of the exchange rate, 𝜙𝜙(𝑖𝑖𝐵𝐵, 𝑒𝑒) (cost − push shocks): 
+
+ 
+𝜋𝜋 = 𝑓𝑓(𝑢𝑢�) − 𝑧𝑧 + 𝜋𝜋𝑒𝑒 + 𝜙𝜙�𝑖𝑖𝐵𝐵,  𝑒𝑒�.                           (Phillips curve)    (2)   
+
+ 
+Current issues regarding the role of expectations, the size of the slope, and the 
+
+pass-through from exchange rate movements to domestic prices and wages can be 
+
+addressed in this context.  Recent discussions can be found in Blanchard’s (2016) 
+
+reference to the back-to-the-1960s thinking about the Phillips curve and in Blanchard, 
+
+Cerutti, and Summers’s (2015) thoughts on hysteresis mechanisms underlying the 
+
+inflation and unemployment dynamic. 
+
+
+ - 23 - 
+
+To connect cyclical fluctuations in the level of aggregate activity with changes in 
+
+employment, Okun’s law has been proved useful as an empirical description of the 
+
+relationship between the output gap and the unemployment gap, 𝑢𝑢� = 𝑢𝑢−𝑢𝑢
+∗
+
+𝑢𝑢∗
+ (see Knotek 
+
+(2007); and Daly, Fernald, Jordà, and Nechio (2013, 2014)): 
+
+ 
+𝑦𝑦� = −𝛾𝛾𝑢𝑢� .                 (Okun’s law)     (3)   
+
+ 
+To characterize monetary policy, it is nowadays useful to consider how the central 
+
+bank affects the level of interest rates by setting the federal funds rate, 𝑖𝑖, in response to 
+
+deviations of expected inflation from its target, 𝜋𝜋� = 𝜋𝜋𝑒𝑒 − 𝜋𝜋∗ (inflation gap), and percent 
+
+deviations of output from its potential level, 𝑦𝑦� = 𝑦𝑦−𝑦𝑦
+∗
+
+𝑦𝑦∗
+ (output gap): 
+
+ 
+𝑖𝑖 = 𝑓𝑓�𝜋𝜋𝑒𝑒 − 𝜋𝜋∗,  𝑦𝑦��.                       (4) 
+
+ 
+To capture the role of credit and financial intermediation in the economy, 
+
+consider a loan market equation, where the demand on the left-hand side depends 
+
+negatively on the borrowing rate, 𝑖𝑖𝐵𝐵, and the level of economic activity (higher income 
+
+implies lower financing needs).  The supply of loans depends negatively on the level of 
+
+interest rates, 𝑖𝑖, and positively on the level of intermediation spreads, 𝜔𝜔, and income, 𝑦𝑦 
+
+(to the extent that higher aggregate income increases deposits and banks’ capitalization 
+
+and hence the supplies of intermediated funds).  This equation pins down the equilibrium 
+
+level of the intermediation spread,𝜔𝜔: 
+
+ 
+𝐿𝐿𝑑𝑑(𝑖𝑖𝐵𝐵,𝑦𝑦) = 𝐿𝐿𝑠𝑠�𝑖𝑖,𝜔𝜔,  𝑦𝑦�.       (5) 
+ 
+The borrowing rate, 𝑖𝑖𝐵𝐵, is then equal to the sum of the risk-free rate set by the 
+
+central bank, 𝑖𝑖, and the spread,𝜔𝜔: 
+
+
+ - 24 - 
+
+ 
+𝑖𝑖𝐵𝐵 = 𝑖𝑖 + 𝜔𝜔.        (6) 
+
+ 
+This analysis is in the spirit of James Tobin’s approach to monetary economics as 
+
+was recently described by Solow (2004) and extended by Woodford (2010) to describe 
+
+the role for financial intermediation shocks.  It also captures the work by B. Friedman, B. 
+
+Bernanke, and A. Blinder in thinking about the role of credit and credit spreads in the 
+
+transmission of monetary policy impulses. 
+
+Open economy aspects are captured by the following equations:  The balance of 
+
+payment is in equilibrium when net exports are compensated by capital flows of opposite 
+
+sign.  Capital flows depend on the difference between the domestic interest rate and the 
+
+foreign rate adjusted for depreciation: 
+
+ 
+𝑁𝑁𝑁𝑁 �𝑒𝑒𝑃𝑃𝑓𝑓
+
+𝑃𝑃
+,𝑦𝑦𝑓𝑓�+ 𝐶𝐶𝐶𝐶 �𝑖𝑖 − 𝑖𝑖𝑓𝑓 −
+
+𝑑𝑑𝑒𝑒
+𝑒𝑒 
+� = 0.    (7) 
+
+ 
+Furthermore, the uncovered interest rate parity equates the rate of return on 
+
+domestic assets, 𝑖𝑖, to the rate of return on foreign assets, 𝑖𝑖𝑓𝑓 ,  plus future expected changes 
+
+in the exchange rate,  𝑑𝑑𝑒𝑒
+𝑒𝑒
+
+, and a residual risk premium component, 𝑅𝑅𝑅𝑅: 
+
+ 
+ 𝑖𝑖 = 𝑖𝑖𝑓𝑓 +
+
+𝑑𝑑𝑒𝑒
+𝑒𝑒 
+
++ 𝑅𝑅𝑅𝑅.                    (8) 
+ 
+
+For a detailed description of these relationships, see Dornbusch, Fischer, and 
+
+Startz (2014); and Obstfeld and Rogoff (1996). 
+
+
+Reflections on Macroeconomics Then and Now
+
+Stanley Fischer 
+
+Vice Chairman
+Board of Governors of the Federal Reserve System
+
+March 7, 2016
+32nd Annual National Association for Business Economics 
+
+Economic Policy Conference
+
+
+Kaldor’s Stylized Facts
+1. The shares of national income received by labor and capital are 
+roughly constant over long periods of time.
+
+2. The rate of growth of the capital stock per worker is roughly constant 
+over long periods of time.
+
+3. The rate of growth of output per worker is roughly constant over long 
+periods of time.
+
+4. The capital/output ratio is roughly constant over long periods of time.
+
+5. The rate of return on investment is roughly constant over long periods 
+of time.
+
+6. The real wage grows over time.
+
+Source:  Nicholas Kaldor (1957), “A Model of Economic Growth,” Economic Journal, vol. 67 (December), pp. 591–624.
+
+
+Source:  U.S. Bureau of Labor Statistics.
+
+U.S. Average Productivity Growth
+(Nonfarm Business Sector Real Output per Hour—All Persons)
+
+3.0%
+
+2.1%
+
+1.2%
+
+0.0%
+0.5%
+1.0%
+1.5%
+2.0%
+2.5%
+3.0%
+3.5%
+
+1952 - 1973 1974 - 2007 2008 - 2015
+

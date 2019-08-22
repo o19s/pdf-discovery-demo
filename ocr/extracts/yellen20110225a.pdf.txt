@@ -1,0 +1,1052 @@
+
+For release on delivery 
+1:30 p.m. EST  
+February 25, 2011 
+ 
+
+
+Unconventional Monetary Policy and Central Bank Communications 
+ 
+ 
+ 
+
+Remarks by 
+ 
+
+Janet L. Yellen 
+ 
+
+Vice Chair  
+ 
+
+Board of Governors of the Federal Reserve System 
+ 
+
+at the 
+ 
+
+The U.S. Monetary Policy Forum 
+ 
+
+New York, New York 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+February 25, 2011 
+
+
+
+
+
+
+The U.S. Monetary Policy Forum has become an important venue for promoting 
+
+an exchange of views among policymakers, academics, and financial market participants.  
+
+I’m pleased to participate in this panel on lessons learned about unconventional monetary 
+
+policy.  In my remarks today, I’ll highlight the role of central bank communications in 
+
+bolstering the effectiveness of unconventional monetary policy.1  It is not my intention to 
+
+provide new information about the outlook for the U.S. economy or monetary policy. 
+
+The Federal Open Market Committee (FOMC) has deployed unconventional 
+
+monetary policy tools to promote economic recovery and price stability since late 2008.  
+
+In particular, after the intensification of the financial crisis, conventional monetary policy 
+
+became constrained by the zero lower bound on nominal interest rates.  At that point, the 
+
+FOMC began to provide forward guidance about the likely path of the federal funds rate, 
+
+and the Federal Reserve also announced a program to buy agency debt and mortgage-
+
+backed securities (MBS).  Over time, the purchase program was augmented substantially 
+
+and was expanded to include longer-term Treasury securities.  Furthermore, on several 
+
+occasions, the FOMC has communicated to the markets about the likely longer-term 
+
+trajectory of its holdings of Treasury securities, agency debt, and agency MBS.   
+
+In the remainder of my remarks, I will present some evidence regarding the 
+
+effectiveness of these policy tools and discuss important similarities and differences in 
+
+the transmission mechanisms through which they influence the economy.  I will also 
+
+present some simulations of a macroeconometric model to illustrate the importance of 
+
+                                                 
+1 These remarks solely reflect my own views and not necessarily those of any other member of the Federal 
+Open Market Committee.  I appreciate assistance from the members of the Board staff--including William 
+English, Yuriy Kitsul, Jean-Philippe Laforte, Andrew Levin, David Reifschneider, and David Wilcox--who 
+contributed to the preparation of these remarks.   
+
+
+ - 2 -
+
+clear and effective communication in conjunction with the use of these unconventional 
+
+policy tools.  
+
+Some General Observations  
+
+It is important to recognize at the outset that conventional and unconventional 
+
+monetary policy actions bear many similarities.  Forward guidance concerning the path of 
+
+the federal funds rate, for example, is explicitly intended to influence market expectations 
+
+concerning the future trajectory of shorter-term interest rates and thereby affect longer-
+
+term interest rates.  That said, standard monetary policy actions also typically alter not 
+
+just current short-term rates, but the anticipated path of short-term rates as well, 
+
+influencing longer-term rates through the identical channel.  In fact, central bankers have 
+
+long recognized that this “expectations channel” operates most effectively when the 
+
+public understands how policymakers expect economic conditions and monetary policy 
+
+to evolve over time, and how the central bank would respond to any changes in the 
+
+outlook.   
+
+The transmission channels through which longer-term securities purchases and 
+
+conventional monetary policy affect economic conditions are also quite similar, though 
+
+not identical.  In particular, central bank purchases of longer-term securities work through 
+
+a portfolio balance channel to depress term premiums and longer-term interest rates.  The 
+
+theoretical rationale for the view that longer-term yields should be directly linked to the 
+
+outstanding quantity of longer-term assets in the hands of the public dates back at least to 
+
+the 1950s.2   
+
+                                                 
+2 Early examples include Culbertson (1957), Tobin (1958), and Modigliani and Sutch (1966).  More 
+recently, Vayanos and Vila (2009) study a preferred-habitat model in which short- and long-term assets are 
+imperfect substitutes in investors’ portfolios and the effect of arbitrageurs is limited by their risk aversion 
+or other market frictions such as capital constraints. 
+
+
+ - 3 -
+
+Each of these policy tools tends to generate spillovers to other financial markets, 
+
+such as boosting stock prices and putting moderate downward pressure on the foreign 
+
+exchange value of the dollar.  My reading of the evidence, which I will briefly review, is 
+
+that both unconventional policy tools--the use of forward guidance and the purchases of 
+
+longer-term securities--have proven effective in easing financial conditions and hence 
+
+have helped mitigate the constraint associated with the zero lower bound on the federal 
+
+funds rate.  
+
+The Effectiveness of Forward Guidance  
+
+I will begin with an assessment of the FOMC’s forward guidance concerning the 
+
+federal funds rate, which began when the FOMC reduced its funds rate target to a range 
+
+of 0 to 1/4 percentage point.  In particular, the December 2008 FOMC meeting statement 
+
+indicated that “economic conditions are likely to warrant exceptionally low levels of the 
+
+federal funds rate for some time.”  Identical guidance was reiterated in January 2009, and 
+
+in March 2009 the phrase “for some time” was changed to “for an extended period.”   
+
+Figure 1 suggests that the provision of guidance concerning the future path of the 
+
+federal funds rate likely contributed to more accommodative financial market conditions.  
+
+In particular, the consensus outlook of professional forecasters regarding the path of the 
+
+funds rate shifted down markedly in the Blue Chip survey published at the beginning of 
+
+February 2009 (the solid line) compared with the survey published two months earlier 
+
+(the dashed line).3   
+
+A crucial feature of the FOMC’s policy communications is that the Committee’s 
+
+forward guidance has been framed not as an unconditional commitment to a specific 
+
+federal funds rate path, but rather as an expectation that is explicitly contingent on 
+                                                 
+3 See Blue Chip Financial Forecasts (2008, 2009). 
+
+
+ - 4 -
+
+economic conditions.  Since November 2009, the Committee has specifically indicated 
+
+that the relevant economic conditions include “low rates of resource utilization, subdued 
+
+inflation trends, and stable inflation expectations.”  An important consequence of such 
+
+conditionality, serving to enhance the effectiveness of the guidance, is that incoming 
+
+information about economic and financial developments has led forecasters and investors 
+
+to revise their outlook for the path of the funds rate even in the absence of a change in the 
+
+forward guidance language.  
+
+The evolution of financial market expectations concerning the funds rate path 
+
+over the past year illustrates that the conditional nature of the FOMC’s forward guidance 
+
+allows incoming economic data to shift market views.  For example, as shown in the left 
+
+panel of figure 2, the expected path of the funds rate shifted down markedly during the 
+
+spring and early summer of last year in the wake of weaker readings on economic activity 
+
+and prices and of some concerns about potential spillovers from developments in Europe.  
+
+Those expectations shifted down somewhat further during late summer and early autumn.  
+
+Conversely, as shown in the right panel, funds rate expectations have shifted upward over 
+
+the past several months in response to more-positive economic news and greater 
+
+confidence that a self-sustaining economic recovery may be taking hold. 
+
+Down the road, once the recovery is well established and the appropriate time for 
+
+beginning to firm the stance of policy appears to be drawing near, the FOMC will 
+
+naturally need to adjust its “extended period” guidance and develop an alternative 
+
+communications strategy to shape market expectations about the policy outlook.  
+
+However, if there were an unexpected faltering of the recovery or a substantial widening 
+
+of downside risks to economic activity and inflation, the forward guidance now in place 
+
+
+ - 5 -
+
+might well be sufficient to facilitate an outward shift in the expected path of the funds 
+
+rate, just as we saw over the course of last year.   
+
+If financial market participants appeared to be expecting policy firming to begin 
+
+somewhat sooner than policymakers considered desirable or appropriate under such 
+
+circumstances, the language of the forward guidance could be adjusted to shift 
+
+expectations toward the somewhat longer horizon over which the Committee expected 
+
+the federal funds rate to remain extraordinarily low.  Figure 3 illustrates the potential for 
+
+such a change in forward guidance to support economic activity.   In the left panel, the 
+
+dashed line denotes the baseline path for the federal funds rate as embedded in current 
+
+financial market data, while the solid line corresponds to an alternative path in which the 
+
+initiation of policy firming is postponed by one year.  If policymakers viewed that 
+
+alternative path as appropriate and market participants came to share that view, then 
+
+financial conditions would become significantly more accommodative, even in the 
+
+absence of any change in the current level of the funds rate.  As shown in the right panel, 
+
+a simulation of the FRB/US model--a macroeconometric model developed and 
+
+maintained at the Federal Reserve Board--indicates that such a shift in policy 
+
+expectations would be associated with a lower trajectory for the unemployment rate 
+
+(solid line) and a somewhat higher path of core inflation (dashed line) over coming years. 
+
+The Effectiveness of Asset Purchases 
+
+I will now turn to an assessment of the FOMC’s program of longer-term securities 
+
+purchases.  Both theory and empirical evidence suggest that asset prices and yields are 
+
+affected not only by current securities purchases but also, importantly, by market 
+
+expectations concerning future FOMC securities holdings.  This observation implies that 
+
+
+ - 6 -
+
+central bank communications pertaining to any important feature of the path of the 
+
+Federal Reserve’s balance sheet should influence financial conditions.   
+
+Event studies can therefore be helpful in gauging the financial market effects of 
+
+such communications.4  For example, table 1 reports the response of selected financial 
+
+variables on several key dates associated with the FOMC’s purchases of longer-term 
+
+securities.  In late November 2008, the Federal Reserve announced that it would purchase 
+
+up to $600 billion in agency MBS and agency debt, and Chairman Bernanke provided 
+
+further details in a speech one week later.  On March 18, 2009, the FOMC announced 
+
+that the program would be expanded by an additional $850 billion in purchases of agency 
+
+securities and by $300 billion in purchases of longer-term Treasury securities.  Evidently, 
+
+each of those communications was associated with substantial declines in longer-term 
+
+nominal and real Treasury yields and in rates on agency MBS and corporate debt. 
+
+Last August, the FOMC announced that it would begin reinvesting principal 
+
+payments on agency MBS and agency debt into longer-term Treasury securities, and over 
+
+the subsequent couple of months or so, the public remarks of Federal Reserve officials 
+
+made note of the possibility of a further expansion of the portfolio.  Consequently, when 
+
+the Committee announced in early November that it intended to purchase an additional 
+
+$600 billion in longer-term Treasury securities, that decision was largely anticipated by 
+
+financial market participants, and it occasioned only minimal market response.  However, 
+
+taken together the movements in longer-term interest rates that occurred between the 
+
+August and November FOMC meetings are strikingly similar to those on the prior 
+
+                                                 
+4 A burgeoning literature focuses on the experience with asset purchase programs of the Federal Reserve 
+and other central banks; for example, see D’Amico and King (2010); Gagnon and others (2010); Hamilton 
+and Wu (2010); and Joyce and others (2010). 
+
+
+ - 7 -
+
+announcement dates shown in the table, bolstering the judgment that these securities 
+
+purchases contribute to more accommodative financial conditions. 
+
+One complication that arises in evaluating the contribution of portfolio balance 
+
+effects to the observed movements in longer-term rates is that news about large-scale 
+
+asset purchases may also influence investors’ perceptions regarding the likely path of 
+
+short-term interest rates.  Such effects may not have been very important, however, when 
+
+the FOMC announced the expansion of its securities purchases in March 2009.  As 
+
+shown in Figure 4, that announcement appeared to have only modest effects on the 
+
+outlook of professional forecasters (left panel) and investors (right panel) regarding the 
+
+likely trajectory of the federal funds rate.  Thus, the substantial decline in longer-term 
+
+yields following this announcement appears to have mainly reflected the effect of the 
+
+purchases in pushing down term premiums rather than a shift in the expected path of the 
+
+funds rate.5  This evidence suggests that the portfolio balance channel of influence is not 
+
+only operative but also fairly large.   
+
+That said, as we saw in figure 2, the expected path of the federal funds rate does 
+
+appear to have flattened for a time during the late summer and early autumn of last year.  
+
+Even allowing for that change in near-term policy expectations, however, it seems 
+
+reasonable to conclude that the announcement of additional securities purchases mainly 
+
+affected financial conditions through the portfolio balance channel.  
+
+                                                 
+5 As noted earlier, in the March 2009 FOMC statement, the Committee did modify its forward guidance by 
+indicating that exceptionally low levels of the federal funds rate would likely be warranted “for an extended 
+period” (rather than “for some time”, as in the December 2008 and January 2009 FOMC statements), but 
+that modification does not appear to have substantially influenced professional forecasters’ expectations 
+about the near-term path of the federal funds rate.  To the extent that the expanded asset purchases were 
+expected to strengthen the economic recovery, the change in the forward guidance may have helped clarify 
+that the FOMC did not intend to offset that effect by accelerating the initiation of policy firming; 
+consequently, expectations for the trajectory of the federal funds rate were little changed on balance.   
+
+
+ - 8 -
+
+To assess the macroeconomic effects of the Fed’s large-scale asset purchase 
+
+program, I would like to highlight some findings from a recent study by four Federal 
+
+Reserve System economists.6  As shown in figure 5, the authors constructed an 
+
+illustrative baseline trajectory for the Federal Reserve’s securities holdings over the 
+
+course of this decade (solid line) as well as an alternative trajectory corresponding to a 
+
+counterfactual scenario in which the FOMC never decided to initiate any securities 
+
+purchases (dashed line).   
+
+The baseline incorporates the first round of asset purchases--which brought the 
+
+Federal Reserve’s securities holdings to a little more than $2 trillion.  It embeds an 
+
+assumption that the FOMC will complete the purchases announced last November so that 
+
+the balance sheet expands to about $2.6 trillion by the middle of this year.  From that 
+
+point forward, the authors assume that the overall size of the portfolio will remain 
+
+unchanged until mid-2012 and then shrink gradually at a rate sufficient to return it to its 
+
+pre-crisis trend line by mid-2016, whereupon the Federal Reserve resumes expanding its 
+
+holdings at the trend rate.  Full convergence of the composition of the portfolio is not 
+
+complete until 2017, however, as the average maturity of the portfolio is still somewhat 
+
+elevated in 2016.  It should also be noted that the trend line itself rises gradually over 
+
+time as a consequence of steady growth in demand for U.S. currency.  
+
+Of course, the baseline trajectory is purely illustrative:  The actual evolution of 
+
+the Federal Reserve’s balance sheet will depend on the decisions that the FOMC will 
+
+make in light of economic and financial developments.  Nonetheless, the overall 
+
+characteristics of this assumed trajectory seem broadly consistent with the sense of the 
+
+Committee’s discussions last spring.  In particular, as reported in the minutes of the April 
+                                                 
+6 See Chung and others (2011). 
+
+
+ - 9 -
+
+2010 FOMC meeting, most Committee participants expressed a preference for 
+
+renormalizing the size and composition of the Federal Reserve’s balance sheet over a 
+
+period of about five years that would commence following the initiation of policy 
+
+firming. 
+
+Figure 6 shows the results of simulations of the FRB/US model to gauge the 
+
+effect of these asset purchases on the unemployment rate and core personal consumption 
+
+expenditures (PCE) inflation.  For this purpose, the baseline path (denoted by the dashed 
+
+line in each panel) is constructed using historical data in conjunction with the latest set of 
+
+consensus projections from the Survey of Professional Forecasters conducted by the 
+
+Federal Reserve Bank of Philadelphia.  Then the staff model is used to simulate the 
+
+counterfactual scenario in which the FOMC never conducts any asset purchases (denoted 
+
+by the solid line in each panel).7  The pace of recovery under the baseline scenario is 
+
+expected to be painfully slow.  But the counterfactual scenario suggests that conditions 
+
+would have been even worse in the absence of the Federal Reserve’s securities purchases:  
+
+The unemployment rate would have remained persistently above 10 percent, and core 
+
+inflation would have fallen below zero this year.  Of course, considerable uncertainty 
+
+surrounds those estimates, but they nonetheless suggest that the benefits of the asset 
+
+purchase programs probably have been sizeable.   
+
+My final observation concerning the FOMC’s asset purchase program pertains to 
+
+the importance of clear and effective communications in the years ahead.  As I noted 
+
+earlier, both theory and empirical evidence suggest that market prices and yields at any 
+
+particular time reflect both the Federal Reserve’s current securities holdings and also 
+
+                                                 
+7 Because the latest release of the Survey of Professional Forecasters provided forecasts of the 
+unemployment rate only through 2014, the authors extrapolated the forecasts through 2018 using the 
+extended consensus forecasts reported in the October 2010 Blue Chip survey. 
+
+
+ - 10 -
+
+markets participants’ expectations for its future holdings.  Consequently, a shift in 
+
+expectations concerning the trajectory of the Federal Reserve’s balance sheet could have 
+
+an important effect on financial conditions going forward.   
+
+In particular, financial conditions depend on market expectations not only 
+
+concerning the amount of the FOMC’s purchases but also concerning the anticipated 
+
+timing and pace of the eventual unwinding of those holdings.  For example, financial 
+
+conditions would likely tighten immediately if market participants came to expect a more 
+
+rapid renormalization of the Federal Reserve’s balance sheet.  In contrast, if market 
+
+participants were to anticipate a more gradual renormalization, financial conditions 
+
+would likely become more stimulative.   
+
+To illustrate the potential importance of such changes in expectations, figure 7 
+
+depicts a scenario in which markets come to anticipate that the Federal Reserve will 
+
+shrink its balance sheet more rapidly than in the baseline scenario.  The left panel shows 
+
+the assumed contour of an expected acceleration of asset sales that would renormalize the 
+
+overall size of the portfolio within about two years (solid line), roughly twice as fast as 
+
+under the baseline scenario (dashed line).  The announcement of such a strategy would 
+
+cause a substantial rise in term premiums relative to the baseline scenario, and, assuming 
+
+no offsetting change in the path of the federal funds rate, the resulting higher level of 
+
+long-term interest rates would damp aggregate spending.  The right panel depicts the 
+
+macroeconomic effects of the more rapid runoff of the balance sheet in terms of 
+
+deviations from the baseline scenario:  The unemployment rate (solid line) is significantly 
+
+higher, and core PCE inflation (dashed line) is somewhat lower.   
+
+
+
+
+ - 11 -
+
+Conclusion 
+
+In conclusion, I believe that both forward guidance and large-scale asset 
+
+purchases have been effective tools for providing additional monetary accommodation 
+
+under circumstances in which conventional monetary policy has been constrained by the 
+
+zero lower bound on the federal funds rate.  My colleagues on the FOMC and I are  
+
+regularly reviewing the asset purchase program in light of incoming information, and we 
+
+will adjust the program as needed to promote our statutory mandate of maximum 
+
+employment and stable prices.  Recognizing the importance of market expectations to the 
+
+effectiveness of unconventional policies, the Committee will continue to seek ways to 
+
+enhance the clarity and effectiveness of our monetary policy communications. 
+
+
+
+
+ - 12 -
+
+References 
+
+Blue Chip Financial Forecasts:  Top Analysts’ Forecasts of U.S. and Foreign Interest 
+Rates, Currency Values, and the Factors That Influence Them (2008 and 2009).  
+New York:  Aspen Publishers, monthly, www.aspenpublishers.com/blue-chip-
+publications.htm. 
+
+Chung, Hess, Jean-Philippe Laforte, David Reifschneider, and John C. Williams (2011).  
+“Have We Underestimated the Likelihood and Severity of Zero Lower Bound 
+Events?”  Working Paper series 2011-01.  San Francisco:  Federal Reserve Bank 
+of San Francisco, January, 
+www.frbsf.org/publications/economics/papers/2011/wp11-01bk.pdf. 
+
+Culbertson, John M. (1957).  “The Term Structure of Interest Rates,” Quarterly Journal 
+of Economics, vol. 71 (November), pp. 485-517. 
+
+D’Amico, Stefania, and Thomas B. King (2010).  “Flow and Stock Effects of Large-
+Scale Treasury Purchases,” Finance and Economics Discussion Series 2010-52. 
+Washington:  Board of Governors of the Federal Reserve System, September, 
+www.federalreserve.gov/pubs/feds/2010/201052/201052abs.html.  
+
+Gagnon, Joseph, Matthew Raskin, Julie Remache, and Brian Sack (2010).  “Large-Scale 
+Asset Purchases by the Federal Reserve:  Did They Work?”  Federal Reserve 
+Bank of New York  Staff Reports 441.  New York:  Federal Reserve Bank of New 
+York, March, www.ny.frb.org/research/staff_reports/sr441.html. 
+
+ 
+Hamilton, James D., and Jing (Cynthia) Wu (2011).  “The Effectiveness of Alternative 
+
+Monetary Policy Tools in a Zero Lower Bound Environment,” working paper.  
+San Diego:  University of California, San Diego, February, 
+dss.ucsd.edu/~jhamilto/zlb.pdf. 
+
+ 
+Joyce, Michael, Ana Lasaosa, Ibrahim Stevens, and Matthew Tong (2010).  “The 
+
+Financial Market Impact of Quantitative Easing,” Working Paper 393.  London:  
+Bank of England, July (revised August), 
+www.bankofengland.co.uk/publications/workingpapers/wp393.pdf. 
+
+ 
+Modigliani, Franco, and Richard Sutch (1966).  “Innovations in Interest Rate Policy,” 
+
+American Economic Review, vol. 56 (March), pp. 178-97. 
+ 
+Tobin, James (1958).  “Liquidity Preference as Behavior towards Risk,” Review of 
+
+Economic Studies, vol. 25 (February), pp. 65-86. 
+ 
+Vayanos, Dimitri, and Jean-Luc Vila (2009).  “A Preferred-Habitat Model of the Term 
+
+Structure of Interest Rates,” NBER Working Paper Series 15487.  Cambridge, 
+Mass.:  National Bureau of Economic Research, November, 
+www.nber.org/papers/w15487. 
+
+
+
+
+Unconventional Monetary Policy  
+and Central Bank Communications 
+
+
+Janet L. Yellen 
+Vice Chair 
+
+Board of Governors  
+of the Federal Reserve System  
+
+
+U.S. Monetary Policy Forum 
+February 2011  
+
+
+Figure 1: The Effects of Forward Guidance 
+on the Expected Path of the Federal Funds Rate 
+
+    Percent 
+
+  
+         Note:  This figure depicts the consensus of professional forecasters regarding the quarterly average value of the federal funds 
+
+rate at forecast horizons from 0 to 6 quarters ahead as of December 1, 2008 (dashed line) and February 1, 2009 (solid line);  
+these projections are taken from Blue Chip Financial Indicators, a monthly survey owned by Aspen Publishers, Inc.  
+Copyright © 2008, 2009 by Aspen Publishers, Inc.  All rights reserved. 
+
+0.0
+
+0.2
+
+0.4
+
+0.6
+
+0.8
+
+1.0
+
+1.2
+
+1.4
+
+1.6
+
+1.8
+
+2.0
+
+III IV I II III IV I II
+2008 2009 2010
+
+December 1, 2008
+February 1, 2009
+
+
+Figure 2: The Conditionality of Forward Guidance 
+and the Evolution of Federal Funds Rate Expectations  
+
+             April to November 2010                     November 2010 to February 2011 
+Percent                                                                                   Percent         
+
+
+     Note:  This figure depicts financial market expectations for the federal funds rate at forecast horizons from 0 to 12 quarters ahead; 
+these expectations are computed by staff using price quotes from CME Group on federal funds and Eurodollar futures contracts.   
+The left panel depicts expectations as of April 1, 2010 (solid line), August 2, 2010 (long dashed line), and November 3, 2010 (short 
+dashed line).  The right panel depicts expectations as of November 3, 2010 (dashed line) and February 22, 2011 (solid line). 
+
+0.0
+
+0.5
+
+1.0
+
+1.5
+
+2.0
+
+2.5
+
+I II III IV I II III IV I II III IV
+2010 2011 2012
+
+April 1, 2010
+August 2, 2010
+November 3, 2010
+
+0.0
+
+0.5
+
+1.0
+
+1.5
+
+2.0
+
+2.5
+
+I II III IV I II III IV I II III IV
+2011 2012 2013
+
+November 3, 2010
+February 22, 2011
+
+
+Figure 3: Macroeconomic Effects  
+of an Illustrative Change in Forward Guidance 
+
+                 Federal Funds Rate                      Unemployment and Inflation 
+Percent                                                             Percentage Points 
+
+             
+     Note:  This figure depicts simulation results of the Federal Reserve Board staff’s FRB/US model of the U.S. economy.  The left 
+panel shows the path of the federal funds rate under the baseline scenario corresponding to market expectations (solid line) and under 
+an alternative “later lift-off” scenario (dashed line).  The right panel shows the unemployment rate (solid line) and the core personal 
+consumption expenditures (PCE) inflation rate (dashed lines), expressed as deviations of the alternative scenario from baseline. 
+
+0.0
+
+0.5
+
+1.0
+
+1.5
+
+2.0
+
+2.5
+
+3.0
+
+3.5
+
+4.0
+
+4.5
+
+2011 2012 2013 2014 2015 2016
+
+Market Expectations
+Later Lift-Off
+
+-0.5
+
+-0.4
+
+-0.3
+
+-0.2
+
+-0.1
+
+0.0
+
+0.1
+
+0.2
+
+0.3
+
+0.4
+
+0.5
+
+2011 2012 2013 2014 2015 2016
+
+Unemployment rate
+Core PCE inflation
+
+
+Table 1: Responses of Longer-Term Interest Rates  
+to News about the Federal Reserve’s Asset Purchases  
+
+
+Date 
+
+10-Year  
+Treasury 
+
+Yield 
+
+10-Year  
+TIPS 
+Yield 
+
+30-Year 
+MBS 
+Yield 
+
+10-Year BBB 
+Corporate 
+Bond Yield 
+
+Nov. 25, 2008 -21 -24 -44 -16 
+
+Dec. 1, 2008 -20 -22 -12 -25 
+
+March 18, 2009 -50 -49 -15 -47 
+
+Aug. 10 to  
+Nov. 3, 2010 -15 -54 -13 -22 
+
+
+     Note: The table displays basis point changes from close of business on the day before the announcement to close of business on  
+the day of the announcement, with the exception of the final row, which shows the change from close of business on the day before 
+the Aug. 10, 2010, Federal Open Market Committee (FOMC) meeting through the close of business on the day of the Nov. 3, 2010, 
+FOMC meeting.  Changes in the 10-year nominal Treasury yield are computed using a smoothed yield curve estimated by staff from 
+off-the-run Treasury coupon securities.  Changes in the yield on 10-year Treasury inflation-protected securities (TIPS) are computed 
+by staff using a smoothed inflation-indexed yield curve.  Changes in the yield on 30-year mortgage-backed securities (MBS) are 
+computed using Bloomberg data on securities issued by Fannie Mae.  Changes in the yield on 10-year BBB-rated corporate bonds are 
+computed using a smoothed yield curve estimated by staff using Merrill Lynch data.  
+
+
+Figure 4:  Did the March 2009 FOMC Announcement  
+Shift the Expected Path of the Federal Funds Rate?  
+
+         Blue Chip Consensus Outlook                          Market Expectations 
+Percent                                                                                  Percent    
+
+              
+     Note:  The left panel shows the consensus outlook for the federal funds rate as of March 1, 2009 (dashed line) and April 1, 2009 
+(solid line); these projections are taken from Blue Chip Financial Indicators, a monthly survey owned by Aspen Publishers, Inc. 
+Copyright © 2008, 2009 by Aspen Publishers, Inc.  All rights reserved.  The right panel shows market expectations computed  
+by staff using price quotes from CME Group on federal funds and Eurodollar future contracts as of March 17, 2009 (dashed line)  
+and March 19, 2009 (solid line). 
+
+0.0
+
+0.2
+
+0.4
+
+0.6
+
+0.8
+
+1.0
+
+1.2
+
+1.4
+
+1.6
+
+1.8
+
+2.0
+
+I II III IV I II III IV
+2009 2010
+
+March 1, 2009
+April 1, 2009
+
+0.0
+
+0.2
+
+0.4
+
+0.6
+
+0.8
+
+1.0
+
+1.2
+
+1.4
+
+1.6
+
+1.8
+
+2.0
+
+I II III IV I II III IV
+2009 2010
+
+March 17, 2009
+March 19, 2009
+
+
+Figure 5: An Illustrative Scenario 
+for the Federal Reserve’s Securities Holdings 
+
+    $ Trillions 
+
+
+     Note:  This figure depicts the Federal Reserve’s securities holdings under an illustrative baseline scenario (solid line) and under an 
+alternative scenario in which the Federal Reserve never conducts any securities purchases (dashed line).   
+     Source:  Figure 9 of Chung, Laforte, Reifschneider, and Williams (2011).  
+
+0.0
+
+0.4
+
+0.8
+
+1.2
+
+1.6
+
+2.0
+
+2.4
+
+2.8
+
+2009 2010 2011 2012 2013 2014 2015 2016 2017 2018
+
+Illustrative Baseline Scenario
+No Asset Purchase Program
+
+
+Figure 6: Gauging the Macroeconomic Effects  
+of the Federal Reserve’s Asset Purchases 
+
+               Unemployment Rate                                   Core PCE Inflation 
+Percent                                                             Percent     
+
+
+     Note:  This figure depicts simulation results of the FRB/US model of the U.S. economy.  The left panel shows the unemployment 
+rate and the right panel shows the core personal consumption expenditures (PCE) inflation rate.  Each panel depicts the illustrative 
+baseline (solid line) and an alternative scenario in which the Federal Reserve never conducts any securities purchases (dashed line). 
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+2010 2012 2014 2016 2018
+
+Illustrative Baseline Scenario
+No Asset Purchase Program
+
+-0.4
+
+0.0
+
+0.4
+
+0.8
+
+1.2
+
+1.6
+
+2.0
+
+2.4
+
+2.8
+
+2010 2012 2014 2016 2018
+
+
+Figure 7:  Macroeconomic Effects of an Illustrative Change  
+in the Path of Securities Holdings 
+
+               Securities Holdings                        Unemployment and Inflation 
+$ trillions                                                         Percentage Points 
+
+                      
+     Note:  This figure depicts simulation results of the FRB/US model of the U.S. economy.  The left panel shows the path of the 
+Federal Reserve’s securities holdings (in $ trillions) under an illustrative baseline scenario (solid line) and an alternative “rapid run-
+off” scenario (dashed line).  The right panel shows the unemployment rate (solid line) and the core personal consumption expenditures 
+(PCE) inflation rate (dashed lines),  with results expressed as deviations of the alternative scenario from the baseline scenario. 
+
+0.0
+
+0.5
+
+1.0
+
+1.5
+
+2.0
+
+2.5
+
+3.0
+
+2010 2012 2014 2016 2018
+
+Illustrative Baseline Scenario
+Rapid Run-Off
+
+-0.2
+
+-0.1
+
+0.0
+
+0.1
+
+0.2
+
+0.3
+
+0.4
+
+0.5
+
+0.6
+
+2011 2012 2013 2014 2015 2016
+
+Unemployment Rate
+Core PCE Inflation
+

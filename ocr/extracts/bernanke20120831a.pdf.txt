@@ -1,0 +1,1351 @@
+
+For release on delivery 
+10:00 a.m. EDT (8:00 a.m. MDT) 
+August 31, 2012 
+ 
+
+
+Monetary Policy since the Onset of the Crisis 
+ 
+ 
+
+Remarks by 
+ 
+
+Ben S. Bernanke 
+ 
+
+Chairman 
+ 
+
+Board of Governors of the Federal Reserve System 
+ 
+
+at the 
+ 
+
+Federal Reserve Bank of Kansas City Economic Symposium 
+ 
+
+Jackson Hole, Wyoming 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+August 31, 2012 
+ 
+
+
+ 
+
+When we convened in Jackson Hole in August 2007, the Federal Open Market 
+
+Committee’s (FOMC) target for the federal funds rate was 5-1/4 percent.  Sixteen months 
+
+later, with the financial crisis in full swing, the FOMC had lowered the target for the 
+
+federal funds rate to nearly zero, thereby entering the unfamiliar territory of having to 
+
+conduct monetary policy with the policy interest rate at its effective lower bound.  The 
+
+unusual severity of the recession and ongoing strains in financial markets made the 
+
+challenges facing monetary policymakers all the greater. 
+
+Today I will review the evolution of U.S. monetary policy since late 2007.  My 
+
+focus will be the Federal Reserve’s experience with nontraditional policy tools, notably 
+
+those based on the management of the Federal Reserve’s balance sheet and on its public 
+
+communications.  I’ll discuss what we have learned about the efficacy and drawbacks of 
+
+these less familiar forms of monetary policy, and I’ll talk about the implications for the 
+
+Federal Reserve’s ongoing efforts to promote a return to maximum employment in a 
+
+context of price stability. 
+
+Monetary Policy in 2007 and 2008    
+
+When significant financial stresses first emerged, in August 2007, the FOMC 
+
+responded quickly, first through liquidity actions--cutting the discount rate and extending 
+
+term loans to banks--and then, in September, by lowering the target for the federal funds 
+
+rate by 50 basis points.1  As further indications of economic weakness appeared over 
+
+subsequent months, the Committee reduced its target for the federal funds rate by a 
+
+cumulative 325 basis points, leaving the target at 2 percent by the spring of 2008.  
+
+                                                            
+1 One basis point equals one-hundredth of 1 percentage point.   
+
+
+- 2 - 
+ 
+
+ 
+ 
+
+The Committee held rates constant over the summer as it monitored economic and 
+
+financial conditions.  When the crisis intensified markedly in the fall, the Committee 
+
+responded by cutting the target for the federal funds rate by 100 basis points in October, 
+
+with half of this easing coming as part of an unprecedented coordinated interest rate cut 
+
+by six major central banks.  Then, in December 2008, as evidence of a dramatic 
+
+slowdown mounted, the Committee reduced its target to a range of 0 to 25 basis points, 
+
+effectively its lower bound.  That target range remains in place today.  
+
+Despite the easing of monetary policy, dysfunction in credit markets continued to 
+
+worsen.  As you know, in the latter part of 2008 and early 2009, the Federal Reserve took 
+
+extraordinary steps to provide liquidity and support credit market functioning, including 
+
+the establishment of a number of emergency lending facilities and the creation or 
+
+extension of currency swap agreements with 14 central banks around the world.2  In its 
+
+role as banking regulator, the Federal Reserve also led stress tests of the largest U.S. bank 
+
+holding companies, setting the stage for the companies to raise capital.  These actions--
+
+along with a host of interventions by other policymakers in the United States and 
+
+throughout the world--helped stabilize global financial markets, which in turn served to 
+
+check the deterioration in the real economy and the emergence of deflationary pressures.   
+
+Unfortunately, although it is likely that even worse outcomes had been averted, 
+
+the damage to the economy was severe.  The unemployment rate in the United States rose 
+
+from about 6 percent in September 2008 to nearly 9 percent by April 2009--it would peak 
+
+at 10 percent in October--while inflation declined sharply.  As the crisis crested, and with 
+
+                                                            
+2 For more on these actions to stabilize markets and their effects, see Bernanke (2009). 
+
+
+- 3 - 
+ 
+
+ 
+ 
+
+the federal funds rate at its effective lower bound, the FOMC turned to nontraditional 
+
+policy approaches to support the recovery. 
+
+As the Committee embarked on this path, we were guided by some general 
+
+principles and some insightful academic work but--with the important exception of the 
+
+Japanese case--limited historical experience.  As a result, central bankers in the United 
+
+States, and those in other advanced economies facing similar problems, have been in the 
+
+process of learning by doing.  I will discuss some of what we have learned, beginning 
+
+with our experience conducting policy using the Federal Reserve’s balance sheet, then 
+
+turn to our use of communications tools.   
+
+Balance Sheet Tools 
+
+In using the Federal Reserve’s balance sheet as a tool for achieving its mandated 
+
+objectives of maximum employment and price stability, the FOMC has focused on the 
+
+acquisition of longer-term securities--specifically, Treasury and agency securities, which 
+
+are the principal types of securities that the Federal Reserve is permitted to buy under the 
+
+Federal Reserve Act.3  One mechanism through which such purchases are believed to 
+
+affect the economy is the so-called portfolio balance channel, which is based on the ideas 
+
+of a number of well-known monetary economists, including James Tobin, Milton 
+
+Friedman, Franco Modigliani, Karl Brunner, and Allan Meltzer.  The key premise 
+
+underlying this channel is that, for a variety of reasons, different classes of financial 
+
+                                                            
+3 Agency securities are securities issued by the government-sponsored enterprises (GSEs) and include both 
+mortgage-backed securities guaranteed by GSEs and GSE debt.  Since August 2008, Fannie Mae and 
+Freddie Mac have been in government conservatorship with capital support provided by the U.S. Treasury. 
+The Federal Reserve's net acquisitions of securities are financed by the creation of commercial bank 
+reserves, which in turn are held in accounts at the Federal Reserve. (*The text of this footnote has been 
+revised since its original release.) 
+
+
+- 4 - 
+ 
+
+ 
+ 
+
+assets are not perfect substitutes in investors’ portfolios.4  For example, some institutional 
+
+investors face regulatory restrictions on the types of securities they can hold, retail 
+
+investors may be reluctant to hold certain types of assets because of high transactions or 
+
+information costs, and some assets have risk characteristics that are difficult or costly to 
+
+hedge. 
+
+Imperfect substitutability of assets implies that changes in the supplies of various 
+
+assets available to private investors may affect the prices and yields of those assets.  
+
+Thus, Federal Reserve purchases of mortgage-backed securities (MBS), for example, 
+
+should raise the prices and lower the yields of those securities; moreover, as investors 
+
+rebalance their portfolios by replacing the MBS sold to the Federal Reserve with other 
+
+assets, the prices of the assets they buy should rise and their yields decline as well.  
+
+Declining yields and rising asset prices ease overall financial conditions and stimulate 
+
+economic activity through channels similar to those for conventional monetary policy.  
+
+Following this logic, Tobin suggested that purchases of longer-term securities by the 
+
+Federal Reserve during the Great Depression could have helped the U.S. economy 
+
+recover despite the fact that short-term rates were close to zero, and Friedman argued for 
+
+large-scale purchases of long-term bonds by the Bank of Japan to help overcome Japan’s 
+
+deflationary trap.5   
+
+                                                            
+4 See Tobin (1965, 1969), Modigliani and Sutch (1966), Brunner and Meltzer (1973), and Friedman and 
+Schwartz (1982).  Nelson (2011) discusses the relevance of Friedman’s views for recent Federal Reserve 
+policy.  For modern treatments of the portfolio balance channel in a macroeconomic context, see Andrés, 
+López-Salido, and Nelson (2004).  The portfolio balance channel would be inoperative under various 
+strong assumptions that I view as empirically implausible, such as complete and frictionless financial 
+markets and full internalization by private investors of the government’s balance sheet (Ricardian 
+equivalence). 
+5 See Tobin (1965) and Friedman (2000). 
+
+
+- 5 - 
+ 
+
+ 
+ 
+
+Large-scale asset purchases can influence financial conditions and the broader 
+
+economy through other channels as well.  For instance, they can signal that the central 
+
+bank intends to pursue a persistently more accommodative policy stance than previously 
+
+thought, thereby lowering investors’ expectations for the future path of the federal funds 
+
+rate and putting additional downward pressure on long-term interest rates, particularly in 
+
+real terms.  Such signaling can also increase household and business confidence by 
+
+helping to diminish concerns about “tail” risks such as deflation.  During stressful 
+
+periods, asset purchases may also improve the functioning of financial markets, thereby 
+
+easing credit conditions in some sectors.  
+
+ With the space for further cuts in the target for the federal funds rate increasingly 
+
+limited, in late 2008 the Federal Reserve initiated a series of large-scale asset purchases 
+
+(LSAPs).  In November, the FOMC announced a program to purchase a total of 
+
+$600 billion in agency MBS and agency debt.6  In March 2009, the FOMC expanded this 
+
+purchase program substantially, announcing that it would purchase up to $1.25 trillion of 
+
+agency MBS, up to $200 billion of agency debt, and up to $300 billion of longer-term 
+
+Treasury debt.7  These purchases were completed, with minor adjustments, in early 
+
+2010.8  In November 2010, the FOMC announced that it would further expand the 
+
+Federal Reserve’s security holdings by purchasing an additional $600 billion of longer-
+
+term Treasury securities over a period ending in mid-2011.9   
+
+                                                            
+6 See Board of Governors (2008). 
+7 See Board of Governors (2009).    
+8 Several months later, to avoid an implicit tightening in policy associated with the runoff of maturing 
+securities, the Federal Reserve also began reinvesting the principal payments received on agency MBS and 
+debt into Treasury securities and continued to roll over maturing longer-term Treasury debt.  See Board of 
+Governors (2010a). 
+9 See Board of Governors (2010b). 
+
+
+- 6 - 
+ 
+
+ 
+ 
+
+About a year ago, the FOMC introduced a variation on its earlier purchase 
+
+programs, known as the maturity extension program (MEP), under which the Federal 
+
+Reserve would purchase $400 billion of long-term Treasury securities and sell an 
+
+equivalent amount of shorter-term Treasury securities over the period ending in June 
+
+2012.10  The FOMC subsequently extended the MEP through the end of this year.11  By 
+
+reducing the average maturity of the securities held by the public, the MEP puts 
+
+additional downward pressure on longer-term interest rates and further eases overall 
+
+financial conditions.   
+
+How effective are balance sheet policies?  After nearly four years of experience 
+
+with large-scale asset purchases, a substantial body of empirical work on their effects has 
+
+emerged.  Generally, this research finds that the Federal Reserve’s large-scale purchases 
+
+have significantly lowered long-term Treasury yields.  For example, studies have found 
+
+that the $1.7 trillion in purchases of Treasury and agency securities under the first LSAP 
+
+program reduced the yield on 10-year Treasury securities by between 40 and 110 basis 
+
+points.  The $600 billion in Treasury purchases under the second LSAP program has been 
+
+credited with lowering 10-year yields by an additional 15 to 45 basis points.12  Three 
+
+studies considering the cumulative influence of all the Federal Reserve’s asset purchases, 
+
+including those made under the MEP, found total effects between 80 and 120 basis points 
+
+on the 10-year Treasury yield.13  These effects are economically meaningful.   
+
+                                                            
+10 At the same time, the Committee announced that it would reinvest principal payments from agency debt 
+and agency MBS into agency MBS.  See Board of Governors (2011a). 
+11 See Board of Governors (2012a). 
+12 Studies of the effects of securities purchases include, among others, D’Amico and King (forthcoming), 
+Gagnon and others (2011), Hamilton and Wu (2012), Krishnamurthy and Vissing-Jørgensen (2011), 
+Meaning and Zhu (2011), Swanson (2011), D’Amico and others (forthcoming), and Wright (2012).  
+13 See Pandl (2012), Meyer and Bomfim (2012), and Li and Wei (2012).  One important feature of these 
+analyses is that they are not just based on event studies.  For example, the Li and Wei study employs a no-
+ 
+
+
+- 7 - 
+ 
+
+ 
+ 
+
+Importantly, the effects of LSAPs do not appear to be confined to longer-term 
+
+Treasury yields.  Notably, LSAPs have been found to be associated with significant 
+
+declines in the yields on both corporate bonds and MBS.14  The first purchase program, in 
+
+particular, has been linked to substantial reductions in MBS yields and retail mortgage 
+
+rates.  LSAPs also appear to have boosted stock prices, presumably both by lowering 
+
+discount rates and by improving the economic outlook; it is probably not a coincidence 
+
+that the sustained recovery in U.S. equity prices began in March 2009, shortly after the 
+
+FOMC’s decision to greatly expand securities purchases.  This effect is potentially 
+
+important because stock values affect both consumption and investment decisions.  
+
+While there is substantial evidence that the Federal Reserve’s asset purchases 
+
+have lowered longer-term yields and eased broader financial conditions, obtaining precise 
+
+estimates of the effects of these operations on the broader economy is inherently difficult, 
+
+as the counterfactual--how the economy would have performed in the absence of the 
+
+Federal Reserve’s actions--cannot be directly observed.  If we are willing to take as a 
+
+working assumption that the effects of easier financial conditions on the economy are 
+
+similar to those observed historically, then econometric models can be used to estimate 
+
+the effects of LSAPs on the economy.  Model simulations conducted at the Federal 
+
+                                                                                                                                                                                 
+arbitrage model of the term structure of interest rates and time-series data from 1994 to 2007 to estimate the 
+effects on term premiums of changes in the amount of longer-term Treasury debt and agency MBS held by 
+the public.  Using this model, Li and Wei are able to infer the effects of the two LSAP programs and the 
+MEP, controlling for changes in the expected path of the federal funds rate and its implications for long-
+term interest rates.  Their analysis suggests that the Federal Reserve’s asset purchases are an important 
+factor underlying the current very low level of the term premium in longer-term rates.    
+14 On corporate bonds, see Krishnamurthy and Vissing-Jørgensen (2011) and Wright (2012); Fuster and 
+Willen (2010), Hancock and Passmore (2011), and Wright (2012) report results on mortgage yields.  Early 
+skeptics of balance sheet policies worried that any effects on Treasury yields would not be transmitted to 
+other interest rates and asset prices.  The evidence reported in these papers refutes this concern, as does the 
+fact that spreads of investment-grade corporate bond yields and mortgage rates over comparable-maturity 
+Treasury yields were not elevated from late 2009 through mid-2011; those spreads have since risen 
+somewhat, reflecting in part concerns about the European situation and the pace of the U.S. economic 
+recovery.  
+
+
+- 8 - 
+ 
+
+ 
+ 
+
+Reserve generally find that the securities purchase programs have provided significant 
+
+help for the economy.  For example, a study using the Board’s FRB/US model of the 
+
+economy found that, as of 2012, the first two rounds of LSAPs may have raised the level 
+
+of output by almost 3 percent and increased private payroll employment by more than 2 
+
+million jobs, relative to what otherwise would have occurred.15  The Bank of England has 
+
+used LSAPs in a manner similar to that of the Federal Reserve, so it is of interest that 
+
+researchers have found the financial and macroeconomic effects of the British programs 
+
+to be qualitatively similar to those in the United States.16 
+
+To be sure, these estimates of the macroeconomic effects of LSAPs should be 
+
+treated with caution.  It is likely that the crisis and the recession have attenuated some of 
+
+the normal transmission channels of monetary policy relative to what is assumed in the 
+
+models; for example, restrictive mortgage underwriting standards have reduced the 
+
+effects of lower mortgage rates.  Further, the estimated macroeconomic effects depend on 
+
+uncertain estimates of the persistence of the effects of LSAPs on financial conditions.17  
+
+Overall, however, a balanced reading of the evidence supports the conclusion that central 
+
+bank securities purchases have provided meaningful support to the economic recovery 
+
+while mitigating deflationary risks.  
+
+                                                            
+15 See Chung and others (2012) for details of assumptions and simulation results.  Focusing only on the 
+second LSAP program, Fuhrer and Olivei (2011) find comparable effects, attributing to that program a bit 
+less than a 1 percent increase in output and 700,000 new jobs.  Using different methodologies, Kiley (2012) 
+finds significantly smaller effects and Baumeister and Benati (2010) find larger effects.   
+16 Joyce, Tong, and Woods (2011) summarize a range of estimates of the macroeconomic effects of the 
+Bank of England’s quantitative easing program, which, relative to size of the U.K. economy, is roughly 
+equivalent in scale to the Federal Reserve’s two LSAP programs.  Those estimates suggest a peak effect of 
+1-1/2 to 2 percent for real output and between 3/4 and 1-1/2 percent for inflation in the United Kingdom.  
+See also Baumeister and Benati (2010) and Christensen and Rudebusch (2012). 
+17 For example, while the macroeconomic effects reported by Chung and others (2012) are consistent with 
+the persistence of financial effects as estimated by Li and Wei (2012), Wright (2012) finds much less 
+persistence using a different methodology.  Kiley (2012) also provides arguments and evidence for why 
+LSAPs may have been less stimulative than found in Chung and others (2012) and Fuhrer and Olivei 
+(2011). 
+
+
+- 9 - 
+ 
+
+ 
+ 
+
+Now I will turn to our use of communications tools.   
+
+Communication Tools 
+
+Clear communication is always important in central banking, but it can be 
+
+especially important when economic conditions call for further policy stimulus but the 
+
+policy rate is already at its effective lower bound.  In particular, forward guidance that 
+
+lowers private-sector expectations regarding future short-term rates should cause longer-
+
+term interest rates to decline, leading to more accommodative financial conditions.18    
+
+The Federal Reserve has made considerable use of forward guidance as a policy 
+
+tool.19  From March 2009 through June 2011, the FOMC’s postmeeting statement noted 
+
+that economic conditions “are likely to warrant exceptionally low levels of the federal 
+
+funds rate for an extended period.”20  At the August 2011 meeting, the Committee made 
+
+its guidance more precise by stating that economic conditions would likely warrant that 
+
+the federal funds rate remain exceptionally low “at least through mid-2013.”21  At the 
+
+beginning of this year, the FOMC extended the anticipated period of exceptionally low 
+
+rates further, to “at least through late 2014,” guidance that has been reaffirmed at 
+
+subsequent meetings.22  As the language indicates, this guidance is not an unconditional 
+
+promise; rather, it is a statement about the FOMC’s collective judgment regarding the 
+
+                                                            
+18 See Eggertsson and Woodford (2003) and Levin and others (2010) for discussions of the role of 
+communication at the zero lower bound. 
+19 As with asset purchases, the Federal Reserve has not been alone in using forward policy guidance.  The 
+Bank of Canada, for example, announced in April 2009 its intention to hold the overnight policy at 25 basis 
+points through the second quarter of 2010; this conditional guidance was subject to the bank’s assessment 
+of future inflation trends.  The Bank of Japan has long provided forward guidance linking policy to 
+economic developments.  In March 2001, for example, the Bank of Japan committed to maintain its policy 
+rate at zero until Japanese consumer prices stabilized or exhibited a year-on-year increase.  The Riksbank 
+and the Reserve Bank of New Zealand in recent years have made statements about the future course of the 
+policy rate similar to those provided by the Federal Reserve and the Bank of Canada.   
+20 See Board of Governors (2009). 
+21 See Board of Governors (2011b). 
+22 See Board of Governors (2012b). 
+
+
+- 10 - 
+ 
+
+ 
+ 
+
+path of policy that is likely to prove appropriate, given the Committee’s objectives and its 
+
+outlook for the economy.   
+
+The views of Committee members regarding the likely timing of policy firming 
+
+represent a balance of many factors, but the current forward guidance is broadly 
+
+consistent with prescriptions coming from a range of standard benchmarks, including 
+
+simple policy rules and optimal control methods.23  Some of the policy rules informing 
+
+the forward guidance relate policy interest rates to familiar determinants, such as inflation 
+
+and the output gap.  But a number of considerations also argue for planning to keep rates 
+
+low for a longer time than implied by policy rules developed during more normal periods.  
+
+These considerations include the need to take out insurance against the realization of 
+
+downside risks, which are particularly difficult to manage when rates are close to their 
+
+effective lower bound; the possibility that, because of various unusual headwinds slowing 
+
+the recovery, the economy needs more policy support than usual at this stage of the cycle; 
+
+and the need to compensate for limits to policy accommodation resulting from the lower 
+
+bound on rates.24  
+
+Has the forward guidance been effective?  It is certainly true that, over time, both 
+
+investors and private forecasters have pushed out considerably the date at which they 
+
+expect the federal funds rate to begin to rise; moreover, current policy expectations 
+
+appear to align well with the FOMC’s forward guidance.  To be sure, the changes over 
+
+time in when the private sector expects the federal funds rate to begin firming resulted in 
+                                                            
+23 Yellen (2012a, 2012b) provides details on the current forward guidance. 
+24 On responding to unusual headwinds (technically, a situation in which a lower real interest rate is 
+required to achieve full employment), see Williams (2009).  On risk management near the zero lower 
+bound, see Orphanides and Wieland (2000).  On compensating for limits to policy accommodation 
+attributable to the lower bound on rates, see Reifschneider and Williams (2000).  Another argument for 
+sustaining low rates follows because optimal policies may involve a slow, or “inertial,” adjustment of rates; 
+see, for example, Woodford (2003). 
+
+
+- 11 - 
+ 
+
+ 
+ 
+
+part from the same deterioration of the economic outlook that led the FOMC to introduce 
+
+and then extend its forward guidance.  But the private sector’s revised outlook for the 
+
+policy rate also appears to reflect a growing appreciation of how forceful the FOMC 
+
+intends to be in supporting a sustainable recovery.  For example, since 2009, forecasters 
+
+participating in the Blue Chip survey have repeatedly marked down their projections of 
+
+the unemployment rate they expect to prevail at the time that the FOMC begins to lift the 
+
+target for the federal funds rate away from zero.  Thus, the Committee’s forward 
+
+guidance may have conveyed a greater willingness to maintain accommodation than 
+
+private forecasters had previously believed.25  The behavior of financial market prices in 
+
+periods around changes in the forward guidance is also consistent with the view that the 
+
+guidance has affected policy expectations.26 
+
+Making Policy with Nontraditional Tools:  A Cost-Benefit Framework  
+
+Making monetary policy with nontraditional tools is challenging.  In particular, 
+
+our experience with these tools remains limited.  In this context, the FOMC carefully 
+
+compares the expected benefits and costs of proposed policy actions. 
+
+The potential benefit of policy action, of course, is the possibility of better 
+
+economic outcomes--outcomes more consistent with the FOMC’s dual mandate.  In light 
+
+                                                            
+25 In October 2009, private forecasters in the Blue Chip survey projected that the unemployment rate would 
+be near 10 percent and overall inflation as measured by the consumer price index (CPI) would be 2 percent 
+at the time that short-term interest rates (three-month Treasury bill rates) rose above 50 basis points.  By 
+March 2011, forecasters had lowered the projected unemployment rate at the policy liftoff date to about 
+8-1/2 percent, again accompanied by inflation near 2 percent.  And by March 2012, forecasters projected 
+that the unemployment rate would have fallen below 7-1/2 percent, and that CPI inflation would be moving 
+up to close to 2-1/2 percent, before short-term interest rates would rise appreciably above the current target 
+range. 
+26 For example, Board staff members have performed event studies of the movement in Eurodollar futures 
+prices and other financial variables immediately following the release of the August 2011 and January 2012 
+FOMC statements.  In both cases, the provision of specific guidance about the likely date of liftoff was 
+associated with a noticeable flattening of the expected path of the federal funds rate.  For a formal analysis 
+of the effectiveness of the FOMC’s forward guidance, see Swanson and Williams (2012). 
+
+
+- 12 - 
+ 
+
+ 
+ 
+
+of the evidence I discussed, it appears reasonable to conclude that nontraditional policy 
+
+tools have been and can continue to be effective in providing financial accommodation, 
+
+though we are less certain about the magnitude and persistence of these effects than we 
+
+are about those of more-traditional policies.   
+
+ The possible benefits of an action, however, must be considered alongside its 
+
+potential costs.  I will focus now on the potential costs of LSAPs.   
+
+One possible cost of conducting additional LSAPs is that these operations could 
+
+impair the functioning of securities markets.  As I noted, the Federal Reserve is limited 
+
+by law mainly to the purchase of Treasury and agency securities; the supply of those 
+
+securities is large but finite, and not all of the supply is actively traded.  Conceivably, if 
+
+the Federal Reserve became too dominant a buyer in certain segments of these markets, 
+
+trading among private agents could dry up, degrading liquidity and price discovery.  As 
+
+the global financial system depends on deep and liquid markets for U.S. Treasury 
+
+securities, significant impairment of those markets would be costly, and, in particular, 
+
+could impede the transmission of monetary policy.  For example, market disruptions 
+
+could lead to higher liquidity premiums on Treasury securities, which would run counter 
+
+to the policy goal of reducing Treasury yields.  However, although market capacity could 
+
+ultimately become an issue, to this point we have seen few if any problems in the markets 
+
+for Treasury or agency securities, private-sector holdings of securities remain large, and 
+
+trading among private market participants remains robust. 
+
+A second potential cost of additional securities purchases is that substantial 
+
+further expansions of the balance sheet could reduce public confidence in the Fed’s 
+
+ability to exit smoothly from its accommodative policies at the appropriate time.  Even if 
+
+
+- 13 - 
+ 
+
+ 
+ 
+
+unjustified, such a reduction in confidence might increase the risk of a costly unanchoring 
+
+of inflation expectations, leading in turn to financial and economic instability.  It is 
+
+noteworthy, however, that the expansion of the balance sheet to date has not materially 
+
+affected inflation expectations, likely in part because of the great emphasis the Federal 
+
+Reserve has placed on developing tools to ensure that we can normalize monetary policy 
+
+when appropriate, even if our securities holdings remain large.  In particular, the FOMC 
+
+will be able to put upward pressure on short-term interest rates by raising the interest rate 
+
+it pays banks for reserves they hold at the Fed.  Upward pressure on rates can also be 
+
+achieved by using reserve-draining tools or by selling securities from the Federal 
+
+Reserve’s portfolio, thus reversing the effects achieved by LSAPs.  The FOMC has spent 
+
+considerable effort planning and testing our exit strategy and will act decisively to 
+
+execute it at the appropriate time.  
+
+A third cost to be weighed is that of risks to financial stability.  For example, 
+
+some observers have raised concerns that, by driving longer-term yields lower, 
+
+nontraditional policies could induce an imprudent reach for yield by some investors and 
+
+thereby threaten financial stability.  Of course, one objective of both traditional and 
+
+nontraditional policy during recoveries is to promote a return to productive risk-taking; as 
+
+always, the goal is to strike the appropriate balance.  Moreover, a stronger recovery is 
+
+itself clearly helpful for financial stability.  In assessing this risk, it is important to note 
+
+that the Federal Reserve, both on its own and in collaboration with other members of the 
+
+Financial Stability Oversight Council, has substantially expanded its monitoring of the 
+
+financial system and modified its supervisory approach to take a more systemic 
+
+perspective.  We have seen little evidence thus far of unsafe buildups of risk or leverage, 
+
+
+- 14 - 
+ 
+
+ 
+ 
+
+but we will continue both our careful oversight and the implementation of financial 
+
+regulatory reforms aimed at reducing systemic risk.   
+
+A fourth potential cost of balance sheet policies is the possibility that the Federal 
+
+Reserve could incur financial losses should interest rates rise to an unexpected extent.  
+
+Extensive analyses suggest that, from a purely fiscal perspective, the odds are strong that 
+
+the Fed’s asset purchases will make money for the taxpayers, reducing the federal deficit 
+
+and debt.27  And, of course, to the extent that monetary policy helps strengthen the 
+
+economy and raise incomes, the benefits for the U.S. fiscal position would be substantial.  
+
+In any case, this purely fiscal perspective is too narrow:  Because Americans are workers 
+
+and consumers as well as taxpayers, monetary policy can achieve the most for the 
+
+country by focusing generally on improving economic performance rather than narrowly 
+
+on possible gains or losses on the Federal Reserve’s balance sheet. 
+
+In sum, both the benefits and costs of nontraditional monetary policies are 
+
+uncertain; in all likelihood, they will also vary over time, depending on factors such as 
+
+the state of the economy and financial markets and the extent of prior Federal Reserve 
+
+asset purchases.  Moreover, nontraditional policies have potential costs that may be less 
+
+relevant for traditional policies.  For these reasons, the hurdle for using nontraditional 
+
+policies should be higher than for traditional policies.  At the same time, the costs of 
+
+nontraditional policies, when considered carefully, appear manageable, implying that we 
+
+should not rule out the further use of such policies if economic conditions warrant. 
+
+
+
+                                                            
+27 Remittances to the Treasury from the Federal Reserve have totaled about $200 billion over the past three 
+years, well above historical averages.   
+
+
+- 15 - 
+ 
+
+ 
+ 
+
+Economic Prospects  
+
+The accommodative monetary policies I have reviewed today, both traditional and 
+
+nontraditional, have provided important support to the economic recovery while helping 
+
+to maintain price stability.  As of July, the unemployment rate had fallen to 8.3 percent 
+
+from its cyclical peak of 10 percent and payrolls had risen by 4 million jobs from their 
+
+low point.  And despite periodic concerns about deflation risks, on the one hand, and 
+
+repeated warnings that excessive policy accommodation would ignite inflation, on the 
+
+other hand, inflation (except for temporary deviations caused primarily by swings in 
+
+commodity prices) has remained near the Committee’s 2 percent objective and inflation 
+
+expectations have remained stable.  Key sectors such as manufacturing, housing, and 
+
+international trade have strengthened, firms’ investment in equipment and software has 
+
+rebounded, and conditions in financial and credit markets have improved.     
+
+Notwithstanding these positive signs, the economic situation is obviously far from 
+
+satisfactory.  The unemployment rate remains more than 2 percentage points above what 
+
+most FOMC participants see as its longer-run normal value, and other indicators--such as 
+
+the labor force participation rate and the number of people working part time for 
+
+economic reasons--confirm that labor force utilization remains at very low levels.  
+
+Further, the rate of improvement in the labor market has been painfully slow.  I have 
+
+noted on other occasions that the declines in unemployment we have seen would likely 
+
+continue only if economic growth picked up to a rate above its longer-term trend.28  In 
+
+fact, growth in recent quarters has been tepid, and so, not surprisingly, we have seen no 
+
+net improvement in the unemployment rate since January.  Unless the economy begins to 
+
+                                                            
+28 See Bernanke (2012). 
+
+
+- 16 - 
+ 
+
+ 
+ 
+
+grow more quickly than it has recently, the unemployment rate is likely to remain far 
+
+above levels consistent with maximum employment for some time.  
+
+In light of the policy actions the FOMC has taken to date, as well as the 
+
+economy’s natural recovery mechanisms, we might have hoped for greater progress by 
+
+now in returning to maximum employment.  Some have taken the lack of progress as 
+
+evidence that the financial crisis caused structural damage to the economy, rendering the 
+
+current levels of unemployment impervious to additional monetary accommodation.  The 
+
+literature on this issue is extensive, and I cannot fully review it today.29  However, 
+
+following every previous U.S. recession since World War II, the unemployment rate has 
+
+returned close to its pre-recession level, and, although the recent recession was unusually 
+
+deep, I see little evidence of substantial structural change in recent years. 
+
+Rather than attributing the slow recovery to longer-term structural factors, I see 
+
+growth being held back currently by a number of headwinds.  First, although the housing 
+
+sector has shown signs of improvement, housing activity remains at low levels and is 
+
+contributing much less to the recovery than would normally be expected at this stage of 
+
+the cycle.  
+
+Second, fiscal policy, at both the federal and state and local levels, has become an 
+
+important headwind for the pace of economic growth.  Notwithstanding some recent 
+
+improvement in tax revenues, state and local governments still face tight budget 
+
+situations and continue to cut real spending and employment.  Real purchases are also 
+
+declining at the federal level.  Uncertainties about fiscal policy, notably about the 
+
+resolution of the so-called fiscal cliff and the lifting of the debt ceiling, are probably also 
+
+                                                            
+29 See Daly and others (2011) for an overview. 
+
+
+- 17 - 
+ 
+
+ 
+ 
+
+restraining activity, although the magnitudes of these effects are hard to judge.30  It is 
+
+critical that fiscal policymakers put in place a credible plan that sets the federal budget on 
+
+a sustainable trajectory in the medium and longer runs.  However, policymakers should 
+
+take care to avoid a sharp near-term fiscal contraction that could endanger the recovery. 
+
+Third, stresses in credit and financial markets continue to restrain the economy.  
+
+Earlier in the recovery, limited credit availability was an important factor holding back 
+
+growth, and tight borrowing conditions for some potential homebuyers and small 
+
+businesses remain a problem today.  More recently, however, a major source of financial 
+
+strains has been uncertainty about developments in Europe.  These strains are most 
+
+problematic for the Europeans, of course, but through global trade and financial linkages, 
+
+the effects of the European situation on the U.S. economy are significant as well.  Some 
+
+recent policy proposals in Europe have been quite constructive, in my view, and I urge 
+
+our European colleagues to press ahead with policy initiatives to resolve the crisis. 
+
+Conclusion 
+
+ Early in my tenure as a member of the Board of Governors, I gave a speech that 
+
+considered options for monetary policy when the short-term policy interest rate is close to 
+
+its effective lower bound.31  I was reacting to common assertions at the time that 
+
+monetary policymakers would be “out of ammunition” as the federal funds rate came 
+
+closer to zero.  I argued that, to the contrary, policy could still be effective near the lower 
+
+bound.  Now, with several years of experience with nontraditional policies both in the 
+
+United States and in other advanced economies, we know more about how such policies 
+
+                                                            
+30 For more on fiscal policy and policy uncertainty, see Congressional Budget Office (2012) and Baker, 
+Bloom, and Davis (2012). 
+31 See Bernanke (2003). 
+
+
+- 18 - 
+ 
+
+ 
+ 
+
+work.  It seems clear, based on this experience, that such policies can be effective, and 
+
+that, in their absence, the 2007-09 recession would have been deeper and the current 
+
+recovery would have been slower than has actually occurred. 
+
+As I have discussed today, it is also true that nontraditional policies are relatively 
+
+more difficult to apply, at least given the present state of our knowledge.  Estimates of the 
+
+effects of nontraditional policies on economic activity and inflation are uncertain, and the 
+
+use of nontraditional policies involves costs beyond those generally associated with 
+
+more-standard policies.  Consequently, the bar for the use of nontraditional policies is 
+
+higher than for traditional policies.  In addition, in the present context, nontraditional 
+
+policies share the limitations of monetary policy more generally:  Monetary policy cannot 
+
+achieve by itself what a broader and more balanced set of economic policies might 
+
+achieve; in particular, it cannot neutralize the fiscal and financial risks that the country 
+
+faces.  It certainly cannot fine-tune economic outcomes. 
+
+ As we assess the benefits and costs of alternative policy approaches, though, we 
+
+must not lose sight of the daunting economic challenges that confront our nation.  The 
+
+stagnation of the labor market in particular is a grave concern not only because of the 
+
+enormous suffering and waste of human talent it entails, but also because persistently 
+
+high levels of unemployment will wreak structural damage on our economy that could 
+
+last for many years.   
+
+Over the past five years, the Federal Reserve has acted to support economic 
+
+growth and foster job creation, and it is important to achieve further progress, particularly 
+
+in the labor market.  Taking due account of the uncertainties and limits of its policy tools, 
+
+the Federal Reserve will provide additional policy accommodation as needed to promote 
+
+
+- 19 - 
+ 
+
+ 
+ 
+
+a stronger economic recovery and sustained improvement in labor market conditions in a 
+
+context of price stability. 
+
+
+- 20 - 
+ 
+
+ 
+ 
+
+References 
+ 
+Andrés, Javier, J. David López-Salido, and Edward Nelson (2004).  “Tobin’s Imperfect 
+
+Asset Substitution in Optimizing General Equilibrium,” Journal of Money, Credit 
+and Banking, vol. 36 (August), pp. 665-90. 
+
+ 
+Baker, Scott R., Nicholas Bloom, and Steven J. Davis (2012).  “Measuring Economic 
+
+Policy Uncertainty,” working paper, June.  Economic Policy Uncertainty, website, 
+www.policyuncertainty.com/media/BakerBloomDavis.pdf. 
+
+ 
+Baumeister, Christiane, and Luca Benati (2010).  “Unconventional Monetary Policy and 
+
+the Great Recession:  Estimating the Impact of a Compression in the Yield Spread 
+at the Zero Lower Bound,” European Central Bank Working Paper Series, 1258. 
+Frankfurt: European Central Bank, October, 
+www.ecb.int/pub/pdf/scpwps/ecbwp1258.pdf. 
+
+ 
+Bernanke, Ben S. (2003).  “Some Thoughts on Monetary Policy in Japan,” speech 
+
+delivered at the Japan Society of Monetary Economics, Tokyo, May 31,  
+www.federalreserve.gov/boarddocs/speeches/2003/20030531/default.htm. 
+
+ 
+Bernanke, Ben S. (2009).  “Reflections on a Year of Crisis,” speech delivered at 
+
+“Financial Stability and Macroeconomic Policy,” a symposium sponsored by the 
+Federal Reserve Bank of Kansas City, held in Jackson Hole, Wyo., August 20-22,  
+www.federalreserve.gov/newsevents/speech/bernanke20090821a.htm. 
+
+ 
+Bernanke, Ben S. (2012).  “Recent Developments in the Labor Market,” speech delivered 
+
+at the National Association for Business Economics Annual Conference, 
+Washington, March 26,  
+www.federalreserve.gov/newsevents/speech/bernanke20120326a.htm. 
+
+ 
+Board of Governors of the Federal Reserve System (2008).  “Federal Reserve Announces 
+
+It Will Initiate a Program to Purchase the Direct Obligations of Housing-Related 
+Government-Sponsored Enterprises and Mortgage-Backed Securities Backed by 
+Fannie Mae, Freddie Mac, and Ginnie Mae,” press release, November 25, 
+www.federalreserve.gov/newsevents/press/monetary/20081125b.htm. 
+
+ 
+-------- (2009).  “FOMC Statement,” press release, March 18, 
+
+www.federalreserve.gov/newsevents/press/monetary/20090318a.htm. 
+ 
+-------- (2010a).  “FOMC Statement,” press release, August 10, 
+
+www.federalreserve.gov/newsevents/press/monetary/20100810a.htm. 
+ 
+-------- (2010b).  “FOMC Statement,” press release, November 3, 
+
+www.federalreserve.gov/newsevents/press/monetary/20101103a.htm. 
+ 
+
+
+- 21 - 
+ 
+
+ 
+ 
+
+-------- (2011a).  “Federal Reserve Issues FOMC Statement,” press release, November 21, 
+www.federalreserve.gov/newsevents/press/monetary/20110921a.htm. 
+
+ 
+-------- (2011b).  “FOMC Statement,” press release, August 9, 
+
+www.federalreserve.gov/newsevents/press/monetary/20110809a.htm. 
+ 
+-------- (2012a).  “Federal Reserve Issues FOMC Statement,” press release, June 20, 
+
+www.federalreserve.gov/newsevents/press/monetary/20120620a.htm. 
+ 
+-------- (2012b).  “FOMC Statement,” press release, January 25, 
+
+www.federalreserve.gov/newsevents/press/monetary/20120125a.htm. 
+ 
+Brunner, Karl, and Allan H. Meltzer (1973).  “Mr. Hicks and the ‘Monetarists,’ ” 
+
+Economica, vol. 40 (February), pp. 44-59. 
+ 
+Christensen, Jens H.E., and Glenn D. Rudebusch (2012).  “The Response of Interest 
+
+Rates to U.S. and U.K. Quantitative Easing,” Working Papers Series 2012-06.  
+San Francisco:  Federal Reserve Bank of San Francisco, May, 
+www.frbsf.org/publications/economics/papers/2012/wp12-06bk.pdf. 
+
+  
+Chung, Hess, Jean-Philippe Laforte, David Reifschneider, and John C. Williams (2012).  
+
+“Have We Underestimated the Likelihood and Severity of Zero Lower Bound 
+Events?”  Journal of Money, Credit and Banking, vol. 44 supplement (February), 
+pp. 47-82. 
+
+ 
+Congressional Budget Office (2012).  Economic Effects of Reducing the Fiscal Restraint 
+
+That Is Scheduled to Occur in 2013.  Washington:  CBO, May, 
+www.cbo.gov/publication/43262. 
+
+ 
+Daly, Mary, Vart Hobijn, Aysegul Sahin, and Robert Valleta (2011).  “Search and  
+
+Matching Approach to Labor Markets:  Is the Natural Rate of Unemployment 
+Rising?” Journal of Economic Perspectives, vol. 26 (Summer), pp. 3-26. 
+
+ 
+D’Amico, Stefania, and Thomas B. King (forthcoming).  “Flow and Stock Effects of 
+
+Large-Scale Treasury Purchases:  Evidence on the Importance of Local Supply,” 
+Journal of Financial Economics. 
+
+ 
+D’Amico, Stefania, William English, David López-Salido, and Edward Nelson 
+
+(forthcoming).  “The Federal Reserve’s Large-Scale Asset Purchase Programs:  
+Rationale and Effects,” Economic Journal.   
+
+ 
+Eggertsson, Gauti B., and Michael Woodford (2003).  “The Zero Bound on Interest Rates 
+
+and Optimal Monetary Policy,” Brookings Papers on Economic Activity, Spring, 
+pp. 139-211.   
+
+
+
+
+- 22 - 
+ 
+
+ 
+ 
+
+Friedman, Milton (2000).  “Canada and Flexible Exchange Rates,” speech delivered at 
+“Revisiting the Case for Flexible Exchange Rates,” a conference sponsored by the 
+Bank of Canada, Ottawa, Ontario, November, www.bankofcanada.ca/wp-
+content/uploads/2010/08/keynote.pdf. 
+
+ 
+Friedman, Milton, and Anna J. Schwartz (1982).  Monetary Trends in the United States 
+
+and the United Kingdom:  Their Relation to Income, Prices, and Interest Rates, 
+1867-1975.  Chicago:  University of Chicago Press. 
+
+ 
+Fuhrer, Jeffrey C., and Giovanni P. Olivei (2011).  “The Estimated Macroeconomic 
+
+Effects of the Federal Reserve’s Large-Scale Treasury Purchase Program,” Public 
+Policy Briefs 2011-02.  Boston:  Federal Reserve Bank of Boston, April, 
+www.bos.frb.org/economic/ppb/2011/ppb112.htm. 
+
+ 
+Fuster, Andreas, and Paul S. Willen (2010).  “$1.25 Trillion Is Still Real Money:  Some 
+
+Facts about the Effects of the Federal Reserve’s Mortgage Market Investments,” 
+Public Policy Discussion Papers 2010-04.  Boston:  Federal Reserve Bank of 
+Boston, November, www.bos.frb.org/economic/ppdp/2010/ppdp1004.htm. 
+
+  
+Gagnon, Joseph, Mathew Raskin, Julie Remache, and Brian Sack (2011).  “The Financial 
+
+Market Effects of the Federal Reserve’s Large-Scale Asset Purchases,” 
+International Journal of Central Banking, vol. 7 (March), pp. 3-43. 
+
+ 
+Hamilton, James D., and Jing C. Wu (2012).  “The Effectiveness of Alternative Monetary 
+
+Policy Tools in a Zero Lower Bound Environment,” Journal of Money, Credit 
+and Banking, vol. 44 supplement (February), pp. 3-46. 
+
+ 
+Hancock, Diana, and Wayne Passmore (2011).  “Did the Federal Reserve’s MBS 
+
+Purchase Program Lower Mortgage Rates?” Journal of Monetary Economics, 
+vol. 58 (July), pp. 498-514. 
+
+ 
+Joyce, Michael, Mathew Tong, and Robert Woods (2011).  “The United Kingdom’s 
+
+Quantitative Easing Policy:  Design, Operation, and Impact,” Bank of England 
+Quarterly Bulletin, September, pp. 200-12, 
+www.bankofengland.co.uk/publications/Pages/quarterlybulletin/a11.aspx. 
+
+ 
+Kiley, Michael (2012). “The Aggregate Demand Effects of Short- and Long-Term 
+
+Interest Rates,” Finance and Economics Discussion Series 2012-54.  Washington:  
+Board of Governors of the Federal Reserve System, September, 
+www.federalreserve.gov/pubs/feds/2012/201254/201254abs.html. 
+
+ 
+Krishnamurthy, Arvind, and Annette Vissing-Jørgensen (2011).  “The Effects of  
+
+Quantitative Easing on Interest Rates:  Channels and Implications for Policy,” 
+Brookings Papers on Economic Activity, Fall, pp. 215-65. 
+
+
+
+
+- 23 - 
+ 
+
+ 
+ 
+
+Levin, Andrew, David López-Salido, Edward Nelson, and Tack Yun (2010).  
+“Limitations on the Effectiveness of Forward Guidance at the Zero Lower 
+Bound,” International Journal of Central Banking, vol. 6 (March), pp. 143-89. 
+
+ 
+Li, Canlin, and Min Wei (2012).  “Term Structure Modelling with Supply Factors and the 
+
+Federal Reserve’s Large Scale Asset Purchase Programs,” Finance and 
+Economics Discussion Series 2012-37.  Washington:  Board of Governors of the 
+Federal Reserve System, May, 
+www.federalreserve.gov/pubs/feds/2012/201237/201237abs.html. 
+
+ 
+Meaning, Jack, and Feng Zhu (2011).  “The Impact of Recent Central Bank Asset 
+
+Purchase Programmes.”  Bank of International Settlements Quarterly Review, 
+December, pp. 73-83.   
+
+ 
+Meyer, Laurence H., and Antulio N. Bomfim (2012). “Not Your Father’s Yield Curve:  
+
+Modeling the Impact of QE on Treasury Yields,” Macroeconomic Advisers, 
+Monetary Policy Insights, May 7. 
+
+ 
+Modigliani, Franco, and Richard Sutch (1966).  “Innovations in Interest Rate Policy,” 
+
+American Economic Review, vol. 56 (March), pp. 178-97. 
+ 
+Nelson, Edward (2011).  “Friedman’s Monetary Economics in Practice,” Finance and 
+
+Economics Discussion Series 2011-26.  Washington:  Board of Governors of the 
+Federal Reserve System, April, available at 
+www.federalreserve.gov/pubs/feds/2011/201126/201126abs.html. 
+
+ 
+Orphanides, Athanasios, and Volker Wieland (2000).  “Efficient Monetary Policy Design 
+
+near Price Stability,” Journal of the Japanese and International Economies, 
+vol. 14 (December), pp. 327-65. 
+
+ 
+Pandl, Zach (2012).  “Talking Down the Term Premium,” Goldman Sachs ECS Research, 
+
+US Economics Analyst, no. 12/19. 
+ 
+Reifschneider, David, and John C. Williams (2000).  “Three Lessons for Monetary Policy 
+
+in a Low-Inflation Era,” Journal of Money, Credit and Banking, vol. 32 
+(November), pp. 936-66. 
+
+ 
+Swanson, Eric T. (2011).  “Let’s Twist Again:  A High-Frequency Event-Study Analysis 
+
+of Operation Twist and Its Implications for QE2,” Brookings Papers on Economic 
+Activity, Spring, pp. 151-88. 
+
+ 
+Swanson, Eric T., and John C. Williams (2012).  “Measuring the Effect of the Zero 
+
+Lower Bound on Medium- and Longer-Term Interest Rates,” Working Papers 
+Series 2012-02.  San Francisco:  Federal Reserve Bank of San Francisco, May, 
+www.frbsf.org/publications/economics/papers/2012/wp12-02bk.pdf. 
+
+
+
+
+- 24 - 
+ 
+
+ 
+ 
+
+Tobin, James (1965).  “The Monetary Interpretation of History,” American Economic 
+Review, vol. 55 (June), pp. 464-85.  
+
+ 
+-------- (1969).  “A General Equilibrium Approach to Monetary Theory,” Journal of 
+
+Money, Credit and Banking, vol. 1 (February), pp. 15-29. 
+ 
+Williams, John C. (2009).  “Heeding Daedalus:  Optimal Inflation and the Zero Lower 
+
+Bound,” Brookings Papers on Economic Activity, Fall, pp. 1-37. 
+ 
+Woodford, Michael (2003).  “Optimal Interest-Rate Smoothing,” Review of Economic 
+
+Studies, vol. 70 (October), pp. 861-86. 
+ 
+Wright, Jonathan H. (2012).  “What Does Monetary Policy Do to Long-Term Interest 
+
+Rates at the Zero Lower Bound?” NBER Working Paper Series 17154. 
+Cambridge, Mass.:  National Bureau of Economic Research, June, 
+www.nber.org/papers/w17154.pdf. 
+
+ 
+Yellen, Janet L. (2012a).  “The Economic Outlook and Monetary Policy,” speech 
+
+delivered at the Money Marketeers of New York University, New York, April 11, 
+www.federalreserve.gov/newsevents/speech/yellen20120411a.htm. 
+
+ 
+-------- (2012b).  “Perspectives on Monetary Policy,” speech delivered at the Boston 
+
+Economic Club Dinner, Boston, June 6, 
+www.federalreserve.gov/newsevents/speech/yellen20120606a.htm. 
+

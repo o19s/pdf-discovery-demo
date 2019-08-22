@@ -1,0 +1,925 @@
+
+For release on delivery 
+
+1:00 p.m. EDT  
+
+April 13, 2012 
+
+
+
+
+
+
+
+
+
+Some Reflections on the Crisis and the Policy Response 
+
+
+
+
+Remarks by 
+
+
+Ben S. Bernanke 
+
+
+Chairman 
+
+
+Board of Governors of the Federal Reserve System 
+
+
+at the  
+
+
+Conference on “Rethinking Finance:  Perspectives on the Crisis” 
+
+Presented by the Russell Sage Foundation and The Century Foundation 
+
+
+New York, New York 
+
+
+
+
+
+
+
+
+April 13, 2012 
+
+
+
+
+
+
+I would like to thank the conference organizers for the opportunity to offer a few 
+
+remarks on the causes of the 2007-09 financial crisis as well as on the Federal Reserve’s 
+
+policy response.  The topic is a large one, and today I will be able only to lay out some 
+
+basic themes.  In doing so, I will draw from talks and testimonies that I gave during the 
+
+crisis and its aftermath, particularly my testimony to the Financial Crisis Inquiry 
+
+Commission in September 2010.
+1
+  Given the time available, I will focus narrowly on the 
+
+financial crisis and the Federal Reserve’s response in its capacity as liquidity provider of 
+
+last resort, leaving discussions of monetary policy and the aftermath of the crisis to 
+
+another occasion. 
+
+Triggers and Vulnerabilities 
+
+ In its analysis of the crisis, my testimony before the Financial Crisis Inquiry 
+
+Commission drew the distinction between triggers and vulnerabilities.  The triggers of 
+
+the crisis were the particular events or factors that touched off the events of 2007-09--the 
+
+proximate causes, if you will.  Developments in the market for subprime mortgages were 
+
+a prominent example of a trigger of the crisis.  In contrast, the vulnerabilities were the 
+
+structural, and more fundamental, weaknesses in the financial system and in regulation 
+
+and supervision that served to propagate and amplify the initial shocks.  In the private 
+
+sector, some key vulnerabilities included high levels of leverage; excessive dependence 
+
+on unstable short-term funding; deficiencies in risk management in major financial firms; 
+
+and the use of exotic and nontransparent financial instruments that obscured 
+
+concentrations of risk.  In the public sector, my list of vulnerabilities would include gaps 
+
+in the regulatory structure that allowed systemically important firms and markets to 
+
+                                                 
+1
+ See Ben S. Bernanke (2010), “Causes of the Recent Financial and Economic Crisis,” statement before the 
+
+Financial Crisis Inquiry Commission, Washington, September 2, 
+
+www.federalreserve.gov/newsevents/testimony/bernanke20100902a.htm. 
+
+
+ - 2 - 
+
+escape comprehensive supervision; failures of supervisors to effectively apply some 
+
+existing authorities; and insufficient attention to threats to the stability of the system as a 
+
+whole (that is, the lack of a macroprudential focus in regulation and supervision). 
+
+ The distinction between triggers and vulnerabilities is helpful in that it allows us 
+
+to better understand why the factors that are often cited as touching off the crisis seem 
+
+disproportionate to the magnitude of the financial and economic reaction.  Consider 
+
+subprime mortgages, on which many popular accounts of the crisis focus.  
+
+Contemporaneous data indicated that the total quantity of subprime mortgages 
+
+outstanding in 2007 was well less than $1 trillion; some more-recent accounts place the 
+
+figure somewhat higher.  In absolute terms, of course, the potential for losses on these 
+
+loans was large--on the order of hundreds of billions of dollars.  However, judged in 
+
+relation to the size of global financial markets, aggregate exposures to subprime 
+
+mortgages were quite modest.  By way of comparison, it is not especially uncommon for 
+
+one day’s paper losses in global stock markets to exceed the losses on subprime 
+
+mortgages suffered during the entire crisis, without obvious ill effect on market 
+
+functioning or on the economy.  Thus, losses on subprime mortgages can plausibly 
+
+account for the massive reaction seen during the crisis only insofar as they interacted with 
+
+other factors--more fundamental vulnerabilities--that served to amplify their effects.    
+
+ On the surface, the puzzle of disproportionate cause and effect seems somewhat 
+
+less stark if one takes the boom and bust in the U.S. housing market as the trigger of the 
+
+crisis, as the paper gains and losses associated with the swing in house prices were many 
+
+times the losses associated directly with subprime loans.  Indeed, the 30 percent or so 
+
+aggregate decline in house prices since their peak has by now eliminated nearly $7 
+
+
+ - 3 - 
+
+trillion in paper wealth.  However, on closer examination, it is not clear that even the 
+
+large movements in house prices, in the absence of the underlying weaknesses in our 
+
+financial system, can account for the magnitude of the crisis.  First, much of the decline 
+
+in house prices has occurred since the most intense phase of the crisis; the decline in 
+
+prices since September 2008 is probably better viewed as largely the result of, rather than 
+
+a cause of, the crisis and ensuing recession.  More fundamentally, however, any theory of 
+
+the crisis that ties its magnitude to the size of the housing bust must also explain why the 
+
+fall of dot-com stock prices just a few years earlier, which destroyed as much or more 
+
+paper wealth--more than $8 trillion--resulted in a relatively short and mild recession and 
+
+no major financial instability.
+2
+  Once again, the explanation of the differences between 
+
+the two episodes must be that the problems in housing and mortgage markets interacted 
+
+with deeper vulnerabilities in the financial system in ways that the dot-com bust did not.   
+
+So let me turn, then, to a discussion of those vulnerabilities and how they amplified the 
+
+effects of triggers like the collapse of the subprime mortgage market.   
+
+A number of the vulnerabilities I listed a few moments ago were associated with 
+
+the increased importance of the so-called shadow banking system.  Shadow banking, as 
+
+usually defined, comprises a diverse set of institutions and markets that, collectively, 
+
+carry out traditional banking functions--but do so outside, or in ways only loosely linked 
+
+to, the traditional system of regulated depository institutions.  Examples of important 
+
+                                                 
+2
+ According to the Federal Reserve’s statistical release “Flow of Funds Accounts of the United States,” the 
+
+value of real estate held by households fell from $22.7 trillion in the first quarter of 2006 to $20.9 trillion in 
+
+the fourth quarter of 2007 (down 8.1 percent from the first quarter of 2006).  It then declined to 
+
+$18.5 trillion in the third quarter of 2008 (down 18.6 percent from the first quarter of 2006) and to 
+
+$16.0 trillion in the fourth quarter of 2011 (down 29.7 percent from the first quarter of 2006).  The stock 
+
+market wealth of U.S. households peaked at $18.1 trillion in the first quarter of 2000 and fell $6.2 trillion to 
+
+$11.9 trillion through the third quarter of 2001.  After a short-lived recovery, stock market wealth bottomed 
+
+at $9.9 trillion in the third quarter of 2002.  Overall, stock market wealth fell $8.3 trillion (or 46 percent) 
+
+between its peak in the first quarter of 2000 and its trough in the third quarter of 2002.  The flow of funds 
+
+accounts are published quarterly and are available at www.federalreserve.gov/releases/z1.  
+
+
+ - 4 - 
+
+components of the shadow banking system include securitization vehicles, asset-backed 
+
+commercial paper (ABCP) conduits, money market mutual funds, markets for repurchase 
+
+agreements (repos), investment banks, and mortgage companies.  Before the crisis, the 
+
+shadow banking system had come to play a major role in global finance. 
+
+Economically speaking, as I noted, shadow banking bears strong functional 
+
+similarities to the traditional banking sector.  Like traditional banking, the shadow 
+
+banking sector facilitates maturity transformation (that is, it is used to fund longer-term, 
+
+less-liquid assets with short-term, more-liquid liabilities), and it channels savings into 
+
+specific investments, mostly debt-like instruments.  In part, the rapid growth of shadow 
+
+banking reflected various types of regulatory arbitrage--for example, the minimization of 
+
+capital requirements.  However, instruments that fund the shadow banking system, such 
+
+as money market mutual funds and repos, also met a rapidly growing demand among 
+
+investors, generally large institutions and corporations, seeking cash-like assets for use in 
+
+managing their liquidity.  Commercial banks were limited in their ability to meet this 
+
+growing demand by prohibitions on the payment of interest on business checking 
+
+accounts and by relatively low limits on the size of deposit accounts that can be insured 
+
+by the Federal Deposit Insurance Corporation (FDIC). 
+
+As became apparent during the crisis, a key vulnerability of the system was the 
+
+heavy reliance of the shadow banking sector, as well as some of the largest global banks, 
+
+on various forms of short-term wholesale funding, including commercial paper, repos, 
+
+securities lending transactions, and interbank loans.  The ease, flexibility, and low 
+
+perceived cost of short-term funding also supported a broader trend toward higher 
+
+
+ - 5 - 
+
+leverage and greater maturity mismatch in individual shadow banking institutions and in 
+
+the sector as a whole. 
+
+While banks also rely on short-term funding and leverage, they benefit from a 
+
+government-provided safety net, including deposit insurance and backstop liquidity 
+
+provision by the central bank.  Shadow banking activities do not have these safeguards, 
+
+so they employ alternative mechanisms to gain investor confidence.  Among these 
+
+mechanisms are the collateralization of many shadow banking liabilities; regulatory or 
+
+contractual restrictions placed on portfolio holdings, such as the liquidity and credit 
+
+quality requirements applicable to money market mutual funds; and the imprimaturs of 
+
+credit rating agencies.  Indeed, the very foundation of shadow banking and its rapid 
+
+growth before the crisis was the widely held view (among both investors and regulators) 
+
+that these safeguards would protect shadow banking activities against runs and panics, 
+
+similar to the protection given to commercial banking by the government safety net.  
+
+Unfortunately, this view turned out to be wrong.  When it became clear to investors that 
+
+these alternative protections might not be adequate to protect against losses, widespread 
+
+flight from the shadow banking system occurred, with pernicious dynamics reminiscent 
+
+of the banking panics of an earlier era.  
+
+ Although the vulnerabilities associated with short-term wholesale funding and 
+
+excessive leverage can be seen as structural weaknesses of the global financial system, 
+
+they can also be viewed as a consequence of poor risk management by financial 
+
+institutions and investors, which I would count as another major vulnerability of the 
+
+system before the crisis.  Unfortunately, the crisis revealed a number of significant 
+
+defects in private-sector risk management and risk controls, importantly including 
+
+
+ - 6 - 
+
+insufficient capacity by many large firms to track firmwide risk exposures, such as off-
+
+balance-sheet exposures.   
+
+This lack of capacity by major financial institutions to track firmwide risk 
+
+exposures led in turn to inadequate risk diversification, so that losses--rather than being 
+
+dispersed broadly--proved in some cases to be heavily concentrated among relatively 
+
+few, highly leveraged companies.  Here, I think, is the principal explanation of why the 
+
+busts in dot-com stock prices and in the housing and mortgage markets had such 
+
+markedly different effects.  In the case of dot-com stocks, losses were spread relatively 
+
+widely across many types of investors.  In contrast, following the housing and mortgage 
+
+bust, losses were felt disproportionately at key nodes of the financial system, notably 
+
+highly leveraged banks, broker-dealers, and securitization vehicles.  Some of these 
+
+entities were forced to engage in rapid asset sales at fire-sale prices, which undermined 
+
+confidence in counterparties exposed to these assets, led to sharp withdrawals of funding, 
+
+and disrupted financial intermediation, with severe consequences for the economy. 
+
+Private-sector risk management also failed to keep up with financial innovation in 
+
+many cases.  An important example is the extension of the traditional originate-to-
+
+distribute business model to encompass increasingly complex securitized credit products, 
+
+with wholesale market funding playing a key role.  In general, the originate-to-distribute 
+
+model breaks down the process of credit extension into components or stages--from 
+
+origination to financing and to the postfinancing monitoring of the borrower’s ability to 
+
+repay--in a manner reminiscent of how manufacturers distribute the stages of production 
+
+across firms and locations.  This general approach has been used in various forms for 
+
+many years and can produce significant benefits, including lower credit costs and 
+
+
+ - 7 - 
+
+increased access of consumers and small and medium-sized businesses to capital markets.  
+
+However, the expanded use of this model to finance subprime mortgages through 
+
+securitization was mismanaged at several points, including the initial underwriting, which 
+
+deteriorated markedly, in part because of incentive schemes that effectively rewarded 
+
+originators for the quantity rather than the quality of the mortgages extended.  Loans 
+
+were then packaged into securities that proved complex, opaque, and unwieldy; for 
+
+example, when defaults became widespread, the legal agreements underlying the 
+
+securitizations made reasonable modifications of troubled mortgages difficult.  Rating 
+
+agencies’ ratings of asset-backed securities were revealed to be subject to conflicts of 
+
+interest and faulty models.  At the end of the chain were investors who often relied 
+
+mainly on ratings and did not make distinctions among AAA-rated securities.  Even if the 
+
+ultimate investors wanted to do their own credit analysis, the information needed to do so 
+
+was often difficult or impossible to obtain. 
+
+ Dependence on short-term funding, high leverage, and inadequate risk 
+
+management were critical vulnerabilities of the private sector prior to the crisis.  
+
+Derivative transactions further increased risk concentrations and the vulnerability of the 
+
+system, notably by shifting the location and apparent nature of exposures in ways that 
+
+were not transparent to many market participants.  But even as private-sector activities 
+
+increased systemic risk, the public sector also failed to appreciate or sufficiently respond 
+
+to the building vulnerabilities in the financial system--both because the statutory 
+
+framework of financial regulation was not well suited to addressing some key 
+
+vulnerabilities and because some of the authorities that did exist were not used 
+
+effectively. 
+
+
+ - 8 - 
+
+In retrospect, it is clear that the statutory framework of financial regulation in 
+
+place before the crisis contained serious gaps.  Critically, shadow banking activities were, 
+
+for the most part, not subject to consistent and effective regulatory oversight.  Much 
+
+shadow banking lacked meaningful prudential regulation, including various special 
+
+purpose vehicles, ABCP conduits, and many nonbank mortgage-origination companies.  
+
+No regulatory body restricted the leverage and liquidity policies of these entities, and few 
+
+if any regulatory standards were imposed on the quality of their risk management or the 
+
+prudence of their risk-taking.  Market discipline, imposed by creditors and counterparties, 
+
+helped on some dimensions but did not effectively limit the systemic risks these entities 
+
+posed. 
+
+Other shadow banking activities were potentially subject to some prudential 
+
+oversight, but weaknesses in the statutory and regulatory framework meant that in 
+
+practice they were inadequately regulated and supervised.  For example, the Securities 
+
+and Exchange Commission supervised the largest broker-dealer holding companies but 
+
+only through an opt-in arrangement that lacked the force of a statutory regulatory regime.  
+
+Large broker-dealer holding companies faced serious losses and funding problems during 
+
+the crisis, and the instability of such firms as Bear Stearns and Lehman Brothers severely 
+
+damaged the financial system.  Similarly, the insurance operations of American 
+
+International Group, Inc. (AIG), were supervised and regulated by various state and 
+
+international insurance regulators, and the Office of Thrift Supervision had authority to 
+
+supervise AIG as a thrift holding company.  However, oversight of AIG Financial 
+
+Products, which housed the derivatives activities that imposed major losses on the firm, 
+
+was extremely limited in practice.  
+
+
+ - 9 - 
+
+The gaps in statutory authority had the additional effect of limiting the 
+
+information available to regulators and, consequently, may have made it more difficult to 
+
+recognize the underlying vulnerabilities and complex linkages in the overall financial 
+
+system.  Shadow banking institutions that were unregulated or lightly regulated were 
+
+typically not required to report data that would have adequately revealed their risk 
+
+positions or practices.  Moreover, the lack of preexisting reporting and supervisory 
+
+relationships hindered systematic gathering of information that might have helped 
+
+policymakers in the early days of the crisis. 
+
+A broader failing was that regulatory agencies and supervisory practices were 
+
+focused on the safety and soundness of individual financial institutions or markets--what 
+
+we now refer to as microprudential supervision.  In the United States and most other 
+
+advanced economies, no governmental entity had either a mandate or sufficient 
+
+authority--now often called macroprudential authority--to take actions to limit systemic 
+
+risks that could result from the collective behavior of financial institutions and markets.  
+
+Gaps in the statutory framework were an important reason for the buildup of risk 
+
+in certain parts of the system and for the inadequate response of the public sector to that 
+
+buildup.  But even when the relevant statutory authorities did exist, they were not always 
+
+used forcefully or effectively enough by regulators and supervisors, including the Federal 
+
+Reserve.  Notably, bank regulators did not do enough to force large financial institutions 
+
+to strengthen their internal risk-management systems or to curtail risky practices.  The 
+
+Federal Reserve’s Supervisory Capital Assessment Program, undertaken in the spring of 
+
+2009 and popularly known as the “stress tests,” played a critical role in restoring 
+
+confidence in the U.S. banking system, but it also demonstrated that many institutions’ 
+
+
+ - 10 - 
+
+information systems could not provide timely, accurate information about bank exposures 
+
+to counterparties or complete information about the aggregate risks posed by different 
+
+positions and portfolios.  Regulators had recognized these problems in some cases but did 
+
+not press firms vigorously enough to fix them.  
+
+Even without a macroprudential mandate, regulators could also have done more to 
+
+try to mitigate risks to the broader financial system.  In retrospect, stronger bank capital 
+
+standards--notably those relating to the quality of capital and the amount of capital 
+
+required for banks’ trading book assets--and more attention to the liquidity risks faced by 
+
+the largest, most interconnected firms would have made the financial system as a whole 
+
+more resilient. 
+
+The Crisis as a Classic Financial Panic  
+
+Having laid out some of the triggers and vulnerabilities that set the stage for the 
+
+crisis, I can briefly sketch the evolution of the crisis itself.  As I have noted, 
+
+developments in housing and mortgage markets played an important role as triggers.  
+
+Beginning in 2007, declining house prices and rising rates of foreclosure raised serious 
+
+concerns about the values of mortgage-related assets and considerable uncertainty about 
+
+where those losses would fall.  The economy officially fell into recession in 
+
+December 2007, following several months of financial stress.  However, the most severe 
+
+economic consequences followed the extreme market movements in the fall of 2008.  
+
+To a significant extent, the crisis is best understood as a classic financial panic--
+
+differing in details but fundamentally similar to the panics described by Bagehot and 
+
+many others.
+3
+  The most familiar type of panic that has occurred historically, involving 
+
+                                                 
+3
+ See Walter Bagehot ([1873] 1897), Lombard Street:  A Description of the Money Market (New York:  
+
+Charles Scribner’s Sons).  The classic theoretical analysis of “pure” banking panics is in Douglas W. 
+
+
+ - 11 - 
+
+runs on banks by retail depositors, had been made largely obsolete by deposit insurance, 
+
+central bank backstop liquidity facilities, and the associated government supervision of 
+
+banks.  But a panic is possible in any situation in which longer-term, illiquid assets are 
+
+financed by short-term, liquid liabilities and in which providers of short-term funding 
+
+either lose confidence in the borrower or become worried that other short-term lenders 
+
+may lose confidence.  The combination of dependence on wholesale, short-term 
+
+financing; excessive leverage; generally poor risk management; and the gaps and 
+
+weaknesses in regulatory oversight created an environment in which a powerful, self-
+
+reinforcing panic could begin.
+4
+ 
+
+Indeed, panic-like phenomena arose in multiple contexts and in multiple ways 
+
+during the crisis.  The repo market, a major source of short-term credit for many financial 
+
+institutions, notably including the independent investment banks, was an important 
+
+example.  In repo agreements, loans are collateralized by financial assets, and the 
+
+maximum amount of the loan is the current assessed value of the collateral less a safety 
+
+margin, or haircut.  The secured nature of repo agreements gave firms and regulators 
+
+confidence that runs were unlikely.  But this confidence was misplaced.  Once the crisis 
+
+began, repo lenders became increasingly concerned about the possibility that they would 
+
+be forced to receive collateral instead of cash, collateral that would then have to be 
+
+disposed of in falling and illiquid markets.  In some contexts, lenders responded by 
+
+                                                                                                                                                 
+Diamond and Philip H. Dybvig (1983), “Bank Runs, Deposit Insurance, and Liquidity,” Journal of 
+
+Political Economy, vol. 91 (3), pp. 401-19).  Note that the term “panic” does not necessarily imply 
+
+irrational behavior on the part of depositors or investors; it is perfectly rational to participate in a run if one 
+
+fears that the bank will be forced to close.  However, the collective action of many depositors or investors 
+
+can lead to outcomes that are undesirable from the point of view of the economy as a whole. 
+4
+ For further discussion, see Ben S. Bernanke (2009), “Reflections on a Year of Crisis,” speech delivered at 
+
+“Financial Stability and Macroeconomic Policy,” a symposium sponsored by the Federal Reserve Bank of 
+
+Kansas City, held in Jackson Hole, Wyo., August 20-22, 
+
+www.federalreserve.gov/newsevents/speech/bernanke20090821a.htm. 
+
+
+ - 12 - 
+
+imposing increasingly higher haircuts, cutting the effective amount of funding available 
+
+to borrowers.  In other contexts, lenders simply pulled away, as in a deposit run; in these 
+
+cases, some borrowers lost access to repo entirely, and some securities became 
+
+unfundable in the repo market.  In either case, absent sufficient funding, borrowers were 
+
+frequently left with no option but to sell assets into illiquid markets.  These forced sales 
+
+drove down asset prices, increased volatility, and weakened the financial positions of all 
+
+holders of similar assets.  Volatile asset prices and weaker borrower balance sheets in 
+
+turn heightened the risks borne by repo lenders, further boosting the incentives to demand 
+
+higher haircuts or withdraw funding entirely.  This unstable dynamic was operating in 
+
+full force around the time of the near failure of Bear Stearns in March 2008, and again 
+
+during the worsening of the crisis in mid-September of that year.
+5
+ 
+
+Classic panic-type phenomena occurred in other contexts as well.  Early in the 
+
+crisis, structured investment vehicles and many other asset-backed programs were unable 
+
+to roll over their commercial paper as investors pulled back, and the programs were 
+
+forced to draw on liquidity lines from banks or to sell assets.
+6
+  The resulting pressure on 
+
+the bank liquidity providers, evident especially in the market for dollar-denominated 
+
+loans in short-term funding markets, impeded the functioning of the financial system 
+
+throughout the crisis.  Following the Lehman collapse and the “breaking of the buck” by 
+
+                                                 
+5  
+
+For a theoretical discussion of “margin spirals” and related phenomena, see Markus K. Brunnermeier and 
+
+Lasse Heje Pedersen (2009), “Market Liquidity and Funding Liquidity,” Review of Financial Studies, 
+
+vol. 22 (6), pp. 2201-38.  Institutional details on the triparty repo market and a description of developments 
+
+in that market during the crisis are provided in Adam Copeland, Antoine Martin, and Michael Walker 
+
+(2010), “The Tri-Party Repo Market before the 2010 Reforms,” Federal Reserve Bank of New York Staff 
+
+Reports 477 (New York:  Federal Reserve Bank of New York, November), 
+
+www.copeland.marginalq.com/res_doc/sr477.pdf.  The role of the “run on repo” in the crisis is discussed in 
+
+Gary B. Gorton and Andrew Metrick (2009), “Securitized Banking and the Run on Repo,” NBER Working 
+
+Paper Series 15223 (Cambridge, Mass.:  National Bureau of Economic Research, August), 
+
+www.nber.org/papers/w15223.  
+6
+ An empirical analysis of the run on ABCP is provided in Daniel Covitz, Nellie Liang, and Gustavo Suarez 
+
+(forthcoming), “The Evolution of a Financial Crisis:  Collapse of the Asset-Backed Commercial Paper 
+
+Market,” Journal of Finance. 
+
+
+ - 13 - 
+
+a money market mutual fund that held commercial paper issued by Lehman, both money 
+
+market mutual funds and the commercial paper market were also subject to runs.
+7
+  More 
+
+generally, during the crisis, runs of short-term uninsured creditors created severe funding 
+
+problems for a number of financial firms, including several large broker-dealers and also 
+
+some bank holding companies.  In some cases, withdrawals of funds by creditors were 
+
+augmented by “runs” in other guises--for example, by prime brokerage customers of 
+
+investment banks concerned about the safety of cash and securities held at those firms or 
+
+by derivatives counterparties demanding additional margin.
+8
+  Overall, the emergence of 
+
+run-like phenomena in a variety of contexts helps explain the remarkably sharp and 
+
+sudden intensification of the financial crisis, its rapid global spread, and the fact that 
+
+standard market indicators largely failed to forecast the abrupt deterioration in financial 
+
+conditions.  
+
+The multiple instances of run-like behavior during the crisis, together with the 
+
+associated sharp increases in liquidity premiums and dysfunction in many markets, 
+
+motivated much of the Federal Reserve’s policy response.
+9
+  Bagehot advised central 
+
+banks--the only institutions that have the power to increase the aggregate liquidity in the 
+
+system--to respond to panics by lending freely against sound collateral.  Following that 
+
+advice, from the beginning of the crisis, the Fed, like other major central banks, provided 
+
+                                                 
+7
+ For an analysis of the determinants of runs on money market mutual funds during the crisis, see Patrick 
+
+McCabe (2010), “The Cross Section of Money Market Fund Risks and Financial Crises,” Finance and 
+
+Economics Discussion Series 2010-51 (Washington: Board of Governors of the Federal Reserve System, 
+
+September), www.federalreserve.gov/pubs/feds/2010/201051.   
+8
+ Prime brokers provide a variety of services for hedge funds and other sophisticated institutional investors.  
+
+Their services include clearing of trades, financing of long securities positions, and borrowing of securities 
+
+to facilitate the establishment of short positions.  
+9
+ See Brian F. Madigan (2009), “Bagehot’s Dictum in Practice:  Formulating and Implementing Policies to 
+
+Combat the Financial Crisis,” speech delivered at “Financial Stability and Macroeconomic Policy,” a 
+
+symposium sponsored by the Federal Reserve Bank of Kansas City, held in Jackson Hole, Wyo., 
+
+August 20-22, www.federalreserve.gov/newsevents/speech/madigan20090821a.htm. 
+
+
+ - 14 - 
+
+large amounts of short-term liquidity to financial institutions, including primary dealers 
+
+as well as banks, on a broad range of collateral.
+10
+
+  Reflecting the contemporary 
+
+institutional environment, it also provided backstop liquidity support for components of 
+
+the shadow banking system, including money market mutual funds, the commercial paper 
+
+market, and the asset-backed securities markets.  To be sure, the provision of liquidity 
+
+alone can by no means solve the problems of credit risk and credit losses, but it can 
+
+reduce liquidity premiums, help restore the confidence of investors, and thus promote 
+
+stability.  It can also reduce panic-driven credit problems in cases in which such problems 
+
+result from price declines during liquidity-driven fire sales of assets. 
+
+The pricing of the liquidity facilities was an important part of the Federal 
+
+Reserve’s strategy.  Rates could not be too high; to have a positive effect, and to 
+
+minimize the stigma of borrowing, the facilities had to be attractive relative to rates 
+
+available (or nominally available) in illiquid, dysfunctional markets.  At the same time, 
+
+pricing had to be sufficiently unattractive that borrowers would voluntarily withdraw 
+
+from these facilities as market conditions normalized.  This desired outcome in fact 
+
+occurred:  By early 2010, emergency lending had been drastically reduced, along with the 
+
+demand for such lending. 
+
+The Federal Reserve’s responses to the failure or near failure of a number of 
+
+systemically critical firms reflected the best of bad options, given the absence of a legal 
+
+framework for winding down such firms in an orderly way in the midst of a crisis--a 
+
+framework that we now have.  However, those actions were, again, consistent with the 
+
+Bagehot approach of lending against collateral to illiquid but solvent firms.  The 
+
+                                                 
+10
+
+ Primary dealers are broker-dealers that are designated as counterparties by the Federal Reserve Bank of 
+
+New York for its conduct of open market operations in the implementation of monetary policy. 
+
+
+ - 15 - 
+
+acquisition of Bear Stearns by JPMorgan Chase was facilitated by a Federal Reserve loan 
+
+against a designated set of assets, and the provision of liquidity to AIG was collateralized 
+
+by the assets of the largest insurance company in the United States.  In both cases the 
+
+Federal Reserve determined that the loans were adequately secured, and in both cases the 
+
+Federal Reserve has either been repaid with interest or holds assets whose assessed 
+
+values comfortably cover remaining loans.  
+
+To say that the crisis was purely a liquidity-based panic would be to overstate the 
+
+case.  Certainly, an important part of the resolution of the crisis involved assuring 
+
+markets and counterparties of the solvency of key financial institutions, and that 
+
+assurance was provided in significant part by the injection of capital, including public 
+
+capital, and the issuance of guarantees--measures not available to the Federal Reserve.  In 
+
+these respects, the Treasury-managed Troubled Asset Relief Program and the FDIC’s 
+
+Temporary Liquidity Guarantee Program played critical roles.  As I have noted, the 
+
+Federal Reserve did help restore confidence in the solvency of the banking system by 
+
+leading the stress tests of the 19 largest U.S. bank holding companies in the spring of 
+
+2009.  These stress tests, which were both rigorous and transparent, helped make it 
+
+possible for the tested banks to raise $120 billion in private capital in the ensuing months. 
+
+The response to the panic also involved an extraordinary amount of international 
+
+consultation and coordination.  Following a key meeting of the Group of Seven finance 
+
+ministers and central bank governors in Washington on October 10, 2008, the 
+
+governments of other industrial countries took strong measures to stabilize key financial 
+
+institutions and markets.  Central banks collaborated closely throughout the crisis; in 
+
+particular, the Federal Reserve undertook swap agreements with 14 other central banks to 
+
+
+ - 16 - 
+
+help ensure adequate dollar liquidity in global markets and thus keep credit flowing to 
+
+U.S. households and businesses. 
+
+Conclusion 
+
+ The financial crisis of 2007-09 was difficult to anticipate for two reasons:  First, 
+
+financial panics, being to a significant extent self-fulfilling crises of confidence, are 
+
+inherently difficult to foresee.  Second, although the crisis bore some resemblance at a 
+
+conceptual level to the panics known to Bagehot, it occurred in a rather different 
+
+institutional context and was propagated and amplified by a number of vulnerabilities that 
+
+had developed outside the traditional banking sector.  Once identified, however, the panic 
+
+could be addressed to a significant extent using classic tools, including backstop liquidity 
+
+provision by central banks, both here and abroad. 
+
+ To avoid or at least mitigate future panics, the vulnerabilities that underlay the 
+
+recent crisis must be fully addressed.  As you know, this process is well under way at 
+
+both the national and international levels.  I will have to leave to another time a 
+
+discussion of the extensive changes in regulatory frameworks, as well as the changes in 
+
+the Federal Reserve’s own organization and practices, that have been or are being put in 
+
+place.  Instead, I will close by noting that the events of the past few years have forcibly 
+
+reminded us of the damage that severe financial crises can cause.  Going forward, for the 
+
+Federal Reserve as well as other central banks, the promotion of financial stability must 
+
+be on an equal footing with the management of monetary policy as the most critical 
+
+policy priorities. 
+

@@ -1,0 +1,1105 @@
+
+
+
+For release on delivery        
+6:00 p.m. EDT          
+October 20, 2011 
+ 
+
+
+Unemployment, the Labor Market, and the Economy 
+ 
+
+
+Remarks by 
+ 
+
+Daniel K. Tarullo  
+ 
+
+Member 
+ 
+
+Board of Governors of the Federal Reserve System 
+ 
+
+at the 
+ 
+
+World Leaders Forum 
+Columbia University 
+
+ 
+New York, New York 
+
+
+October 20, 2011 
+
+
+
+
+
+I appreciate the opportunity to be at Columbia this evening to discuss the 
+
+American economy and, in particular, the employment situation.1  Mindful of the trend of 
+
+public discourse toward hyperbole, I hesitated in deciding whether to characterize that 
+
+situation as a crisis.  But it is hard to justify characterizing in any less urgent fashion the 
+
+circumstances of the nearly 30 million Americans who are officially unemployed, out of 
+
+the labor force but wanting jobs, or involuntarily working only part time.   
+
+This situation reflects acute problems in labor markets, created by the financial 
+
+crisis and the recession that followed.  But we also confront chronic labor market 
+
+problems.  In my remarks this evening, I will outline both sets of problems.  In my 
+
+observations on policy responses, however, I will concentrate on the acute problems--in 
+
+part to join the debate on their origins, in part because they call for the most immediate 
+
+response, and in part because they are most relevant to my monetary policy 
+
+responsibilities as a member of the Federal Open Market Committee (FOMC) of the 
+
+Federal Reserve.  That said, I hope you will not think the chronic problems any less 
+
+important for the briefer treatment they receive tonight. 
+
+Most of what I have to say can be summarized in three points.  First, the acute 
+
+problems are largely, though not completely, the result of a shortfall of aggregate demand 
+
+following the financial crisis and recession.  As such, they can be addressed through 
+
+measures designed to increase total investment and consumption spending in the 
+
+economy.   
+
+                                                 
+1 The views presented here are my own and not necessarily those of other members of the Board of 
+Governors of the Federal Reserve System or the Federal Open Market Committee. William Wascher, Bruce 
+Fallick, Christopher Nekarda, and Christopher Smith of the Board’s staff provided substantial assistance 
+over many months in the research for, and crafting of, these remarks. 
+
+
+
+
+- 2 -
+
+Second, because the recession arose from a financial crisis, which itself followed 
+
+a buildup of asset bubbles and unsustainable debt in important areas such as housing, the 
+
+policies likely to be most effective at increasing aggregate demand may be somewhat 
+
+different from those associated with a more typical recession and, even so, are not likely 
+
+to work as quickly. 
+
+Third, if labor market conditions remain this unfavorable for a long period, the 
+
+problems I have described as acute could transform into another chronic problem.  I refer 
+
+not just to the despair and desperation that workers and their families must feel as weeks 
+
+of unemployment stretch into months and even years, which alone should be enough to 
+
+elicit a policy response, but also to what occurs when the ranks of the unemployed remain 
+
+so great for so long--the erosion of skills and labor market attachment may affect the 
+
+productive capacity of the economy as a whole.   
+
+The State of the Labor Market Today 
+
+Let me start with some basic statistics that summarize the current state of the 
+
+labor market.  The most familiar of these is the unemployment rate, which, except for a 
+
+couple of months earlier this year, has been at or above 9 percent since mid-2009.  This is 
+
+only the second time since the Great Depression that the jobless rate has been so high, 
+
+and it is the first time since the 1930s that it has been so high for so long.  Unemployment 
+
+rates are exceptionally elevated for certain subgroups of the population:  Nearly 
+
+15 percent for workers without a high school education, 16 percent among African 
+
+Americans, about 25 percent among all teenagers, and nearly 50 percent for African 
+
+American teenagers.  Even among college graduates, whose unemployment rate is much 
+
+
+
+
+- 3 -
+
+lower than that of the population as a whole, the rate has doubled since the onset of the 
+
+recession. 
+
+As familiar as the unemployment rate is, both as a measure of economic slack and 
+
+as an indicator of the pain experienced by American households, it does not tell the whole 
+
+story.  About 9 million workers who would like a full-time job can find only part-time 
+
+work.  Millions of others are working at jobs for which they are likely overqualified and 
+
+earning less than in their previous jobs.  Meanwhile, another 6 million people who are not 
+
+officially counted among the unemployed say that they would like a job but have stopped 
+
+looking for one, in many cases because they have become discouraged by the poor state 
+
+of the job market.   
+
+This effect can also be seen in the labor force participation rate, which has 
+
+dropped sharply since 2007.  The proportion of the U.S. population that is employed now 
+
+stands at about 58 percent, the lowest level since 1983.  Finally, more than 6 million 
+
+workers--nearly one-half of all the unemployed--have been jobless for more than six 
+
+months.  The long-term unemployment rate is by far the highest it has been since data on 
+
+the duration of unemployment began to be collected in 1948.  
+
+Even more dispiriting than this snapshot of the employment picture is that there is 
+
+so little momentum toward improvements in labor market conditions.  The level of 
+
+payroll employment fell by nearly 9 million during and just after the recession.  To date, 
+
+only about one-fourth that number of jobs has been restored.  The pace of job growth in 
+
+recent quarters has been barely enough to absorb the increase in the labor force and 
+
+wholly insufficient to produce meaningful declines in unemployment.  The number of 
+
+
+
+
+- 4 -
+
+new claims for unemployment insurance suggests only modest gains in employment in 
+
+coming months, while measures of job vacancies seem to have turned down. 
+
+Longer-Term Concerns for the U.S. Labor Market 
+
+Persistent employment weakness during an economic recovery, even such a tepid 
+
+one, raises the important question of whether it is symptomatic of longer-run changes in 
+
+the labor market.  Indeed, in some respects the recent weakness resembles the “jobless” 
+
+recoveries that followed the 1990 and 2001 recessions.  In both of those episodes, job 
+
+growth remained weak well after the downturn in real gross domestic product (GDP) 
+
+ended, and the unemployment rate continued to rise, though from lower levels than we 
+
+have today.  One might reasonably ask if these similarities suggest that structural changes 
+
+have placed the labor market on a permanently lower growth path. 
+
+A first response is that there are important differences between this recovery and 
+
+the recoveries that followed those earlier recessions.  In particular, some explanations 
+
+offered for the weak labor market recovery following the past two recessions are clearly 
+
+not relevant today.  Both the 1990 and 2001 recessions were relatively shallow 
+
+downturns.  This factor may have allowed more of the employment adjustment to occur 
+
+through attrition, which can be spread over a longer period than layoffs.  And both of 
+
+those recessions followed long expansions, which may have permitted a buildup of 
+
+productive inefficiencies that gave businesses scope to increase output in the subsequent 
+
+recovery without expanding employment.2 
+
+That said, there are some discouraging longer-term trends.  Even before the 
+
+recession, the labor market seemed to be on a slower trajectory than in previous decades.  
+
+                                                 
+2 See Michael W. L. Elsby, Bart Hobijn, and Ayşegül Şahin (2010), “The Labor Market in the Great 
+Recession,” Brookings Papers on Economic Activity (Spring), pp. 1-69, 
+www.brookings.edu/~/media/Files/Programs/ES/BPEA/2010_spring_bpea_papers/2010a_bpea_eslby.pdf. 
+
+
+
+
+- 5 -
+
+Between the business cycle peak in early 2001 and the peak in late 2007, the number of 
+
+payroll jobs rose an average of only about 0.6 percent per year, compared with job 
+
+growth of 1.8 percent per year in both the 1980s and 1990s.  Similarly, the labor force 
+
+participation rate and the percentage of the population employed each peaked around 
+
+2000 and have been on a downtrend path since then.  It is true that a good part of this 
+
+change can be accounted for by demographic factors--notably, lower population growth, 
+
+the aging of the baby boom, and the leveling off of participation rates among women.  
+
+But other, more disquieting factors are also at work. 
+
+Two tendencies in particular suggest that the U.S. labor market has lost some of 
+
+the dynamism that had long contributed to its resilience.  First, it is apparent that job 
+
+reallocation--that is, the sum of the jobs created at some businesses and lost in others--has 
+
+been in secular decline since the late 1990s.  It may seem counterintuitive to include lost 
+
+jobs in a measure of labor market health, and on its own it is obviously not such an 
+
+indicator.  But when combined with new jobs, it forms part of the dynamic of job 
+
+reallocation, an important part of the “creative destruction” that contributes to long-run 
+
+economic growth--for example, as jobs shift from less-productive firms to more-
+
+productive ones.   
+
+Second, the amount of employee movement across jobs has fallen over time.  
+
+Specifically, the rate at which workers move from one firm to another has declined.  So 
+
+has the rate at which workers quit jobs, an indication of the degree to which they believe 
+
+there are better jobs available for them.  In what may be a related trend, geographic 
+
+mobility across counties and states has decreased.3     
+
+                                                 
+3 To date, researchers have been hard-pressed to uncover an explanation for all these declines in worker 
+mobility.  See, for example, Andrea Bassanini and Pascal Marianna (2009), “Looking Inside the Perpetual-
+
+
+
+
+- 6 -
+
+Longer-term patterns in the types of jobs being created have also contributed to a 
+
+widening gap in wages and income between the richest and poorest Americans.  
+
+Adjusting for inflation, earnings for a worker in the middle of the wage distribution have 
+
+risen about 10 percent since 1980, while earnings for a highly paid worker at the 90th 
+
+percentile of the wage distribution have risen more than 30 percent during the same 
+
+period.  Earnings for workers near the low end of the distribution--those around the 10th 
+
+percentile--have risen only about 5 percent after taking inflation into account.  Thus, as 
+
+has been widely observed, the gains from economic growth over the past three decades 
+
+have disproportionately accrued to the highest wage earners. 
+
+ To some degree, growing wage inequality reflects rising returns to education.  
+
+Since 1980, the average wage for college graduates has increased from about one and a 
+
+half times the average wage for workers with only a high school degree to about two 
+
+times their wage.  The good news is that this rise has encouraged more young Americans 
+
+to enroll in college.  The fraction of 18- and 19-year-old high school graduates who are 
+
+enrolled in college rose from around 50 percent in 1980 to nearly 70 percent today.  Even 
+
+the good news must be qualified, however, since half this rise took place in the 1980s, 
+
+and the pace of increase has slowed since then.  The bad news is that less-educated adults 
+
+with significant work experience and younger, inexperienced adults who are ill prepared 
+
+for, or unable to afford, college may be increasingly excluded from future economic 
+
+gains.   
+
+                                                                                                                                                 
+Motion Machine:  Job and Worker Flows in OECD Countries,” IZA Discussion Paper Series 4452 (Bonn:  
+Institute for the Study of Labor, September), http://ftp.iza.org/dp4452.pdf.  It may be that there are greater 
+impediments to workers changing jobs (for example, job lock related to health insurance or pensions) or 
+that workers have become more risk averse.  In principle, these trends could also reflect improving 
+efficiencies in the labor market, such as screening and hiring techniques that result in better matches 
+between firms and workers, though this more benign explanation strikes me as less likely against the 
+overall backdrop of labor markets in the past decade. 
+
+
+
+
+- 7 -
+
+This widening inequality has been described as the result of a broader trend 
+
+toward “occupational polarization.”4  This theory posits that the diffusion of computer-
+
+related technologies, the related automation of routine work, and an increased capability 
+
+for firms to move their activities offshore have combined to concentrate job creation in 
+
+the poles of either high-skill, high-wage employment or low-skill, low-wage work.  The 
+
+high-skill occupations increasingly require at least a bachelor’s degree.  Demand has 
+
+shifted away from traditional middle-class occupations.  The kinds of workers who would 
+
+have been employed in a traditional manufacturing or administrative job now often end 
+
+up in lower-paying jobs. 
+
+Younger workers have historically filled many of the lower-paying service-sector 
+
+jobs that are now more likely to be taken by less-educated adults.  Thus, occupational 
+
+polarization may be responsible for some of the rapid decline in employment and labor 
+
+force participation among young people over the past decade.  While part of this decline 
+
+is likely attributable to the pursuit of additional education, employment and participation 
+
+rates have also fallen for those youth who are not attending school, suggesting that 
+
+education-related explanations are not the whole story.  Indeed, research by the Federal 
+
+Reserve Board’s staff has found that greater crowding-out from adults can account for 
+
+much of the decline in youth participation.5  This crowding-out may have undesirable 
+
+long-term consequences for the current generation of younger adults, as some research 
+
+                                                 
+4 See, for example, David H. Autor, Lawrence F. Katz, and Melissa S. Kearney (2006), “The Polarization 
+of the U.S. Labor Market,” American Economic Review, vol. 96 (May), pp. 189-94, 
+www.aeaweb.org/atypon.php?return_to=/doi/pdfplus/10.1257/000282806777212620; and David H. Autor 
+(2010), “The Polarization of Job Opportunities in the U.S. Labor Market:  Implications for Employment 
+and Earnings,” white paper (Washington:  Center for American Progress and The Hamilton Project, April), 
+www.americanprogress.org/issues/2010/04/pdf/job_polarization.pdf. 
+5 See Christopher L. Smith (2011), “Polarization, Immigration, Education:  What’s Behind the Dramatic 
+Decline in Youth Employment?”  Finance and Economics Discussion Series 2011-41 (Washington:  Board 
+of Governors of the Federal Reserve System, October), 
+www.federalreserve.gov/Pubs/FEDS/2011/201141/201141pap.pdf. 
+
+
+
+
+- 8 -
+
+finds that poor job opportunities early in one’s working life can lead to lower 
+
+employment and wage rates in the future.6 
+
+The Aggregate Demand Shortfall 
+
+To this point, I have portrayed a labor market still disabled by the trauma of the 
+
+financial crisis and the recession that followed, but also beset by chronic maladies whose 
+
+symptoms predate the crisis.  In considering the nature and magnitude of appropriate 
+
+policy responses, an important question is the extent to which the current high level of 
+
+unemployment reflects a shortfall in aggregate demand rather than additional structural 
+
+problems arising from the recession.  If the high level of unemployment is predominantly 
+
+structural in origin, then the increase in aggregate demand intended by various monetary 
+
+and fiscal policies would presumably be of limited efficacy.   
+
+Although structural problems likely account for some of the high jobless rate, I 
+
+believe the evidence points to aggregate demand as clearly the more important 
+
+explanation.  On its face, the sheer magnitude of the decline in the number of jobs during 
+
+the recession, the speed of the increase in unemployment, and the halting nature of the 
+
+economic recovery together create a fairly strong presumption that insufficient aggregate 
+
+demand is the most significant factor.  Moreover, one thing that the current episode has in 
+
+common with the previous two “jobless” recoveries is a slow rebound in aggregate 
+
+economic activity.  Over the first eight quarters of all three recoveries, real GDP grew at 
+
+an average annual rate of 3 percent or less, compared, for example, with more than 
+
+                                                 
+6 See, for example, Christopher Ruhm (1997), “Is High School Employment Consumption or Investment?”  
+Journal of Labor Economics, vol. 15 (October), pp. 735-76, www.jstor.org/stable/10.1086/209844; and 
+Thomas A. Mroz and Timothy H. Savage (2006), “The Long-Term Effects of Youth Unemployment,” 
+Journal of Human Resources, vol. 41 (Spring), pp. 259-93, 
+http://jhr.uwpress.org/content/XLI/2/259.full.pdf.  For a dissenting view regarding the effect of high-school 
+employment, see Joseph V. Hotz, Lixin Colin Xu, Marta Tienda, and Avner Ahituv (2002), “Are There 
+Returns to the Wages of Young Men from Working While in School?”  Review of Economics and 
+Statistics, vol. 84 (May), pp. 221-36, www.mitpressjournals.org/doi/pdf/10.1162/003465302317411497.   
+
+
+
+
+- 9 -
+
+5 percent in the two years following the 1975 and 1982 recessions.  Even taking into 
+
+account differences in trends across time, the slower pace of overall economic growth 
+
+following recent recessions is striking. 
+
+Various arguments have been advanced in an effort to rebut the presumption that 
+
+an aggregate demand shortfall accounts for much or most of the increased 
+
+unemployment.  The most common argument is that the deep recession created serious 
+
+difficulties in matching available workers to available jobs, resulting in a big increase in 
+
+structural unemployment.  
+
+The mismatches in question could develop for a number of reasons.  First, some 
+
+have suggested that the traditional willingness of American workers to move from 
+
+weaker labor markets to stronger ones has been impeded by the sharp decline in 
+
+residential property prices and especially by the large number of mortgages that are now 
+
+greater than the values of the properties securing them.  But research to date suggests that 
+
+such “house lock” has probably not had more than a small effect on structural 
+
+unemployment thus far.7  As noted earlier, migration rates have been falling for some 
+
+time.  But the declines during the recession have not been larger for homeowners than for 
+
+renters.  Nor has migration declined more in areas where workers are more likely to have 
+
+underwater mortgages because of particularly large declines in housing prices. 
+
+A second factor, the one most often cited in support of the structural 
+
+unemployment hypothesis, is skills mismatch.  While it is quite plausible that certain 
+
+features of the current labor market reflect some skills mismatch contributing to a rise in 
+
+                                                 
+7 See Raven Molloy, Christopher  L. Smith, and Abigail Wozniak (2011), “Internal Migration in the United 
+States,” Finance and Economics Discussion Series 2011-30 (Washington:  Board of Governors of the 
+Federal Reserve System, May), www.federalreserve.gov/Pubs/FEDS/2011/201130/201130pap.pdf.   
+
+
+
+
+- 10 -
+
+structural unemployment during the recession, closer examination reveals that they 
+
+explain less of this increase than might first appear.     
+
+One such labor market feature is the sharp reduction in employment in sectors 
+
+related to the housing bubble, such as residential construction and some parts of financial 
+
+services.  The contention is that the skills of workers in these sectors do not readily 
+
+transfer to other sectors, and thus they will have a particularly difficult time finding new 
+
+jobs.  But in every recession, certain industries and occupations are hit particularly hard, 
+
+resulting in significant permanent job losses.  Yet previous recessions do not seem to 
+
+have been accompanied by notable increases in structural unemployment.  Thus, those 
+
+who believe the mismatch problem specifically created by the recession--as distinguished 
+
+from more-secular trends--is either more prevalent or more persistent now than in the 
+
+past would need to identify some additional source of rigidity that has further hampered 
+
+labor market adjustment. 
+
+Some have also pointed to the high level of long-term unemployment as evidence 
+
+that mismatch is a major factor keeping the unemployment rate high.  The claim is that 
+
+those without the skills sought by employers will take longer, on average, to find new 
+
+employment.  However, the data do not back this claim, at least to date.  If high 
+
+unemployment durations were the result of mismatch, the probability of finding a new 
+
+job should have declined proportionately more for the long-term unemployed than for the 
+
+recently unemployed.  In fact, reemployment probabilities during the recession fell by 
+
+similar amounts for all durations of unemployment and have edged up by similar 
+
+increments in the recovery.  Again, this pattern is more consistent with weak aggregate 
+
+demand being the most important cause of high unemployment. 
+
+
+
+
+- 11 -
+
+ Another argument for the structural unemployment hypothesis is that the 
+
+relationship between job vacancies and unemployment has recently changed.  Generally, 
+
+job vacancies bear an inverse relationship to the unemployment rate; that is, when the 
+
+unemployment rate is low, vacancies are relatively plentiful, and when unemployment is 
+
+high, vacancies are scarce.  The pattern of these changes over time has been plotted on 
+
+what is commonly referred to as the Beveridge curve.  A stylized interpretation is that 
+
+movements along the downward-sloping Beveridge curve are generally caused by 
+
+changes in aggregate demand.  Persistent shifts of the curve closer to, or further away 
+
+from, the vertical and horizontal axes may reflect structural changes in the labor market.   
+
+ Much has been made of the fact that the Beveridge curve appears to have shifted 
+
+out in the past couple of years.  The argument is that the shift reflects an increase in job 
+
+mismatch, with the vacancies going unfilled because of structural reasons such as lack of 
+
+geographic mobility or appropriate skills.   
+
+I think far too much has been made of this argument.  In the first place, the 
+
+Bureau of Labor Statistics data series from which the Beveridge curve is constructed 
+
+began only in 2000.  Researchers at the Federal Reserve Banks of Cleveland and San 
+
+Francisco used other data sources to draw what we might call “approximate Beveridge 
+
+curves” for the post-World War II period.8  They found that, during and immediately 
+
+after the serious recessions from 1973 to ’75 and from 1981 to ’82, the curve also shifted 
+
+out noticeably, but in both cases it shifted back inward during the recovery.  Why this 
+
+occurred is not so clear.  The big increase in job loss during the recession is probably a 
+
+                                                 
+8 See John Lindner and Murat Tasci (2010), “Has the Beveridge Curve Shifted?”  Federal Reserve Bank of 
+Cleveland, Economic Trends, August 10, www.clevelandfed.org/research/trends/2010/0810/02labmar.cfm; 
+and Robert Valletta and Katherine Kuang (2010), “Is Structural Unemployment on the Rise?”  Federal 
+Reserve Bank of San Francisco, FRBSF Economic Letter 2010-34 (November 8), 
+www.frbsf.org/publications/economics/letter/2010/el2010-34.pdf. 
+
+
+
+
+- 12 -
+
+factor, as sharp increases in layoffs overwhelm the matching process.  It may also be that 
+
+during serious downturns, more workers who would have given up looking for a job 
+
+continue to look in order to qualify for  extended and emergency unemployment benefits, 
+
+or that employers take longer to fill vacancies when the labor market is weak.9   
+
+An analysis by Federal Reserve Board economists that decomposes the shift in the 
+
+Beveridge curve into its various components does point to some increase in structural 
+
+unemployment related to a reduction in the efficiency with which unemployed workers 
+
+are matched to vacant jobs--that is, mismatch.10  However, the estimated increase is fairly 
+
+modest--on the order of 1 percentage point--relative to the total increase in the 
+
+unemployment rate experienced in recent years.  The remainder appears mainly related to 
+
+the delays in filling open positions that I mentioned a moment ago. 
+
+Economists at the Federal Reserve Bank of New York conducted a broader study 
+
+of the mismatch issue.  By examining imbalances between the occupations, industries, 
+
+and geographic locations in which vacancies are concentrated and those in which 
+
+unemployment is concentrated, they constructed an index of potential mismatch.  They, 
+
+too, concluded that mismatches accounted for only a small amount of the increase in the 
+
+unemployment rate during the recession--on the order of ¾ to 1½ percentage points.11 
+
+                                                 
+9 On the effects of unemployment benefits, see Robert Valletta and Katherine Kuang (2010), “Extended 
+Unemployment and UI Benefits,” Federal Reserve Bank of San Francisco, FRBSF Economic Letter 
+2010-12 (April 19), www.frbsf.org/publications/economics/letter/2010/el2010-12.pdf.  On the lag between 
+job vacancies and hiring, see Steven J. Davis, R. Jason Faberman, and John C. Haltiwanger (2010), “The 
+Establishment-Level Behavior of Vacancies and Hiring,” NBER Working Paper Series 16265 (Cambridge, 
+Mass.:  National Bureau of Economic Research, August), www.nber.org/papers/w16265.pdf. 
+10 See Regis Barnichon and Andrew Figura (2010), “What Drives Movements in the Unemployment Rate?  
+A Decomposition of the Beveridge Curve,” Finance and Economics Discussion Series 2010-48 
+(Washington:  Board of Governors of the Federal Reserve System, August), 
+www.federalreserve.gov/pubs/feds/2010/201048/201048pap.pdf. 
+11 See Ayşegül Şahin, Joseph Song, Giorgio Topa, and Giovanni L. Violante (2011), “Measuring Mismatch 
+in the U.S. Labor Market,” unpublished paper, Federal Reserve Bank of New York, July, 
+http://nyfedeconomists.org/topa/USmismatch_v14.pdf. 
+
+
+
+
+- 13 -
+
+In sum, I do not think arguments suggesting that structural factors account for 
+
+most of the increase in unemployment are persuasive, either individually or collectively.  
+
+Our efforts to quantify the increase in structural unemployment since the onset of the 
+
+recession find that it accounts for less than one-fourth of the difference between today’s 
+
+unemployment rate and that which prevailed in the pre-crisis years.  
+
+Before leaving this subject, I want to mention a different version of the structural 
+
+unemployment argument, which is the concern that high unemployment today will result 
+
+in an increase in structural unemployment in the future--a form of the phenomenon 
+
+known as hysteresis.  The unusually long duration of unemployment spells and high 
+
+fraction of the labor force unemployed for more than six months raise the prospect that 
+
+the long-term unemployed will become progressively less employable as their skills, 
+
+reputations, and networks deteriorate.  That is, the distinction between cyclical and 
+
+structural unemployment may begin to blur.  In the aggregate, such effects could result in 
+
+a persistently higher level of structural unemployment, a persistently lower rate of labor 
+
+force participation, and a concomitant decline in the level of potential output of the entire 
+
+economy.  Whole cadres of workers, whether younger people leaving school at a time of 
+
+high unemployment or older workers losing long-time jobs, might never regain the career 
+
+trajectory on which they were headed. 
+
+In the past, such effects do not appear to have been very significant in the United 
+
+States, and there is little evidence that they have taken hold today.  But the current 
+
+unprecedented durations of unemployment may reduce the relevance of historical 
+
+experience.  Even if the rise in structural unemployment is relatively modest to date, the 
+
+longer the labor market remains weak, the greater the risk that structural unemployment 
+
+
+
+
+- 14 -
+
+will become more of a problem.  Of course, if anything, this possibility argues for more-
+
+aggressive policies to reduce unemployment sooner.12 
+
+Effective Policy Responses 
+
+The policy issues presented by today’s labor market problems are challenging, to 
+
+say the least.  There is need, and ample room, for additional measures to increase 
+
+aggregate demand in the near to medium term, particularly in light of the limited upside  
+
+risks to inflation over the medium term.     
+
+Unlike in the aftermath of the steep recessions of the mid-1970s and early 1980s, 
+
+demand growth has not become sufficiently self-sustaining to produce the strong 
+
+recovery that followed those earlier episodes.  Of the nine quarters that have passed since 
+
+positive GDP growth reappeared in the third quarter of 2009, the rate of growth was 
+
+significantly above trend in only three--the fourth quarter of 2009 and the first two 
+
+quarters of 2010.  These quarters were probably the first to benefit significantly from the 
+
+effects of the American Recovery and Reinvestment Act, passed earlier in 2009. 
+
+Up until quite recently, the dominant metaphor one heard for the economy was 
+
+that it was on its way to a healthy recovery but was hitting occasional “soft patches.”  
+
+This reading of the data always seemed to me quite optimistic.  Now, I believe, nearly 
+
+                                                 
+12 Another line of argument is that the sluggish recovery in the labor market, and in the economy more 
+generally, is a result of wage rigidity.  According to this view, prospective workers are unwilling to accept 
+wage rates low enough to induce businesses to hire and increase production.  However, it is hard to see why 
+this phenomenon would be any stronger now than in earlier recessions, when a greater fraction of the U.S. 
+workforce was covered by collective-bargaining agreements.  Moreover, there would seem to be little 
+indication in the wage data to support the idea that wage rigidity is having a major influence on 
+unemployment.  Wage rates have decelerated across a broad range of industries and occupations, and unit 
+labor costs have fallen sharply.  A simple histogram of the distribution of nominal wage changes in recent 
+years does show a spike at zero, indicating some resistance to reductions in nominal wage rates, but the 
+spike does not seem particularly large relative to those in earlier recessions.  In any case, because the 
+difficulties suggested by this argument arise from the interaction between nominal wage rigidity and a 
+deficiency of aggregate demand, the most straightforward way to overcome problems caused by nominal 
+wage rigidity would be to expand aggregate demand. 
+ 
+
+
+
+
+- 15 -
+
+everyone has toned down their expectations.  I think the better metaphor is of an 
+
+economy slogging through the mud and occasionally hitting stretches of dry pavement, 
+
+which may well have been associated with the peak effects of fiscal and monetary policy 
+
+initiatives.  The economy’s difficulty in gaining traction is, of course, due in no small part 
+
+to the continued high levels of unemployment and underemployment, which constrain 
+
+demand through both direct effects on household income and indirect effects in sapping 
+
+consumer confidence.   
+
+Yet it seems quite likely that there is something at work beyond an adverse 
+
+feedback loop involving personal consumption expenditures, investment, and 
+
+employment.  The obvious candidate for that additional factor is the high amount of  
+
+debt--particularly household debt--that accumulated before the financial crisis.  With the 
+
+bursting of the housing bubble, debt levels that may have looked manageable to 
+
+consumers who believed their homes were appreciating suddenly appeared burdensome 
+
+as house prices declined.  In some parts of the country, this decline was dizzyingly rapid.  
+
+There has been some progress in working off or writing down some forms of debt, such 
+
+as credit card balances.  But housing continues to hang like an albatross around the necks 
+
+of homeowners and the economy as a whole, with millions of underwater mortgages, a 
+
+staggering inventory of foreclosed homes, and depressed levels of sales. 
+
+What, then, are the policies best suited to increase aggregate demand?  It must 
+
+first be said that neither monetary nor fiscal policy will be able to fill the whole aggregate 
+
+demand shortfall quickly.  But appropriate policies could surely boost output and 
+
+employment.  There have also been suggestions that attempts to boost aggregate demand 
+
+will be unsuccessful when the amount of debt overhang is significant.  I agree that 
+
+
+
+
+- 16 -
+
+without more effective efforts to address the manifold problems affecting the housing 
+
+market, there is a good chance that the recovery will lack strong momentum for some 
+
+time to come.  But aggregate demand policies are still important.  For one thing, debts 
+
+will surely be less burdensome as incomes rise.  Moreover, the confluence of housing 
+
+debt and aggregate demand problems suggests that particular attention should be paid to 
+
+policies that could buttress aggregate demand while addressing at least some housing 
+
+market problems. 
+
+As you know, the FOMC has maintained the federal funds rate near zero for 
+
+almost three years in response to the extraordinary economic and financial problems 
+
+faced by the country.  With short-term rates already about as low as they can go, the 
+
+FOMC has also taken some unconventional measures to provide additional monetary 
+
+accommodation.  The combined effect of these monetary policies helped stabilize 
+
+financial markets in 2009, hold deflation at bay in 2010, and support a modest recovery.  
+
+But, in the absence of favorable developments in the coming months, there will be a 
+
+strong case for additional measures.   
+
+Some have argued that monetary policy should do no more, and that the political 
+
+branches of government should adopt fiscal or other policies to encourage increased 
+
+economic activity and job creation.  I certainly do not disagree that well-conceived 
+
+policies by other parts of the government could produce gains in employment, 
+
+investment, and spending.  But the absence of such policies cannot be an excuse for the 
+
+Federal Reserve to ignore its own statutory mandate.  The Federal Reserve Act requires 
+
+that the FOMC promote the goals of maximum employment and stable prices.  The 
+
+statute does not qualify that mandate by saying that we should promote these goals only 
+
+
+
+
+- 17 -
+
+if all parts of the government--or, for that matter, the private sector--are acting just the 
+
+way we think they should.  In other words, we have to take the world as we find it and 
+
+adjust our actions accordingly.  Sometimes that will mean tighter monetary policy to 
+
+offset the inflationary effects of other policies.  Sometimes, as at present, it will mean 
+
+more accommodative policies, even when we know that monetary policy alone cannot 
+
+solve all the economy’s problems. 
+
+Within the FOMC and in the broader policy community, there has been 
+
+considerable discussion of possible additional accommodative measures, from 
+
+communication strategies such as forward guidance on the likely path of the federal funds 
+
+rate to additional balance sheet operations.  I believe we should move back up toward the 
+
+top of the list of options the large-scale purchase of additional mortgage-backed securities 
+
+(MBS), something the FOMC first did in November 2008 and then in greater amounts 
+
+beginning in March 2009 in order to provide more support to mortgage lending and 
+
+housing markets.   
+
+In November 2010, when the FOMC initiated another large-scale asset purchase 
+
+program, only U.S. Treasury securities were involved, in large part because of a desire to 
+
+return, once the recovery was well established, as quickly as possible to a Federal 
+
+Reserve balance sheet that did not contain other kinds of assets.  A related concern of 
+
+some was that the purchase of MBS was a form of credit allocation, rather than simply 
+
+monetary policy that lowered long-term rates for all borrowers.  For similar reasons, the 
+
+proceeds of agency securities accumulated pursuant to the first large-scale asset purchase 
+
+program were reinvested in Treasury securities rather than in other agency securities.   
+
+
+
+
+- 18 -
+
+At the September FOMC meeting, we changed our reinvestment policy so that the 
+
+proceeds of maturing agency securities will now be reinvested in new MBS.  Yields on 
+
+longer-duration Treasury securities had trended down appreciably in the late summer in 
+
+response to market demand, safe-haven flows, and diminishing expectations for growth.  
+
+Even though nominal MBS rates had also declined somewhat, spreads to Treasury yields 
+
+had, over the course of the year, widened noticeably.  Since this announced change in 
+
+reinvestment policy, spreads on lower-coupon MBS have narrowed, but they remain 
+
+higher than they were early this year. 
+
+A large-scale MBS purchase program has many of the benefits associated with 
+
+purchases of longer-duration Treasury securities, such as inducing investors to shift to 
+
+other assets, including bonds and equities.  But it could also have more direct effects on 
+
+the housing market.  By increasing demand for MBS, such a program should reduce the 
+
+effective yield on those MBS, which in turn should put downward pressure on mortgage 
+
+rates.  The aggregate demand effect should be felt not just in new home purchases, but 
+
+also in the added purchasing power of existing homeowners who are able to refinance.  
+
+Indeed, homeowners who refinance get the equivalent of a permanent tax cut.13  
+
+Concerns about central banks making sectoral credit allocation decisions are 
+
+understandable in general.  But here we are talking about a widely traded instrument in a 
+
+sector that appears, now more than ever, to be central to the slow pace of recovery. 
+
+Now, I should note that the mortgage market is quite segmented.  One relatively 
+
+small group of borrowers has extremely good credit and funds for sizable down 
+
+                                                 
+13 Of course, the income gained by consumers is lost to the holders of the mortgages that are prepaid as 
+homeowners refinance.  But there are two reasons to believe that aggregate demand would increase.  First, 
+the marginal propensity to consume of the average homeowner is almost surely higher than that of the 
+average holder of a mortgage-backed security.  Second, to the extent that MBS are held by central banks or 
+foreign investors, the decreased income would not translate into reduced spending.  
+
+
+
+
+- 19 -
+
+payments.  That group can readily obtain a mortgage.  The other, much larger group lacks 
+
+one or both advantages, and it faces much greater hurdles in the mortgage market.  So 
+
+there is some chance that the principal effect of renewed MBS purchases would be to 
+
+allow those in the first group who have already refinanced to do so once again or to buy a 
+
+new home at a somewhat lower mortgage rate.  These outcomes would be helpful, but the 
+
+effectiveness of an MBS purchase program would be amplified, perhaps significantly, if 
+
+certain nonmonetary policies were changed.   
+
+Proposals for promoting refinancing have been made by many academics, 
+
+policymakers, and policy analysts.  Any proposals that could sensibly and effectively be 
+
+implemented would increase the effect of an MBS purchase program.  For example, 
+
+action could be taken to bring the benefits of refinancing to underwater borrowers.  In 
+
+principle, borrowers with mortgages that are guaranteed by government-sponsored 
+
+enterprises (GSEs) such as Fannie Mae and that have loan-to-value ratios of up to 125 
+
+percent can refinance through the Home Affordable Refinance Program.  In practice, 
+
+though, numerous obstacles have kept the program from helping many potentially 
+
+eligible borrowers.  Underwater borrowers whose loans are not guaranteed by GSEs are 
+
+essentially unable to refinance at all.  Policy changes directed at this last, larger group of 
+
+homeowners would have to be carefully designed so as not to transfer credit risk from 
+
+private investors to the government, and could well require legislation.   
+
+Needless to say, though, an MBS repurchase program will not cure all that ails the 
+
+housing market, much less fill the whole aggregate demand shortfall.  There is a host of 
+
+other problems, including continuing issues in mortgage servicing, uncertainty as to when 
+
+house prices will have bottomed out in local markets, ambiguity about the scope of 
+
+
+
+
+- 20 -
+
+putback risk for securitized mortgages, and the substantial part of the underwater 
+
+mortgage problem that cannot be solved by refinancing.  But I believe that MBS 
+
+purchases are worth considering as a monetary policy option precisely because they carry 
+
+the promise of addressing the feature of the current aggregate demand shortfall that 
+
+differs from typical recessions and recoveries. 
+
+Conclusion 
+
+ Many labor market problems took years to develop, and they will not be 
+
+remedied quickly.  The employment situation we hope for will require an extended 
+
+commitment over many years.  As I said earlier, I am not even going to try to do justice 
+
+to the longer-term employment policy agenda.  It is easy to echo the nearly universal call 
+
+for improvements in education, innovation in retraining, and other more effective labor 
+
+market policies.  It is harder to specify what those policies are, much less how to fund 
+
+them.  But I do want to emphasize that the challenge is more than determining which 
+
+education and training policies are both effective and affordable.   
+
+The nation needs a model for economic growth that will generate innovation and 
+
+productivity enhancements that will, in turn, generate the kinds of jobs for which we hope 
+
+we are educating and training our people.  For much of the past decade, the implicit 
+
+growth model was too heavily dependent on the assumption of ever-rising home prices.  
+
+Needless to say, that model did not work out so well.  Elements of the needed model 
+
+include a healthy macroeconomic environment and a well-functioning financial system.  
+
+But there should also be a premium on measures that expand the growth potential of the 
+
+country even as they support near-term economic activity. 
+
+
+
+
+- 21 -
+
+Even the acute problems reflected in today’s grim employment picture cannot be 
+
+reversed as quickly as in past recoveries, precisely because the recent recession arose 
+
+from a financial crisis that was in turn the result of asset bubbles and high levels of 
+
+unsustainable debt.  But the fact that these problems cannot be solved quickly does not 
+
+mean there is nothing to be done.  Without more, the harm to the unemployed and their 
+
+families continues, and the risks of longer-term harm increase--both to the unemployed 
+
+and to the country as a whole.  A shortfall of aggregate demand is the most important 
+
+factor behind those dismal statistics.  Particularly if we take account of the unusual nature 
+
+of the current shortfall in fashioning policy responses, there is much that government 
+
+policy--including monetary policy--can still do.   
+
+
+

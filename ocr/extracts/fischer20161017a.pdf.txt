@@ -1,0 +1,1089 @@
+
+For release on delivery 
+12:15 p.m. EDT  
+October 17, 2016 
+
+
+Why Are Interest Rates So Low?  Causes and Implications   
+ 
+ 
+ 
+
+Remarks by 
+ 
+
+Stanley Fischer   
+ 
+
+Vice Chairman  
+ 
+
+Board of Governors of the Federal Reserve System 
+ 
+
+at the 
+ 
+
+Economic Club of New York  
+ 
+
+New York, New York 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+October 17, 2016 
+ 
+
+
+
+
+I am grateful to the Economic Club of New York for inviting me to speak today.  
+
+My subject is the historically low level of interest rates, a topic not far from the minds of 
+
+many in this audience and of many others in the United States and all over the world.1   
+
+Notwithstanding the increase in the federal funds rate last December, the federal 
+
+funds rate remains at a very low level.  Policy rates of many other major central banks are 
+
+lower still--even negative in some cases, even in countries long famous for their 
+
+conservative monetary policies.  Long-term interest rates in many countries are also 
+
+remarkably low, suggesting that participants in financial markets expect policy rates to 
+
+remain depressed for years to come.  My main objective today will be to present a 
+
+quantitative assessment of some possible factors behind low interest rates--and also of 
+
+factors that could contribute to higher interest rates in the future. 
+
+Now, I am sure that the reaction of many of you may be, “Well, if you and your 
+
+Fed colleagues dislike low interest rates, why not just go ahead and raise them?  You are 
+
+the Federal Reserve, after all.”  One of my goals today is to convince you that it is not 
+
+that simple, and that changes in factors over which the Federal Reserve has little 
+
+influence--such as technological innovation and demographics--are important factors 
+
+contributing to both short- and long-term interest rates being so low at present.    
+
+There are at least three reasons why we should be concerned about such low 
+
+interest rates.  First, and most worrying, is the possibility that low long-term interest rates 
+
+are a signal that the economy’s long-run growth prospects are dim.  Later, I will go into 
+
+                                                 
+1 I am grateful to John Roberts and Robert Tetlow of the Federal Reserve Board staff for their assistance.  
+Views expressed are mine and are not necessarily those of the Federal Reserve Board or the Federal Open 
+Market Committee. 
+
+
+ - 2 - 
+
+more detail on the link between economic growth and interest rates.  One theme that will 
+
+emerge is that depressed long-term growth prospects put sustained downward pressure on 
+
+interest rates.  To the extent that low long-term interest rates tell us that the outlook for 
+
+economic growth is poor, all of us should be very concerned, for--as we all know--
+
+economic growth lies at the heart of our nation’s, and the world’s, future prosperity.  
+
+A second concern is that low interest rates make the economy more vulnerable to 
+
+adverse shocks that can put it in a recession.  That is the problem of what used to be 
+
+called the zero lower bound on interest rates.  In light of several countries currently 
+
+operating with negative interest rates, we now refer not to the zero lower bound, but to 
+
+the effective lower bound, a number that is close to zero but negative.  Operating close to 
+
+the effective lower bound limits the room for central banks to combat recessions using 
+
+their conventional interest rate tool--that is, by cutting the policy interest rate.  And while 
+
+unconventional monetary policies--such as asset purchases, balance sheet policies, and 
+
+forward guidance--can provide additional accommodation, it is reasonable to think these 
+
+alternatives are not perfect substitutes for conventional policy.  The limitation on 
+
+monetary policy imposed by low trend interest rates could therefore lead to longer and 
+
+deeper recessions when the economy is hit by negative shocks. 
+
+And the third concern is that low interest rates may also threaten financial 
+
+stability as some investors reach for yield and compressed net interest margins make it 
+
+harder for some financial institutions to build up capital buffers.  I should say that while 
+
+this is a reason for concern and bears continual monitoring, the evidence so far does not 
+
+suggest a heightened threat of financial instability in the post-financial-crisis United 
+
+States stemming from ultralow interest rates.  However, I note that a year ago the Fed did 
+
+
+ - 3 - 
+
+issue warnings--successful warnings--about the dangers of excessive leveraged lending, 
+
+and concerns about financial stability are clearly on the minds of some members of the 
+
+Federal Open Market Committee, FOMC.     
+
+Those are three powerful reasons to prefer interest rates that are higher than 
+
+current rates.  But, of course, Fed interest rates are kept very low at the moment because 
+
+of the need to maintain aggregate demand at levels that will support the attainment of our 
+
+dual policy goals of maximum sustainable employment and price stability, defined as the 
+
+rate of inflation in the price level of personal consumption expenditures (or PCE) being at 
+
+our target level of 2 percent. 
+
+That the actual federal funds rate has to be so low for the Fed to meet its 
+
+objectives suggests that the equilibrium interest rate--that is, the federal funds rate that 
+
+will prevail in the longer run, once cyclical and other transitory factors have played out--
+
+has fallen.2  Let me turn now to my main focus, namely an assessment of why the 
+
+equilibrium interest rate is so low. 
+
+To frame this discussion, it is useful to think about the real interest rate as the 
+
+price that equilibrates the economy’s supply of saving with the economy’s demand for 
+
+investment.  To explain why interest rates are low, we look for factors that are boosting 
+
+saving, depressing investment, or both.3  For those of you lucky enough to remember the 
+
+economics you learned many years ago, we are looking at a point that is on the IS curve--
+
+                                                 
+2 More formally, my Federal Reserve colleagues Thomas Laubach and John Williams (2003) have 
+developed a statistical procedure that decomposes the movement in interest rates into the contribution of 
+long-run and short-run factors.  They conclude that the long-run component of the level of the real federal 
+funds rate is currently very low--around 1/4 percent--compared with a pre-2000 average of 2-1/2 percent. 
+Other assessments have reached similar conclusions.  See Holston, Laubach, and Williams (forthcoming); 
+Johannsen and Mertens (2016); and Kiley (2015).  However, it is important to note that there is a great deal 
+of statistical uncertainty around all of these estimates. 
+3 While the analysis that follows relates to interest rates in the long run, these factors are also important 
+determinants of interest rates in the short run. 
+
+
+ - 4 - 
+
+the investment-equals-saving curve.  And because we are considering the long-run 
+
+equilibrium interest rate, we are looking at the interest rate that equilibrates investment 
+
+and saving when the economy is at full employment, as it is assumed to be in the long 
+
+run.    
+
+I will look at four major forces that have affected the balance between saving and 
+
+investment in recent years and then consider some that may be amenable to the influence 
+
+of economic policy.   
+
+The economy’s growth prospects must be at the top of the list.  Among the factors 
+
+affecting economic growth, gains in productivity and growth of the labor force are 
+
+particularly important.  Second, an increase in the average age of the population is likely 
+
+pushing up household saving in the U.S. economy.  Third, investment has been weak in 
+
+recent years, especially given the low levels of interest rates.  Fourth and finally, 
+
+developments abroad, notably a slowing in the trend pace of foreign economic growth, 
+
+may be affecting U.S. interest rates.   
+
+To assess the empirical importance of these factors in explaining low long-run 
+
+equilibrium interest rates, I will rely heavily on simulations that the Board of Governors’ 
+
+staff have run with one of our main econometric models, the FRB/US model.  This 
+
+model, which is used extensively in policy analyses at the Fed, has many advantages, 
+
+including its firm empirical grounding, and the fact that it is detailed enough to make it 
+
+possible to consider a wide range of factors within its structure.    
+
+Going through the four major forces I just mentioned, I will look first at the effect 
+
+that slower trend economic growth, both on account of the decline in productivity growth 
+
+as well as lower labor force growth, may be having on interest rates.  Starting with 
+
+
+ - 5 - 
+
+productivity, gains in labor productivity have been meager in recent years.  One broad 
+
+measure of business-sector productivity has risen only 1-1/4 percent per year over the 
+
+past 10 years in the United States and only 1/2 percent, on average, over the past 5 years.  
+
+By contrast, over the 30 years from 1976 to 2005, productivity rose a bit more than 
+
+2 percent per year.  Although the jury is still out on what is behind the latest slowdown in 
+
+productivity gains, prominent scholars such as Robert Gordon and John Fernald suggest 
+
+that smaller increases in productivity are the result of a slowdown in innovation that is 
+
+likely to persist for some time.4     
+
+Lower long-run trend productivity growth, and thus lower trend output growth, 
+
+affects the balance between saving and investment through a variety of channels.  A 
+
+slower pace of innovation means that there will be fewer profitable opportunities in 
+
+which to invest, which will tend to push down investment demand.  Lower productivity 
+
+growth also reduces the future income prospects of households, lowering their 
+
+consumption spending today and boosting their demand for savings.  Thus, slower 
+
+productivity growth implies both lower investment and higher savings, both of which 
+
+tend to push down interest rates.5  
+
+                                                 
+4 See Gordon (2016) and Fernald and Wang (2015). 
+5 These effects are what we would expect from our textbook models; they are also at work in the FRB/US 
+model being used here.  The empirical evidence on the link between trend growth and long-run equilibrium 
+interest rates is mixed.  Laubach and Williams (2003) find evidence of a link that is consistent with the 
+predictions of models such as FRB/US.  However, in their well-known paper, Hamilton et al. (2016) 
+conclude that while “the theoretical presumption that there is a link between aggregate growth and real 
+rates is very strong,” the empirical link between the real equilibrium interest rate and real GDP growth is 
+weak.  As stressed by Hamilton et al. there a great deal of uncertainty over the relationship between growth 
+and interest rates, likely, in part because of the multitude of shocks to which the economy is subject.  A 
+structural model, such as FRB/US, provides one method of estimating the link between growth and interest 
+rates by examining the reaction of the interest rate to a clearly defined shock to the trend growth rate.  
+However, this reaction occurs within the model economy, and is therefore subject to the particular structure 
+and assumptions of the FRB/US model.   
+    
+
+
+ - 6 - 
+
+In addition to a slower pace of innovation, it is also likely that demographic 
+
+changes will weigh on U.S. economic growth in the years ahead, as they have in the 
+
+recent past.  In particular, a rising fraction of the population is entering retirement.  
+
+According to some estimates, the effects of this population aging will trim about 
+
+1/4 percentage point from labor force growth in coming years.6   
+
+Lower trend increases in productivity and slower labor force growth imply lower 
+
+overall economic growth in the years ahead.  This view is consistent with the most recent 
+
+Summary of Economic Projections of the FOMC, in which the median value for the rate 
+
+of growth in real gross domestic product (GDP) in the longer run is just 1-3/4 percent, 
+
+compared with an average growth rate from 1990 to 2005 of around 3 percent.7 
+
+We can use simulations of the FRB/US model to infer the consequences of such a 
+
+slowdown in longer-run GDP growth for the equilibrium federal funds rate.  Those 
+
+simulations suggest that the slowdown to the 1-3/4 percent pace anticipated in the 
+
+Summary of Economic Projections would eventually trim about 120 basis points from the 
+
+longer-run equilibrium federal funds rate.8   
+
+Let me move now to the second major development on my list.  In addition to its 
+
+effects on labor force growth, the aging of the population is likely to boost aggregate 
+
+household saving.  This increase is because the ranks of those approaching retirement in 
+
+the United States (and in other advanced economies) are growing, and that group 
+
+typically has above-average saving rates.9  One recent study by Federal Reserve 
+
+                                                 
+6 See, for example, Aaronson et al (2014). 
+7 See Board of Governors of the Federal Reserve System (2016). 
+8 Details of the simulations are included in an Appendix to the speech. 
+9 See Gagnon, Johannsen, and Lopez-Salido (2016); Rachel and Smith (2015); and Carvalho, Ferrero, and 
+Necchio (2016). 
+
+
+ - 7 - 
+
+economists suggests that population aging--through its effects on saving--could be 
+
+pushing down the longer-run equilibrium federal funds rate relative to its level in the 
+
+1980s by as much as 75 basis points.10  
+
+In addition to slower growth and demographic changes, a third factor that may be 
+
+pushing down interest rates in the United States is weak investment.  Analysis with the 
+
+FRB/US model suggests that, given how low interest rates have been in recent years, 
+
+investment should have been considerably higher in the past couple of years.  According 
+
+to the model, this shortfall in investment has depressed the long-run equilibrium federal 
+
+funds rate by about 60 basis points.  
+
+Investment may be low for a number of reasons.  One is that greater perceived 
+
+uncertainty could also make firms more hesitant to invest.  Another possibility is that the 
+
+economy is simply less capital intensive than it was in earlier decades.11      
+
+  Fourth on my list are developments abroad:  Many of the factors depressing U.S. 
+
+interest rates have also been working to lower foreign interest rates.  To take just one 
+
+example, many advanced foreign economies face a slowdown in longer-term growth 
+
+prospects that is similar to that in the United States, with similar implications for 
+
+equilibrium interest rates in the longer run.  In the FRB/US model, lower interest rates 
+
+abroad put upward pressure on the foreign exchange value of the dollar and thus lower 
+
+net exports.  FRB/US simulations suggest that a reduction in the equilibrium federal 
+
+funds rate of about 30 basis points would be required to offset the effects in the United 
+
+States of a reduction in foreign growth prospects similar to what we have seen in the 
+
+United States.   
+
+                                                 
+10 See Gagnon, Johannsen, and Lopez-Salido (2016), figure 12. 
+11 See Summers (2014, 2015, 2016).  See also Hilsenrath and Davis (2016).   
+
+
+ - 8 - 
+
+The first figure shows the effects of these four factors.  You will see that each 
+
+factor is considered separately; there is no attempt to add them together.  That is because 
+
+the broad factors we are considering here could well overlap--particularly the link 
+
+between slower growth and the remaining three factors.  Still, the comparison gives us a 
+
+notion of the relative importance of some of the leading explanations for the decline in 
+
+interest rates.   
+
+I started by noting the costs of low interest rates, including the limits on the ability 
+
+of monetary policy to respond to recessions, and possible risks to financial stability.  Now 
+
+that we have some notion of where lower interest rates might be coming from, I want to 
+
+turn to the question of what might contribute to raising longer-run equilibrium interest 
+
+rates.12   
+
+One development that would boost the equilibrium interest rate would be a further 
+
+waning in the investor precaution that seems to have been holding back investment--in 
+
+Keynesian terms, an improvement in animal spirits.  The first bar in the second slide 
+
+illustrates the effects on the longer-run equilibrium federal funds rate of an increase in 
+
+business-sector investment equal to 1 percent of GDP.  As can be seen, such a rebound in 
+
+investment would raise the equilibrium funds rate by 30 basis points, according to the 
+
+FRB/US model.  In addition, higher investment would improve the longer-run growth 
+
+prospects of the U.S. economy, although the effects in this particular case are fairly small, 
+
+with real GDP growth about 0.1 percentage point higher on account of the higher 
+
+investment.   
+
+                                                 
+12 By emphasizing “longer-run equilibrium” interest rates, I am excluding monetary policy (which is 
+unlikely to have major effects on the equilibrium real interest rate), and thereby also relating to concerns 
+about monetary policy being the only game in town. 
+
+
+ - 9 - 
+
+Over the years, many economists--some of them textbook authors--have noted 
+
+that expansionary fiscal policy could raise equilibrium interest rates.13  To illustrate this 
+
+possibility, the next two bars on the slide show the estimated effect on interest rates of 
+
+two possible expansionary fiscal policies, one that boosts government spending by 
+
+1 percent of GDP and another that cuts taxes by a similar amount.  According to the 
+
+FRB/US model, both policies, if sustained, would lead to a substantial increase in the 
+
+equilibrium federal funds rate.  Higher spending of this amount would raise equilibrium 
+
+interest rates by about 50 basis points; lower taxes would raise equilibrium rates by 
+
+40 basis points.  I should note that the FRB/US model does not contain a great deal of 
+
+detail about taxes and government spending.  These are thus the effects of very broad 
+
+changes in income taxes and government spending, and not those of any specific, 
+
+detailed, policy measures.   
+
+It is important to emphasize that these estimates are from just one model and other 
+
+models may give different results.  Still, I think these implications of fiscal policy 
+
+measures are qualitatively correct--they are a standard result in many models, including 
+
+the simplest textbook IS-LM model.     
+
+Stimulative fiscal policies such as these could be beneficial if the economy 
+
+confronted a recession.  Of course, it would be important to ensure that any fiscal policy 
+
+changes during a recession did not compromise long-run fiscal sustainability.  
+
+Government policies that boost the economy’s long-run growth rate would be an 
+
+even better means of raising the equilibrium interest rate.  This is a point I have also 
+
+made in the past.14  While there is disagreement about what the most effective policies 
+
+                                                 
+13 See, for example, Kocherlakota (2015, 2016) and Summers (2016).   
+14 For instance, in Fischer, 2016. 
+
+
+ - 10 - 
+
+would be, some combination of more encouragement for private investment, improved 
+
+public infrastructure, better education, and more effective regulation is likely to promote 
+
+faster growth of productivity and living standards--and also to reduce the probability that 
+
+the economy and, particularly, the central bank will in the future have to contend with the 
+
+effective lower bound.  
+
+In summary, a variety of factors have been holding down interest rates and may 
+
+continue to do so for some time.  But economic policy can help offset the forces driving 
+
+down longer-run equilibrium interest rates.  Some of these policies may also help boost 
+
+the economy’s growth potential.   
+
+
+
+
+
+ - 11 - 
+
+References 
+
+Aaronson, Stephanie, Tomaz Cajner, Bruce Fallick, Felix Galbis-Reig, Christopher 
+Smith, and William Wascher (2014), “Labor Force Participation:  Recent 
+Developments and Future Prospects,” Brookings Papers on Economic Activity 
+(Fall), pp. 197-255, www.brookings.edu/~/media/projects/bpea/fall-
+2014/fall2014bpea_aaronson_et_al.pdf. 
+
+ 
+Board of Governors of the Federal Reserve System (2016), “Federal Reserve Board and 
+
+Federal Open Market Committee Release Economic Projections from the 
+September 20-21 FOMC Meeting,” press release, September 21, 
+https://www.federalreserve.gov/newsevents/press/monetary/20160921b.htm. 
+
+ 
+Carvalho, Carlos, Andrea Ferrero, and Fernanda Nechio (2016).  “Demographics and 
+
+Real Interest Rates:  Inspecting the Mechanism,” Working Paper Series 2016-05.  
+San Francisco:  Federal Reserve Bank of San Francisco, April, 
+http://www.frbsf.org/economic-research/files/wp2016-05.pdf.  
+
+ 
+Fernald, John, and Bing Wang (2015).  “The Recent Rise and Fall of Rapid Productivity 
+
+Growth,” FRBSF Economic Letter 2015-04.  San Francisco:  Federal Reserve 
+Bank of San Francisco, February, www.frbsf.org/economic-research/files/el2015-
+04.pdf.  
+
+ 
+Fischer, Stanley (2016).  “Remarks on the U.S. Economy,” speech delivered at “Program 
+
+on the World Economy,” a conference sponsored by The Aspen Institute, Aspen, 
+Colo., August 21, 
+https://www.federalreserve.gov/newsevents/speech/fischer20160821a.htm.  
+
+ 
+Gagnon, Etienne, Benjamin K. Johannsen, and David Lopez-Salido (2016).  
+
+“Understanding the New Normal:  The Role of Demographics,” Finance and 
+Economics Discussion Series 2016-080.  Washington:  Board of Governors of the 
+Federal Reserve System, October, 
+www.federalreserve.gov/econresdata/feds/2016/files/2016080pap.pdf.  
+
+ 
+Gordon, Robert J. (2016).  The Rise and Fall of American Growth:  The U.S. Standard of 
+
+Living since the Civil War.  Princeton, N.J.:  Princeton University Press.  
+ 
+Hamilton, James D., Ethan S. Harris, Jan Hatzius, and Kenneth D. West (2015).  “The 
+
+Equilibrium Real Funds Rate:  Past, Present, and Future.”  NBER Working Paper 
+no. 21476 (August). http://www.nber.org/papers/w21476.pdf 
+
+ 
+Hilsenrath, Jon and Bob Davis (2016).  “Tech Boom Creates Too Few Jobs,” Wall Street 
+
+Journal, vol. 168, no. 88 (October 13, 2016), p. 1. 
+ 
+Holston, Kathryn, Thomas Laubach, and John C. Williams (forthcoming).  “Measuring 
+
+the Natural Rate of Interest:  International Trends and Determinants,” in Richard 
+
+
+ - 12 - 
+
+Clarida and Lucrezia Reichlin, organizers, NBER International Seminar on 
+Macroeconomics 2016.  Amsterdam:  Journal of International Economics 
+(Elsevier).  
+
+ 
+Johannsen, Benjamin K., and Elmar Mertens (2016).  “The Expected Real Interest Rate 
+
+in the Long Run:  Time Series Evidence with the Effective Lower Bound,” FEDS 
+Notes.  Washington:  Board of Governors of the Federal Reserve System, 
+February 9, www.federalreserve.gov/econresdata/notes/feds-notes/2016/the-
+expected-real-interest-rate-in-the-long-run-time-series-evidence-with-the-
+effective-lower-bound-20160209.html.  
+
+ 
+Kiley, Michael T. (2015).  “What Can the Data Tell Us about the Equilibrium Real 
+
+Interest Rate?” Finance and Economics Discussion Series 2015-077.  
+Washington:  Board of Governors of the Federal Reserve System, September, 
+http://dx.doi.org/10.17016/FEDS.2015.077. 
+
+ 
+Kocherlakota, Narayana (2015).  “Public Debt and the Long-Run Neutral Real Interest 
+
+Rate,” speech delivered at Northwestern University, Evanston, Ill., September 8, 
+https://www.minneapolisfed.org/news-and-events/presidents-speeches/public-
+debt-and-the-long-run-neutral-real-interest-rate-20150908. 
+
+ 
+-------- (2016).  “Write Your Congressperson! (If You Want Higher Interest Rates),” 
+
+Kocherlakota’s Thoughts on Policy (blog), January 19, 
+https://sites.google.com/site/kocherlakota009/home/policy/thoughts-on-policy/1-
+19-16. 
+
+ 
+Laubach, Thomas, and John C. Williams (2003).  “Measuring the Natural Rate of 
+
+Interest,” Review of Economics and Statistics, vol. 85 (November), pp. 1063-70. 
+ 
+Rachel, Lukasz, and Thomas D. Smith (2015).  “Secular Drivers of the Global Real 
+
+Interest Rate,” Staff Working Paper 571.  London:  Bank of England, December, 
+www.bankofengland.co.uk/research/Documents/workingpapers/2015/swp571.pdf.  
+
+ 
+Summers, Lawrence H. (2014).  “U.S. Economic Prospects:  Secular Stagnation, 
+
+Hysteresis, and the Zero Lower Bound,” Business Economics, vol. 49 (April), 
+pp. 65-73.  
+
+ 
+-------- (2015).  “Demand Side Secular Stagnation,” American Economic Review, vol. 105 
+
+(May), pp 60-65.  
+ 
+-------- (2016).  “The Age of Secular Stagnation:  What It Is and What to Do about It,” 
+
+Foreign Affairs, vol. 95 (March/April), pp. 2-9, 
+https://www.foreignaffairs.com/articles/united-states/2016-02-15/age-secular-
+stagnation.  
+
+
+
+
+Appendix 
+
+Here we review the simulations that underlie the estimates of the effects of 
+
+various economic disturbances for their implications for the long-run equilibrium real 
+
+federal funds rate, using simulations of the staff’s FRB/US model.  We first provide 
+
+background on the methodology we use.  We then review the nature of the shocks that 
+
+are discussed in the speech and show the effects of those shocks on the long-run federal 
+
+funds rate.  Finally, we provide details about the results shown in the figures. 
+
+1.  Background 
+
+Our point of departure is a definition of the equilibrium interest rate that 
+
+corresponds with the neutral rate of interest.  In particular, we use the definition of the 
+
+neutral rate of interest that Chair Yellen used in a 2015 speech:  “the real rate consistent 
+
+with the economy achieving maximum employment and price stability over the medium 
+
+term,” which, in an elaboration in a footnote, is said to be “usually thought of as 
+
+independent of the cyclical disturbances that routinely buffet the economy . . . [that] fade 
+
+away after a few years.”1  The sort of disturbances being captured under the rubric of 
+
+shifts in r* are thus rarer and more persistent than the usual business cycle phenomena 
+
+and are associated with the “various adjustment processes that are unusually drawn out 
+
+by historical standards . . . [and have] slow-moving influences on both aggregate demand 
+
+and supply.”2  This definition corresponds reasonably closely with the (possibly time-
+
+varying) intercept of a Taylor-type rule in that the standard arguments of the 
+
+                                                 
+1 See Yellen (2015a), paragraph 15 and footnote 4. 
+2 See Yellen (2015a), footnote 4.  Other definitions of the neutral rate used by the Chair in her public 
+communications include the short-term real interest rate “that would be neither expansionary nor 
+contractionary if the economy was operating near potential” (Yellen, 2015c, 2016) and the short-term real 
+interest rate “that would be consistent with real GDP expanding in line with potential” (Yellen, 2015b).  
+There may be circumstances in which the nuances of these definitions would matter, but, for our purposes, 
+we can take them as one and the same. 
+
+
+ - 2 - 
+
+Taylor (1999) rule--the output gap and the deviation of inflation from target--can be 
+
+thought of as capturing the influence of the drivers of monetary policy at business cycle 
+
+frequencies, with the longer-lasting (lower-frequency) determinants of the level of the 
+
+policy rate being subsumed into movements in r*.3 
+
+Using this definition of r*, we identify several economic disturbances that have 
+
+long-lasting consequences for the savings-investment balance of the U.S. economy.  We 
+
+shock the FRB/US model with each of these disturbances and compute what long-lasting 
+
+(but not necessarily permanent) shift in the intercept of the Taylor (1999) rule is the best 
+
+perturbation to the rule.   
+
+The thought experiment behind the simulations is as follows.  We assume that the 
+
+public views the Taylor (1999) rule as a good approximation of the conduct of monetary 
+
+policy, and, accordingly, they price assets and formulate expenditure decisions on the 
+
+expectation that this policy will prevail.  Then policymakers identify that the economy is 
+
+encountering a shock with durable implications for the savings-investment balance of the 
+
+economy.  At this point, policymakers communicate to the public a long-lasting shift to 
+
+the intercept of the rule.  Private-sector agents are assumed to understand this 
+
+communication, and find it credible, and thus adjust their expectations accordingly. 
+
+2.  The shocks 
+
+All simulations were carried out using the database from the public release of the 
+
+FRB/US model, starting in 2036:Q1, at which time the economy is in steady state.4  
+
+                                                 
+3 Williams (2016) defines the natural rate of interest as the short-term real rate “that balances monetary 
+policy so that it is neither accommodative nor contractionary in terms of growth and inflation.”  This 
+description is close to that of the neutral rate (but not the natural rate) in the main text and in note 2 but 
+adds a reference to inflation, which does not appear in definitions of the neutral rate.   
+4 See Board of Governors (2016).  
+
+
+ - 3 - 
+
+Accordingly, the effective lower bound on nominal interest rates is never a binding 
+
+constraint under these circumstances.  Consistent with the definition of a steady state, at 
+
+the start of the simulations, the output gap is closed, the unemployment rate is equal to its 
+
+natural rate of 4.8 percent, inflation is 2 percent, the nominal federal funds rate is 3 
+
+percent, the 10-year Treasury bond rate is 3.5 percent, and potential output growth is 2 
+
+percent.  Except as otherwise noted, tax rates are held fixed at their baseline levels for 
+
+four years, after which fiscal policy is allowed to respond by gradually adjusting the 
+
+federal personal income tax rate to stabilize the ratio of federal government fiscal deficits 
+
+to gross domestic product (GDP) at its assumed baseline target level.  In all instances, 
+
+monetary policy is assumed to be governed by the (non-inertial) Taylor (1999) rule, with 
+
+an intercept shift where applicable. 
+
+Table A.1 summarizes the effects of several shocks on the long-run equilibrium 
+
+real federal funds rate in the FRB/US model.  The details of how these shocks were 
+
+implemented follow.  
+
+Labor force.  The growth rate of the U.S. population (variable N16 in the FRB/US 
+
+model) is assumed to climb over the course of a year to a pace that is 1 percentage point 
+
+faster than in the baseline, with commensurate effects on the labor force, employment, 
+
+potential output, and actual output.  The elevated pace of population growth lasts for 
+
+20 years before returning to baseline rates over the succeeding 5 years. 
+
+Productivity.  The growth rate of total factor productivity (HMFPT) is increased 
+
+0.7 percentage point, which implies an acceleration in labor productivity (output per 
+
+worker hour) of 1.0 percentage point.  The shock lasts for 40 years before fading out at a 
+
+moderate pace. 
+
+
+ - 4 - 
+
+Investment.  Sequences of shocks to the FRB/US model’s three equations for 
+
+business fixed investment--producer durables (EPD), intellectual property (EPI), and 
+
+nonresidential structures (EPS)--are constructed such that the total increase in gross fixed 
+
+capital investment equals 1 percent of GDP for 25 years.  Thereafter, the shocks fade at a 
+
+moderate rate over time.  The shocks are scaled such that the split between the three 
+
+components is about equal to their relative shares of GDP since 2001.   
+
+Cost of capital.  Relative to its average over the period from 2000 to 2007, the 
+
+financial cost of capital (RPD) has declined by about two percentage points, according to 
+
+the FRB/US model database.  That should have produced a boom in investment, which 
+
+seems not to have happened.  This shock computes the magnitude of this “missing effect” 
+
+by simulating the effect of an increase in the financial cost of capital.  RPD affects the 
+
+user cost of capital for the model’s four investment categories: equipment, intellectual 
+
+property, nonresidential structures and inventories.  Those, in turn, influence target rates 
+
+of investment, all else equal.  The shock lasts for 20 years before fading out at a moderate 
+
+pace. 
+
+Foreign interest rates.  The equilibrium real interest rate in (trade-weighted) 
+
+foreign economies (FRSTAR) is assumed to decline by 1 percentage point for an 
+
+indefinite period.  This decline has the effect of reducing both foreign long- and short-
+
+term interest rates by a comparable amount. 
+
+Government spending.  An increase in the level of federal expenditures on goods 
+
+(EGFO) equal to 1 percent of GDP is sustained for 25 years and then phased out at a 
+
+moderate pace thereafter.  All other components of government spending are held at their 
+
+baseline levels.  The federal personal income tax rate is held at baseline for 10 years, and 
+
+
+ - 5 - 
+
+then the model’s fiscal policy reaction function is allowed to adjust the tax rate so as to 
+
+return the ratio of federal deficits to GDP to its previous target level.  The government-
+
+debt-to-GDP ratio is therefore allowed to permanently increase. 
+
+Tax cut.  The model’s fiscal policy reaction function is suspended for 10 years, 
+
+similar to the case of the government spending shock described previously.  A sequence 
+
+of shocks to the FRB/US model’s equation for the average federal personal income tax 
+
+rate (TRFP) is constructed such that the resulting decrease in taxes increases the federal 
+
+budget deficit very similarly to the government spending shock described previously, in 
+
+order to make the two simulations of comparable magnitude.  After 10 years, the personal 
+
+federal tax rate is allowed to adjust to bring the ratio of government deficits to GDP back 
+
+to the baseline target level.  The government-debt-to-GDP ratio is permanently increased. 
+
+
+Table A.1 
+Summary of Shocks Affecting the Neutral Rate of Interest 
+
+
+Shock 
+FRB/US 
+Mnemonic 
+
+ 
+Specification of shock 
+
+ 
+*rr∆  
+
+     
+1 Population growth N16 1 ppt, 20 years 1.15 
+     
+2 Productivity growth HMFPT 1 ppt, 40 years 0.85 
+     
+3 Investment EPD, EPS, EPI 1 pct of GDP, 25 years 0.29 
+     
+4 Cost of capital  RPD 2 ppts, 20 years 0.63 
+     
+5 Foreign interest rates FRSTAR 1 ppt, indefinitely 0.27 
+     
+6 Government spending EGFO 1 pct of GDP, 25 years 0.50 
+     
+7 Tax cut  TRFP Deficits as in line 6 0.41 
+     
+
+* In the current context, *rr is defined as the intercept of the Taylor (1999) rule. 
+
+
+ - 6 - 
+
+ 
+ 
+3.  Calculations for figures 
+
+Figure 1:  Effects on the long-run equilibrium federal funds rate 
+
+Slower growth.  The slower growth of 1-1/4 percentage points in this scenario 
+
+assumes that labor force growth is 1/4 percentage point lower and that labor productivity 
+
+growth is 1 percentage point lower.  According to table A.1, an increase of 1 percentage 
+
+point in labor force growth would raise the equilibrium real federal funds rate by 
+
+1.15 percentage points.  The contribution of the slower labor force growth to the 
+
+equilibrium federal funds rate is therefore negative 0.25 x 1.15, or negative 30 basis 
+
+points.  Similarly, the contribution of slower productivity growth is negative 1.00 x 0.85 
+
+= negative 85 basis points, for a total effect of negative 115 basis points. 
+
+Demographics.  As explained in the text, the effect of demographics on the 
+
+equilibrium federal funds rate is based on the study of Gagnon, Johannsen, and Lopez-
+
+Salido (2016), who emphasize that demographic changes since the 1980s would imply a 
+
+reduction of 125 basis points in the equilibrium federal funds rate.  However, this number 
+
+includes the effects of demographics on the labor force, which have already been 
+
+included in the growth effect.  As suggested by figure 12 of Gagnon, Johannsen, and 
+
+Lopez-Salido (2016), adjusting for the effects of employment would trim about 50 basis 
+
+points from the total effect (the distance between the solid-blue and dashed-green lines as 
+
+of 2015).  Thus, in Gagnon, Johannsen, and Lopez-Salido (2016), the effects excluding 
+
+those via labor force growth are about negative 75 basis points. 
+
+Lower investment.  This experiment corresponds to the cost of capital shock 
+
+discussed in section 2, with the sign reversed.  As can be seen in line 4 of table A.1, the 
+
+
+ - 7 - 
+
+“missing effects” of a 2 percentage point decrease in the financial cost of capital would 
+
+have lowered the equilibrium real funds rate by 63 basis points. 
+
+Slower foreign growth.  Here, we assume that foreign trend GDP growth has 
+
+fallen as much as U.S. trend GDP growth and thus has had a similar effect on interest 
+
+rates--namely, 115 basis points.  That assumption would imply a reduction in the (U.S.) 
+
+equilibrium federal funds rate of negative 1.15 x 0.27, or negative 30 basis points.    
+
+Figure 2:  Long-run effects of animal spirits and fiscal policy on interest rates 
+
+This figure shows the effects of shocks that lead to 1 percentage point shifts in 
+
+each of the variables indicated.  These simulations can be found directly in table A.1.  
+
+Thus, the animal spirits shock in figure 2 corresponds to the investment shock shown in 
+
+line 3 of table A.1.  And the government spending and tax cut simulations shown in 
+
+figure 2 line up with the simulations shown in lines 6 and 7 of table A.1. 
+
+
+
+
+ - 8 - 
+
+References 
+
+Board of Governors of the Federal Reserve System (2016).  “FRB/US Model,” webpage, 
+Board of Governors, https://www.federalreserve.gov/econresdata/frbus/us-
+models-package.htm. 
+
+Gagnon, Etienne, Benjamin K. Johannsen, and David Lopez-Salido (2016).  
+“Understanding the New Normal:  The Role of Demographics,” Finance and 
+Economics Discussion Series 2016-080.  Washington:  Board of Governors of the 
+Federal Reserve System, October, 
+www.federalreserve.gov/econresdata/feds/2016/files/2016080pap.pdf.  
+
+Taylor, John B. (1999).  “A Historical Analysis of Monetary Policy Rules,” in John B. 
+Taylor, ed., Monetary Policy Rules.  Chicago:  University of Chicago Press, 
+pp. 319-41. 
+
+Williams, John C. (2016).  “Monetary Policy in a Low R-Star World,” FRBSF Economic 
+Letter 2016-23.  San Francisco:  Federal Reserve Bank of San Francisco, August, 
+www.frbsf.org/economic-research/publications/economic-
+letter/2016/august/monetary-policy-and-low-r-star-natural-rate-of-interest. 
+
+Yellen, Janet L. (2015a).  “Normalizing Monetary Policy:  Prospects and Perspectives,” 
+speech delivered at “The New Normal Monetary Policy,” a research conference 
+sponsored by the Federal Reserve Bank of San Francisco, San Francisco, 
+March 27, 
+https://www.federalreserve.gov/newsevents/speech/yellen20150327a.htm. 
+
+-------- (2015b).  “Inflation Dynamics and Monetary Policy,” speech delivered at the 
+Philip Gamble Memorial Lecture, University of Massachusetts, Amherst, Mass., 
+September 24, 
+https://www.federalreserve.gov/newsevents/speech/yellen20150924a.htm. 
+
+-------- (2015c).  “The Economic Outlook and Monetary Policy,” speech delivered at the 
+Economic Club of Washington, Washington, December 2, 
+https://www.federalreserve.gov/newsevents/speech/yellen20151202a.htm. 
+
+-------- (2016).  “Current Conditions and the Outlook for the U.S. Economy,” speech 
+delivered at the World Affairs Council of Philadelphia, Philadelphia, June 6, 
+https://www.federalreserve.gov/newsevents/speech/yellen20160606a.htm. 
+
+
+Why Are Interest Rates So Low? 
+Causes and Implications
+
+Remarks by
+
+Vice Chairman Stanley Fischer 
+Board of Governors of the Federal Reserve System
+
+at the 
+Economic Club of New York
+
+New York, New York
+October 17, 2016
+
+For Release at 12:15 p.m. EDT 
+October 17, 2016
+
+
+-1.25
+
+-1.00
+
+-0.75
+
+-0.50
+
+-0.25
+
+0.00
+
+Slower growth Demographics Lower investment Slower foreign growth
+
+Figure 1.  Effects on the Long-Run Equilibrium Federal Funds Rate
+
+Percent
+
+Source:  Calculations by Federal Reserve Board staff based on simulation results from the Board�s 
+
+FRB/US model.  Details are provided in the appendix.
+
+
+0.00
+
+0.25
+
+0.50
+
+0.75
+
+1.00
+
+Higher investment Higher government spending Tax cut
+
+Figure 2.  Long-Run Effects of Animal Spirits and Fiscal Policy on Interest Rates
+
+Percent
+
+Source:  Calculations by Federal Reserve Board staff based on simulation results from the Board�s 
+
+Note:  Shocks scaled to 1 percent of gross domestic product.
+
+FRB/US model.  Details are provided in the appendix.
+

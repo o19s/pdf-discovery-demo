@@ -1,0 +1,899 @@
+
+For release on delivery 
+3:15 p.m. EDT  
+April 18, 2013 
+ 
+
+
+Aspects of Inequality in the Recent Business Cycle 
+ 
+ 
+ 
+
+Remarks by 
+ 
+
+Sarah Bloom Raskin 
+ 
+
+Member 
+ 
+
+Board of Governors of the Federal Reserve System 
+ 
+
+at  
+ 
+
+“Building a Financial Structure for a More Stable and Equitable Economy” 
+ 
+
+22nd Annual Hyman P. Minsky Conference  
+on the State of the U.S. and World Economies  
+
+ 
+sponsored by the Levy Economics Institute of Bard College  
+
+with support from the Ford Foundation 
+ 
+
+New York, New York 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+April 18, 2013 
+ 
+
+
+
+Thank you for asking me to join you today at this conference and to be a part of 
+
+your continuing inquiry into how the ideas and legacy of Hyman Minsky can inform and 
+
+shape our understanding of financial markets and the economy.   
+
+This speech expands on remarks I made in March to the National Community 
+
+Reinvestment Coalition, in which I explored the roles that monetary and bank regulatory 
+
+policy play in reducing the unemployment, economic marginalization, and financial 
+
+vulnerability of millions of moderate- and low-income working Americans.  Today I am 
+
+interested in continuing this exploration by examining an issue of growing saliency that 
+
+macroeconomic models used at central banks and by academics have not traditionally 
+
+emphasized--specifically, how such economic marginalization and financial 
+
+vulnerability, associated with stagnant wages and rising inequality, contributed to the 
+
+run-up to the financial crisis and how such marginalization and vulnerability could be 
+
+relevant in the current recovery. 
+
+To isolate my proper subject here, I want to be clear that I am not engaging this 
+
+afternoon with the concern that many Americans have that excessive inequality 
+
+undermines American ideals and values.  Nor will I be investigating the social costs 
+
+associated with wide distributions of income and wealth.  Rather, I want to zero in on the 
+
+question of whether inequality itself is undermining our country’s economic strength 
+
+according to available macroeconomic indicators.   
+
+Economists have documented that widening income and wealth inequality has 
+
+been one of the most notable structural changes to the U.S. economy since the late 1970s.  
+
+This change represents a dramatic departure from the three decades prior to that time, 
+
+when Americans enjoyed broadly rising incomes and shared prosperity.  Indeed, many of 
+
+
+ - 2 -
+
+you in the room have shed important light on the recent trends in inequality and on the 
+
+potential role of fiscal policy in addressing them.  You have also explored how these 
+
+trends are relevant to issues of financial stability.  I won’t attempt to repeat this strong 
+
+line of research and analysis.  Instead, my remarks today are specifically focused on 
+
+adding to the conversation about how such disparities in income and wealth could be 
+
+relevant for a macro understanding of the financial crisis and the recovery and the 
+
+appropriate course of monetary policy today.     
+
+I will argue that at the start of this recession, an unusually large number of low- 
+
+and middle-income households were vulnerable to exactly the types of shocks that 
+
+sparked the financial crisis.  These households, which had endured 30 years of very 
+
+sluggish real-wage growth, held an unusually large share of their wealth in housing, 
+
+much of it financed with debt.  As a result, over time, their exposure to house prices had 
+
+increased dramatically.  Thus, as in past recessions, suffering in the Great Recession--
+
+though widespread--was most painful and most perilous for low- and middle-income 
+
+households, which were also more likely to be affected by job loss and had little wealth 
+
+to fall back on.  
+
+Moreover, I am persuaded that because of how hard these lower- and middle-
+
+income households were hit, the recession was worse and the recovery has been weaker.  
+
+The recovery has also been hampered by a continuation of longer-term trends that have 
+
+reduced employment prospects for those at the lower end of the income distribution and 
+
+produced weak wage growth.   
+
+Of course, it is not part of the Federal Reserve’s mandate to address inequality 
+
+directly, but I want to explore these issues today because the answers may have 
+
+
+ - 3 -
+
+implications for the Federal Reserve’s efforts to understand the recession and conduct 
+
+policy in a way that contributes to a stronger pace of recovery.  Traditionally, the 
+
+distribution of wealth and income has not been a primary consideration in the way most 
+
+macroeconomists think about business cycles.  But if inequality played a role in the 
+
+financial crisis, if it contributed to the severity of the recession, and if its effects create a 
+
+lingering economic headwind today, then perhaps our thinking, and our macroeconomic 
+
+models, should be adjusted. 
+
+Despite the tentative nature of these conclusions, I do think it is vital to explore 
+
+these issues, and, in the spirit of Minsky, I hope my remarks spur more inquiry and 
+
+discussion.  I should also note that the views I express are my own and not necessarily 
+
+those of my colleagues on the Board of Governors or the Federal Open Market 
+
+Committee (FOMC). 
+
+Trends in Income, Wealth, and Debt 
+
+In order to “level set” our understanding, let me begin by reviewing some of the 
+
+changes to the structure of income, wealth, and debt in the years leading up to the Great 
+
+Recession--changes that have had significant implications for the well-being of most 
+
+American households.  Long before the recession--decades before, in fact--income data 
+
+show only sluggish increases in real incomes for low- and middle-income American 
+
+households, and more-rapid increases for high-income households, resulting in a much 
+
+greater concentration of income among those at the very top of the income distribution.  
+
+As just one example of the broader trend, according to the Congressional Budget Office, 
+
+between 1979 and 2007, inflation-adjusted, pretax income for a household in the top 
+
+1 percent more than doubled, while, in contrast, income for a household in the middle of 
+
+
+ - 4 -
+
+the income distribution increased less than 20 percent.1  Over these years, the share of 
+
+pretax income accruing to the top 1 percent of households also doubled, from 10 percent 
+
+to 20 percent, while the share accruing to the bottom 40 percent fell from 13 percent to 
+
+10 percent.  These growing disparities of total income are largely due to the increasing 
+
+concentration of labor income, which, on average, accounted for more than 70 percent of 
+
+all income over this period.  In addition, the distribution of other sources of total 
+
+income--such as profits from small businesses, capital gains and dividend income, rental 
+
+income, and the like--also became more concentrated over this period.   
+
+Many have argued that these disparities in income are hindering economic growth 
+
+through their effects on consumption.  Intuitively, one might assume that the growing 
+
+concentration of income at the top could lead to less consumer spending and aggregate 
+
+demand, as wealthier households tend to save more of their additional income than 
+
+others.  However, there is no definitive research indicating that these income disparities 
+
+show mixed results on the question of whether there are stable differences in the marginal 
+
+propensity to consume across households with different incomes.2  More generally, the 
+
+evidence is equivocal as to whether there is an empirical relationship between higher 
+
+income inequality and reduced aggregate demand.  In my view, understanding the links 
+
+between greater concentrations of income, variation in spending patterns throughout the 
+
+                                                 
+1 See Congressional Budget Office (2011), Trends in the Distribution of Household Income between 1979 
+and 2007 (Washington:  CBO, October), www.cbo.gov/sites/default/files/cbofiles/attachments/10-25-
+HouseholdIncome.pdf. 
+2 The survey article by Attanasio and Weber (2010) describes several conditions that raise a household’s 
+propensity to consume additional income, such as temporary income shocks, borrowing constraints, and 
+low liquidity.  However, existing studies do not provide clear evidence that people with permanently low 
+income have a high marginal propensity to consume.  See Orazio P. Attanasio and Guglielmo Weber 
+(2010), “Consumption and Saving:  Models of Intertemporal Allocation and Their Implications for Public 
+Policy,” Journal of Economic Literature, vol. 48 (September), pp. 693-751. 
+
+
+ - 5 -
+
+income distribution, and the effect of that variation on aggregate consumption--and, 
+
+ultimately, growth--requires more exploration.3   
+
+But since household behavior is surely driven by more than the size of the 
+
+paycheck coming in the proverbial front door, the distribution of wealth--as distinct from 
+
+the distribution of income--could have clearer implications for the macroeconomy.  
+
+Indeed, wealth inequality is greater than income inequality in the United States, although 
+
+it has widened little in recent decades.  For example, according to the Survey of 
+
+Consumer Finances (SCF), a survey conducted every three years by the Federal Reserve 
+
+Board, the top one-fifth of families ranked by income owned 72 percent of the total 
+
+wealth in the economy in 2010, whereas families in the bottom one-fifth of the income 
+
+distribution together owned only 3 percent of total wealth in 2010.4     
+
+Hence, families with more-modest incomes have much less wealth to cushion 
+
+themselves against income shocks, such as unemployment.  For example, in 2010, the 
+
+median value of financial assets was less than $1,000 for families in the lowest income 
+
+quintile.  Moreover, what wealth low- and middle-income families do have is typically 
+
+                                                 
+3 One concern with rising inequality and stagnating wages is that low- and middle-income households will 
+turn to credit and wealth extraction to maintain their consumption growth.  One sign of this behavior would 
+be consumption inequality rising much less than income inequality.  Researchers--including Krueger and 
+Perri (2006); Aguiar and Bils (2011); and Attanasio, Hurst, and Pistaferri (2012)--have produced mixed 
+findings on this basic question, although, taken together, there is growing evidence that consumption 
+inequality has also risen substantially over the past several decades.  See Dirk Krueger and Fabrizio Perri 
+(2006), “Does Income Inequality Lead to Consumption Inequality?  Evidence and Theory,” Review of 
+Economic Studies, vol. 73 (January), pp. 163-93; Mark A. Aguiar and Mark Bils (2011), “Has 
+Consumption Inequality Mirrored Income Inequality?” NBER Working Paper Series 16807 (Cambridge, 
+Mass.:  National Bureau of Economic Research, February); and Orazio Attanasio, Erik Hurst, and Luigi 
+Pistaferri (2012), “The Evolution of Income, Consumption, and Leisure Inequality in the US, 1980-2010,” 
+NBER Working Paper Series 17982 (Cambridge, Mass.:  National Bureau of Economic Research, April). 
+4 The specific measure used to group families for these wealth calculations is the stable component of 
+income, referred to in the SCF as “normal” or “usual” income.  In the SCF, after families have reported 
+their actual incomes for the year, they are asked whether this was a normal year.  If the answer is no, they 
+are asked what their income usually would be in a normal year.  Using normal income as a classifier 
+removes the systematic bias in average wealth that arises when, for example, normally high-income 
+families are temporarily in the lowest income group because they had a particularly bad year.  
+
+
+ - 6 -
+
+concentrated in housing.  For families in the top quintile of income, the value of 
+
+residential properties accounted for about 15 percent of total wealth in 2010.  For families 
+
+in the middle and lower half of the income distribution, the ratio of their home values to 
+
+total net worth was near 70 percent.  In contrast, stock market wealth (and the value of 
+
+other securities) constitutes a very small share of wealth for low- and middle-income 
+
+families.   
+
+Because the wealth of people at the lower end of the distribution is concentrated 
+
+in housing, these households are disproportionately exposed to swings in house prices.  
+
+This compositional effect was intensified during the housing boom, as the share of wealth 
+
+accounted for by housing grew even faster for low- and middle-income families than for 
+
+high-income families.  That said, the increases in homeownership and house values 
+
+during the boom were largely financed by rising mortgage debt.  Thus, the direct positive 
+
+effect of rising house prices on most households’ net worth was largely offset by the 
+
+negative effect of increased debt that households took on.  On net, mortgage debt and 
+
+home values moved up together.  But when house prices began falling, the mortgage debt 
+
+and repayment obligations remained.   
+
+To be sure, the increase in mortgage debt prior to the recession occurred across all 
+
+types of households.  But it was families with modest incomes and wealth largely in their 
+
+homes that were the most vulnerable to subsequent drops in home values.   
+
+The question then arises as to why households with poor income prospects sought 
+
+out levels of mortgage debt that would ultimately prove so problematic.  Putting aside the 
+
+practice, in the run-up to the crisis, of lenders steering households to mortgage debt 
+
+products that were more costly than what such households may have otherwise qualified 
+
+
+ - 7 -
+
+for, one reason may have been that many households in the middle and lower end of the 
+
+income distribution, whose wage earnings were stagnant, did not recognize the long-run 
+
+and persistent trends underlying their lack of income growth.5  If households thought they 
+
+were merely going through a rough patch, it would have been quite reasonable for them 
+
+to borrow money to smooth through it--to make home improvements, for example, or to 
+
+send a child to college.6  At the same time, many people believed that the sharp increases 
+
+in their home values had made them permanently richer and that house prices would 
+
+never turn down, a belief that appears to have been shared by many households in the 
+
+upper part of the income distribution as well.  In fact, purchasing a house using debt was 
+
+a profitable investment in the early 2000s.  While it is hard to know with any certainty 
+
+what these individual households believed at the time, it seems quite plausible to me, as 
+
+others have argued, that stagnant wages and rising inequality, in combination with the 
+
+relaxation of underwriting standards, led to an increase in the use of credit unsupported 
+
+by greater income.7   
+
+                                                 
+5 In a separate line of inquiry on the social dynamics of spending, Bertrand and Morse (2013) find that 
+moderate-income households spend more if they live in states with rapid spending growth among high-
+income households, which suggests another channel for inequality to increase debt.  See Marianne Bertrand 
+and Adair Morse (2013), “Trickle-Down Consumption,” NBER Working Paper Series 18883 (Cambridge, 
+Mass.:  National Bureau of Economic Research, March). 
+6 In fact, recent research shows that these trends in annual inequality are mostly due to rising disparities in 
+the component of a household’s income that is stable over time, rather than rising disparities in the 
+component that varies from year to year.  See Jason DeBacker, Bradley Heim, Vasia Panousi, and Ivan 
+Vidangos (2011), “Rising Inequality:  Transitory or Permanent?  New Evidence from a U.S. Panel of 
+Household Income 1987-2006,” Finance and Economics Discussion Series 2011-60 (Washington:  Board 
+of Governors of the Federal Reserve System, December), 
+www.federalreserve.gov/pubs/feds/2011/201160/201160abs.html. 
+7 For example, Rajan (2010) has argued that rising inequality resulted in the relaxation of credit standards, 
+which led to the financial crisis, and Kumhof and Ranciere (2011) present a model with such features.  
+However, Bordo and Meissner (2012) look at data from 14 advanced countries and do not find a general 
+relationship between inequality and credit booms.  Meanwhile, Bhutta (2011, 2012) finds that federal 
+programs aimed at increasing homeownership only modestly increased the availability of mortgage credit 
+to lower-income borrowers.  See Raghuram Rajan (2010), Fault Lines:  How Hidden Fractures Still 
+Threaten the World Economy (Princeton, N.J.:  Princeton University Press); Michael Kumhof and Romain 
+Ranciere (2011), “Inequality, Leverage and Crises,” CEPR Discussion Paper 8179 (London: Centre for 
+Economic Policy Research, January), www.cepr.org/pubs/new-dps/dplist.asp?dpno=8179.asp; Michael D. 
+
+
+ - 8 -
+
+Inequality and the Great Recession 
+
+Given these developments, when house prices fell, household finances were 
+
+struck a devastating blow.  The resulting fallout magnified this initial shock, ushering in 
+
+the Great Recession.  Let me lay out this argument in more detail. 
+
+As I mentioned earlier, low- to middle-income families held a disproportionate 
+
+share of their assets in housing prior to the financial crisis and hence were very exposed 
+
+to what was a historic decline in house prices.  And so, while total household net worth 
+
+fell 15 percent in real terms between 2007 and 2010, median net worth fell almost 40 
+
+percent.  This difference reflects the amplified effect that housing had on wealth changes 
+
+in the middle of the wealth distribution.  
+
+The unexpected drop in house prices on its own reduced both households’ wealth 
+
+and their access to credit, likely leading them to pull back their spending.  In particular, 
+
+underwater borrowers and heavily indebted households were left with little collateral, 
+
+which limited their access to additional credit and their ability to refinance at lower 
+
+interest rates.  Indeed, some studies have shown that spending has declined more for 
+
+indebted households.8   
+
+Compounding the effect of falling house prices on household wealth and credit 
+
+was the fact that these low- to middle-income households are also composed of some of 
+
+                                                                                                                                                 
+Bordo and Christopher M. Meissner (2012), “Does Inequality Lead to a Financial Crisis?” NBER Working 
+Paper Series 17896 (Cambridge, Mass.:  National Bureau of Economic Research, March); Neil Bhutta 
+(2011), “The Community Reinvestment Act and Mortgage Lending to Lower Income Borrowers and 
+Neighborhoods,” Journal of Law and Economics, vol. 54 (November), pp. 953-83; and Neil Bhutta (2012), 
+“GSE Activity and Mortgage Supply in Lower-Income and Minority Neighborhoods:  The Effect of the 
+Affordable Housing Goals,” Journal of Real Estate Finance and Economics, vol. 45 (June), pp. 238-61. 
+8 See Atif Mian, Kamalesh Rao, and Amir Sufi (2011), “Household Balance Sheets, Consumption, and the 
+Economic Slump,” unpublished paper, University of Chicago, Booth School of Business, November, 
+http://faculty.chicagobooth.edu/amir.sufi/MianRaoSufi_EconomicSlump_Nov2011.pdf; and Karen Dynan 
+(2012), “Is a Household Debt Overhang Holding Back Consumption?” Brookings Papers on Economic 
+Activity, Spring, pp. 299-358. 
+
+
+ - 9 -
+
+the groups that have historically borne the brunt of downturns in the labor market.  
+
+During recessions, the young, the less educated, and minorities are more likely to 
+
+experience flat or declining wages, reduced hours, and unemployment.9  While this 
+
+disparity is not a new phenomenon, dealing with a loss in labor income during the most 
+
+recent recession was a heightened challenge to households that had mortgage obligations 
+
+and no other forms of wealth to cushion the blow.  The adverse developments in the labor 
+
+market added to the difficulty most households were having in repaying their existing 
+
+debts and in accessing credit in the recession. 
+
+These low- to middle-income households that bore the strains in both housing and 
+
+labor markets, and had little wealth cushion, had more difficulty making payments on 
+
+their mortgages and other consumer credit debt.  For example, among the mortgages 
+
+originated from 2004 to 2008, almost 25 percent of those in low-income neighborhoods 
+
+were foreclosed on or in serious delinquency as of 2011, more than twice the rate of 
+
+mortgages originated in higher-income neighborhoods.  Higher-income households had 
+
+also taken on debt and were affected by declines in asset prices.  But these households 
+
+entered the recession with a larger wealth buffer and higher incomes, so they generally 
+
+were still able to service their debts.  The sharp rise in defaults and delinquencies put 
+
+extraordinary stress on most households’ finances, intensified the financial crisis, and 
+
+exacerbated the effect of the initial economic shocks.  Indeed, a rapid downward spiral of 
+
+tighter credit, declines in asset prices, rising unemployment, and falling demand caused 
+
+                                                 
+9 An Organisation for Economic Co-operation and Development study by Ahrend, Arnold, and Moeser 
+(2011) documents across a wider range of countries that individuals with low incomes tend to lose the most 
+from adverse macroeconomic shocks.  See Rudiger Ahrend, Jens Arnold, and Charlotte Moeser (2011), 
+“The Sharing of Macroeconomic Risk:  Who Loses (and Gains) from Macroeconomic Shocks,” OECD 
+Economics Department Working Papers 877 (Washington:  OECD Publishing, July). 
+
+
+ - 10 -
+
+severe distress and a pullback in spending that was ultimately widespread across 
+
+households.   
+
+Inequality and the Recovery 
+
+I have argued that rising inequality and stagnating wages may have led 
+
+households to borrow more and to pin their hopes for economic advancement on rising 
+
+home values, developments that exacerbated the severity of the financial crisis and 
+
+recession.  Now we are nearly four years into the recovery, which has been weak.  In my 
+
+view, this same confluence of factors has also contributed to the tepid recovery. 
+
+If my theory about why households overextended themselves before the financial 
+
+crisis is correct, then it is likely also true that households have had a rude awakening in 
+
+the years since.  Not only did they receive an unwelcome shock to their net current 
+
+wealth, but they also undoubtedly have come to realize that house prices will not rise 
+
+indefinitely and that their labor income prospects are less rosy than they had believed.  As 
+
+a result, they are curtailing their spending in an effort to rebuild their nest eggs and may 
+
+also be trimming their budgets in order to bring their debt levels into alignment with their 
+
+new economic realities.  In this case, the effects of the plunge in net wealth and the jump 
+
+in unemployment on subsequent spending have been long lasting and lingering.   
+
+Overall debt levels remain higher than before the house price boom, and many 
+
+families continue to struggle to keep up with their monthly payments.  Although many 
+
+households have significantly reduced their debt levels, many others probably have far to 
+
+go.10  It is hard to know just what the optimal debt-to-income ratio is, but, in my view, 
+
+                                                 
+10 In contrast to the decrease in overall debt, student loans have continued to rise at a solid pace.  The 
+outstanding level of student loan balances is nearly twice its level five years ago and now represents the 
+largest component of consumer (nonmortgage) lending.  The increase in student loans is likely related to 
+broader developments in the recession and exposes the households holding these loans to new risks. 
+
+
+ - 11 -
+
+households will likely aim for something lower than before the financial crisis:  
+
+Households are probably working toward lower, more-manageable debt service 
+
+obligations; the heightened uncertainty in the recession may have raised the desired level 
+
+of financial buffers; and, to the extent that households saw the negative shocks to house 
+
+prices and income as permanent, they are reducing their spending and thus their demand 
+
+for new borrowing.  While the process of household deleveraging has affected the 
+
+spending and borrowing of many households, there is no doubt that the process has been 
+
+more acute for those that have experienced unemployment, underemployment, or slower 
+
+wage gains.   
+
+To make matters worse, there is also some evidence to suggest that the factors 
+
+that contributed to the rise in inequality and the stagnation of wages in the bottom half of 
+
+the income distribution, such as technological change that favors those with a college 
+
+education and globalization, are still at play in the recovery--and perhaps may have 
+
+accelerated.11  About two-thirds of all job losses in the recession were in middle-wage 
+
+occupations--such as manufacturing, skilled construction, and office administration jobs--
+
+but these occupations have accounted for less than one-fourth of subsequent job growth.12  
+
+In contrast, the decline in lower-wage occupations--such as retail sales, food service, and 
+
+                                                 
+11 The poverty rate has risen sharply since the onset of the recession, after a decade of relative stability, and 
+it now stands at 15 percent, significantly higher than the average over the past three decades.  See Carmen 
+DeNavas-Walt, Bernadette D. Proctor, and Jessica C. Smith (2012), Income, Poverty, and Health Insurance 
+Coverage in the United States:  2011, U.S. Census Bureau Current Population Reports P60-243 
+(Washington:  U.S. Government Printing Office, September), www.census.gov/prod/2012pubs/p60-
+243.pdf. 
+12 See National Employment Law Project (2012), “The Low-Wage Recovery and Growing Inequality,” 
+Data Brief, report (New York:  NELP, August), http://nelp.3cdn.net/8ee4a46a37c86939c0_qjm6bkhe0.pdf. 
+
+
+ - 12 -
+
+other lower-paying service jobs--accounted for only one-fifth of job loss and more than 
+
+one-half of total job gains in the recovery.13   
+
+It is not only the occupational and industrial distribution of the new jobs that 
+
+poses challenges for workers and their families struggling to make ends meet, but also the 
+
+fact that many of the jobs that have returned are part time or make use of temporary 
+
+arrangements popularly known as contingent work.  The flexibility of these jobs may be 
+
+beneficial for workers who want or need time to address their family needs.  However, 
+
+workers in these jobs often receive less pay and fewer benefits than traditional full-time 
+
+or “permanent” workers, are much less likely to benefit from the protections of labor and 
+
+employment laws, and often have no real pathway to upward mobility in the workplace.14  
+
+Wage gains have remained more muted than is typical during a recovery.  While 
+
+this phenomenon likely partly reflects the trends in job creation that I have already 
+
+discussed, weak wage growth also reflects the severe nature of the crisis:  Typically, 
+
+those who are laid off during recessions struggle to find reemployment that is of 
+
+comparable quality to their previous job, and research has shown that, on average, a 
+
+person’s income remains depressed for decades following job loss, and that income 
+
+losses over one’s working life are especially severe when the job loss occurs during a 
+
+recession.15    
+
+                                                 
+13 These patterns were also observed during the recessions of the early 1990s and early 2000s--the so-called 
+jobless recoveries--but not prior to then.  See Nir Jaimovich and Henry E. Siu (2012), “The Trend Is the 
+Cycle:  Job Polarization and Jobless Recoveries,” NBER Working Paper Series 18334 (Cambridge, Mass:  
+National Bureau of Economic Research, August); and Christopher L. Foote and Richard W. Ryan (2012), 
+“Labor-Market Polarization over the Business Cycle,” Public Policy Discussion Paper 12-8 (Boston:  
+Federal Reserve Bank of Boston, December), www.bos.frb.org/economic/ppdp/2012/ppdp1208.htm. 
+14 See U.S. Department of Labor, Commission on the Future of Worker-Management Relations (1994), 
+“Contingent Workers,” in Fact Finding Report, www.dol.gov/_sec/media/reports/dunlop/section5.htm. 
+15 See Steven J. Davis and Till von Wachter (2011), “Recessions and the Costs of Job Loss,” Brookings 
+Papers on Economic Activity, Fall, pp. 1-55. 
+
+
+ - 13 -
+
+Indeed, while average wages have continued to increase (albeit slowly) on an 
+
+annual basis for persons who have remained employed, the average wage for new hires 
+
+has declined since 2010.16  Although it is too early to state with certainty what the long-
+
+term effect of this recession will be on the earnings potential of those who lost their jobs, 
+
+given the severity of the job loss and sluggishness of the recovery--with nearly 9 million 
+
+jobs lost and still almost 2½ million jobs below pre-recession employment levels--it is 
+
+very likely that, for many households, future labor earnings will be well below what they 
+
+had anticipated in the years before the recession. 
+
+Implications for Our Thinking about the Macroeconomy 
+
+I have focused most of my remarks on the experiences of households at the lower 
+
+ends of the income and wealth distributions, those households whose incomes improved 
+
+the least in the years prior to the financial crisis and that suffered disproportionately as a 
+
+result of the crisis and ensuing recession.   
+
+To be clear, my approach of starting with inequality and differences across 
+
+households is not a feature of most analyses of the macroeconomy, and the channels I 
+
+have emphasized generally do not play key roles in most macro models.  The typical 
+
+macroeconomic analysis focuses on the general equilibrium behavior of “representative” 
+
+households and firms, thereby abstracting from the consequences of inequality and other 
+
+heterogeneity across households and instead focusing on the aggregate measures of 
+
+spending determinants, including current income, wealth, interest rates, credit supply, and 
+
+confidence or pessimism.  In certain circumstances, this abstraction might be a reasonable 
+
+simplification.  For example, if the changes in the distribution of income or wealth, and 
+
+                                                 
+16 See Jesse Rothstein (2012), “The Labor Market Four Years into the Crisis:  Assessing Structural 
+Explanations,” ILRReview, vol. 65 (July), figure 11, p. 486. 
+
+
+ - 14 -
+
+the implications of those changes for the overall economy, are regular features of 
+
+business cycles, then even an aggregate model without an explicit focus on distributional 
+
+issues would capture those historical regularities.   
+
+However, the narrative I have emphasized places economic inequality and the 
+
+differential experiences of American families, particularly the highly adverse experiences 
+
+of those least well positioned to absorb their “realized shocks,” closer to the front and 
+
+center of the macroeconomic adjustment process.  The effects of increasing income and 
+
+wealth disparities--specifically, the stagnating wages and sharp increase in household 
+
+debt in the years leading up to the crisis, combined with the rapid decline in house prices 
+
+and contraction in credit that followed--may have resulted in dynamics that differ from 
+
+historical experience and which are therefore not well captured by aggregate models.  
+
+How these factors have interacted and the implications for the aggregate economy are 
+
+subject to debate, but I have laid out some possible channels through which there could 
+
+be effects and that I believe represent some particularly fruitful areas for continued 
+
+research. 
+
+Implications for Monetary Policy 
+
+The arguments that I have laid out suggest that paying attention to the experiences 
+
+of different types of households may be important for the way we understand and 
+
+interpret the macroeconomic events of the past several years.  As a consequence, these 
+
+differential experiences may also have implications for the conduct of monetary policy.  
+
+Arguably, the FOMC’s conduct of monetary policy in recent years has in part been 
+
+designed to address this particular landscape.  In response to continuing low levels of 
+
+resource utilization, the FOMC has kept monetary policy highly accommodative by 
+
+
+ - 15 -
+
+keeping its primary policy instrument, the federal funds rate, at an exceptionally low 
+
+level; by supplementing this move with forward guidance about the funds rate; and by 
+
+initiating unconventional policy actions such as large-scale asset purchases.  One channel 
+
+through which these policies operate is by putting downward pressure on longer-term 
+
+interest rates, thereby encouraging firms to invest in plants and equipment and helping 
+
+enable households to purchase cars and other durable goods and also to refinance their 
+
+mortgages.  Lower interest rates also support the prices of homes and other assets, which 
+
+can lead to additional spending.  The resulting boost to demand leads firms to hire and 
+
+invest further, strengthening the economy as a whole.  To be sure, every household is 
+
+different, and the particular mix of assets, skills, and opportunities that each has will 
+
+determine how much it is able to share in the recovery.  But accommodative monetary 
+
+policy that lifts economic activity more generally is expected to increase the odds of good 
+
+outcomes for American families.  
+
+Of course, it is also relevant to consider whether the unusual circumstances--the 
+
+outsized role of housing wealth in the portfolios of low- and middle-income households, 
+
+the increased use of debt during the boom, and the subsequent unprecedented shocks to 
+
+the housing market--may have attenuated the effectiveness of monetary policy during the 
+
+depths of the recession.  Households that have been through foreclosure or have 
+
+underwater mortgages or are otherwise credit constrained are less able than other 
+
+households to take advantage of the lower interest rates, either for homebuying or other 
+
+purposes.  In my view, these effects likely clogged some of the channels through which 
+
+monetary policy traditionally works.  As the housing market recovers, though, I think it is 
+
+possible that accommodative monetary policy could be increasingly potent.  As house 
+
+
+ - 16 -
+
+prices rise, more and more households have enough home equity to gain renewed access 
+
+to mortgage credit and the ability to refinance their homes at lower rates.  The staff at the 
+
+Federal Reserve Board has estimated that house price increases of 10 percent or less from 
+
+current levels would be sufficient for about 40 percent of underwater homeowners to 
+
+regain positive equity. 
+
+It is my view that understanding the long-run trends in income and wealth across 
+
+different households is important in understanding the dynamics of the macroeconomy 
+
+and thus also may be relevant for setting monetary policy to best reach our goals of 
+
+maximum employment and price stability.  I believe that the accommodative policies of 
+
+the FOMC and the concerted effort we have made to ease conditions in the mortgage 
+
+markets will help the economy continue to gain traction.  And the resulting expansion in 
+
+employment will likely improve income levels at the bottom of the distribution.  
+
+However, given the long-standing trends toward greater income and wealth inequalities, 
+
+it is unlikely that cyclical improvements in the labor markets will do much to reverse 
+
+these trends.   
+
+Conclusion 
+
+It strikes me that macroeconomists are far from a comprehensive understanding of 
+
+how wealth and income inequality may affect business cycle dynamics.  My remarks 
+
+today are given only in the spirit of describing how that relationship might be further 
+
+explored.  I have said nothing about the social costs associated with such trends, nor have 
+
+I provided much detail on what is occurring at the top end of the income and wealth 
+
+distribution and the effects of those trends on the recovery.  Nonetheless, I believe that, 
+
+
+ - 17 -
+
+given the wide income and wealth disparities in the United States, this area is ripe for 
+
+more research.  
+
+In recent years, the Board has increased its efforts to measure and understand 
+
+differences in the economic situations faced by different types of families.  A particularly 
+
+strong source of data to improve our understanding of the role for inequality and 
+
+heterogeneity is the SCF.  The triennial SCF marks its 30th anniversary this year, as the 
+
+fieldwork for the 2013 survey begins this month.  The data we collect on U.S. families 
+
+are a fundamental input for many different types of research projects being undertaken by 
+
+Board economists, in other government agencies and research centers, and in academia.  
+
+In addition, the Board, in partnership with other members of the Federal Reserve System, 
+
+is engaged in a wide range of analysis and research using rich and timely data on 
+
+households’ use of consumer credit.  And the Board continues to support direct efforts to 
+
+understand differences in spending and saving behavior across households, such as 
+
+studies of stimulus policies in the Thomson Reuters/University of Michigan Surveys of 
+
+Consumers.  
+
+There is much work to be done on understanding the ways in which income and 
+
+wealth inequality and other forms of household heterogeneity affect aggregate behavior, 
+
+and the implications for monetary policy.  The times demand that we continue to analyze 
+
+such dynamics and their implications, in partnership with academics, our Federal Reserve 
+
+System colleagues, and policy analysts representing many different types of government 
+
+and private-sector institutions.  
+
+Thank you for your attention and the creative thought you bring to today’s 
+
+economic challenges. 
+

@@ -1,0 +1,313 @@
+
+For release on delivery 
+9:00 a.m. EDT 
+August 6, 2012 
+ 
+
+
+Economic Measurement 
+ 
+ 
+
+Remarks by 
+ 
+
+Ben S. Bernanke 
+ 
+
+Chairman 
+ 
+
+Board of Governors of the Federal Reserve System 
+ 
+
+via Prerecorded Video 
+ 
+
+to the 
+ 
+
+32nd General Conference of the  
+International Association for Research in Income and Wealth  
+
+ 
+Cambridge, Massachusetts  
+
+
+August 6, 2012
+
+
+
+I appreciate the opportunity to speak at a conference with the important theme of 
+
+economic measurement.  In many spheres of human endeavor, from science to business 
+
+to education to economic policy, good decisions depend on good measurement.  More 
+
+subtly, what we decide to measure, or are able to measure, has important effects on the 
+
+choices we make, since it is natural to focus on those objectives for which we can best 
+
+estimate and document the effects of our decisions.  One great pioneer in this subject 
+
+area, of course, is Simon Kuznets, who was awarded the Nobel Prize in 1971 for his work 
+
+on economic measurement, including the national income accounts.  Over the years many 
+
+economists have built on his work to further improve our ability to quantify aspects of 
+
+economic activity and thus to improve economic policymaking and our understanding of 
+
+how the economy works.  The remarkably broad and ambitious research program of this 
+
+conference and the impressive expertise that has been assembled illustrate the continued 
+
+vitality of this field.  Evolving technologies that allow economists to gather new types of 
+
+data and to manipulate millions of data points are just one factor among several that are 
+
+likely to transform the field in coming years. 
+
+As we think about new directions for economic measurement, we might start by 
+
+reminding ourselves of the purpose of economics.  Textbooks describe economics as the 
+
+study of the allocation of scarce resources.  That definition may indeed be the “what,” but 
+
+it certainly is not the “why.”  The ultimate purpose of economics, of course, is to 
+
+understand and promote the enhancement of well-being.  Economic measurement 
+
+accordingly must encompass measures of well-being and its determinants. 
+
+In the tradition of national income accounting, economic policymakers have 
+
+typically focused on variables such as income, wealth, and consumption.  The Federal 
+
+
+- 2 - 
+ 
+
+
+Reserve has a statutory mandate to foster maximum employment and price stability, 
+
+which motivates our extensive efforts to monitor and forecast measures of employment 
+
+and inflation.  Substantial research and the development of data collection infrastructures 
+
+have, over the years, greatly enhanced our ability to receive timely and accurate measures 
+
+of those variables.  Aggregate measures, such as gross domestic product and personal 
+
+consumption expenditures, are useful for monitoring people’s ability to meet basic 
+
+material needs and for tracking cyclical and secular changes in the economy as a whole.  
+
+Indeed, the experience of the recent financial crisis and the ensuing recession was 
+
+strongly reflected in nearly all of these aggregate measures, indicating the severe 
+
+economic stress felt by millions of people and hundreds of communities across the 
+
+country.  
+
+But, as many of you will discuss this week, aggregate statistics can sometimes 
+
+mask important information.  For example, even though some key aggregate 
+
+metrics--including consumer spending, disposable income, household net worth, and debt 
+
+service payments--have moved in the direction of recovery, it is clear that many 
+
+individuals and households continue to struggle with difficult economic and financial 
+
+conditions.  Exclusive attention to aggregate numbers is likely to paint an incomplete 
+
+picture of what many individuals are experiencing.  One implication is that we should 
+
+increase the attention paid to microeconomic data, which better capture the diversity of 
+
+experience across households and firms.  Another implication, however, is that we should 
+
+seek better and more-direct measurements of economic well-being, the ultimate objective 
+
+of our policy decisions.   
+
+
+- 3 - 
+ 
+
+
+Although the field is still young, there have been interesting developments in the 
+
+measurement of economic well-being.  In a commencement address two years ago titled 
+
+“The Economics of Happiness,” I spoke about the concepts of happiness and life 
+
+satisfaction from the perspective of economics and other social science research.1  
+
+Following the growing literature, I define “happiness” as a short-term state of awareness 
+
+that depends on a person’s perceptions of one’s immediate reality, as well as on 
+
+immediate external circumstances and outcomes.  By “life satisfaction” I mean a longer-
+
+term state of contentment and well-being that results from a person’s experiences over 
+
+time.  Surveys and experimental studies have made progress in identifying the 
+
+determinants of happiness and life satisfaction.  Interestingly, income and wealth do 
+
+contribute to self-reported happiness, but the relationship is more complex and context-
+
+dependent than standard utility theory would suggest.2  Other important contributors to 
+
+individuals’ life satisfaction are a strong sense of support from belonging to a family or 
+
+core group and a broader community, a sense of control over one’s life, a feeling of 
+
+confidence or optimism about the future, and an ability to adapt to changing 
+
+circumstances.  Indeed, an interesting finding in the literature is that the overwhelming 
+
+majority of people in the United States and in many other countries report being very 
+
+happy or pretty happy on a daily basis--a finding that researchers link to people’s intrinsic 
+
+abilities to adapt and find satisfaction in their lives even in very difficult circumstances.3 
+
+                                                 
+1 See Ben S. Bernanke (2010), “The Economics of Happiness,” speech delivered at the University of South 
+Carolina commencement ceremony, Columbia, S.C., May 8, 
+www.federalreserve.gov/newsevents/speech/bernanke20100508a.htm. 
+2 Canonical models of economic decisionmaking presume individual maximization of “utility,” or well-
+being.  They tend to focus on the consumption of goods or services and assume that more consumption is 
+preferred to less.  For example, see Andrew Mas-Colell, Michael D. Whinston, and Jerry R Green (1995), 
+Microeconomic Theory (New York:  Oxford University Press). 
+3 For examples drawn from Organisation for Economic Co-operation and Development countries from the 
+mid-1970s to the mid-1990s, see Rafael Di Tella and Robert MacCulloch (2008), “Gross National 
+
+
+- 4 - 
+ 
+
+
+This line of research has generated alternative measures of well-being that are 
+
+frequently survey-based and incorporate elements such as psychological wellness, the 
+
+level of education, physical health and safety, community vitality and the strength of 
+
+family and social ties, and time spent in leisure activities.  These measures have begun to 
+
+inform official statistics and have started to be discussed in policy debates.  An 
+
+interesting and unique case is the Kingdom of Bhutan, which abandoned tracking gross 
+
+national product in 1972 in favor of its Gross National Happiness index based on a 
+
+survey that incorporates these types of indicators.  Taking the measurement of well-being 
+
+in a cross-country framework, the Organisation for Economic Co-operation and 
+
+Development (OECD), as part of its OECD Better Life Initiative, has created a “better 
+
+life index” that allows a side-by-side comparison of countries according to various 
+
+quality-of-life indicators that could, at least in principle, be followed over time.4  Other 
+
+somewhat-more-conventional economic indicators that bear on quality of life, and that 
+
+accordingly might be developed and followed in more detail, include changes in the 
+
+distribution of income, wealth, or consumption; the degree of upward mobility in material 
+
+measures of well-being; indications of job security and confidence about future 
+
+employment prospects; and households’ liquidity buffers or other measures of their 
+
+ability to absorb financial shocks.  All of these indicators could be useful in measuring 
+
+economic progress or setbacks as well as in explaining economic decisionmaking or 
+
+projecting future economic outcomes.  
+
+                                                                                                                                                 
+Happiness as an Answer to the Easterlin Paradox?” Journal of Development Economics, vol. 86 (April), 
+pp. 22-42.  For a survey of evidence on adaptability, see Shane Frederick and George Loewenstein (1999), 
+“Hedonic Adaptation,” in Daniel Kahneman, Ed Diener, and Norbert Schwarz, eds., Well-Being:  The 
+Foundations of Hedonic Psychology (New York:  Russell Sage Foundation), pp. 302-29. 
+4 See Organisation for Economic Co-operation and Development (2011), How’s Life?  Measuring Well-
+Being (Washington:  OECD Publishing). 
+
+
+- 5 - 
+ 
+
+
+Continued work on the measurement of economic well-being will likely lead to 
+
+greater recognition by economists of the contributions of psychology--an area that has 
+
+been explored by pioneers like 2002 Nobel laureate Daniel Kahneman.  One topic on the 
+
+frontier of economics and psychology is the neurological basis of human decisions, 
+
+including decisionmaking under risk and uncertainty, intertemporal choice, and social 
+
+decisionmaking.5  Researchers are investigating behavioral tendencies in a variety of 
+
+circumstances--for instance, by examining human responses to perceived inequality, 
+
+losses, risk, and uncertainty; the need for autonomy; and the importance for well-being of 
+
+social ties and community.  For example, brain imaging research has documented 
+
+differences in the brain regions that light up in response to losses and gains--a clear 
+
+physical manifestation of the “loss aversion” documented in the earlier behavioral studies 
+
+in economics and psychology.6  Evolutionary psychologists suggest that humans 
+
+experienced evolutionary benefits from brain developments that included aversion to loss 
+
+and risk, and from instincts for cooperation that helped strengthen communities.   
+
+Measurement of well-being is an important direction, but just one of many new 
+
+directions for economic measurement being explored in the field generally and at this 
+
+conference in particular.  I am glad to see scholars and practitioners continuing to push 
+
+the frontiers of economic measurement with a broad perspective and with open minds.  
+
+As Arthur Conan Doyle’s immortal character Sherlock Holmes aptly put it, “It is a capital 
+
+mistake to theorize before one has data.”7  As I said at the beginning, good economic 
+
+                                                 
+5 For example, see George Loewenstein, Scott Rick, and Jonathan D. Cohen (2008), “Neuroeconomics,” 
+Annual Review of Psychology, vol. 59 (January), pp. 647-72. 
+6 See Sabrina M. Tom, Craig R. Fox, Christopher Trepel, and Russell A. Poldrack (2007), “The Neural 
+Basis of Loss Aversion in Decision-Making under Risk,” Science, vol. 315 (January), pp. 515-18. 
+7 See Arthur Conan Doyle ([1892] 1900), “A Scandal in Bohemia,” in The Adventures of Sherlock Holmes 
+(New York:  Harper & Brothers), p. 7, available at 
+http://books.google.com/books?id=RxAJAAAAIAAJ&printsec=frontcover&dq=adventures+of+sherlock+
+
+
+- 6 - 
+ 
+
+
+analysis and policymaking depend on good measurement, and the work you are doing 
+
+will accordingly yield significant benefits.  I thank you for the opportunity to give these 
+
+short remarks, and I wish you the best for a productive and stimulating conference. 
+
+                                                                                                                                                 
+holmes&source=bl&ots=tr8SxsUQhJ&sig=8d1uYsv-
+D13W5iU5T66tnzUFbOc&hl=en#v=onepage&q=It%20is%20a%20capital%20mistake%20to%20theorize
+%20before%20one%20has%20data&f=false. 
+ 
+

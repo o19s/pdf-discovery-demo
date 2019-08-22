@@ -1,0 +1,828 @@
+
+For release on delivery 
+10:15 a.m. EDT 
+October 21, 2016 
+
+
+
+
+Pedagogy and Scholarship in a Post-Crisis World 
+
+
+
+Remarks by  
+
+Daniel K. Tarullo 
+
+Member 
+
+Board of Governors of the Federal Reserve System 
+
+at 
+
+Conference on the New Pedagogy of Financial Regulation 
+
+Columbia Law School 
+
+New York, New York 
+
+
+
+
+
+
+
+October 21, 2016 
+
+
+
+
+
+1 
+ 
+
+Let me begin with the most prosaic of observations:  The events of 2007-09 will be 
+
+remembered not as a banking crisis, but as a financial crisis.  Neither the origins nor the 
+
+transmission of stress were limited to the traditional banking system of commercial banks and 
+
+thrifts.  While Wachovia and Washington Mutual failed, and other large depository institutions 
+
+survived only because of government support, the more spectacular failures were those of 
+
+nonbank financial firms--including American International Group (AIG), Bear Stearns, Lehman 
+
+Brothers, and the government-sponsored enterprises Fannie Mae and Freddie Mac.  Repurchase 
+
+agreement (repo) and commercial paper markets depended on government liquidity to continue 
+
+operating, as did money market funds. 
+
+It is thus unsurprising that, in approaching regulatory reform after the crisis, both the 
+
+official sector and academics have focused more on the financial system as a whole.  The shift is 
+
+apparent in the very diction of post-crisis regulatory initiatives.  The Dodd-Frank Wall Street 
+
+Reform and Consumer Protection Act (Dodd-Frank Act) refers dozens of times to “financial 
+
+stability” and “systemic risk.”  A special regulatory structure has been developed for “G-SIBs”--
+
+that is, banks of global systemic importance--and a new category of designated systemically 
+
+important nonbank financial companies has been created.  This shift is also reflected in the titles 
+
+and intellectual approaches of the two books that were discussed at this conference earlier this 
+
+morning--that is, financial regulation.  The authors of both books have eschewed the traditional 
+
+concentration on banking or securities law alone, and have even moved beyond the more 
+
+innovative pre-crisis casebooks that focused on the differential regulation of various forms of 
+
+financial institutions.1 
+
+                                                           
+1 Howell E. Jackson and Edward J. Symons, Jr. (1999), Regulation of Financial Institutions (St. Paul, MN: West 
+Group). 
+
+
+2 
+ 
+
+This broader category of “financial regulation” as the relevant delineation of an academic 
+
+subject area seems right to me.  For one thing, different forms of financial intermediation are--if 
+
+not equally attractive for the preferences of specific investors and users of capital--at least 
+
+significantly overlapping in the roles they can play.  Beginning in the 1970s these overlaps 
+
+multiplied, as the traditional separation of lending and capital market activities--which had been 
+
+reinforced by the Glass-Steagall Act--began to break down under the weight of macroeconomic 
+
+turbulence, technological and business innovation, and competition.  In the 30 years that 
+
+followed, these activities were progressively integrated further, both within bank holding 
+
+companies and beyond, ultimately producing the explosive growth of money market, 
+
+securitization, and derivative instruments. 
+
+More fundamentally, the broader category of “financial regulation” reflects the 
+
+importance of a macroprudential, or systemic, perspective on the financial system.  This means 
+
+taking account of the relationships among the circumstances and activities of significant financial 
+
+actors through such channels as funding dependencies and correlated assets.  The financial crisis 
+
+has made what was formerly a minority view--the need to incorporate systemic considerations 
+
+into the regulatory regime--into something approaching a consensus. 
+
+But this shift of perspective--whether in pedagogy or in policy--raises as many questions 
+
+as it answers.  My remarks this morning will detail some of the questions that have recurred in 
+
+regulatory deliberations in recent years, which I believe to be salient for policy, scholarship, and 
+
+pedagogy.  Then, more briefly, I will make a few observations about teaching and scholarship 
+
+from the broadened perspective of financial regulation.  I should note at the outset that, in the 
+
+interest of time, I will confine myself to the prudential aspects of financial regulation. 
+
+
+3 
+ 
+
+Thinking Through a More Integrated Approach to Financial Regulation 
+
+It is only moderately reductionist to say that, from the New Deal through the crisis, the 
+
+nature and scope of regulation was determined by the categorization of financial actors.  If an 
+
+entity was classified as a bank or a broker-dealer or an investment company, it was subject to a 
+
+regulatory regime fashioned to deal with the risks associated with that form of intermediation or, 
+
+perhaps more precisely, the risks that were perceived to be so associated.  Such an approach 
+
+always provided for some interesting legal discussions, since forms of intermediation that served 
+
+similar purposes and carried broadly similar risks might be subject to quite different regulatory 
+
+constraints. 
+
+But when, as noted earlier, nonbank forms of intermediation began to threaten traditional 
+
+bank intermediation and when, in what was at least partly an effort to maintain the franchise 
+
+value of commercial banks, strictures on bank activities and affiliations were significantly 
+
+relaxed, the foundation of the New Deal regime was substantially eroded.  With the notable 
+
+exception of an increased emphasis on capital, which itself was decidedly microprudential in 
+
+focus, the prudential regime was not shored up or extended to other kinds of intermediaries, 
+
+much less replaced--a signal failure that contributed to the severity of the crisis.  This may be a 
+
+good point at which to note in passing that the pre-crisis failures were not limited to the 
+
+underappreciation of systemic or macroprudential risks.  Even from a purely microprudential 
+
+perspective, for example, the Basel II changes to the capital requirements for large banks were 
+
+ill-conceived.2 
+
+A natural reaction to this legacy might be to shift from a regime based predominantly on 
+
+the form of an intermediary to one built predominantly on its functions.  As a practical matter, 
+
+                                                           
+2 See Daniel K. Tarullo (2008), Banking on Basel: The Future of International Financial Regulation (Washington, 
+DC: Peter G. Peterson Institute for International Economics), pp. 178-82.  
+
+
+4 
+ 
+
+though, much post-crisis regulatory reform has been directed at strengthening the traditional 
+
+form-based foundation, though perhaps to a somewhat greater degree in the United States than in 
+
+some other financially important jurisdictions.  And, at a conceptual level, some features of 
+
+particular forms of intermediaries--such as being an insured depository institution rather than a 
+
+money market fund--remain rightly important for regulatory purposes.  So we will probably 
+
+continue to build on a form-based regulatory regime, though the potential range of 
+
+complementary function-based measures could be quite extensive.  And, at the very least, 
+
+analyses based on function rather than form can be valuable heuristic exercises for identifying 
+
+inconsistencies and lacunae in the financial regulatory system. 
+
+A first set of questions follows from just such an identification of gaps in the regulatory 
+
+system, which are arguably most troubling when they relate to systemic considerations--that is, 
+
+when a financial intermediary or activity may contribute to risk in the financial system because 
+
+of the related positions or activities of others.  Two critical gaps highlighted by the crisis were 
+
+the inadequate prudential regulation of the most systemically important financial institutions 
+
+(SIFIs) and the sometimes nonexistent prudential regulation of the many activities now 
+
+denominated as “shadow banking.” 
+
+The SIFI issue has received the most public attention, often in the context of too-big-to-
+
+fail concerns.  It was at the center of some of the most notable provisions of the Dodd-Frank Act, 
+
+many of which follow from the important principle enunciated in section 165 that prudential 
+
+regulation should become increasingly stringent for institutions of greater systemic importance.  
+
+Precisely because a satisfactory treatment of this topic would require at least one lengthy speech 
+
+on its own, it seems reasonably clear that teaching and scholarship should highlight the SIFI 
+
+
+5 
+ 
+
+problem, appraise the regulatory approach toward such institutions since the crisis, and consider 
+
+alternatives. 
+
+An appraisal of whether more or, as some would have it, fewer measures are needed 
+
+under the approach taken in the Dodd-Frank Act and related regulatory actions will, I admit, be a 
+
+little challenging.  Some measures--including stress testing, capital requirements, and resolution 
+
+planning--are still in train, and others may be forthcoming as a result of the research program the 
+
+Federal Reserve is launching to consider the potential for additional explicitly macroprudential 
+
+features in capital and liquidity stress testing.3  Still, I think it is feasible to teach and assess the 
+
+general approach of using multiple regulatory tools that impose requirements that force 
+
+systemically important firms to internalize the costs their distress or failure would impose on the 
+
+financial system, and then leaving the regulated firms to make decisions as to how to alter their 
+
+size and activities in order to make themselves most profitable within the stricter regulatory 
+
+constraints.  This approach can be usefully compared to structural or other approaches to the SIFI 
+
+issue, such as caps on overall size or reimposition of the Glass-Steagall separation of commercial 
+
+and investment banking. 
+
+In addressing this topic, I have found it useful to try to specify as clearly as possible the 
+
+adverse systemic consequences that may be feared by public authorities confronting the possible 
+
+failure of a systemically important institution.  This exercise helps identify the regulatory 
+
+measures that would be most effective in promoting the resiliency and orderly resolvability of 
+
+such institutions.  On virtually any short list of concerns would be reliance on short-term 
+
+wholesale funding sources, which may dry up quickly under stressed conditions.  A firm with 
+
+                                                           
+3 See Daniel K. Tarullo (2016), “Next Steps in the Evolution of Stress Testing,” speech delivered at the Yale 
+University School of Management Leaders Forum, New Haven, CT, September 26. 
+
+
+6 
+ 
+
+inadequate sources of liquidity may then be forced into responses with systemic implications, 
+
+such as fire sales of assets and termination of credit extensions to their own counterparties. 
+
+The other major vulnerability revealed by the financial crisis was systemic risk that may 
+
+be created through so-called shadow banking activities--that is, credit intermediation outside the 
+
+prudentially regulated banking system.  Here is where the integration of traditional lending and 
+
+capital markets is most clearly in evidence, albeit in quite different ways.  In truth, many shadow 
+
+banking channels passed through prudentially regulated institutions, as with the notorious 
+
+structured investment vehicles and asset-backed commercial paper conduits.  Changes in 
+
+accounting and in bank capital and liquidity requirements have done a great deal to guard against 
+
+a recurrence of such patterns in the future, though continued monitoring will be needed to 
+
+prevent the development of other forms of support that elude these regulatory measures. 
+
+Of greater interest for financial regulation going forward will be the constantly changing, 
+
+and largely unrelated, set of intermediation activities pursued by very different types of financial 
+
+market actors.  While the extent of shadow banking has significantly diminished since the crisis, 
+
+there is good reason to believe that it will grow in the future.  Indeed, the very rigor of new 
+
+regulations applicable to firms within the prudential perimeter may well incentivize more 
+
+innovation outside that perimeter.  It will be essential to disaggregate all the activities that might 
+
+be characterized as shadow banking in order to regulate those that pose risks to the financial 
+
+system while not unduly burdening forms of credit extension that may more or less benignly help 
+
+meet the savings and investment needs of households and businesses.  This task is perhaps 
+
+summed up by the fact that activities which in one context are called “shadow banking” are in 
+
+other contexts called “market-based financing.” 
+
+
+7 
+ 
+
+One might fairly characterize the current regulatory approach to shadow banking as one 
+
+that examines, in turn, significant forms of credit intermediation outside the banking system and 
+
+determines whether some type of prudential regulation is needed.  In the terms I introduced a 
+
+moment ago, regulators look at a particular form, such as money market funds.  If no significant 
+
+risks to financial stability are identified, or if some regulation to counteract those risks is 
+
+implemented, the form of intermediation may then be thought of as relatively safe (at least from 
+
+a systemic perspective) market-based finance.  The virtue of this approach is that it allows for a 
+
+very tailored regulatory response.  But, as you can imagine, this approach necessarily involves a 
+
+good bit of active oversight on an ongoing basis, both of measures previously taken and of new 
+
+channels of nonbank intermediation as they arise. 
+
+An alternative approach would be to define shadow banking in broadly applicable terms, 
+
+with specified regulatory consequences that ensue more or less automatically, regardless of 
+
+whether the entity conducting the shadow banking is otherwise subject to prudential regulation.  
+
+To date, the attempts I have seen along these lines look likely to entail substantial overinclusion, 
+
+substantial underinclusion, or regulatory consequences that are inappropriately uniform.  And, in 
+
+the United States and other jurisdictions, it is not clear that authority exists to take this approach, 
+
+either by an individual regulatory agency or even collectively.  But, as with hypothesizing a 
+
+functionally-based regulatory system more generally, hypothesizing a broadly applicable 
+
+regulatory definition can usefully inform the direction of the current regulatory approach of 
+
+activity-by-activity scrutiny. 
+
+Of course, while the current approach allows for an ad hoc consideration of the 
+
+particulars of each activity, it still requires at least a general filter for identifying sources of 
+
+systemic risk.  My own sense is that the greatest risks to financial stability lie in activities with 
+
+
+8 
+ 
+
+vulnerability to funding runs and asset fire sales.  These may be associated either with some of 
+
+the same kinds of short-term funding found in systemically important banking organizations or 
+
+in the potential for rapid and substantial investor redemptions of their holdings in certain 
+
+investment funds.  Where substantial leverage--either nominal or synthetic--is also present, the 
+
+risks are only greater.  Efforts to calibrate these, and possibly other, risks will remain an 
+
+important feature of shadow banking regulation, along with refining ways in which such risks 
+
+may be mitigated. 
+
+Before turning to another, though related, set of questions, let me digress a bit to note 
+
+another implication of a regime in which regulation is developed with a view to risks to the 
+
+financial system as a whole.  The motivation both for more stringent regulation of systemically 
+
+important firms and for regulation of shadow banking arises in large part from the potential 
+
+contribution of each to systemwide contagion.  A complementary motivation for some 
+
+macroprudential measures is the importance of maintaining effective financial intermediation 
+
+even during a period of severe recession or financial stress.  But this reasoning should, I think, 
+
+move us toward less regulatory stringency for some parts of the financial system, as well as 
+
+greater stringency in other parts.  For example, as banking regulation is strengthened to take 
+
+account of the progressively more systemic significance of larger or more complicated 
+
+institutions, there is a good argument for a less demanding regime for smaller institutions whose 
+
+contribution to systemic contagion would almost surely be somewhere between modest and 
+
+inconsequential.  This observation raises the issue, which I have discussed previously, as to 
+
+whether even within a particular form-based area of financial regulation we should be moving 
+
+toward quite different regimes.4 
+
+                                                           
+4 See, e.g., Daniel K. Tarullo (2014), “Rethinking the Aims of Prudential Regulation,” speech delivered at the 
+Federal Reserve Bank of Chicago Bank Structure Conference, Chicago, IL, May 8. 
+
+
+9 
+ 
+
+The next set of questions raised by a systemwide perspective on financial regulation can 
+
+be described much more briefly.  It pertains to the appropriate target once a need for regulation 
+
+has been established.  The selection among, and mix of targets for, systemically-motivated 
+
+regulation will be an important determinant of the character of financial regulation in the years 
+
+ahead. 
+
+The relevant choices here are frequently identified in binary terms--that is, the regulation 
+
+may be directed either at financial institutions or financial activities.  This leads to confusion 
+
+because, for example, what has been described as an “activities-based” approach to dealing with 
+
+the potential risks posed by certain asset management activities actually involves regulation of 
+
+the firms involved in those activities, such as through liquidity and risk management 
+
+requirements.  I suspect this confusion has arisen because, in the minds of some, “institution-
+
+based” regulation has become close to synonymous with banking regulation.  Thus those 
+
+opposed to, say, capital requirements for a particular kind of intermediary will advocate for 
+
+activities-based regulation. 
+
+My own sense is that it is useful to distinguish three possible targets of regulation--
+
+specific financial institutions, financial business models, and financial transactions.  Most 
+
+financial regulation, historically and contemporaneously, falls within what I would describe as 
+
+business model regulation.  So, for example, any entity engaged in the “business of banking” is 
+
+subject to the panoply of requirements found in Title 12 of the U.S. Code.  Similarly, the 
+
+requirements imposed on money market funds by the Securities and Exchange Commission 
+
+(SEC), and being considered for application to asset management activities, are also targeted at a 
+
+business model, even though the kind of regulation is quite different from that applicable to 
+
+insured depository institutions. 
+
+
+10 
+ 
+
+In contrast, my taxonomy would categorize regulation as targeted at a specific institution 
+
+when it applies because of the particular characteristics of that institution, not simply because of 
+
+its business model (or models).  Thus, the designation of a nonbanking firm as systemically 
+
+important by the Financial Stability Oversight Council (FSOC) under the authority of the Dodd-
+
+Frank Act is made because the size, portfolios, activities, and other characteristics of the specific 
+
+firm are found on an individualized basis to meet the statutory standard of nonbank systemic 
+
+importance.  Similarly, the determination of the capital surcharge applicable to SIFIs is made on 
+
+the basis of the particular “systemic footprint” of the firm. 
+
+Finally, a transaction-based requirement is one that would be binding on anyone involved 
+
+in such a transaction (with perhaps some de minimis exceptions), regardless of their status as a 
+
+particular kind of financial intermediary.  An example would be the minimum margining 
+
+requirements on securities financing transactions that have been agreed to at the Financial 
+
+Stability Board (FSB), which the Federal Reserve will be proposing through a rulemaking next 
+
+year. 
+
+Of course, a particular firm may be a target under two, or possibly all three, approaches.  
+
+But it is important to identify clearly why a regulation is deemed necessary and, accordingly, 
+
+how it should be targeted.  In the framework I have set forth, for example, institution-specific 
+
+measures may be thought of as those needed to protect financial stability even though a firm is 
+
+already subject to business model regulation.  And a transaction-based measure may be thought 
+
+of as one needed to protect financial stability regardless of whether all entities that might engage 
+
+in such a transaction need to be regulated because of the risks associated with their business 
+
+models. 
+
+
+11 
+ 
+
+My third set of questions pertains to the scope and allocation of government authority for 
+
+financial regulation.  With some relatively modest exceptions, authority in the New Deal regime 
+
+was determined based on the distinct regulatory aims established for different kinds of financial 
+
+intermediaries, the oversight of which was assigned to different agencies.  The allocation 
+
+basically followed the Glass-Steagall Act’s separation of commercial and investment banking.  
+
+But, over time, both markets and regulatory change complicated this fairly simple picture:  
+
+markets complicated this as both banks and broker-dealers invented new ways of doing business 
+
+that allowed each to take on risks previously reserved for the other, and regulatory changes saw 
+
+shifts in the relationship of the Federal Reserve’s authority as holding company regulator and 
+
+that of the SEC or Commodity Futures Trading Commission as primary regulator of important 
+
+nonbank holding company subsidiaries. 
+
+The additional regulatory authorities and mandates in the Dodd-Frank Act have created a 
+
+quite different landscape from the pre-crisis regulatory terrain.  Many of these authorities and 
+
+mandates are explicitly tied to financial stability goals--a sharp departure from pre-crisis 
+
+circumstances.  Many must be exercised jointly by two or more agencies--in rulemakings, 
+
+implementation, or both.  And, of course, the Dodd-Frank Act created the FSOC--an unusual 
+
+entity in U.S. administrative law. 
+
+Appreciating this new configuration of authorities is important as a positive matter for 
+
+understanding how regulation will be shaped over time and identifying possible remaining gaps 
+
+in regulatory authority.  It is also important as a normative matter in considering whether the 
+
+allocation of authorities proves optimal over time.  Here one would want to look at factors of 
+
+efficacy, expertise, and excessive concentrations of authority, among others.  In this regard, I 
+
+
+12 
+ 
+
+would suggest that a comparison of the reconfigured financial regulatory system in the United 
+
+Kingdom serves as an instructive counterpoint to the U.S. system. 
+
+Some Thoughts on Post-Crisis Scholarship Topics and Pedagogy 
+
+Scholarship 
+
+Insofar as I have succeeded in identifying questions that will be central to the further 
+
+development and refinement of a regulatory system that takes account of the financial system as 
+
+a whole, all of what I have already said should be fertile ground for legal and economic 
+
+scholarship.  However, not every important topic for research fits neatly into one of these cross-
+
+cutting issues, so let me mention some policy issues that may especially benefit from academic 
+
+work. 
+
+First is the issue of measures and standards for evaluating systemic risk.  Numerous 
+
+financial economists have done very useful work in creating metrics for the systemic importance 
+
+of financial institutions--a literature that has already informed regulatory efforts to designate and 
+
+categorize such institutions and, as it develops further, will surely continue to do so.5  But there 
+
+are also specific legal standards, such as the financial stability factor now mandated in the review 
+
+of proposed bank and holding company mergers, that could also benefit from academic work.6 
+
+Second is the set of issues associated with corporate governance in a prudentially 
+
+regulated institution.  John Armour, Lucien Bebchuk, Jeff Gordon, Jon Macey, and others have 
+
+already tackled some of these issues--such as incentive compensation arrangements, the 
+
+                                                           
+5 Tobias Adrian and Markus K. Brunnermeier (2016), “CoVaR,” American Economic Review, vol. 106 (July), pp. 
+1705-41; Fernando Duarte and Thomas M. Eisenback (2013; revised 2015), “Fire-Sale Spillovers and Systemic 
+Risk,” Federal Reserve Bank of New York Staff Report, no. 645; and Christian T. Brownlees and Robert F. Engle 
+(2016), “SRISK: A Conditional Capital Shortfall Measure of Systemic Risk,” available at 
+https://ssrn.com/abstract=1611229 or http://dx.doi.org/10.2139/ssrn.1611229. 
+6 Daniel K. Tarullo (2012), “Financial Stability Regulation,” speech given at the University of Pennsylvania School 
+of Law Distinguished Jurist Lecture, Philadelphia, PA, October 10. 
+ 
+
+
+13 
+ 
+
+appropriate duties for boards of directors in such institutions, and the appropriate scope of 
+
+supervisory expectations for boards.7  These issues remain worthy of discussion.  The preceding 
+
+questions and others, such as the advisability of a requirement for a non-executive chair of the 
+
+board, have only grown in significance since I spoke to this topic a couple of years ago.8 
+
+Third is the subject of overseeing the regulators, which includes such matters as the 
+
+advisability of publicly releasing some or all supervisory ratings and informal enforcement 
+
+actions.  You may recall that our decision in 2009 to release the results of our stress test--a 
+
+practice that we have continued in subsequent years--was quite controversial, but has proven to 
+
+be enormously helpful both for giving investors in the firms and the public a better sense for how 
+
+the Federal Reserve is conducting its capital regulation policies. 
+
+Fourth is the rather broad topic of the implications of technological innovation for 
+
+financial services regulation and, indeed, for the competitive position of insured depository 
+
+institutions.  Many innovations now promising dramatic change in the way that credit is 
+
+extended will probably end up having considerably less impact.  But some could prove 
+
+significant.  I suspect that innovations in payments systems are quite likely to have far-reaching 
+
+effects, including the growth of what might be termed the “shadow payment system” at the retail 
+
+level.  Here, by the way, I am departing a bit from my self-limitation to prudential issues, since 
+
+consumer protection issues around alternative payments systems may be quite significant. 
+
+                                                           
+7 See, e.g., John Armour and Jeffrey Gordon (2014), “Systemic Harms and Shareholder Value,” Journal of Legal 
+Analysis, vol. 6, no. 1 (Spring), pp. 35-85; Lucian A. Bebchuk and Holger Spamann (2010), “Regulating Bankers’ 
+Pay,” Georgetown Law Journal, vol. 98, no. 2, pp. 247-87; Jonathan Macey and Maureen O’Hara (2016), “Bank 
+Corporate Governance: A Proposal for the Post-Crisis World,” Federal Reserve Bank of New York, Economic 
+Policy Review, vol. 22, no. 1 (August), pp. 85-105.  
+8 Daniel K. Tarullo (2014), “Corporate Governance and Prudential Regulation,” speech given at the Association of 
+American Law Schools 2014 Midyear Meeting, Washington, DC, June 9. 
+ 
+
+
+14 
+ 
+
+Fifth is the organization of the international system for financial regulation.  The issues 
+
+here are in some sense familiar from pre-crisis days:  To what degree can host countries 
+
+responsibly rely on home jurisdiction consolidated regulation and supervision of large and 
+
+internationally active financial institutions?  How should international cooperative efforts to set 
+
+minimum prudential standards be brought together with domestic legal processes for financial 
+
+regulation?  These familiar questions have taken on new significance in light of the post-crisis 
+
+emphasis on the financial system as a whole, including the varieties of shadow banking.  So too 
+
+the differing circumstances and legal systems of notable financial jurisdictions, which raise anew 
+
+the question of how much international harmonization is ultimately desirable.  The creation of 
+
+the FSB, and greater emphasis on international standards in the International Organization of 
+
+Securities Commissions and the International Association of Insurance Supervisors have 
+
+substantially changed the relevant international organization chart from the days when only the 
+
+Basel Committee on Banking Supervision produced such standards.  
+
+Pedagogy 
+
+Having not taught financial regulation since the interesting months of the fall 2008 
+
+semester, I am probably at a comparative disadvantage to most of this audience in reflecting on 
+
+the new pedagogy of financial regulation.  However, that will not stop me from making a couple 
+
+of comments--though only a couple--on the core topic of this conference. 
+
+First, I would urge everyone teaching in this area to place much more emphasis on the 
+
+liability side of the balance sheets of financial institutions.  Traditional banking law casebooks 
+
+gave some treatment to deposits and deposit insurance, which provided a good point in a course 
+
+to engage students on the subject of moral hazard.  But the whole concept of runnable liabilities--
+
+whether uninsured deposits, repo, commercial paper, or other forms--was left largely untouched, 
+
+
+15 
+ 
+
+even for commercial banks, much less for broker-dealers like Lehman Brothers or insurance 
+
+holding companies like AIG.  And, of course, in the pre-crisis period there was no quantitative 
+
+liquidity regulation to include in a casebook. 
+
+Yet the financial crisis was, at least in its more virulent periods, as much a funding crisis 
+
+as it was a solvency crisis.  Indeed, the very fact that it may be difficult to distinguish clearly 
+
+between the two is indicative of the primacy of funding to the crisis.  Particularly in the context 
+
+of systemic risk, funding and liquidity issues accordingly deserve something close to the 
+
+attention devoted to capital if students are to understand the origins of the crisis, the regulatory 
+
+response, and the challenges of regulation going forward.  A focus on liabilities will help 
+
+students understand why, for example, the Federal Reserve plans on setting capital standards 
+
+differently for traditional insurance companies (that is, not the pre-crisis AIG) than for bank 
+
+holding companies and their affiliates.  An emphasis on runnable funding will help them see why 
+
+systemic concerns extend beyond SIFIs as such.  It also provides a good occasion for introducing 
+
+students to the role of a lender of last resort, now perhaps more of a contested concept than had 
+
+previously been assumed. 
+
+I have considerably less conviction regarding my second comment, but I offer it anyway, 
+
+perhaps to contribute to the pedagogical discussions that will be bred by this conference.  Let me 
+
+preface the observation by noting that were I to teach financial regulation again, the course 
+
+would have to differ markedly from that fall 2008 version.  Still, I wonder whether students will 
+
+acquire a strong enough foundation for understanding how a financial regulatory system works 
+
+in a course that is taught essentially as a survey of financial regulatory issues, without some point 
+
+of reference to which they can return as they proceed through the course (or, more probably, as 
+
+they cram for the exam).  I was always struck by how much of a conceptual anchor for a banking 
+
+
+16 
+ 
+
+law course was provided by the famous Corrigan/Aspinwall debate on whether banks were 
+
+“special.”9  One could note, for example, that Aspinwall’s observation that banks were becoming 
+
+less special might have suggested that other forms of intermediaries should be more regulated, 
+
+rather than the implication that banks should be less regulated.  Indeed, my rereading of the 
+
+companion pieces suggests that despite--or maybe because of--the fact that the debate is now 
+
+more than 30 years old, it might profitably introduce a course that ventures well beyond 
+
+traditional banking regulation, by its invitation to consider why we regulate in the first place. 
+
+Conclusion 
+
+I began teaching in this area just as the Gramm-Leach-Bliley Act was culminating three 
+
+decades of bank deregulation.  At the time, I suggested to students that the regulation of banking 
+
+organizations was in an unstable equilibrium.  While I initially meant the adjective mostly to 
+
+refer to doctrine, it became progressively more applicable to the financial system itself.  The 
+
+implementation of the regulatory aims established after the crisis, along with the inevitable 
+
+refinements of what has already been done, will continue to play out for some time.  The upshot, 
+
+I think, is both an unusually important time to be researching and writing in this area and an 
+
+unusually challenging time to be teaching it.  This conference has been an excellent occasion for 
+
+helping to shape both a research agenda and a new pedagogy. 
+
+                                                           
+9 See E. Gerald Corrigan (1982), “Are Banks Special?” Federal Reserve Bank of Minneapolis Annual Report, 
+available at www.minneapolisfed.org/publications/annual-reports/are-banks-special; and Richard Aspinwall (1983), 
+“On the ‘Specialness’ of Banking,” Issues in Banking Regulation, vol. 7 (Autumn), pp. 16-22. 
+

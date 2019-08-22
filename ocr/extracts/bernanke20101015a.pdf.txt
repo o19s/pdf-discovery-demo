@@ -1,0 +1,883 @@
+
+For release on delivery 
+8:15 a.m. EDT 
+October 15, 2010 
+ 
+
+
+Monetary Policy Objectives and Tools in a Low-Inflation Environment 
+ 
+ 
+ 
+
+Remarks by 
+ 
+
+Ben S. Bernanke 
+ 
+
+Chairman 
+ 
+
+Board of Governors of the Federal Reserve System 
+ 
+
+at  
+ 
+
+“Revisiting Monetary Policy in a Low-Inflation Environment” 
+ 
+
+a Conference Sponsored by the Federal Reserve Bank of Boston 
+ 
+
+Boston, Massachusetts 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+October 15, 2010 
+
+
+
+The topic of this conference--the formulation and conduct of monetary policy in a 
+
+low-inflation environment--is timely indeed.  From the late 1960s until a decade or so 
+
+ago, bringing inflation under control was viewed as the greatest challenge facing central 
+
+banks around the world.  Through the application of improved policy frameworks, 
+
+involving both greater transparency and increased independence from short-term political 
+
+influences, as well as through continued focus and persistence, central banks have largely 
+
+achieved that goal.  In turn, the progress against inflation increased the stability and 
+
+predictability of the economic environment and thus contributed significantly to 
+
+improvements in economic performance, not least in many emerging market nations that 
+
+in previous eras had suffered bouts of very high inflation.  Moreover, success greatly 
+
+enhanced the credibility of central banks’ commitment to price stability, and that 
+
+credibility further supported stability and confidence.  Retaining that credibility is of 
+
+utmost importance.  
+
+Although the attainment of price stability after a period of higher inflation was a 
+
+landmark achievement, monetary policymaking in an era of low inflation has not proved 
+
+to be entirely straightforward.  In the 1980s and 1990s, few ever questioned the desired 
+
+direction for inflation; lower was always better.  During those years, the key questions 
+
+related to tactics:  How quickly should inflation be reduced?  Should the central bank be 
+
+proactive or “opportunistic” in reducing inflation?  As average inflation levels declined, 
+
+however, the issues became more complex.  The statement of the Federal Open Market 
+
+Committee (FOMC) following its May 2003 meeting was something of a watershed, in 
+
+that it noted that, in the Committee’s view, further disinflation would be “unwelcome.”  
+
+In other words, the risks to price stability had become two-sided:  With inflation close to 
+
+
+- 2 - 
+ 
+
+
+levels consistent with price stability, central banks, for the first time in many decades, 
+
+had to take seriously the possibility that inflation can be too low as well as too high. 
+
+A second complication for policymaking created by low inflation arises from the 
+
+fact that low inflation generally implies low nominal interest rates, which increase the 
+
+potential relevance for policymaking of the zero lower bound on interest rates.  Because 
+
+the short-term policy interest rate cannot be reduced below zero, the Federal Reserve and 
+
+central banks in other countries have employed nonstandard policies and approaches that 
+
+do not rely on reductions in the short-term interest rate.  We are still learning about the 
+
+efficacy and appropriate management of these alternative tools. 
+
+In the remainder of my remarks I will discuss these issues in the context of 
+
+current economic and policy developments.  I will comment on the near-term outlook for 
+
+economic activity and inflation.  I will then compare that outlook to some quantitative 
+
+measures of the Federal Reserve’s objectives, namely, the longer-run outcomes that 
+
+FOMC participants judge to be most consistent with its dual mandate of maximum 
+
+employment and price stability.  Finally, I will observe that, in a world in which the 
+
+policy interest rate is close to zero, the Committee must consider the costs and risks 
+
+associated with the use of nonconventional tools when it assesses whether additional 
+
+policy accommodation is likely to be beneficial on net. 
+
+The Outlook for Growth and Employment 
+
+The arbiters across the river in Cambridge, the business cycle dating committee of 
+
+the National Bureau of Economic Research, recently made their determination:  An 
+
+economic recovery began in the United States in July 2009, following a series of forceful 
+
+actions by central banks and other policymakers around the world that helped stabilize 
+
+
+- 3 - 
+ 
+
+
+the financial system and restore more-normal functioning to key financial markets.  The 
+
+initial upturn in activity, which was reasonably strong, reflected a number of factors, 
+
+including efforts by firms to better align their inventories with their sales, expansionary 
+
+monetary and fiscal policies, improved financial conditions, and a pickup in export 
+
+growth.  However, factors such as fiscal policy and the inventory cycle can provide only 
+
+a temporary impetus to recovery.  Sustained expansion must ultimately be driven by 
+
+growth in private final demand, including consumer spending, business and residential 
+
+investment, and net exports.  That handoff is currently under way.  However, with growth 
+
+in private final demand having so far proved relatively modest, overall economic growth 
+
+has been proceeding at a pace that is less vigorous than we would like. 
+
+In particular, consumer spending has been inhibited by the painfully slow 
+
+recovery in the labor market, which has restrained growth in wage income and has raised 
+
+uncertainty about job security and employment prospects.  Since June, private-sector 
+
+employers have added, on net, an average of only about 85,000 workers per month--not 
+
+enough to bring the unemployment rate down significantly.  
+
+Consumer spending in the quarters ahead will depend importantly on the pace of 
+
+job creation but also on households’ ability to repair their financial positions.  Some 
+
+progress is being made on this front.  Saving rates are up noticeably from pre-crisis 
+
+levels, and household assets have risen, on net, over recent quarters, while debt and debt 
+
+service payments have declined markedly relative to income.1  Together with expected 
+
+further easing in credit terms and conditions offered by lenders, stronger balance sheets 
+
+should eventually provide households the confidence and the wherewithal to increase 
+
+                                                 
+1 Some of the reduction in household debt burdens is the result of defaults and writedowns rather than 
+higher saving. 
+
+
+- 4 - 
+ 
+
+
+their pace of spending.  That said, progress has been and is likely to be uneven, as the 
+
+process of balance sheet repair remains impeded to some extent by elevated 
+
+unemployment, lower home values, and limited ability to refinance existing mortgages.   
+
+Household finances and attitudes also have an important influence on the housing 
+
+market, which has remained depressed, notwithstanding reduced house prices and record-
+
+low mortgage rates.  The overhang of foreclosed properties and vacant homes remains a 
+
+significant drag on house prices and residential investment. 
+
+In the business sector, indicators such as new orders and business sentiment 
+
+suggest that growth in spending on equipment and software has slowed relative to its 
+
+rapid pace earlier this year.  Investment in nonresidential structures continues to contract, 
+
+reflecting stringent financing conditions and high vacancy rates for commercial real 
+
+estate.  The availability of credit to finance investment and expand business operations 
+
+remains quite uneven:  Generally speaking, large firms in good financial condition can 
+
+obtain credit in capital markets easily and on favorable terms.  Larger firms also hold 
+
+considerable amounts of cash on their balance sheets.  By contrast, surveys and anecdotes 
+
+indicate that bank-dependent smaller firms continue to face significantly greater problems 
+
+in obtaining credit, reflecting in part weaker balance sheets and income prospects that 
+
+limit their ability to qualify for loans as well as tight lending standards and terms on the 
+
+part of banks.  The Federal Reserve and other banking regulators have been making 
+
+significant efforts to improve the credit environment for small businesses, and we have 
+
+seen some positive signs.  In particular, banks are no longer tightening lending standards 
+
+and terms and are reportedly becoming more proactive in seeking out creditworthy 
+
+borrowers. 
+
+
+- 5 - 
+ 
+
+
+Although the pace of recovery has slowed in recent months and is likely to 
+
+continue to be fairly modest in the near term, the preconditions for a pickup in growth 
+
+next year remain in place.  Stronger household finances, a further easing of credit 
+
+conditions, and pent-up demand for consumer durable goods should all contribute to a 
+
+somewhat faster pace of household spending.  Similarly, business investment in 
+
+equipment and software should grow at a reasonably rapid pace next year, driven by 
+
+rising sales, an ongoing need to replace obsolete or worn-out equipment, strong corporate 
+
+balance sheets, and low financing costs.  In the public sector, the tax receipts of state and 
+
+local governments have started to recover, which should allow their spending to stabilize 
+
+gradually.  The contribution of federal fiscal stimulus to overall growth is expected to 
+
+decline steadily over coming quarters but not so quickly as to derail the recovery.  
+
+Continued solid expansion among the economies of our trading partners should also help 
+
+to support foreign sales and growth in the United States.  
+
+Although output growth should be somewhat stronger in 2011 than it has been 
+
+recently, growth next year seems unlikely to be much above its longer-term trend.  If so, 
+
+then net job creation may not exceed by much the increase in the size of the labor force, 
+
+implying that the unemployment rate will decline only slowly.  That prospect is of central 
+
+concern to economic policymakers, because high rates of unemployment--especially 
+
+longer-term unemployment--impose a very heavy burden on the unemployed and their 
+
+families.  More broadly, prolonged high unemployment would pose a risk to consumer 
+
+spending and hence to the sustainability of the recovery.   
+
+
+- 6 - 
+ 
+
+
+The Outlook for Inflation 
+
+Let me turn now to the outlook for inflation.  Generally speaking, measures of 
+
+underlying inflation have been trending downward.  For example, so-called core PCE 
+
+price inflation (which is based on the broad-based price index for personal consumption 
+
+expenditures and excludes the volatile food and energy components of the overall index) 
+
+has declined from approximately 2.5 percent at an annual rate in the early stages of the 
+
+recession to an annual rate of about 1.1 percent over the first eight months of this year.  
+
+The overall PCE price inflation rate, which includes food and energy prices, has been 
+
+highly volatile in the past few years, in large part because of sharp fluctuations in oil 
+
+prices.  However, so far this year the overall inflation rate has been about the same as the 
+
+core inflation rate.   
+
+The significant moderation in price increases has been widespread across many 
+
+categories of spending, as is evident from various measures that exclude the most 
+
+extreme price movements in each period.  For example, the so-called trimmed mean 
+
+consumer price index (CPI) has risen by only 0.9 percent over the past 12 months, and a 
+
+related measure, the median CPI, has increased by only 0.5 percent over the same 
+
+period.2 
+
+The decline in underlying inflation importantly reflects the extent to which cost 
+
+pressures have been restrained by substantial slack in the utilization of productive 
+
+resources.  Notably, the unemployment rate remains fairly close to last fall’s peak and is 
+
+                                                 
+2 Trimmed-mean and median CPI measures are published regularly by the Federal Reserve Bank of 
+Cleveland; these indicators are constructed using the distribution of monthly price changes for the 
+disaggregated components of the CPI.  The median CPI inflation rate is the price change at the center of 
+this distribution, and the trimmed-mean CPI inflation rate is a weighted average of all components 
+excluding the most extreme price increases and decreases.  For further information, see 
+www.clevelandfed.org/research/data/us-inflation/chartsdata/index.cfm. 
+
+
+- 7 - 
+ 
+
+
+currently about 5 percentage points above the rates that prevailed just before the onset of 
+
+the financial crisis.  
+
+In gauging the magnitude of prevailing resource slack and the associated restraint 
+
+on price and wage increases, it is essential to consider the extent to which structural 
+
+factors may be contributing to elevated rates of unemployment.  For example, the 
+
+continuing high level of permanent job losers may be a sign that structural impediments--
+
+such as barriers to worker mobility or mismatches between the skills that workers have 
+
+and the ones that employers require--are hindering unemployed individuals from finding 
+
+new jobs.  The recent behavior of unemployment and job vacancies--somewhat more 
+
+vacancies are reported than would usually be the case given the number of people looking 
+
+for work--is also suggestive of some increase in the level of structural unemployment.  
+
+On the other hand, we see little evidence that the reallocation of workers across industries 
+
+and regions is particularly pronounced relative to other periods of recession, suggesting 
+
+that the pace of structural change is not greater than normal.  Moreover, previous post-
+
+World-War-II recessions do not seem to have resulted in higher structural unemployment, 
+
+which many economists attribute to the relative flexibility of the U.S. labor market.  
+
+Overall, my assessment is that the bulk of the increase in unemployment since the 
+
+recession began is attributable to the sharp contraction in economic activity that occurred 
+
+in the wake of the financial crisis and the continuing shortfall of aggregate demand since 
+
+then, rather than to structural factors. 3  
+
+                                                 
+3 Recent empirical studies assessing the magnitude of shifts in the sustainable rate of unemployment--the 
+portion of unemployment not attributable to temporary cyclical factors--include Barnichon and Figura 
+(2010), Dickens (2009), Dowling, Estevão, and Tsounta (2010), Fleischman and Roberts (2010), Fujita 
+(2010), Lindner and Tasci (2010), and Kuang and Valletta (2010). 
+
+
+- 8 - 
+ 
+
+
+The public’s expectations for inflation also importantly influence inflation 
+
+dynamics.  Indicators of longer-term inflation expectations have generally been stable in 
+
+the wake of the financial crisis.  For example, in the Federal Reserve Bank of 
+
+Philadelphia’s Survey of Professional Forecasters, the median projection for the annual 
+
+average inflation rate for personal consumption expenditures over the next 10 years has 
+
+remained close to 2 percent.  Surveys of households likewise show that longer-term 
+
+inflation expectations have been relatively stable.  In the financial markets, measures of 
+
+inflation compensation at longer horizons (computed from the spread between yields on 
+
+nominal and inflation-indexed Treasury securities) have moved down, on net, this year 
+
+but remain within their historical ranges.  With long-run inflation expectations stable and 
+
+with substantial resource slack continuing to restrain cost pressures, it seems likely that 
+
+inflation trends will remain subdued for some time. 
+
+The Objectives of Monetary Policy 
+
+To evaluate policy alternatives and explain policy choices to the public, it is 
+
+essential not only to forecast the economy, but to compare that forecast to the objectives 
+
+of policy.  Clear communication about the longer-run objectives of monetary policy is 
+
+beneficial at all times but is particularly important in a time of low inflation and uncertain 
+
+economic prospects such as the present.  Improving the public’s understanding of the 
+
+central bank’s policy strategy reduces economic and financial uncertainty and helps 
+
+households and firms make more-informed decisions.  Moreover, clarity about goals and 
+
+strategies can help anchor the public’s longer-term inflation expectations more firmly and 
+
+thereby bolsters the central bank’s ability to respond forcefully to adverse shocks.4  
+
+                                                 
+4 See Bernanke (2007). 
+
+
+- 9 - 
+ 
+
+
+The Federal Reserve has a statutory mandate to foster maximum employment and 
+
+price stability, and explaining how we are working toward those goals plays a crucial role 
+
+in our monetary policy strategy.  It is evident that neither of our dual objectives can be 
+
+taken in isolation:  On the one hand, a central bank that aimed to achieve the highest 
+
+possible level of employment in the short run, without regard to other considerations, 
+
+might well generate unacceptable levels of inflation without any permanent benefits in 
+
+terms of employment.  On the other hand, a single-minded focus by the central bank on 
+
+price stability, with no attention at all to other factors, could lead to more frequent and 
+
+deeper slumps in economic activity and employment with little benefit in terms of long-
+
+run inflation performance.   
+
+Recognizing the interactions between the two parts of our mandate, the FOMC 
+
+has found it useful to frame our dual mandate in terms of the longer-run sustainable rate 
+
+of unemployment and the mandate-consistent inflation rate.  The longer-run sustainable 
+
+rate of unemployment is the rate of unemployment that the economy can maintain 
+
+without generating upward or downward pressure on inflation.  Because a healthy 
+
+economy must allow for the destruction and creation of jobs, as well as for movements of 
+
+workers between jobs and in and out of the labor force, the longer-run sustainable rate of 
+
+unemployment is greater than zero.  Similarly, the mandate-consistent inflation rate--the 
+
+inflation rate that best promotes our dual objectives in the long run--is not necessarily 
+
+zero; indeed, Committee participants have generally judged that a modestly positive 
+
+inflation rate over the longer run is most consistent with the dual mandate.  (The view 
+
+that policy should aim for an inflation rate modestly above zero is shared by virtually all 
+
+central banks around the world.)  Several rationales can be provided for this judgment, 
+
+
+- 10 - 
+ 
+
+
+including upward biases in the measurement of inflation.  A rationale that is particularly 
+
+relevant today is that maintaining an “inflation buffer” (that is, an average inflation rate 
+
+greater than zero) allows for a somewhat higher average level of nominal interest rates, 
+
+which in turn gives the Federal Reserve greater latitude to reduce the target federal funds 
+
+rate when needed to stimulate increased economic activity and employment.  A modestly 
+
+positive inflation rate also reduces the probability that the economy could fall into 
+
+deflation, which under some circumstances can lead to significant economic problems. 
+
+Although attaining the long-run sustainable rate of unemployment and achieving 
+
+the mandate-consistent rate of inflation are both key objectives of monetary policy, the 
+
+two objectives are somewhat different in nature.  Most importantly, whereas monetary 
+
+policymakers clearly have the ability to determine the inflation rate in the long run, they 
+
+have little or no control over the longer-run sustainable unemployment rate, which is 
+
+primarily determined by demographic and structural factors, not by monetary policy.  
+
+Thus, while central bankers can choose the value of inflation they wish to target, the 
+
+sustainable unemployment rate can only be estimated, and is subject to substantial 
+
+uncertainty.  Moreover, the sustainable rate of unemployment typically evolves over time 
+
+as its fundamental determinants change, whereas keeping inflation expectations firmly 
+
+anchored generally implies that the inflation objective should remain constant unless 
+
+there are compelling technical reasons for changing it, such as changes in the methods 
+
+used to measure inflation. 
+
+In recent years, the Federal Reserve has taken important steps to more clearly 
+
+communicate its outlook and longer-run objectives.  Since the fall of 2007, the Federal 
+
+Reserve has been publishing the “Summary of Economic Projections” (SEP) four times a 
+
+
+- 11 - 
+ 
+
+
+year in conjunction with the FOMC minutes.  The SEP provides summary statistics and 
+
+an accompanying narrative regarding the projections of FOMC participants--that is, the 
+
+Board members and the Reserve Bank presidents--for the growth rate of real gross 
+
+domestic product (GDP), the unemployment rate, core inflation, and headline inflation 
+
+over the next several calendar years.  Since early 2009, the SEP has also included 
+
+information about FOMC participants’ longer-run projections for the rates of economic 
+
+growth, unemployment, and inflation to which the economy is expected to converge over 
+
+time, in the absence of further shocks and under appropriate monetary policy.  Because 
+
+appropriate monetary policy, by definition, is aimed at achieving the Federal Reserve’s 
+
+objectives in the longer run, FOMC participants’ longer-run projections for economic 
+
+growth, unemployment, and inflation may be interpreted, respectively, as estimates of the 
+
+economy’s longer-run potential growth rate, the longer-run sustainable rate of 
+
+unemployment, and the mandate-consistent rate of inflation.   
+
+The most recent release of the SEP was in June, and I will refer to those 
+
+projections here, noting that new projections will be released with the minutes of the next 
+
+FOMC meeting, in early November.   
+
+The longer-run inflation projections in the SEP indicate that FOMC participants 
+
+generally judge the mandate-consistent inflation rate to be about 2 percent or a bit below.  
+
+In contrast, as I noted earlier, recent readings on underlying inflation have been 
+
+approximately 1 percent.  Thus, in effect, inflation is running at rates that are too low 
+
+relative to the levels that the Committee judges to be most consistent with the Federal 
+
+Reserve’s dual mandate in the longer run.  In particular, at current rates of inflation, the 
+
+constraint imposed by the zero lower bound on nominal interest rates is too tight (the 
+
+
+- 12 - 
+ 
+
+
+short-term real interest rate is too high, given the state of the economy), and the risk of 
+
+deflation is higher than desirable.  Given that monetary policy works with a lag, the more 
+
+relevant question is whether this situation is forecast to continue.  In light of the recent 
+
+decline in inflation, the degree of slack in the economy, and the relative stability of 
+
+inflation expectations, it is reasonable to forecast that underlying inflation--setting aside 
+
+the inevitable short-run volatility--will be less than the mandate-consistent inflation rate 
+
+for some time.  Of course, forecasts of inflation, as of other key economic variables, are 
+
+uncertain and must be regularly updated with the arrival of new information. 
+
+As of June, the longer-run unemployment projections in the SEP had a central 
+
+tendency of about 5 to 5-1/4 percent--about 1/4 percentage point higher than a year 
+
+earlier--and a couple of participants’ projections were even higher at around 6 to 
+
+6-1/4 percent.  The evolution of these projections and the diversity of views reflect the 
+
+characteristics that I noted earlier:  The sustainable rate of unemployment may vary over 
+
+time, and estimates of its value are subject to considerable uncertainty.  Nonetheless, with 
+
+an actual unemployment rate of nearly 10 percent, unemployment is clearly too high 
+
+relative to estimates of its sustainable rate.  Moreover, with output growth over the next 
+
+year expected to be only modestly above its longer-term trend, high unemployment is 
+
+currently forecast to persist for some time.  
+
+Monetary Policy Tools:  Benefits and Costs 
+
+Given the Committee’s objectives, there would appear--all else being equal--to be 
+
+a case for further action.  However, as I indicated earlier, one of the implications of a 
+
+low-inflation environment is that policy is more likely to be constrained by the fact that 
+
+nominal interest rates cannot be reduced below zero.  Indeed, the Federal Reserve 
+
+
+- 13 - 
+ 
+
+
+reduced its target for the federal funds rate to a range of 0 to 25 basis points almost two 
+
+years ago, in December 2008.  Further policy accommodation is certainly possible even 
+
+with the overnight interest rate at zero, but nonconventional policies have costs and 
+
+limitations that must be taken into account in judging whether and how aggressively they 
+
+should be used.  
+
+For example, a means of providing additional monetary stimulus, if warranted, 
+
+would be to expand the Federal Reserve’s holdings of longer-term securities.5  Empirical 
+
+evidence suggests that our previous program of securities purchases was successful in 
+
+bringing down longer-term interest rates and thereby supporting the economic recovery.6  
+
+A similar program conducted by the Bank of England also appears to have had benefits. 
+
+However, possible costs must be weighed against the potential benefits of 
+
+nonconventional policies.  One disadvantage of asset purchases relative to conventional 
+
+monetary policy is that we have much less experience in judging the economic effects of 
+
+this policy instrument, which makes it challenging to determine the appropriate quantity 
+
+and pace of purchases and to communicate this policy response to the public.  These 
+
+factors have dictated that the FOMC proceed with some caution in deciding whether to 
+
+engage in further purchases of longer-term securities.  
+
+Another concern associated with additional securities purchases is that substantial 
+
+further expansion of the balance sheet could reduce public confidence in the Fed’s ability 
+
+to execute a smooth exit from its accommodative policies at the appropriate time.  Even if 
+
+unjustified, such a reduction in confidence might lead to an undesired increase in 
+
+inflation expectations, to a level above the Committee’s inflation objective.  To address 
+
+                                                 
+5 For further discussion of unconventional policy tools, see Bernanke (2010a). 
+6 See Gagnon and others (2010), D’Amico and King (2010), and Hamilton and Wu (2010). 
+
+
+- 14 - 
+ 
+
+
+such concerns and to ensure that it can withdraw monetary accommodation smoothly at 
+
+the appropriate time, the Federal Reserve has developed an array of new tools.7  With 
+
+these tools in hand, I am confident that the FOMC will be able to tighten monetary 
+
+conditions when warranted, even if the balance sheet remains considerably larger than 
+
+normal at that time. 
+
+Central bank communication provides additional means of increasing the degree 
+
+of policy accommodation when short-term nominal interest rates are near zero.  For 
+
+example, FOMC postmeeting statements have included forward policy guidance since 
+
+December 2008, and the most recent statements have reflected the FOMC’s anticipation 
+
+that exceptionally low levels of the federal funds rate are likely to be warranted “for an 
+
+extended period,” contingent on economic conditions.  A step the Committee could 
+
+consider, if conditions called for it, would be to modify the language of the statement in 
+
+some way that indicates that the Committee expects to keep the target for the federal 
+
+funds rate low for longer than markets expect.  Such a change would presumably lower 
+
+longer-term rates by an amount related to the revision in policy expectations.  A potential 
+
+drawback of using the FOMC’s statement in this way is that, at least without a more 
+
+comprehensive framework in place, it may be difficult to convey the Committee’s policy 
+
+intentions with sufficient precision and conditionality.  The Committee will continue to 
+
+actively review its communications strategy with the goal of providing as much clarity as 
+
+possible about its outlook, policy objectives, and policy strategies. 
+
+Conclusion 
+
+In short, there are clearly many challenges in communicating and conducting 
+
+monetary policy in a low-inflation environment, including the uncertainties associated 
+                                                 
+7 See Bernanke (2010b). 
+
+
+- 15 - 
+ 
+
+
+with the use of nonconventional policy tools.  Despite these challenges, the Federal 
+
+Reserve remains committed to pursuing policies that promote our dual objectives of 
+
+maximum employment and price stability.  In particular, the FOMC is prepared to 
+
+provide additional accommodation if needed to support the economic recovery and to 
+
+return inflation over time to levels consistent with our mandate.  Of course, in 
+
+considering possible further actions, the FOMC will take account of the potential costs 
+
+and risks of nonconventional policies, and, as always, the Committee’s actions are 
+
+contingent on incoming information about the economic outlook and financial conditions. 
+
+
+
+
+- 16 - 
+ 
+
+
+References 
+ 
+Barnichon, Regis, and Andrew Figura (2010).  “What Drives Movements in the 
+
+Unemployment Rate?  A Decomposition of the Beveridge Curve,” Finance and 
+Economics Discussion Series 2010-48.  Washington:  Board of Governors of the 
+Federal Reserve System, August, available at 
+www.federalreserve.gov/Pubs/feds/2010/201048/201048pap.pdf.  
+
+ 
+Bernanke, Ben (2007).  “Federal Reserve Communications,” speech delivered at the Cato 
+
+Institute 25th Annual Monetary Conference, Washington, November 14, 
+www.federalreserve.gov/newsevents/speech/bernanke20071114a.htm. 
+
+ 
+Bernanke, Ben (2010a).  “The Economic Outlook and Monetary Policy,” speech 
+
+delivered at “Macroeconomic Challenges:  The Decade Ahead,” a symposium 
+sponsored by the Federal Reserve Bank of Kansas City, held in Jackson Hole, 
+Wyo., August 26-28, 
+www.federalreserve.gov/newsevents/speech/bernanke20100827a.htm. 
+
+ 
+Bernanke, Ben (2010b).  “Monetary Policy Report to the Congress,” statement before the 
+
+Committee on Banking, Housing, and Urban Affairs, U.S. Senate, July 21, 
+www.federalreserve.gov/newsevents/testimony/bernanke20100721a.htm. 
+
+ 
+D’Amico, Stefania, and Thomas B. King (2010).  “Flow and Stock Effects of Large-
+
+Scale Treasury Purchases,” Finance and Economics Discussion Series 2010-52.  
+Washington:  Board of Governors of the Federal Reserve System, September, 
+available at www.federalreserve.gov/Pubs/feds/2010/201052/201052pap.pdf.  
+
+ 
+Dickens, William T. (2009).  “A New Method for Estimating Time Variation in the 
+
+NAIRU,” in Jeff Fuhrer, Jane S. Little, Yolanda K. Kodrzycki, and Giovanni P. 
+Olivei, eds., Understanding Inflation and the Implications for Monetary Policy:  
+A Phillips Curve Retrospective.  Cambridge, Mass.:  MIT Press, pp. 205-28. 
+
+ 
+Dowling, Thomas, Marcello Estevão, and Evridiki Tsounta (2010).  “The Great 
+
+Recession and Structural Unemployment,” in International Monetary Fund 
+Country Report, 10-248.  Washington:  IMF, July, pp. 4-13, available at 
+www.imf.org/external/pubs/ft/scr/2010/cr10248.pdf. 
+
+ 
+Fleischman, Charles, and John M. Roberts (2010).  “A Multivariate Estimate of Trends 
+
+and Cycles,” unpublished paper, Board of Governors of the Federal Reserve 
+System, Division of Research and Statistics, May.  
+
+ 
+Fujita, Shigeru (forthcoming).  “Economic Effects of the Unemployment Insurance 
+
+Benefit.”  Federal Reserve Bank of Philadelphia, Business Review, available at 
+www.philadelphiafed.org/research-and-data/economists/fujita/economic-effects-
+of-unemployment-insurance.pdf. 
+
+
+
+
+- 17 - 
+ 
+
+
+Gagnon, Joseph, Matthew Raskin, Julie Remache, and Brian Sack (2010).  “Large-Scale 
+Asset Purchases by the Federal Reserve:  Did They Work?”  Staff Report 
+No. 441.  New York:  Federal Reserve Bank of New York, March, available at 
+www.ny.frb.org/research/staff_reports/sr441.html. 
+
+ 
+Hamilton, James D., and Jing (Cynthia) Wu (2010).  “The Effectiveness of Alternative 
+
+Monetary Policy Tools in a Zero Lower Bound Environment,” working paper.  
+San Diego:  University of California, San Diego, August (revised October), 
+available at http://dss.ucsd.edu/~jhamilto/zlb.pdf. 
+
+ 
+Kuang, Katherine, and Rob Valletta (2010).  “Extended Unemployment and UI 
+
+Benefits,” Federal Reserve Bank of San Francisco, FRBSF Economic Letter, 
+2010-10, April 19, available at 
+www.frbsf.org/publications/economics/letter/2010/el2010-12.html.   
+
+ 
+Lindner, John, and Murat Tasci (2010).  “Has the Beveridge Curve Shifted?”  Federal 
+
+Reserve Bank of Cleveland, Economic Trends, August 10, available at 
+www.clevelandfed.org/research/trends/2010/0810/02labmar.cfm. 
+

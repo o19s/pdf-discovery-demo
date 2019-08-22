@@ -1,0 +1,663 @@
+
+
+
+For release on delivery 
+10:45 a.m. EDT 
+April 7, 2011 
+ 
+ 
+
+
+Community Bankers and Supervisors: Seeking Balance 
+ 
+ 
+ 
+ 
+ 
+
+Remarks by 
+ 
+ 
+
+Sarah Bloom Raskin 
+ 
+ 
+
+Member 
+ 
+ 
+
+Board of Governors of the Federal Reserve System 
+ 
+ 
+
+at the 
+ 
+ 
+
+Federal Reserve Bank of New York Community Bankers Conference 
+ 
+ 
+
+New York, New York 
+ 
+ 
+
+April 7, 2011
+
+
+
+
+Thank you for the opportunity to join you this morning.  Let me begin by saying that it’s 
+
+a pleasure for me to be among community bankers.  I used to be the banking commissioner in 
+
+Maryland and will always be grateful to the community bankers there who were crucial to 
+
+informing my views on effective bank regulation.  At the height of the mortgage crisis, those 
+
+same community bankers partnered with regulators like me to survey the wreckage and to 
+
+stabilize our communities as best we could.  Together, we confronted and weathered that searing 
+
+experience and learned many lessons along the way.  I’m here today to share with you some of 
+
+those lessons.   
+
+Although decisive action by policymakers has been successful in containing the crisis, we 
+
+should not presume that the experience of the crisis is over.  To be sure, the frantic days of 
+
+rushed mergers of major financial institutions; emergency applications of nonbanks to become 
+
+bank holding companies; and large-scale, targeted Federal Reserve programs to stabilize markets 
+
+and restore the flow of credit are behind us.  If we were doctors, we’d say that we had 
+
+successfully treated the worst symptoms of the illness.   
+
+But as we’ve learned from the other crises that are buffeting our world today, both natural 
+
+and man-made, rescue and containment are only the first steps.  Now we must address the 
+
+aftershocks of the subprime mortgage meltdown:  dislocation, joblessness, and loss of 
+
+confidence.   
+
+From a regulatory and supervisory perspective, we will certainly be dealing with the 
+
+long-term consequences of the crisis for years to come.  And, as we head toward an increasingly 
+
+healthy, but still highly complex and concentrated, post-crisis financial system, we must strive to 
+
+find the appropriate balance of responsibility between banks and supervisors.  I’m hoping to 
+
+open the dialogue about that today.  
+
+
+
+
+- 2 -
+
+A significant backdrop to the post-crisis financial architecture is the expansive federal 
+
+legislation that is known as the Dodd-Frank Wall Street Reform and Consumer Protection Act 
+
+(Dodd-Frank).  Broadly speaking, Dodd-Frank gives us a roadmap for updating the regulatory 
+
+framework of our financial system post-crisis, but it does not give us turn-by-turn directions for 
+
+how to incorporate the new requirements into our supervisory processes.  To that end, the 
+
+Federal Reserve and other federal regulators are devoting considerable time to implementing the 
+
+requirements of the Dodd-Frank Act.  Translating all of the new legislative requirements into 
+
+rules and regulations, and then into an effective supervisory and examination program, is a 
+
+massive undertaking, but it is essential to moving beyond the stabilization phase of crisis 
+
+recovery and into that phase where we address  the underlying fault lines in our financial 
+
+institution landscape.   
+
+As we work through Dodd-Frank implementation, we will need to ask:  What constitutes 
+
+effective supervision in the post-crisis world?  I expect that the answer will be the subject of 
+
+debate for months and possibly years.   
+
+The process of identifying the factors most important to constructing an effective 
+
+supervisory and examination program has already begun.  For America’s community banks, the 
+
+vast majority of which did not contribute to the subprime crisis, the contours of this program will 
+
+be of critical importance. 
+
+As we have learned all too well, a financial system dominated by a handful of large 
+
+institutions is unlikely to be resilient in the face of a crisis.  My view is that a diffuse financial 
+
+system--one with a diverse range of institutions of varying size and complexity--is preferable to a 
+
+system that is highly concentrated.   
+
+
+
+
+- 3 -
+
+In fact, the need for diversification is one of the great lessons of the crisis.  Indeed, we 
+
+found that, irrespective of size, those banks most likely to weather the crisis were those with 
+
+diverse loan portfolios, management information systems capable of monitoring concentrations, 
+
+reasonably diversified funding sources and liquidity management processes, and forward-looking 
+
+analyses that considered how loan portfolios might perform and affect bank conditions under 
+
+periods of stress. We need many, many more banks with these characteristics because these are 
+
+the banks that absorbed the shocks of the crisis, remained relatively healthy, and, most 
+
+significantly, now have the potential to thrive as robust sources of credit in their communities 
+
+after the crisis.   
+
+As I see it, we need to create within the Dodd-Frank regulatory architecture a supervisory 
+
+and examination program that encourages diversification and forward-looking strategies as a 
+
+means to ensuring a healthy financial system and a steady flow of loans to creditworthy 
+
+borrowers.   
+
+Am I saying that it is the responsibility of examiners, in essence, to guarantee that the 
+
+banking system becomes more resilient and incapable of failure?  No.  A regulatory system that 
+
+guarantees against bank failures is not in my mind desirable, even if such a system could be 
+
+established in a cost-effective manner.    
+
+To illustrate, I’ll borrow a concept from the field of statistics.  When drawing conclusions 
+
+based on test results, statisticians and scientists often factor in the possibility of erroneous results, 
+
+or “false negatives” and “false positives.”  Some economists have extended this concept to 
+
+assessing the effectiveness of regulation.   
+
+  Imagine that you visit your doctor for an annual checkup and have your cholesterol level 
+
+tested.  When the results come back from the lab, they show that all is well.  But what if your 
+
+
+
+
+- 4 -
+
+cholesterol actually was high and an error in the test resulted in a clean bill of health?  That 
+
+would be a false negative, and I’m sure you can see the problems it would pose.  You might not 
+
+change your diet and exercise habits, and your doctor probably wouldn’t refer you for further 
+
+testing or give you that firm lecture that they like to give about the importance of taking better 
+
+care of yourself.  Instead, your rising cholesterol levels would go undetected and untreated until 
+
+your next checkup, or even worse, until you suffer a heart attack.    
+
+In the context of bank supervision, a false negative occurs when an examiner does not 
+
+identify and address a deteriorating or failing bank in a timely manner.  History has shown that 
+
+the costs of these false negatives can balloon during times of broad economic and financial 
+
+stress, which results in a significant drag on the economy and weakens banks’ ability to lend.  
+
+There were clearly too many of these false negatives in the recent crisis, particularly among the 
+
+largest financial firms, both here and abroad.   
+
+In addition to the billions of dollars of direct costs to the Deposit Insurance Fund as a 
+
+result of bank failures, the deep recession of 2007 to 2009 most likely would have been mitigated 
+
+had the risk of exposure to real estate at many banks been recognized earlier.  Many of the 
+
+reform efforts that regulators and the Congress have undertaken--reforms that are clearly needed-
+
+-are aimed at improving regulators’ ability to identify and address troubled institutions earlier, 
+
+and to limit the impact of failures when they do happen.   
+
+ Now, returning to the medical analogy, imagine that your test results show that your 
+
+cholesterol level is worryingly high, only in this case you are actually the picture of health.  This 
+
+is a false positive, and it poses problems of its own.  While there may be some ancillary benefits 
+
+to improving your diet and exercise habits, the inaccurate test result likely would cause you 
+
+
+
+
+- 5 -
+
+undue angst and, in an abundance of caution, subject you to a series of expensive, and ultimately 
+
+unnecessary, follow-up measures.  
+
+A false positive in banking supervision occurs when examiners inaccurately identify a 
+
+sound bank as having significant problems.  When this happens, we may then take the step of 
+
+accelerating onsite examinations even though the bank remains in satisfactory condition.  To be 
+
+clear, we err on the side of accepting some false positives because, as we saw during the crisis, 
+
+the costs of missing too many problems are so high.  Having said that, we recognize that false 
+
+positives are not free:  They impose a real cost on examiners in the form of resource use and also 
+
+on banks in terms of imposing the burden of an onsite review.   
+
+In one way, effective supervision is striking a balance between false negatives and false 
+
+positives, recognizing the costs of each.  As we look forward, I think policymakers will need to 
+
+find a similar balance between the responsibilities of examiners and the responsibilities of banks 
+
+to ensure compliance with laws and regulations and to maintain a safe and sound banking 
+
+system.  Make no mistake, the crisis made clear that more effective regulations and more 
+
+consequential examiner reviews of banks are needed.  But, at the same time, banks have a 
+
+fundamental--arguably the fundamental--role to play in improving financial system resilience.      
+
+So, how do the responsibilities of banks and examiners meet to maximize safety and 
+
+soundness?  When I imagine the model of a healthy bank--no matter its size or complexity--I 
+
+picture a series of concentric circles.  The inner circles are composed of the systems and 
+
+functions that keep the bank healthy and allow it to meet the credit needs of its community while 
+
+remaining financially sound and compliant with its legal and regulatory obligations.  Inner circle 
+
+systems and functions help the bank identify, monitor, and remedy the various problems that 
+
+arise in its ordinary course of business.  These would include, among other things, internal audit, 
+
+
+
+
+- 6 -
+
+executive management committees, governance by a board of directors, policies and procedures, 
+
+and critical reporting relationships.   
+
+The outer circle, then, is effective supervision.  This layering of circles implies that there 
+
+are multiple internal and external checks on behavior that make timely identification and 
+
+resolution of problems more likely.   
+
+We could probably spend the day arguing about the proper order of the outward 
+
+progression of these circles, but I think we can all agree that at the core of a healthy bank is an 
+
+effective corporate governance structure.  A bank’s board of directors should understand the 
+
+bank’s exposure to risk, and its members should be willing and able to critically question senior 
+
+management about important matters affecting those risks.  In my experience, specific technical 
+
+financial expertise--which may be somewhat more difficult to find in smaller communities--is 
+
+not nearly as important in this regard as board members’ ability to exercise sound and effective 
+
+judgment regarding different risks confronting the bank and to take seriously their responsibility 
+
+for the long-term interests of the bank.  The board of directors, along with a strong senior 
+
+management team, can contribute substantially to the safe and sound operation of the bank by 
+
+setting the “tone at the top” regarding activities and behaviors that are either encouraged or 
+
+frowned upon.   
+
+Well-informed managers and staff constitute another inner circle.  Customer-facing 
+
+employees who know their business and know their customer base can play a critical role in 
+
+catching problems at inception.  And institutional knowledge of this kind is an area of relative 
+
+strength for community banks.   
+
+Successful business lines are profitable because they are run by those who understand 
+
+and can manage risk.  Risk is best understood, I believe, by those who are engaged in the day-to-
+
+
+
+
+- 7 -
+
+day business of the bank.  A bank in which every employee understands his or her responsibility 
+
+for managing risk is likely to be more sound than a bank in which risk management is always 
+
+seen as someone else’s responsibility.   
+
+While risk management starts at the business-line level, a well-run bank also has in place 
+
+an effective program for enterprise-wide risk management that is supported by strong internal 
+
+controls.  I know that many smaller community banks may not have the resources to establish a 
+
+separate risk management function, but that is not necessarily a problem if senior management 
+
+and other key personnel establish a system of internal, independent checks and balances to 
+
+ensure that risks are regularly identified, controlled or otherwise managed, and monitored.  These 
+
+systems include not only core functions such as credit administration, effective reporting of 
+
+information to senior management and the board, and policies and procedures that are 
+
+documented and implemented, but also processes that try to look ahead to potential risks on the 
+
+horizon.   
+
+Another of the inner circles is a strong internal audit function that reviews the bank’s 
+
+operations, risk management, and internal controls.  In particular, an effective internal audit 
+
+function will:  identify processes to be audited based on risk exposure, establish a schedule and 
+
+frequency for performing internal audits, ensure that there is accountability for fixing problems 
+
+identified in the audit, and escalate significant unresolved issues to the board of directors or its 
+
+audit committee.       
+
+This concentric circle model illustrates my belief that problem identification is first and 
+
+foremost the responsibility of the bank.  A safe and sound banking system starts with banks that 
+
+take seriously the importance of sound governance, business judgment, risk management, 
+
+internal controls, and compliance.  Banking supervision provides another level of protection, but 
+
+
+
+
+- 8 -
+
+it was never intended to be a substitute for a bank’s own risk management processes, nor should 
+
+it be.1      
+
+And this brings us to the outer circle:  banking supervision. First and foremost, examiners 
+
+need to understand and work within the scope of their role.  For example, examiners should not 
+
+substitute their judgment for that of bank management.  A bank’s board and senior management 
+
+are responsible for running the bank, and it is not appropriate for examiners to be overly engaged 
+
+in the routine business of a healthy bank.  There will of course be times when examiners are 
+
+justified in questioning decisions or requiring action when a bank may be operating in an unsafe 
+
+and unsound manner or is not in compliance with law. 
+
+In that regard, we have heard from some community bankers that pressure from 
+
+examiners may affect a bank’s willingness to lend to creditworthy small businesses and 
+
+consumers.  We have worked hard to ensure that our examiners are well-trained and employ a 
+
+balanced approach to reviewing banks’ credit policies and practices.  We will continue to 
+
+monitor this closely.  
+
+I would also suggest that examiners are regulators and as such should not view banks as 
+
+their customers or clients.  There are times when the interests of banks and regulators are 
+
+aligned, and there are many instances where our objectives diverge.  This doesn’t mean that 
+
+examiners and banks will inevitably have a contentious relationship.  Indeed, I think many 
+
+banks, particularly those that are well run, would characterize their relationship with examiners 
+
+as professional and constructive, and would agree that examination findings are not arbitrary and 
+
+in fact help them to improve their internal systems.  That is as it should be.  A regulator’s 
+
+                                                 
+1 Although not discussed here because I would like to focus my brief remarks on the balance of responsibilities 
+between banks and supervisors, market discipline--when appropriate transparency exists--can also play an important 
+role in creating incentives for banks to identify and mitigate risks.   
+
+
+
+
+- 9 -
+
+relationship with a supervised bank must not get in the way of his or her willingness and ability 
+
+to make tough calls. 
+
+At the end of the day, some regulatory failures may be inevitable.  Examiners are smart, 
+
+well-trained, diligent, and conscientious.  They are committed to public service and take their 
+
+responsibilities seriously.  But even the best examiners are no more prescient than the managers 
+
+of the banks they oversee and cannot be expected to head off every problem or detect every risk.  
+
+The risk management systems and functions that comprise those inner concentric circles must be 
+
+the primary mechanisms for heading off problems and detecting risks before they grow.   
+
+Unfortunately, there is no panacea to eliminating risk:  Even the combination of 
+
+appropriately designed risk management tools and thorough supervision can not completely 
+
+eliminate the risk of low-probability, high-impact events.   
+
+While I realize this sounds somewhat pessimistic, in fact I am quite optimistic about 
+
+examiners’ ability to play a strong and effective role in a healthy banking system.  In that regard, 
+
+let me return to the concentric circle model and describe what we should expect from bank 
+
+supervisors in the outermost circle.   
+
+One of the most important functions of supervisors in a healthy banking system is to set 
+
+high standards through the establishment of policies and through the design of a strong 
+
+supervisory program.  Of course we should be vigilant about avoiding policies and practices that 
+
+add little value and impose great burdens on banks, and I can assure you that we take that 
+
+responsibility seriously, especially as it regards community banks.  But we also should set the 
+
+bar high when it comes to our expectations for acceptable bank risk management and business 
+
+practices.  We should be--and I believe we are--tough but fair. 
+
+
+
+
+- 10 -
+
+In addition to setting high expectations, examiners should strive for balance and 
+
+consistency throughout the business cycle--that is, we should be careful not to be too hands-off 
+
+when times are good and not to overreact when times are bad.  If you’re driving a car on a 
+
+curving mountain road, accelerating too fast on the straight stretches leaves you with three 
+
+choices when the road bends:  either you slam on the brakes, end up in a ditch on the side of the 
+
+road, or get lucky and make it through.  It’s far safer to maintain a relatively steady speed, 
+
+accelerating and decelerating gently as necessary, than to swing between extremes.  So it is with 
+
+examination.  If examiners do not evaluate banks’ practices with sufficient rigor during the boom 
+
+years, then it may be necessary to take a more draconian approach during the bust years, when 
+
+problems are revealed.  
+
+It has emerged that a number of regulators and examiners became concerned about 
+
+concentrations in commercial real estate lending several years before the financial crisis.  Despite 
+
+the red flags raised by this lending, it was difficult for examiners to challenge bank management 
+
+at a time when these loans were performing well and banks were generating record profits.  
+
+There was also strong pushback from the industry when the banking regulators began raising 
+
+alarms about the potential risks of excessive concentrations.  Regulators finally issued guidance 
+
+on concentrations in commercial real estate in late 2006, but in retrospect I think it is fair to 
+
+wonder whether action should have been taken sooner.    
+
+That brings me to my next point, which is that examiners have a key role to play in 
+
+reviewing and assessing the quality of a bank’s internal controls, compliance, internal audit, et 
+
+cetera.  A central element of the Federal Reserve’s supervisory programs is assessing the 
+
+effectiveness of these processes and functions. We should understand where a bank’s primary 
+
+risks arise and use enforcement tools as necessary to ensure that management is sufficiently 
+
+
+
+
+- 11 -
+
+focused on these risks.  Examiners should clearly communicate their findings to banks and 
+
+maintain a regular dialogue about their risks and their risk management processes. When 
+
+examiners find weaknesses in any of these areas, we expect that banks will address them in a 
+
+timely manner.   
+
+One thing I would note here is that if done properly, effective examination requires 
+
+looking behind the numbers.  The crisis made clear that a bank that appears to be in sound 
+
+financial condition may actually have a ticking time bomb on its books.  As I said before, it can 
+
+be difficult for an examiner to tell a profitable bank with strong financial indicators that there are 
+
+management weaknesses.  But that is exactly what we should empower our examiners to do 
+
+because we know that the seeds of financial crisis are planted during the good times.  When 
+
+conducting an examination, an examiner should be attuned to weaknesses in governance, risk 
+
+management, and internal controls that may not pose a current problem but that may expose the 
+
+bank to losses in the future.  And ultimately, as you know, it is easier to fix a problem during the 
+
+good times. 
+
+Finally, one of the key roles that examiners play in a healthy financial system is to 
+
+provide context and perspective.  This is natural given the number of banking organizations that 
+
+we examine and inspect, and I believe the Federal Reserve’s renewed financial stability mandate 
+
+under the Dodd-Frank Act will enhance our ability to assess not just individual banks, but also 
+
+the system as a whole.  Examiners have a longstanding practice of assessing a bank’s 
+
+performance and practices relative to its peers.  This should not be a purely mechanical exercise 
+
+where the examiner demands that a bank meet or exceed financial indicators for its peer group.  
+
+Instead, we should use these assessments to understand a bank’s performance relative to peers in 
+
+the context of its own unique facts and circumstances.   
+
+
+
+
+- 12 -
+
+The expectations that I have described for both banks and examiners are not just 
+
+hypothetical.  You may have heard much more about the banks that faltered under intense credit 
+
+and liquidity pressures, but the Federal Reserve has also been focused on the performance of 
+
+those community banks that have remained in sound condition throughout the crisis.  Many of 
+
+the community banks supervised by the Federal Reserve that entered the crisis with a supervisory 
+
+rating of “1” or “2”--the highest ratings on the 1-to-5 scale used by bank supervisors--have 
+
+managed to keep these ratings.  Most of these banks entered the crisis with moderate exposures 
+
+to commercial real estate, and continued to report strong earnings and net interest margins 
+
+throughout the crisis.  They reported very limited reliance on noncore funding and strong capital 
+
+levels as they entered the crisis.  They earned solid, though not spectacular, returns and they 
+
+reported steady performance.  And, while this is less quantifiable, many of these banks have 
+
+effective boards of directors and strong and experienced management teams.  It is important that 
+
+examiners keep this in mind as they evaluate and refine their supervisory processes in the wake 
+
+of the crisis. 
+
+Conclusion 
+
+I certainly don’t claim to have all the answers when it comes to delineating the 
+
+appropriate roles and responsibilities between management and examiners in a healthy bank, but 
+
+I hope my remarks today will at least start a conversation about how best to structure a 
+
+regulatory and supervisory framework for the banking system that effectively supports the real 
+
+economy and encourages sound and sustained lending to creditworthy borrowers.  We know that 
+
+those community banks that weathered the storm during the crisis are already doing this in their 
+
+own communities and we can learn from their experience.  In order to sustain the economic 
+
+recovery, we need strong, well-run community banks that operate in a framework of smart and 
+
+
+
+
+- 13 -
+
+effective supervision.  I commend you for the work that you are doing every day in your 
+
+communities, and I look forward to continuing the dialogue on our respective priorities and 
+
+concerns. 
+

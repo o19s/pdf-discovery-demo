@@ -1,0 +1,592 @@
+
+
+For release on delivery 
+10:00 a.m. EDT 
+July 6, 2017 
+ 
+ 
+
+
+
+
+The Case for Housing Finance Reform 
+ 
+
+
+Remarks by 
+ 
+
+Jerome H. Powell 
+ 
+
+Member 
+  
+
+Board of Governors of the Federal Reserve System 
+ 
+
+at 
+  
+
+the American Enterprise Institute 
+Washington, DC  
+
+
+July 6, 2017 
+ 
+
+
+
+
+
+Good morning.  Thank you to the American Enterprise Institute and Steve Oliner for 
+
+inviting me here to speak.  My topic today is the urgent need for fundamental reform of our 
+
+system of housing finance--the great unfinished business of post-financial crisis reform.1     
+
+The Federal Reserve is not charged with designing or evaluating proposals for housing 
+
+finance reform.  But we are responsible for regulating and supervising banking institutions to 
+
+ensure their safety and soundness, and more broadly for the stability of the financial system.  A 
+
+robust, well-capitalized, well-regulated housing finance system is vital to achieving those goals, 
+
+and to the long-run health of our economy.  We need a system that provides mortgage credit in 
+
+good times and bad to a broad range of creditworthy borrowers. 
+
+While reforms have addressed some of the problems of the pre-crisis system, there is 
+
+broad agreement that the job is far from done.  The status quo may feel comfortable today, but it 
+
+is also unsustainable.  Today, the federal government’s role in housing finance is even greater 
+
+than it was before the crisis.  The overwhelming majority of new mortgages are issued with 
+
+government backing in a highly concentrated securitization market.  That leaves us with both 
+
+potential taxpayer liability and systemic risk.  It is important to learn the right lessons from the 
+
+failure of the old system.  We can also apply lessons from post-crisis banking reform.  Above all, 
+
+we need to move to a system that attracts ample amounts of private capital to stand between 
+
+housing sector credit risk and taxpayers.  We should also use market forces to increase 
+
+competition and help to drive innovation.  
+
+                                                           
+1 The views I express here are my own and not necessarily those of the Board of Governors of the Federal Reserve 
+System. 
+
+
+- 2 - 
+ 
+
+
+The global financial crisis ended in 2009, and the economy has just completed its eighth 
+
+consecutive year of expansion.  We are near full employment.  The housing market is generally 
+
+strong, although it is still recovering in some regions.  To preserve these gains, we must ensure 
+
+the stability of our financial system.  With that goal in mind, we are near completion of a 
+
+comprehensive program to raise prudential standards for our most systemically important banks.  
+
+But fundamental housing finance reform--including reform to address the ultimate status of 
+
+Fannie Mae and Freddie Mac, two systemically important government sponsored enterprises 
+
+(GSEs)--remains on the “to do” list.  As memories of the crisis fade, the next few years may 
+
+present our last best chance to finish these critical reforms.  Failure to do so would risk repeating 
+
+the mistakes of the past.   
+
+The Pre-Crisis System 
+
+Congress created Fannie Mae in 1938 and Freddie Mac in 1970.  For many years, these 
+
+institutions prudently pursued their core mission of enhancing the availability of credit for 
+
+housing.  Beginning in the early 1980s, Fannie and Freddie helped to facilitate the development 
+
+of the securitization market for home mortgages.  They purchased and bundled mortgage loans, 
+
+and sold the resulting mortgage-backed securities (MBS) to investors.  Fannie and Freddie also 
+
+guaranteed payment of principal and interest on the MBS.  With this guarantee in place, MBS 
+
+investors took the risk of changing interest rates, and the GSEs took the risk of default on the 
+
+underlying mortgages.  Thanks to the growth in securitization, these two GSEs have dominated 
+
+U.S. housing finance since the late 1980s.     
+
+The pre-crisis system did its job for many years.  By promoting standardization, 
+
+structuring securities to meet a broad range of investor risk appetites, and issuing guaranteed 
+
+
+- 3 - 
+ 
+
+
+MBS, Fannie and Freddie brought greater liquidity to mortgage markets and made mortgages 
+
+more affordable.  But the system ultimately failed due to fundamental flaws in its structure.  In 
+
+the early days of securitization, the chance that either GSE would ever fail to honor its guarantee 
+
+seemed remote.  But the question always loomed in the background:  Who would bear the credit 
+
+risk if a GSE became insolvent and could not perform?  Would Congress really allow the GSE to 
+
+fail to honor its obligations, given the devastating impact that would have on mortgage funding 
+
+and the housing market?  The law stated explicitly that the government did not stand behind the 
+
+GSEs or their MBS, as Fannie and Freddie frequently pointed out in order to avoid tougher 
+
+regulation.  Nonetheless, investors understandably came to believe that the two GSEs were too-
+
+big-to-fail, and priced in an implicit federal government guarantee behind GSE obligations.  In 
+
+the end the investors were right, of course.  The implicit government guarantee also meant that 
+
+investors--including banks, the GSEs themselves, and investors around the world--did not do 
+
+careful due diligence on the underlying mortgage pools.  Thus, securitization also enabled 
+
+declining lending standards.  This was not only a problem of the GSEs--private label 
+
+securitizations also helped to enable lower underwriting standards.   
+
+Over time, the system’s bad incentives caused the two GSEs to change their behavior and 
+
+take on ever greater risks.  The GSEs became powerful advocates for their own bottom lines, 
+
+providing substantial financial support for political candidates who supported the GSE agenda.  
+
+Legislative reforms in the 1990s and the public/private structure led managements to expand the 
+
+GSEs’ balance sheets to enormous size, underpinned by wafer-thin slivers of capital, driving 
+
+high shareholder returns and very high compensation for management.  These factors and others 
+
+eventually led to extremely lax lending conditions.  The early 2000s became the era of Alt-A, 
+
+
+- 4 - 
+ 
+
+
+low doc, and no doc loans.2  These practices contributed to the catastrophic failure of the housing 
+
+finance system.  Almost nine years ago, in September 2008, Fannie and Freddie were put into 
+
+“temporary” conservatorship and received injections of taxpayer funds totaling $187.5 billion.  
+
+In the end, the system privatized the gains and socialized the losses.   
+
+The buildup of risks is clear in hindsight. But many officials and commentators raised 
+
+concerns long before the collapse.3  The long-standing internal structural weaknesses of the old 
+
+system ultimately led to disastrous consequences for homeowners, taxpayers, the financial 
+
+system, and the economy.   
+
+Reforms to Date 
+
+Before considering the path forward, it is important to acknowledge that today’s housing 
+
+sector is healthier and in some respects safer than it was in 2005.  Although there are significant 
+
+regional differences, national data show that housing prices have fully recovered from their gut-
+
+wrenching 35 percent drop during the crisis.  Mortgage default rates have returned to pre-crisis 
+
+levels.  Mortgage credit is available and affordable for strong borrowers.   
+
+                                                           
+2 See, for example, Markus K. Brunnermeier, “Deciphering the Liquidity and Credit Crunch 2007-2008,” The 
+Journal of Economic Perspectives, Vol. 23, No. 1 (Winter 2009), pp. 77-100; Major Coleman IV, Michael LaCour-
+Little, and Kerry D. Vandell, “Subprime Lending and the Housing Bubble: Tail Wags Dog?”  Journal of Housing 
+Economics, Vol.17, Issue 4 (December 2008) pp. 272-290; Shiller, Robert J. (2012) The Subprime Solution:  How 
+Today’s Global Financial Crisis Happened, and What to Do about It, Princeton, New Jersey: Princeton University 
+Press; E. Pinto (2015), “Three Studies of Subprime and Alt-A loans in the U.S. Mortgage Market,” American 
+Enterprise Institute (January 2015), www.aei.org/wp-content/uploads/2014/09/Pinto-Government-Housing-Policies-
+in-the-Lead-up-to-the-Financial-Crisis-3-Studies-1.6.15.pdf. 
+3 See, for example, Alan Greenspan, "Government-Sponsored Enterprises," remarks delivered at the Conference on 
+Housing, Mortgage Finance, and the Macroeconomy, Federal Reserve Bank of Atlanta, May 19 2005, 
+www.federalreserve.gov/boarddocs/speeches/2005/default.htm; and Randal Quarles “Remarks Before the Women in 
+Housing and Finance,” June 13, 2006.  
+
+
+- 5 - 
+ 
+
+
+There has also been meaningful progress in reforming the old system.  In 2008, Congress 
+
+enacted the Housing and Economic Recovery Act, which, among other things, created the 
+
+Federal Housing Finance Agency (FHFA), modeled on and with similar powers to the Federal 
+
+Deposit Insurance Corporation.  Under the FHFA’s oversight, the two GSEs’ retained portfolios 
+
+have declined to about half of their pre-crisis size, and are expected to continue on a downward 
+
+path.  The FHFA and the GSEs have also been working to develop a market for the GSEs to lay 
+
+off their credit risk.  These innovative transactions have raised about $50 billion in private capital 
+
+that now stands between taxpayers and mortgage credit risk in the GSEs’ portfolios.  In addition, 
+
+the creation of a Common Securitization Platform should strengthen the GSEs’ securitization 
+
+infrastructure and facilitate further reforms with an eye toward enhancing competition.     
+
+New regulations have also been put in place since the crisis with the goal of encouraging 
+
+sound underwriting of mortgage loans.  Today, lenders must make a good faith effort to 
+
+determine that the borrower has the ability to repay the mortgage.  Moreover, if the lender 
+
+provides a “qualified mortgage” contract to the borrower, then the lender needs to meet certain 
+
+other requirements.4  For example, some contract features such as an interest-only period or 
+
+negative amortization, where the loan balance increases even though the borrower is making 
+
+payments, are taboo.  Upfront points and fees are limited too.   
+
+
+                                                           
+4 More specifics on the features required for qualified mortgage contracts are available at 
+www.consumerfinance.gov/askcfpb/1789/what-qualified-mortgage.html. 
+
+
+- 6 - 
+ 
+
+
+Today’s Challenges 
+
+These reforms represent movement in the right direction, but leave us well short of where 
+
+we need to be.  Despite the GSEs’ significant role in this key market, there is no clarity about 
+
+their future.  When they were put into conservatorship, Treasury Secretary Paulson noted that 
+
+“policymakers must view this next period as a ‘time out’ where we have stabilized the GSEs 
+
+while we decide their future role and structure.”5  Almost nine years into this time out, the federal 
+
+government’s domination of the housing sector has grown and is actually greater than it was 
+
+before the crisis.  Fannie, Freddie, the Federal Housing Administration (FHA) and U.S. 
+
+Department of Veterans Affairs have a combined market share of about 80 percent of the 
+
+purchase mortgage market, with the remaining 20 percent held by private financial institutions.  
+
+After reaching nearly 30 percent of the market before the crisis, private-label securitization has 
+
+dwindled to almost nothing today.   
+
+The two GSEs remain in government conservatorship, with associated contingent 
+
+liabilities to US taxpayers.6  Fannie and Freddie have remitted just over $270 billion of profits to 
+
+the Treasury, more than paying back the government’s initial investment.  However, under 
+
+current terms of the contracts that govern their access to Treasury funds, their capital will decline 
+
+to $0 by January 1, 2018.  Today, Fannie Mae and Freddie Mac have more than $5 trillion of 
+
+MBS and corporate debt outstanding, which is widely held and receives various forms of special 
+
+                                                           
+5 Statement by Secretary Henry M. Paulson, Jr. on Treasury and Federal Housing Finance Agency Action to Protect 
+Financial Markets and Taxpayers, September 7, 2008, www.treasury.gov/press-center/press-
+releases/Pages/hp1129.aspx. 
+6 The size of these contingent liabilities is potentially quite large. FHFA’s stress test results published in August 
+2016 found that under its severely adverse scenario the two GSEs could need to draw up to $125.8 billion from the 
+U.S. Treasury.  See www.fhfa.gov/AboutUs/Reports/ReportDocuments/2016_DFAST_Severely-Adverse-
+Scenario.pdf. 
+
+
+- 7 - 
+ 
+
+
+regulatory treatment.  And because of their scale, these enterprises continue to serve as important 
+
+standard-setters and significant counterparties to other firms.     
+
+While mortgage credit is widely available to most traditional mortgage borrowers, those 
+
+with lower credit scores face significantly higher standards and lower credit availability than 
+
+before the crisis.  We can all agree that we do not want to go back to the poor underwriting 
+
+standards used by originators prior to the crisis.  But it may also be that the current system is too 
+
+rigid, and that a lack of innovation and product choice has limited mortgage credit availability to 
+
+some creditworthy households.  According to a survey by the American Banker, in 2016 only 
+
+nine percent of mortgage originations failed to meet the qualified mortgage contract criteria, 
+
+down from 16 percent in 2013.7  The same survey reported that almost one-third of U.S. banks 
+
+make only qualified mortgage loans, despite the fact that FHA- and GSE-eligible mortgages are 
+
+exempt from the qualified mortgage requirements until January 2021 or until housing finance 
+
+reform is enacted, whichever date comes first. 
+
+Applying the Lessons of Banking Reform to Housing Finance 
+
+The post-crisis reform program for our largest banks presents an appropriate standard 
+
+against which the housing finance giants should be judged.  After eight years of reform, our 
+
+largest banking institutions are now far stronger and safer.  Common equity capital held by the 
+
+eight U.S. global systemically important banks has more than doubled to $825 billion from about 
+
+$300 billion before the crisis.  After the crisis revealed significant underlying liquidity 
+
+vulnerabilities, these institutions now hold $2.3 trillion in high-quality liquid assets, or 25 
+
+                                                           
+7 American Bankers Association, “24th Annual ABA Residential Real Estate Survey Report,” (March 2017),   
+www.aba.com/Press/Documents/2017ABARealEstateLendingSurveyReport.pdf. 
+
+
+- 8 - 
+ 
+
+
+percent of their total assets.  Under rigorous annual stress tests, they must demonstrate a high 
+
+level of understanding of their risks and the ability to manage them, and must survive severely 
+
+adverse economic scenarios with high levels of post-stress capital.  And they must file regular 
+
+resolution plans that have made them significantly more resolvable should they fail.  These 
+
+measures were implemented to reduce the risk that a future crisis will result in taxpayer support, 
+
+and to help ensure that the financial system could continue to function even in the event that one 
+
+of these banks were to default.   
+
+It is ironic that the housing finance system should escape fundamental reform efforts.  
+
+The housing bubble of the early 2000s was, after all, an essential proximate cause of the crisis.  
+
+Housing is the single largest asset class in our financial system, with total outstanding residential 
+
+real estate owned by households of $24 trillion and roughly $10 trillion in single-family 
+
+mortgage debt.8  While post-crisis regulation has addressed mortgage lending from a consumer 
+
+protection standpoint, the important risks to taxpayers and the broader economy and financial 
+
+system have not been robustly addressed.   
+
+The most obvious and direct step forward would be to require ample amounts of private 
+
+capital to support housing finance activities, as we do in the banking system.  We should also 
+
+strive for a system that can continue to function even in the event of a default of any firm.  No 
+
+single housing finance institution should be too big to fail.     
+
+Greater amounts of private capital could come through a variety of sources, including 
+
+through the entry of multiple private guarantors who would insure a portion of the credit risk, 
+
+                                                           
+8 Based on information contained in the Financial Accounts of the United States available at 
+www.federalreserve.gov/econresdata/releases/mortoutstand/current.htm. 
+
+
+- 9 - 
+ 
+
+
+through risk-sharing agreements, or through expanded use of credit-risk transfers.  Although 
+
+private capital must surely be part of the reform effort, there may be limits to the amount of risk 
+
+that we can credibly expect the private sector to insure.  It is extremely difficult to appropriately 
+
+price the insurance of catastrophic risk--the risk of a severe, widespread housing crisis.  Both the 
+
+private-sector insurance industry and government have struggled with this, particularly with how 
+
+to smooth the consistent collection of premiums with the irregular payout of potentially 
+
+enormous losses that may be needed only once or twice in a century.  Furthermore, losses can be 
+
+correlated across asset classes and geographies in these catastrophic events, rendering risk-
+
+diversification strategies ineffective.  Fannie Mae and Freddie Mac have successfully transferred 
+
+some credit risk to the private sector, but have thus far avoided selling off much of this 
+
+catastrophic credit risk, arguing that doing so is not economical.9   
+
+Principles for Reform 
+
+After promising legislative initiatives have moved forward but fallen short of enactment, 
+
+the air is again thick with housing finance reform proposals.  As I mentioned at the outset, 
+
+housing finance reform has important implications for the Federal Reserve’s oversight of 
+
+financial institutions, and for the U.S. economy and its financial stability.  While I would not 
+
+presume to judge these reform proposals, I will offer some principles for reform.  These 
+
+                                                           
+9 See “Overview of Fannie Mae and Freddie Mac Credit Risk Transfer Transactions,” FHFA (August 2015). The 
+overview differentiates between expected loss (credit losses that would be projected to occur even under a stable 
+baseline), unexpected loss (losses that might occur under a stressful but plausible event such as recession) and 
+catastrophic loss (losses beyond those of an unexpected loss and that are deemed highly unlikely to occur). The 
+overview notes  that “ catastrophic risk events are deemed so unlikely, meaning they present so little risk, that the 
+Enterprises have found it to be too costly (not economical) to transfer much of this risk to the private sector,”   
+https://www.fhfa.gov/aboutus/reports/reportdocuments/crt-overview-8-21-2015.pdf. 
+
+
+- 10 - 
+ 
+
+
+principles are based on the lessons learned from the old system’s collapse, and from the 
+
+experience of post-crisis bank reform. 
+
+First, we ought to do whatever we can to make the possibility of future housing bailouts 
+
+as remote as possible.  Housing can be a volatile sector, and housing is often found at the heart of 
+
+financial crises.10  Our housing finance institutions were not--and are not--structured with that in 
+
+mind.  Extreme fluctuations in credit availability for housing hurt vulnerable households, reduce 
+
+affordability and availability, and, as we have seen, can threaten financial stability.  As with 
+
+banks, the goal should be to ensure that our housing finance system can continue to function 
+
+even in the face of significant house price declines and severe economic conditions.  Changing 
+
+the system to attract large amounts of private capital would be a major step toward that goal.   
+
+The question of the government’s role in the new system is a challenging one for 
+
+Congress.  Many of the well-known reform proposals include some role for government.  Some 
+
+argue that government cannot avoid bearing the deep-in-the-tail risk of a catastrophic housing 
+
+crisis.  A number of proposals incorporate a government guarantee to cover this risk, to take 
+
+effect after a significant stack of private capital is wiped out. 
+
+That brings me to my second principle:  If Congress chooses to go in this direction, any 
+
+such guarantee should be explicit and transparent, and should apply to securities, not to 
+
+                                                           
+10 See for example Carmen M. Reinhart and Kenneth S. Rogoff, “The Aftermath of Financial Crises,” American 
+Economic Review, vol. 99 (May 2009) pp. 466-72; Òscar Jordà, Moritz Schularick, and Alan M. Taylor, “The Great 
+Mortgaging: Housing Finance, Crises, and Business Cycles,” NBER Working Paper No. 20501 (September 2014), 
+www.nber.org/papers/w20501; and the International Monetary Fund, “Housing Finance and Financial Stability – 
+Back to Basics?” Global Financial Stability Report (April 2011), 
+www.imf.org/en/Publications/GFSR/Issues/2016/12/31/~/media/Websites/IMF/imported-flagship-
+issues/external/pubs/ft/GFSR/2011/01/pdf/_chap3pdf.ashx.   
+
+
+- 11 - 
+ 
+
+
+institutions.  Reform should not leave us with any institutions that are so important as to be 
+
+candidates for too-big-to-fail.   
+
+Third, we should promote greater competition in this market.  The economics of 
+
+securitization do not require a duopoly.  Yet there is no way for private firms to acquire a GSE 
+
+charter and enter the industry.  This is akin to having only two banks with federal deposit 
+
+insurance, which would make competition by other banks very difficult.  Greater competition 
+
+would help to reduce the systemic importance of the GSEs, and spur more innovation.  Greater 
+
+competition also requires a level playing field, allowing secondary market access to a wide-range 
+
+of lenders and thereby giving homebuyers a choice among many potential mortgage lenders and 
+
+products. 
+
+Fourth, it is worth considering simple approaches that restructure and repurpose parts of 
+
+the existing architecture of our housing finance system.  We know that housing reform is 
+
+difficult; completely redrawing the system may not be necessary and could complicate the search 
+
+for a solution.  Using the existing architecture would allow for a continued smooth, gradual 
+
+transition.   
+
+Fifth and last, we need to identify and build upon areas of bipartisan agreement.  In my 
+
+view, at this late stage we should not be holding out for the perfect answer.  We should be 
+
+looking for the best feasible plan to escape the unacceptable status quo.   
+
+Conclusion 
+
+I see two reasons why this is a good time to address the housing finance system’s 
+
+shortcomings.  First, the economy and the housing sector are healthy.  It would be far more 
+
+disruptive to implement fundamental structural changes during difficult economic times.  
+
+
+- 12 - 
+ 
+
+
+Second, memories of the crisis are fading.  If Congress does not enact reforms over the next few 
+
+years, we are at risk of settling for the status quo--a government-dominated mortgage market 
+
+with insufficient private capital to protect taxpayers, and insufficient competition to drive 
+
+innovation.  There is a serious risk, if not a likelihood, that this state of affairs may persist 
+
+indefinitely, leaving our housing finance system in a semi-permanent limbo.  Fortunately, we are 
+
+blessed with a growing menu of reform options available for public vetting.  And there appear to 
+
+be areas of broad agreement among them.  One of those plans, or a combination of different 
+
+features of various plans, might well suffice to move us to a better system.  Housing finance 
+
+reform will protect taxpayers from another bailout, be good for households and the economy, and 
+
+go some distance toward mitigating the systemic risk that the GSEs still pose.   
+
+
+

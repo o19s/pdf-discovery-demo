@@ -1,0 +1,875 @@
+
+ 
+ 
+
+For release on delivery 
+6:30 p.m. EST 
+February 22, 2013 
+ 
+
+
+
+International Cooperation in Financial Regulation 
+
+
+
+Remarks by 
+
+Daniel K. Tarullo 
+
+Member 
+
+Board of Governors of the Federal Reserve System 
+
+at the  
+ 
+
+Cornell International Law Journal Symposium:  
+The Changing Politics of Central Banks 
+
+ 
+New York, New York 
+
+
+February 22, 2013 
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+ 
+
+Next month marks the fifth anniversary of the failure of Bear Stearns--in retrospect, the 
+
+beginning of the most acute phase of the financial crisis.  The cross-border dimensions of the 
+
+crisis itself and the global effects of the Great Recession that followed provoked a major effort   
+
+to strengthen international cooperation in financial regulation.  While a good deal has already 
+
+been accomplished, this evening I will suggest the next steps that would be most useful in 
+
+advancing global financial stability.   
+
+ Of course, the fashioning of an international agenda requires a clear understanding of the 
+
+overall regulatory aims of participating national authorities.  Here is where international 
+
+regulatory cooperation links to the subject of this conference--if not quite the changing politics of 
+
+central banks, then at least their changing policy goals in the wake of the financial crisis.  Almost 
+
+by definition, systemic crises reveal failures across the financial system, from breakdowns in risk 
+
+management at many financial firms to serious deficiencies in government regulation of financial 
+
+institutions and markets.  While the recent crisis was no exception, it has presented particular 
+
+challenges to the policy foundations of central banks, especially those like the Federal Reserve 
+
+that carry out regulatory mandates alongside their monetary policy missions.  So I begin with 
+
+some remarks on the nature of those challenges, before turning to a discussion of how changes in 
+
+approach should inform international cooperation in financial regulation. 
+
+Central Banks and the Financial Crisis 
+
+ In surveying the failings of financial authorities, both here and abroad, one can certainly 
+
+identify some specific characteristics of pre-crisis regulation that look today to have been 
+
+significantly misguided, rather than the advances they were formerly thought to be.  So, for 
+
+example, regulators became prone to place too much confidence in the capacity of firms to 
+
+measure and manage their risks.  Indeed, the decade or so prior to the crisis had seen an 
+
+
+- 2 - 
+ 
+
+ 
+ 
+
+acceleration of the shift from a dominantly regulatory approach to achieving prudential aims--
+
+one that rests on activities and affiliation restrictions, and other reasonably transparent 
+
+rules--toward greater emphasis on a supervisory approach, which relies on a more opaque, firm-
+
+specific process of watching over banks' own risk-management and compliance systems.   
+
+ Yet the breadth and depth of the financial breakdown suggest that it has much deeper 
+
+roots.  In many respects, this crisis was the culmination of fundamental shifts in both the 
+
+organization and regulation of financial markets that began in the 1970s.  The New Deal reforms 
+
+of financial regulation, themselves spawned by a systemic crisis, had separated commercial 
+
+banking from investment banking, cured the problem of commercial bank runs by providing 
+
+federal deposit insurance, and brought transparency and investor protections to trading and other 
+
+capital markets activities.  This regulatory approach fostered a commercial banking system that 
+
+was, for the better part of 40 years, quite stable and reasonably profitable, though not particularly 
+
+innovative in meeting the needs of depositors and borrowers. 
+
+ In the 1970s, however, turbulent macroeconomic developments combined with 
+
+technological and business innovations to produce an increasingly tight squeeze on the 
+
+traditional commercial banking business model.  The squeeze came from both the liability side 
+
+of banks’ balance sheets, in the form of more attractive savings vehicles such as money market 
+
+funds, and from the asset side, with the growth of public capital markets and international 
+
+competition.  The large commercial banking industry that saw both its funding and its customer 
+
+bases under attack sought removal or relaxation of the regulations that confined bank activities, 
+
+affiliations, and geographic reach.  While supervisors differed with banks on some important 
+
+particulars, they were sympathetic to this industry request, in part because of the potential threat 
+
+to the viability of the traditional commercial banking system.  
+
+
+- 3 - 
+ 
+
+ 
+ 
+
+ The period of relative legal and industry stability that had followed the New Deal thus 
+
+gave way in the 1970s to a nearly 30-year period during which many prevailing restrictions on 
+
+banks were relaxed.  A good number were loosened through administrative action by the banking 
+
+agencies, but important statutory measures headed in the same direction.  This legislative trend 
+
+culminated in the Gramm-Leach-Bliley Act of 1999, which consolidated and extended the 
+
+administrative changes that had allowed more extensive affiliations of commercial banks with 
+
+investment banks, broker-dealers, private equity firms, and other financial entities.  But in 
+
+sweeping away the remnants of one key element of the New Deal regulatory system, neither 
+
+Gramm-Leach-Bliley nor financial regulators substituted new regulatory mechanisms to match 
+
+the wholesale changes in the structure of the financial services industry and the dramatic growth 
+
+of novel financial instruments. 
+
+ In fact, I would generalize this last observation to say that the need to address the 
+
+consequences of the progressive integration of traditional lending, trading activities, and capital 
+
+markets lies at the heart of three post-crisis challenges to the policy foundations of the Federal 
+
+Reserve and, to a greater or lesser degree, many other central banks. 
+
+Microprudential Regulation.  The first challenge posed by the crisis was to traditional, 
+
+microprudential regulation, which focuses on the safety and soundness of each prudentially 
+
+regulated firm.   Not all central banks have microprudential regulatory authority, of course, 
+
+and--as in the United States--those that do sometimes share it with other agencies.  But the 
+
+shortcomings of pre-crisis regulatory regimes have been of concern to all central banks.  Most 
+
+notably, capital requirements for banking organizations, particularly the large ones that might be 
+
+regarded as too-big-to-fail, simply were not strong enough.  Risk-weights were too low for 
+
+certain traded assets that had proliferated as credit and capital markets integrated more 
+
+
+- 4 - 
+ 
+
+ 
+ 
+
+thoroughly.  In some cases, the arbitrage opportunities presented by existing capital requirements 
+
+were an incentive for securitization and other capital markets activities.  The exposures created 
+
+by off-balance-sheet activities such as structured investment vehicles (SIVs) were badly 
+
+underweighted.  Minimum capital ratios were not high enough and, in meeting even those 
+
+inadequate requirements, firms were allowed to count liabilities that did not really provide the 
+
+ability to absorb losses and still maintain the firms as viable, functioning intermediaries.   
+
+ There has already been a substantial response to this challenge. With the support of the 
+
+Federal Reserve and other U.S. bank regulators, the Basel Committee on Banking Supervision 
+
+has strengthened capital requirements by raising risk-weightings for traded assets and improved 
+
+the quality of loss-absorbing capital through a new minimum common equity ratio.  The 
+
+committee also has created a capital conservation buffer and introduced an international leverage 
+
+ratio.  These Basel 2.5 and Basel III reforms either have been, or soon will be, implemented in 
+
+the United States and most other countries that are home to internationally active banking firms.  
+
+Also, the Basel Committee has just recently adopted the Liquidity Coverage Ratio (LCR), a first 
+
+step in addressing liquidity problems.     
+
+ In the United States, some important additional steps have been taken.  Beginning at the 
+
+peak of the crisis, the Federal Reserve has conducted stress tests of large banking organizations, 
+
+making capital requirements more forward-looking by estimating the effect of an adverse 
+
+economic scenario on firm capital levels in a manner less dependent on firms’ internal risk-
+
+measurement infrastructure.  And the provision of the Dodd-Frank Act popularly known as the 
+
+Collins Amendment ensures that banking organizations cannot use models-based approaches to 
+
+reduce their minimum capital below generally applicable, more standardized risk-based ratios. 
+
+
+- 5 - 
+ 
+
+ 
+ 
+
+ Macroprudential Regulation.  A second challenge for central banks is that the crisis 
+
+revealed the need for a much more active set of macroprudential monitoring and regulatory 
+
+policies--that is, a reorientation toward safeguarding financial stability through the containment 
+
+of systemic risk.  The failure to attend to, or even recognize, financial stability risks was perhaps 
+
+the most glaring public sector deficiency in the pre-crisis period.  This was a fault by no means 
+
+limited to central banks.  On the contrary, systemic risk had also come to seem more theoretical 
+
+than real to many academics and financial market participants.  Even most of those inside and 
+
+outside the official sector who argued for stronger capital or other prudential standards did not 
+
+appreciate the degree to which the secondary mortgage market had turned into a house of cards.  
+
+Still, regardless of formal mandates, central banks are better positioned than most other 
+
+government agencies to see and evaluate the emergence of asset bubbles, excessive leverage, and 
+
+other signs of potential systemic vulnerability.   
+
+ In some respects this second challenge is an extension of the first, since the safety and 
+
+soundness of large institutions must take account of the relative correlation of their asset 
+
+holdings, interconnectedness, common liquidity constraints, and other characteristics of large 
+
+banking organizations as a group.  Similarly, systemic risks and too-big-to-fail problems can 
+
+increase if large, highly leveraged firms may operate outside the perimeter of statutory 
+
+microprudential oversight, as was the case prior to 2008 with the large, free-standing investment 
+
+banks in the United States.  And market discipline will be badly compromised if financial market 
+
+participants believe that an insolvent counterparty cannot be resolved in an orderly fashion and 
+
+thus is likely to receive government assistance under stress. 
+
+ Here again, domestic and international efforts have already produced significant reform 
+
+programs, though implementation of some of these programs is less advanced than Basel 2.5 and 
+
+
+- 6 - 
+ 
+
+ 
+ 
+
+Basel III.  Domestically, the Federal Reserve’s annual stress tests examine the effects of 
+
+unexpected macroeconomic shocks on asset classes held within all major regulated firms.  The 
+
+Dodd-Frank Act gave the Financial Stability Oversight Council (FSOC) authority to bring 
+
+systemically important firms that are not already bank holding companies within the perimeter of 
+
+Federal Reserve regulation and supervision. The FSOC is actively considering several firms for 
+
+possible designation.  Finally, the Dodd-Frank Act gave the Federal Deposit Insurance 
+
+Corporation orderly liquidation authority for systemically important financial firms, thereby 
+
+creating an alternative to the Hobson's choice of bailout or bankruptcy that authorities faced in 
+
+2008.   
+
+Internationally, the Basel Committee has agreed to a regime of capital surcharges for 
+
+large banks based on their systemic importance.  There is also an initiative to parallel U.S. efforts 
+
+to identify non-bank systemically important firms.  The Basel Committee and the Financial 
+
+Stability Board have developed international principles for resolution authority, though most of 
+
+the rest of the world is behind the United States in actually implementing those principles. 
+
+ But meeting the macroprudential challenge will require measures beyond a more 
+
+comprehensive, cross-firm approach to microprudential regulation.  Much academic and policy 
+
+work of the past several years has revived and elaborated the previously somewhat heterodox 
+
+view that financial instability is endogenous to the financial system, or at least the kind of 
+
+financial system we now have.  Consider, for example, how the intertwining of traditional 
+
+lending and capital markets gave rise to what has become known as the shadow banking system.  
+
+Shadow banking, which refers to credit intermediation partly or wholly outside the limits of the 
+
+traditional banking system, involves not only sizeable commercial and investment banks, but 
+
+many firms of varying sizes across a range of markets.  While some of the more notorious pre-
+
+
+- 7 - 
+ 
+
+ 
+ 
+
+crisis components of the shadow banking system are probably gone forever, current examples 
+
+include money market funds, the triparty repo market, and securities lending.   
+
+From the perspective of financial stability, the parts of the shadow banking system of 
+
+most concern are those that create assets thought to be safe, short-term, and liquid--in effect, cash 
+
+equivalents.  For a variety of reasons, demand for such assets has grown steadily in recent years, 
+
+and is not likely to reverse direction in the foreseeable future.  Yet these are the assets whose 
+
+funding is most likely to run in periods of stress, as investors realize that their resemblance to 
+
+cash or insured deposits in normal times has disappeared in the face of uncertainty about their 
+
+underlying value.  And, as was graphically illustrated during the crisis, the resulting forced sales 
+
+of assets whose values are already under pressure can accelerate an adverse feedback loop, in 
+
+which all firms with similar assets suffer mark-to-market losses, which, in turn, can lead to more 
+
+fire sales.  This kind of contagion lay at the heart of the financial stresses of 2007 and 2008. 
+
+ As already noted, pre-crisis shortcomings at the intersection of microprudential and 
+
+macroprudential regulation have motivated a variety of reforms, many explicitly directed at the 
+
+problem of too-big-to-fail institutions.  While some of these reforms remain unfinished, and 
+
+some additional measures are needed, there has been considerable progress.  Unfortunately, the 
+
+same cannot be said with respect to shadow banking and, more generally, the vulnerabilities 
+
+associated with wholesale short-term funding.  These vulnerabilities involve both large, 
+
+prudentially regulated institutions, and thus too-big-to-fail concerns, and the broader financial 
+
+system.  Except for the liquidity requirements agreed to in the Basel Committee, however, the 
+
+liability side of the balance sheets of financial firms has barely been addressed in the reform 
+
+agenda.  Yet here is where the systemic problems of interconnectedness and contagion are most 
+
+apparent.  And, as evidenced by the funding stresses experienced by a number of European 
+
+
+- 8 - 
+ 
+
+ 
+ 
+
+banks prior to the stabilizing measures taken by the European Central Bank, these problems are 
+
+still very much with us. 
+
+ Within the United States, reform efforts are underway in some discrete, but important, 
+
+areas.  The provisions of Dodd-Frank requiring more central clearing of derivatives and  
+
+minimum margins for those that remain uncleared are designed to provide more systemic 
+
+stability.  As to shadow banking itself, the FSOC recently proposed options to address the 
+
+structural vulnerabilities in money market mutual funds, with an eye toward recommending 
+
+action by the Securities and Exchange Commission.  And the Federal Reserve has begun using 
+
+its supervisory authority to press for a reduction in intraday credit risk in the triparty repo 
+
+market.  But these measures are incomplete, and do not extend to all forms of short-term funding 
+
+that can pose run risks, a universe that is likely to expand as prudential constraints begin to apply 
+
+to large existing shadow banking channels. 
+
+ Monetary Policy. While the first two policy challenges are shared among regulatory and 
+
+financial agencies, the third lies solely with central banks.  In the wake of the crisis, we need to 
+
+consider carefully the view that central banks should assess the effect of monetary policy on 
+
+financial stability and, in some instances, adjust their policy decisions to take account of these 
+
+effects.  The dramatic rise in housing prices, and the associated high amounts of leverage taken 
+
+on by both households and investors, occurred during an extended period of low inflation.  Some 
+
+have suggested that, by not raising rates because inflation remained subdued, monetary policy in 
+
+the United States and elsewhere may have contributed to the magnitude of the housing bubble.  
+
+Whatever the merits of that much-contested point, it seems wise to address this issue as we face 
+
+what could well be another extended period of low inflation and low interest rates.  
+
+
+- 9 - 
+ 
+
+ 
+ 
+
+ It is important to note that incorporating financial stability considerations into monetary 
+
+policy decisions need not imply the creation of an additional mandate for monetary policy.  The 
+
+potentially huge effect on price stability and employment associated with bouts of serious 
+
+financial instability gives ample justification. 
+
+ Here I want to mention some comments by my colleague Jeremy Stein a couple of weeks 
+
+ago.1  After reviewing the traditional arguments against using monetary policy in response to 
+
+financial stability concerns and relying instead on supervisory policies, Governor Stein offered 
+
+several reasons for keeping a more open mind on the subject.  First, regulation has its own limits, 
+
+not the least of which is the opportunity for arbitrage outside the regulated sector.  Second, 
+
+whatever its bluntness, monetary policy has the advantage of being able to "get in all the cracks" 
+
+of the financial system, an attribute that is especially useful if imbalances are building across the 
+
+financial sector and not just in a particular area.  Finally, by altering the composition of its 
+
+balance sheet, central banks may have a second policy instrument in addition to changing the 
+
+targeted interest rate.  So, for example, it is possible that a central bank might under some 
+
+conditions want to use a combination of the two instruments to respond to concurrent concerns 
+
+about macroeconomic sluggishness and excessive maturity transformation by lowering the target 
+
+(short-term) interest rate and simultaneously flattening the yield curve through swapping shorter 
+
+duration assets for longer-term ones. 
+
+ To be clear, I do not think that we are at present confronted with a situation that would 
+
+warrant these kinds of monetary policy action.  But for that very reason, it seems that now is a 
+
+good time to discuss these issues more actively, so that if and when we do face financial stability 
+
+                                                            
+1 See Jeremy C. Stein (2013), "Overheating in Credit Markets: Origins, Measurement, and Policy Responses," 
+speech delivered at the "Restoring Household Financial Stability after the Great Recession: Why Household Balance 
+Sheets Matter,” a research symposium sponsored by the Federal Reserve Bank of St. Louis, held in St. Louis, Mo., 
+February 7, www.federalreserve.gov/newsevents/speech/stein20130207a.htm. 
+
+
+- 10 - 
+ 
+
+ 
+ 
+
+concerns associated with asset bubbles backed by excessive leverage, we will have a well-
+
+considered view of the role monetary policy might play in mitigating those concerns. 
+
+Advancing the International Reform Agenda 
+
+ Let me turn now to the way in which our shifts in policy approach should inform the 
+
+agenda for international cooperation in financial regulation.  For obvious reasons, the monetary 
+
+policy issues are not directly related to this agenda, though our understanding of these issues may 
+
+profit from discussions with our central bank colleagues from around the world.  It is equally 
+
+obvious that the other two sets of policy changes are quite closely related to the international 
+
+agenda. 
+
+More than in most other areas, the financial sphere suffers from a basic lack of 
+
+congruence between the authority to regulate and the object of regulation.  Thus we have a 
+
+significantly internationalized financial system, in which shocks are quickly transmitted across 
+
+borders, but a nationally-based structure of regulation.  Within countries, responsibilities may be 
+
+divided between prudential regulators and market regulators, among regulators with similar 
+
+mandates, or both.  Central banks may have exclusive prudential authority, share it with other 
+
+agencies, or have none at all.   
+
+ International arrangements both reflect, and try to compensate for, this web of divided 
+
+and overlapping domestic authority.  Thus there are sectoral standards setters like the Basel 
+
+Committee, the International Organization of Securities Commissions (IOSCO), and the 
+
+International Association of Insurance Supervisors (IAIS) on the one hand, but also broader 
+
+groupings such as the Group of Twenty, the Financial Stability Board (FSB), and the 
+
+International Monetary Fund on the other.  In addition, under the umbrella of the international 
+
+
+- 11 - 
+ 
+
+ 
+ 
+
+home of central bankers, the Bank for International Settlements, numerous other committees 
+
+work across fields also covered by one or more of the groups I have just mentioned.   
+
+ There are some obvious weaknesses with such an assortment of international 
+
+arrangements, notably the difficulty of coordinating initiatives where more than one group is 
+
+working on an issue.  This kind of coordination challenge can be further complicated by the 
+
+participation in international discussions of various national officials without domestic authority 
+
+in a particular area.  The sheer proliferation of international arrangements, each with its own 
+
+staff, has at times also led to a proliferation of studies and initiatives that become burdensome to 
+
+the national regulators and supervisors who have been overtaxed at home since the onset of the 
+
+crisis and ensuing domestic reform efforts. 
+
+ Yet there are also some strengths derived from the crowded international field of 
+
+organizations and committees.  One such virtue is that issues not falling squarely within the remit 
+
+of a particular kind of standards setter can nonetheless be dealt with internationally.  This, in 
+
+fact, has been the experience with the ongoing international effort to agree on minimum margin 
+
+requirements for derivatives that are not centrally cleared.  Another is that different perspectives 
+
+are frequently brought to bear on a single set of problems.   
+
+ At some point, it likely will be beneficial to rationalize somewhat the overlapping, 
+
+sometimes competing efforts of these various international arrangements.  For the near to 
+
+medium term, though, it is important to have some principles for deciding upon the international 
+
+agenda that should govern the efforts of these arrangements as a whole.   
+
+ First, initiatives should be prioritized.  One point of emphasis should be completing, and 
+
+ensuring implementation of, the internationally agreed-upon framework for containing the too-
+
+big-to-fail risks associated with systemically important firms.  Another should be distilling the 
+
+
+- 12 - 
+ 
+
+ 
+ 
+
+various ideas relating to short-term funding vulnerabilities into a few that have promise as 
+
+discrete, relatively near-term initiatives, while continuing study of other, more comprehensive 
+
+measures.   
+
+ A second, related principle is that initiatives should be focused and manageable, 
+
+reflecting not only the limited capacity of participating national authorities, but also the 
+
+desirability of reaching at least a temporary equilibrium at which firms can get on with the 
+
+business of planning their strategies in a clearer regulatory environment, and regulators can begin 
+
+to take stock of the cumulative effects and effectiveness of the changes that have taken place in 
+
+that environment. 
+
+ A third principle is that, in most instances at least, international efforts to develop new 
+
+regulatory mechanisms or approaches should build on experience derived from national practice 
+
+in one or more jurisdictions.  The challenges encountered during the initial effort to devise an 
+
+LCR in the Basel Committee, with little or no precedent of national quantitative liquidity 
+
+requirements from which to learn, should counsel caution in trying to construct new regulatory 
+
+mechanisms from scratch at the international level.  There will doubtless be exceptions to this 
+
+general principle, such as where the transnational arbitrage incentives of a regulatory measure 
+
+are so strong as to make national efforts difficult to initiate and sustain without substantial loss of 
+
+financial activity to other countries.  And, in the immediate aftermath of the crisis, there was a 
+
+need to harness the broad-based demands for reform and move forward on some priority reforms 
+
+without benefit of learning from national initiatives.  On the other hand, there may also be areas 
+
+where, notwithstanding the importance of a particular regulatory objective for international 
+
+financial stability, it may be preferable to maintain a variety of approaches to achieving that 
+
+objective. 
+
+
+- 13 - 
+ 
+
+ 
+ 
+
+ Bearing in mind both these principles and the key areas for policy change at central banks 
+
+and other financial regulators, let me now suggest some specific subjects for near-term emphasis.  
+
+As to the framework for systemically important financial institutions (SIFIs), I would urge that 
+
+two ongoing initiatives be completed over the next year and two ideas that have been in the 
+
+discussion stage be developed into concrete proposals.   
+
+First, the proposal for a capital surcharge for systemically important banking 
+
+organizations is nearing completion.  The Basel Committee continues to refine the methodology 
+
+to be used in identifying the firms and calibrating the surcharge amount--perhaps a byproduct of 
+
+the fact that this methodology had to be developed in the Basel Committee without benefit of 
+
+prior precedent.  But I have confidence that this work will be successfully completed.   
+
+ The second ongoing initiative--work on designating non-bank SIFIs--has to date been 
+
+pursued mostly in the IAIS and thus has concentrated on insurance companies.  It is important to 
+
+take the time to evaluate carefully the actual systemic risk associated with these companies, and 
+
+to understand the amount of such risk relative to other financial firms, before fixing on a list of 
+
+firms and surcharges.  But this seems to me a realistic goal over the next six months. 
+
+ Third, we should build on the very good analytic work in the Basel Committee, both on 
+
+simplifying capital requirements for credit risk and on fashioning standardized capital 
+
+requirements for market risk, to apply standardized credit and market risk capital measures to all 
+
+internationally active banking firms.  As I mentioned earlier, the United States has already 
+
+adopted such a requirement for capital requirements on credit risk.  These standardized measures 
+
+serve as a floor to guard against the potential for models-based capital measures to understate 
+
+capital needs under some circumstances.  They are also substantially less opaque than, for 
+
+
+- 14 - 
+ 
+
+ 
+ 
+
+example, the advanced internal ratings-based approach of Basel II, and thus would provide more 
+
+comparable measures that are also more amenable to international monitoring. 
+
+ Fourth, I would hope to see a requirement proposed for large internationally active 
+
+financial institutions to have minimum amounts of long-term unsecured debt, which would be 
+
+available to absorb losses in the event of insolvency.  As I mentioned earlier, work on resolution 
+
+continues, albeit at different paces in different jurisdictions.  Given the complexities arising from 
+
+the independent, often differing national bankruptcy and insolvency laws, the goal of achieving a 
+
+fully integrated resolution regime for internationally active financial firms may take a good deal 
+
+of time.  But a minimum long-term debt requirement would at least provide national authorities 
+
+with sufficient equity and long-term debt in these firms to bear all losses in the event of 
+
+insolvency, and thereby counteract the moral hazard associated with taxpayer bailouts without 
+
+risking disorderly failure.  This requirement would not break brand new regulatory ground, since 
+
+it would really be a modification of existing Tier 2 gone-concern capital concepts, and would 
+
+complement the requirement for minimum equity levels included in Basel III. 
+
+ As implied in my identification of short-term funding vulnerabilities as a priority area, 
+
+the best way forward here is considerably less easy to specify.  Short-term initiatives on money 
+
+market funds and triparty repo are both possible and desirable.  In truth, though, because money 
+
+market funds are largely American and, to a somewhat lesser extent, European, the United States 
+
+and the European Union together have the ability to address the global run risks associated with 
+
+these products.  I think we also have the responsibility to do so, but not necessarily in identical 
+
+ways.  Accordingly, I would hope that both the United States and the European Union would 
+
+each take effective action to counter the run risk, tailored as appropriate to their regulatory 
+
+environments, and then explain those actions at IOSCO and the FSB, where their efficacy can be 
+
+
+- 15 - 
+ 
+
+ 
+ 
+
+reviewed.  Similarly, since the settlement process for triparty repo that remains of concern is 
+
+centered at two institutions, both of which are regulated American banks, the United States can 
+
+take effective action without need of an international agreement   
+
+ As to broader initiatives, proposals to require minimum haircuts for all securities 
+
+financing transactions have been tentatively discussed in the FSB.  This is certainly a ripe subject 
+
+for discussion, insofar as securities financing transactions facilitate leverage, enable maturity 
+
+transformation, and produce the kind of interconnectedness that can spawn runs and contagion.  
+
+At present, no set of generally applicable prudential standards governs these activities.  Even 
+
+within regulated firms, microprudential risk-weighted capital standards have little effect, since 
+
+they are calibrated against credit risk and most such transactions are short-term and fully (or 
+
+over) collateralized.  Thus requirements that would attach to instruments and transactions, as 
+
+opposed to firms that happen to be prudentially regulated for other reasons, have considerable 
+
+attraction. 
+
+ On the other hand, universal haircut requirements are the type of regulatory innovation 
+
+that I suggested earlier was best developed internationally following some experience within 
+
+financially significant countries.  One may, for example, have significant concern about some of 
+
+the unintended consequences that would ensue.  My instinct, then, is that the analysis of this idea 
+
+should continue within the FSB and, one hopes, in other venues both in and out of the official 
+
+sector.  There should also be concerted efforts internationally to gather relevant data, some of 
+
+which is at present uncollected.  But we are not going to be in a position to establish an 
+
+international securities transaction financing regime in the near term. 
+
+ However, one proposal already on the international agenda might be reconsidered, so as 
+
+to address more directly the short-term funding problem.  Following completion of the LCR 
+
+
+- 16 - 
+ 
+
+ 
+ 
+
+earlier this year, the Basel Committee is turning its attention back to the Net Stable Funding 
+
+Ratio (NSFR), a proposal that was intended to complement the LCR by regulating liquidity 
+
+levels beyond the 30-day LCR horizon.  Like the LCR, the NSFR proposal raised many 
+
+questions even among those favoring robust measures to deal with the liability side of firm 
+
+balance sheets.  There is some appeal to moving forward with this complementary measure fairly 
+
+quickly by simply making some incremental changes to the NSFR while keeping its current 
+
+structure.  But I think we may be better advised to take the opportunity of this review to examine 
+
+whether there are approaches that might address more directly the vulnerabilities for the financial 
+
+system created by large non-deposit, short-term funding dependence at major financial 
+
+institutions.  I do not mean to prejudge the outcome of such an examination, or the degree to 
+
+which we might build on measures being considered in various jurisdictions to address these 
+
+vulnerabilities.  But I do think it worth the effort. 
+
+Conclusion 
+
+ Responses to what I have described as the three challenges to pre-crisis central bank 
+
+policies will continue to evolve.  So will the reenergized international agenda for cooperation in 
+
+international financial regulation.  My aim tonight has not been to lay out a comprehensive 
+
+program for either, but to suggest that these changing agendas are neither completely correlated 
+
+nor completely independent.  In suggesting some concrete next steps, I have tried to define some 
+
+useful and important points of intersection between the two. 
+

@@ -1,0 +1,1077 @@
+
+For release on delivery 
+7:00 p.m. EST 
+November 19, 2013 
+ 
+
+
+Communication and Monetary Policy 
+ 
+ 
+ 
+
+Remarks by 
+ 
+
+Ben S. Bernanke 
+ 
+
+Chairman 
+ 
+
+Board of Governors of the Federal Reserve System 
+ 
+
+at the 
+ 
+
+National Economists Club Annual Dinner 
+
+Herbert Stein Memorial Lecture 
+
+Washington, D.C. 
+
+
+November 19, 2013 
+ 
+
+
+
+Nearly eight years ago, when I began my time as Chairman, one of my priorities 
+
+was to make the Federal Reserve more transparent--and, in particular, to make monetary 
+
+policy as transparent and open as reasonably possible.  I believed then, as I do today, that 
+
+transparency in monetary policy enhances public understanding and confidence, 
+
+promotes informed discussion of policy options, increases the accountability of monetary 
+
+policymakers for reaching their mandated objectives, and ultimately makes policy more 
+
+effective by tightening the linkage between monetary policy, financial conditions, and the 
+
+real economy.  Of course, responding to the financial crisis and its aftermath soon 
+
+became the Federal Reserve’s main focus.  As it has turned out, however, following the 
+
+stabilization of the financial system, supporting our economy’s recovery from the deepest 
+
+recession since the Great Depression has required a more prominent role for 
+
+communication and transparency in monetary policy than ever before.   
+
+In my remarks, I will discuss how the Federal Reserve’s communications have 
+
+evolved in recent years and how enhanced transparency is increasing the effectiveness of 
+
+monetary policy.  Despite the challenges inherent in communicating in an unprecedented 
+
+economic and policy environment about a future that can be only imperfectly foreseen, I 
+
+will explain why I believe that policy transparency remains an essential element of the 
+
+Federal Reserve’s strategy for meeting its economic objectives.  
+
+Policy Frameworks and Communication 
+
+To understand the critical role that the Federal Reserve’s communications about 
+
+monetary policy has played in recent years, it is useful to start by discussing the role of 
+
+monetary policy communication more generally, including the relationship between 
+
+policy communication and the broader policy framework. 
+
+
+ - 2 - 
+
+Making monetary policy is sometimes compared to driving a car, with 
+
+policymakers pressing on the accelerator or the brakes, depending on whether the 
+
+economy needs to be sped up or slowed down at that moment.  That analogy is imperfect, 
+
+however, for at least two reasons.  First, the main effects of monetary policy actions on 
+
+the economy are not felt immediately but instead play out over quarters or even years.  
+
+Hence, unlike the driver of a car, monetary policymakers cannot simply respond to what 
+
+lies immediately in front of them but must try to look well ahead--admittedly, a difficult 
+
+task.  Second, the effects of monetary policy on the economy today depend importantly 
+
+not only on current policy actions, but also on the public’s expectations of how policy 
+
+will evolve.  The automotive analogy clearly breaks down here, for it is as if the current 
+
+speed of the car depended on what the car itself expects the driver to do in the future.  
+
+The public’s expectations about future monetary policy actions matter today 
+
+because those expectations have important effects on current financial conditions, which 
+
+in turn affect output, employment, and inflation over time.  For example, because 
+
+investors can choose freely between holding a longer-term security or rolling over a 
+
+sequence of short-term securities, longer-term interest rates today are closely linked to 
+
+market participants’ expectations of how short-term rates will evolve.  If monetary 
+
+policymakers are expected to keep short-term interest rates low, then current longer-term 
+
+interest rates are likely to be low as well, all else being equal.  In short, for monetary 
+
+policy, expectations matter. 
+
+Indeed, expectations matter so much that a central bank may be able to help make 
+
+policy more effective by working to shape those expectations.  Experience demonstrates 
+
+that a useful approach to managing expectations--one that dovetails well with basic 
+
+
+ - 3 - 
+
+principles of transparency--involves policymakers stating clear objectives as well as their 
+
+plans for attaining those objectives.  For example, over the past two decades, many 
+
+central banks have introduced explicit numerical targets for inflation.  Supplemented by 
+
+regular publication of the central bank’s economic forecasts and provisional plans for 
+
+achieving its objective in the medium term, numerical inflation goals have helped 
+
+increase the transparency and predictability of policy in a number of economies.  
+
+In this spirit, the Federal Open Market Committee (FOMC) has clarified the 
+
+Federal Reserve’s objectives and policy strategy.  Because of its dual mandate from the 
+
+Congress, which specifies both maximum employment and price stability as policy 
+
+objectives, the Federal Reserve could not adopt a numerical inflation target as its 
+
+exclusive goal.  Nor would it have been appropriate for the FOMC simply to provide a 
+
+fixed objective for some measure of employment or unemployment, in parallel with an 
+
+inflation objective.  In contrast to inflation, which is determined by monetary policy in 
+
+the longer run, the maximum level of employment that can be sustained over the longer 
+
+run is determined primarily by nonmonetary factors, such as demographics, the mix of 
+
+workforce skills, labor market institutions, and advances in technology.  Moreover, as 
+
+these factors evolve, the maximum employment level may change over time.  
+
+Consequently, it is beyond the power of the central bank to set a longer-run target for 
+
+employment that is immutable or independent of the underlying structure of the 
+
+economy.1   
+
+The approach on which the FOMC agreed is described in its statement of longer-
+
+run goals and policy strategy, issued in January 2012 and reaffirmed in January of this 
+
+                                                 
+1 To be clear, although monetary policy has limited influence on the level of employment that can be 
+sustained in the longer run, it can be used to help eliminate gaps between the current level of employment 
+and its sustainable level--as policy is doing today. 
+
+
+ - 4 - 
+
+year.2  The statement begins by affirming the FOMC’s commitment to meeting both of 
+
+its statutory objectives.  It then indicates that, in the context of the FOMC’s dual 
+
+mandate, the Committee sees price stability as corresponding to a 2 percent longer-term 
+
+inflation goal.  On the employment side of the mandate, the Committee makes its best 
+
+assessment of the maximum level of employment at any given time, recognizing that 
+
+such assessments are necessarily uncertain and subject to revision.  In practice, the 
+
+Committee often expresses its employment objective in terms of the longer-run normal 
+
+rate of unemployment.  Currently, FOMC participants’ estimates of the longer-run 
+
+normal unemployment rate, as publicly reported in the quarterly Summary of Economic 
+
+Projections, range from 5.2 to 6 percent.3   
+
+As I noted, explicit objectives are most useful when accompanied by provisional 
+
+plans for achieving them.  Many central banks supplement their announced objectives 
+
+with published forecasts that, implicitly or explicitly, lay out plans for achieving their 
+
+goals.  Although the size and diversity of the Federal Reserve’s policymaking committee 
+
+has made achieving a single consensus forecast difficult, the quarterly Summary of 
+
+Economic Projections reports each FOMC participant’s view of the most likely future 
+
+paths of inflation, unemployment, and output growth, conditional on that individual’s 
+
+view of appropriate monetary policy.  In recent years, this survey has also included 
+
+participants’ projections of the path of future short-term interest rates they see as most 
+
+likely to achieve the Committee’s goals.  In general, the Committee’s two objectives of 
+
+                                                 
+2 The January 2013 statement is available on the Board’s website at 
+www.federalreserve.gov/monetarypolicy/files/FOMC_LongerRunGoals.pdf. 
+3 The central tendency of the projections for the longer-run normal unemployment rate (which drops the 
+three highest and three lowest values submitted by FOMC participants) was 5.2 to 5.8 percent in 
+September.  For the most recent FOMC projections, see 
+www.federalreserve.gov/monetarypolicy/fomcminutes20130918ep.htm on the Board’s website.   
+
+
+ - 5 - 
+
+maximum employment and price stability are complementary.  When they are not, the 
+
+FOMC has stated that it will pursue a balanced approach in the pursuit of its dual 
+
+mandate, working to ensure that both inflation and employment are close to their desired 
+
+values in the longer term.   
+
+In short, the Federal Reserve, like many central banks around the world, has made 
+
+significant progress in recent years in clarifying its goals and policy approach, and in 
+
+providing regular information about the future path of policy that it views as most likely 
+
+to attain its objectives.  This increased transparency about the framework of policy has 
+
+aided the public in forming policy expectations, reduced uncertainty, and made policy 
+
+more effective.   
+
+The financial crisis and its aftermath, however, have raised even greater 
+
+challenges for, and demands on, the Federal Reserve’s communication.  We have had to 
+
+contend with the persistent effects of the seizing-up of the financial system, the collapse 
+
+of housing prices and construction, new financial shocks in Europe and elsewhere, 
+
+restrictive fiscal policies at all levels of government, and, of course, the enormous blows 
+
+to output and employment associated with the worst U.S. recession since the Great 
+
+Depression.  Moreover, for the first time since the FOMC began using the federal funds 
+
+rate as its policy interest rate, that rate is effectively at zero and thus cannot be lowered 
+
+meaningfully further.  Consequently, to provide needed support to the economic recovery 
+
+and minimize the risk of deflation, the Federal Reserve has had to adopt new policy tools, 
+
+which bring their own communication challenges.  In the remainder of my talk, I will 
+
+discuss how the Federal Reserve has used communication to try to further inform the 
+
+public’s expectations about how the FOMC will employ what are currently its two 
+
+
+ - 6 - 
+
+principal policy tools:  its plans regarding its short-term policy interest rate and its large-
+
+scale purchases of securities. 
+
+Forward Guidance about Policy Interest Rates 
+
+As the economy weakened over 2008, the FOMC repeatedly cut its target for the 
+
+federal funds rate, its short-term policy rate.  In December of that year, the target for the 
+
+funds rate was reduced to a range of zero to 1/4 percent, and money market rates declined 
+
+nearly to zero.  Thus, using the standard means of further easing monetary policy--cutting 
+
+the target interest rate--was no longer possible.  
+
+The so-called zero lower bound on the FOMC’s policy interest rate was not the 
+
+only challenge the Committee faced.  First, the depth of the recession, combined with 
+
+ongoing concerns about the functioning of the financial system, raised significant 
+
+uncertainties about both the likely pace of recovery and the effectiveness of monetary 
+
+policy in supporting growth.  The recoveries from most post-World War II U.S. 
+
+recessions had been relatively rapid, with production, unemployment, and other key 
+
+variables returning to close to normal levels within six to eight quarters.  In such cases, 
+
+the policy horizon most relevant to financial markets might be the next several quarters.  
+
+In the aftermath of the recent crisis, however, the Committee had to consider the 
+
+possibility that a highly accommodative policy might be required for a number of years.  
+
+Second, a federal funds rate effectively at zero created an important asymmetry 
+
+for policy planning.  On the one hand, if the economy were to recover rapidly and 
+
+inflation were to increase, monetary policymakers would be able to respond in the normal 
+
+way, by raising the federal funds rate.  But, on the other hand, if the economy were to 
+
+remain weak or recover only gradually--the case we actually faced--the FOMC would not 
+
+
+ - 7 - 
+
+be able to cut the funds rate further.  Moreover, in the latter case, the economy could face 
+
+an increased risk of deflation--falling prices.  As the case of Japan illustrates, deflation 
+
+may impede economic growth while being very difficult to escape.  To try to preempt 
+
+such outcomes, a strong case existed for monetary policy to be more accommodative than 
+
+suggested by standard policy rules calibrated to normal times.4 
+
+So the Committee faced a situation in which more monetary policy 
+
+accommodation was needed, and possibly for quite a long time--yet its basic policy tool, 
+
+the federal funds rate target, had been pushed to its limit.  To put the Committee’s 
+
+problem another way, standard policy rules and a range of other analyses implied that, to 
+
+achieve the FOMC’s objectives, the target for the federal funds rate should be set well 
+
+below zero, which, of course, was not feasible.  Fortunately, as I discussed earlier, the 
+
+degree of accommodation provided by monetary policy depends not just on the current 
+
+value of the policy rate, but on public expectations of future settings of that rate.  The 
+
+Committee accordingly realized that it could ease policy further--and reduce uncertainty 
+
+about future policy--by assuring the public and markets that it intended to keep the policy 
+
+rate low for some time, and for a longer period than the public initially expected.   
+
+At first, the Committee employed purely qualitative language to send this 
+
+message:  After the FOMC stated in December 2008 that it would likely be appropriate 
+
+for the federal funds rate to remain near zero for “some time,” it changed the formulation 
+
+in March 2009 to “an extended period.”5  However, such language did not convey very 
+
+precisely the Committee’s intentions.  In August 2011, the Committee introduced a 
+
+specific date into its guidance, stating that conditions would likely warrant keeping the 
+
+                                                 
+4 See, for example, Eggertsson and Woodford (2003) and Reifschneider and Williams (2000). 
+5 See Board of Governors (2008, 2009). 
+
+
+ - 8 - 
+
+federal funds rate target near zero at least through mid-2013.6  This date-based guidance 
+
+was more precise than the qualitative language the Committee had been using, and it 
+
+appears to have been effective in communicating the FOMC’s commitment to a highly 
+
+accommodative policy.  In particular, following the introduction of dates into the FOMC 
+
+statement, interest rates and survey measures of policy expectations moved in ways 
+
+broadly consistent with the guidance.7  
+
+Although the date-based forward guidance appears to have affected the public’s 
+
+expectations as desired, it did not explain how future policy would be affected by 
+
+changes in the economic outlook--an important limitation.  Indeed, the date in the 
+
+guidance was pushed out twice in 2012--first to late 2014 and then to mid-2015--leaving 
+
+the public unsure about whether and under what circumstances further changes to the 
+
+guidance might occur.8  In December of last year, the FOMC addressed this issue by 
+
+tying its forward guidance about its policy rate more directly to its economic objectives.9  
+
+Introducing so-called state-contingent guidance, the Committee announced for the first 
+
+time that no increase in the federal funds rate target should be anticipated so long as 
+
+unemployment remained above 6-1/2 percent and inflation and inflation expectations 
+
+remained stable and near target.10  This formulation provided greater clarity about the 
+
+                                                 
+6 See Board of Governors (2011). 
+7 Evidence that this is the case has been provided by Campbell, Evans, Fisher, and Justiniano (2012), 
+Swanson and Williams (2013), Raskin (2013), and by a recent study of the Federal Reserve Bank of New 
+York’s survey of primary dealers (Femia, Friedman, and Sack, 2013). 
+8 See Board of Governors (2012a, b). 
+9 See Board of Governors (2012c). 
+10 See Board of Governors (2012c).  Specifically, the guidance says that the Committee anticipates that its 
+0 to 1/4 percent target range for the federal funds rate will be appropriate at least as long as the 
+unemployment rate remains above 6-1/2 percent, inflation between one and two years ahead is projected to 
+be no more than a half percentage point above the Committee's 2 percent longer-run goal, and longer-term 
+inflation expectations continue to be well anchored.  The FOMC asserted in its statement that it viewed the 
+new thresholds to be consistent with the earlier, date-based guidance.  Femia, Friedman, and Sack (2013) 
+present evidence that respondents to the survey of primary dealers largely shared this assessment. 
+
+
+ - 9 - 
+
+factors influencing the Committee’s thinking about future policy and how that thinking 
+
+might change as the outlook changed.11   
+
+As my colleagues and I have frequently emphasized, the conditions stated in this 
+
+guidance are thresholds, not triggers.  Crossing one of the thresholds will not 
+
+automatically give rise to an increase in the federal funds rate target; instead, it will signal 
+
+only that it is appropriate for the Committee to begin considering whether an increase in 
+
+the target is warranted.  This threshold formulation helps explain why the Committee was 
+
+willing to express the guidance bearing on the labor market in terms of the 
+
+unemployment rate alone, instead of following its usual practice of considering a broad 
+
+range of labor market indicators.  In the judgment of the Committee, the unemployment 
+
+rate--which, despite some drawbacks in this regard, is probably the best single summary 
+
+indicator of the state of the labor market--is sufficient for defining the threshold given by 
+
+the guidance.  However, after the unemployment threshold is crossed, many other 
+
+indicators become relevant to a comprehensive judgment of the health of the labor 
+
+market, including such measures as payroll employment, labor force participation, and 
+
+the rates of hiring and separation.  In particular, even after unemployment drops below 6-
+
+1/2 percent, and so long as inflation remains well behaved, the Committee can be patient 
+
+in seeking assurance that the labor market is sufficiently strong before considering any 
+
+increase in its target for the federal funds rate. 
+
+                                                 
+11 An advantage of the state-contingent formulation is that it increases the tendency of financial market 
+conditions to act as an automatic stabilizer for the economy.  For example, bad news about the labor 
+market, which tends to lengthen the amount of time the public expects to be required for the unemployment 
+rate to reach the threshold, should likewise increase the length of time that the public expects policy to 
+remain highly accommodative.  In response to this shift in policy expectations, interest rates should fall and 
+asset prices should rise, thus easing financial conditions and helping to offset the adverse change to the 
+outlook. 
+
+
+ - 10 - 
+
+Large-Scale Asset Purchases and Related Communication 
+
+Because of the severity of the recession and the disruptions in financial markets, 
+
+and because short-term interest rates were near the zero lower bound, it became clear 
+
+early on that more monetary accommodation would be needed than could be provided 
+
+through the management of short-term rates alone, even with guidance that those rates 
+
+would be kept low well into the future.  Accordingly, at about the same time that the 
+
+FOMC reduced its target for the federal funds rate close to zero, it began supplementing 
+
+its rate policies and forward rate guidance with large-scale asset purchases (LSAPs)--
+
+specifically, open market purchases of longer-term U.S. Treasury securities and securities 
+
+issued by the government-sponsored enterprises, primarily mortgage-backed securities 
+
+(MBS). 
+
+Both LSAPs and forward guidance for the federal funds rate support the economy 
+
+by putting downward pressure on longer-term interest rates, but they affect longer-term 
+
+rates through somewhat different channels.  To understand the difference, it is useful to 
+
+decompose longer-term interest rates into two components:  One reflects the expected 
+
+path of short-term interest rates, and the other is called a term premium.  The term 
+
+premium is the extra return that investors require to be willing to hold a longer-term 
+
+security to maturity compared with the expected yield from rolling over short-term 
+
+securities for the same period.   
+
+As I have noted, forward rate guidance affects longer-term interest rates primarily 
+
+by influencing investors’ expectations of future short-term interest rates.  LSAPs, in 
+
+contrast, most directly affect term premiums.  As the Federal Reserve buys a larger share 
+
+of the outstanding stock of longer-term securities, the quantity of these securities 
+
+
+ - 11 - 
+
+available for private-sector portfolios declines.  As the securities purchased by the Fed 
+
+become scarcer, they should become more valuable.  Consequently, their yields should 
+
+fall as investors demand a smaller term premium for holding them.  This argument 
+
+depends importantly on the assumption that the longer-term Treasury and MBS securities 
+
+that the Fed buys are not perfectly substitutable with other types of assets, an assumption 
+
+that seems well supported in practice.12 
+
+As both forward rate guidance and LSAPs affect longer-term interest rates, the 
+
+use of these tools allows monetary policy to be effective even when short-term interest 
+
+rates are close to zero.  However, the Committee does not view these two tools as entirely 
+
+equivalent.  One reason is that we have much less experience with policies designed to 
+
+operate on term premiums, as LSAPs do.  As a result, though a strong majority of FOMC 
+
+members believes that both the forward rate guidance and the LSAPs are helping to 
+
+support the recovery, we are somewhat less certain about the magnitudes of the effects on 
+
+financial conditions and the economy of changes in the pace of purchases or in the 
+
+accumulated stock of assets on the Fed’s balance sheet.  Moreover, economists do not 
+
+have as good an understanding as we would like of the factors determining term 
+
+premiums; indeed, as we saw earlier this year, hard-to-predict shifts in term premiums 
+
+can be a source of significant volatility in interest rates and financial conditions.  LSAPs 
+
+have other drawbacks not associated with forward rate guidance, including the risk of 
+
+impairing the functioning of securities markets and the extra complexities for the Fed of 
+
+operating with a much larger balance sheet, although I see both of these issues as 
+
+                                                 
+12 I discussed this effect more fully in Bernanke (2012).  As I noted then, both Milton Friedman (2000) and 
+James Tobin (1965, 1969) made this argument.  LSAPs may affect financial conditions through other 
+channels as well; see Bernanke (2012) for a more complete discussion.  One such channel is a “signaling 
+channel,” which works to the extent that the direct action of buying securities increases the credibility of 
+communication tools like forward rate guidance (Posen, 2012). 
+
+
+ - 12 - 
+
+manageable.13  In deciding to employ LSAPs, the FOMC has accordingly remained 
+
+attentive to the possible costs and risks as well as to the efficacy of this less familiar tool, 
+
+a point the Committee has regularly noted in its post-meeting statements.  Of course, 
+
+elevated unemployment, below-target inflation, lingering economic fragility, and the 
+
+harmful effects of long-term unemployment on our society and economic potential also 
+
+pose significant costs and risks, and the Committee has, thus far, judged that the balance 
+
+favors the use of LSAPs.  
+
+Between November 2008 and June 2012, the FOMC announced or extended a 
+
+series of asset purchase programs, in each case specifying the expected quantities of 
+
+assets to be acquired under the program.  Like the use of date-based forward guidance, 
+
+announcing a program of predetermined size and duration has advantages and 
+
+disadvantages.  On the one hand, a fixed program size is straightforward to communicate; 
+
+on the other hand, a program of fixed size cannot so easily adapt to changes in the 
+
+economic outlook and the consequent changes in the need for policy accommodation.  In 
+
+announcing its fixed-size programs, the FOMC did state a general willingness to do more 
+
+if needed--and, indeed, it has followed through on that promise--but such statements left 
+
+                                                 
+13 An additional concern that some have raised about the Federal Reserve’s expanded balance sheet is the 
+possibility that financial conditions could evolve in a way that significantly reduces the Fed’s net interest 
+income on its portfolio for a time, which in turn could lead to a period during which the Fed is not remitting 
+income to the Treasury; see Carpenter and others (2013) for an analysis.  Such a situation, though unlikely, 
+could have reputational costs and possibly increase risks to the Federal Reserve’s independence.  Although 
+these costs must be taken into account, careful analysis suggests that, in fact, LSAPs almost certainly will 
+result in improved government finances:  First, even if a period of no payments to the Treasury occurs, it is 
+highly likely that the payments over the period of unconventional monetary policy will be significantly 
+higher than they would have been without LSAPs; indeed, since 2009, the Fed has remitted more than $350 
+billion to the Treasury, about the same total as it remitted during the 18 years prior to the crisis (1990-2007 
+inclusive).  Second, a complete accounting of the fiscal effects of LSAPs should take into account the 
+beneficial effects of a stronger economy on tax receipts, interest payments, and government spending; the 
+reduction in the budget deficit from these sources will certainly outweigh the effects on the deficit of any 
+changes in the pace of Fed payments.  Finally, while fiscal effects are important, the full effect of the 
+FOMC’s policies also includes important additional benefits of increased economic growth and 
+employment and of greater price stability.  
+
+
+ - 13 - 
+
+considerable uncertainty regarding the conditions that might warrant changes in an 
+
+existing program or the introduction of a new one.  
+
+In a step roughly analogous to the shift from date-based guidance to the 
+
+contingent, thresholds-based guidance now in use for the federal funds rate target, in 
+
+September 2012 the FOMC announced a program of asset purchases in which the total 
+
+size of the purchase program would not be fixed in advance but instead would be linked 
+
+to the Committee’s economic objectives.  In particular, the Committee initiated purchases 
+
+of agency MBS at the rate of $40 billion per month and stated its intention to continue 
+
+purchases until the outlook for the labor market improved substantially in a context of 
+
+price stability.14  In December 2012, when a program to extend the maturity of the Fed’s 
+
+portfolio of Treasury securities came to an end, the FOMC added purchases of 
+
+$45 billion per month in longer-term Treasury securities to the new program, bringing the 
+
+monthly purchase rate to $85 billion, where it remains today.   
+
+As I noted, the Committee set a criterion of substantial improvement in the 
+
+outlook for the labor market as the condition for ending the new purchase program.  The 
+
+Committee also signaled its expectation that it would end the purchases and return to an 
+
+emphasis on rates policy and forward guidance before it had fully attained its dual 
+
+mandate objectives, stating that “the Committee expects that a highly accommodative 
+
+stance of monetary policy will remain appropriate for a considerable time after the asset 
+
+purchase program ends and the economic recovery strengthens.”15  The reason for this 
+
+                                                 
+14 This criterion was expressed in slightly different ways in the FOMC statements between September 2012 
+and January 2013.  Since March 2013, the statement has included the sentence, “The Committee will 
+continue its purchases of Treasury and agency mortgage-backed securities, and employ its other policy 
+tools as appropriate, until the outlook for the labor market has improved substantially in a context of price 
+stability.”  FOMC statements are available at www.federalreserve.gov/monetarypolicy/fomccalendars.htm. 
+15 See Board of Governors (2012c). 
+
+
+ - 14 - 
+
+sequencing choice, again, was the greater uncertainty about the costs and efficacy of 
+
+LSAPs, relative to the more familiar tool of managing the current short-term interest rate 
+
+and, through forward guidance, expectations of future short-term interest rates.  
+
+Moreover, to the extent that the use of LSAPs engenders additional costs and risks, one 
+
+might expect the tradeoff between the efficacy and costs of this tool to become less 
+
+favorable as the Federal Reserve’s balance sheet expands. 
+
+Having seen progress in the labor market since the beginning of the latest asset 
+
+purchase program in September 2012, the Committee agreed in June of this year to 
+
+provide more-comprehensive guidance about the criteria that would inform future 
+
+decisions about the program.  Consequently, in my press conference following the June 
+
+FOMC meeting, I presented a framework linking the program more explicitly to the 
+
+evolution of the FOMC’s economic outlook.  In particular, I noted the Committee’s 
+
+expectation at the time that improvements in the job market would continue, supported by 
+
+a moderate pickup in growth that would support those gains.  The Committee additionally 
+
+expected that inflation would be moving back toward its 2 percent objective over time.  If 
+
+the incoming data were broadly consistent with that outlook, the Committee would likely 
+
+begin measured reductions in the pace of asset purchases later in 2013.  If the economy 
+
+evolved as anticipated, the end of purchases would occur around midyear 2014.  I also 
+
+emphasized that the path of purchases would depend on incoming data and could be 
+
+slower or faster than envisioned in the modal scenario--indeed, I noted that the pace of 
+
+purchases could be increased for a time, if warranted. 
+
+The framework I discussed in June implied that substantial additional asset 
+
+purchases over the subsequent quarters were likely, with even more purchases possible if 
+
+
+ - 15 - 
+
+economic developments proved disappointing.  However, following the June meeting and 
+
+press conference, market yields moved sharply higher.  For example, between the FOMC 
+
+meetings of June and September, the 10-year Treasury yield rose about 3/4 percentage 
+
+point and rates on MBS increased by a similar amount. 
+
+Financial market movements are often difficult to account for, even after the fact, 
+
+but three main reasons seem to explain the rise in interest rates over the summer.  First, 
+
+improvements in the economic outlook warranted somewhat higher yields--a natural and 
+
+healthy development.  Second, some of the rise in rates reportedly reflected an unwinding 
+
+of levered positions--positions that appear to have been premised on an essentially 
+
+indefinite continuation of asset purchases--together with some knock-on liquidations of 
+
+other positions in response to investor losses and the rise in volatility.  Although it 
+
+brought with it some tightening of financial conditions, this unwinding and the associated 
+
+rise in term premiums may have had the benefit of reducing future risks to financial 
+
+stability and, in particular, of lowering the probability of an even sharper market 
+
+correction at some later point.  Third, market participants may have taken the 
+
+communication in June as indicating a general lessening of the Committee’s commitment 
+
+to maintain a highly accommodative stance of policy in pursuit of its objectives.  In 
+
+particular, it appeared that the FOMC’s forward guidance for the federal funds rate had 
+
+become less effective after June, with market participants pulling forward the time at 
+
+which they expected the Committee to start raising rates, in a manner inconsistent with 
+
+the guidance.16   
+
+                                                 
+16 For example, the Eurodollar futures rate for mid-2015 rose about 40 basis points in the few days 
+following the June FOMC meeting, far more than could be explained by revisions to the economic outlook.   
+
+
+ - 16 - 
+
+To the extent that this third factor--a perceived reduction in the Fed’s commitment 
+
+to meeting its objectives--contributed to the increase in yields, it was neither welcome nor 
+
+warranted, in the judgment of the FOMC.  This change in expectations did not 
+
+correspond to any actual lessening in the FOMC’s commitment or intention to provide 
+
+the high degree of monetary accommodation needed to meet its objectives, as Committee 
+
+participants emphasized in subsequent communications. 
+
+At its September 2013 meeting, the FOMC applied the framework communicated 
+
+in June.  The Committee’s decision at that meeting to maintain the pace of asset 
+
+purchases was appropriate and fully consistent with the earlier guidance.  The Committee 
+
+was looking for evidence that job market gains would continue, supported by a pickup in 
+
+growth.  As it happened, the implications for the outlook of the evidence reviewed at the 
+
+September meeting were mixed at best, while the ongoing fiscal debates posed additional 
+
+risks.  The Committee accordingly elected to await further evidence supporting its 
+
+expectation of continued improvement in the labor market.17  Although the FOMC’s 
+
+decision came as a surprise to some market participants, it appears to have strengthened 
+
+the credibility of the Committee’s forward rate guidance; in particular, following the 
+
+decision, longer-term rates fell and expectations of short-term rates derived from 
+
+financial market prices showed, and continue to show, a pattern more consistent with the 
+
+guidance. 
+
+In coming meetings, in evaluating the outlook for the labor market, we will 
+
+continue to consider both the cumulative progress since September 2012 and the prospect 
+
+for continued gains.  We have seen meaningful improvement in the labor market since 
+
+the latest asset purchase program was announced in September 2012.  At the time, the 
+                                                 
+17 See Board of Governors (2013a, b). 
+
+
+ - 17 - 
+
+latest reading on the unemployment rate was 8.1 percent, and both we and most private-
+
+sector economists were projecting only slow reductions in unemployment in the coming 
+
+quarters.  Recent reports on payroll employment had also been somewhat disappointing.  
+
+However, since the program was announced, the unemployment rate has fallen 0.8 
+
+percentage point, and about 2.6 million payroll jobs have been added.  Looking forward, 
+
+we will of course continue to monitor the incoming data.  As reflected in the latest 
+
+Summary of Economic Projections and the October FOMC statement, the FOMC still 
+
+expects that labor market conditions will continue to improve and that inflation will move 
+
+toward the 2 percent objective over the medium term.  If these views are supported by 
+
+incoming information, the FOMC will likely begin to moderate the pace of purchases.  
+
+However, asset purchases are not on a preset course, and the Committee’s decisions 
+
+about their pace will remain contingent on the Committee’s economic outlook.  As 
+
+before, the Committee will also continue to take into account its assessment of the likely 
+
+efficacy and costs of the program.  
+
+When, ultimately, asset purchases do slow, it will likely be because the economy 
+
+has progressed sufficiently for the Committee to rely more heavily on its rate policies, the 
+
+associated forward guidance, and its substantial continued holdings of securities to 
+
+maintain progress toward maximum employment and to achieve price stability.18  In 
+
+particular, the target for the federal funds rate is likely to remain near zero for a 
+
+considerable time after the asset purchases end, perhaps well after the unemployment 
+
+                                                 
+18 By the logic described earlier, the Fed’s maintenance of a large balance sheet (by reinvesting principal 
+paydowns and rolling over maturing securities) should continue to put downward pressure on term 
+premiums and longer-term interest rates, even after purchases end.  Also, as I noted at my June press 
+conference, a strong majority of the Committee now expects that there will be no sales of agency MBS 
+during the process of normalizing monetary policy, although in the longer run limited sales could be used 
+to reduce or eliminate residual MBS holdings.  See Board of Governors (2013c). 
+
+
+ - 18 - 
+
+threshold is crossed and at least until the preponderance of the data supports the 
+
+beginning of the removal of policy accommodation.  
+
+Conclusion 
+
+I began my time as Chairman with the goal of increasing the transparency of the 
+
+Federal Reserve, and of monetary policy in particular.  In response to a financial crisis 
+
+and a deep recession, the Fed’s monetary policy communications have proved far more 
+
+important and have evolved in different ways than I would have envisioned eight years 
+
+ago.   
+
+The economy has made significant progress since the depths of the recession.  
+
+However, we are still far from where we would like to be, and, consequently, it may be 
+
+some time before monetary policy returns to more normal settings.  I agree with the 
+
+sentiment, expressed by my colleague Janet Yellen at her testimony last week, that the 
+
+surest path to a more normal approach to monetary policy is to do all we can today to 
+
+promote a more robust recovery.19  The FOMC remains committed to maintaining highly 
+
+accommodative policies for as long as they are needed.  Communication about policy is 
+
+likely to remain a central element of the Federal Reserve’s efforts to achieve its policy 
+
+goals. 
+
+                                                 
+19 See Yellen (2013). 
+
+
+ - 19 - 
+
+References  
+ 
+Bernanke, Ben S. (2012). “Monetary Policy since the Onset of the Crisis,” speech 
+
+delivered at “The Changing Policy Landscape,” a symposium sponsored by the 
+Federal Reserve Bank of Kansas City Economic Symposium, held in Jackson 
+Hole, Wyo., August 30-September 1, 
+www.federalreserve.gov/newsevents/speech/bernanke20120831a.htm. 
+
+ 
+Board of Governors of the Federal Reserve System (2008).  “FOMC Statement and 
+
+Board Approval of Discount Rate Requests of the Federal Reserve Banks of New 
+York, Cleveland, Richmond, Atlanta, Minneapolis, and San Francisco,” press 
+release, December 16, 
+www.federalreserve.gov/newsevents/press/monetary/20081216b.htm  
+
+ 
+------ (2009).  “FOMC Statement,” press release, March 18, 
+
+www.federalreserve.gov/newsevents/press/monetary/20090318a.htm.  
+ 
+------ (2011).  “FOMC Statement,” press release, August 9, 
+
+www.federalreserve.gov/newsevents/press/monetary/20110809a.htm.  
+ 
+------ (2012a).  “Federal Reserve Issues FOMC Statement,” press release, January 25, 
+
+www.federalreserve.gov/newsevents/press/monetary/20120125a.htm.  
+ 
+------ (2012b).  “Federal Reserve Issues FOMC Statement,” press release, September 13, 
+
+www.federalreserve.gov/newsevents/press/monetary/20120913a.htm.  
+ 
+------ (2012c).  “Federal Reserve Issues FOMC Statement,” press release, December 12, 
+
+www.federalreserve.gov/newsevents/press/monetary/20121212a.htm. 
+ 
+------ (2013a).  “Federal Reserve Board and Federal Open Market Committee Release 
+
+Economic Projections from the September 17-18 FOMC Meeting,” press release, 
+September 18, 
+www.federalreserve.gov/newsevents/press/monetary/20130918b.htm. 
+
+ 
+------ (2013b).  “Federal Reserve Issues FOMC Statement,” press release, September 18, 
+
+www.federalreserve.gov/newsevents/press/monetary/20130918a.htm. 
+ 
+------ (2013c).  Transcript of Chairman Bernanke’s Press Conference, transcript, June 19, 
+
+www.federalreserve.gov/mediacenter/files/FOMCpresconf20130619.pdf. 
+ 
+Campbell, Jeffrey R., Charles L. Evans, Jonas D.M. Fisher, and Alejandro Justiniano 
+
+(2012).  “Macroeconomic Effects of FOMC Forward Guidance,” Brookings 
+Papers on Economic Activity, vol. 43 (Spring), pp.1-54, 
+www.brookings.edu/about/projects/bpea/papers/2012/macroeconomy-fomc-
+forward-guidance-evans.  
+
+
+
+
+ - 20 - 
+
+Carpenter, Seth B., Jane E. Ihrig, Elizabeth C. Klee, Daniel W. Quinn, and Alexander H. 
+Boote (2013).  “The Federal Reserve’s Balance Sheet and Earnings:  A Primer 
+and Projections,” Finance and Economics Discussion Series 2013-01.  
+Washington:  Board of Governors of the Federal Reserve System, January, 
+www.federalreserve.gov/pubs/feds/2013/201301/201301abs.html.  
+
+ 
+Eggertsson, Gauti B., and Michael Woodford (2003).  “The Zero Bound on Interest Rates 
+
+and Optimal Monetary Policy,” Brookings Papers on Economic Activity, no. 1, 
+pp. 139-211, www.brookings.edu/about/projects/bpea/papers/2003/zero-bound-
+interest-rates-monetary-policy-eggertsson. 
+
+ 
+Femia, Katherine, Steven Friedman, and Brian Sack (2013).  “The Effects of Policy 
+
+Guidance on Perceptions of the Fed’s Reaction Function,” Federal Reserve Bank 
+of New York Staff Report 652.  New York:  Federal Reserve Bank of New York, 
+November, www.newyorkfed.org/research/staff_reports/sr652.html. 
+
+ 
+Friedman, Milton (2000).  “Canada and Flexible Exchange Rates,” speech delivered at 
+
+“Revisiting the Case for Flexible Exchange Rates,” a conference sponsored by the 
+Bank of Canada, Ottawa, Ontario, November, www.bankofcanada.ca/wp-
+content/uploads/2010/08/keynote.pdf. 
+
+ 
+Posen, Adam (2012).  “Comments on ‘Methods of Policy Accommodation at the Interest-
+
+Rate Lower Bound’ by Michael Woodford,” speech delivered at “The Changing 
+Policy Landscape,” a symposium sponsored by the Federal Reserve Bank of 
+Kansas City Economic Symposium, held in Jackson Hole, Wyo., August 30-
+September 1, www.kansascityfed.org/publicat/sympos/2012/posen.pdf. 
+
+ 
+Raskin, Matthew D. (2013).  “The Effects of the Federal Reserve’s Date-Based Forward 
+
+Guidance,” Finance and Economics Discussion Series 2013-37.  Washington:  
+Board of Governors of the Federal Reserve System, May, 
+www.federalreserve.gov/pubs/feds/2013/201337/201337abs.html. 
+
+ 
+Reifschneider, David, and John C. Williams (2000).  “Three Lessons for Monetary Policy 
+
+in a Low-Inflation Era,” Journal of Money, Credit and Banking, vol. 32 
+(November), pp. 936-66. 
+
+ 
+Swanson, Eric T. and John C. Williams (2013).  “Measuring the Effect of the Zero Lower 
+
+Bound on Medium- and Longer-Term Interest Rates,” Working Paper Series 
+2012-02.  San Francisco:  Federal Reserve Bank of San Francisco, January, 
+www.frbsf.org/economic-research/files/wp12-02bk.pdf.  
+
+ 
+Tobin, James (1965). “The Monetary Interpretation of History,” American Economic 
+
+Review, vol. 55 (June), pp. 464-85.  
+ 
+------ (1969). “A General Equilibrium Approach to Monetary Theory,” Journal of Money, 
+
+Credit and Banking, vol. 1 (February), pp. 15-29.  
+
+
+ - 21 - 
+
+ 
+Yellen, Janet (2013). “Confirmation Hearing,” statement before the Committee on 
+
+Banking, Housing, and Urban Affairs, U.S. Senate, Washington, D.C., 
+November 14, 
+www.federalreserve.gov/newsevents/testimony/yellen20131114a.htm. 
+
+
+

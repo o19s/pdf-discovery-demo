@@ -1,0 +1,209 @@
+
+For release of delivery 
+8:45 a.m. EDT 
+April 15, 2014 
+
+
+
+Remarks by 
+ 
+ 
+
+Janet L. Yellen 
+ 
+
+Chair 
+ 
+
+Board of Governors of the Federal Reserve System 
+ 
+
+at 
+ 
+
+The Federal Reserve Bank of Atlanta’s 2014 Financial Markets Conference 
+ 
+
+Atlanta, Georgia 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+April 15, 2014 
+ 
+
+
+
+Good morning.  I’m delighted to have this opportunity to speak to you today, even 
+
+though I am unable to be with you in person.  I’d like to share a few thoughts about the 
+
+important issues that the Financial Markets Conference (FMC) is addressing this year.  
+
+Many of these issues, of course, are ones the FMC has grappled with every year since the 
+
+crisis, an event which elevated the importance of this gathering and of the vital 
+
+contributions made by the research and the policy discussion the FMC fosters.  
+
+One of those issues is liquidity.  Maturity transformation is a central part of the 
+
+economic function of banks and many other types of financial intermediaries.  But as we 
+
+saw in the crisis, maturity transformation also exposes intermediaries to liquidity risk, 
+
+particularly when intermediaries are heavily reliant on short-term wholesale funding.  In 
+
+2007 and 2008, short-term creditors ran from firms such as Northern Rock, Bear Stearns, 
+
+and Lehman Brothers, and from money market mutual funds and asset-backed 
+
+commercial paper programs.  Together, these runs were the primary engine of a financial 
+
+crisis from which the United States and the global economy have yet to fully recover.   
+
+In response to the crisis, the Basel Committee on Banking Supervision’s first task 
+
+was to strengthen bank capital requirements through the adoption of the Basel III capital 
+
+accord and, last summer, our domestic rule implementing the Basel III capital 
+
+requirements in the United States.  Strong bank capital rules remain the foundation of 
+
+bank regulation.  But capital requirements as currently constructed are generally based on 
+
+credit and market risks from the asset side of the balance sheet and from off-balance-
+
+sheet transactions.  They do not directly address liquidity risk.  
+
+Thus, the Basel Committee’s second task was to develop new liquidity standards 
+
+for global banking firms: the Liquidity Coverage Ratio (LCR) and the Net Stable 
+
+
+ - 2 - 
+
+Funding Ratio (NSFR).  The LCR is designed to improve a bank’s ability to withstand 
+
+severe short-term liquidity stress events by requiring banking firms to hold a buffer of 
+
+highly liquid assets to cover net cash outflows in a 30-day stress scenario.  The NSFR is 
+
+meant to promote resilience over a one-year horizon by requiring banks that hold less 
+
+liquid assets to fund their activities with more stable sources of funding.  
+
+As others have observed, the new Basel liquidity standards address financial 
+
+stability risks associated with excessive maturity transformation through at least two 
+
+channels.   
+
+First, the new standards insulate banks from liquidity shocks.  In the case of the 
+
+LCR, requiring firms to hold a buffer of highly liquid assets will help to ensure that they 
+
+have a means of generating liquidity in the event of creditor runs.  In the case of the 
+
+NSFR, requiring firms to use higher levels of stable funding for less liquid assets reduces 
+
+the vulnerabilities of a firm to structural maturity mismatches.  Banking firms that self-
+
+insure against liquidity risk in these ways are less likely to need government liquidity 
+
+support in times of stress. 
+
+Second, the new standards provide an incentive for firms to move to more stable 
+
+funding structures.  Under the LCR and NSFR, firms that engage in unstable forms of 
+
+maturity transformation will be required to maintain buffers of highly liquid assets and 
+
+use stable funding, both of which will impose costs for the firms.  Reducing the amount 
+
+of maturity transformation they engage in will help firms minimize these costs.  
+
+While the LCR and NSFR are important steps forward, they do not fully address 
+
+the financial stability concerns associated with short-term wholesale funding.  These 
+
+standards tend to focus on the liquidity positions of firms taken in isolation, rather than 
+
+
+ - 3 - 
+
+on the financial system as a whole.  They only apply to internationally active banks, and 
+
+not directly to shadow banks, despite the fact that liquidity shocks within the shadow 
+
+banking system played a major role in the crisis.  Furthermore, the current versions of the 
+
+LCR and NSFR do not address financial stability risks associated with so-called matched 
+
+books of securities financing transactions.   
+
+Federal Reserve staff are actively considering additional measures that could 
+
+address these and other residual risks in the short-term wholesale funding markets.  Some 
+
+of these measures--such as requiring firms to hold larger amounts of capital, stable 
+
+funding, or highly liquid assets based on use of short-term wholesale funding--would 
+
+likely apply only to the largest, most complex banking organizations.  Other measures--
+
+such as minimum margin requirements for repurchase agreements and other securities 
+
+financing transactions--could, at least in principle, apply on a marketwide basis.  In 
+
+designing such measures, we are carefully thinking through questions about the tradeoffs 
+
+associated with tighter liquidity regulation that will be discussed at this conference. 
+
+While these cost-benefit questions are difficult to answer with either certainty or 
+
+precision, let me highlight one data point that suggests that there may be net social gains 
+
+from introducing further reforms to address short-term wholesale funding risks.  In 2010, 
+
+the Basel Committee assessed the long-term economic impact of stronger capital and 
+
+liquidity requirements for global banks.  Factoring in the Basel III capital requirements 
+
+and the NSFR, the Basel study suggested that tightening risk-based capital and liquidity 
+
+requirements would, on net, provide economic benefits, and that benefits would continue 
+
+to accrue at even higher levels of risk-based capital than are part of Basel III.   
+
+
+ - 4 - 
+
+While it would be a mistake to give undue weight to any one study, this study 
+
+provides some support for the view that there might be room for stronger capital and 
+
+liquidity standards for large banks than have been adopted so far.   
+
+As the Board continues to weigh such steps to further strengthen the financial 
+
+system, I expect that conferences like the FMC will continue to be a vital part of the 
+
+process, providing the ideas, analysis, and debate that will help us make the best possible 
+
+judgments.  Thank you for listening and for this opportunity to be a part of this important 
+
+conference.   
+
+
+
+
+
+.  
+
+
+

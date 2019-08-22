@@ -1,0 +1,723 @@
+
+For release on delivery 
+
+11:30 a.m. EDT (8:30 a.m. PDT) 
+
+June 12, 2012 
+
+
+
+
+
+
+
+
+
+Shadow Banking After the Financial Crisis 
+
+
+Remarks by 
+
+
+Daniel K. Tarullo 
+
+
+Member 
+
+
+Board of Governors of the Federal Reserve System 
+
+
+via Satellite 
+
+
+to the 
+
+
+Federal Reserve Bank of San Francisco  
+
+Conference on Challenges in Global Finance  
+
+
+San Francisco, Calif. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+June 12, 2012 
+
+
+
+
+The three decades preceding the financial crisis were characterized in the United States 
+
+by the progressive integration of traditional lending and capital markets activities.  This trend 
+
+diminished the importance of deposits as a source of funding for credit extension in favor of 
+
+capital market instruments sold to institutional investors.  It also altered the structure of the 
+
+financial services industry, both transforming the activities of broker-dealers and fostering the 
+
+emergence of large financial conglomerates.  Although the structure of foreign banking systems 
+
+was less noticeably changed, many foreign banks drew increasingly on the resulting wholesale 
+
+funding markets and made significant investments in the mortgage-backed securities that had 
+
+proliferated in the first decade of this century. 
+
+The financial crisis underscored the failure of the American regulatory system to keep 
+
+pace with these developments and revealed the need for two reform agendas.  One must be 
+
+aimed specifically at the problem of too-big-to-fail institutions.  The other must be directed at the 
+
+so-called shadow banking system, which refers to credit intermediation involving leverage and 
+
+maturity transformation that is partly or wholly outside the traditional banking system.  As I have 
+
+noted on other occasions, most reforms to date have concentrated on too-big-to-fail institutions, 
+
+though many of these reforms have yet to be fully implemented.  The shadow banking system, 
+
+on the other hand, has been only obliquely addressed, despite the fact that the most acute phase 
+
+of the crisis was precipitated by a run on that system.  Indeed, as the oversight of regulated 
+
+institutions is strengthened, opportunities for arbitrage in the shadow banking system may 
+
+increase. 
+
+Today I want to focus on the development of a regulatory reform agenda for the shadow 
+
+banking system.  As those who have been following the academic and policy debates know, 
+
+there are significant, ongoing  disagreements concerning the roles of various factors contributing 
+
+
+- 2 - 
+
+
+to the rapid growth of the shadow banking system, the precise dynamics of the runs in 2007 and 
+
+2008, and the relative social utility of some elements of this system.  Conclusions drawn from 
+
+these debates will be important in eventually framing a broadly directed regulatory plan for the 
+
+shadow banking system.  However, as it is neither necessary nor wise to await such conclusions 
+
+in order to begin implementing a regulatory response, I will follow my discussion of the 
+
+vulnerabilities created by shadow banking with some suggestions for near- and medium-term 
+
+reforms.   
+
+Fragility of the Shadow Banking System 
+
+It is not my purpose here today to discuss the history and complex nature of the shadow 
+
+banking system.  There is a rich and growing academic literature devoted to this task.  However, 
+
+I do want to identify some features of shadow banking that are reasonably well-established and 
+
+particularly salient for reform efforts.   
+
+First, and in many respects foremost, it bears noting that the use of the term ―shadow 
+
+banking‖ refers not simply to the functions of credit intermediation and maturity transformation.  
+
+Shadow banking also refers to the creation of assets that are thought to be safe, short-term, and 
+
+liquid, and as such, ―cash equivalents‖ similar to insured deposits in the commercial banking 
+
+system.  Of course, as many financial market actors learned to their dismay, in periods of stress 
+
+these assets are not the same as insured deposits.   
+
+The years preceding the financial crisis saw a surge in the volume of dollar-denominated, 
+
+seemingly safe, seemingly liquid financial instruments.  The causal interplay of factors leading to 
+
+this surge is still actively debated.  But it seems reasonably clear that both a rise in the demand 
+
+by investors for safe, liquid assets as tools for precautionary or transactional liquidity and a rise 
+
+
+- 3 - 
+
+
+in demand for short-term financing by certain borrowers—notably financial intermediaries 
+
+looking to fund longer-term assets—played important, probably reciprocally reinforcing roles. 
+
+Examples of investor demand for safe, liquid assets are not hard to identify.  One source 
+
+has been foreign official investors, mostly emerging market countries, which invested about $1.6 
+
+trillion in the United States in the four years preceding the crisis, largely in U.S. Treasury and 
+
+agency securities.  Much of this activity arose from the investment of foreign exchange reserves 
+
+by countries running large current account surpluses.  Some of these reserves were undoubtedly 
+
+built up as a precautionary measure in light of the financial problems in emerging markets during 
+
+the late 1990s, while others are attendant to policies of managed exchange rates.  This official 
+
+sector demand for safe assets was largely if not entirely focused on U.S. government securities, 
+
+rather than cash equivalents.  But this source of demand absorbed roughly 80 percent of the 
+
+increase in U.S. Treasury and agency securities over the four-year period, potentially crowding 
+
+out other investors and thereby increasing their demand for cash equivalents that appeared to be 
+
+of comparable safety and liquidity. 
+
+A second source of demand has been nonfinancial firms, which responded to the market 
+
+disruptions associated with defaults by Enron and other firms more than a decade ago by 
+
+boosting their holdings of cash.  The pressure to hold large amounts of cash likely increased 
+
+when a major ratings agency began publishing liquidity risk assessments of nonfinancial firms.  
+
+A third source of demand for cash equivalents resulted from the adoption of more 
+
+elaborate investment strategies by many institutional investors.  For example, as more such 
+
+investors used derivatives or short-selling as part of their overall strategies, they needed cash or 
+
+cash-like instruments for margining and other collateral purposes.  Moreover, of course, as the 
+
+amount of assets under professional management increased, the demand for safe, liquid 
+
+
+- 4 - 
+
+
+investments also inevitably increased, since intermediaries need a place to park funds that are 
+
+awaiting investment or needed to meet unexpected withdrawals. 
+
+The growing demand for safe and liquid assets was met largely by the shadow banking 
+
+system’s creation of assets that were seemingly safe and seemingly liquid.
+1
+  New varieties of 
+
+shadow-banking activities were created, some pre-existing types grew larger, and the shadow 
+
+banking system became much more internationalized.  For example, the volume of asset-backed 
+
+commercial paper, or ABCP, grew enormously.  Many ABCP vehicles issued short-term, highly 
+
+rated liabilities and bought longer-term, highly rated securities, often mortgage-backed 
+
+securities.  Many of the vehicles were sponsored abroad, especially by European banks, which 
+
+issued dollar-denominated ABCP in the U.S. market and bought dollar-denominated assets in the 
+
+U.S. market.  The overall volume of this activity was very large, although the net flows between 
+
+the U.S. and Europe were not, leaving European bank sponsors of such ABCP vehicles with a 
+
+huge exposure when market participants stopped believing that ABCP was risk-free.   
+
+It now seems clear that the tail risk associated with many shadow-banking instruments 
+
+was not understood by many market actors, including both sellers and buyers.  An important 
+
+contributing factor on the buyers' side that helped set the stage for the 2007-2008 financial crisis 
+
+was the widespread acceptance that risk-free assets could be created by augmenting what was 
+
+already thought to be a low-risk asset with a promise from a large financial institution to provide 
+
+liquidity or bear credit losses in the unlikely event that such support might be needed.  When, in 
+
+                                                 
+1
+ Insured demand deposits at traditional banks can help meet the needs of large investors, but only to a limited 
+
+extent.  Such accounts are unattractive to large investors because of the limited scale of Federal Deposit Insurance 
+
+Corporation (FDIC) deposit insurance; large deposits are, beyond the insurance cap, effectively unsecured exposures 
+
+to a single bank, and small deposits at multiple banks are inconvenient.  The expansion of FDIC insurance to all 
+
+noninterest bearing accounts, regardless of size—which occurred in November 2008 and which is scheduled to 
+
+expire at the end of this year—has made deposits more attractive and more heavily utilized.   
+
+
+- 5 - 
+
+
+stressed conditions, the credibility of the promise came into question, the susceptibility to runs 
+
+increased dramatically.   
+
+In some cases, there were explicit contractual provisions for liquidity support or credit 
+
+enhancements, such as were provided to ABCP vehicles by their sponsoring banks.  In other 
+
+cases, the support was more implicit, and was conveyed in the marketing of the assets or through 
+
+an historical pattern of providing support.  Forms of implicit credit support were present in a 
+
+variety of important funding channels and, to a considerable degree, persist today.  Three 
+
+examples are money market funds, the triparty repo market, and securities lending.  
+
+Money market funds aim to maintain a stable net asset value of one dollar per share and 
+
+to meet redemption requests upon demand.  As such they are the very model of a nonbank 
+
+―deposit‖ or cash equivalent.
+2
+  Unlike other mutual funds, money market funds are allowed to 
+
+round their net asset values to one dollar per share so long as the underlying value of each share 
+
+remains within one-half cent of a dollar.  But a drop in the unrounded net asset value of more 
+
+than one-half of one percent causes a money fund to ―break the buck,‖ a scenario in which 
+
+losses, at least in theory, would be passed along to the fund’s investors.   
+
+However, fund sponsors historically have absorbed losses whenever necessary to prevent 
+
+funds from breaking the buck, with only two exceptions.  Even though they had no legal 
+
+obligation to do so, sponsors voluntarily supported their funds more than 100 times between 
+
+1989 and 2003, presumably because allowing a fund to break the buck would have damaged the 
+
+sponsor’s reputation and franchise.  This tendency was well understood by investors.  Indeed, a 
+
+standard reference book on money markets states that a ―money fund run by an entity with deep 
+
+                                                 
+2
+ See Patrick McCabe (2010), ―The Cross Section of Money Market Fund Risks and Financial Crises,‖ Finance and 
+
+Economics Discussion Series 2010-51 (Washington: Board of Governors of the Federal Reserve System, 
+
+September).   
+
+
+- 6 - 
+
+
+pockets, while it may not have federal insurance, certainly has something akin to private 
+
+insurance . . . likely to prove adequate to cover any losses sustained by the fund.‖
+3
+ 
+
+Many money funds sustained significant capital losses when the market for asset-backed 
+
+commercial paper collapsed in the summer and fall of 2007.  As in previous decades, losses at 
+
+money funds were absorbed by the funds’ sponsors.  Indeed, money funds were seen as highly 
+
+safe in 2007 and received large net inflows as concerns about other portions of the financial 
+
+system increased.     
+
+But when, in 2008, the Reserve Primary Fund did not provide support for the relatively 
+
+small losses at its money market fund, the illusion that money funds were effectively as safe as 
+
+insured bank accounts was shattered.  A general run on money funds ensued.  Within two days, 
+
+investors withdrew nearly $200 billion from prime money market funds, about 10 percent of 
+
+their assets.  This contributed to severe funding pressures for issuers of commercial paper.  The 
+
+run ultimately prompted—and was stopped by—unprecedented interventions by the Treasury 
+
+and the Federal Reserve to provide insurance and liquidity support to the industry. 
+
+A second example is the triparty repo market, which had grown to about $2.8 trillion of 
+
+outstanding financing by early 2007.  In general, a repo, or ―repurchase agreement,‖ is the sale of 
+
+a security with an agreement to repurchase the security at a later date; the economics of repos are 
+
+similar to that of short-term loans collateralized by longer-term assets.  So-called triparty repos, 
+
+typically used by broker-dealers to raise financing from cash-rich institutions such as money 
+
+market funds, insurance companies, and some central banks, utilizes a particular settlement 
+
+mechanism.  The third party in this triparty market is a clearing bank, which handles settlement 
+
+through accounts held at that institution by the broker-dealers who are cash borrowers and the 
+
+                                                 
+3
+ Anthony Crescenzi and Marcia Stigum (2007), Stigum’s Money Market, 4th ed. (New York: McGraw-Hill) p. 
+
+1117. 
+
+
+- 7 - 
+
+
+cash lenders.  Because the composition and size of broker-dealers’ inventories can change 
+
+rapidly with the levels of trading activity, broker-dealers find the very flexible and inexpensive 
+
+short-term financing offered by triparty repos to be extremely attractive.  To the extent that this 
+
+borrowing appeared riskless to lenders, broker-dealers were potential suppliers through triparty 
+
+repos of the safe, liquid assets that were in such demand.     
+
+Broker-dealers who borrow in the triparty repo market want to have access to their 
+
+securities for routine trading purposes—for example, to make deliveries to clients during the day.  
+
+To allow for that, the market developed a critical operational feature called the ―daily unwind.‖  
+
+Each day, the clearing banks ―unwind‖ all repo trades, returning securities to borrowers and cash 
+
+to lenders, even for longer-dated term transactions.  However, the securities still require 
+
+financing during the day.  To this end, borrowers rely on intraday overdrafts at the two major 
+
+clearing banks.  At the end of the day, the transactions are ―re-wound.‖  Thus, the risks 
+
+associated with the portfolios of securities are fully transferred twice each day.   
+
+The lenders in this market widely believed that the two clearing banks would always 
+
+unwind their maturing trades in the morning, returning cash to their account, despite no 
+
+contractual provision requiring that the clearing banks do so.  The fact that lenders believed they 
+
+were protected in this way by the clearing bank helped perpetuate the illusion that, particularly 
+
+when lending overnight, they were invested in a money-like asset that would always be highly 
+
+liquid and safe, even though in reality the borrower was usually an entity that could go bankrupt.   
+
+This illusion faded as the financial crisis progressed.  Significant strains were created by 
+
+concerns about the financial strength of the broker-dealers, uncertainty about the value of the 
+
+underlying collateral, and belated recognition that the clearing banks were not contractually 
+
+obligated to unwind maturing trades.  Only when the prospect of dealer failures became very 
+
+
+- 8 - 
+
+
+real—for example, in the case of Countrywide’s broker-dealer affiliate in August 2007 and Bear 
+
+Stearns in March 2008—did the lenders appear to see these risks clearly.  In addition, the 
+
+presumed stabilizing function of collateral was weakened, since a default by a dealer or clearing 
+
+bank could leave lenders with securities posted as collateral that they had no desire, operational 
+
+capacity, or even, in some cases, legal authority to hold, or at least liquidate in an orderly way. 
+
+The response at that point was to flee, ignoring the protection putatively afforded by collateral. 
+
+Only because of unprecedented official-sector action did the triparty repo market not 
+
+suffer the same kind of disastrous run as did money market funds.  A broad run on triparty repos 
+
+would have severely impacted all major broker-dealers and thus the U.S. securities industry as a 
+
+whole.  The Primary Dealer Credit Facility—instituted on an emergency basis immediately after 
+
+the failure of Bear Stearns—provided emergency lending to dealers, injected liquidity into the 
+
+system, and provided a backstop that reassured markets.  This public-sector support prevailed 
+
+where implicit private-sector support had come into question, and helped stabilize the triparty 
+
+repo market.  
+
+My third example of a funding channel characterized by tacit credit support is the 
+
+securities lending market, which is driven in large part by demand for securities by financial 
+
+institutions wanting to establish short positions or needing collateral to support other 
+
+transactions.  Securities lenders in this market are typically owners of large pools of securities 
+
+such as pension plans, endowments, and insurance companies.  The securities borrower posts 
+
+collateral, usually cash in the United States, which a custodian bank then typically invests on 
+
+behalf of the securities lender in supposedly safe and liquid investments, including money 
+
+market funds, triparty repos, and other short-term instruments.  The gains from these 
+
+
+- 9 - 
+
+
+reinvestment activities provide a significant amount—in some cases, all—of the compensation to 
+
+the securities lender associated with participating in the lending program.
+4
+ 
+
+The custodian banks all but universally provided a contractual indemnification to the 
+
+securities lender that required them to absorb any losses to the securities lenders if the securities 
+
+were not returned.  But the investment returns, and risk of loss on the reinvestment of cash 
+
+collateral that would have to be returned to the borrowers of securities, generally were not 
+
+covered by such indemnifications.  Nonetheless, a number of securities lenders seemed to 
+
+believe otherwise, and in many cases their expectations were fulfilled as custodian banks agreed 
+
+during the financial crisis to bear at least some of the losses from cash collateral reinvestment 
+
+programs.  
+
+Although the experiences of money market funds, triparty repos, and securities lending 
+
+vary in the details, they all share a common underlying pathology:  Offering documents with 
+
+stern warnings notwithstanding, explicit and implicit commitments combined with a history of 
+
+discretionary support to create an assumption, even among sophisticated investors, that low-risk 
+
+assets were free of credit and liquidity risk – effectively cash, but with a slightly higher return.  
+
+This risk illusion led to pervasive underpricing of the risks embedded in these money-like 
+
+instruments and made them an artificially cheap source of funding.  The consequent oversupply 
+
+of these instruments contributed importantly to systemic risk.   
+
+Reliance on private mechanisms to create seemingly riskless assets generally worked in 
+
+the relatively calm years leading up to the financial crisis and, to some extent, well into the crisis.  
+
+But, in many cases, discretionary support came into question at the time of acute financial-
+
+market stress, precisely when it was needed most, as questions arose about the ability or 
+
+                                                 
+4
+ Much of the attention devoted to securities lending in the wake of the crisis focused on the program run by AIG.  
+
+In addition to general issues involving the reinvestment of cash collateral, AIG’s securities lending program had 
+
+more specific and fundamental flaws that go beyond the concerns discussed here. 
+
+
+- 10 - 
+
+
+willingness of large financial institutions to follow through on their implicit commitments.  
+
+Investors were reminded of their potential exposure, leading to wholesale and sometimes 
+
+disorderly flight.  The unwinding of this risk illusion helped transform a dramatic correction in 
+
+real estate valuations—which itself would have had serious consequences for the economy—into 
+
+a crisis that threatened the entire financial system. 
+
+Shaping a Regulatory Response 
+
+  Ideally, a regulatory response to the shadow banking system would be grounded in a full 
+
+understanding of the dynamics that drove its rapid growth, the social utility of its intermediation 
+
+activities, and the risks they create.  Such a response would be comprehensive, meaning that it 
+
+would cover in an effective and efficient manner any activities that create these vulnerabilities, 
+
+without regard to how the activities were denominated, what transaction forms were used, or 
+
+where they were conducted.  Of course, many of the key issues are still being debated, and even 
+
+those who agree on the desirability of a comprehensive response may differ on its basic form.   
+
+We should continue to seek the analytic and policy consensus that must precede the 
+
+creation of a regulatory program that meets these conditions.  More work is needed on 
+
+fundamental issues such as the implications of private money creation and of intermediaries 
+
+behaving like banks but without bank-like regulation.  These implications are potentially quite 
+
+profound for central banking and banking regulation, considering that the shadow banking 
+
+system has caused the volume of money-like instruments created outside the purview of central 
+
+bank and regulatory control to grow markedly.   
+
+But regulators need not wait for the full resolution of contested issues or the development 
+
+of comprehensive alternatives, nor would it be prudent for them to do so.  We should act now to 
+
+address some obvious sources of vulnerability in the financial system.  I believe that the 
+
+
+- 11 - 
+
+
+foregoing discussion of implicit support for various shadow banking instruments helps identify 
+
+areas where misunderstanding and mispricing of risk are more likely, with the result that 
+
+destabilizing runs are a real possibility.   
+
+Let me then suggest three more-or-less immediate steps that regulators here and abroad 
+
+should take, as well as a medium-term reform undertaking. 
+
+First, we should create greater transparency with respect to the various transactions and 
+
+markets that comprise the shadow banking system.  For example, large segments of the repo 
+
+market remain opaque today.  In fact, at present there is no way that regulators or market 
+
+participants can precisely determine even the overall volume of bilateral repo transactions—that 
+
+is, transactions not settled using the triparty mechanism.  It is encouraging that the Treasury 
+
+Department’s new Office of Financial Research is working to improve information about this 
+
+market, while the Securities and Exchange Commission is considering approaches to enhanced 
+
+transparency in the closely related securities lending market.   
+
+ Second, the risk of runs on money market mutual funds should be further reduced 
+
+through additional measures to address the structural vulnerabilities that have persisted even after 
+
+the measures taken by the SEC in 2010 to improve the resilience of those funds.  The SEC is 
+
+currently considering several possible reforms, including a floating net asset value, capital 
+
+requirements, and restrictions on redemption.  Clearly, as suggested by Chairman Schapiro, 
+
+action by the SEC to address the vulnerabilities that were so evident in 2008, while also 
+
+preserving the economic role of money market funds, is the preferable route.  But in the absence 
+
+of such action, there are several second-best alternatives, including the recent suggestion by 
+
+Deputy Governor Tucker of the Bank of England that supervisors consider setting new limits on 
+
+banks’ reliance on funding provided by money market funds. 
+
+
+- 12 - 
+
+
+A third short-term priority is to address the settlement process for triparty repurchase 
+
+agreements.  Some progress has been made since 2008, but clearly more remains to be done.  An 
+
+industry-led task force established in 2009 orchestrated the implementation of some important 
+
+improvements to the settlement process.  The unwind, with its reliance on vast amounts of 
+
+discretionary and uncommitted intraday credit from the two clearing banks, was pushed to later 
+
+in the day, reducing the period during which the intraday credit was extended.  In addition, new 
+
+tools were developed for better intraday collateral management, and an improved confirmation 
+
+process was instituted.   
+
+Though these were useful steps, the key risk reduction goal of the effective elimination of 
+
+intraday credit has not yet been achieved.  A second phase of triparty reform is now underway, 
+
+with the Federal Reserve using its supervisory authority to press for further action not only by 
+
+the clearing banks, who of course manage the settlement process, but also by the dealer affiliates 
+
+of bank holding companies, who are the clearing banks’ largest customers for triparty 
+
+transactions.  But this approach alone will not suffice.  All regulators and supervisors with 
+
+responsibility for overseeing the various entities active in the triparty market will need to work 
+
+together to ensure that critical enhancements to risk management and settlement processes are 
+
+implemented uniformly and robustly across the entire market, and to encourage the development 
+
+of mechanisms for orderly liquidation of collateral, so as to prevent a fire sale of assets in the 
+
+event that any major triparty market participant faces distress.   
+
+In the medium term, a broader reform agenda for shadow banking will first need to 
+
+address the fact that there is little constraint on the use of leverage in some key types of 
+
+transactions.  One proposal is for a system of haircut and margin requirements that would be 
+
+uniformly applied across a range of markets, including OTC derivatives, repurchase agreements, 
+
+
+- 13 - 
+
+
+and securities lending.  Work is ongoing to develop globally uniform margin requirements for 
+
+OTC derivatives, but there is not yet an agreement to develop globally uniform margin 
+
+requirements for securities financing transactions.  Such a margining system would not only limit 
+
+leverage, but—to the extent it is in fact uniform—also diminish incentives to use more 
+
+complicated and less transparent transactional forms to increase leverage or reduce its cost.  
+
+Some proponents suggest that such systems of uniform haircut and margin requirements could 
+
+also dampen the observed procyclical character of many collateralized borrowings that results 
+
+from changes in margins and haircuts following general economic or credit trends. 
+
+Conclusion 
+
+The shadow banking system today is considerably smaller than at the height of the 
+
+housing bubble six or seven years ago.  And it is very likely that some forms of shadow banking 
+
+most closely associated with that bubble have disappeared forever.  But as the economy recovers, 
+
+it is nearly as likely that, without policy changes, existing channels for shadow banking will 
+
+grow, and new forms creating new vulnerabilities will arise.  That is why I suggest what is, in 
+
+essence, a two-pronged agenda: first, near-term action to address current channels where 
+
+mispricing, run risk, and potential moral hazard are evident; and, second, continuation of the 
+
+academic and policy debate on more fundamental measures to address these issues more broadly 
+
+and proactively. 
+

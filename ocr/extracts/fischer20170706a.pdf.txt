@@ -1,0 +1,692 @@
+
+For release on delivery 
+7:30 p.m. EDT  
+July 6, 2017 
+ 
+
+
+Government Policy and Labor Productivity 
+ 
+ 
+ 
+
+Remarks by 
+ 
+
+Stanley Fischer 
+ 
+
+Vice Chairman 
+ 
+
+Board of Governors of the Federal Reserve System 
+ 
+
+at 
+ 
+
+“Washington Transformation?  Politics, Policies, Prospects,” a forum sponsored by the  
+Summer Institute of Martha’s Vineyard Hebrew Center 
+
+ 
+Vineyard Haven, Massachusetts 
+
+
+July 6, 2017 
+ 
+
+
+
+I want to talk tonight about labor productivity growth.  Labor productivity is the 
+
+amount of goods and services produced per hour spent on the job.  Increases in labor 
+
+productivity--again, that’s the amount of goods and services produced per hour on the 
+
+job--are a fundamental factor in determining how fast the economy grows, and how fast 
+
+the average standard of living grows.  And productivity growth can be influenced by 
+
+government policy, about which I also want to say a few words.1   
+
+Labor productivity growth varies a lot from year to year, but it is possible to 
+
+discern longer historical periods with high or low productivity growth, as shown in 
+
+figure 1.  For example, labor productivity rose at an average annual rate of 3-1/4 percent 
+
+from 1948 to 1973, whereas in the period 1974 to 2016, the average growth rate of 
+
+productivity was about 1.7 percent.  That is to say that, with the important exception of 
+
+the information technology (IT) boom beginning in the mid-1990s, the U.S. economy has 
+
+been in a low-productivity growth period since 1974.  The record for the past five years 
+
+has been particularly dismal.   
+
+How much does productivity growth matter?  A great deal.  The person who made 
+
+that clear, in an article published in 1957, 60 years ago, Professor Robert Solow, is here 
+
+tonight.  That is a pleasure, an honor, a joy, and something of a difficulty for anyone 
+
+wanting to talk about productivity and its growth in the presence of the master.   
+
+The reason the rate of productivity growth matters so much is that it is a basic 
+
+determinant of the rate of growth of average income per capita over long periods.2  To 
+
+                                                 
+1 I am grateful to David Byrne of the Federal Reserve Board for his assistance.  Views expressed in this 
+presentation are my own and not necessarily those of the Federal Reserve Board or the Federal Open 
+Market Committee. 
+2 One needs also to recognize that changes in either the average workweek or the employment to population 
+ratio may damp or augment the effect of labor productivity on GDP per capita.   
+
+
+ - 2 - 
+
+understand that one needs to know only the trick of calculating how long it takes for a 
+
+growing economy to double.  A good rule of thumb for calculating the time it takes labor 
+
+productivity (or anything else that is growing) to double can be calculated by dividing 70 
+
+by the growth rate.  When labor productivity was growing at 3-1/4 percent per 
+
+year--during the 25 years from 1948 to 1973--it took 22 years for labor productivity to 
+
+double.  Looking again at Figure 1, in the 42 years from 1974 to 2016, when labor 
+
+productivity was growing on average at a rate of 1-3/4 percent, it would have taken 
+
+approximately 41 years for labor productivity to double.  There is a vast difference 
+
+between the prospects facing the young in an economy where incomes per capita are 
+
+doubling every 22 years and an economy in which incomes are on average doubling only 
+
+every 41 years.   
+
+Now, productivity statistics are imperfect in many respects--for example, 
+
+capturing the value of the seemingly free apps we use on our smartphones is challenging.    
+
+And many of us who live in the modern age cannot believe that the iPhone has not 
+
+fundamentally changed our lives.  It has certainly changed our lives to some extent, and 
+
+there is likely some underestimation of productivity growth in the official data.  But to 
+
+figure out whether the current degree of data bias has reduced estimated growth, we have 
+
+to ask not whether there is bias, but whether the bias has increased.  To a first 
+
+approximation, one could assume that the rate of bias is constant, and does not account 
+
+for the estimated decline in productivity growth and that we should not dismiss the 
+
+slowdown as an artifact of measurement difficulties3  That is the conclusion most 
+
+researchers reach, but the data issue is not settled.  As Bob Solow famously said, just 
+
+                                                 
+3 Byrne, Fernald, and Reinsdorf (2016) discuss known measurement challenges and conclude they cannot 
+explain the deceleration of productivity. 
+
+
+ - 3 - 
+
+before the increase in productivity growth of 1996-2003, “the computer is everywhere 
+
+except in the growth data.”  And there are serious researchers who have made serious 
+
+arguments that we will soon be seeing more rapid growth in the productivity data.   
+
+Factors determining productivity growth 
+
+Clearly, a key question for economic forecasters, and even more so for U.S. 
+
+citizens, and indeed for the entire global economy, is whether we should anticipate a 
+
+return of the more rapid productivity gains experienced in the IT boom and for the 
+
+quarter century after the end of World War II, or should instead resign ourselves to tepid 
+
+economic growth in future years.  And a central policy issue is whether government 
+
+policies can help push the economy toward a higher-productivity regime.   
+
+In this context, it is useful to think of labor productivity growth as coming from 
+
+three sources, as shown in figure 2.  First, greater investment by firms in tangible 
+
+equipment and structures, as well as “intangible” investments such as software and 
+
+product designs, raise labor productivity.  Second, improvements in labor quality, or the 
+
+capabilities of the workforce, contribute as well--through education, training, and 
+
+experience.  Finally, innovations yield more or better output from the same inputs--the 
+
+same capital and labor--such as the introduction of the assembly line and computer-aided 
+
+product design.  I will consider the role that policy may play through each of these 
+
+channels.  It is noteworthy that most of the recent drop in productivity is due to a lower 
+
+contribution from innovation, although weaker investment has played a role as well.  The 
+
+contribution to labor productivity from labor quality has changed very little. 
+
+
+ - 4 - 
+
+Innovation 
+
+Our prospects for further significant technological innovations are hotly debated.  
+
+Some observers believe that we have exhausted the low-hanging fruit on the productivity 
+
+tree and, in particular, that efficiency gains from the use of IT have run their course.4  
+
+Other observers argue that we can reach fruit higher on the tree with each passing year.  
+
+These observers believe that innovation yields better tools, such as 3-D printers and 
+
+genetic sequencing equipment, which themselves enable further technological advances.5  
+
+For what it is worth, I believe the early signs of self-driving cars, the emergence of 
+
+disease treatments based on genetics, and the falling costs for conventional and 
+
+alternative energy production suggest that we are continuing to innovate, both in IT as 
+
+well as in other parts of the economy.  One possibility is that we are in a productivity lull 
+
+while firms reorganize to exploit the latest innovations; it took decades before the full 
+
+benefits of the steam engine, electrification, and computers were seen.6 
+
+One way to ensure the vigor of innovation is to support research and development 
+
+(R&D), and here the recent record is mixed.  As shown in figure 3, R&D spending in the 
+
+United States softened during the Great Recession.  R&D funded by U.S. businesses has 
+
+since recovered.  However, government-funded R&D as a share of gross domestic 
+
+product is at the lowest level in recent history.  A great deal of the “R” in overall R&D is 
+
+                                                 
+4 Gordon (2014, p. 25) enumerates the inventions of the information age--the personal computer, the 
+Internet, mobile phones, and so on--and notes that for innovation to continue at such a pace, “the 
+achievements of the past 40 years set a hurdle that is dauntingly high.” 
+5 Mokyr (2014, p. 83) considers advances in research methods and tools and concludes that “the indirect 
+effects of science on productivity through the tools it provides scientific research may dwarf the direct 
+effects in the long run.” 
+6 David (1990) cautions that the effect of general-purpose technologies, such as electricity and electronic 
+computing, can take decades to fully unfold.  Brynjolfsson and Hitt (2000) consider the process followed 
+by firms in leveraging innovations in IT equipment and emphasize the role of complementary investment in 
+intangible assets like business reorganization. 
+
+
+ - 5 - 
+
+government funded and not tied to a specific commercial goal.  The applied research built 
+
+on this basic research ultimately yields productivity gains far into the future.7  
+
+Consequently, the decline in government-funded R&D is disturbing. 
+
+To raise productivity and economic well-being, firms must adopt innovations that 
+
+emerge from R&D as quickly as possible.  This adjustment may occur as start-ups 
+
+introduce innovation to the market, as existing innovative firms expand, or as competing 
+
+firms imitate the innovators.  Recent research suggests that all three of these channels, 
+
+which reflect the economic dynamism of businesses, have been operating sluggishly of 
+
+late:  New firms are not created as often as in the past, innovative firms are not hiring or 
+
+investing as aggressively as they once did, and the diffusion of innovations is weak from 
+
+frontier firms to trailing firms.8   
+
+It is difficult to pinpoint specific policy actions that would address this decline in 
+
+dynamism.  Broadly speaking, however, government policymakers should carefully 
+
+consider the effects of regulations and tax policy on the free flow of workers, capital, and 
+
+ideas. 
+
+Investment 
+
+In recent years, the contribution to labor productivity growth from investment has 
+
+declined.  Business fixed investment rose roughly 2-1/2 percent per year, on average, 
+
+from 2004 to 2016, compared with about 5 percent from 1996 to 2003.9  Some bright 
+
+                                                 
+7  Mohnen and Hall (2013) survey the empirical literature pointing to a link between R&D and 
+productivity. 
+8 Decker and others (2016) highlight the decline in entrepreneurship and worker mobility; Andrews, 
+Criscuolo, and Gal (2015) emphasizes that productivity for firms at the global frontier continues to advance 
+rapidly even as global aggregate productivity growth has slowed. 
+9 Pinto and Tevlin (2014) note that in the context of a long-run growth model, a slow pace of investment is 
+not surprising in light of the slow growth in effective labor inputs--which equals the sum of labor quality 
+and total factor productivity growth.  Fernald and others (2017) raise a related point--the ratio of capital to 
+
+
+ - 6 - 
+
+spots do exist:  Capital expenditure by leading IT companies--Google, Amazon, and the 
+
+like--has soared since 2010, and investment in the energy sector has returned to life.  
+
+Nevertheless, firms as a whole seem reluctant to invest. 
+
+This cautious approach to investment may in part reflect uncertainty about the 
+
+policy environment.  By one measure, U.S. policy uncertainty was elevated for much of 
+
+the recovery, subsided in 2013, and then rose again late last year, underpinned by 
+
+uncertainty about policies associated with health care, regulation, taxes, and trade.10  
+
+Reasonable people can disagree about the right way forward on each of those issues, but 
+
+mitigating the damping effect of uncertainty by providing more clarity on the future 
+
+direction of government policy is highly desirable--particularly if the direction of policy 
+
+itself is desirable.   
+
+Government investment can be an important source of productivity growth as 
+
+well.  For example, the interstate highway system is credited with boosting productivity 
+
+in the 1950s and 1960s.11  That highway system and many other federally supported 
+
+roadways, waterways, and structures have been neglected in recent years.  Indeed, real 
+
+infrastructure spending (that is, adjusting for inflation) has fallen nearly 1 percent per 
+
+year since 2005.12  This area of government investment deserves more attention. 
+
+                                                 
+output has returned to its apparent long-run trend.  That said, Byrne, Oliner, and Sichel (2017) argue that 
+the recent rapid declines in the price of IT capital may presage an uptick in investment in response. 
+10 As discussed in Baker, Bloom, and Davis (2012), the Economic Policy Uncertainty (EPU) index, 
+available on the EPU website at www.policyuncertainty.com, is constructed from component measures for 
+references to policy uncertainty in major newspapers, the number of tax code provisions set to expire in 
+future years, and disagreement among economic forecasters. 
+11 See Fernald (1999). 
+12 Although the share of nominal public spending devoted to infrastructure in recent years has been similar 
+to the share dating back to the 1980s, Congressional Budget Office (2015) notes that real spending has been 
+held down by the relatively rapid increase in the price of inputs used for construction. 
+
+
+ - 7 - 
+
+Labor Quality 
+
+Also important to raising labor productivity is investment in human capital--
+
+workers’ knowledge and skills.  Such investment is a particular issue because most 
+
+forecasts anticipate that the long rise in educational attainment--both for college and high 
+
+school--may soon come to an end.  One area where policy may play a role is promoting 
+
+educational access and readiness for groups for whom educational attainment is relatively 
+
+low. 
+
+Recent research has shown a substantial return to public investment in early 
+
+childhood education for economically disadvantaged groups.  Such programs increase 
+
+high school graduation, promote income over the life cycle for both participants and their 
+
+parents, and produce other socially beneficial outcomes, such as greater health. 13   
+
+At the other end of the education process, a college degree has long been 
+
+considered a worthwhile investment, and thus our society should promote access to and 
+
+readiness for college among a broad range of individuals--in particular through federal 
+
+support for need-based financial aid.14 
+
+Lastly, I will note that ultimately the return on the human capital embodied in our 
+
+workforce is closely tied to public health.  A rise in morbidity or fall in longevity in the 
+
+U.S. population is not a concern only for humanitarian reasons.  Workers too ill to 
+
+perform at their potential represent lost productivity and welfare for society as a whole.  
+
+Research has shown just such a trend among prime-age non-Hispanic Americans without 
+
+                                                 
+13 Research on the effect of early childhood education is surveyed in Elango and others (2015).  Garcia and 
+others (2017) consider the effect over the full life cycle of an early childhood program targeting 
+disadvantaged families and estimate an internal rate of return of nearly 14 percent. 
+14 Dynarski and Scott-Clayton (2013) review the evidence that college enrollment rates are positively 
+affected by student aid. 
+
+
+ - 8 - 
+
+a college degree.15  More study is needed to determine what policies would help reverse 
+
+this trend, and government funding could likely assist the effort.  More broadly, programs 
+
+to promote clean air and drinking water are examples of public health policies that bolster 
+
+the health and longevity of the present and future workforce as a whole. 
+
+Concluding remarks 
+
+To conclude, we return to the basic question:  How much does productivity 
+
+growth matter?  The basic answer: simple arithmetic says it matters a lot.  If labor 
+
+productivity grows an average of 2 percent per year, average living standards for our 
+
+children’s generation will be twice what we experienced.  If labor productivity grows an 
+
+average of 1 percent per year, the difference is dramatic:  Living standards will take two 
+
+generations to double.16   
+
+But fortunately, when it comes to productivity, we are not simply consigned to 
+
+luck or to fate.  Governments can take sensible actions to promote more rapid 
+
+productivity growth.  Broadly speaking, government policy works best when it can 
+
+address a need that the private sector neglects, including investment in basic research, 
+
+infrastructure, early childhood education, schooling, and public health.  Reasonable 
+
+people can disagree about the right way forward, but if we as a society are to succeed, we 
+
+need to follow policies that will support and advance productivity growth.  That is easier 
+
+said than done.  But it can be done.   
+
+
+                                                 
+15 See Case and Deaton (2017). 
+16 To be precise, this illustrative calculation assumes that the average workweek and the employment-to-
+population ratio are unchanged. 
+
+
+ - 9 - 
+
+References  
+
+Andrews, Dan, Chiara Criscuolo, and Peter Gal (2015). Frontier firms, technology 
+diffusion and public policy: Micro evidence from OECD countries, No. 2. OECD 
+Publishing, 2015.  
+
+Baker, Scott R., Nicholas Bloom, and Steven J. Davis (2012).  “Has Economic Policy 
+Uncertainty Hampered the Recovery?” in Lee E. Ohanian, John B. Taylor, and 
+Ian J. Wright, eds., Government Policies and the Delayed Economic Recovery.  
+Stanford, Calif.:  Hoover Institution Press, pp. 39-56.  
+
+Bosler, Canyon, Mary C. Daly, John G. Fernald, and Bart Hobijn (2016).  “The Outlook 
+for U.S. Labor-Quality Growth,” NBER Working Paper Series 22555.  
+Cambridge, Mass.:  National Bureau of Economic Research, August.  
+
+Brynjolfsson, Erik, and Lorin M. Hitt (2000).  “Beyond Computation:  Information 
+Technology, Organizational Transformation, and Business Performance,” Journal 
+of Economic Perspectives, vol. 14 (Fall), pp. 23-48.  
+
+Byrne, David M., John G. Fernald, and Marshall B. Reinsdorf (2016).  “Does the United 
+States Have a Productivity Slowdown or a Measurement Problem?” Brookings 
+Papers on Economic Activity, Spring, pp. 109-57, https://www.brookings.edu/wp-
+content/uploads/2016/03/byrnetextspring16bpea.pdf. 
+
+Byrne, David, Stephen Oliner, and Daniel Sichel (2017).  “Prices of High-Tech Products, 
+Mismeasurement, and Pace of Innovation,” NBER Working Paper Series 23369.  
+Cambridge, Mass.:  National Bureau of Economic Research, April.  
+
+Case, Anne, and Angus Deaton (2017).  “Mortality and Morbidity in the 21st Century,” 
+Brookings Papers on Economic Activity, Spring, pp. 1-63, 
+https://www.brookings.edu/wp-
+content/uploads/2017/03/casedeaton_sp17_finaldraft.pdf.  
+
+Congressional Budget Office (2015). Public Spending on Transportation and Water 
+Infrastructure, 1956 to 2014.  Washington:  CBO, March, 
+https://www.cbo.gov/publication/49910.  
+
+David, Paul A. (1990).  “The Dynamo and the Computer:  An Historical Perspective on 
+the Modern Productivity Paradox,” American Economic Review, vol. 80 (May), 
+pp. 355-61.  
+
+Decker, Ryan A., John Haltiwanger, Ron S. Jarmin, and Javier Miranda (2016).  
+“Declining Business Dynamism:  What We Know and the Way Forward,” 
+American Economic Review, vol. 106 (May), pp. 203-07.  
+
+
+ - 10 - 
+
+Dynarski, Susan, and Judith Scott-Clayton (2013).  “Financial Aid Policy:  Lessons from 
+Research,” NBER Working Paper Series 18710.  Cambridge, Mass.:  National 
+Bureau of Economic Research, January.  
+
+Elango, Sneha, Jorge Luis García, James J. Heckman, and Andrés Hojman (2015).  
+“Early Childhood Education,” NBER Working Paper Series 21766.  Cambridge, 
+Mass.:  National Bureau of Economic Research, November.  
+
+Fernald, John G. (1999).  “Roads to Prosperity?  Assessing the Link between Public 
+Capital and Productivity,” American Economic Review, vol. 89 (June), 
+pp. 619-38. 
+
+Fernald, John G. (2012).  “A Quarterly, Utilization-Adjusted Series on Total Factor 
+Productivity,” Working Paper 2012-19.  San Francisco: Federal Reserve Bank of 
+San Francisco, September (revised April, 2014), www.frbsf.org/economic-
+research/files/wp12-19bk.pdf. 
+
+Fernald, John G. (2015).  “Productivity and Potential Output before, during, and after the 
+Great Recession,” NBER Macroeconomics Annual, vol. 29 (1), pp. 1-51. 
+
+Fernald, John G., Robert E. Hall, James H. Stock, and Mark W. Watson (2017).  “The 
+Disappointing Recovery of Output after 2009,” Brookings Papers on Economic 
+Activity, Spring, 1-82, https://www.brookings.edu/wp-
+content/uploads/2017/03/1_fernaldetal.pdf.  
+
+García, Jorge Luis, James J. Heckman, Duncan Ermini Leaf, and María José Prados 
+(2017).  “Quantifying the Life-Cycle Benefits of a Prototypical Early Childhood 
+Program,” NBER Working Paper Series 23479.  Cambridge, Mass.:  National 
+Bureau of Economic Research, June.  
+
+Gordon, Robert (2014). "The demise of US economic growth: Restatement, rebuttal, and 
+reflections," NBER Working Paper Series 19895.  Cambridge, Mass.:  National 
+Bureau of Economic Research, November. 
+
+Mohnen, Pierre, and Bronwyn H. Hall (2013).  “Innovation and Productivity:  An 
+Update,” Eurasian Business Review, vol. 3 (Spring), pp. 47-65.  
+
+Mokyr, Joel (2014).  “Secular Stagnation?  Not in Your Life,” in Coen Teulings and 
+Richard Baldwin, eds., Secular Stagnation:  Facts, Causes, and Cures.  London:  
+CEPR Press, pp. 83-89.  
+
+Pinto, Eugenio P., and Stacey Tevlin (2014). "Perspectives on the Recent Weakness in 
+Investment," FEDS Notes, No. 2014-05-21.  
+
+Solow, Robert M. (1957).  “Technical Change and the Aggregate Production Function,”  
+Review of Economics and Statistics, vol. 39 (August), pp. 312-20. 
+
+
+ - 11 - 
+
+United States. Bureau of the Census (1975). Historical statistics of the United States, 
+colonial times to 1970.  Washington: US Department of Commerce, Bureau of the 
+Census, September, hsus.cambridge.org/HSUSWeb/HSUSEntryServlet.  
+
+
+
+
+Government Policy and Labor Productivity
+
+Remarks by
+
+Vice Chairman Stanley Fischer 
+Board of Governors of the Federal Reserve System
+
+at the
+Summer Institute of Martha’s Vineyard Hebrew Center
+
+July 6, 2017
+
+
+ ‐
+
+ 0.50
+
+ 1.00
+
+ 1.50
+
+ 2.00
+
+ 2.50
+
+ 3.00
+
+ 3.50
+
+1890‐1918 1919‐29 1930‐47 1948‐73 1974‐95 1996‐2003 2004‐16
+
+Av
+er
+ag
+e 
+An
+
+nu
+al
+ G
+ro
+w
+th
+ in
+ O
+ut
+pu
+
+t p
+er
+ H
+ou
+
+r (
+Pe
+rc
+en
+t)
+
+Figure 1.  U.S. Labor Productivity Growth, by Historical Period
+
+Note: Nonfarm business labor productivity.  Breaks in 1890, 1919, and 1930 are National Bureau of
+Economic Research business cycle peaks.  Breaks in 1947, 1973, 1995, and 2003 are from statistical 
+tests in Fernald (2015).
+Source: Historical Statistics of the United States (1890‐1947); Bureau of Labor Statistics (1948‐2016).
+
+
+ ‐
+
+ 0.5
+
+ 1.0
+
+ 1.5
+
+ 2.0
+
+ 2.5
+
+ 3.0
+
+ 3.5
+
+1948‐73 1974‐95 1996‐2003 2004‐16
+
+Pe
+rc
+en
+ta
+ge
+ P
+oi
+nt
+s
+
+Figure 2.  Contributions to the Growth of Labor Productivity
+
+Contribution from Innovation
+
+Contribution from Investment
+
+Contribution from Labor Quality
+
+Source:  John G. Fernald, "A Quarterly, Utilization‐Adjusted Series on Total Factor Productivity,"
+FRBSF Working Paper 2012‐19.  Data updated June 5, 2017.
+
+
+0.6%
+
+0.8%
+
+1.0%
+
+1.2%
+
+1.4%
+
+1.6%
+
+1.8%
+
+1970 1975 1980 1985 1990 1995 2000 2005 2010 2015
+
+Sh
+ar
+e 
+of
+ G
+ro
+ss
+ D
+om
+
+es
+tic
+
+ P
+ro
+du
+
+ct
+ 
+
+Figure 3.  U.S. Research and Development Spending
+(Percent of GDP)
+
+Business
+
+Government
+
+Source:  Organisation for Economic Co‐operation and Development; Bureau of Economic Analysis.
+
+Annual
+

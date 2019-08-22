@@ -1,0 +1,374 @@
+
+For release on delivery 
+
+5:00 p.m. EST 
+
+November 30, 2012 
+
+
+
+
+
+
+
+
+
+
+
+
+Remarks by 
+
+
+Jeremy C. Stein 
+
+
+Member 
+
+
+Board of Governors of the Federal Reserve System 
+
+
+at 
+
+
+The Third Boston University/Boston Fed Conference on Macro-Finance Linkages 
+
+
+Boston, Massachusetts 
+
+
+
+
+
+
+
+
+November 30, 2012 
+
+
+
+
+Given that the conference theme is macro-finance linkages, I thought I would try 
+
+to lay out a corporate finance perspective on large-scale asset purchases (LSAPs).  I have 
+
+found this perspective helpful in thinking both about the general efficacy of LSAPs going 
+
+forward, and about the differential effects of buying Treasury securities as opposed to 
+
+mortgage-backed securities (MBS).  But before I get started, please note the usual 
+
+disclaimer:  The thoughts that follow are my own and do not necessarily reflect the views 
+
+of other members of the Federal Open Market Committee (FOMC).  I should also 
+
+mention that these comments echo some that I made in a speech at Brookings last 
+
+month.
+1
+  As I noted in that speech, I support the Committee’s decision to purchase 
+
+mortgage-backed securities (MBS) at a rate of $40 billion per month, in tandem with the 
+
+ongoing maturity extension program in Treasury securities, and its plan to continue with 
+
+asset purchases if the Committee does not observe a substantial improvement in the 
+
+outlook for the labor market. 
+
+I will start with the case of Treasury LSAPs, and then go on to discuss the 
+
+differences that arise when the Fed purchases MBS instead.  One thing that seems clear in 
+
+the data is that if you buy a lot of long-term Treasury securities, this exerts significant 
+
+downward pressure on their yields and term premiums.  Indeed, the Fed’s past actions are 
+
+likely one important reason why Treasury term premiums are now near historic lows, on 
+
+the order of minus 80 basis points, according to a model used by the Board staff.
+2
+  
+
+Moreover, while this is not entirely uncontroversial, my own reading of the evidence is 
+
+                                                 
+1
+ See Jeremy C. Stein (2012), “Evaluating Large-Scale Asset Purchases,” speech delivered at the Brookings 
+
+Institution, Washington, October 11, www.federalreserve.gov/newsevents/speech/stein20121011a.htm. 
+2
+ See Don H. Kim and Jonathan H. Wright (2005), “An Arbitrage-Free Three-Factor Term Structure Model 
+
+and the Recent Behavior of Long-Term Yields and Distant-Horizon Forward Rates,” Finance and 
+
+Economics Discussion Series 2005-33 (Washington:  Board of Governors of the Federal Reserve System, 
+
+August), www.federalreserve.gov/pubs/feds/2005/200533/200533pap.pdf. 
+
+
+- 2 - 
+
+
+
+
+that there has also been substantial pass-through to corporate bond rates.  Based on this 
+
+evidence, a reasonable estimate is that, if the Fed were to undertake an additional $500 
+
+billion Treasury LSAP, both long-term Treasury and corporate bond rates might be 
+
+expected to decline by something on the order of 15 to 20 basis points.   
+
+This observation leads to an important conceptual question:  How should one 
+
+expect a firm to respond when its long-term borrowing costs fall not because of a change 
+
+in the expected future path of short-term rates--as would be the case with a conventional 
+
+monetary easing--but rather because of a change in the term premium?  By way of a 
+
+benchmark, it should be emphasized that many macro models--including the Fed staff’s 
+
+FRB/US model--implicitly treat the two sorts of shocks as having similar effects on 
+
+corporate investment.  But is there any reason to believe that, in reality, the response to 
+
+the two might differ? 
+
+A basic corporate finance analysis suggests the answer may be yes--and, in 
+
+particular, that a shock to the term premium is more likely to elicit a financing response 
+
+on the part of firms, as opposed to a change in their capital spending plans.  To see why, 
+
+consider the following example.  A firm faces a rate on its 10-year bonds of 2 percent.  At 
+
+the same time, it expects that the sequence of rolled-over short-term rates over the next 
+
+10 years will average 3 percent.  Hence, there is a term premium of minus 1 percent.  
+
+What should the firm do?  Clearly, it should take advantage of the cheap long-term debt 
+
+by issuing bonds.  But if the firm is not facing a binding financing constraint, it is less 
+
+obvious that the bargain 2 percent rate on these bonds should exert any influence on its 
+
+capital spending plans.  After all, it can use the proceeds of the bond issue to pay down 
+
+short-term debt, repurchase stock, or buy short-term securities.  These capital-structure 
+
+
+- 3 - 
+
+
+
+
+adjustments all yield an effective return of 3 percent.  As a result, the hurdle rate for new 
+
+investment should remain pinned at 3 percent.  In other words, the negative term 
+
+premium matters a lot for financing behavior, but in this stylized world, investment 
+
+spending is decoupled from the term premium and is determined instead by the expected 
+
+future path of short rates.  
+
+This reasoning suggests why one might expect future rounds of Treasury-based 
+
+LSAPs to have diminishing returns, at least for corporate investment.  As noted earlier, 
+
+the data make clear that past rounds of LSAPs have pushed down interest rates and term 
+
+premiums.  But the further the term premium is driven into negative territory, and the 
+
+more financing constraints are thereby relaxed, the more the previous logic comes into 
+
+play, and hence the weaker is likely to be the response of aggregate spending to further 
+
+downward pressure on long-term rates.  
+
+The corporate finance example is also consistent with what we have observed in 
+
+markets in recent months.  Issuance of both investment-grade and high-yield bonds has 
+
+been robust.  Indeed, domestic nonfinancial corporate bond issuance is on pace to set a 
+
+record in 2012, and the speculative-grade segment appears on track to register a new high 
+
+for the year.  At the same time, a large fraction of issuance has been devoted to 
+
+refinancing--either to retiring existing debt or to payouts to equity holders via dividends 
+
+and share buybacks.  These uses of proceeds have accounted for about two-thirds of all 
+
+issuance by speculative-grade firms so far this year.  Such patterns are what one would 
+
+expect based on the logic I have just discussed.   
+
+Another way to make a similar point is to note that as borrowing costs have fallen, 
+
+Federal Reserve staff estimates of the expected return on the stock market (using a model 
+
+
+- 4 - 
+
+
+
+
+based on analysts’ earnings expectations) remain high by historic standards.  This 
+
+unusually large divergence in the costs of debt and equity--due in part to the cumulative 
+
+effects of our LSAP policies--is likely to be one factor that makes debt-financed 
+
+repurchases of equity attractive.   
+
+Let me turn now from Treasury-based LSAPs to those involving MBS.  If there is 
+
+to be any difference between the two, one necessary condition is that there is some form 
+
+of market segmentation, so that buying MBS has a different effect on the constellation of 
+
+credit-market rates than buying Treasury securities--in other words, it’s not all about just 
+
+removing a certain amount of undifferentiated duration from the market.  Judging by 
+
+what happened in the wake of the Committee’s policy announcement on September 13, 
+
+this segmentation condition seems to be clearly satisfied--indeed, I would say 
+
+surprisingly so.
+3
+  In particular, while nominal long-term Treasury yields were roughly 
+
+unchanged on the day of the announcement, yields on MBS fell dramatically.  Moreover, 
+
+although the pass-through to primary mortgage rates has been more gradual, it too has 
+
+been significant to date.   According to Freddie Mac’s primary mortgage market survey, 
+
+the rate on 30-year fixed-rate mortgages has come down by more than 20 basis points 
+
+since the September announcement, and is now near historic lows. 
+
+One way to say it is that, given the nature of market segmentation, MBS 
+
+purchases appear to trade off of some amount of breadth of effect across markets for a 
+
+more pronounced effect in a single market--namely, the mortgage market.  What, then, 
+
+are the implications for the transmission mechanism?  Clearly, it depends on the 
+
+sensitivity of different forms of spending to changes in rates.  If, per my previous 
+
+                                                 
+3
+ See Board of Governors of the Federal Reserve System (2012), “Federal Reserve Issues FOMC 
+
+Statement,” press release, September 13, 
+
+www.federalreserve.gov/newsevents/press/monetary/20120913a.htm. 
+
+
+- 5 - 
+
+
+
+
+example, corporate investment reacts only weakly to further changes in term premiums, 
+
+there may be more “kick” to be had by focusing efforts on a sector that is more 
+
+responsive. 
+
+Moreover, it seems plausible that households’ spending behavior will in fact be 
+
+more strongly affected by changes in the mortgage rate.  As compared with many of the 
+
+large firms that are active in the corporate bond market, one might expect a greater 
+
+proportion of households to behave as if they are financially constrained.  Hence, a 
+
+reduction in the cost of mortgage borrowing might be expected to allow households to 
+
+spend more, either on a new home or by using the proceeds from a mortgage refinancing 
+
+for non-housing consumption.   
+
+The bottom line is that I suspect that mortgage purchases may confer more 
+
+macroeconomic stimulus dollar-for-dollar than Treasury purchases.  This is of course, not 
+
+to say that Treasury purchases have no effect on the real economy; research has found 
+
+that in addition to moving bond prices, they are associated with increases in stock prices, 
+
+which in turn can have wealth effects on consumption and investment.   
+
+Interestingly, however, to the extent that Treasury purchases trigger a financing 
+
+response on the part of firms, as opposed to an investment response, they may have 
+
+something of an unintended benefit for financial stability.  A major source of problems 
+
+during the recent crisis was the excessive maturity transformation undertaken by financial 
+
+firms.  Put simply, these firms were relying too much on short-term debt.  One of the 
+
+thrusts of regulatory reform has been to attack this problem--for example, via the 
+
+constructs of the Liquidity Coverage Ratio and the Net Stable Funding Ratio that are a 
+
+part of Basel III.  However, a complementary way to deal with the problem is to 
+
+
+- 6 - 
+
+
+
+
+influence the underlying incentives for short-term debt issuance.  And these incentives 
+
+are in turn shaped by the structure of rates and term premiums in the market.   
+
+As I noted earlier, a natural response for any firm facing an unusually low term 
+
+premium is to adjust its capital structure by issuing cheap long-term debt to replace its 
+
+shorter-term debt.  It is therefore not surprising that the average debt maturity of large 
+
+nonfinancial firms has increased notably over the past few years.  Moreover, the same 
+
+pattern shows up among large financial firms--they too have been significantly 
+
+lengthening their average debt maturity.  
+
+The current cheapness of long-term debt contrasts with the pre-crisis 
+
+configuration, where frequently a pronounced premium favored issuers not at the long 
+
+end of the yield curve, but at the very short end.  In other words, the fact that the yield 
+
+curve often tended to be steeply upward sloping at the front end gave financial firms a 
+
+strong incentive to issue overnight paper.  Thus I suspect that LSAPs have, by changing 
+
+the structure of term premiums in the market, helped encourage an extension of debt 
+
+maturity by both financial and nonfinancial firms.  All else being equal, this development 
+
+is a good thing from a financial stability perspective. 
+
+To conclude:  A corporate finance perspective on LSAPs suggests that when 
+
+monetary policy works by moving term premiums, as opposed to moving expectations 
+
+about the future path of short rates, the transmission to the real economy may be altered 
+
+in important ways.  These differences can have implications for how we think about the 
+
+benefits of a policy action, its costs, and even its consequences for financial stability.   
+
+Thanks very much, and I look forward to your questions. 
+

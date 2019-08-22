@@ -1,0 +1,812 @@
+
+For release on delivery 
+5:15 a.m. EDT (11:15 a.m. local time) 
+September 28, 2015 
+ 
+
+
+Capital Regulation Across Financial Intermediaries 
+ 
+ 
+ 
+
+Remarks by 
+ 
+
+Daniel K. Tarullo 
+ 
+
+Member 
+ 
+
+Board of Governors of the Federal Reserve System 
+ 
+
+at the 
+ 
+
+Banque de France Conference: 
+Financial Regulation--Stability versus Uniformity; 
+
+A Focus on Non-bank Actors 
+ 
+
+Paris, France 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+September 28, 2015
+
+
+
+- 1 - 
+
+Strengthening the quantity and quality of capital held by banks has been a central element 
+
+of post-financial crisis regulatory reform.  Yet, as the topic of this conference reminds us, the 
+
+crisis also exposed weaknesses in other financial intermediaries that carried systemic 
+
+implications.  In the United States, when Bear Stearns and Lehman Brothers failed, they were so-
+
+called freestanding investment banks, not subject even to the inadequate pre-crisis regulatory 
+
+regime for bank holding companies.  The stress at American International Group (AIG), an 
+
+insurance company, and the vulnerability of money market funds to destabilizing runs 
+
+contributed to a profound deepening of the crisis.  Hence the theme for this session of the 
+
+conference: In light of this recent history and, more generally, of the steady growth of nonbank 
+
+financial intermediaries, to what degree should they be subject to the capital regulations 
+
+developed by the Basel Committee on Banking Supervision and applied to bank holding 
+
+companies in the United States and to all commercial and investment banks in Europe? 
+
+ At first glance, the answer to this question might seem intuitively obvious.  After all, the 
+
+risk of loss associated with a particular corporate loan or mortgage-backed security or, indeed, 
+
+any other asset does not vary just because its legal owner is an insurance company or mutual 
+
+fund, rather than a bank.  Yet we all know that regulatory capital requirements sometimes do 
+
+vary with the nature of the firm.  And I suspect that most people in this room believe there are 
+
+good reasons why they should vary under at least some circumstances.   
+
+In my remarks this morning, I will explain how the identification of those circumstances 
+
+should proceed--by looking not at the asset side of a financial intermediary’s balance sheet, but 
+
+at the liability side.  The scope and nature of a firm’s liabilities provide the justifications for 
+
+capital requirements regulation.  Differences in liabilities can, accordingly, sometimes warrant 
+
+different capital requirements for portfolios of similar assets across firms.  At the risk of packing 
+
+
+
+- 2 - 
+
+too much into these introductory points, let me also note that an emphasis on a firm’s liabilities is 
+
+related to, but not synonymous with, an emphasis on its activities.  Thus, for example, simply 
+
+deciding that an intermediary provides mostly commercial banking services or insurance 
+
+products does not fully answer the question of what its capital requirements should be. 
+
+My purpose today is not to offer specific proposals, or even a comprehensive conceptual 
+
+framework, but instead to propose an approach for thinking about the purposes of capital 
+
+regulation across types of financial intermediaries that will suggest appropriate starting points for 
+
+shaping--or reshaping--applicable capital regulation.  This seems to me a particularly important 
+
+effort at a time when the financial system is undergoing significant change. 
+
+Liability Structure and Capital Regulation 
+
+ To begin, we should remind ourselves that capital regulation of private corporations is 
+
+unusual.  Generally, market actors with actual or contemplated claims on a nonfinancial 
+
+corporation are left to their own devices in protecting their interests, though various features of 
+
+contract, securities, and insolvency law are designed to help them make these judgments more 
+
+efficiently.  In many kinds of financial intermediaries, on the other hand, capital levels are 
+
+regulated, usually because of market failures attributable to some combination of information 
+
+problems, moral hazard, collective action problems, and systemic risk.  Scrutiny of the liability 
+
+side of the balance sheet reveals whether and how these various justifications are present for 
+
+different financial intermediaries.  Let me start with a couple of straightforward examples, well-
+
+established in regulatory practice. 
+
+ The first example arises from the fact that, by the very nature of their business, many 
+
+intermediaries have substantially more customer-facing liabilities1 on their balance sheets than 
+
+                                                 
+1 By “customer facing liabilities,” I mean liabilities to households, retail investors, and businesses.  In financial 
+intermediaries, these liabilities are not only greater than in similarly sized balance sheets of non-financial firms.  
+
+
+
+- 3 - 
+
+nonfinancial firms.  This characteristic often means that leverage is higher.  It almost always 
+
+means that a large portion of the liability side of the balance sheet is accounted for by such 
+
+customers, who are not well-positioned to evaluate the soundness of these intermediaries’ often-
+
+opaque balance sheets.   
+
+Consider the case of a very traditional life insurance company, which collects premiums 
+
+from customers over a protracted period of time, while promising a payout to beneficiaries if the 
+
+insured dies within the coverage period.  The duration of the exposure, difficulties in evaluating 
+
+the company’s ability to pay, and the potentially high costs of changing coverage to another firm 
+
+even if that evaluation can be done together provide a rationale for insurance company capital 
+
+requirements.  Here the motivation for capital regulation is likely oriented toward the capacity of 
+
+the company to meet these long-term claims as they come due, presumably over a fairly 
+
+extended span.  Investors and counterparties from the financial sector might well be left to fend 
+
+for themselves.  Thus this rationale for capital regulation focuses only on assuring sufficient 
+
+assets over time to satisfy the policyholders’ claims should the company fail, with less attention 
+
+to maintaining the company as a going concern. 
+
+ A second example of how the liability side of an intermediary’s balance sheet suggests 
+
+the appropriate form of capital regulation is presented by the familiar problem of deposit runs on 
+
+banks.  Like a policyholder, a depositor has difficulty gauging the health of the financial 
+
+intermediary.  But unlike a life insurance policyholder, a depositor can withdraw all or most of 
+
+her funds if she has any fear--even an ill-founded fear--that the bank may be in trouble.  Indeed, 
+
+depositors have a rational incentive to act quickly, since the first to withdraw will have the best 
+
+chance of getting all their money back.  Experience with bank runs, and with the more-damaging 
+
+                                                 
+They also disproportionately arise from financial transactions – such as accepting deposits or investments – rather 
+than for performance of services or delivery of goods.  
+
+
+
+- 4 - 
+
+cases of bank panics (in which problems at one bank are imputed to others on the basis of 
+
+incomplete and possibly incorrect information), led to government-provided deposit insurance.  
+
+While countering runs and panics and protecting depositors from loss, government deposit 
+
+insurance creates different justifications for capital regulation--protecting the government 
+
+insurance fund, which is now guaranteeing a significant portion of the bank’s liabilities, and 
+
+countering moral hazard, which may arise because insured depositors need no longer care 
+
+whether the bank is adequately capitalized. 
+
+The moral hazard issue leads us to a third example of how the liability side of the balance 
+
+sheet of a financial intermediary reveals the need for capital regulation--the too-big-to-fail 
+
+(TBTF) problem.  As the size of an intermediary increases, its exposures to other market actors--
+
+including many other intermediaries--may become so extensive that its failure would threaten the 
+
+financial system as a whole.  Believing that the government will, for this reason, prevent such an 
+
+intermediary from becoming insolvent, market actors may extend credit as if a guarantee similar 
+
+to deposit insurance were in place.  Thus the nature and extent of the firm’s liabilities, taken as a 
+
+whole, may warrant capital regulation to offset an implicit TBTF subsidy. 
+
+Even if the distinct problem of TBTF could be countered through other means, such as a 
+
+credible bankruptcy or resolution option, the failure of a financial intermediary with systemically 
+
+significant liabilities raises the prospect of imposing very large negative externalities on the 
+
+financial system.  This prospect creates an additional argument for capital requirements--or, 
+
+more precisely, an argument for progressively higher capital requirements that would reduce the 
+
+probability of the failure of the systemically important intermediary. 
+
+Note that this last discussion has moved us toward consideration of macroprudential 
+
+reasons for capital requirements--specifically, for higher requirements aimed at reducing the 
+
+
+
+- 5 - 
+
+probability of insolvency below that which would be warranted if the sole regulatory aim were to 
+
+protect customers, depositors, or even a government deposit insurance fund.  As has been much 
+
+discussed in recent years, pre-crisis financial regulatory regimes had substantially undervalued 
+
+systemwide considerations.  Indeed, in the first instance the crisis spread not only because of the 
+
+direct effects engendered by the insolvency of individual firms, but also because of the dramatic 
+
+contraction of funding available throughout markets for widely held assets such as mortgage-
+
+backed securities.  The pre-crisis explosion of short-term wholesale funding, both inside and 
+
+outside traditional banks, left the entire financial system vulnerable to the disappearance of this 
+
+market funding as real estate prices declined sharply and uncertainty spread about the value of 
+
+the assets being funded.  Concerns about solvency accelerated the run of wholesale funding from 
+
+Bear Stearns and Lehman Brothers, raising the prospect of classic fire sales of their assets, with 
+
+consequent depressing effects on the balance sheets of all firms holding these assets. 
+
+Experience during the financial crisis vindicated the view of those who had argued that 
+
+liquidity, as well as capital, in large intermediaries needed to be regulated.2  It also buttressed the 
+
+view that capital and liquidity regulation are closely related and need to be developed in tandem, 
+
+if not as part of the same regulatory framework.  Much academic research prompted by the crisis 
+
+has focused on the interrelationship between funding and solvency problems.3 
+
+Here, then, is another way in which the characteristics of the liability side of an 
+
+intermediary’s balance sheet should determine the form and stringency of capital regulation.  
+
+                                                 
+2 For a highly insightful survey of the implications of illiquidity issues for market performance and regulation, see 
+Jean Tirole (2011), “Illiquidity and All Its Friends,” Journal of Economic Literature vol. 49, no. 2, pp. 287-325. 
+3 See, e.g., Markus Brunnermeier and Lasse Heje Pedersen (2009), “Market Liquidity and Funding Liquidity,” 
+Review of Financial Studies, vol. 22, no. 6, pp. 2201-2238; Viral Acharya and S. Viswanathan (2011), “Leverage, 
+Moral Hazard, and Liquidity,” Journal of Finance, vol. 66, no. 1, pp. 99-138; Zhiguo He and Wei Xiong (2012), 
+“Rollover Risk and Credit Risk,” Journal of Finance, vol. 68, no. 2, pp. 391-429; Stephen Morris and Hun Song 
+Shin (2008), “Financial Regulation in a System Context,” Brookings Papers on Economic Activity (Fall), pp. 229-
+61. 
+
+
+
+- 6 - 
+
+Shorter duration and, if you will, increased “runnability” of its liabilities create greater threats to 
+
+both its stability and that of the financial system as a whole.  Where a firm is significantly 
+
+dependent on this kind of funding, it may need more common equity to convince counterparties 
+
+and investors of its solvency during periods in which assets are very volatile and to maintain its 
+
+solvency should it need to sell assets at fire sale prices.  This microprudential basis for higher 
+
+capital requirements is complemented by the macroprudential rationale that intermediaries whose 
+
+deleveraging could have a broad impact on market liquidity through fire sale or related effects 
+
+should be required to hold still more capital. 
+
+Let me make three additional points on this rationale for higher capital standards.  First, a 
+
+run that cuts off funding to widely held assets is a greater risk to the system than a conventional 
+
+bank run in the absence of deposit insurance.  A bank’s whole loans would not usually be sold in 
+
+great number even under stressed circumstances and, even to the degree they were, other banks’ 
+
+portfolios of loans are generally not marked down because of the stressed bank’s sales.  Second, 
+
+the possible availability of central bank liquidity support does not obviate the need for higher 
+
+capital for intermediaries reliant on short-term wholesale funding.  The same factors that make 
+
+market actors uncertain about the value of the intermediary’s assets in times of stress will be 
+
+relevant to the central bank’s ability to assure itself that the recipient of temporary liquidity is in 
+
+fact solvent.  Third, because these risks to the firm and the financial system arise from of the 
+
+composition of the liability side of the balance sheet, the concerns expressed here apply--though 
+
+perhaps in somewhat different degrees--regardless of the particular form of intermediation in 
+
+which the firm is engaged. 
+
+
+
+- 7 - 
+
+Tailoring Capital Regulation 
+
+ With only modest simplification of the always complex world of financial regulation, one 
+
+can say that while capital requirements traditionally have differed significantly for different types 
+
+of financial intermediaries, they have been relatively uniform for all firms classified as a 
+
+particular type of intermediary.  As I mentioned at the outset, the variations in capital 
+
+requirements might run contrary to the intuition that the risk of loss of a given portfolio of assets 
+
+is the same no matter who owns them.  Of course, the direct explanation for the variations lies in 
+
+part in institutional history, with different regulatory bodies having been given authority over 
+
+different types of financial intermediaries.  Still, as we have seen, differences in the liability side 
+
+of the balance sheet can in fact provide a good policy justification for having varying capital 
+
+requirements among different types of financial intermediaries.   
+
+Yet, as I will suggest in a moment, even if conventional differences are at least broadly 
+
+justifiable (which, of course, is not to say that certain differences in any particular jurisdiction 
+
+have been well-formulated in all their specifics), the fact that so many intermediaries have 
+
+moved well beyond their traditional practices, products, and scope may warrant some 
+
+qualification of conventional practice.  Conversely, the conventional regulatory principle of 
+
+imposing more or less uniform capital requirements on a given form of intermediary might have 
+
+seemed intuitively correct.  But one lesson regulators around the world have drawn from the 
+
+crisis is that macroprudential considerations can sometimes argue for varying capital 
+
+requirements among the same kind of intermediaries.   
+
+ Let me address, then, some implications of the liability-side perspective on capital 
+
+requirements for different forms of financial intermediaries.  Despite the focus of this session of 
+
+the conference on nonbanks, I want to begin by noting how post-crisis changes in the Basel 
+
+
+
+- 8 - 
+
+regime reflected the characteristics of an intermediary’s liabilities.  Prior to the crisis, the Basel 
+
+regime--though nominally applicable only to internationally active banks--in fact applied to most 
+
+banks in many member jurisdictions, including the United States and the European Union (EU).  
+
+There were no quantitative liquidity requirements, and capital requirements did not vary based 
+
+on the liability side of the balance sheet.  Indeed, the major departure from uniform application 
+
+of capital rules was the opportunity afforded by Basel II for large banks to use their own internal 
+
+models in determining their regulatory capital requirements, an opportunity that Basel II’s 
+
+proponents expected to result in slightly lower requirements than under a standardized approach. 
+
+ In the wake of the crisis, Basel III strengthened capital quality and levels across the 
+
+board.  In addition, capital surcharges were imposed on about thirty banks of global systemic 
+
+importance (G-SIBs), based on criteria that roughly reflect TBTF concerns--that is, the size and 
+
+interconnectedness of the firms’ balance sheets.  Neither the generally applicable Basel III 
+
+changes nor the G-SIB surcharges were specifically tied to the stability of a bank’s debt 
+
+structure.  However, minimum quantitative liquidity requirements have been developed in the 
+
+form of the shorter-horizon Liquidity Coverage Ratio (LCR) and the longer-horizon Net Stable 
+
+Funding Ratio, which together are intended to place some limits on excessive reliance on 
+
+runnable liabilities.4 
+
+ Important as these changes have been, the risks to the financial system posed by large 
+
+amounts of short-term wholesale funding argue for closer regulatory linkage between capital and 
+
+                                                 
+4  In the United States, we have also applied a somewhat less stringent version of the LCR to banks that are large but 
+that do not cross the threshold of being internationally active.  This tiered approach is consistent with the principle 
+stated earlier that prudential requirements should vary based on the potential impact of a firm’s failure on the 
+financial system as a whole. 
+
+The liquidity rules clearly seem to have influenced the way banks manage their balance sheets.  In the 
+United States, bank holding companies subject to the LCR significantly increased their holdings of high-quality 
+liquid assets from the beginning of 2013 until the beginning of this year, to the point that many internationally active 
+banks reported their LCR ratios already above fully phased-in requirements, even though the transition rules set an 
+80 percent minimum ratio for January 1, 2015. 
+
+
+
+- 9 - 
+
+liquidity concerns.  Conceptually, the cleanest approach might be to integrate capital and 
+
+liquidity requirements in a single regulatory framework, which would establish minimum levels 
+
+of capital and liquidity and then increase the capital requirement for intermediaries with more 
+
+vulnerable funding structures.  Higher capital levels would be especially warranted for 
+
+intermediaries using large enough amounts of short-term debt that their response when funding 
+
+liquidity is constrained--either selling assets or withholding funding from their own customers--
+
+could adversely affect the financial system as a whole.   
+
+Realistically, though, the goal of full integration of capital and liquidity regulation seems 
+
+unattainable for the foreseeable future.  For one thing, it is hard to imagine all the relevant 
+
+banking, market, and insurance regulators converging on such a novel approach anytime soon.  
+
+In addition, though, without a more complete understanding of the precise relationship between 
+
+liquidity and capital needs, placing so much weight on one form of regulation would be ill-
+
+advised.  For the present, then, the Basel regime will maintain separate capital and liquidity 
+
+regulations, which may differ among types of financial intermediaries.5  But we can at least 
+
+strive to establish each set of regulations with reference to the other and to attain at least a rough 
+
+consistency across regulatory regimes applicable to various intermediaries. 
+
+In the United States, we have already taken one step in this direction.  As you may know, 
+
+in implementing the Basel G-SIB capital surcharge, we decided that surcharges somewhat higher 
+
+than those finally agreed in Basel were appropriate.  As we refashioned the Basel approach, we 
+
+added a metric on short-term wholesale funding dependence to the formula for determining a 
+
+                                                 
+5 It is worth noting that the net capital rule for broker-dealers maintained by the U.S. Securities and Exchange 
+Commission is a form of hybrid capital and liquidity regulation.  However, it seems basically oriented to protecting 
+customers, a bit like traditional regulation of life insurance companies, and was not developed with going concern or 
+systemic implications in mind.  It does not, for instance, place higher requirements on firms with heavy reliance on 
+short-term wholesale funding, though it does penalize firms that hold large amounts of illiquid assets.  In many 
+respects the rule seems well-suited to smaller broker-dealers but, for reasons explained earlier, it does not seem 
+optimal for the large broker-dealers in large bank holding companies. 
+
+
+
+- 10 - 
+
+firm’s systemic significance, a factor that unfortunately had not been included in Basel.  I hope 
+
+that when it comes time for a review of the Basel methodology for identifying and grouping G-
+
+SIBs, funding practices and vulnerabilities will receive more attention.  And there may be further 
+
+steps that could increase that sensitivity.  Exploring ideas along these lines seems to me far 
+
+preferable to raising minimum liquidity requirements for all banks, even those with capital levels 
+
+well above the regulatory minimum.  For example, while stress testing has traditionally focused 
+
+on risks to capital, some observers have suggested adding liquidity risks to the stress test. 
+
+ Turning now to some implications for other intermediaries, I will begin with broker-
+
+dealers, which pose perhaps the clearest case of the capital/funding relationship.  Broker-dealers 
+
+tend to hold large amounts of assets that are of longer duration, but that also are relatively liquid 
+
+in normal times (in contrast, say, to whole loans by a bank).  However, as seen most graphically 
+
+in the case of mortgage-backed securities during the crisis, many of these assets can rapidly 
+
+become quite illiquid in periods of stress.  Since broker-dealers generally fund substantial 
+
+portions of these assets with short-term liabilities, such as repurchase agreements (repos) rather 
+
+than insured deposits, there is the potential, again seen in the crisis, for runs reminiscent of the 
+
+bank runs of the era before the advent of deposit insurance.   
+
+To a considerable extent, of course, the Basel framework covers these firms.  In the EU, 
+
+any broker-dealer is covered, whether as a stand-alone entity or as part of a universal bank.  In 
+
+the pre-crisis period in the United States, matters were less clear, since only broker-dealers 
+
+affiliated with bank holding companies were covered by the full panoply of Basel requirements.  
+
+There was partial coverage of the five largest freestanding broker-dealers that needed such 
+
+oversight in order to operate within the EU.  Because, during the crisis, those five firms either 
+
+became bank holding companies or failed and had their continuing operations absorbed by bank 
+
+
+
+- 11 - 
+
+holding companies, all sizeable domestically owned broker-dealers are now covered by Basel 
+
+requirements.   
+
+ However, as I mentioned just a moment ago, the Basel framework itself has not gone as 
+
+far as is desirable in making capital requirements at the largest institutions sensitive to 
+
+macroprudential funding concerns, a circumstance underscored by the balance sheets typical of 
+
+broker-dealers.  Consideration of changes such as refinement of the formula for assigning 
+
+surcharges to G-SIBs would be useful when Basel standards are revisited over time.  In the 
+
+interim, there are more near-term opportunities for supervisory measures that take account of the 
+
+relationship between capital levels and funding vulnerabilities.   
+
+ Perhaps the most interesting application of a liability-side focus on capital regulation is 
+
+the case of insurance companies.  Given the ongoing discussions of capital standards in the 
+
+International Association of Insurance Supervisors, the issue is also a timely one.  Several 
+
+relevant points can be derived from attention to the liability side of insurance company balance 
+
+sheets. 
+
+ First, as shown in my earlier example of how liability structure affects capital needs, the 
+
+largest segment of a traditional insurance company’s liabilities is composed of contingent claims 
+
+based on the occurrence of specified events, such as the death of an insured person or destruction 
+
+of insured property.  These claims cannot be accelerated at the discretion of the holders of the 
+
+contracts so, unlike deposits in a bank, these liabilities cannot run in any meaningful sense.  
+
+Unless customers decide to sever their relationship with the company, in which case the 
+
+contingent liability will be reduced or eliminated, they will continue to provide funding to the 
+
+firm.  Life insurance, in particular, has an unusually predictable liability pattern, well-refined by 
+
+actuaries over the years.  Thus there is a relative absence of liquidity risk as compared with other 
+
+
+
+- 12 - 
+
+kinds of intermediaries.  Property and casualty insurance is somewhat more volatile but that 
+
+volatility is not correlated with the broader economy.  So, while higher capital levels may be 
+
+needed for microprudential purposes, the traditional property-casualty insurance model does not 
+
+appear to raise significant funding, fire sale, or other macroprudential concerns. 
+
+ These traditional insurance liabilities argue for lower capital requirements than might be 
+
+required for a hypothetical bank holding a similar portfolio of assets.  And, as noted earlier, in 
+
+some respects they also argue for a gone-concern approach to capital regulation.  However, a 
+
+second observation is that the liability side of the balance sheets of many large insurance 
+
+companies look quite different from this traditional picture.  Many life insurers, for example, 
+
+now offer wealth and retirement products with account values that can be withdrawn at the 
+
+discretion of the policyholder, sometimes with little or no surrender penalty.  Although these 
+
+products are generally considered medium to long-term liabilities, the option to surrender or 
+
+withdraw funds creates the potential for increased claims that could strain the liquidity of the 
+
+firm.  Recent history suggests that the surrender rates of fixed annuities are directly related to the 
+
+path of interest rate rises.  In the middle part of the last decade, as interest rates rose in the United 
+
+States, the surrender rate for these products increased by about 75 percent in just a few years, 
+
+before dropping precipitously after the rapid decline in rates following the onset of the financial 
+
+crisis. 
+
+ Similarly, the move of some insurance firms into securities lending, repo, over-the-
+
+counter derivatives, and other capital market activities can work significant changes in the 
+
+balance sheets of those firms, creating tighter connections to the rest of the financial system.  As 
+
+with other financial intermediaries, insurers then become subject to demands for posting 
+
+additional collateral or closing out positions as unfavorable market conditions take hold.  In 
+
+
+
+- 13 - 
+
+addition, if the books of the insurance company are large enough, it then becomes a potential 
+
+vehicle for transmitting distress at the company to other parts of the financial system. 
+
+ Thus the liability side of the balance sheets of firms that are all “insurance companies” 
+
+can vary substantially, just as with firms that are called “banks” or “bank holding companies.”  
+
+Yet capital regulation currently applicable to insurance companies seems not to make some of 
+
+the relevant distinctions.  Traditional capital regulation, with an implicit aim of protecting only 
+
+conventional policyholders over time, potentially through an orderly insolvency, does not reflect 
+
+the balance sheet risks I have just described.  Yet more recent measures, such as Solvency II, 
+
+with its heavy emphasis on current market valuation, may not take account of the fact that 
+
+liability and liquidity risks for genuinely traditional life insurance products are relatively limited 
+
+compared to those of many other intermediaries.  In some respects, Solvency II ignores the 
+
+strength of conventional insurance funding--that assets can be held for the truly long-term, 
+
+through multiple business cycles--even as it focuses directly on the fluctuations in asset values 
+
+that are indeed relevant to many less conventional activities. 
+
+This brief review illustrates the challenges in fashioning capital requirements for large 
+
+insurance companies with a mix of traditional, nontraditional, and noninsurance activities that 
+
+are sometimes quite intertwined in particular business lines or subsidiaries.  And, even where 
+
+these activities are reasonably segregated from one another, some of the policy devices suggested 
+
+for differential capital treatment may be misplaced.  For example, deciding on higher capital 
+
+requirements based solely on whether an activity is “nontraditional” for an insurance company 
+
+can be inappropriate.  A “nontraditional” activity for an insurance company could embrace 
+
+everything from the massive derivatives business maintained by the pre-crisis AIG to very sedate 
+
+businesses outside the financial sphere entirely.  In confronting these and similar challenges, I 
+
+
+
+- 14 - 
+
+would suggest that a focus on the actual nature of liabilities associated with a firm’s activities 
+
+provides a good starting point for sound analysis. 
+
+ Finally, let me mention asset managers briefly.  As they have garnered increasing shares 
+
+of financial system assets, a trend that accelerated following the financial crisis, the question has 
+
+arisen whether they too should hold capital buffers.  Of course in most cases the asset manager 
+
+itself does not have much of a balance sheet at all.  The funds themselves are often not leveraged, 
+
+in which case nearly all the liabilities are shares of the fund held by investors, the price of which 
+
+varies to reflect the value of the assets purchased by the manager of the fund.6   
+
+While some commentators have suggested that liquidity challenges and consequent fire 
+
+sale type behavior might develop if the structure of the fund places a premium on exiting first, 
+
+these kinds of risks would support an argument less for capital buffers than for some form of 
+
+prudential market regulation, such as rules on liquidity or redemptions.  I would note in this 
+
+regard that last week the SEC issued a proposed rulemaking that would require open-ended funds 
+
+to have liquidity risk management controls in place for shareholder redemptions, including 
+
+during times of stress.7  Likewise, to the degree that certain idiosyncratic risks might exist with 
+
+respect to the decisions and operations of certain asset managers, their liability structure again 
+
+suggests that some form of prudential market regulation would be better suited to address these 
+
+risks. 
+
+                                                 
+6 Through the use of certain kinds of derivatives, some funds acquire synthetic leverage.  There are arguments for 
+additional regulation in those cases, though again, capital requirements do not seem at first glance the optimal tool. 
+7 Under the proposed rules, mutual funds and exchange-traded funds would be required to implement liquidity risk 
+management programs to address investor redemptions, including swing pricing during times of rapid redemption 
+and calculation requirements to measure the amount of assets that could be liquidated without impacting market 
+prices.  Securities and Exchange Commission Press Release 2015-201, SEC Proposes Liquidity Management Rules 
+for Mutual Funds and ETFs, September 22, http://www.sec.gov/news/pressrelease/2015-201.html.  SEC Chairman 
+Mary Jo White previously provided a roadmap to the development of a regulatory approach for the asset 
+management industry: “Enhancing Risk Monitoring and Regulatory Safeguards for the Asset Management 
+Industry,” speech delivered at the New York Times DealBook Opportunities for Tomorrow Conference, New York, 
+December 11. 
+
+
+
+- 15 - 
+
+Conclusion 
+
+ In conclusion, let me recapitulate one set of points and add another.  To recapitulate--
+
+focusing on the characteristics of the liability side of a financial intermediary’s balance sheet 
+
+suggests that there are reasons to vary capital regulation across different forms of financial 
+
+intermediation, but that significant shifts in the nature and scope of an intermediary’s liabilities 
+
+may in turn provide reasons for varying applicable capital regulation among firms that are 
+
+primarily identified as a particular type of intermediary.  Conceptual, institutional, and practical 
+
+impediments to developing a single framework for capital regulation are doubtlessly insuperable 
+
+for the foreseeable future.  But regulators with mandates covering different kinds of 
+
+intermediaries, including the Federal Reserve, must keep both sides of this perspective in mind.  
+
+And, hopefully, regulators with a more focused responsibility will be sensitive to the ways in 
+
+which their regulated entities have departed from their original liability structure. 
+
+ The additional point follows from the first.  When concerns are raised about regulatory 
+
+arbitrage or a level playing field, they are usually in the context of a similar asset being held, or a 
+
+business activity conducted, by financial firms with different regulatory structures.  My 
+
+discussion today would suggest that attention must be paid to the liability structure of the 
+
+different firms before deciding whether the asymmetric regulatory treatment is prudent or an 
+
+invitation to the propagation of new financial risks. 
+
+ These two points underscore the fact that the question for regulators is not really whether 
+
+capital rules developed for banks should be extended to nonbank actors.  The Basel standards 
+
+have already evolved to take account of different forms of intermediation in the financial firms 
+
+subject to those rules.  The Basel framework might itself be enhanced by further differentiation 
+
+
+
+- 16 - 
+
+of capital and liquidity requirements based on the liability structures of firms.  Similarly, capital 
+
+rules for intermediaries not subject to Basel rules should be shaped by similar considerations. 
+

@@ -1,0 +1,1145 @@
+
+For release on delivery 
+1:30 p.m. EDT 
+October 14, 2016 
+ 
+
+
+Macroeconomic Research After the Crisis 
+ 
+ 
+ 
+
+Remarks by 
+ 
+
+Janet L. Yellen 
+ 
+
+Chair 
+ 
+
+Board of Governors of the Federal Reserve System 
+ 
+
+at 
+ 
+
+“The Elusive ‘Great’ Recovery:   
+Causes and Implications for Future Business Cycle Dynamics”  
+
+ 
+60th annual economic conference sponsored by the 
+
+Federal Reserve Bank of Boston 
+ 
+
+Boston, Massachusetts 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+October 14, 2016 
+ 
+
+
+
+Extreme economic events have often challenged existing views of how the 
+
+economy works and exposed shortcomings in the collective knowledge of economists.  
+
+To give two well-known examples, both the Great Depression and the stagflation of the 
+
+1970s motivated new ways of thinking about economic phenomena.  More recently, the 
+
+financial crisis and its aftermath might well prove to be a similar sort of turning point.  
+
+Today I would like to reflect on some ways in which the events of the past few years 
+
+have revealed limits in economists’ understanding of the economy and suggest several 
+
+important questions I hope the profession will try to answer.  Some of these questions are 
+
+not new, though recent events have made them more urgent.  Appropriately, some are 
+
+addressed by the papers prepared for this conference.  Pursuing answers to these 
+
+questions is vital to the work of Federal Reserve and other economic policymakers, and 
+
+the Fed is likewise engaged in ongoing research to seek answers.  
+
+The Influence of Demand on Aggregate Supply 
+
+The first question I would like to pose concerns the distinction between aggregate 
+
+supply and aggregate demand:  Are there circumstances in which changes in aggregate 
+
+demand can have an appreciable, persistent effect on aggregate supply?  
+
+Prior to the Great Recession, most economists would probably have answered this 
+
+question with a qualified “no.”  They would have broadly agreed with Robert Solow that 
+
+economic output over the longer term is primarily driven by supply--the amount of output 
+
+of goods and services the economy is capable of producing, given its labor and capital 
+
+resources and existing technologies.  Aggregate demand, in contrast, was seen as 
+
+explaining shorter-term fluctuations around the mostly exogenous supply-determined 
+
+
+ - 2 - 
+
+longer-run trend.1  This conclusion deserves to be reconsidered in light of the failure of 
+
+the level of economic activity to return to its pre-recession trend in most advanced 
+
+economies.  This post-crisis experience suggests that changes in aggregate demand may 
+
+have an appreciable, persistent effect on aggregate supply--that is, on potential output.2   
+
+The idea that persistent shortfalls in aggregate demand could adversely affect the 
+
+supply side of the economy--an effect commonly referred to as hysteresis--is not new; for 
+
+example, the possibility was discussed back in the mid-1980s with regard to the 
+
+performance of European labor markets.3  But interest in the topic has increased in light 
+
+of the persistent slowdown in economic growth seen in many developed economies since 
+
+the crisis.  Several recent studies present cross-country evidence indicating that severe 
+
+and persistent recessions have historically had these sorts of long-term effects, even for 
+
+downturns that appear to have resulted largely or entirely from a shock to aggregate 
+
+demand.4  With regard to the U.S. experience, one study estimates that the level of 
+
+potential output is now 7 percent below what would have been expected based on its pre-
+
+crisis trajectory, and it argues that much of this supply-side damage is attributable to 
+
+several developments that likely occurred as a result of the deep recession and slow 
+
+recovery.5  In particular, the study finds that in the wake of the crisis, the United States 
+
+experienced a modest reduction in labor supply as a result of reduced immigration and a 
+
+fall in labor force participation beyond what can be explained by cyclical conditions and 
+
+                                                 
+1 See Solow (1997). 
+2 Or, as Summers (2014) asked in a pithy inversion of Say’s law, is it true that “lack of demand creates lack 
+of supply?” (p. 37). 
+3 As Blanchard and Summers (1986) discuss, the question at the time was whether the long-run 
+equilibrium, or “natural,” rate of unemployment in European economies had been permanently raised by 
+previous periods of high actual unemployment. 
+4 For example, see Cerra and Saxena (2008); Howard, Martin, and Wilson (2011); Martin, Nunyan, and 
+Wilson (2014); and Blanchard, Cerutti, and Summers (2015). 
+5 See Reifschneider, Wascher, and Wilcox (2015). 
+
+
+ - 3 - 
+
+demographic factors, as well as a marked slowdown in the estimated trend growth rate of 
+
+labor productivity.  The latter likely reflects an unusually slow pace of business capital 
+
+accumulation since the crisis and, more conjecturally, the sharp decline in spending on 
+
+research and development and the very slow pace of new firm formation in recent years.6 
+
+If we assume that hysteresis is in fact present to some degree after deep 
+
+recessions, the natural next question is to ask whether it might be possible to reverse 
+
+these adverse supply-side effects by temporarily running a “high-pressure economy,” 
+
+with robust aggregate demand and a tight labor market.  One can certainly identify 
+
+plausible ways in which this might occur.  Increased business sales would almost 
+
+certainly raise the productive capacity of the economy by encouraging additional capital 
+
+spending, especially if accompanied by reduced uncertainty about future prospects.  In 
+
+addition, a tight labor market might draw in potential workers who would otherwise sit 
+
+on the sidelines and encourage job-to-job transitions that could also lead to more-
+
+efficient--and, hence, more-productive--job matches.7  Finally, albeit more speculatively, 
+
+strong demand could potentially yield significant productivity gains by, among other 
+
+things, prompting higher levels of research and development spending and increasing the 
+
+incentives to start new, innovative businesses.   
+
+Hysteresis effects--and the possibility they might be reversed--could have 
+
+important implications for the conduct of monetary and fiscal policy.  For example, 
+
+hysteresis would seem to make it even more important for policymakers to act quickly 
+
+                                                 
+6 Fernald (2015), however, argues that much of the apparent slowdown in U.S. potential GDP growth 
+began prior to the 2007-09 recession. 
+7 See Okun (1973) for an early discussion of the benefits of a high-pressure economy.  Importantly, not all 
+of these benefits might show up as measured output, but they would nonetheless be welfare improving--for 
+example, higher job satisfaction from better matches between workers and employers, as noted by Akerlof, 
+Rose, and Yellen (1988). 
+
+
+ - 4 - 
+
+and aggressively in response to a recession, because doing so would help to reduce the 
+
+depth and persistence of the downturn, thereby limiting the supply-side damage that 
+
+might otherwise ensue.  In addition, if strong economic conditions can partially reverse 
+
+supply-side damage after it has occurred, then policymakers may want to aim at being 
+
+more accommodative during recoveries than would be called for under the traditional 
+
+view that supply is largely independent of demand.   
+
+More research is needed, however, to better understand the influence of 
+
+movements in aggregate demand on aggregate supply.8  From a policy perspective, we of 
+
+course need to bear in mind that an accommodative monetary stance, if maintained too 
+
+long, could have costs that exceed the benefits by increasing the risk of financial 
+
+instability or undermining price stability.  More generally, the benefits and potential costs 
+
+of pursuing such a strategy remain hard to quantify, and other policies might be better 
+
+suited to address damage to the supply side of the economy.   
+
+Heterogeneity 
+
+My second question asks whether individual differences within broad groups of 
+
+actors in the economy can influence aggregate economic outcomes--in particular, what 
+
+effect does such heterogeneity have on aggregate demand? 
+
+Many macroeconomists work with models where groups of individual actors, 
+
+such as households or firms, are treated as a single “representative” agent whose behavior 
+
+stands in for that of the group as a whole.  For example, rather than explicitly modeling 
+
+                                                 
+8 For example, the experience of the 1990s might seem to provide a natural case study of whether reverse 
+hysteresis is possible.  Unfortunately, most studies of the labor market during this period do not directly 
+speak to this issue, although Holzer, Raphael, and Stoll (2006) investigate changes in employers’ 
+willingness to hire less-skilled workers during these years, while Katz and Krueger (1999) and my own 
+study with Blinder (2001) explore the somewhat related question of how the U.S. economy was able to 
+simultaneously experience rapid growth, low unemployment, and low inflation in the late 1990s.   
+
+
+ - 5 - 
+
+and then adding up the separate actions of a large number of different households, a 
+
+macro model might instead assume that the behavior of a single “average” household can 
+
+describe the aggregate behavior of all households. 
+
+Prior to the financial crisis, these so-called representative-agent models were the 
+
+dominant paradigm for analyzing many macroeconomic questions.  However, a 
+
+disaggregated approach seems needed to understand some key aspects of the Great 
+
+Recession.  To give one example, consider the effects of negative housing equity on 
+
+consumption.  Although households typically reduce their spending in response to wealth 
+
+declines, the many households whose equity positions in their homes were actually 
+
+driven negative by the reduction in house prices may have curtailed their spending even 
+
+more sharply because of a markedly reduced ability to borrow.  Such a development, in 
+
+turn, would shift the relationship between housing equity (which remained solidly 
+
+positive in the aggregate) and consumer spending for the economy as a whole.  Such a 
+
+shift in an aggregate relationship would be difficult to understand or predict without 
+
+using disaggregated data and models. 
+
+More generally, studying the effects of household and firm heterogeneity might 
+
+help us better account for the severity of the recession and the slow recovery.  At the 
+
+household level, recent research finds that heterogeneity can amplify the effects of 
+
+adverse shocks, a result that is largely driven by households with very little net worth that 
+
+sharply increase their savings in a recession.9  At the firm level, there is evidence that 
+
+financial constraints had a particularly large adverse effect on employment at small firms 
+
+and the start-up of new firms, factors that may be part of the explanation for the Great 
+
+                                                 
+9 See Krueger, Mitman, and Perri (2016).   
+
+
+ - 6 - 
+
+Recession’s long duration and the subsequent slow recovery.10  More generally, if larger 
+
+firms seeking to expand have better access to credit than smaller ones, overall growth in 
+
+investment and employment could depend in part on the distribution of sales across 
+
+different types of businesses.  Modeling any of these issues quantitatively will likely 
+
+require the use of a heterogeneous-agent framework.     
+
+Economists’ understanding of how changes in fiscal and monetary policy affect 
+
+the economy might also benefit from the recognition that households and firms are 
+
+heterogeneous.  For example, in simple textbook models of the monetary transmission 
+
+mechanism, central banks operate largely through the effect of real interest rates on 
+
+consumption and investment.  Once heterogeneity is taken into account, other important 
+
+channels emerge.  For example, spending by many households and firms appears to be 
+
+quite sensitive to changes in labor income, business sales, or the value of collateral that in 
+
+turn affects their access to credit--conditions that monetary policy affects only indirectly.  
+
+Studying monetary models with heterogeneous agents more closely could help us shed 
+
+new light on these aspects of the monetary transmission mechanism. 
+
+While the economics profession has long been aware that these issues matter, 
+
+their effects had been incorporated into macro models only to a very limited extent prior 
+
+to the financial crisis.11  I am glad to now see a greater emphasis on the possible 
+
+macroeconomic consequences of heterogeneity, including in work by economists at the 
+
+                                                 
+10 On the role of financing constraints for firm employment, see Siemer (2014); Chodorow-Reich (2014); 
+and Duygan-Bump, Levkov, and Montoriol-Garriga (2015).  A general-equilibrium model with 
+heterogeneity among firms and credit frictions is studied in Khan and Thomas (2013).  For the role of entry 
+and exit in macroeconomic dynamics, see Clementi and Palazzo (2016) as well as Gourio, Messer, and 
+Siemer (2016). 
+11 For early quantitative work on the relationship between income and wealth heterogeneity and the 
+macroeconomy, see Krusell and Smith (1998).   
+
+
+ - 7 - 
+
+Federal Reserve.12  Nevertheless, the various linkages between heterogeneity and 
+
+aggregate demand are not yet well understood, either empirically or theoretically.  More 
+
+broadly, even though the tools of monetary policy are generally not well suited to achieve 
+
+distributional objectives, it is important for policymakers to understand and monitor the 
+
+effects of macroeconomic developments on different groups within society. 
+
+Financial Linkages to the Real Economy 
+
+My third question concerns a key issue for monetary policy and macroeconomics 
+
+that is less directly addressed by this conference:  How does the financial sector interact 
+
+with the broader economy?   
+
+In light of the housing bubble and subsequent events, policymakers clearly need 
+
+to better understand what kinds of developments contribute to financial crises.  What is 
+
+the relationship between the buildup of excessive leverage and the value of real estate and 
+
+other types of collateral, and what factors impede or facilitate the deleveraging process 
+
+that follows?  Does the economic fallout from a financial crisis depend on the particulars 
+
+of the crisis, such as whether it involves widespread damage to household balance sheets?  
+
+How does the nature and degree of the interconnections between financial firms affect the 
+
+propagation and amplification of stress through the financial system and overall 
+
+economy?  Finally--and most importantly--what can monetary policy and financial 
+
+oversight do to reduce the frequency and severity of future crises? 
+
+                                                 
+12 Guvenen (2011) reviews several issues related to macroeconomics with heterogeneity.  For an overview 
+of the interactions between distribution and aggregate outcomes, see the work by Quadrini and Rios-Rull 
+(2015).  For recent work on the effects of monetary policy in models with heterogeneous agents, see 
+Kaplan, Moll, and Violante (2016); Gornemann, Kuester, and Nakajima (2016); Auclert (2016); and Sterk 
+and Tenreyro (2016). 
+
+
+ - 8 - 
+
+Although the scope of these questions extends beyond the themes of this 
+
+conference, it does include issues that are closely related.  Consider the influence of 
+
+balance sheet conditions and noninterest credit terms on spending and overall activity--an 
+
+area where it is important to take account of differences across individual households and 
+
+firms, as I just noted.  Research on this topic has, of course, been ongoing for some time, 
+
+and it has expanded greatly in the wake of the financial crisis.13  But I believe we have a 
+
+lot more to learn about the ways in which changes in underwriting standards and other 
+
+determinants of credit availability interact with interest rates to affect such things as 
+
+consumer spending, housing demand and home prices, business investment (especially 
+
+for small firms), and the formation of new firms.14  For example, is the persistent increase 
+
+in the personal saving rate that we have observed since the collapse of the housing bubble 
+
+primarily a result of a sustained shift toward more prudent underwriting standards by 
+
+                                                 
+13 For an example of early research on this topic, see Bernanke and Gertler (1989).  Other important pre-
+crisis studies include the development of the financial accelerator model by Bernanke and others (1999a) 
+and work by Kashyap and Stein (2000) and Peek, Rosengren, and Tootell (2003) on the bank balance sheet 
+channel and the effects of bank loan supply shocks.  For a more recent summary of the role of banks in the 
+monetary transmission mechanism, see Peek and Rosengren (2013).  Chaney, Sraer, and Thesmer (2012) 
+provide evidence for the collateral channel of real estate for corporate investment, while Mian, Rao, and 
+Sufi (2013) examine the influence of household balance sheets on consumption. 
+14 More empirical work would be useful to disentangle the spending effects that result from changes in 
+credit conditions from those that result from movements in interest rates, as estimates of the latter likely 
+often inadvertently incorporate the former.  Most empirical models of the overall economy do not explicitly 
+control for the influence of noninterest credit factors on consumption and investment; as a result, estimated 
+interest rate effects will partially reflect the influence of these factors to the extent these factors are 
+correlated with interest rates.  There are many reasons to suspect that this is the case.  Movements in 
+interest rates influence a firm’s cash flow and the value of its collateral, all else being equal.  Higher 
+interest rates also adversely affect consumer spending and especially residential investment, both by 
+forcing households to devote a greater portion of their income to debt service and by making it more 
+difficult to qualify for a loan because of maximum payment-to-income rules.  Evidence for these effects is 
+provided by Gertler and Karadi (2015), who show that relatively small changes in short-term interest rates 
+are correlated with large movements in credit costs.  Such correlations and interactions may explain why 
+some types of spending appear to be more correlated with movements in nominal interest rates than with 
+real interest rates; see Fair (2004, ch. 3) for evidence on this point.  Finally, the relative contributions of 
+relaxed lending standards, low interest rates, and other factors to housing bubbles, both in the United States 
+and abroad, remains an open and unsettled topic; Agnello and Shucknecht (2011) present cross-country 
+evidence that monetary policy plays an important role, while Dokko and others (2011) argue that monetary 
+policy was a minor influence in the most recent episode.  
+
+
+ - 9 - 
+
+lenders?  Is it something that will ultimately prove transitory once households finish 
+
+repairing their balance sheets or become more confident about their future prospects for 
+
+employment and income?15  The answer to this latter question could have significant 
+
+implications for the longer-run normal, or neutral, level of interest rates and thus for the 
+
+conduct of monetary policy.  
+
+Inflation Dynamics 
+
+My fourth question goes to the heart of monetary policy:  What determines 
+
+inflation? 
+
+From my perspective, the standard framework for thinking about inflation 
+
+dynamics used by central bank economists and others prior to the financial crisis remains 
+
+conceptually useful today.  A simple description of this framework might go something 
+
+like this:16  Inflation is characterized by an underlying trend that has been essentially 
+
+constant since the mid-1990s; previously, this trend seemed to drift over time, influenced 
+
+by actual past inflation or other economic conditions.  Theory and evidence suggest that 
+
+this trend is strongly influenced by inflation expectations that, in turn, depend on 
+
+monetary policy.  In particular, the remarkable stability of various measures of expected 
+
+inflation in recent years presumably represents the fruits of the Federal Reserve’s 
+
+sustained efforts since the early 1980s to bring down and then stabilize inflation at a low 
+
+level.  The anchoring of inflation expectations that has resulted from this policy does not, 
+
+however, prevent actual inflation from fluctuating from year to year in response to the 
+
+temporary influence of movements in energy prices and other disturbances.  In addition, 
+
+                                                 
+15 See Mian, Rao, and Sufi (2013) for an assessment of the role of leverage and housing wealth shocks in 
+driving consumption during the Great Recession.  Work by Justiniano, Primiceri, and Tambalotti (2015) 
+suggests that debt overhang alone cannot explain the slow recovery from the Great Recession. 
+16 See Yellen (2015) for a more extensive discussion. 
+
+
+ - 10 - 
+
+inflation will tend to run above or below its underlying trend to the extent that resource 
+
+utilization--which may serve as an indicator of firms’ marginal costs--is persistently high 
+
+or low.17 
+
+While this general framework for thinking about the inflation process remains 
+
+useful, questions about some of its quantitative features have arisen in the wake of the 
+
+Great Recession and the subsequent slow recovery.  For example, the influence of labor 
+
+market conditions on inflation in recent years seems to be weaker than had been 
+
+commonly thought prior to the financial crisis.  Although inflation fell during the 
+
+recession, the decline was quite modest given how high unemployment rose; likewise, 
+
+wages and prices rose comparatively little as the labor market gradually recovered.  
+
+Whether this reduction in sensitivity was somehow caused by the recession or instead 
+
+pre-dated it and was merely revealed under extreme conditions is unclear.18  Either way, 
+
+the underlying cause is unknown.  Does the reduced sensitivity reflect structural changes, 
+
+such as globalization or a greater role for intangible capital in production that have 
+
+reduced the importance of cyclical swings in domestic activity for firms’ marginal costs 
+
+and pricing power?  Or does it perhaps reflect the well-documented reluctance--or, 
+
+                                                 
+17 In the economic literature, this general description of the inflation process is referred to as the 
+expectations-augmented Phillips curve.  In its simplest form, the Phillips curve relates inflation to expected 
+inflation and the intensity of resource utilization in the economy.  In practice, however, empirical 
+specifications also typically include measures of supply shocks, such as changes in the relative prices of 
+energy or imported goods, as additional determinants.  Two well-known variants of the Phillips curve are 
+the traditional “accelerationist” specification and the so-called New Keynesian Phillips curve; the former 
+approximates inflation expectations using a moving average of past inflation, while the latter assumes that 
+inflation expectations are “rational” and consistent with the predictions of a structural model of the entire 
+economy.  Some adherents of either type of Phillips curve argue that their preferred model can explain the 
+behavior of inflation during and after the financial crisis.  For example, Gordon (2013) presents evidence in 
+favor of an accelerationist model, while Del Negro, Giannoni, and Schorfheide (2015) make this claim for a 
+New Keynesian model. 
+18 See Blanchard (2016) for evidence on how the responsiveness of inflation to resource utilization has 
+changed over time.  Interestingly, research suggests that this sensitivity began declining well before the 
+crisis. 
+
+
+ - 11 - 
+
+alternatively, limited ability--of firms to cut the nominal wages of their employees, which 
+
+could help to explain the relatively moderate movements in inflation we saw during and 
+
+after the recession?19 
+
+Another gap in our knowledge about the nature of the inflation process concerns 
+
+expectations.  Although many theoretical models suggest that actual inflation should be 
+
+most closely related to short-run inflation expectations, as an empirical matter, measures 
+
+of long-run expectations appear to explain the data better.20  Yet another unresolved issue 
+
+concerns whose expectations--those of consumers, firms, or investors--are most relevant 
+
+for wage and price setting, a point on which theory provides no clear-cut guidance.  More 
+
+generally, the precise manner in which expectations influence inflation deserves further 
+
+study.21 
+
+Perhaps most importantly, we need to know more about the manner in which 
+
+inflation expectations are formed and how monetary policy influences them.  Ultimately, 
+
+both actual and expected inflation are tied to the central bank’s inflation target, whether 
+
+that target is explicit or implicit.22  But how does this anchoring process occur?  Does a 
+
+central bank have to keep actual inflation near the target rate for many years before 
+
+inflation expectations completely conform?  Can policymakers instead materially 
+
+                                                 
+19 For an early discussion of the potential macroeconomic effects of downward nominal wage rigidity, see 
+Akerlof, Dickens, and Perry (1996).  More recently, Daly and Hobijn (2014) develop a model in which the 
+reluctance or inability of firms to cut nominal wages (or both) creates important nonlinearities in the 
+relationship between labor utilization and wage inflation.  Finally, Fallick, Lettau, and Wascher (2015) 
+review the evidence for downward nominal wage rigidity in recent years and explore the ways in which it 
+has interacted with labor market stress over time.  
+20 Specifically, survey measures of long-run inflation expectations are broadly correlated with estimates of 
+inflation’s longer-term trend.  See Clark and Davig (2008); see also Faust and Wright (2013, who make a 
+related point in the context of inflation forecasting. 
+21 As Mavroeidis, Plagborg-Moller, and Stock (2014) conclude from their exhaustive survey, empirical 
+estimates of the New Keynesian inflation equation are “unable to pin down the role of expectations in the 
+inflation process sufficiently accurately for the results to be useful for policy analysis” (p. 172). 
+22 For a discussion of the theoretical and empirical influence of monetary policy on inflation in the context 
+of a formal inflation-targeting regime, see Bernanke and others (1999b).  
+
+
+ - 12 - 
+
+influence inflation expectations directly and quickly by simply announcing their intention 
+
+to pursue a particular inflation goal in the future?  Or does the truth lie somewhere in 
+
+between, with a change in expectations requiring some combination of clear 
+
+communications about policymakers’ inflation goal, concrete policy actions to 
+
+demonstrate their commitment to that goal, and at least some success in moving actual 
+
+inflation toward its desired level in order to demonstrate the feasibility of the strategy?  
+
+Although historical experience suggests that changing the public’s inflation expectations 
+
+would be neither quick nor easy, it is not clear which of these possibilities is correct.23  
+
+With nominal short-term interest rates at or close to their effective lower bound in 
+
+many countries, the broader question of how expectations are formed has taken on 
+
+heightened importance.  Under such circumstances, many central banks have sought 
+
+additional ways to stimulate their economies, including adopting policies that are directly 
+
+aimed at influencing expectations of future interest rates and inflation.  The unusually 
+
+explicit and extended guidance about the likely future path of the federal funds rate that 
+
+was provided by the FOMC from 2011 through 2014 is an example of such a policy, as is 
+
+the Bank of Japan’s upward revision to its official inflation objective in 2013.  Moreover, 
+
+these and other expectational strategies may be needed again in the future, given the 
+
+likelihood that the global economy may continue to experience historically low interest 
+
+rates, thereby making it unlikely that reductions in short-term interest rates alone would 
+
+be an adequate response to a future recession.24   
+
+                                                 
+23 See Kiley (2008) for a discussion of the relationship between U.S. monetary policy and survey measures 
+of long-run inflation expectations; his results suggest that it took many years for the Federal Reserve to 
+succeed in anchoring long-run expectations at a low level.  In a similar vein, Bernanke and others (1999b) 
+conclude that inflation expectations “respond only after a lag following declines in [actual] inflation” 
+(p. 298) based on their study of the effects of adopting inflation targeting in different countries.   
+24 I discussed this likelihood in a recent speech (Yellen, 2016).  
+
+
+ - 13 - 
+
+For all of these reasons, I hope that researchers will strive to improve our 
+
+understanding of inflation dynamics and its interactions with monetary policy. 
+
+International Linkages 
+
+Before closing, let me mention one additional area where more study is needed--
+
+the effects of changes in U.S. monetary policy on financial and economic conditions in 
+
+the rest of the world and the ways in which those foreign effects can feed back to 
+
+influence conditions here at home.  Of course, cross-country monetary policy spillovers 
+
+have been the subject of scholarly debate since the Great Depression, and much of the 
+
+formal analysis of this topic dates back to the early 1960s.25  But this issue has received 
+
+renewed interest with the advent of unconventional monetary policies after the Great 
+
+Recession and, more recently, the divergence of monetary policies among major 
+
+advanced-economy central banks.   
+
+Broadly speaking, monetary policy actions in one country spill over to other 
+
+economies through three main channels:  changes in exchange rates; changes in domestic 
+
+demand, which alter the economy’s imports; and changes in domestic financial 
+
+conditions--such as interest rates and asset prices--that, through portfolio balance and 
+
+other channels, affect financial conditions abroad.  Research by Federal Reserve staff 
+
+suggests that, all told, U.S. monetary policy spillovers to other economies are positive--
+
+that is, policies designed to provide stimulus to the U.S. economy also boost activity 
+
+abroad, as negative effects of dollar depreciation are offset by positive effects of higher 
+
+U.S. imports and easier foreign financial conditions.26  However, this issue is far from 
+
+                                                 
+25 See Mundell (1963) and Fleming (1962). 
+26 See Ammer, De Pooter, Erceg, and Kamin (2016).  Other recent research on this topic includes Fukuda, 
+Kimura, Sudo, and Ugai (2013); Georgiadis (2015); Glick and Leduc (2015); and Ilzetski and Jin (2013). 
+
+
+ - 14 - 
+
+settled, as are a host of other related questions, including the following:  Do U.S. 
+
+monetary policy actions affect advanced and emerging market countries differently?  Do 
+
+conventional and unconventional monetary policies spill over to other countries 
+
+differently?  And to what extent are U.S. interest rates and financial conditions influenced 
+
+by easing measures abroad?   
+
+Conclusion 
+
+In closing, I would like to commend the Federal Reserve Bank of Boston for 
+
+organizing this conference and fostering research and debate on questions vital to our 
+
+understanding of the economy.  Answering these questions will help the Federal 
+
+Reserve’s efforts to promote a healthy economy, and I am grateful for the opportunity to 
+
+speak to you today and be part of this important discussion. 
+
+
+
+
+ - 15 - 
+
+References 
+ 
+Agnello, Luca, and Ludger Schuknecht (2011).  “Booms and Busts in Housing Markets:  
+
+Determinants and Implications,” Journal of Housing Economics, vol. 20 
+(September), pp. 171-90. 
+
+ 
+Akerlof, George A., William T. Dickens, and George L. Perry (1996).  “The 
+
+Macroeconomics of Low Inflation,” Brookings Papers on Economic Activity, 
+no. 1, pp. 1-76, www.brookings.edu/wp-
+content/uploads/1996/01/1996a_bpea_akerlof_dickens_perry_gordon_mankiw.pdf. 
+
+ 
+Akerlof, George A., Andrew K. Rose, and Janet L. Yellen (1988).  “Job Switching and 
+
+Job Satisfaction in the U.S. Labor Market,” Brookings Papers on Economic 
+Activity, no. 2, pp. 495-594, www.brookings.edu/wp-
+content/uploads/1988/06/1988b_bpea_akerlof_rose_yellen_ball_hall.pdf. 
+
+ 
+Ammer, John, Michiel De Pooter, Christopher Erceg, and Steven Kamin (2016).  
+
+“International Spillovers of Monetary Policy,” IFDP Notes.  Washington:  Board 
+of Governors of the Federal Reserve System, February 8, 
+https://www.federalreserve.gov/econresdata/notes/ifdp-notes/2016/international-
+spillovers-of-monetary-policy-20160208.html. 
+
+ 
+Auclert, Adrien (2016).  “Monetary Policy and the Redistribution Channel,” unpublished 
+
+paper, Stanford University, Department of Economics, January, 
+http://web.stanford.edu/%7Eaauclert/mp_redistribution.pdf. 
+
+ 
+Bernanke, Ben S., and Mark Gertler (1989).  “Agency Costs, Net Worth, and Business 
+
+Fluctuations,” American Economic Review, vol. 79 (March), pp. 14-31. 
+ 
+Bernanke, Ben S., Mark Gertler, and Simon Gilchrist (1999a).  “The Financial 
+
+Accelerator in a Quantitative Business Cycle Framework,” in John B. Taylor and 
+Michael Woodford, eds., Handbook of Macroeconomics, vol. 1C.  Amsterdam:  
+Elsevier, pp. 1341-93.  
+
+ 
+Bernanke, Ben S., Thomas Laubach, Frederic S. Mishkin, and Adam S. Posen (1999b).  
+
+Inflation Targeting:  Lessons from the International Experience.  Princeton, N.J.:  
+Princeton University Press. 
+
+ 
+Blanchard, Olivier (2016).  “The Phillips Curve:  Back to the ’60s?” American Economic 
+
+Review, vol. 106 (May), pp. 31-34. 
+ 
+Blanchard, Olivier, Eugenio Cerutti, and Lawrence Summers (2015).  “Inflation and 
+
+Activity--Two Explorations and Their Monetary Policy Implications,” IMF 
+Working Paper WP/15/230.  Washington:  International Monetary Fund, 
+November, https://www.imf.org/external/pubs/ft/wp/2015/wp15230.pdf. 
+
+
+
+
+ - 16 - 
+
+Blanchard, Olivier J., and Lawrence H. Summers (1986).  “Hysteresis and the European 
+Unemployment Problem,” in Stanley Fischer, ed., NBER Macroeconomics Annual 
+1986, vol. 1.  Cambridge, Mass.:  MIT Press, pp. 15-90, 
+www.nber.org/chapters/c4245. 
+
+ 
+Blinder, Alan S., and Janet L. Yellen (2001).  The Fabulous Decade:  Macroeconomic 
+
+Lessons from the 1990s.  New York:  Century Foundation Press. 
+ 
+Cerra, Valerie, and Sweta Chaman Saxena (2008).  “Growth Dynamics:  The Myth of 
+
+Economic Recovery,” American Economic Review, vol. 98 (March), pp. 439-57. 
+ 
+Chaney, Thomas, David Sraer, and David Thesmar (2012).  “The Collateral Channel:  
+
+How Real Estate Shocks Affect Corporate Investment,” American Economic 
+Review, vol. 102 (October), pp. 2381-409. 
+
+ 
+Chodorow-Reich, Gabriel (2014).  “The Employment Effects of Credit Market 
+
+Disruptions:  Firm-Level Evidence from the 2008-9 Financial Crisis,” Quarterly 
+Journal of Economics, vol. 129 (February), pp. 1-59. 
+
+ 
+Clark, Todd E., and Troy Davig (2008).  “An Empirical Assessment of the Relationships 
+
+among Inflation and Short- and Long-Term Expectations,” Research Working 
+Paper RWP 08-05.  Kansas City:  Federal Reserve Bank of Kansas City, 
+November, https://www.kansascityfed.org/publicat/reswkpap/pdf/rwp08-05.pdf. 
+
+ 
+Clementi, Gian Luca, and Berardino Palazzo (2016).  “Entry, Exit, Firm Dynamics, and 
+
+Aggregate Fluctuations,” American Economic Journal:  Macroeconomics, vol. 8 
+(July), pp. 1-41. 
+
+ 
+Daly, Mary C., and Bart Hobijn (2014).  “Downward Nominal Rigidities Bend the 
+
+Phillips Curve,” Journal of Money, Credit and Banking, vol. 46 (October), 
+pp. 51-93. 
+
+ 
+Del Negro, Marco, Marc P. Giannoni, and Frank Schorfheide (2015).  “Inflation in the 
+
+Great Recession and New Keynesian Models,” American Economic Journal:  
+Macroeconomics, vol. 7 (January), pp. 168-96. 
+
+ 
+Dokko, Jane, Brian M. Doyle, Michael T. Kiley, Jinill Kim, Shane Sherlund, Jae Sim, 
+
+and Skander Van Den Heuvel (2011).  “Monetary Policy and the Global Housing 
+Bubble,” Economic Policy, vol. 26 (April), pp. 237-87. 
+
+ 
+Duygan-Bump, Burcu, Alexey Levkov, and Judit Montoriol-Garriga (2015).  “Financing 
+
+Constraints and Unemployment:  Evidence from the Great Recession,” Journal of 
+Monetary Economics, vol. 75 (October), pp. 89-105. 
+
+ 
+Fair, Ray C. (2004).  Estimating How the Macroeconomy Works.  Cambridge, Mass.:  
+
+Harvard University Press. 
+
+
+ - 17 - 
+
+ 
+Fallick, Bruce C., Michael Lettau, and William L. Wascher (2016).  “Downward 
+
+Nominal Wage Rigidity in the United States during and after the Great 
+Recession,” Finance and Economics Discussion Series 2016-001.  Washington:  
+Board of Governors of the Federal Reserve System, January, 
+http://dx.doi.org/10.17016/FEDS.2016.001. 
+
+ 
+Faust, Jon, and Jonathan H. Wright (2013).  “Forecasting Inflation,” in Graham Elliott 
+
+and Allan Timmermann, eds., Handbook of Economic Forecasting, vol. 2A.  
+Amsterdam:  Elsevier, pp. 3-56. 
+
+ 
+Fernald, John G. (2015).  “Productivity and Potential Output before, during, and after the 
+
+Great Recession,” in Jonathan A. Parker and Michael Woodford, eds., NBER 
+Macroeconomics Annual 2014, vol. 29.  Chicago:  University of Chicago Press, 
+pp. 1-51. 
+
+ 
+Fleming, J. Marcus (1962).  “Domestic Financial Policies under Fixed and under Floating 
+
+Exchange Rates,” International Monetary Fund Staff Papers, vol. 9 (November), 
+pp. 369-80. 
+
+ 
+Fukuda, Yoshiyuki, Yuki Kimura, Nao Sudo, and Hiroshi Ugai (2013).  “Cross-Country 
+
+Transmission Effect of the U.S. Monetary Shock under Global Integration,” Bank 
+of Japan Working Paper Series 13-E-16.  Tokyo:  BOJ, November, 
+www.boj.or.jp/en/research/wps_rev/wps_2013/data/wp13e16.pdf.  
+
+ 
+Georgiadis, Georgios (2015).  “Determinants of Global Spillovers from U.S. Monetary 
+
+Policy,” ECB Working Paper Series 1854.  Frankfurt am Main, Germany:  
+European Central Bank, September, 
+www.ecb.europa.eu/pub/pdf/scpwps/ecbwp1854.en.pdf. 
+
+ 
+Gertler, Mark, and Peter Karadi (2015).  “Monetary Policy Surprises, Credit Costs, and 
+
+Economic Activity,” American Economic Journal:  Macroeconomics, vol. 7 
+(January), pp. 44-76. 
+
+ 
+Glick, Reuven, and Sylvain Leduc (2015).  “Unconventional Monetary Policy and the 
+
+Dollar:  Conventional Signs, Unconventional Magnitudes,” Working Paper Series 
+2015-18.  San Francisco:  Federal Reserve Bank of San Francisco, November, 
+www.frbsf.org/economic-research/files/wp2015-18.pdf. 
+
+ 
+Gordon, Robert J. (2013).  “The Phillips Curve Is Alive and Well:  Inflation and the 
+
+NAIRU during the Slow Recovery,” NBER Working Paper Series 19390.  
+Cambridge, Mass.:  National Bureau of Economic Research, August, 
+www.nber.org/papers/w19390.pdf. 
+
+ 
+Gornemann, Nils, Keith Kuester, and Makoto Nakajima (2016).  “Doves for the Rich, 
+
+Hawks for the Poor?  Distributional Consequences of Monetary Policy,” 
+
+
+ - 18 - 
+
+International Finance Discussion Papers 1167.  Washington:  Board of Governors 
+of the Federal Reserve System, 
+www.federalreserve.gov/econresdata/ifdp/2016/files/ifdp1167.pdf. 
+
+ 
+Gourio, Francois, Todd Messer, and Michael Siemer (2016).  “Firm Entry and 
+
+Macroeconomic Dynamics:  A State-Level Analysis,” American Economic 
+Review, vol. 106 (May), pp. 214-18. 
+
+ 
+Guvenen, Fatih (2011).  “Macroeconomics with Heterogeneity:  A Practical Guide,” 
+
+Federal Reserve Bank of Richmond, Economic Quarterly, vol. 97 (Third Quarter), 
+pp. 255-326, https://www.richmondfed.org/-
+/media/richmondfedorg/publications/research/economic_quarterly/2011/q3/pdf/gu
+venen.pdf. 
+
+  
+Holzer, Harry J., Steven Raphael, and Michael A. Stoll (2006).  “Employers in the Boom:  
+
+How Did the Hiring of Less-Skilled Workers Change during the 1990s?” Review 
+of Economics and Statistics, vol. 88 (May), pp. 283-99. 
+
+ 
+Howard, Greg, Robert Martin, and Beth Anne Wilson (2011).  “Are Recoveries from 
+
+Banking and Financial Crises Really So Different?” International Finance 
+Discussion Papers 1037.  Washington:  Board of Governors of the Federal 
+Reserve System, November, 
+https://www.federalreserve.gov/pubs/ifdp/2011/1037/ifdp1037.pdf. 
+
+ 
+Ilzetski, Ethan, and Keyu Jin (2013).  “The Puzzling Change in the International 
+
+Transmission of U.S. Macroeconomic Policy Shocks,” working paper.  London:  
+London School of Economics, February, 
+http://personal.lse.ac.uk/ilzetzki/index.htm/Research/Puzzling.pdf. 
+
+ 
+Justiniano, Alejandro, Giorgio Primiceri, and Andrea Tambalotti (2015).  “Household 
+
+Leveraging and Deleveraging,” Review of Economic Dynamics, vol. 18 (January), 
+pp. 3-20. 
+
+ 
+Kaplan, Greg, Benjamin Moll, and Giovanni L. Violante (2016).  “Monetary Policy 
+
+According to HANK,” NBER Working Paper Series 21897.  Cambridge, Mass.:  
+National Bureau of Economic Research, January, 
+www.nber.org/papers/w21897.pdf. 
+
+ 
+Kashyap, Anil K., and Jeremy C. Stein (2000).  “What Do a Million Observations on 
+
+Banks Say about the Transmission of Monetary Policy?” American Economic 
+Review, vol. 90 (June), pp. 407-28. 
+
+ 
+Katz, Lawrence F., and Alan B. Krueger (1999).  “The High-Pressure U.S. Labor Market 
+
+of the 1990s,” Brookings Papers on Economic Activity, no. 1, pp. 1-87, 
+https://www.brookings.edu/wp-content/uploads/1999/01/1999a_bpea_katz.pdf. 
+
+
+
+
+ - 19 - 
+
+Khan, Aubhik, and Julia K. Thomas (2013).  “Credit Shocks and Aggregate Fluctuations 
+in an Economy with Production Heterogeneity,” Journal of Political Economy, 
+vol. 121 (December), pp. 1055-107. 
+
+ 
+Kiley, Michael T. (2008).  “Monetary Policy Actions and Long-Run Inflation 
+
+Expectations,” Finance and Economics Discussion Series 2008-03.  Washington:  
+Board of Governors of the Federal Reserve System, February, 
+https://www.federalreserve.gov/pubs/feds/2008/200803/200803pap.pdf. 
+
+ 
+Krueger, Dirk, Kurt Mitman, and Fabrizio Perri (2016).  “Macroeconomics and 
+
+Household Heterogeneity,” CEPR Discussion Paper 11038.  London:  Centre for 
+Economic Policy Research, June. 
+
+ 
+Krusell, Per, and Anthony A. Smith, Jr. (1998).  “Income and Wealth Heterogeneity in 
+
+the Macroeconomy,” Journal of Political Economy, vol. 106 (October), 
+pp. 867-96. 
+
+ 
+Martin, Robert F., Teyanna Munyan, and Beth Anne Wilson (2015).  “Potential Output 
+
+and Recessions:  Are We Fooling Ourselves?” International Finance Discussion 
+Papers 1145.  Washington:  Board of Governors of the Federal Reserve System, 
+September, 
+https://www.federalreserve.gov/econresdata/ifdp/2015/files/ifdp1145.pdf. 
+
+ 
+Mavroeidis, Sophocles, Mikkel Plagborg-Moller, and James H. Stock (2014).  “Empirical 
+
+Evidence on Inflation Expectations in the New Keynesian Phillips Curve,” 
+Journal of Economic Literature, vol. 52 (March), pp. 124-88. 
+
+ 
+Mian, Atif, Kamalesh Rao, and Amir Sufi (2013).  “Household Balance Sheets, 
+
+Consumption, and the Economic Slump,” Quarterly Journal of Economics, 
+vol. 128 (November), pp. 1687-726. 
+
+ 
+Mundell, Robert A. (1963).  “Capital Mobility and Stabilization Policy under Fixed and 
+
+Flexible Exchange Rates,” Canadian Journal of Economics and Political Science, 
+vol. 29 (November), pp. 475-85. 
+
+ 
+Okun, Arthur M. (1973).  “Upward Mobility in a High-Pressure Economy,” Brookings 
+
+Papers on Economic Activity, no. 1, pp. 207-52.   
+ 
+Parker, Jonathan A., Nicholas S. Souleles, David S. Johnson, and Robert McClelland 
+
+(2013).  “Consumer Spending and the Economic Stimulus Payments of 2008,” 
+American Economic Review, vol. 103 (October), pp. 2530-53. 
+
+ 
+Peek, Joe, and Eric S. Rosengren (2013).  “The Role of Banks in the Transmission of 
+
+Monetary Policy,” Public Policy Discussion Papers 13-5.  Boston:  Federal 
+Reserve Bank of Boston, September, 
+
+
+ - 20 - 
+
+https://www.bostonfed.org/publications/public-policy-discussion-paper/2013/the-
+role-of-banks-in-the-transmission-of-monetary-policy.aspx. 
+
+ 
+Peek, Joe, Eric S. Rosengren, and Geoffrey M.B. Tootell (2003).  “Identifying the 
+
+Macroeconomic Effects of Loan Supply Shocks,” Journal of Money, Credit and 
+Banking, vol. 35 (December), pp. 931-46. 
+
+ 
+Quadrini, Vincenzo, and Jose-Víctor Rios-Rull (2015).  “Inequality in Macroeconomics,” 
+
+in Anthony B. Atkinson and Francois Bourguignon, eds., Handbook of Income 
+Distribution, vol. 2B.  Amsterdam:  Elsevier, pp. 1229-302. 
+
+ 
+Reifschneider, Dave, William Wascher, and David W. Wilcox (2015).  “Aggregate 
+
+Supply in the United States:  Recent Developments and Implications for the 
+Conduct of Monetary Policy,” IMF Economic Review, vol. 63 (May), pp. 71-109. 
+
+ 
+Siemer, Michael (2014).  “Firm Entry and Employment Dynamics in the Great 
+
+Recession,” Finance and Economics Discussion Series 2014-56.  Washington:  
+Board of Governors of the Federal Reserve System, August, 
+https://www.federalreserve.gov/pubs/feds/2014/201456/201456pap.pdf. 
+
+ 
+Solow, Robert M. (1997).  “Is There a Core of Usable Macroeconomics We Should All 
+
+Believe In?” American Economic Review, vol. 87 (May), pp. 230-32. 
+ 
+Sterk, Vincent, and Silvana Tenreyro (2016).  “The Transmission of Monetary Policy 
+
+through Redistributions and Durable Purchases,” CEP Working Paper 2016/1.  
+Zurich:  Council on Economic Policies, January, https://www.cepweb.org/wp-
+content/uploads/CEP-WP-2016-1-
+Transmission_of_Monetary_Policy_through_Redistributions_and_Durable_Purch
+ases.pdf. 
+
+ 
+Summers, Laurence H. (2014).  “Reflections on the ‘New Secular Stagnation 
+
+Hypothesis,’” in Coen Teulings and Richard Baldwin, eds., Secular Stagnation:  
+Facts, Causes, and Cures.  London:  Centre for Economic Policy Research, 
+pp. 27-38. 
+
+ 
+Yellen, Janet L. (2015).  “Inflation Dynamics and Monetary Policy,” speech delivered at 
+
+the Philip Gamble Memorial Lecture, University of Massachusetts at Amherst, 
+Amherst, Mass., September 24, 
+https://www.federalreserve.gov/newsevents/speech/yellen20150924a.htm. 
+
+ 
+Yellen, Janet L. (2016).  “The Federal Reserve’s Monetary Policy Toolkit:  Past, Present 
+
+and Future,” speech delivered at “Designing Resilient Monetary Policy Frameworks 
+for the Future,” a symposium sponsored by the Federal Reserve Bank of Kansas 
+City, held in Jackson Hole, Wyoming, August 26, 
+www.federalreserve.gov/newsevents/speech/yellen20160826a.htm. 
+ 
+

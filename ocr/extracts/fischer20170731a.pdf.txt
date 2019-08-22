@@ -1,0 +1,1928 @@
+
+For release on delivery 
+9:25 a.m. EDT (10:25 a.m. local time) 
+July 31, 2017 
+ 
+
+
+The Low Level of Global Real Interest Rates 
+ 
+ 
+ 
+
+Remarks by 
+ 
+
+Stanley Fischer 
+ 
+
+Vice Chairman 
+ 
+
+Board of Governors of the Federal Reserve System 
+ 
+
+at the 
+ 
+
+Conference to Celebrate Arminio Fraga’s 60 Years 
+ 
+
+Casa das Garcas, Rio de Janeiro, Brazil 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+July 31, 2017 
+ 
+
+
+
+ I am very happy to be participating in this conference celebrating Arminio.  My 
+
+tenure at the International Monetary Fund overlapped with the first two and a half years 
+
+of Arminio’s time as president of the Central Bank of Brazil, and in our capacities at the 
+
+time, we had frequent opportunities to interact and converse.  Of course, I watched with 
+
+admiration the remarkable management of the economy by the Malan-Fraga team in the 
+
+run-up to the election that brought Lula to power.  In particular, Arminio and his Central 
+
+Bank team’s management of the exchange rate--which at one point reached 3.95 reais per 
+
+dollar--was masterly and put in place a sound foundation for that essential part of Brazil’s 
+
+economic machinery in the years that followed.   
+
+Subsequently, as I was on the brink of transitioning to the world of central 
+
+banking early in 2005--that is, prior to taking up my position as governor of the Bank of 
+
+Israel--Arminio was able to turn the tables and offered me some hard-edged advice on 
+
+how to be a central banker.  I have kept that advice close since then.  It comes in the form 
+
+of six commandments on a small laminated piece of paper.  Needless to say, it very much 
+
+reflects his values and his behavior.  Let me quote just three of his rules:  “Number 2.  Do 
+
+[the job] in a way that shows you care, but in a way that shows you will serenely pursue 
+
+your goals”--excellent advice, which is easier said than done; “Number 5.  Beware of a 
+
+tendency to be overly conservative once you start wearing the central bank hat”; and 
+
+“Number 6.  Remember, most people lose half their IQ when they take a job such as this 
+
+one.”   
+
+Now I will turn to the main topic of my discussion, the low level of global real 
+
+interest rates, an important and distinguishing feature of the current global economic 
+
+environment.  In the United States, the yield on 10-year Treasury bonds is near all-time 
+
+
+ - 2 - 
+
+lows, with the same being true in the euro area, the United Kingdom, and Japan 
+
+(figure 1).  Yields have also declined in many emerging markets, with interest rates 
+
+falling almost 400 basis points in Korea since the financial crisis and by a similar amount 
+
+in Israel.  As shown in figure 2, the decline has been less apparent in Brazil and South 
+
+Africa, though interest rates in both countries remain well below previous peaks.  
+
+In this talk, I will address two questions:  Why are interest rates so low?  And why 
+
+has the decline in interest rates been so widespread?1 
+
+Global Real Interest Rates Have Declined 
+
+Lower inflation explains a portion of the decline in nominal interest rates.  
+
+Longer-term interest rates reflect market participants’ expectations of future inflation as 
+
+well as the expected path of real, or inflation-adjusted, interest rates.  And while lower 
+
+realized inflation and credible central back inflation targets have likely stabilized 
+
+expected inflation at relatively low levels compared with much of the 20th century, 
+
+inflation-adjusted yields have also notably decreased. 
+
+The decline in interest rates also does not appear to be primarily an outcome of 
+
+the economic cycle.  Longer-term interest rates in the United States have remained low 
+
+even as the Federal Open Market Committee (FOMC) has increased the short-term 
+
+federal funds rate by 100 basis points and as the unemployment rate has declined below 
+
+the median of FOMC participants’ assessments of its longer-run normal level.   
+
+Rather, it appears as though much of the decline has occurred in the equilibrium 
+
+level of the real interest rate--also known as the natural rate of interest or, alternatively, 
+
+                                                 
+1 I am grateful to Joseph W. Gruber of the Federal Reserve Board for his assistance.  Views expressed in 
+this presentation are my own and not necessarily those of the Federal Reserve Board or the Federal Open 
+Market Committee. 
+
+
+ - 3 - 
+
+r*.  Knut Wicksell, in his 1898 treatise Interest and Prices, wrote, “There is a certain 
+
+level of the average rate of interest which is such that the general level of prices has no 
+
+tendency to move either upwards or downwards.”2  In recent years, the coincidence of 
+
+low inflation and low interest rates suggests that the natural rate of interest is likely very 
+
+low today. 
+
+Wicksell was clearly referring to the natural rate as the real interest rate when the 
+
+economy is at full employment.  The widely cited methodology of my Federal Reserve 
+
+colleagues Thomas Laubach and John Williams, attempts to gauge the natural rate in the 
+
+longer run after various shorter-term influences, including the business cycle, have 
+
+played out.  In a recent update of their analysis, they find that the natural rate of interest 
+
+has declined about 150 basis points in the United States since the financial crisis and is 
+
+currently about 50 basis points.  We must remember, however, that r* is a function and 
+
+not a constant, and its estimation is subject to a number of assumptions, the modification 
+
+of which can lead to a wide range of estimates.3 
+
+In an extension of this analysis, shown in figure 3, Laubach, Williams, and 
+
+Kathryn Holston, also a Federal Reserve colleague, show that the decline in the natural 
+
+rate of interest is a common feature across a number of foreign economies.4  The fall in 
+
+                                                 
+2 Wicksell’s Interest and Prices, published in German in 1898 as Geldzins und Güterpreise by Gustav 
+Fischer (Jena), was first published in English in 1936--see Wicksell (1936). 
+3 See Laubach and Williams (2003).  See also Gagnon, Johannsen, and Lopez-Salido (2016) and Johannsen 
+and Mertens (2016).  It is important to point out that r* is not an observable variable and that estimates 
+generally reflect assumptions about how the economy works and should be modeled.  As such, different 
+methodologies or underlying economic models can come up with a wide range of estimates of r*.  Lewis 
+and Vazquez-Grande (2017) examine parameter uncertainty and alternative specifications in the estimation 
+of the natural rate of interest.  Under some specifications, they find an estimated r* at the end of 2016 of 
+close to 2 percent, far higher than the about 0.5 percent reported by the methodology of Holston, Laubach, 
+and Williams (forthcoming). 
+4 See Holston, Laubach, and Williams (forthcoming). 
+
+
+ - 4 - 
+
+equilibrium interest rates was most pronounced at the time of the financial crisis, but 
+
+rates have shown little tendency to increase during the long recovery from the crisis.  
+
+How Should We Think about the Decline in Equilibrium Interest Rates?  An 
+
+Investment and Savings Framework 
+
+There are many factors that could be holding down interest rates, some of which 
+
+could fade over time, including the effects of quantitative easing in the United States and 
+
+abroad and a heightened demand for safe assets affecting yields on advanced-economy 
+
+government securities.  I will focus on some of the more enduring factors that could 
+
+potentially lower the equilibrium interest for some time. 
+
+In attempting to explain why real interest rates have fallen, a useful starting point 
+
+is to think of the natural interest rate as the price that equilibrates the economy’s supply 
+
+of saving with the demand for investment in the long run, when the economy is at full 
+
+employment.  With this framework in mind, low interest rates reflect factors that increase 
+
+saving, depress investment demand, or both.     
+
+Focusing initially on the United States, I will look at three interrelated factors that 
+
+are likely contributing to low interest rates:  slower trend economic growth, an aging 
+
+population and demographic developments, and relatively weak investment.  I will then 
+
+discuss global developments and spillovers between countries.   
+
+But first I would like to interject a quick word on why we as policymakers might 
+
+be concerned about low interest rates.  I highlight three main worries.  First, as John 
+
+Maynard Keynes discussed in the concluding chapters of The General Theory of 
+
+Employment, Interest and Money, a low equilibrium interest rate increases the risks of 
+
+falling into a liquidity trap, a situation where the nominal interest rate is stuck, by an 
+
+
+ - 5 - 
+
+effective lower bound, above the rate necessary to bring the economy back to potential.5  
+
+Relatedly, but more broadly, low equilibrium interest rates are a key pillar of the secular 
+
+stagnation hypothesis, which Larry Summers has carried forward during the past few 
+
+years.6  Second, a low natural rate could potentially hurt financial stability if it leads 
+
+investors to reach for yield or hurts financial firms’ profitability.  And, third--and perhaps 
+
+most troubling--a low equilibrium rate sends a powerful signal that the growth potential 
+
+of the economy may be limited.7 
+
+Slow trend growth 
+
+One factor contributing to low equilibrium interest rates in the United States has 
+
+been a slowdown in the pace of potential, or trend, growth.  According to the 
+
+Congressional Budget Office (CBO), real potential growth in the United States is 
+
+currently around 1.5 percent, compared with a pace about double that, on average, in the 
+
+two decades leading up to the financial crisis.  A prime culprit in the growth slowdown 
+
+has been the slow rate of labor productivity growth, which has increased only 1/2 percent, 
+
+on average, over the past five years, compared with a 2 percent growth rate over the 
+
+period from 1976 to 2005.8  A declining rate of labor force growth has also worked to 
+
+push down trend growth.  The CBO is projecting that the potential labor force in the 
+
+                                                 
+5 In chapter 23, p. 353, Keynes includes an interesting discussion of the “strange, unduly neglected prophet 
+Silvio Gesell (1862-1930), whose work contains flashes of deep insight and who only just failed to reach 
+down to the essence of the matter.”  He adds that Gesell was a successful German merchant in Buenos 
+Aires.  See Keynes (1936).     
+6 See Summers (2014, 2015, 2016).  
+7 See Fischer (2016a) for a fuller discussion of the risks associated with a low equilibrium interest rate.  
+8 See Irwin (2017) for an examination of an alternative pattern of causality, where slow growth--and, in 
+particular, weak wage growth--has led to low productivity growth rather than vice versa.  
+     I should also remind the reader of Herbert Stein’s observation that the difference between a growth rate 
+of 1 percent and a growth rate of 2 percent is 100 percent. 
+
+
+ - 6 - 
+
+United States will grow at about 1/2 percent per year over the next decade, less than half 
+
+the pace observed, on average, in the two decades before the financial crisis. 
+
+Slower growth can both boost saving and depress investment.  As households 
+
+revise down their expectations for future income growth, they become less likely to 
+
+borrow and more likely to save.  Likewise, slower growth diminishes the number of 
+
+business opportunities that can be profitably undertaken, weighing on investment 
+
+demand. 
+
+Demographics  
+
+The aging of the population can work to lower the equilibrium interest rate 
+
+beyond its effect on the size of the labor force and trend growth.  As households near 
+
+retirement, they tend to save more, anticipating having to run down their savings after 
+
+they leave the labor force.  Federal Reserve economists, in one study, estimate that higher 
+
+saving by near-retirement households could be pushing down the longer-run equilibrium 
+
+federal funds rate relative to its level in the 1980s by as much as 75 basis points.9    
+
+Investment    
+
+Another factor weighing on equilibrium real interest rates has been the recent 
+
+weakness of investment.  What explains the tepid response of capital spending to 
+
+historically low interest rates?  As mentioned earlier, low productivity growth has 
+
+certainly been a contributing factor, as firms see fewer profitable investment 
+
+opportunities.  But elevated uncertainty, both political and economic, has likely also 
+
+played a role.  For one, uncertainty about the outlook for government policy in health 
+
+                                                 
+9 See Gagnon, Johannsen, and Lopez-Salido (2016), figure 12, p. 45. 
+
+
+ - 7 - 
+
+care, regulation, taxes, and trade can cause firms to delay projects until the policy 
+
+environment clarifies.   
+
+Firms also seem quite uncertain about the disruptive capacity of new 
+
+technologies.  Technological developments appear to be rapidly reshaping entire 
+
+industries--in retail, transportation, and communications.  Elevated uncertainty about the 
+
+continued viability of long-standing business models could be weighing on investment 
+
+decisions.  Relatedly, it is possible that as the economy evolves in response to new 
+
+technologies, production is becoming less capital intensive than it was in earlier 
+
+decades.10      
+
+Another possible explanation for the weakness of investment in the United States 
+
+has been a decrease in competition within industries, as evidenced by decreasing firm 
+
+entry and exit rates as well as increased industry concentration.11  Less competition 
+
+allows firms to maintain high profits while lowering the pressure on them to increase 
+
+production to maintain market share. 
+
+In an earlier discussion, I attempted to quantify the effect that these factors--slow 
+
+growth, demographics, and investment--might be having on the long-run equilibrium rate 
+
+in the United States.12  According to simulations from the Board’s FRB/US model, the 
+
+slowdown in growth appears likely to be the primary factor depressing the long-run 
+
+equilibrium rate, although the contributions from demographics and weak investment 
+
+demand were also sizable. 
+
+                                                 
+10 See Hilsenrath and Davis (2016).  
+11 See Gutiérrez and Philippon (2017) and Döttling, Gutiérrez, and Philippon (2017).   
+12 See Fischer (2016b).   
+
+
+ - 8 - 
+
+Global Links:  Why Has the Decline in Interest Rates Been So Widespread?   
+
+Up until now, I have looked primarily at factors within the United States.  
+
+However, as I have pointed out earlier, the decline in interest rates is a global 
+
+phenomenon.  Why has the decline in interest rates been so widespread? 
+
+One important reason is that many of the same factors that have been driving 
+
+down the equilibrium interest rate in the United States have operated with equal or even 
+
+greater force in many foreign economies.  The slowdown in labor productivity growth 
+
+has been widespread across many countries.  Likewise, the advanced economies and 
+
+some emerging markets have experienced demographic shifts that are in some cases 
+
+much more pronounced than in the United States, with the working-age population in 
+
+some countries even declining over the past decade.     
+
+Another explanation is that we live in an integrated global economy where 
+
+economic developments in one country spill over into other countries via trade and 
+
+capital flows as well as prices, including interest rates and exchange rates.13  In the most 
+
+general sense, these spillovers are captured in the pattern of current balances, shown in 
+
+figure 4.  If we abstract from a somewhat sizable statistical discrepancy, the sum of 
+
+global current accounts should be equal to zero, as, in the aggregate, one country’s deficit 
+
+must be matched by a surplus in some configuration of other countries--but it is not 
+
+always apparent who is spilling over onto whom.   
+
+Current Account Balances and Global Spillovers 
+
+Prior to the financial crisis, it was widely speculated that foreign developments 
+
+were depressing U.S. interest rates.  Former Chairman Bernanke characterized the foreign 
+
+                                                 
+13 See Clarida (2017) for a model-based discussion of global factors and neutral interest rates. 
+
+
+ - 9 - 
+
+forces acting on U.S. interest rates as the “global saving glut,” with particular reference to 
+
+emerging market economies that were running persistent current account surpluses, 
+
+sometimes as a result of specific policy decisions regarding exchange rates, reserve 
+
+accumulation, and fiscal policy.14  The global saving glut was also a factor in the 
+
+“Greenspan conundrum,” or the observation that a series of Federal Reserve rate hikes 
+
+over the period from 2004 to 2006 seemed to have little effect on longer-term interest 
+
+rates in the United States.  As shown in figure 5, the deterioration of the U.S. deficit in 
+
+the early 2000s was matched by growing surpluses in the emerging markets, particularly 
+
+in emerging Asia and China as well as OPEC.  The explosive growth of the U.S. current 
+
+account deficit from 2001 to 2006, coincident with falling interest rates both in the 
+
+United States and globally, supports the notion that higher foreign saving relative to 
+
+foreign investment was likely holding down U.S. interest rates at the time.   
+
+What can the distribution of global current accounts tell us about international 
+
+spillovers in the post-crisis era?  As shown in figure 6, the most notable development has 
+
+been the almost exact reversal of the expansion of the U.S. current account deficit 
+
+observed during the time of the global saving glut.  Has the global saving glut of the mid-
+
+2000s faded away?  Falling interest rates over the period that the U.S. deficit narrowed 
+
+suggest not.15  If a shrinking supply of foreign saving, the reversal of the global saving 
+
+glut, was behind the narrowing of the U.S. deficit, then the tendency would have been for 
+
+equilibrium real interest rates to have increased.16  Rather, falling equilibrium rates 
+
+                                                 
+14 See Bernanke (2005).  
+15 While it is unsurprising that interest rates fell sharply during the recession that followed the financial 
+crisis, it is less apparent that equilibrium rates should have fallen so sharply or remain so low almost a 
+decade later following the cyclical recovery in the United States and many other countries. 
+16 See Bernanke (2015) for a discussion of the persistence of the global saving glut. 
+
+
+ - 10 - 
+
+suggest that falling U.S. demand for foreign savings has precipitated the narrowing of the 
+
+U.S. current account deficit.  U.S. demand likely decreased for the reasons discussed 
+
+earlier, including slowing growth, demographics, and weak investment demand. 
+
+Does the marked narrowing of the U.S. current account deficit post-crisis suggest 
+
+that the United States has been the primary source of downward pressure on global 
+
+interest rates over the past decade?  Certainly, if the United States had maintained its 
+
+previous deficit, interest rates would likely be higher around the world.  However, the 
+
+financial crisis revealed that the U.S. capacity to absorb global savings at the pace 
+
+observed prior to the crisis was unsustainable.17  Rather, an alternative explanation would 
+
+be that the sharp decline in global interest rates post-crisis reflects factors that were likely 
+
+well in train before the financial crisis.  The downward trend in interest rates would have 
+
+been more pronounced earlier in the decade had not elevated, and ultimately 
+
+unsustainable, borrowing in the United States slowed the decline in interest rates in the 
+
+years immediately preceding the crisis.  This narrative is consistent with empirical 
+
+evidence that suggests that the slowdowns in global productivity growth and labor force 
+
+growth, both key factors in the slowing pace of global growth and the downward pressure 
+
+on interest rates, predate the global financial crisis.18 
+
+It is notable in figure 6 that the euro area has also seen a sizable increase in its 
+
+current account position post-crisis, suggesting that developments in Europe have also 
+
+played a role in pushing down interest rates.  The increase in the euro-area current 
+
+                                                 
+17 This is not to suggest that the global saving glut was the only factor leading to the financial crisis.  
+Rather, excessive risk-taking on the part of U.S. households and financial firms, along with structural 
+defects in the structure of regulation and failures in supervision on the part of government regulators, also 
+played a role. 
+18 See Fernald (2015) and Fernald and others (2017).  
+
+
+ - 11 - 
+
+account in part reflects sharp reversals in the current account deficits of Greece, Portugal, 
+
+Spain, and Ireland--all countries that had witnessed large increases in their deficits during 
+
+the global saving glut period prior to the crisis, in a pattern similar to that experienced by 
+
+the United States.  However, the euro-area increase also reflects increased surpluses in 
+
+Germany and the Netherlands, countries that were already in considerable surplus during 
+
+the pre-crisis period.           
+
+What, If Anything, Can Be Done about Low Interest Rates? 
+
+Given the potential risks around low interest rates I discussed earlier, including 
+
+the impact on the effectiveness of monetary policy and financial stability concerns, what 
+
+should policymakers do to address the problem?   
+
+Monetary policy has a role to play.  Transparent and sound monetary policy can 
+
+boost confidence in the stability of the growth outlook, an outcome that can in turn 
+
+alleviate precautionary demand for savings and encourage investment, pushing up the 
+
+equilibrium interest rate.   
+
+However, as I have said before--and Ben Bernanke before me--“Monetary policy 
+
+is not a panacea.”19  Also, to repeat myself, policies to boost productivity growth and the 
+
+longer-run potential of the economy are more likely to be found in effective fiscal and 
+
+regulatory measures than in central bank actions.  This statement is true not only in the 
+
+United States, but also around the globe.  But it is not to say that monetary policy is 
+
+irrelevant to the growth rate of the economy. 
+
+
+                                                 
+19 See Bernanke (2012).  Of course, there are no panaceas--except, I have been told by experts, aspirin, and 
+perhaps also statins. 
+
+
+ - 12 - 
+
+References 
+
+Bernanke, Ben S. (2005).  “The Global Saving Glut and the U.S. Current Account 
+Deficit,” speech delivered at the Homer Jones Lecture, St. Louis, April 
+14, https://www.federalreserve.gov/boarddocs/speeches/2005/20050414/default.ht
+m. 
+
+ 
+-------- (2012).  “U.S. Monetary Policy and International Implications,” speech delivered 
+
+at “Challenges of the Global Financial System:  Risks and Governance under 
+Evolving Globalization,” a High-Level Seminar sponsored by the Bank of Japan-
+International Monetary Fund, Tokyo, October 
+14, https://www.federalreserve.gov/newsevents/speech/bernanke20121014a.htm. 
+
+ 
+-------- (2015).  “Why Are Interest Rates So Low, Part 3:  The Global Savings Glut,” Ben 
+
+Bernanke’s Blog, April 1, https://www.brookings.edu/blog/ben-
+bernanke/2015/04/01/why-are-interest-rates-so-low-part-3-the-global-savings-
+glut. 
+
+ 
+Clarida, Richard H. (2017).  “The Global Factor in Neutral Policy Rates:  Some 
+
+Implications for Exchange Rates, Monetary Policy, and Policy Coordination,” 
+NBER Working Paper Series 23562.  Cambridge, Mass.:  National Bureau of 
+Economic Research, June. 
+
+ 
+Döttling, Robin, Germán Gutiérrez, and Thomas Philippon (2017).  “Is There an 
+
+Investment Gap in Advanced Economies?  If So, Why?” paper presented at the 
+Fourth Annual ECB Forum on Central Banking, Sintra, Portugal, June 
+27, https://www.ecbforum.eu/uploads/originals/2017/speakers/papers/T_Philippo
+n_Is_there_an_investment_gap_in_advanced_economies_If_so_why_with_R_Do
+ttling_and_G_Gutierrez.pdf. 
+
+ 
+Fernald, John G. (2015).  “Productivity and Potential Output before, during, and after the 
+
+Great Recession,” in Jonathan A. Parker and Michael Woodford, eds., NBER 
+Macroeconomics Annual 2014, vol. 29.  Chicago:  University of Chicago Press, 
+pp. 1-51. 
+
+ 
+Fernald, John G., Robert E. Hall, James H. Stock, and Mark W. Watson (2017).  “The 
+
+Disappointing Recovery of Output after 2009,” NBER Working Paper 
+Series 23543.  Cambridge, Mass.:  National Bureau of Economic Research, June. 
+
+ 
+Fischer, Stanley (2016a).  “Low Interest Rates,” speech delivered at the 40th Annual 
+
+Central Banking Seminar, sponsored by the Federal Reserve Bank of New York, 
+New York, October 
+5, https://www.federalreserve.gov/newsevents/speech/fischer20161005a.htm. 
+
+
+
+
+ - 13 - 
+
+-------- (2016b).  “Why Are Interest Rates So Low?  Causes and Implications,” speech 
+delivered at the Economic Club of New York, New York, October 
+17, https://www.federalreserve.gov/newsevents/speech/fischer20161017a.htm. 
+
+ 
+Gagnon, Etienne, Benjamin K. Johannsen, and David Lopez-Salido (2016).  
+
+“Understanding the New Normal:  The Role of Demographics,” Finance and 
+Economics Discussion Series 2016-080.  Washington:  Board of Governors of the 
+Federal Reserve System, 
+October, https://www.federalreserve.gov/econresdata/feds/2016/files/2016080pap
+.pdf. 
+
+ 
+Gutiérrez, Germán, and Thomas Philippon (2017).  “Declining Competition and 
+
+Investment in the U.S.,” NBER Working Paper Series 23583.  Cambridge, Mass.:  
+National Bureau of Economic Research, July.   
+
+ 
+Hilsenrath, Jon, and Bob Davis (2016).  “Tech Boom Creates Too Few Jobs,” Wall Street 
+
+Journal, October 13. 
+ 
+Holston, Kathryn, Thomas Laubach, and John C. Williams (forthcoming).  “Measuring 
+
+the Natural Rate of Interest:  International Trends and Determinants,” in Richard 
+Clarida and Lucrezia Reichlin, organizers, NBER International Seminar on 
+Macroeconomics 2016.  Amsterdam:  Journal of International Economics 
+(Elsevier). 
+
+ 
+Irwin, Neil (2017). “Rethinking Low Productivity,” New York Times, July 26. 
+ 
+Johannsen, Benjamin K., and Elmar Mertens (2016).  “The Expected Real Interest Rate 
+
+in the Long Run:  Time Series Evidence with the Effective Lower Bound,” FEDS 
+Notes.  Washington:  Board of Governors of the Federal Reserve System, 
+February 9, https://www.federalreserve.gov/econresdata/notes/feds-
+notes/2016/the-expected-real-interest-rate-in-the-long-run-time-series-evidence-
+with-the-effective-lower-bound-20160209.html. 
+
+ 
+Keynes, John Maynard (1936).  The General Theory of Employment, Interest and Money.  
+
+London:  Macmillan. 
+ 
+Laubach, Thomas, and John C. Williams (2003).  “Measuring the Natural Rate of 
+
+Interest,” Review of Economics and Statistics, vol. 85 (November), pp. 1063-70. 
+ 
+Lewis, Kurt F., and Francisco Vazquez-Grande (2017).  “Measuring the Natural Rate of 
+
+Interest:  Alternative Specifications,” Finance and Economics Discussion Series 
+2017-059.  Washington:  Board of Governors of the Federal Reserve System, 
+June, https://www.federalreserve.gov/econres/feds/files/2017059pap.pdf. 
+
+
+
+
+ - 14 - 
+
+Summers, Lawrence H. (2014).  “U.S. Economic Prospects:  Secular Stagnation, 
+Hysteresis, and the Zero Lower Bound,” Business Economics, vol. 49 (April), 
+pp. 65-73. 
+
+ 
+-------- (2015).  “Demand Side Secular Stagnation,” American Economic Review, vol. 105 
+
+(May), pp. 60-65.   
+ 
+-------- (2016).  “The Age of Secular Stagnation:  What It Is and What to Do about It,” 
+
+Foreign Affairs, vol. 95 (March-April), pp. 2-9. 
+ 
+Wicksell, Knut (1936).  Interest and Prices (Geldzins und Güterpreise):  A Study of the 
+
+Causes Regulating the Value of Money, trans. R.F. Kahn.  London:  Macmillan. 
+ 
+
+
+The Low Level of Global Real Interest Rates
+
+Remarks by
+
+Vice Chairman Stanley Fischer 
+Board of Governors of the Federal Reserve System
+
+at the
+Conference to Celebrate Arminio Fraga’s 60 Years
+
+Casa das Garcas, Rio de Janeiro, Brazil
+July 31, 2017
+
+
+‐2
+
+0
+
+2
+
+4
+
+6
+
+8
+
+10
+19
+94
+
+ ‐ 
+Ja
+n
+
+19
+94
+
+ ‐ 
+Ju
+l
+
+19
+95
+
+ ‐ 
+Ja
+n
+
+19
+95
+
+ ‐ 
+Ju
+l
+
+19
+96
+
+ ‐ 
+Ja
+n
+
+19
+96
+
+ ‐ 
+Ju
+l
+
+19
+97
+
+ ‐ 
+Ja
+n
+
+19
+97
+
+ ‐ 
+Ju
+l
+
+19
+98
+
+ ‐ 
+Ja
+n
+
+19
+98
+
+ ‐ 
+Ju
+l
+
+19
+99
+
+ ‐ 
+Ja
+n
+
+19
+99
+
+ ‐ 
+Ju
+l
+
+20
+00
+
+ ‐ 
+Ja
+n
+
+20
+00
+
+ ‐ 
+Ju
+l
+
+20
+01
+
+ ‐ 
+Ja
+n
+
+20
+01
+
+ ‐ 
+Ju
+l
+
+20
+02
+
+ ‐ 
+Ja
+n
+
+20
+02
+
+ ‐ 
+Ju
+l
+
+20
+03
+
+ ‐ 
+Ja
+n
+
+20
+03
+
+ ‐ 
+Ju
+l
+
+20
+04
+
+ ‐ 
+Ja
+n
+
+20
+04
+
+ ‐ 
+Ju
+l
+
+20
+05
+
+ ‐ 
+Ja
+n
+
+20
+05
+
+ ‐ 
+Ju
+l
+
+20
+06
+
+ ‐ 
+Ja
+n
+
+20
+06
+
+ ‐ 
+Ju
+l
+
+20
+07
+
+ ‐ 
+Ja
+n
+
+20
+07
+
+ ‐ 
+Ju
+l
+
+20
+08
+
+ ‐ 
+Ja
+n
+
+20
+08
+
+ ‐ 
+Ju
+l
+
+20
+09
+
+ ‐ 
+Ja
+n
+
+20
+09
+
+ ‐ 
+Ju
+l
+
+20
+10
+
+ ‐ 
+Ja
+n
+
+20
+10
+
+ ‐ 
+Ju
+l
+
+20
+11
+
+ ‐ 
+Ja
+n
+
+20
+11
+
+ ‐ 
+Ju
+l
+
+20
+12
+
+ ‐ 
+Ja
+n
+
+20
+12
+
+ ‐ 
+Ju
+l
+
+20
+13
+
+ ‐ 
+Ja
+n
+
+20
+13
+
+ ‐ 
+Ju
+l
+
+20
+14
+
+ ‐ 
+Ja
+n
+
+20
+14
+
+ ‐ 
+Ju
+l
+
+20
+15
+
+ ‐ 
+Ja
+n
+
+20
+15
+
+ ‐ 
+Ju
+l
+
+20
+16
+
+ ‐ 
+Ja
+n
+
+20
+16
+
+ ‐ 
+Ju
+l
+
+20
+17
+
+ ‐ 
+Ja
+n
+
+Pe
+rc
+en
+
+t
+Figure 1.  10‐Year Government Bond Yields for Selected Advanced Economies
+
+United States United Kingdom Euro area Japan
+
+Source:  U.S. Department of the Treasury; Bank of England; European Central Bank; Ministry of Finance Japan; Haver Analytics.
+
+June 2017
+
+
+0
+
+2
+
+4
+
+6
+
+8
+
+10
+
+12
+
+14
+
+16
+
+18
+
+20
+00
+
+ ‐ 
+Ja
+n
+
+20
+00
+
+ ‐ 
+M
+ay
+
+20
+00
+
+ ‐ 
+Se
+p
+
+20
+01
+
+ ‐ 
+Ja
+n
+
+20
+01
+
+ ‐ 
+M
+ay
+
+20
+01
+
+ ‐ 
+Se
+p
+
+20
+02
+
+ ‐ 
+Ja
+n
+
+20
+02
+
+ ‐ 
+M
+ay
+
+20
+02
+
+ ‐ 
+Se
+p
+
+20
+03
+
+ ‐ 
+Ja
+n
+
+20
+03
+
+ ‐ 
+M
+ay
+
+20
+03
+
+ ‐ 
+Se
+p
+
+20
+04
+
+ ‐ 
+Ja
+n
+
+20
+04
+
+ ‐ 
+M
+ay
+
+20
+04
+
+ ‐ 
+Se
+p
+
+20
+05
+
+ ‐ 
+Ja
+n
+
+20
+05
+
+ ‐ 
+M
+ay
+
+20
+05
+
+ ‐ 
+Se
+p
+
+20
+06
+
+ ‐ 
+Ja
+n
+
+20
+06
+
+ ‐ 
+M
+ay
+
+20
+06
+
+ ‐ 
+Se
+p
+
+20
+07
+
+ ‐ 
+Ja
+n
+
+20
+07
+
+ ‐ 
+M
+ay
+
+20
+07
+
+ ‐ 
+Se
+p
+
+20
+08
+
+ ‐ 
+Ja
+n
+
+20
+08
+
+ ‐ 
+M
+ay
+
+20
+08
+
+ ‐ 
+Se
+p
+
+20
+09
+
+ ‐ 
+Ja
+n
+
+20
+09
+
+ ‐ 
+M
+ay
+
+20
+09
+
+ ‐ 
+Se
+p
+
+20
+10
+
+ ‐ 
+Ja
+n
+
+20
+10
+
+ ‐ 
+M
+ay
+
+20
+10
+
+ ‐ 
+Se
+p
+
+20
+11
+
+ ‐ 
+Ja
+n
+
+20
+11
+
+ ‐ 
+M
+ay
+
+20
+11
+
+ ‐ 
+Se
+p
+
+20
+12
+
+ ‐ 
+Ja
+n
+
+20
+12
+
+ ‐ 
+M
+ay
+
+20
+12
+
+ ‐ 
+Se
+p
+
+20
+13
+
+ ‐ 
+Ja
+n
+
+20
+13
+
+ ‐ 
+M
+ay
+
+20
+13
+
+ ‐ 
+Se
+p
+
+20
+14
+
+ ‐ 
+Ja
+n
+
+20
+14
+
+ ‐ 
+M
+ay
+
+20
+14
+
+ ‐ 
+Se
+p
+
+20
+15
+
+ ‐ 
+Ja
+n
+
+20
+15
+
+ ‐ 
+M
+ay
+
+20
+15
+
+ ‐ 
+Se
+p
+
+20
+16
+
+ ‐ 
+Ja
+n
+
+20
+16
+
+ ‐ 
+M
+ay
+
+20
+16
+
+ ‐ 
+Se
+p
+
+20
+17
+
+ ‐ 
+Ja
+n
+
+20
+17
+
+ ‐ 
+M
+ay
+
+Pe
+rc
+en
+
+t
+Figure 2.  10‐Year Government Bond Yields for Selected Emerging Market Economies
+
+Korea Israel South Africa Brazil
+
+Note:  The data start in, for South Africa, January 2000; for Korea, October 2000; for Israel, May 2001; and for Brazil, January 2008.
+
+Source:  Bank of Korea; Bank of Israel; South African Reserve Bank; Tullett Prebon Information; Haver Analytics.
+
+June 2017
+
+
+‐1
+
+‐0.5
+
+0
+
+0.5
+
+1
+
+1.5
+
+2
+
+2.5
+
+3
+
+3.5
+
+4
+1/
+1/
+19
+
+90
+8/
+1/
+19
+
+90
+3/
+1/
+19
+
+91
+10
+
+/1
+/1
+99
+
+1
+5/
+1/
+19
+
+92
+12
+
+/1
+/1
+99
+
+2
+7/
+1/
+19
+
+93
+2/
+1/
+19
+
+94
+9/
+1/
+19
+
+94
+4/
+1/
+19
+
+95
+11
+
+/1
+/1
+99
+
+5
+6/
+1/
+19
+
+96
+1/
+1/
+19
+
+97
+8/
+1/
+19
+
+97
+3/
+1/
+19
+
+98
+10
+
+/1
+/1
+99
+
+8
+5/
+1/
+19
+
+99
+12
+
+/1
+/1
+99
+
+9
+7/
+1/
+20
+
+00
+2/
+1/
+20
+
+01
+9/
+1/
+20
+
+01
+4/
+1/
+20
+
+02
+11
+
+/1
+/2
+00
+
+2
+6/
+1/
+20
+
+03
+1/
+1/
+20
+
+04
+8/
+1/
+20
+
+04
+3/
+1/
+20
+
+05
+10
+
+/1
+/2
+00
+
+5
+5/
+1/
+20
+
+06
+12
+
+/1
+/2
+00
+
+6
+7/
+1/
+20
+
+07
+2/
+1/
+20
+
+08
+9/
+1/
+20
+
+08
+4/
+1/
+20
+
+09
+11
+
+/1
+/2
+00
+
+9
+6/
+1/
+20
+
+10
+1/
+1/
+20
+
+11
+8/
+1/
+20
+
+11
+3/
+1/
+20
+
+12
+10
+
+/1
+/2
+01
+
+2
+5/
+1/
+20
+
+13
+12
+
+/1
+/2
+01
+
+3
+7/
+1/
+20
+
+14
+2/
+1/
+20
+
+15
+9/
+1/
+20
+
+15
+4/
+1/
+20
+
+16
+11
+
+/1
+/2
+01
+
+6
+
+Pe
+rc
+en
+
+t
+Figure 3.  Estimated Inflation‐Adjusted Natural Rates of Interest
+
+United States Canada Euro area United Kingdom
+
+Source: Updated estimates from the model of Kathryn Holston, Thomas Laubach, and John C. WIlliams (forthcoming); see www.frbsf.org/economic‐research/economists/jwilliams/Holston_Laubach_Williams_estimates.xlsx.   
+
+2017:Q1
+
+
+Figure 4.  Global Current Account Balances
+
+  -1250
+
+  -1000
+
+  -750
+
+  -500
+
+  -250
+
+  0
+
+  250
+
+  500
+
+  750
+
+  1000
+
+  1250
+
+  1500
+
+2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016
+
+Billions of dollars
+
+United States
+China
+Japan
+Germany
+
+Oil Exporters*
+Other Emerging**
+Other Advanced***
+
+* Includes the Middle East, North Africa, and the Commonwealth of Independent States.
+**  Excludes the Middle East, North Africa, the Commonwealth of Independent States, and China.
+*** Excludes Germany, Japan, and the United States.
+Source:  International Monetary Fund, Research Dept. (2017), World Economic Outlook, April 2017:  Gaining Momentum? (Washington:  IMF, April), http://dx.doi.org/10.5089/9781475564655.081.
+
+
+‐1.00
+
+‐0.80
+
+‐0.60
+
+‐0.40
+
+‐0.20
+
+0.00
+
+0.20
+
+0.40
+
+0.60
+
+Pe
+rc
+en
+
+t o
+f w
+
+or
+ld
+ G
+DP
+
+Figure 5.  Global Saving Glut:  Change in Current Account Balances 
+(average 2001‐08 vs. average 1994‐2000) 
+
+Note:  Emerging market (EM) Asia excluding China includes Hong Kong, Indonesia, Korea, Malaysia, Philippines, Singapore, Taiwan, Thailand, and Vietnam.  GDP is gross domestic product.  OPEC is Organization of the
+Petroleum Exporting Countries. 
+
+Source:  International Monetary Fund, Research Dept. (2017), World Economic Outlook, April 2017: Gaining Momentum? (Washington:  IMF, April), http://dx.doi.org/10.5089/9781475564655.081.
+
+
+‐1.00
+
+‐0.80
+
+‐0.60
+
+‐0.40
+
+‐0.20
+
+0.00
+
+0.20
+
+0.40
+
+0.60
+
+0.80
+
+1.00
+
+Pe
+rc
+en
+
+t o
+f w
+
+or
+ld
+ G
+DP
+
+Figure 6.  Change in Current Account Balances 
+
+Change average 2009‐16 vs. average 2001‐08 Change average 2001‐08 vs. average 1994‐2000
+
+Note:  Emerging market (EM) Asia excluding China includes Hong Kong, Indonesia, Korea, Malaysia, Philippines, Singapore, Taiwan, Thailand, and Vietnam.  GDP is gross domestic product.  OPEC is Organization of the
+Petroleum Exporting Countries. 
+
+Source:  International Monetary Fund, Research Dept. (2017), World Economic Outlook, April 2017: Gaining Momentum? (Washington:  IMF, April), http://dx.doi.org/10.5089/9781475564655.081.
+

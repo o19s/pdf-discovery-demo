@@ -1,0 +1,627 @@
+
+
+For release on delivery 
+9:05 a.m. EST 
+November 9, 2018 
+ 
+
+
+A New Chapter in Stress Testing 
+
+
+Remarks by 
+ 
+
+Randal K. Quarles 
+ 
+
+Vice Chairman for Supervision 
+ 
+
+Board of Governors of the Federal Reserve System 
+ 
+
+at 
+ 
+
+The Brookings Institution 
+ 
+
+Washington, D.C. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+November 9, 2018 
+ 
+
+
+
+Thank you to Brookings for inviting me to speak today. It is an honor and 
+
+pleasure to talk to you about the next chapter in stress testing, particularly before this 
+
+extremely distinguished audience of Brookings scholars that includes former Chairs, Vice 
+
+Chairs, and senior leaders of the Federal Reserve who did the hard foundational work of 
+
+developing and implementing this new approach to the assessment of bank resiliency.  In 
+
+these circumstances, my discussing changes to our stress testing regime could sound 
+
+uncomfortably close to the serene arrogance of Alfonso X of Castile, who famously said 
+
+that “Had I been present at the creation, I would have given some useful hints for the 
+
+better ordering of the universe.”  My thoughts today, however, are not a call to rewrite 
+
+Genesis, but rather a recognition that our stress testing regime--like the banking and 
+
+financial system that it evaluates--will and should evolve as we continue to learn from 
+
+experience in the management of this tool.  In the best traditions of the Federal Reserve, 
+
+this evolution should be grounded in rigorous analysis of the facts and a commitment to 
+
+continual improvement of our methods. 
+
+In my remarks today, I will begin with what has been successful about the stress 
+
+tests and why those elements should remain.  I will then spend some time discussing 
+
+some of the changes we have proposed to our stress testing program, and how we are 
+
+now thinking about moving forward with those changes.  After that, I will discuss the 
+
+tension between, on the one hand, providing additional information to the firms, while, 
+
+on the other hand, ensuring that the tests remain effective.  And last, I will close with 
+
+some thoughts on the “qualitative” element of our stress testing program. 
+
+The adjustments I will discuss are intended to increase both the transparency and 
+
+the efficiency of the stress testing regime.  Enhanced transparency goes to the very core 
+
+of democratic accountability and the rights of all U.S. citizens--including the 
+
+management and shareholders of the institutions that are subject to the stress tests--to 
+
+understand the requirements to which they are subject. It also helps ensure the continued 
+
+credibility of our regime. 
+
+Background 
+
+Let me begin with a short discussion of the core elements of our stress testing 
+
+program.  As you know, one of the most visible aspects of our stress testing program is 
+
+
+
+
+- 2 - 
+
+that the firms and the public receive an independent view of the capital adequacy of the 
+
+largest banks.  The results are based on our own models and provide a consistent 
+
+yardstick to measure resiliency across the banking system. 
+
+But the stress test conducted by the Federal Reserve is only one part of our stress 
+
+testing regime.  Just as important, we require each firm to run its own stress test, using its 
+
+own models and a stressful scenario that reflects the firm’s assessment of its idiosyncratic 
+
+risks and key vulnerabilities.  Underpinning a firm’s stress test is the firm’s ability to 
+
+identify and measure risks under normal and stressful conditions and the strength of the 
+
+firm’s internal processes, and we use the supervisory process to ensure that the firms’ 
+
+stress testing practices employ sound methodologies. 
+
+The combination of the Federal Reserve’s common yardstick, the firm’s own 
+
+stress tests, and supervisory oversight over the firms’ practices has resulted in a 
+
+meaningful increase in the post-stress resiliency of large financial institutions.  All of 
+
+these core components will remain in place. 
+
+Further, the changes I’ll speak about today are not intended to alter materially the 
+
+overall level of capital in the system or the stringency of the regime.  A healthy U.S. 
+
+economy relies on a strong, well-capitalized banking system that can weather stressful 
+
+events and continue lending to households and businesses.  The U.S. banking 
+
+organizations subject to the 2018 Comprehensive Capital Analysis and Review (CCAR)--
+
+the Fed’s evaluation of capital adequacy for large holding companies--have increased the 
+
+dollar amount of their common equity tier 1 (CET1) capital from around $500 billion in 
+
+2009 to more than $1.2 trillion as of the second quarter of this year, and have more than 
+
+doubled CET1 risk-based capital ratios from approximately 5 percent to over 12 percent 
+
+over the same period. 
+
+While the regime has been successful overall, I believe it is prudent to review all 
+
+our practices to ensure that they are as efficient and transparent as possible and that they 
+
+remain appropriate in light of changes in the industry that have been achieved.  For 
+
+instance, as firms become more resilient, they may no longer need to build capital to 
+
+support their current level of risk taking, but rather move into the mode of retaining the 
+
+capital they have already built.  Firms have also significantly improved their risk 
+
+
+
+
+- 3 - 
+
+management, providing room to adjust our approach to assessing capital planning 
+
+practices.  Finally, as we make changes to our regime, the issue of volatility in the stress 
+
+test results becomes more pronounced.  As I’ll discuss, we are considering how to 
+
+balance the need to preserve the dynamism in stress testing with the need to ensure that 
+
+firms have sufficient notice regarding the capital requirements to which they are held. 
+
+Stress Capital Buffer 
+
+Many of you are familiar with the Federal Reserve’s proposal to integrate the 
+
+stress test with the regulatory capital rule--known as the stress capital buffer (SCB).1  I 
+
+believe the SCB proposal represents an important milestone as we enter the next chapter 
+
+of our stress testing regime.  For those who are not familiar with the SCB, let me provide 
+
+a little background about how our capital rule currently works, and how it would be 
+
+modified by the SCB. 
+
+As devoted readers of our capital rules may know, our regulatory capital rule 
+
+includes both minimum capital requirements and a buffer that sits on top of those 
+
+minimum requirements.  The buffer serves as an early warning to a firm and to 
+
+supervisors, and it requires the firm to reduce its capital distributions as the firm 
+
+approaches the minimum requirements.  Under the current capital rule, all firms are 
+
+subject to a fixed buffer requirement of 2.5 percent of risk-weighted assets--the largest 
+
+firms are also subject to a global systemically important bank surcharge and potential 
+
+countercyclical capital buffer. 
+
+For large firms, the SCB would replace the fixed 2.5 percent risk-based buffer 
+
+with a firm-specific buffer the size of which would be based on the firm’s stress test 
+
+results.  In this way, we are integrating the automatic restrictions on capital distributions 
+
+in the current capital rule with the output of the most dynamic tool we have for assessing 
+
+risk--the stress test--to create a more robust and dynamic regulatory capital regime.  The 
+
+SCB would also result in a more transparent and simplified system of regulatory capital 
+
+requirements, because a firm will be held to a single, integrated capital regime. 
+
+                                                 
+1 Amendments to the Regulatory Capital, Capital Plan, and Stress Test Rules, 83 Fed. Reg. 18,160 (April 
+25, 2018), www.gpo.gov/fdsys/pkg/FR-2018-04-25/pdf/2018-08006.pdf. 
+
+
+
+
+- 4 - 
+
+When we made our SCB proposal last April, we had aimed to make the SCB final 
+
+for the 2019 stress test cycle.  However, the comments we received have been extensive 
+
+and thoughtful, and have raised issues that require a carefully considered response.  
+
+While I don’t believe these issues will prevent us from ultimately implementing the SCB, 
+
+they have flagged certain elements of the regime that could benefit from further 
+
+refinement.  Accordingly, I expect we will adopt a final rule in the near future that will 
+
+settle the basic framework of the SCB, but re-propose certain elements.  To enable this 
+
+process to run its course, I expect that the first SCB would not go into effect before 2020.  
+
+For 2019, I expect CCAR will remain in place for firms with over $250 billion in assets 
+
+or that are otherwise complex; however, we will consider whether we can move forward 
+
+with any aspects of the SCB proposal for CCAR 2019, such as assumptions related to 
+
+balance sheet growth.  I will also ask the Board to exempt firms with less than $250 
+
+billion in assets from the CCAR quantitative assessment and supervisory stress testing in 
+
+2019 in light of the every-other-year cycle contemplated in the tailoring proposal that the 
+
+Board approved two weeks ago.2 
+
+Returning to the SCB proposal, I would like to give you a sense of the comments 
+
+we received and our approach to addressing those concerns.  The issue foremost on my 
+
+mind is the volatility of the stress test results.  One concern frequently expressed is that 
+
+the results of the supervisory stress test can lead to capital requirements that change 
+
+significantly from year to year, which limits a firm’s ability to manage its capital 
+
+effectively.  Some amount of volatility is necessary to preserve the dynamism of the 
+
+stress test--by nature, the stress test will differ year-over-year based on macroeconomic 
+
+conditions and contemporary understanding of salient risks in the economy.  In addition, 
+
+the stress test results are sensitive to changes in a firm’s balance sheet, which means that 
+
+a firm’s capital requirements will evolve as the firm’s activities and exposure evolve.  
+
+However, I do think there is an important balance to be struck between preserving this 
+
+                                                 
+2 See Board of Governors of the Federal Reserve System, “Federal Reserve Board invites public comment 
+on framework that would more closely match regulations for large banking organizations with their risk 
+profiles,” news release, October 31, 2018, 
+www.federalreserve.gov/newsevents/pressreleases/bcreg20181031a.htm. 
+
+
+
+
+- 5 - 
+
+dynamism and ensuring that firms have sufficient notice regarding the capital 
+
+requirements to which they are held.   
+
+In the first years after the financial crisis, as the banking system was dramatically 
+
+ramping up the total amount of capital in the system, this volatility was less of a 
+
+management problem: until we reached reasonably full capitalization, each year every 
+
+bank needed to increase its capital.  If one year that increment was a little higher or a 
+
+little lower than the previous year, that was simply a modest difference of velocity, not 
+
+direction.  At the current juncture, however, both our system as a whole and each of the 
+
+largest banks in that system are fully meeting their capital requirements.  In these 
+
+circumstances, having a highly variable capital requirement presents a significant 
+
+management challenge. 
+
+We are considering ways of preserving the dynamism of stress testing while 
+
+reducing its volatility, and plan to seek comment on a proposal in this area in the not-too-
+
+distant future.  In addition, we are also exploring ways of improving our approach to 
+
+measuring risks in the trading book.  Firms’ trading books are dynamic and complex, as 
+
+firms hold both long and short positions.  Many have noted that a single market shock 
+
+does not adequately capture risks in firms’ trading book, and we agree with those 
+
+comments.  We are exploring ways to incorporate multiple market shocks in our stress 
+
+test without adding volatility to the results and without increasing the compliance burden. 
+
+We are also considering adjusting another element of the SCB proposal in order 
+
+to provide more notice to firms.  Currently, and under the SCB proposal, a firm must 
+
+decide whether to increase or decrease its planned dividends and share repurchases for 
+
+the upcoming year without knowledge of a key constraint: the results of the stress test.  In 
+
+other words, we require a firm to give us a formal plan for dividends and stock 
+
+repurchases without knowing what its effective capital requirement is.  If it guesses 
+
+wrong, it could be publicly shamed for failing the stress test (if its dividends are too high 
+
+relative to capital), or penalized in the markets for inadequate distribution of income (if 
+
+its dividends are too low relative to capital).  Now, while this might at first blush appear 
+
+to be pointless and obdurate cruelty, the reasoning behind the practice was initially 
+
+perfectly sensible:  it reflected the view that firms should think rigorously about their 
+
+
+
+
+- 6 - 
+
+capital uses and needs in developing their capital distribution plans, rather than rely 
+
+primarily on the results of the supervisory stress test to guide those plans.    
+
+Now that we all have several years’ experience with this system, however, firms 
+
+have told us that they would be able to engage in more thoughtful capital planning if they 
+
+had knowledge of that year’s stress test results before finalizing their distribution plans 
+
+for the upcoming year.  I am sympathetic to their concerns, and will ask the Board to 
+
+adjust the operation of the rule so that firms know their SCB before they decide on their 
+
+planned distributions for the coming year.  This adjustment in sequence will also help 
+
+firms manage volatility in the SCB.  We expect firms to continue to maintain robust 
+
+stress testing practices and use those results to inform their capital distribution plans,   
+
+and we will continue to use the supervisory process to reinforce this expectation. 
+
+The comments also highlighted an issue with how the capital buffers operate 
+
+today, which is amplified by the inherent volatility of the SCB.  As I noted earlier, a firm 
+
+operating in its capital buffer is required to reduce its capital distributions so that it can 
+
+build capital over time.  By design, the buffer was intended to apply increasingly 
+
+stringent limitations as the firm’s capital ratios decline.  But, in our current world in 
+
+which a healthy and profitable banking system is seeking to maintain its capital levels 
+
+rather than continue to increase them, a bank will appropriately and safely tend to 
+
+distribute much or all of its income in any given year.  In that case, the operation of the 
+
+buffer would not result in a proportional restriction of income as the firm’s capital eases, 
+
+but could be a sudden cessation of all dividends if the firm dips into the buffer by even a 
+
+small amount, even if the changes in its capital levels are quite minor.  We are 
+
+considering adjustments that would make the rules more consistent with the graduated 
+
+intent.  We plan to work with the other banking agencies to consider how best to effect 
+
+this change. 
+
+There are two additional elements of the SCB proposal that I believe would 
+
+benefit from modification.  First, the SCB proposal would have included four quarters of 
+
+dividends in a firm’s SCB, in recognition of the fact that firms experience market 
+
+pressure to hold dividends constant, even under stress.  In my view, there may be ways of 
+
+encouraging greater reliance on less sticky repurchases while providing more flexibility 
+
+
+
+
+- 7 - 
+
+in the regime, and we are exploring alternatives.  Last, the SCB proposal would have 
+
+included a post-stress leverage requirement.  As the Federal Reserve has long maintained, 
+
+leverage requirements are intended to serve as a backstop to the risk-based capital 
+
+requirements.  By definition, they are not intended to be risk-sensitive.  Thus, I am 
+
+concerned that explicitly assigning a leverage buffer requirement to a firm on the basis of 
+
+risk-sensitive post-stress estimates runs afoul of the intellectual underpinnings of the 
+
+leverage ratio, and I would advocate removing this element of the stress capital buffer 
+
+regime.  Of course, leverage ratios, including the enhanced supplementary leverage 
+
+requirements, would remain a critical part of our regulatory capital regime, and we will 
+
+maintain the supervisory expectation that firms have sufficient capital to meet all 
+
+minimum regulatory requirements. 
+
+Together, the adjustments we are contemplating to the SCB offer promise in 
+
+improving the efficiency, coherence, and transparency of the regulatory capital regime 
+
+while maintaining the overall level of capital in the system and the core principles of the 
+
+regime that have proven successful.  That being said, we welcome a continued dialogue 
+
+with the public as we implement these changes, and through that implementation, we will 
+
+ensure that we maintain the incentives for effective stress testing practices that exist 
+
+today. 
+
+Transparency 
+
+Transparency of the stress test and its inputs and outputs is key to the credibility 
+
+of the stress test, and there are several initiatives underway to provide additional 
+
+transparency regarding the supervisory stress test models and scenario design process.  
+
+We believe that the adjustments under development strike the right balance of advancing 
+
+transparency, while maintaining incentives for firms to think critically about their own 
+
+risks. 
+
+I expect that soon you will see the Federal Reserve issue a policy statement 
+
+describing governing principles around the supervisory stress testing process.  As a part 
+
+of that statement, I would expect a commitment to disclose additional detail about 
+
+supervisory stress test models and results and to publish portfolios of hypothetical loans 
+
+and associated loss rates.  I expect that we will begin providing some of this additional 
+
+
+
+
+- 8 - 
+
+detail starting in early 2019, and that these changes will allow firms to benchmark the 
+
+results of their own models against those of the supervisory models. 
+
+However, our commitment to transparency does not end there. We are currently 
+
+considering options to provide additional transparency regarding scenarios and scenario 
+
+design and I expect that the Board will seek comment on the advisability of, and possible 
+
+approaches to, gathering the public’s input on scenarios and salient risks facing the 
+
+banking system each year.  Such a proposal may also provide additional details about the 
+
+scenario design features that underpins each year’s scenarios, and a range of other 
+
+enhancements.  Additional transparency regarding the stress test scenarios serves 
+
+multiple purposes: it both provides additional due process to affected participants, and 
+
+provides additional sources of insight--including from academics and thought leaders like 
+
+many of you in this room--that could be used to inform a given year’s scenario.  
+
+Increased transparency could also enable us to be more nimble in our scenario design to 
+
+the extent we uncover through external input new salient risks that we have not 
+
+previously considered. 
+
+As we develop proposals, a key consideration is to ensure that we maintain 
+
+incentives for firms to conduct their own stress tests rigorously and thoughtfully.  Firms 
+
+have indicated that additional disclosure about models would not affect their own stress 
+
+tests.  We expect them to make good on that representation, as the Federal Reserve’s 
+
+stress test is not, and cannot be, a full picture of a firm’s resiliency in light of its 
+
+idiosyncratic risks.    
+
+For example, there is some risk that firms will use knowledge from additional 
+
+transparency about the stress test to engage in transactions that are solely designed to 
+
+reduce losses in the test, but that do not truly reduce risk in their portfolios.  As 
+
+supervisors, however, this is something that we can guard against through the regular 
+
+examination process.  We will closely monitor changes in firms’ portfolios and take 
+
+appropriate actions to ensure firms are holding sufficient capital, and have sufficient 
+
+controls and governance, in light of the risk characteristics of their activities. 
+
+
+
+
+- 9 - 
+
+Qualitative Objection 
+
+Before I close, I would like to say a few words about the role of the qualitative 
+
+objection in our new chapter of stress testing.  As originally conceived, CCAR had both a 
+
+quantitative component--based on the supervisory stress test--and a qualitative 
+
+component--based on the Federal Reserve’s assessment of a firm’s stress testing 
+
+practices.  In 2017, the Federal Reserve eliminated the qualitative objection as part of 
+
+CCAR for large and noncomplex firms, in part because of improvements in risk 
+
+management at these firms.3  By incorporating supervisory stress testing into the 
+
+regulatory capital regime and introducing an automatic penalty if a firm falls below its 
+
+SCB-derived capital requirement, the SCB proposal will eliminate the quantitative 
+
+objection from CCAR.  The natural next question is: has the CCAR qualitative objection 
+
+for the largest firms also run its course? 
+
+In my view, the time has come to normalize the CCAR qualitative assessment by 
+
+removing the public objection tool, and continuing to evaluate firms’ stress testing 
+
+practices through normal supervision.  In such an environment, firms would remain 
+
+subject to the same supervisory expectations, and examiners would continue to conduct 
+
+rigorous horizontal and firm-specific assessments of a firm’s capital positions and capital 
+
+planning, tailored to the risk profile of the firm.  While much of the examination work 
+
+would center on a firm’s capital plan submissions, examination work would continue on a 
+
+year-round basis, taking into account the firm’s management of other financial risks.  The 
+
+evaluation of the firm’s capital position and capital planning would culminate in a rating 
+
+of the firm’s capital position and planning.  Firms with deficient practices would receive 
+
+supervisory findings through the examination process, and would be at risk of a ratings 
+
+downgrade or enforcement action if those deficiencies were sufficiently material. 
+
+Conclusion 
+
+As we begin the next chapter in stress testing, my objective is to ensure the 
+
+continued credibility of the program by increasing its transparency, simplicity, and 
+
+stability while maintaining the strength of the supervisory and internal stress testing 
+
+elements that are central to the program today.  These adjustments will be coupled with 
+
+                                                 
+3 The capital planning evaluation remains as part of the normal supervisory process for these firms.  
+
+
+
+
+- 10 - 
+
+our continued commitment to strong supervision and our expectation that financial 
+
+institutions ensure they are managing their risks and holding sufficient capital to continue 
+
+operations through times of stress. 
+

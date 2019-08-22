@@ -1,0 +1,529 @@
+
+
+For release on delivery 
+12:30 p.m. EST 
+November 30, 2017 
+ 
+
+
+Thoughts on Prudent Innovation in the Payment System 
+ 
+ 
+ 
+
+Remarks by 
+ 
+
+Randal Quarles 
+ 
+
+Member 
+ 
+
+Board of Governors of the Federal Reserve System 
+ 
+
+at the 
+ 
+
+2017 Financial Stability and Fintech Conference 
+sponsored by the Federal Reserve Bank of Cleveland, the Office of Financial Research, 
+
+and the University of Maryland’s Robert H. Smith School of Business 
+ 
+
+Washington, D.C. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+November 30, 2017 
+ 
+
+
+ It is a pleasure to be with you today to talk about financial stability and fintech.  Being in 
+
+the Treasury’s beautifully restored Cash Room calls to mind the themes of both history and 
+
+finance.  History, because the room was constructed just after the Civil War.  Finance, because it 
+
+was designed to be the Treasury’s bank and was originally used to conduct daily banking and 
+
+payment transactions with other banks and the general public.  Of course the functionality of this 
+
+room has changed over the decades as the financial system landscape has evolved, and today we 
+
+are holding a conference here to discuss financial innovation.  
+
+Before I begin, I will note that my colleague, Jay Powell, was supposed to be your 
+
+speaker today.  However, as you can likely surmise, he had to attend to other matters and asked 
+
+me to speak in his place.  So to carry through the theme of today’s topic, one might call Jay the 
+
+innovator on payments issues at the Federal Reserve, as he has spoken extensively on the subject 
+
+for many years.  And one might think of me as tech support on these issues for the day.   
+
+New technologies have brought tremendous, positive change to our lives, raising 
+
+productivity and living standards and contributing to economic growth.  In the past few years, 
+
+innovation has profoundly transformed industries such as retail shopping, the media, and even 
+
+transportation by providing greater speed, convenience, and competition.  Not surprisingly, both 
+
+the banking industry and technology firms have also been seeking innovations in financial 
+
+services that mirror and complement changes that have been made in other industries.  
+
+Innovation is coming to finance with changes to consumer lending, financial advice, and retail 
+
+payments, to name a few.  The Federal Reserve, itself, is engaged in a multiyear effort to address 
+
+challenges and opportunities in the current payment system.   
+
+During my experience in the realm of private equity, I had a chance to interact with many 
+
+new firms in these areas.  The pace of innovation was often dizzying.  In my new role as Vice 
+
+
+- 2 - 
+ 
+
+Chairman for Supervision at the Federal Reserve, I see innovation as something that can and 
+
+should be fostered, but of course I must also scrutinize these innovations from a different 
+
+perspective.  That is to say, it is appropriate not only to evaluate the potential of innovations to 
+
+improve on existing services, but also to judge their ramifications for the safety and soundness of 
+
+the institutions we supervise and for financial stability--the topic of this conference.  Although 
+
+many of these technologies are still nascent, it is important to have an eye on the potential 
+
+financial stability implications both in the short- and long-run.  Payment systems need to be 
+
+resilient during adversity.  Without that resilience, we could face a sudden loss of public 
+
+confidence and the seizing up of systems and critical activities.   
+
+With the Cash Room’s perspective on history and daily financial operations in mind, I 
+
+would like to concentrate my remarks on the U.S. payment system, which is a critical foundation 
+
+on which financial transactions and the conduct of business take place.  New technologies are 
+
+being proposed that could alter the design of our payment system.  Today, I will talk about the 
+
+necessary trust and confidence that the system requires, the tension between the need for 
+
+financial stability and the need to innovate, and the challenges that digital currencies, in 
+
+particular, present relative to the current system.  These considerations highlight the need for a 
+
+prudent approach to innovation in payment systems.        
+
+Payment Systems, Networks, and Trust   
+
+Payment systems are both financial networks and technical networks.  In simple terms, 
+
+there is an asset that functions as money that can be transferred by households and businesses to 
+
+buy goods and services, which, along with their financial institutions, make up the bulk of the 
+
+financial network.  Today, the predominant forms of money used in payment systems are Federal 
+
+Reserve notes and reserve balances as well as transaction balances at depository institutions.   
+
+
+- 3 - 
+ 
+
+Payment systems also require a technical network to hold and transfer money.  In earlier 
+
+times, the network was less technical in nature and almost exclusively designed for the logistical 
+
+storage and transfer of physical forms of money.  Today, the main payments networks use 
+
+centralized technology to process and safeguard the public’s electronic funds transfers.  
+
+Regulated banking institutions provide deposit money to the public and are a main source of trust 
+
+for these systems.  Transfers of balances on the books of these institutions are at the center of the 
+
+public’s transactions, with the Federal Reserve Banks playing a central, supporting role in 
+
+interbank clearing and settlement for the most critical systems.     
+
+A great amount of resources and effort goes into the networks that make the overall 
+
+payment system safe, efficient, and resilient.  It is fair to say that the general public places a great 
+
+deal of trust in the components of the overall system to safeguard their money and operate as 
+
+planned every day, and that trust is necessary for the system to work.  From the perspective of 
+
+financial stability, if the safety and integrity of the institutions and assets at the heart of a system 
+
+erode or the transfer operations are not dependable, then the necessary trust and confidence that 
+
+the system requires to work may quickly cease to function as needed.   
+
+Payment System Innovation   
+
+With a steady diet of news about the effect of electronic networks, personal devices, 
+
+apps, and more on U.S. industries, many question the effect of these technologies on the payment 
+
+system.  I think we should recognize that there can be a tension between the need for financial 
+
+stability in the overall payment system and the need to innovate to keep up with the demands of 
+
+modern technology and lifestyles.  However, we should also recognize that this tension is not 
+
+necessarily troubling.  By definition innovation means doing something new, which usually 
+
+involves taking risk in furtherance of some gain.  But at the same time, we should be vigilant in 
+
+
+- 4 - 
+ 
+
+balancing the benefits of innovation with the safe and reliable operation of systems and critical 
+
+activities.  
+
+ From an analytical perspective, payment systems typically increase in value as more 
+
+people use a system and the more attractive it becomes to others.  In addition, there is an inverse 
+
+relationship between the volume of users of a system and the cost of production--more users 
+
+lower the cost of production.  Until recently, these features may have hindered innovation by 
+
+presenting high barriers to entry and may have also fostered greater concentration into a few key 
+
+entities that could become systemically important.1  Of course, technology may be able to reduce 
+
+the effect of at least some of these hurdles by, for example, attracting high numbers of users 
+
+quickly or reducing the costs of production.  However, the effect of reducing technological 
+
+barriers for financial stability is not clearly positive or negative.  For example, on the one hand, 
+
+new market participants attracted by lower barriers to entry may introduce new and unknown 
+
+risks in the payment system.  On the other hand, new market participants may relieve the 
+
+concentration of activity in a limited number of players. 
+
+Thus, the potential tension between innovation and stability can be more difficult to 
+
+manage in the case of payment systems as compared to other industries that are less affected by 
+
+these hurdles.  One sensible approach to risk management would emphasize “starting small” and 
+
+taking small risks.  But unless a payment system grows a fairly large network of users in a 
+
+reasonable time, it is unlikely to achieve the scope and scale it needs to be successful.  
+
+Conversely, if a system attempts to start on a large scale and is successful, there will surely be 
+
+questions about resilience in adversity, particularly if cutting-edge technologies and methods are 
+
+used to handle people’s money.  The essential problem is how to achieve scale and manage 
+
+                                                           
+1 See Financial Stability Board, Financial Stability Implications from FinTech: Supervisory and Regulatory Issues 
+that Merit Authorities’ Attention, June 27, 2017, www.fsb.org/wp-content/uploads/R270617.pdf. 
+
+
+- 5 - 
+ 
+
+financial and technical risk at the same time.  Not surprisingly, because striking the right balance 
+
+takes time, genuine innovation in payment systems over history has often been measured in 
+
+decades, not years.  
+
+Private Digital Currencies   
+
+As part of the new technology associated with fintech, we are now seeing the emergence 
+
+of privately developed digital currencies using new decentralized technologies.  Fundamental to 
+
+these digital currencies is the establishment of a new asset, the unit of the digital currency--for 
+
+example, a bitcoin--and a new record-keeping and transfer mechanism that enables users to store 
+
+and trade those units--for example, a blockchain--often without reliance on traditional financial 
+
+institutions.   
+
+I believe the financial industry is increasingly recognizing that we should separate the 
+
+concept of digital currencies from the innovative new technologies that they have employed to 
+
+transfer assets.  Those technologies, such as distributed ledgers, may offer useful new ways to 
+
+store, transfer, and protect data and traditional financial assets.  The industry is now moving 
+
+cautiously from pilot projects in many of these areas to the use of these new technologies in 
+
+limited production settings.  This cautious approach to using new technology appears to reflect 
+
+the weight of responsibility the financial industry bears for protecting both their customers and 
+
+their reputations.  Continued monitoring of developments is in order, and time will tell how these 
+
+new technologies--and others--can contribute to a safe and secure payment system and broader 
+
+financial system.  The Federal Reserve has been actively monitoring these developments and will 
+
+continue to do so.2 
+
+                                                           
+2 See David Mills, Kathy Wang, Brendan Malone, Anjana Ravi, Jeff Marquardt, Clinton Chen, Anton Badev, 
+Timothy Brezinski, Linda Fahy, Kimberley Liao, Vanessa Kargenian, Max Ellithorpe, Wendy Ng, and Maria Baird, 
+“Distributed Ledger Technology in Payments, Clearing, and Settlement,” Finance and Economics Discussion Series 
+
+
+- 6 - 
+ 
+
+But when we examine the assets at the center of digital currency systems, I think we 
+
+should begin to think clearly about the long-term properties we seek for large-scale payment 
+
+networks and systems used by the general public.  Today, the vast majority of our payments by 
+
+volume and value are processed by regulated financial institutions.  In the U.S. payment system, 
+
+digital currencies are a niche product that sometimes garners large headlines. But from the 
+
+standpoint of analysis, the “currency” or asset at the center of some of these systems is not 
+
+backed by other secure assets, has no intrinsic value, is not the liability of a regulated banking 
+
+institution, and in leading cases, is not the liability of any institution at all.  Indeed, how to treat 
+
+and define this new asset is complicated.3   
+
+While these digital currencies may not pose major concerns at their current levels of use, 
+
+more serious financial stability issues may result if they achieve wide-scale usage.  Risk 
+
+management can act as a mitigant, but if the central asset in a payment system cannot be 
+
+predictably redeemed for the U.S. dollar at a stable exchange rate in times of adversity, the 
+
+resulting price risk and potential liquidity and credit risk pose a large challenge for the system.  
+
+During times of crisis, the demand for liquidity can increase significantly, including the demand 
+
+for the central asset used in settling payments.  Even private-sector banks and certainly non-
+
+banks can have a hard time meeting large-scale demands for extra liquidity at the very time when 
+
+                                                           
+2016-095 (Washington: Board of Governors of the Federal Reserve System, 2016), 
+www.federalreserve.gov/econresdata/feds/2016/files/2016095pap.pdf. 
+3 For example, the Commodity Futures Trading Commission published a statement on digital currencies making 
+clear that many fall into the category of commodities under the Commodity Exchange Act 
+(www.cftc.gov/PressRoom/PressReleases/pr7231-15).  The Securities and Exchange Commission has published 
+guidance on the treatment of digital currencies under the Securities Exchange Act (www.sec.gov/news/press-
+release/2017-131).  The Internal Revenue Service has published guidance on the tax treatment of digital currencies 
+(www.irs.gov/pub/irs-drop/n-14-21.pdf).  And the Financial Crimes Enforcement Network has published guidance 
+on the treatment of digital currencies under the Bank Secrecy Act (www.fincen.gov/resources/statutes-
+regulations/guidance/application-fincens-regulations-persons-administering).   
+
+
+- 7 - 
+ 
+
+their balance sheets may be in question.  Moreover, this inability to meet the demand for extra 
+
+liquidity can have spillover effects to other areas of the financial system.   
+
+Earlier in our history, the United States frequently witnessed bank runs that severely 
+
+disrupted financial and economic activity, an example of what can happen when people lose faith 
+
+in a payment system.  In response, Congress ultimately introduced both a central bank and 
+
+deposit insurance programs to help regulate fluctuations in the supply of liquidity in order to 
+
+keep prices stable.  Without the backing of a central bank asset and institutional support, it is not 
+
+clear how a private digital currency at the center of a large-scale payment system would behave, 
+
+or whether the payment system would be able to function, in times of stress. 
+
+Central-Bank-Issued Digital Currency   
+
+Given that privately developed digital currencies may raise important financial stability 
+
+issues tied to the value of the asset, some have argued that central banks should begin to issue 
+
+their own digital currency as a 21st century analogue to paper currency.  I would urge caution, 
+
+particularly for countries like the United States with highly developed banking systems and 
+
+ongoing robust demand for physical cash. 
+
+As a practical matter, I believe that consideration of a central-bank-issued digital 
+
+currency to the general public would require extensive reviews and consultations about legal 
+
+issues, as well as a long list of risk issues, including the potential deployment of unproven 
+
+technology, money laundering, cybersecurity, and privacy to name a few.  I am particularly 
+
+concerned that a central-bank-issued digital currency that’s held widely around the globe could 
+
+be the subject of serious cyberattacks and could be widely used in money laundering and terrorist 
+
+financing.  The effect of all this would significantly divert our focus from work to improve or 
+
+establish new private-sector retail payment systems based on existing institutions.  The prospect 
+
+
+- 8 - 
+ 
+
+of a government-sponsored digital currency might even derail private-sector plans to enhance the 
+
+payment services provided to their customers, thereby significantly disrupting the financial 
+
+networks that exist today in ways that could create instability.  For example, if payment activity 
+
+radically shifted from using deposits at financial institutions to using central-bank-issued digital 
+
+currency, deposits could significantly shrink and potentially disrupt financial institutions’ ability 
+
+to make loans that spur economic activity.    
+
+That said, research into digital currency issues, including highly liquid and secure 
+
+limited-purpose digital currencies for use as a settlement asset for wholesale payment systems, 
+
+should continue.  As technologies are developed and refined, old issues are resolved and new 
+
+issues arise.  Other countries may have different environments and experiences.  We should 
+
+always be open to learning and understanding from the experiences of others.   
+
+Prudent Innovation 
+
+ For the United States, the alternative to privately issued digital currency is not 
+
+necessarily a publicly issued digital currency.  Instead, the near-term alternative is to build on the 
+
+trusted foundations of the existing payment system and work to improve private-sector payment 
+
+services.  Importantly, this means looking to the banking system, which holds the bulk of the 
+
+transaction deposits in this country, to improve services.  This began a number of years ago with 
+
+internet banking.  Today, many banks offer around-the-clock internet-based access to accounts as 
+
+well as mobile banking and payment capabilities.  Many banks typically allow real-time or near 
+
+real-time transfers of funds among their own customer base.  What does not yet exist in the 
+
+United States is the sort of ubiquitous, real-time payment system that would allow banks and 
+
+their customers to make transfers and settlements of funds across the banking system instantly, 
+
+conveniently, and securely all the time.   
+
+
+- 9 - 
+ 
+
+As my colleague at the Board, Jay Powell, recently discussed at a conference in New 
+
+York, the Federal Reserve has been working with the banking industry and a wide range of other 
+
+payment system stakeholders to better understand the consequences of this state of affairs and 
+
+support efforts to expand the available options through our payment system improvement 
+
+initiative.4  For example, based on recommendations from the industry, the Federal Reserve is 
+
+currently studying potential improvements in its settlement services--a traditional core function 
+
+of a central bank--that could address the future needs of a ubiquitous real-time retail payments 
+
+environment. 
+
+Building on our existing banking system also makes sense from a financial stability 
+
+perspective.  Federally insured and supervised institutions are the core of our current payment 
+
+system and largely address the potential financial stability problem of relying on payment 
+
+systems with unbacked and unregulated digital currencies at their heart.  But leveraging our 
+
+existing banking system does not suggest that there is no room for new or emerging institutions 
+
+and technologies.  Indeed, there are a number of promising avenues that would allow the 
+
+innovations that appear to be of the greatest interest to households and business--attributes like 
+
+instant payment capabilities and around-the-clock operations--to be offered using a variety of 
+
+existing and new technologies without requiring significant tradeoffs in safety and resiliency.    
+
+Summary 
+
+ To conclude, our financial stability requires that the payment system be reliable and 
+
+dependable so that the public can trust it.  As a result, there can be a tension between innovation 
+
+and the need for financial stability in the overall payment system.  Innovation must therefore 
+
+                                                           
+4 See Jerome H. Powell, “Financial Innovation: A World in Transition” (speech delivered at the 41st Annual Central 
+Banking Seminar, sponsored by the Federal Reserve Bank of New York, New York, October 18, 2017), 
+www.federalreserve.gov/newsevents/speech/powell20171018a.htm. 
+
+
+- 10 - 
+ 
+
+account for the effects that it has on both the financial and technology networks that make up our 
+
+payment system.   
+
+The innovation that is beginning to flow from the development of digital currencies--and 
+
+other technologies--will likely have a long-run effect on the technical networks and the business 
+
+processes used in the payment system and the wider financial system.  Privately developed 
+
+digital currencies as currently configured would raise concerns about the effect on financial 
+
+stability if they take on more prominence in the payments and overall financial system.  Central 
+
+bank digital currencies are also not immune to a large range of risks and could even adversely 
+
+affect financial stability.  As such, central banks should tread cautiously as they contemplate 
+
+issuing them.  But this does not mean that we should avoid further innovation.  Working 
+
+cooperatively, private-sector participants and central banks can incorporate innovation that may 
+
+be able to strike the right balance of improving the technical networks without adversely 
+
+generating financial stability concerns.  I am optimistic that the Federal Reserve’s work with the 
+
+payments industry will facilitate a future with a safe and more efficient payment system. 
+

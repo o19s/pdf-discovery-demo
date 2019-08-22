@@ -1,0 +1,389 @@
+
+For release on delivery 
+11:15 a.m. EDT  
+April 2, 2019 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The Financial Stability Board: Beyond the Fog of Battle 
+ 
+ 
+
+ 
+Remarks by 
+
+ 
+Randal K. Quarles 
+
+ 
+Vice Chair for Supervision 
+
+ 
+Board of Governors of the Federal Reserve System 
+
+ 
+Chair 
+
+ 
+Financial Stability Board 
+
+ 
+at 
+ 
+
+2019 European Bank Executive Committee Forum 
+ 
+
+“The Future of Banking: The Human Factor” 
+ 
+
+Brussels, Belgium 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+April 2, 2019
+
+
+
+Thank you for the opportunity to join you.  I am grateful for the chance to speak with 
+
+such a diverse and distinguished group of academics, industry leaders, and colleagues in 
+
+regulation and central banking.  Conversations like these always remind me that, while we all 
+
+approach our roles in the financial sector differently, we share a deeper commitment to a 
+
+common goal: a safe, stable, and resilient financial system, capable of supporting strong and 
+
+sustainable economic growth.  
+
+A decade ago, that common goal became an imperative.  The financial regulatory 
+
+community worked frantically to repair the vulnerabilities that the global financial crisis exposed 
+
+and to address a set of financial risks that failed to respect national borders.  The financial system 
+
+we have today bears the imprint of our response a decade ago.  Basel III is now final.  
+
+Derivatives markets are now safer and better regulated.  Levels of capital and liquidity at the 
+
+largest banks are now higher, and with reforms to recovery and resolution, the risks and potential 
+
+costs of a catastrophic failure of a major institution are lower.  These are profound 
+
+accomplishments of international cooperation, which returned the global financial system from 
+
+the brink of collapse to stability and health.  But health does not make cooperation or vigilance 
+
+any less necessary.  On the contrary, as the G20 leaders said in creating the Financial Stability 
+
+Board (FSB), “a sense of normalcy should not lead to complacency.”1  
+
+The FSB exists to help sustain the common efforts made in the throes of the crisis--to 
+
+identify and address systemic vulnerabilities, to develop stronger regulatory and supervisory 
+
+policies, and to create a more resilient global financial system.  It is a platform, and a place for its 
+
+24 members and 73 representatives to coordinate their work; to identify and address issues that 
+
+span financial products, intermediaries, and markets; and to avoid the pre-crisis regulatory 
+
+                                                            
+1 Leaders’ Statement, The Pittsburgh Summit (G20), September 24–25, 2009, https://www.treasury.gov/resource-
+center/international/g7-g20/Documents/pittsburgh_summit_leaders_statement_250909.pdf.  
+
+
+- 2 - 
+ 
+
+
+fragmentation that left financial stability risks unaddressed.  The relevance of this platform, to its 
+
+members and to a changing financial system, is critical to preserving our last 10 years of hard-
+
+earned gains. 
+
+Today, I want to briefly outline three tenets that I believe are essential to preserving the 
+
+relevance and vitality of the FSB: engagement, vigilance, and analysis.  These principles, which I 
+
+discussed more fully in remarks last week, underlie the most successful elements of the post-
+
+crisis reforms.2  They should remain the foundation of the FSB’s work, as we turn from drafting 
+
+new standards to implementing them and devote more time and attention to the emerging 
+
+vulnerabilities.  
+
+Engagement  
+
+Regulatory cooperation has long been essential to financial stability--not only because it 
+
+fosters consistency in global rules, but also because it fosters trust.  When authorities develop 
+
+new policy together, when they identify common standards and implement them in their home 
+
+countries, and when they plan and debate the nature of emerging risks, they also develop a 
+
+common understanding of each other’s work and a common approach to addressing new 
+
+problems.  
+
+However, trust among regulators means little on its own.  It must come with the trust of 
+
+the constituencies regulators serve, and the trust of those whom our decisions affect.  The FSB is 
+
+a conduit for this trust, as it is accountable to the G20 and to the nations and people the G20 
+
+leaders represent.  We have an obligation to make the most of that conduit, by engaging in 
+
+genuine, substantive dialogue with a wide range of stakeholders, to a greater and more effective 
+
+                                                            
+2 Randal K. Quarles, “The Financial Stability Board in 2019” (speech at the Joint Conference of the European 
+Central Bank and the Journal of Money, Credit, and Banking, Frankfurt, Germany, March 28, 2019), 
+https://www.federalreserve.gov/newsevents/speech/quarles20190328a.htm. 
+
+
+- 3 - 
+ 
+
+
+degree than in the past.  We should invite reflection on the design and impact of our efforts, 
+
+solicit input on risks to financial stability, and better communicate our mission and activities to 
+
+the public, without the veneer of technical jargon. 
+
+ The FSB can begin this work at home, by strengthening the role of the regional groups 
+
+that are already part of the organization.  In 2011, the FSB established six consultative groups 
+
+representing large regions of the globe.  The intent was to expand our outreach beyond the 
+
+membership of the G20 and to better reflect the FSB’s global mission and impact.  Today, the 
+
+groups meet once or twice a year and help the FSB obtain broader input into its policy 
+
+development agenda.  They can, and should, have the opportunity to do more--not only to 
+
+promote implementation of international policy initiatives but also to give a clear view of 
+
+financial stability developments in their respective regions.  A study of the groups’ operations is 
+
+now underway, which will shed light on how to upgrade their effectiveness as an outreach and 
+
+feedback mechanism.  
+
+We can also engage more effectively outside the FSB--with businesses, public 
+
+institutions, market participants, and scholars--and give the public the means and the opportunity 
+
+to provide meaningful feedback on our work.  Some steps are already underway.  We established 
+
+a new expectation that all FSB policy recommendations will be open for at least 60 days of 
+
+public comment, instead of the shorter periods used in the past.  We began a recent effort around 
+
+the differences in regulatory environments and market conditions across jurisdictions--known as 
+
+“market fragmentation”--by convening key stakeholders and academics for a full-day workshop, 
+
+which I hope will be the rule for future projects, not the exception.  Earlier this year, we released 
+
+publicly the FSB work program for the first time.3   
+
+                                                            
+3 See http://www.fsb.org/2019/02/fsb-work-programme-for-2019/.   
+
+
+- 4 - 
+ 
+
+
+This broad engagement is essential to understanding new developments that are relevant 
+
+to financial stability.  Take, for example, the “fintech” trends I discussed in remarks last week, to 
+
+which the FSB is dedicating significant attention.  Claims about fintech run the gamut from the 
+
+utopian to the apocalyptic--yet the mantle of fintech covers a wide range of new business 
+
+models, products, and trends.  Their contours and their impact also vary across national 
+
+boundaries, from mobile wallets in Kenya, to online mortgages in the United States, to money 
+
+market funds founded by technology companies in China.  Understanding one of these new uses 
+
+of technology is not the same as understanding all of them.  Identifying the risks and 
+
+opportunities they pose requires context, information, and insight that can only come from a 
+
+variety of stakeholders with experience developing, using, and monitoring them. 
+
+I will continue to seek ways to invite and encourage engagement during my 
+
+chairmanship, and to give the public a clearer and fuller view of FSB’s decisionmaking process.  
+
+Few efforts are closer to the heart of our collective work or to the accountability and trust that the 
+
+FSB helps foster.  
+
+Vigilance 
+
+Trust and accountability are also prerequisites for the FSB to pursue its mission.  The first 
+
+prong of our mandate, now a decade old, is to “assess vulnerabilities affecting the global 
+
+financial system, and identify and review . . . the regulatory, supervisory, and related actions 
+
+needed to address them . . . .”4  The FSB’s primary role, and its principal contribution to 
+
+international financial regulation, is to look forward--to see past the issues and practices of the 
+
+day, and identify new vulnerabilities, long before they lead to widespread economic distress. 
+
+                                                            
+4 “Financial Stability Board Charter,” April 2, 2009, http://www.fsb.org/wp-content/uploads/r_090925d.pdf. 
+
+
+- 5 - 
+ 
+
+
+The FSB’s Standing Committee on Assessment of Vulnerabilities (under the leadership 
+
+of FSB Vice Chair Klaas Knot of De Nederlandsche Bank, here today) is an important forum and 
+
+catalyst for this work.  In the months ahead, the committee will develop a new framework for the 
+
+identification and assessment of financial vulnerabilities.  Their efforts will rely on transparent 
+
+engagement with a wide range of stakeholders--including banks and nonbank financial 
+
+institutions, the academic community, financial regulators, national authorities, and standard-
+
+setting bodies.  This kind of broad outreach is essential.  The causes of financial crises rarely 
+
+announce themselves ahead of time, and only a wide range of views can give us the perspective 
+
+and understanding to address them in advance.  The right model for this work is not a small team 
+
+of detectives--it is a search party.  
+
+The FSB’s efforts on nonbank financial intermediation, which I discussed last week, 
+
+reflect a similar approach.  Nonbank financing has grown since the financial crisis, and it has 
+
+been a source of systemic risk, often involving high leverage, maturity and liquidity mismatches, 
+
+opaque structures, and concentrated holdings of risky assets.  Nonbank financing can also lead to 
+
+lower lending standards, bidding up the price of risky assets and sending an encouraging signal 
+
+to credit underwriters.  These channels played a role in the recent global financial crisis, and 
+
+more recently, new forms of interconnectedness between nonbank financial firms and the 
+
+banking system have emerged.  In some scenarios, both domestically and internationally, such 
+
+ties could amplify risks.  
+
+These developments raise important issues.  Is the growth of nonbank financing altering 
+
+existing market structures?  Are there new vulnerabilities in the financial system?  How will 
+
+nonbank financing develop, and how should it do so?  The FSB is taking a variety of 
+
+complementary approaches to answering these questions.  
+
+
+- 6 - 
+ 
+
+
+First, we produce an annual report that outlines the developments in nonbank financing, 
+
+detailing global trends and potential risks and providing reliable information to foster public 
+
+discussion.  Second, the FSB develops policies to promote the resilience of these firms (without 
+
+impeding the growth of sustainable nonbank financing models), and we work closely with other 
+
+multinational organizations to monitor implementation.  Finally, and going forward, we must 
+
+begin analyzing the effectiveness of the policies on nonbank financing that have been 
+
+implemented.  
+
+Analysis 
+
+The same spirit of self-reflection should guide the FSB’s efforts in other policy areas.  
+
+Stakeholders trust the FSB to undertake thoughtful, detailed work on emerging risks to financial 
+
+stability.  Yet identifying those risks before a crisis means dealing in uncertainty, and making 
+
+policy on evolving issues, where no one can claim complete expertise.  To maintain that trust, we 
+
+must be willing to make improvements when the evidence justifies it--to undertake rigorous 
+
+analysis, before and after issuing new standards, and to follow that analysis where it leads. 
+
+Many post-crisis policies, including those aimed at the implicit subsidy for “too-big-to-
+
+fail” institutions, have been in place long enough to allow for evaluation.  We can now begin to 
+
+ask fundamental, critical questions: What have the effects of these reforms been, whether 
+
+intended or unintended, salutary or adverse?  Have we successfully reduced or eliminated the 
+
+problem?  Has there been a tradeoff, in the form of new, unintended risks or costs?  
+
+As I have described elsewhere, the FSB is launching a global study with multinational 
+
+policymakers to start answering these important questions as part of its broader effort to evaluate 
+
+the effects of post-crisis reforms.  We intend to bring analytical rigor to these questions, and we 
+
+recognize that the academic community has undertaken much work in this area.  As a result, we 
+
+
+- 7 - 
+ 
+
+
+will draw extensively on academic advisors during all phases of the work we are undertaking.  I 
+
+also encourage other experts in this field to look closely to the consultative document that will be 
+
+coming from the study next year.  We welcome the input as we undertake the study of this 
+
+signature issue from the crisis.  
+
+ The task of this project, like the task of the FSB itself, is to foster insight on the road 
+
+ahead.  The work of the FSB reflects the fact that, in a global financial system, we cannot see and 
+
+address emerging problems alone.  Working as allies and colleagues, we have bound up most of 
+
+the wounds from the last financial crisis.  To avoid reopening them--and returning to a 
+
+fragmented international regime--we will have to recommit to collaboration, embrace insight 
+
+where it emerges, and follow evidence where it leads.  With broad engagement, rigorous 
+
+vigilance, and committed analysis, the risks ahead of us can be less dangerous than the ones we 
+
+left behind. 
+

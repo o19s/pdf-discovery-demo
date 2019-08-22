@@ -1,0 +1,669 @@
+
+
+ 
+For release on delivery 
+7:10 p.m. EDT 
+March 26, 2018 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+The Roles of Consumer Protection and Small Business Access to Credit in Financial Inclusion   
+ 
+
+ Randal K. Quarles 
+  
+
+Vice Chairman for Supervision 
+ 
+
+Board of Governors of the Federal Reserve System 
+ 
+
+at the 
+ 
+
+HOPE Global Forums 
+ 
+
+Annual Meeting 
+ 
+
+Atlanta, Georgia 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+March 26, 2018 
+ 
+
+
+- 1 - 
+ 
+
+
+
+Good evening.  Thank you to John Bryant and Operation HOPE for inviting me today to 
+
+open the HOPE Global Forums.1  I commend our hosts for bringing together such an impressive 
+
+group of speakers and attendees, diverse in their perspectives, yet all of whom share the vital 
+
+goal of advancing economic opportunity and inclusion.  It is fitting that this event is being held 
+
+on the 50th anniversary of several notable events, including the publication of Dr. Martin Luther 
+
+King’s last book, Where Do We Go from Here: Chaos or Community, which urged unity in order 
+
+to create equal opportunity, and the enactment of the Fair Housing Act of 1968, which enshrined 
+
+our nation’s commitment to equal access to housing.  These milestones remind us of the progress 
+
+we have made to date as well as the challenges that remain, and inspire us to persist in our 
+
+efforts.   
+
+The conference has a robust agenda ahead.  Over the next few days, you will be 
+
+discussing many issues relating to financial inclusion--such as housing, small businesses, 
+
+workforce participation, and other topics--to which we at the Federal Reserve share a 
+
+commitment, and that we view as critical to our mission.  Our economy is stronger when 
+
+everyone has a chance to contribute fully and share in our national prosperity.  And I personally 
+
+believe that financial inclusion helps us realize a founding notion of our country--that this is a 
+
+place where opportunity, innovation, and productivity are encouraged and rewarded.  I’m 
+
+particularly pleased to see on the conference agenda a number of sessions on issues to which we, 
+
+at the Federal Reserve, devote considerable attention: access to credit and financial inclusion for 
+
+consumers and small businesses.  Conversations like these are enormously important to 
+
+                                                            
+1 The views I express here are my own and not necessarily those of the Federal Reserve Board or the Federal Open 
+Market Committee.  
+
+
+- 2 - 
+ 
+
+
+understanding the challenges Americans face and why a multitude of voices and approaches are 
+
+needed to address them.  
+
+In my remarks today, I’d like to focus on the consumer protection and credit accessibility 
+
+aspects of financial inclusion, and some of the ways that the Federal Reserve promotes a fair and 
+
+transparent consumer financial services marketplace.  In recent speeches, I have emphasized my 
+
+view that we should aim for an effective safety and soundness regulatory approach that is as 
+
+efficient, transparent, and simple as feasible.2  I consider these principles to apply equally to our 
+
+consumer protection supervision program; that is, we should also strive to promote consumer 
+
+protection with as much efficiency, transparency, and simplicity as possible.  I believe that a 
+
+commitment to these principles is not only compatible with financial inclusion, but in fact helps 
+
+promote it.  Regulatory burden can make it harder for institutions to serve their customers and 
+
+communities.  This is especially the case for community banks and minority depository 
+
+institutions (or MDIs), which play an important role in serving the needs of their local 
+
+communities, including historically underserved populations.  I’d also like to share some 
+
+thoughts on an area to which I have devoted a good portion of my career: the importance of 
+
+small business access to credit, which is a critical part of financial inclusion and a catalyst for 
+
+economic growth in local communities.   
+
+Financial Inclusion 
+
+Let me start with the foundation of why financial inclusion is important.  In broad terms, 
+
+financial inclusion means access to affordable financial products and services that meet the needs 
+
+                                                            
+2 See, e.g. Randal K. Quarles, “Early Observations on Improving the Effectiveness of Post-Crisis Regulation” 
+(speech at the American Bar Association Banking Law Committee Annual Meeting, Washington, DC, January 19, 
+2018), www.federalreserve.gov/newsevents/speech/quarles20180119a.htm. 
+
+
+- 3 - 
+ 
+
+
+of individuals and businesses and that are delivered in a responsible and sustainable way.3  At 
+
+the Federal Reserve, we recognize the influence that financial inclusion has on the broader 
+
+economic performance of our country.4  Inclusion is essential to advancing the Federal Reserve’s 
+
+goal of promoting maximum employment, as well as supporting the stability of the financial 
+
+system.  Likewise, we support and share your goal of ensuring a fair and transparent marketplace 
+
+for financial products and services--including credit--that can provide a pathway toward 
+
+economic prosperity for all Americans.     
+
+Overall, our economy is performing well, and unemployment is low.  However, many 
+
+households and communities continue to face financial challenges.5  Consider that more than 
+
+two-thirds of white households own their homes as compared to less than half of African 
+
+Americans and Hispanics.6  And consider that all important human asset: education.  One-third 
+
+of white adults have at least a bachelor’s degree as compared to one in four African Americans 
+
+and 17 percent of Hispanics.7  This matters because the advantages of a college degree for 
+
+                                                            
+3 “Financial Inclusion,” World Bank, last modified April 5, 2017, 
+www.worldbank.org/en/topic/financialinclusion/overview. 
+4 See, e.g., Lael Brainard, “Why Opportunity and Inclusion Matter to America’s Economic Strength” (speech at the 
+Opportunity and Inclusive Growth Institute Conference, sponsored by the Federal Reserve Bank of Minneapolis, 
+May 22, 2017), www.federalreserve.gov/newsevents/speech/brainard20170522a.htm; Janet L. Yellen, “Perspectives 
+on Inequality and Opportunity from the Survey of Consumer Finances” (speech at the Conference on Economic 
+Opportunity and Inequality, Federal Reserve Bank of Boston, Boston, MA, October 17, 2014), 
+www.federalreserve.gov/newsevents/speech/yellen20141017a.htm; Ben S. Bernanke, “The Level and Distribution 
+of Economic Well-Being” (speech before the Greater Omaha Chamber of Commerce, Omaha, NE, February 6, 
+2007), www.federalreserve.gov/newsevents/speech/bernanke20070206a.htm.  
+5 The Board’s Monetary Policy Report has included a discussion of the economic experiences of major demographic 
+groups. See, e.g., “Have the Gains of the Economic Expansion Been Widely Shared?” in Monetary Policy Report 
+(Washington: Board of Governors, June 21, 2016), p. 6, 
+www.federalreserve.gov/monetarypolicy/files/20160621_mprfullreport.pdf. 
+6 According to the U.S. Census Bureau’s “Quarterly Residential Vacancies and Homeownership” statistics for the 
+fourth quarter of 2017, the homeownership rates by race were 72.7 percent for non-Hispanic white households; 42.1 
+percent and 46.6 percent for black and Hispanic households, respectively; and 58.2 percent for Asian, Native 
+Hawaiian, and Pacific Islanders. See www.census.gov/housing/hvs/files/currenthvspress.pdf.  
+7 U.S. Census Bureau, Current Population Survey, 2017 Annual Social and Economic Supplement, “Educational 
+Attainment in the United States: 2017,” December 14, 2017, www.census.gov/data/tables/2017/demo/education-
+attainment/cps-detailed-tables.html. 
+
+
+- 4 - 
+ 
+
+
+accumulating income and wealth are lifelong and inter-generational.8  We likewise see evidence 
+
+of financial disparities in the Federal Reserve’s Survey of Household Economics and 
+
+Decisionmaking and Survey of Consumer Finances.9 
+
+When individuals have unequal or insufficient access to financial products and services, 
+
+such as credit, they may be deprived of a chance to fund an education, finance a business, or 
+
+pursue homeownership--opportunities that can provide greater financial security for themselves 
+
+and their families and future generations.  And as a nation, we are deprived of the benefits of 
+
+their potential contributions to the economy. 
+
+Consumer Protection   
+
+In the context of my earlier discussion of financial inclusion, federal consumer protection 
+
+laws are critical to ensuring consumers are treated fairly when offered financial products and 
+
+services.  Discrimination and deception have no place in a fair and transparent marketplace. 
+
+These practices can close off opportunities and limit consumers’ ability to improve their 
+
+economic circumstances, including through access to homeownership and education.  
+
+The Federal Reserve’s consumer compliance supervisory program reflects our 
+
+commitment to promoting financial inclusion and ensuring that the financial institutions under 
+
+our jurisdiction fully comply with applicable federal consumer protection laws and regulations.  
+
+Let me give two examples involving the Federal Trade Commission Act’s prohibition against 
+
+unfair or deceptive practices in products and services that will undoubtedly be familiar to the 
+
+audience--student financial aid and mortgage lending.  In the last few years, the Federal Reserve 
+
+                                                            
+8 William R. Emmons, Ana H. Kent, and Lowell R. Ricketts, The Demographics of Wealth: How Education, Race 
+and Birth Year Shape Financial Outcome, Essay No. 1 (St. Louis: Federal Reserve Bank of St. Louis, February 
+2018), www.stlouisfed.org/~/media/Files/PDFs/HFS/essays/HFS_essay_1-2018.pdf?la=en. 
+9 For example, data from our Survey of Household Economics and Decisionmaking (SHED) show that in 2016, only 
+about half of white households had three months of emergency savings, but this was the case for less than two-fifths 
+of black and Hispanic households. The 2016 SHED is at www.federalreserve.gov/consumerscommunities/shed.htm. 
+See also the Survey of Consumer Finances at www.federalreserve.gov/econres/scfindex.htm.  
+
+
+- 5 - 
+ 
+
+
+has addressed deceptive practices in these areas through public enforcement actions that have 
+
+collectively benefited hundreds of thousands of consumers and provided millions of dollars in 
+
+restitution.  
+
+In the financial aid context, our actions required restitution for students who were not 
+
+given full information about the potential fees and limitations associated with opening deposit 
+
+accounts for their financial aid refunds.10  And in mortgage lending, our action required 
+
+restitution by a bank that had given borrowers the option to pay an additional amount to 
+
+purchase discount points to lower their mortgage interest rate, but that did not actually provide 
+
+the reduced rate to many of those borrowers.11   
+
+As we mark the 50th anniversary of the Fair Housing Act, the fair lending laws remain 
+
+critical in fostering vibrant communities and a fair and transparent consumer financial services 
+
+marketplace. For all state member banks, we enforce the Fair Housing Act, and for banks of $10 
+
+billion dollars or less in assets, we also enforce the Equal Credit Opportunity Act.  Our 
+
+examiners evaluate fair lending risk at every consumer compliance exam.  While we find that the 
+
+vast majority of our institutions comply with the fair lending laws, we are committed to 
+
+identifying and remedying violations when they occur.  Pursuant to the Equal Credit Opportunity 
+
+Act, if we determine that a bank has engaged in a pattern or practice of discrimination, we refer 
+
+the matter to the U.S. Department of Justice (DOJ).  Federal Reserve referrals have resulted in 
+
+DOJ public actions in critical areas, such as redlining and mortgage-pricing discrimination.  For 
+
+                                                            
+10 In the Matter of Cole Taylor Bank, Docket Nos. 14-021-E-SMB, 14-021-CMP-SMB (July 1, 2014), 
+www.federalreserve.gov/newsevents/pressreleases/enforcement20140701b.htm; 
+In the Matter of Higher One, Inc., Docket Nos. 15-026-E-I, 15-026-CMP-I (December 23, 2015), 
+www.federalreserve.gov/newsevents/pressreleases/enforcement20151223a.htm;   
+In the Matter of Customers Bank, Docket Nos. 15-027-B-SM, 15-027-CMP-SM (December 6, 2016), 
+www.federalreserve.gov/newsevents/pressreleases/enforcement20161206b.htm.  
+11 In the Matter of Peoples Bank, Docket No. 17-041-B-SM (November 28, 2017), 
+www.federalreserve.gov/newsevents/pressreleases/enforcement20171128a.htm. 
+
+
+- 6 - 
+ 
+
+
+example, in our redlining referrals, the Federal Reserve found that the banks treated majority-
+
+minority areas less favorably than non-minority ones, such as through lending patterns, 
+
+marketing, and Community Reinvestment Act assessment-area delineations.  For our mortgage-
+
+pricing discrimination referrals, the Federal Reserve found that the banks charged higher prices 
+
+to African American or Hispanic borrowers than it charged to non-Hispanic white borrowers and 
+
+that the higher prices could not be explained by legitimate pricing criteria.12   
+
+Efficiency, Simplicity, and Transparency of Consumer Compliance Supervision 
+
+Consumers deserve to be treated fairly, regardless of the size of the banking institution. 
+
+Yet, we can achieve this goal and still reduce regulatory burden through a balanced program of 
+
+tailored and risk-focused supervision.  Accordingly, we continue to seek opportunities to 
+
+promote efficient, simple, and transparent supervision where possible, so that the institutions we 
+
+supervise can focus on finding solutions that work for all consumers and communities.  In an 
+
+effort to promote consumer compliance, our community bank supervisory program focuses our 
+
+examinations on the areas of highest consumer risk.  This has improved the efficiency and 
+
+effectiveness of our examinations and reduced regulatory burden for many community banks.  
+
+Banks and consumers benefit when supervision is timely and effective.  
+
+Put simply, our role as supervisors should not be to play “gotcha” with our banks, but to 
+
+support their compliance efforts.  The Interagency Consumer Compliance Ratings System, 
+
+published in November 2016, is an example of this approach.13  This guidance provides 
+
+incentives for institutions to focus on managing their consumer compliance risks, preventing 
+
+                                                            
+12 See, e.g., DOJ settlements with Midwest BankCentre, www.justice.gov/opa/pr/justice-department-reaches-
+settlement-midwest-bankcentre-regarding-alleged-lending; SunTrust Mortgage Inc., www.justice.gov/opa/pr/justice-
+department-reaches-21-million-settlement-resolve-allegations-lending-discrimination; and Countrywide Financial 
+Corporation, www.justice.gov/opa/pr/justice-department-reaches-335-million-settlement-resolve-allegations-
+lending-discrimination. More information about recent referrals to the DOJ can be found in the Federal Reserve’s 
+annual report at www.federalreserve.gov/publications/2016-ar-consumer-and-community-affairs.htm#14890. 
+13 See www.ffiec.gov/press/PDF/FFIEC_CCR_SystemFR_Notice.pdf. 
+
+
+- 7 - 
+ 
+
+
+consumer harm, and helping to create a culture that identifies and corrects problems.  Another 
+
+example of how we support our institutions is how we work with MDIs, which as I noted earlier, 
+
+play an important role in serving the needs of their local communities.  We have dedicated 
+
+Reserve Bank staff who are in frequent contact with MDI leadership.  Based on what we’ve 
+
+learned in the course of this outreach, we have expanded our Partnership for Progress--a program 
+
+for outreach and technical assistance to MDIs14--to include staff from our Community 
+
+Development function, and we have enhanced our MDI-related programing.  
+
+Our commitment to transparency also includes a robust outreach program for banks.  This 
+
+includes Consumer Compliance Outlook, a widely subscribed Federal Reserve System 
+
+publication focused on consumer compliance issues, and its companion webinar series, Outlook 
+
+Live.15  For example, in 2017, we sponsored an interagency webinar on fair lending supervision 
+
+with almost 6,000 registrants, a substantial share of which were community banks.16 
+
+Small Business Access to Credit 
+
+At the Federal Reserve, we view small business credit from several perspectives.  For the 
+
+economy, small businesses need adequate and affordable credit in order to form, grow, and 
+
+succeed; otherwise they may underperform, slowing growth and employment.  For many small 
+
+business owners, personal and business finances are intertwined.  A well-functioning housing 
+
+finance market is vital for small business owners who may draw upon the equity in their homes 
+
+to fund their businesses.  Student loans may be needed to help fund the education that is 
+
+important for both small business owners and their employees to boost profits and productivity.  
+
+And, short-term credit matters for day-to-day management of cash flow, while longer-term credit 
+
+                                                            
+14 See the partnership’s website at www.fedpartnership.gov.  
+15 See https://consumercomplianceoutlook.org/ and https://consumercomplianceoutlook.org/outlook-live/.  
+16 Federal Reserve System, “2017 Interagency Fair Lending Hot Topics,” Outlook Live webinar series, November 
+16, 2017, https://consumercomplianceoutlook.org/outlook-live/2017/interagency-fair-lending-hot-topics/. 
+
+
+- 8 - 
+ 
+
+
+is essential for capital investments. So, entrepreneurs--just like consumers--need access to a 
+
+variety of credit sources.   
+
+Recently, I had the pleasure of meeting a group of small businesses from across the 
+
+country.  By “small,” I mean some of these companies have just a handful of employees.  The 
+
+group included owners of a catering company from Dallas, a mechanical engineering company 
+
+from Philadelphia, a marketing consulting firm from Cleveland, a combination bar and bakery 
+
+from Brooklyn, and a gluten-free bakery from my hometown, Salt Lake City. 
+
+They shared with me the joys of running their own businesses, of creating jobs, and of 
+
+providing for their families as well as creating opportunities for their employees.  They also 
+
+spoke of their challenges, which I’m sure are familiar to many of you in this room.  For one, the 
+
+owners wear many hats, including CEO, chief operating officer, chief finance officer, head of 
+
+sales and marketing, and some--quite literally--chief bottle washer.  They also spoke of the day-
+
+to-day difficulties of finding, training, and retaining employees.  And, they raised the challenges 
+
+they often face in gaining access to working capital, the lifeblood to sustaining and growing their 
+
+businesses.  
+
+ The anecdotes I heard touched on three related trends we have been observing in the 
+
+small business credit environment.  First, although lending standards have eased since the 
+
+recession and the financial condition of businesses has improved, some small business credit 
+
+needs, especially for the smallest of firms and minority small business owners, continue to go 
+
+unmet.  According to a 2016 Small Business Credit Survey conducted by our 12 Federal Reserve 
+
+Banks, some small businesses still face persistent credit gaps, even though they often seek credit 
+
+in small amounts.  Of the firms that apply for credit, more than two-thirds apply for less than 
+
+
+- 9 - 
+ 
+
+
+$100,000, with substantial numbers of these applying for less than $25,000.17  However, smaller 
+
+firms often struggle to qualify for bank credit, and among firms that were denied, low credit 
+
+scores and insufficient credit history were the most frequently cited reasons.  In addition, our 
+
+survey suggests that some low-credit-risk minority- and women-owned firms are less likely than 
+
+low-risk white-owned and male-owned firms to receive financing; and if they are approved, it is 
+
+for less than the amount sought.18 
+
+Second, there have been shifts in the composition of commercial bank lending to small 
+
+businesses.  Large banks’ share of small business lending has grown, especially among the 
+
+smallest loans.  This represents a change from 20 years ago when small businesses relied more 
+
+on a relationship with local community banks for access to credit.  For loans under $100,000, 
+
+small banks of less than $1 billion in assets now hold a 19 percent share, down from 60 percent 
+
+two decades ago.  Today, it is the largest banks--those with greater than $50 billion in assets--
+
+that account for more than 60 percent.  Some of this trend may be due to industry consolidation, 
+
+which has reduced the number of very small banks.   
+
+The composition of credit offered also is shifting.  Loans entail high fixed costs that are 
+
+roughly the same regardless of whether a loan is for $100,000 or $1 million, reducing the 
+
+profitability of smaller-dollar loans.19  Our data suggest that the growing share of small business 
+
+                                                            
+17 While there are many working definitions of “small,” figures from the Small Business Credit Survey (SBCS) use 
+firms with less than 500 employees as a proxy for small businesses. Some 28 percent are seeking credit in amounts 
+less than $25,000 and 42 percent reported seeking between $25,000 and $100,000. The SBCS is available at 
+www.newyorkfed.org/medialibrary/media/smallbusiness/2016/SBCS-Report-EmployerFirms-2016.pdf. 
+18 According to special analyses of the Joint Federal Reserve Banks’ Small Business Credit Survey, among low- 
+credit-risk firms, 60 percent of minority firms that were approved received only partial funding, whereas 68 percent 
+of low-risk, non-minority firms were approved for the full amount of financing requested. Women-owned firms also 
+reported a funding gap. Among low-credit-risk firms, 48 percent of women-owned firms received all of the 
+financing requested, compared to 57 percent of men-owned firms. Reports are available at 
+www.newyorkfed.org/smallbusiness/small-business-credit-survey-employer-firms-2016. 
+19 BAI Banking Strategies, “Making Small Loans Profitably,” July 7, 2015, www.bai.org/banking-strategies/article-
+detail/making-small-business-loans-profitably. 
+
+
+- 10 - 
+ 
+
+
+lending at larger banks may be partly due to their use of automated underwriting for credit 
+
+cards.20  By providing credit cards, banks are expanding credit available to small businesses; 
+
+however, some small business advocates note that this form of credit is generally more expensive 
+
+and lacks the flexibility of other products.21  For example, personal or business credit cards may 
+
+be suitable for purchasing supplies, but not for payroll.  In addition, this automated approach 
+
+may be more “cookie cutter,” meaning that firms that don’t meet standard lending criteria may 
+
+not qualify.22 
+
+These developments have created a space for the third trend we have been observing--the 
+
+emergence of nonbank online alternative lenders that provide small-dollar business credit.  For 
+
+example, some of the large technology firms are providing credit, at a rapidly growing pace, to 
+
+their built-in customer base of merchants.  Several of the businesses I met with mentioned they 
+
+had turned to nonbank online lenders after being turned down by banks.  Some online lenders 
+
+obtain access to a prospective borrower’s accounting software, merchant accounts, shipping, and 
+
+payroll data in real time in order to underwrite businesses.  Business owners can receive funds in 
+
+a couple of days or even hours.   
+
+This emergence of online lenders is part of a broader evolution of financial technology--
+
+or “fintech”--as seen in a wide range of products and services for both consumers and small 
+
+businesses.  I’m not surprised to see this important topic on your conference agenda.  The use of 
+
+fintech to expand access to credit has great promise and also associated risks.  For example, 
+
+                                                            
+20 Based on Federal Reserve analysis of FR-Y14 data for scored loans and cards (i.e., underwritten by owner’s 
+personal credit) for 2007 to 2016.   
+21 Record of Meeting, Community Advisory Council and the Board of Governors, May 26, 2017, p. 2, 
+www.federalreserve.gov/aboutthefed/files/cac-20170526.pdf. 
+22 See Rebel A. Cole, Lawrence G. Goldberg, and Lawrence J. White, “Cookie Cutter vs. Character: The Micro 
+Structure of Small Business Lending by Large and Small Banks,” Journal of Financial and Quantitative Analysis 
+39, no. 2 (June 2004): 227–51. Also see Karen Gordon Mills and Brayden McCarthy, “The State of Small Business 
+Lending: Innovation and Technology and the Implications for Regulation,” Working Paper No. 17-042, (Harvard 
+Business School, December 1, 2016), p. 36. 
+
+
+- 11 - 
+ 
+
+
+online origination platforms and more sophisticated algorithms may enable credit to be 
+
+underwritten and delivered in a manner that is still prudent but with greater efficiency, 
+
+convenience, and lower processing costs.  And as regulators, we do not want to unnecessarily 
+
+restrict innovations that can benefit consumers and small businesses.  At the same time, our 
+
+interest is in ensuring that banks understand and manage their risks when introducing new 
+
+technologies or partnering with fintech companies, and that consumers and small businesses 
+
+remain protected.23  This is why the Federal Reserve has been engaged in a broad and 
+
+multidisciplinary effort to develop a robust understanding of the technologies and activities in 
+
+this space, in order to study fintech’s opportunities and risks, and assess policy and supervisory 
+
+implications. 24   
+
+Fintech is also one of the factors driving calls for regulators to modernize the Community 
+
+Reinvestment Act, or CRA, as technology changes how financial products and services are 
+
+accessed.  As I’m sure most of you know, the CRA is an important law that recognizes banks' 
+
+affirmative obligation to meet the credit needs of the communities they serve, including low- and 
+
+moderate-income communities.  The CRA promotes financial inclusion by encouraging banks to 
+
+extend mortgages, small business loans, and other types of credit as well as to provide 
+
+investments and other services in communities where they take deposits, consistent with safe and 
+
+sound banking operations.  The arrival of new financial technologies, along with significant 
+
+industry consolidation and other structural changes, has changed the way that financial services 
+
+are delivered to consumers and the ways in which banks lend in communities.  We continue to 
+
+                                                            
+23 See, e.g., Carol A. Evans, “Keeping Fintech Fair: Thinking about Fair Lending and UDAP Risks,” Consumer 
+Compliance Outlook (Second Issue 2017), https://consumercomplianceoutlook.org/2017/second-issue/keeping-
+fintech-fair-thinking-about-fair-lending-and-udap-risks/. 
+24 See Lael Brainard, “The Opportunities and Challenges of Fintech” (speech at the Conference on Financial 
+Innovation at the Board of Governors of the Federal Reserve System, Washington, DC, December 2, 2016), 
+www.federalreserve.gov/newsevents/speech/brainard20161202a.htm.  
+ 
+
+
+- 12 - 
+ 
+
+
+study these shifts, and share the common goal of improving the current supervisory and 
+
+regulatory framework for CRA to further the statute’s core objective of promoting access to 
+
+credit and financial inclusion.   
+
+Conclusion 
+
+Finally, I’ll note that we will continue to learn about issues concerning financial inclusion 
+
+through our research, such as by collecting new data in our Survey of Household Economics and 
+
+Decisionmaking and Survey of Consumer Finances that I mentioned earlier.  The information we 
+
+gather helps us better understand factors affecting consumers and households, including low- and 
+
+moderate-income and historically underserved populations.  We also continue to convene experts 
+
+and practitioners from industry, academia, and community-based organizations to help provide 
+
+context on what we are seeing in the data, to identify emerging issues, and to consider where 
+
+there may be data gaps and opportunities for additional research.  In addition to yielding 
+
+important insights that inform our policymaking, we hope these efforts can support the 
+
+conversations you are having at conferences like this one.   
+
+Thank you, again, for inviting me to speak at your conference as we mark the notable 
+
+anniversaries that this year brings.  Together, our work clearly has a great deal of synergy, and I 
+
+thank you for your efforts.  Making the economy work for the benefit of all Americans, including 
+
+lower-income communities, is of the utmost importance.   
+

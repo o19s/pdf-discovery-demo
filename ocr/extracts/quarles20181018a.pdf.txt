@@ -1,0 +1,488 @@
+
+For release on delivery 
+12:15 p.m. EDT 
+October 18, 2018 
+ 
+
+
+Don’t Chase the Needles:   
+An Optimistic Assessment of the Economic Outlook and Monetary Policy 
+
+
+Remarks by 
+ 
+
+Randal K. Quarles 
+ 
+
+Vice Chairman for Supervision 
+ 
+
+Board of Governors of the Federal Reserve System 
+ 
+
+at the 
+ 
+
+Economic Club of New York Luncheon 
+ 
+
+New York, New York 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+October 18, 2018 
+ 
+
+
+
+Thank you for having me.1  I very much appreciate the opportunity to speak to 
+
+this distinguished group and look forward to my discussion with Greg Ip.  Now almost 
+
+exactly a year into my appointment as Vice Chairman for Supervision, I have, as might 
+
+be expected, spoken publicly most often about banking and the financial system more 
+
+generally.  However, supervision and regulation are not all that I do at the Federal 
+
+Reserve, and I welcome this opportunity to speak to another part of my day job, as a 
+
+member of the Federal Open Market Committee (FOMC).  Today I would like to offer 
+
+my take on the economic outlook, which is optimistic, and explain how I view my 
+
+optimism as consistent with the continued gradual pace of policy tightening that many 
+
+Committee participants have projected.  In particular, I will explain how my views on 
+
+potential growth help shape my outlook, both for the economy and for the appropriate 
+
+path of monetary policy.  Relatedly, I will discuss the uncertainties that arise when a 
+
+central element of the outlook--in this case, the potential capacity of the economy--is 
+
+unknown and largely unobservable.  Such uncertainty can complicate policymaking in 
+
+even what appears to be a very healthy economy, providing a further argument for 
+
+gradualism.   
+
+Where We Are Now 
+
+In previous remarks on the economic outlook, delivered at a National Association 
+
+for Business Economics conference in February, I characterized the U.S. economy as 
+
+being in a “good spot” and asked if the economy had reached a positive turning point 
+
+                                                 
+1 The views I express here are my own and not necessarily those of the Board of Governors of the Federal 
+Reserve System. 
+
+
+ - 2 - 
+
+following an extended period of post-crisis slow growth.  I argued that while it might be 
+
+too soon to call a turning point, there was a definite possibility of an upside surprise.2 
+
+So now that we are fairly deep into 2018, where do we stand overall?  My view 
+
+has not changed all that much from February.  While many other forecasters had to revise 
+
+up their forecasts over the course of the year, my own outlook is basically unchanged, 
+
+because the economy is evolving essentially as I expected at the outset of the year.  The 
+
+economy remains in a good spot.  Gross domestic product increased a robust 
+
+3-1/4 percent in the first half of the year, and indicators suggest continued strong growth 
+
+through the summer.  Economic conditions are as close to meeting the Federal Reserve’s 
+
+dual mandate for monetary policy--maximum sustainable employment and price 
+
+stability--as they have been in a long time.  Inflation is in line with the Committee’s 
+
+2 percent objective, and the unemployment rate is at nearly a 50-year low.      
+
+How long can this strong growth be sustained?  The answer depends largely on 
+
+what form growth takes.  Growth that is supported by increases in the productive capacity 
+
+of the economy should be durable.  However, if growth primarily reflects strong demand 
+
+that stretches production beyond its sustainable capacity, the economy will run into 
+
+constraints that will result in slower growth, higher prices, or a potentially destabilizing 
+
+buildup of financial imbalances.  So, which is it?  Unfortunately, it is very difficult to tell.  
+
+I will return to that question shortly. 
+
+That said, I see many reasons to be optimistic about the growth of the potential 
+
+capacity of the economy over the next few years.  In part, my optimism is rooted in the 
+
+                                                 
+2 See Randal K. Quarles (2018), “An Assessment of the U.S. Economy,” speech delivered at “Promoting 
+Sustained Growth:  Policy Tensions and Risks,” 34th Annual NABE Economic Policy Conference, 
+Washington, February 26, https://www.federalreserve.gov/newsevents/speech/quarles20180226a.htm.  
+
+
+ - 3 - 
+
+view that many of the factors that have been weighing on potential growth since the 
+
+financial crisis could be lifting.  So, have we reached the turning point?  While I believe 
+
+the issue remains unresolved, the recent evidence is encouraging. 
+
+Have We Reached a Turning Point? 
+
+Why am I optimistic about the economy’s supply potential?  The growth of 
+
+potential can, at the most basic level, be broken down into two factors:  the supply of 
+
+labor and the productivity of that labor.  Productivity, in turn, is importantly affected by 
+
+changes in the stock of capital--that is, machines and factories--as well as technological 
+
+advances and improved production methods.  I see reasons to be hopeful about both 
+
+factors. 
+
+Let us start with labor.  For some time, the contribution of the labor force to 
+
+potential growth has been held down by the predictable drag of baby boomers moving 
+
+into retirement.  However, the decline in labor force participation following the financial 
+
+crisis exceeded even what might be expected given this long-standing downward trend-- 
+
+in particular, as the participation of prime-age workers (those between the ages of 25 and 
+
+54) fell and teenagers exited the workforce in droves.  The reasons behind the fall in 
+
+participation among non-retirement-age workers have been the subject of much debate.  
+
+However, I see little reason to assume that it will be permanent, and we have already seen 
+
+some signs of a turnaround.  Thus, I think there is some potential for labor force 
+
+participation to move up, perhaps as workers respond to the incentives of plentiful job 
+
+opportunities and higher wages, thereby adding to the productive capacity of the 
+
+economy and pushing back the constraints on growth.                   
+
+
+ - 4 - 
+
+Some recent labor force trends have been promising.  For example, the two-
+
+decade-long trend increase in the population not in the labor force on account of 
+
+disability peaked in 2014 and has started to move down quite rapidly--again, for reasons 
+
+that defy easy explanation but may reflect the general improvement in labor market 
+
+opportunities.3 
+
+I will now turn to productivity.  Labor productivity has averaged an annual 
+
+growth rate of only 3/4 percent since 2011, far below the 2-1/4 percent pace that 
+
+prevailed in the two decades before the financial crisis.  Although there are competing 
+
+theories, the productivity decline is not well understood, and a consensus explanation has 
+
+yet to emerge.  As such, the slowdown could reverse unpredictably as well.  The most 
+
+recent data have been moving in the right direction, but only haltingly, with labor 
+
+productivity increasing about 1-1/4 percent over the past year.   
+
+There are reasons that productivity growth could shake off some of its recent 
+
+torpidity.  I would like to start with the capital stock.  After a few years of abysmal 
+
+business-sector investment spending, it appears as though the drought has broken.  After 
+
+picking up in 2017, business fixed investment climbed a robust 10 percent at an annual 
+
+rate in the first half of this year, likely supported by lower corporate tax rates and other 
+
+incentives in last year’s tax bill.  Also, indicators for investment, including orders and 
+
+shipments of nondefense capital goods, point toward continued strength, and survey 
+
+evidence points to high business optimism and solid capital expenditure plans.  More 
+
+capital should allow labor to be more productive.  
+
+                                                 
+3 See Ernie Tedeschi (2018), “Will Employment Keep Growing?  Disabled Workers Offer a Clue,” New 
+York Times, March 15.  
+
+
+ - 5 - 
+
+I am also a bit of a techno-enthusiast.  We are in the early stages of a more 
+
+widespread application of a wave of new technologies, such as 5G communications, AI 
+
+(artificial intelligence) and machine learning, and 3-D printing.  It might be that the 
+
+productivity gains associated with these and other new technologies are embodied in new 
+
+capital equipment and will only now start to become apparent as the investment drought 
+
+of recent years comes to an end.  A tighter economy could also create incentives for firms 
+
+to revamp their production methods to save on scarce labor resources. 
+
+To summarize, the economy has been doing very well.  Whether this performance 
+
+is sustained will be importantly determined by whether growth is supported by increases 
+
+in the economy’s potential.  I am hopeful that potential growth, and particularly 
+
+productivity, could accelerate from its relatively anemic pace of late, sustaining growth 
+
+without overheating the economy.  The more the economy’s potential growth increases, 
+
+the more gradual we can be in our removal of monetary policy accommodation.  Thus, an 
+
+assessment of the pace of potential growth will be an important input into what I view as 
+
+the appropriate path of policy to achieve our objectives of maximum sustainable 
+
+employment and price stability.    
+
+The Difficulty in Identifying Potential 
+
+The tricky thing, as I pointed out earlier, is that potential output is unobserved and 
+
+can only be inferred from the behavior of other measured economic indicators.  
+
+Traditionally, as taught in Econ 101, inflation provides a signal on whether the economy 
+
+is operating above or below its potential level.  If inflation moves up in a sustained 
+
+manner, not just because of temporary shocks, then the economy is likely operating 
+
+above its productive capacity, as firms have the leeway to raise prices given the strength 
+
+
+ - 6 - 
+
+of demand.  Likewise, if inflation moves down persistently, then the economy is likely 
+
+operating with some slack, as firms restrain prices to sell their products in the face of 
+
+weak demand.     
+
+If inflation is the primary indicator of the economy’s position relative to potential, 
+
+how confident can we be in the quality of the signal?  It has been noted--quite frequently, 
+
+I might add--that the relationship between inflation and the tightness of the economy has 
+
+gotten weaker, which is to say that inflation appears to be less affected by movements in 
+
+economic slack or tightness, traditionally measured by the unemployment rate, than in the 
+
+past.  As the role of slack in explaining inflation has diminished, inflation expectations 
+
+have assumed greater importance.  However, it is reasonable to ask, if inflation is, in fact, 
+
+now largely a reflection of inflation expectations, is inflation still a good indicator of the 
+
+cyclical state of the economy?  Or, more directly, can we count on inflation to warn us in 
+
+time if the economy is overheating? 
+
+To be a little controversial, perhaps what we are witnessing with inflation is an 
+
+application of what has been called Goodhart’s law, named after Charles Goodhart, the 
+
+distinguished scholar of central banking at the London School of Economics.4  The law 
+
+can be summarized as the idea that if an indicator becomes a target of policy, that 
+
+indicator loses its value as a gauge of the state of the economy.  Rather, the indicator 
+
+becomes a signal of the public’s belief in the competence and commitment of the 
+
+government agency that is targeting the indicator.   
+
+                                                 
+4 For the original formulation of the law, see C.A.E. Goodhart (1975), “Problems of Monetary 
+Management:  The U.K. Experience,” in Papers in Monetary Economics, vol. I (Sydney:  Reserve Bank of 
+Australia).   
+
+
+ - 7 - 
+
+Something along these lines could be happening to inflation, especially given the 
+
+important role of expected inflation in the behavior of actual inflation.  Perhaps inflation 
+
+is just sending a signal of people’s trust in the Fed’s ability to meet its inflation objective.  
+
+If so, no complaints here.  That is a good thing.  However, a problem does arise if the Fed 
+
+remains reliant on inflation as our only gauge of the economy’s position relative to its 
+
+potential.  There are risks in pushing the economy into a place it does not want to go if 
+
+we limit ourselves to navigating by what might be a faulty indicator.  Anchored inflation 
+
+expectations might mask the inflation signal coming from an overheated economy for a 
+
+period, but I have no doubt that prices would eventually move up in response to resource 
+
+constraints.  The ultimate price, from the perspective of the dual mandate, would be an 
+
+unanchoring of inflation expectations.   
+
+Of course, I view this more as a risk than my baseline expectation.  As I have 
+
+said, I am optimistic about potential growth, and I expect that even relatively strong 
+
+growth can be met without running into economic constraints.  However, I also think that 
+
+we should pay attention to other indicators of tightness and overheating in addition to 
+
+inflation.  There are other signs of potential besides inflation, including, but not limited 
+
+to, direct measures of labor utilization or indications of shortages and bottlenecks in 
+
+production.     
+
+Policy Considerations 
+
+How should these thoughts affect monetary policy?  I began my remarks by 
+
+noting that there may be reason to think that the productive capacity of our economy 
+
+could be accelerating, which would allow a more gradual withdrawal of accommodation 
+
+without overheating.  But I have noted as well that there may be reason to think that 
+
+
+ - 8 - 
+
+resource constraints could be more binding than current inflation measures would 
+
+traditionally indicate, which would call for a more athletic response.  Moreover, there is 
+
+today a higher degree of uncertainty about many of these factors--measures of labor 
+
+slack, the relation between labor slack and inflation, the sensitivity of current inflation 
+
+measures to actual resource constraints, and the future growth of productivity, to name a 
+
+few--than there has been for many years.  In such an environment, some have argued that 
+
+this greater uncertainty leaves policymakers without a clear guide and market participants 
+
+without a firm anchor, meaning policy itself could drift--perhaps dangerously.   
+
+I do not think that is the case at all.  Instead, I think this situation reinforces and 
+
+supports the importance of a clear, steady strategy and a gradual, predictable approach to 
+
+the removal of accommodation as we continue to monitor the data.  The analogy I 
+
+frequently use is the old pilot’s adage of “Don’t chase the needles.”  The control panel of 
+
+any airplane has an instrument to guide your course:  a circular gauge with a vertical bar, 
+
+or “needle,” running through the center of it.  If the bar moves sideways to the left, you 
+
+are drifting off course and should change course to the left until the bar comes back into 
+
+the center of the circle; if it moves to the right, you change course to the right.  Today 
+
+these instruments get their inputs from the plane’s GPS (Global Positioning System) and 
+
+are fairly sensitive and accurate, but decades ago, when I was a young man first learning 
+
+to fly in the clouds, they got their information from radio beacons stationed on the ground 
+
+and were quite squirrelly.  The bar could wander from side to side for a while for any of a 
+
+number of reasons--distance from the beacon, the angle you were approaching it from, 
+
+interference from other instruments on the panel, sunspots, or rain--and because of this 
+
+uncertainty, the first rule taught to us as young pilots was, “Don’t chase the needles.”   
+
+
+ - 9 - 
+
+Precisely because of the uncertainty around the course inputs, the right strategy 
+
+was to set a course based on your knowledge of the destination, winds, and performance 
+
+of your plane; communicate that course clearly to air traffic control so everyone knew 
+
+what you were doing; and then stick to that course steadily even as the course needle 
+
+might waver from side to side across your instrument.  If the needle moved to one side 
+
+substantially and stayed there pretty consistently, then you would make a small, firm 
+
+correction--but even then, only gradually and with clear communication about what you 
+
+were doing.  In a world where you had great confidence in the sensitivity of your 
+
+instrument, such as in today’s GPS-based avionics, you could respond immediately to 
+
+moment-to-moment changes in your course readings, but in the world of radio beacons 
+
+and sunspots, “chasing the needles” would at best lead to inefficient fishtailing across the 
+
+sky, and at worst to a substantial deviation from your destination. 
+
+Today uncertainty around many of the macroeconomic inputs to monetary policy 
+
+decisions argues for just the same approach to navigation.  Rather than meaning that 
+
+policy will drift because of this uncertainty, it means that policymakers should chart a 
+
+course that is stable, gradual, and predictable; communicate it clearly; and then follow 
+
+that course through the temporarily shifting and sometimes conflicting signs from the 
+
+economy unless some strong and steady signal requires a firm but moderate correction.  
+
+Given that the economy has performed fundamentally as I expected at the outset of this 
+
+year, the right strategy is to maintain the gradual course that I have thought appropriate 
+
+for some time now.  Put another way, while I think that there is enough reason to think 
+
+that the productive capacity of our economy might be increasing so that we should not 
+
+feel compelled to accelerate our pace, I also think there is enough doubt about current 
+
+
+ - 10 - 
+
+inflation as an infallibly reliable measure of current resource constraints that the 
+
+continued gradual removal of accommodation is appropriate.  Like pilots back in the days 
+
+of radio beacons, don’t chase the needles. 
+
+
+

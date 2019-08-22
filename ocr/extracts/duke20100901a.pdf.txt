@@ -1,0 +1,575 @@
+
+For release on delivery  
+10:45 a.m. EDT 
+September 1, 2010 
+ 
+ 
+
+
+
+
+
+
+Stabilizing Neighborhoods:  Lessons Learned from the Field 
+  
+
+Remarks by 
+
+Elizabeth A. Duke 
+ 
+
+Member 
+
+Board of Governors of the Federal Reserve System 
+ 
+
+At  
+
+REO & Vacant Properties:  Strategies for Neighborhood Stabilization 
+ 
+
+Board of Governors 
+ 
+
+Washington, D.C. 
+
+
+
+
+September 1, 2010
+
+
+Good morning.  I want to welcome you to the Federal Reserve Board for this two-day 
+
+summit to examine the problems associated with vacant and abandoned property and to explore 
+
+innovative approaches to neighborhood stabilization. 
+
+We are certain to have an informative and thoughtful discussion of these issues as our 
+
+agenda is full of experts, including Shaun Donovan, Secretary for the Department of Housing 
+
+and Urban Development, who will deliver a keynote address.   
+
+Like you, I am anxious to get started.  But before I begin, I would like to recognize and 
+
+thank the speakers and panelists we will hear from during the conference.  I would also like to 
+
+acknowledge those who contributed to the new volume of papers the Federal Reserve published 
+
+in conjunction with this event.  Many of our panelists contributed to the volume; their articles 
+
+give us a look at the issue from every angle, provide great insight, and offer promising solutions.  
+
+And I would note that a number of participants and contributors are current or former members 
+
+of the Federal Reserve Consumer Advisory Council (CAC).  The CAC has been instrumental in 
+
+furthering our understanding of emerging consumer and community issues, including the topic 
+
+that brings us together today.   Finally, I would like to thank the Federal Reserve staff that 
+
+worked tirelessly on this project. 
+
+When it became apparent in 2007 that foreclosures were reaching epidemic levels in 
+
+cities nationwide, the first priority of many community organizations and their public and private 
+
+partners was to identify ways to mitigate the impact of foreclosure on individual homeowners 
+
+and their families.  To assist in these efforts, the Federal Reserve deployed a number of 
+
+resources:   
+
+• We developed tools for community organizations to use in identifying areas with 
+
+high default rates so that they could target their counseling resources effectively.   
+
+
+- 2 - 
+ 
+
+
+• We helped to organize many foreclosure assistance fairs that brought lenders, 
+
+counselors, and other resources to individual borrowers.  
+
+• We created foreclosure toolkits for communities.  
+
+• We launched a public information campaign to warn consumers about foreclosure 
+
+rescue scams.   
+
+Despite these and other efforts to help mitigate foreclosures, however, we also recognized 
+
+that many homeowners would not be able to remain in their homes and that, in time, the 
+
+community development field would need to turn its attention to the impact of vacant and 
+
+abandoned properties on communities.  While foreclosure mitigation focuses on the risk to 
+
+individual homeowners, neighborhood stabilization focuses on the impact of foreclosures on 
+
+others--the neighbors, communities, and municipalities that share the consequences of 
+
+foreclosure. 
+
+We were pleased to be able to support early efforts by NeighborWorks America to 
+
+educate community development practitioners and public officials on issues related to 
+
+neighborhood stabilization.  Under this partnership, NeighborWorks launched a website, 
+
+stablecommunities.org, to provide community leaders with the latest information and resources 
+
+on neighborhood stabilization.  In addition, NeighborWorks developed three new learning 
+
+courses on stabilization strategies that are offered nationwide through NeighborWorks’ Training 
+
+Institute as well as in place-based training settings.   
+
+The Federal Reserve also hosted a series of forums in 2008 entitled, Recovery, Renewal, 
+
+Rebuilding: A Federal Reserve System Foreclosure Conference Series.  The series highlighted 
+
+strategies and best practices for addressing foreclosures in both strong and weak market cities.  
+
+These forums were part of a larger initiative to integrate the Federal Reserve’s research and 
+
+
+- 3 - 
+ 
+
+
+outreach resources in addressing the foreclosure crisis.  This integration improved our ability to 
+
+identify problems and highlight potential solutions--an effort that continues today with this 
+
+summit and its accompanying publication.  
+
+Most recently, we worked with the other federal financial regulatory agencies to propose 
+
+amendments to the regulations implementing the Community Reinvestment Act.  The proposed 
+
+amendments provide incentives for banks to participate in community stabilization activities in 
+
+areas designated as eligible for funds under the Neighborhood Stabilization Program (NSP) 
+
+authorized by Congress.   
+
+I would like to take a few minutes now to introduce the types of issues that are faced by 
+
+communities with high rates of foreclosure and REO, and to discuss the gravity of the problem.  
+
+I will also highlight some of the lessons we have learned in the last few years about effective 
+
+neighborhood stabilization strategies, lessons that will be discussed in much greater detail 
+
+throughout the course of this meeting.  
+
+Neighborhood Stabilization 
+
+Yvonne Means, a 74-year old resident of the southeast side of Cleveland, was recently 
+
+interviewed for a National Public Radio story on that city’s efforts to combat the effects of 
+
+foreclosure on its neighborhoods.  Her story was a familiar one:  foreclosed homes on her street 
+
+are vacant and in disrepair, lawns are uncut, and weeds are taking over.  Her home, appraised at 
+
+$70,000 in 2004, was recently valued at $50,000, a nearly 30 percent drop in value.  The loss of 
+
+equity due to neighboring foreclosures represents a very real concern for homeowners, 
+
+particularly older homeowners who might have expected that home equity would serve as a 
+
+cushion in retirement.  But interestingly, Yvonne Means wasn’t focused on her financial loss 
+
+
+- 4 - 
+ 
+
+
+nearly as much as she was her social loss.  Ms. Means told the interviewer that she no longer 
+
+invites friends over to her home because of her embarrassment about the condition of her street. 
+
+I have visited the southeast side of Cleveland and have seen first-hand the challenges 
+
+faced by homeowners.  There is a large inventory of homes that have gone through the 
+
+foreclosure process and are now owned by financial institutions.  These properties are often 
+
+referred to as REO, or “real estate owned,” which is how they are recorded on bank balance 
+
+sheets.   
+
+Our conference publication includes an article by Frank Ford, of Cleveland-based 
+
+Neighborhood Progress, Inc., that paints a very troubling picture of the impact of a large number 
+
+of foreclosures in a once vibrant community.  Ford estimates that every blighted house in 
+
+Cleveland can negatively impact five or six other houses near it.  Homeowners in close 
+
+proximity to foreclosures experience even greater losses in value than the general price declines 
+
+that occur as a market absorbs a large number of distressed sales.  With an estimated 11,500 
+
+vacant houses in Cleveland, Ford calculates that some 60,000 occupied homes will likely be 
+
+impacted.1
+
+The challenges associated with REO are not exclusive to older cities, such as Cleveland 
+
+or Detroit, where economic forces have long threatened the sustainability of large infrastructures 
+
+that support fewer residents.  Carolina Reid, of the Federal Reserve Bank of San Francisco, has 
+
+  Even worse, as he explains, is that losses don’t stop at home equity:  tax revenues 
+
+decline and along with them the financial support necessary to provide for public schools, police, 
+
+fire, and social services.  Neighborhoods that were once vibrant have, in many cases, become 
+
+blighted, and the resources necessary to address the problem are scarce.  
+
+                                                           
+1 For another analysis of the impact of vacant properties on the value of occupied homes, see the paper by Brian 
+Mikelbank, “Spatial Analysis of the Impact of Vacant, Abandoned and Foreclosed Properties,” Federal Reserve 
+Bank of Cleveland, November 2008.  Mikelbank finds that vacant properties have a significant impact on the home 
+values of neighboring properties.   
+
+
+- 5 - 
+ 
+
+
+written an article that describes how formerly thriving subdivisions outside of larger 
+
+metropolitan areas, once known as “boomburbs,” are now suffering some of the highest rates of 
+
+foreclosure and subsequent REO inventories.  These communities are often so new that they do 
+
+not have the community development infrastructure to address the impact of the large volume of 
+
+REO properties.  While REO properties in these relatively strong markets are more attractive to 
+
+investors, the nature of these communities may change dramatically with little opportunity for 
+
+local government to direct--or even prepare for--those changes.     
+
+To make matters even more challenging, potential REO inventories may be larger than 
+
+the current inventory numbers indicate.  The Brooking Institution’s Alan Mallach provides us 
+
+with an article that focuses on the growing number of properties that are delinquent or in the 
+
+foreclosure process, but have not yet entered the market as REO.  This “shadow inventory” 
+
+threatens to continue the downward pressure on housing prices and further destabilizes 
+
+communities.  On a more positive note, however, Mallach contends that the neighborhood 
+
+impact of REO properties can be mitigated if subsequent owners have a long-term interest.  He 
+
+points out that the community impact of an REO property purchased by an individual homebuyer 
+
+is barely noticeable.  Moreover, purchases by investors that plan to buy and hold the property for 
+
+the long term can have positive outcomes for neighborhoods.  Finally, Mallach asserts that local 
+
+governments are not powerless to limit the destructive impact of speculative investors.  Rather, 
+
+he argues that they can influence investor behavior through the use of regulatory tools, such as 
+
+licensing and inspections, to promote stability.  
+
+The challenges faced by communities with large inventories of REO and vacant property 
+
+will not be resolved overnight.  What began as a problem rooted in poorly underwritten loans has 
+
+been exacerbated by high unemployment and slow economic growth.  As delinquencies and 
+
+
+- 6 - 
+ 
+
+
+foreclosures continue to grow, they will hinder the ability of communities to heal and ultimately 
+
+to thrive.  So it only makes sense that we focus our research, data analysis, outreach, and 
+
+community development expertise on better understanding the market dynamics of the 
+
+communities impacted by foreclosures and identify solutions to help speed their recovery. 
+
+Lessons Learned 
+
+This summit brings together people who have been on the front lines of addressing vacant 
+
+and abandoned properties throughout this crisis--local government officials, community 
+
+development practitioners, lenders, servicers, and researchers--to share their experiences for the 
+
+common good.  Thanks to the work of Community Affairs staff at the Boston and Cleveland 
+
+Reserve Banks and here at the Board, we have been able to document many of these lessons in 
+
+the conference publication.  While I don’t want to spoil the plot, I do want to use the remainder 
+
+of my time to preview some of the most important lessons about community stabilization.  
+
+First, we have learned that effective interventions emerge when there is a full 
+
+understanding of mortgage markets, their dynamics, and incentives.  Several articles describe the 
+
+steep learning curve that policymakers have navigated in order to effectively implement the NSP 
+
+created by Congress and to utilize the $6 billion in funds made available through the first two 
+
+rounds of the program.  These funds were provided to help stabilize neighborhoods through the 
+
+acquisition, rehabilitation, financing, demolition, and land banking of properties that are 
+
+blighting communities. While NSP funds were intended to provide an aggressive response to the 
+
+forces destabilizing communities, time limits, such as the requirement that grantees obligate 
+
+funds within 18 months, often underestimated the time needed to navigate the property 
+
+disposition process, especially when paired with the myriad other requirements and limitations 
+
+on uses of the funds.       
+
+
+- 7 - 
+ 
+
+
+The complexities of the secondary mortgage market have made it difficult for local 
+
+governments and community organizations to ascertain who owns a particular property, much 
+
+less arrange for its purchase in a timely way.  The pooling of mortgages in securities further 
+
+complicates the process, making it difficult for municipalities to acquire one or two properties 
+
+among many.  Several articles in our publication discuss the challenges of using NSP funds, 
+
+particularly in a competitive environment where investors have the resources to purchase 
+
+properties in bulk without the constraints related to neighborhood stabilization plans.   
+
+Craig Nickerson’s article, for example, describes the efforts of the National Community 
+
+Stabilization Trust (NCST), which was established to create local capacity so that communities 
+
+could effectively acquire, manage, rehabilitate, and sell foreclosed properties.  Despite a slow 
+
+start, NCST now has transactional expertise, development infrastructure, asset management 
+
+skills, land banking approaches, and the comprehensive planning necessary to effectively utilize 
+
+NSP funds for REO acquisition.  I also commend the article by Stergios (Terry) Theologides, 
+
+which serves as a primer on servicing arrangements, the fiduciary relationship between servicers 
+
+and investors, and the imbedded incentives that drive servicer decisionmaking.  It is a cogent 
+
+explanation of a complex set of relationships that are key to better understanding and negotiating 
+
+the intricacies of REO acquisition.        
+
+The second important lesson learned in working with communities to effectively put NSP 
+
+dollars to work is that good data are necessary to target scarce resources.  The funds provided 
+
+under NSP, while substantial, are not nearly sufficient to tackle the entire inventory of vacant 
+
+and abandoned homes.  But the strategic use of these funds can help to stabilize individual 
+
+neighborhoods.   
+
+
+- 8 - 
+ 
+
+
+In his article, Ira Goldstein emphasizes the difference between stabilizing neighborhoods 
+
+and impacting individual properties.  He describes a data-based tool developed by the 
+
+Reinvestment Fund to characterize the underlying dynamics of local real estate markets.  Their 
+
+Market Value Analysis is based on a set of indicators drawn from local administrative records 
+
+and third-party data sources.  Indicators include such things as median sales prices, number of 
+
+sales as a percent of housing units, foreclosure filings as a percentage of sales, percentage of 
+
+commercial properties, percentage of tax abated properties or newly constructed properties, 
+
+percentage of owner-occupied properties, and residential vacancy rates.  Data such as these are 
+
+analyzed on a census tract basis, making them small enough to capture slight variations in 
+
+community character but large enough to be reliably aggregated for mapping and statistical 
+
+analysis.     
+
+Using such analysis, communities can more effectively decide where NSP funds will 
+
+have the greatest impact.  For example, using Philadelphia data, Goldstein begins by identifying 
+
+neighborhoods eligible for use of NSP funds.  He further calculates the percentage of 
+
+foreclosures in each neighborhood that could be addressed using NSP funds.  He argues that, 
+
+from the standpoint of neighborhood stabilization, the best use of funds is in neighborhoods 
+
+where there is the intersection of 1) a demonstrated need combined with the ability to impact a 
+
+significant fraction of foreclosures, 2) the absence of other significant barriers to revitalization, 
+
+and 3) the presence of additional strengthening factors, such as the strength of surrounding 
+
+neighborhoods.  Combining indicators-of-need with indicators-of-probable-success within data-
+
+driven analytical tools can help communities strategically invest scarce dollars to build on 
+
+community strengths and remove barriers to community success.  This approach also helps 
+
+communities to leverage other funding in the context of a larger community stabilization plan.     
+
+
+- 9 - 
+ 
+
+
+Data-based decisionmaking is not as easy as it sounds.  In fact, the third lesson we have 
+
+learned is that we need to use technology to create better decisionmaking tools to assist 
+
+communities.  Claudia Colton, Michael Schramm, and April Hirsh describe Case Western 
+
+University’s work to support community organizations by providing critical data and information 
+
+to help them determine which properties are priorities for acquisition and rehabilitation, keep 
+
+abreast of current property conditions, and monitor issues as they arise.  This means keeping up-
+
+to-date records of foreclosures, sheriff’s sales, and the REO status of properties, as well as 
+
+gathering information on vacancies and tax delinquencies that can serve as a proxy for 
+
+identifying properties that may be falling into delinquency.  These researchers are also using 
+
+technology to develop tools to help communities strategically invest in areas with significant 
+
+needs, but also great potential.  Moreover, they recognize the need for tools to help community 
+
+organizations monitor the ongoing conditions in their neighborhoods so that they can anticipate 
+
+and plan for bumps along the road to recovery. 
+
+The partnership between Case Western and its Cleveland community partners is a fine 
+
+example of the fourth lesson we have learned from this crisis:  the need to collaborate in new 
+
+ways in order to develop a comprehensive approach to neighborhood stabilization efforts.  
+
+Researchers from Case Western are part of a Neighborhood Stabilization Team that meets 
+
+monthly to exchange information on the status of particular properties and discuss intervention 
+
+strategies.  The conference publication is replete with examples of local collaborations that have 
+
+successfully addressed neighborhood stabilization issues through partnerships between federal, 
+
+state, and local governments, community organizations, lenders, servicers, universities, 
+
+foundations, and others.  Moreover, the most promising initiatives that you will be hearing about 
+
+over the next two days take a comprehensive view of community development.   
+
+
+- 10 - 
+ 
+
+
+It is not sufficient, given current economic conditions and the significant needs of our 
+
+neighborhoods, to do things the way we have always done them.  Homeownership, long 
+
+promoted by federal policy and facilitated by local housing organizations, cannot and should not 
+
+be the only alternative for REO properties.  Indeed, redevelopment strategies profiled in the 
+
+conference publication include rental housing, lease-purchase, and even converting owners to 
+
+renters to avoid vacancies.  Including rental options among the mix of stabilization strategies 
+
+makes particular sense at a time of high unemployment.  Even in the best of times, 
+
+homeownership limits mobility in the labor market.  
+
+Today’s summit and companion publication also highlight several promising models of 
+
+“non-redevelopment” to stabilize communities, such as simple code enforcement, land banking, 
+
+and demolition.  The scale of the problem is such that communities must consider a variety of 
+
+strategies to repurpose REO properties within the context of a comprehensive plan that addresses 
+
+a variety of community needs.  Only in this way will our neighborhoods be restored to health and 
+
+vitality. 
+
+This brings me back to Yvonne Means and her street in Cleveland.  Her plight illustrates 
+
+that while it is important to avoid foreclosures whenever possible, it is equally important to pay 
+
+attention to the properties that despite everyone’s best efforts will end up in foreclosure or worse, 
+
+will become vacant and abandoned with no one even willing to take responsibility through 
+
+foreclosure.  We owe it to Yvonne Means and others like her to work to repair the financial and 
+
+social damage, and restore services to the remaining homeowners in communities with high rates 
+
+of vacancy and foreclosure.  The problems caused by foreclosure are not solved until properties 
+
+are restored to responsible ownership and occupied by families who call them home.  
+
+
+- 11 - 
+ 
+
+
+Neighborhood stabilization is not just sound economic policy, it is rooted in a vision of our 
+
+shared future, our sense of community.   
+
+Conclusion  
+
+In conclusion, I want to thank you for being here and especially for your work to promote 
+
+neighborhood stabilization.  The program today is certainly not the end of this project.   I am 
+
+pleased to say that, as a follow-up to this summit, the Federal Reserve and NeighborWorks will 
+
+be working together to provide technical workshops for communities as they implement some of 
+
+the strategies identified here.  As of now, we have scheduled workshops in Providence, Rhode 
+
+Island and Cleveland, Ohio this fall and plans are underway to schedule similar workshops on 
+
+the West Coast.  I look forward to your participation and feedback today and to new partnerships 
+
+going forward as we continue to identify ways to streamline the process of repurposing REO and 
+
+to address the community development needs of neighborhoods that have been harmed by 
+
+foreclosures.       
+

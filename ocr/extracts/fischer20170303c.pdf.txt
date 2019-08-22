@@ -1,0 +1,513 @@
+
+For release on delivery 
+12:30 p.m. EST  
+March 3, 2017 
+ 
+
+
+Monetary Policy:  By Rule, By Committee, or By Both? 
+ 
+ 
+ 
+
+Remarks by 
+ 
+
+Stanley Fischer 
+ 
+
+Vice Chairman 
+ 
+
+Board of Governors of the Federal Reserve System 
+ 
+
+at the 
+ 
+
+2017 U.S. Monetary Policy Forum, sponsored by 
+the Initiative on Global Markets at the University of Chicago Booth School of Business 
+
+ 
+New York, New York 
+
+
+March 3, 2017 
+ 
+
+
+
+In recent years, reforms in the monetary policy decisionmaking process in central 
+
+banks have been in the direction of an increasing number of monetary policy committees 
+
+and fewer single decisionmakers--the lone governor model.1  We are only a few months 
+
+away from the 20th anniversary of the introduction of the Bank of England’s Monetary 
+
+Policy Committee, just a few years after the 300th birthday of the venerable Old Lady of 
+
+Threadneedle Street.  The Bank of Israel moved from a single policymaker to a monetary 
+
+policy committee in 2010, while I was governor there; more recently, central banks in 
+
+India and New Zealand have handed over monetary policy to committees. 
+
+The Federal Reserve is not part of this recent shift, however.  The Federal Open 
+
+Market Committee (FOMC) has been responsible for monetary policy decisions in the 
+
+United States since it was established by the Banking Act of 1935, two decades after the 
+
+founding of the Fed itself.2 
+
+The movement toward committees reflects the advantages of committees in 
+
+aggregating a wide range of information, perspectives, and models.  Despite the 
+
+prevalence and importance of committees in modern central banking, the role of 
+
+committees in the formulation of policy has not attracted nearly as much academic 
+
+attention as has the research on monetary policy rules.3 
+
+The literature on monetary policy rules stretches back to at least Adam Smith and 
+
+includes important contributions from David Ricardo, Knut Wicksell, and Milton 
+
+                                                 
+1 I am grateful to Joseph Gruber and Ellen Meade of the Federal Reserve Board for their assistance.  The 
+views expressed are mine and not necessarily those of the Federal Reserve Board or the Federal Open 
+Market Committee. 
+2 Although the Federal Reserve was created in 1913, the institutional structure and governance that we have 
+today date from 1935.  See Bordo (2016) and Wheelock (2000). 
+3 It is true, though, that popular books on prominent central banks typically relate more frequently to the 
+outstanding governors or presidents of the central banks than they do to the organizational structure of 
+those banks. 
+
+
+ - 2 - 
+
+Friedman.More recently, John Taylor has moved the research agenda forward with his 
+
+eponymous rule, and a large number of academic papers have been written examining the 
+
+effectiveness and robustness of policy rules.4  In contrast, as noted, study of the role of 
+
+committees in making monetary policy has been fairly light, notwithstanding the 
+
+insightful work of Alan Blinder and others.5     
+
+Committees and rules may appear to be in opposition as approaches to 
+
+policymaking.  One might even argue that if a central bank ever converged on a single 
+
+monetary rule, there would be no need for a monetary policy committee.  In practice, the 
+
+Fed operates through a committee structure and considers the recommendations of a 
+
+variety of monetary rules as we make monetary policy decisions.  Our decision is 
+
+typically whether to raise or reduce the federal funds rate or to leave it unchanged.  
+
+Committees can aggregate large amounts of diverse information--not just data, but also 
+
+anecdotes and impressions that would be hard to quantify numerically.  Good committees 
+
+also offer a variety of perspectives and underlying economic models for interpreting the 
+
+economy.  In contrast, a policy rule, strictly defined, is numerical and constrained to a 
+
+single perspective on the economy. 
+
+Committees and rules each have their advantages.  Committees embody a wider 
+
+range of information and have a capacity for innovation.  Rules can simplify central bank 
+
+communications, a particularly important feature in forward-looking models of the 
+
+economy.  In contrast, the diversity of views that makes a committee work can sometimes 
+
+                                                 
+4 See Taylor (1979), Taylor (1993), Taylor (1999).  A few other notable papers from the vast literature on 
+monetary policy rules include Orphanides and Williams (2002), Walsh (2009), and Williams (2003). 
+5 See Blinder (1998) and Blinder (2004).  Other important contributions to the literature on monetary policy 
+committees include Blinder and Morgan (2005); Chappell, McGregor, and Vermilyea (2005); Gerlach-
+Kristin (2004); Meade and Stasavage (2008); Ruge-Murcia and Riboni (2010); and Warsh (2016). 
+
+
+ - 3 - 
+
+pose a communications challenge, as the frequent complaints about the cacophony of 
+
+messages coming out of the FOMC illustrate.6 
+
+In the remainder of my discussion, I would like to elaborate on some of the 
+
+features of committees that have contributed to their prevalence in monetary 
+
+policymaking.  I will then discuss monetary policy rules and some of the difficulties in 
+
+developing robust rules for policy. 
+
+ 
+Why Do Almost All Central Banks Make Their Monetary Policy Decisions in a 
+
+Committee? 
+
+Let us turn to central bank decisionmaking.  One of the striking facts about the 
+
+Fed is that it is the third central bank of the United States.  Whereas the long-lived central 
+
+banks of Europe--the Riksbank and the Bank of England--have survived for more than 
+
+three centuries, the Fed has only recently become a centenarian. 
+
+Roger Lowenstein’s book America’s Bank convinces the reader that it was no 
+
+easy matter to establish this third central bank.  It also establishes for those coming to the 
+
+issue for the first time that the major issues related to the Fed’s structure were political.  
+
+That is, underlying the disagreements about the establishment of the Federal Reserve was 
+
+the concern that the central bank not upset the balance of economic power within the U.S. 
+
+economy.  Indeed, it was not until 1935 that the present structure of the FOMC was 
+
+established, in which the 7 members of the Federal Reserve Board in Washington, D.C., 
+
+who are nominated by the President and confirmed by the Senate, vote along with 5 of 
+
+the 12 Reserve Bank presidents at any given meeting.7 
+
+                                                 
+6 For a discussion of the cacophony issue, see Faust (2016) and Powell (2016). 
+7 The president of the Federal Reserve Bank of New York is a permanent member of the FOMC.  Four 
+votes rotate annually among the remaining 11 Reserve Bank presidents. 
+
+
+ - 4 - 
+
+So, why policy committees?  What makes them so special?  There are several 
+
+reasons to prefer decisionmaking by committee:  For one thing, each committee member 
+
+brings to the table his or her own perspective or view of the world, as well as valuable 
+
+information that others on the committee haven’t heard.  Moreover, committees are less 
+
+likely to take extreme positions--discussion, deliberation, and voting tends to drive policy 
+
+outcomes toward compromise.  Committees also tend to be less volatile or activist, 
+
+imparting an inertia to policymaking that could be desirable--or perhaps undesirable 
+
+when activism is required.8  Finally, academic studies have shown that a combination of 
+
+forecasts is more accurate, over time, than a single forecast.9  Putting it all together, 
+
+committees are, on average, likely to make better monetary policy decisions than 
+
+individuals--an assertion that has received support from academic experiments in which 
+
+undergraduate students played a part. 
+
+Notwithstanding the shift toward monetary policy committees, each central bank 
+
+and its institutional structure reflects the politics and culture of the country that it serves 
+
+(or “countries” in the case of the European Central Bank).  The Federal Reserve is no 
+
+exception, as Lowenstein’s book demonstrates.  In the years before 1913, the United 
+
+States suffered through a series of financial crises culminating in the Panic of 1907.  That 
+
+panic convinced many important stakeholders--William Jennings Bryan, the leader of the 
+
+Populist movement; Paul Warburg, a prominent financier; Nelson Aldrich, a powerful 
+
+Republican senator; and Carter Glass, the Democratic chair of the House Committee on 
+
+                                                 
+8 In an experimental study in which undergraduates played a monetary policy game by themselves and in 
+groups of five, Lombardelli, Proudman, and Talbot (2005) found group decisions to be more inertial than 
+individual decisions but closer to that of a policy rule, although Blinder and Morgan (2005) found that 
+groups were no different from individuals in terms of policy activism.  A recent study by Ruge-Murcia and 
+Riboni (forthcoming) of Bank of Israel policy before and after its change from a single governor to a 
+committee found that committee decisions were more inertial than individual ones. 
+9 See, for example, Hendry and Clements (2004). 
+
+
+ - 5 - 
+
+Banking and Currency--that America needed a central bank.  Our unique structure with 
+
+the Board of Governors in Washington and the 12 Reserve Banks scattered around the 
+
+country reflected a years-long struggle to balance a variety of competing interests:  
+
+farmers in the heartlands and financiers on Wall Street; populists and federalists; and 
+
+creditors and debtors.  Our central bank and its policy committee importantly reflect the 
+
+deal the Fed’s founders struck to resolve those competing interests and create an 
+
+institution representing America’s economic and geographic diversity.10 
+
+I should add that I find the regional balance created by the membership of the 
+
+FOMC to be a valuable feature of its structure.  In the first round of policymaker 
+
+discussion at a typical FOMC meeting, most of the presidents of the Reserve Banks start 
+
+their presentations with a description of economic developments in their Federal Reserve 
+
+District.11  From these presentations, one understands what a massive and diverse 
+
+economy the United States is and why the politicians who established the Fed were right 
+
+to require its decisions to be made by a committee. 
+
+Robust Rules for Monetary Policy 
+
+I turn now to economic models and monetary policy rules.  I recently gave a 
+
+lecture at the University of Warwick entitled “I’d Rather Have Bob Solow Than an 
+
+Econometric Model, But . . . ,” with the punch line quote from Paul Samuelson saved for 
+
+the end:  “I’d rather have Bob Solow than an econometric model, but I would rather have 
+
+Bob Solow with an econometric model than without one.”12  To summarize, the speech 
+
+                                                 
+10 In addition, in more recent times, the Federal Reserve System has placed greater emphasis on other 
+aspects of diversity. 
+11 While only a subset of Reserve Bank presidents vote at any given FOMC meeting, all of them offer their 
+views in our discussions of the economy and of monetary policy. 
+12 See Fischer (2017). 
+
+
+ - 6 - 
+
+discussed the important role that models and policy rules play in FOMC discussions and 
+
+decisionmaking. 
+
+Shortly after the speech, I received an e-mail from an old and esteemed colleague, 
+
+Professor Athanasios Orphanides, with the subject line “I’d rather have Bob Solow with a 
+
+model and a rule (following a careful evaluation process).”  What does a careful 
+
+evaluation process entail?  I will paraphrase my correspondent at length.13 
+
+Professor Orphanides’s recommendation is that the FOMC adopt a reference rule, 
+
+based on a rigorous evaluation and paying particular emphasis to (1) robustness to model 
+
+uncertainty, (2) robustness to natural rate uncertainty, (3) robustness to expectations 
+
+formation, (4) robustness to the size of shocks and the effective lower bound, and (5) 
+
+whatever else the Fed staff has identified as a gap in our knowledge that may matter in 
+
+evaluation.  He suggested that, ultimately, the FOMC could arrive at a simple rule that 
+
+would serve as a good benchmark to guide policy. 
+
+My colleague certainly lays out an impressive work program for the Board’s 
+
+cadre of Ph.D. economists.  However, I tend to agree with John Taylor and my Fed 
+
+colleague John Williams when they write that “the search for better and more robust 
+
+policy rules is never done.”14 
+
+                                                 
+13 The direct quotation from Professor Orphanides is as follows:  “My recommendation had been that the 
+FOMC should adopt a reference rule, based on rigorous evaluation, using the technology the Fed staff has 
+developed over the past couple of decades and paying particular emphasis on various aspects of robustness:  
+(1) robustness to model uncertainty, (FRB/US (various vintages), EDO, SIGMA (again various vintages) 
+and others),  (2) robustness to natural rate uncertainty, u*, r*, Q*, fx* and so on,  (3) robustness to 
+expectations formation (mode[l] consistent, learning, partial learning by businesses/households, etc.), (4) 
+robustness to the size of shocks and the ZLB [zero lower bound] (given that certainty equivalence does not 
+hold), (5) whatever else the staff research has identified as a gap in our knowledge that may matter in 
+evaluation.  The evaluation should allow for forecast-based rules as well as outcome-based rules and could 
+be updated on an annual basis to incorporate new information.  But ultimately, the FOMC could arrive at a 
+simple rule that would be, in the Committee’s judgment, a good benchmark to guide policy.”   
+14 See Taylor and Williams (2011), p. 855. 
+
+
+ - 7 - 
+
+My take is that rules are extremely useful reference tools, but they are likely to 
+
+work best as inputs into a committee decision.  Why?  Let me reiterate some points I 
+
+made in Warwick.  First, the economy is very complex, and models that attempt to 
+
+approximate that complexity can sometimes let us down.  A particular difficulty is that 
+
+expectations of the future play a critical role in determining how the economy reacts to a 
+
+policy change.  Moreover, the economy changes over time--this means that policymakers 
+
+need to be able to adapt their models promptly and accurately in real time.  And, finally, 
+
+no one model or policy rule can capture the varied experiences and views brought to 
+
+policymaking by a committee.  All of these factors and more recommend against 
+
+accepting the prescriptions of any one model, policy rule, or policymaker. 
+
+
+
+
+ - 8 - 
+
+References 
+
+Blinder, Alan S. (1998).  Central Banking in Theory and Practice.  Cambridge, Mass.:  
+MIT Press. 
+
+ 
+-------- (2004).  The Quiet Revolution:  Central Banking Goes Modern.  New Haven, 
+
+Conn.:  Yale University Press. 
+ 
+Blinder, Alan S., and John Morgan (2005).  “Are Two Heads Better Than One?  
+
+Monetary Policy by Committee,” Journal of Money, Credit, and Banking, vol. 37 
+(October), pp. 789-811. 
+
+ 
+Bordo, Michael D. (2016).  “Some Historical Reflections on the Governance of the 
+
+Federal Reserve,” in John H. Cochrane and John B. Taylor, eds., Central Bank 
+Governance and Oversight Reform.  Stanford, Calif.:  Hoover Institution Press. 
+
+ 
+Chappell, Henry W. Jr, Rob Roy McGregor, and Todd Vermilyea (2005).  Committee 
+
+Decisions on Monetary Policy:  Evidence from Historical Records of the Federal 
+Open Market Committee.  Cambridge, Mass.:  MIT Press. 
+
+ 
+Faust, Jon (2016).  “Oh, What a Tangled Web We Weave:  Monetary Policy 
+
+Transparency in Divisive Times,” paper prepared for “Understanding Fedspeak,” 
+an event cosponsored by the Hutchins Center on Fiscal and Monetary Policy at 
+the Brookings Institution and the Center for Financial Economics at Johns 
+Hopkins University, held at the Brookings Institution, Washington, November 30, 
+available at https://www.brookings.edu/research/oh-what-a-tangled-web-we-
+weave-monetary-policy-transparency-in-divisive-times. 
+
+ 
+Fischer, Stanley (2017).  “I’d Rather Have Bob Solow Than an Econometric Model, But . 
+
+. . ,” speech delivered at the Warwick Economics Summit, Coventry, United 
+Kingdom, February 
+11, https://www.federalreserve.gov/newsevents/speech/fischer20170211a.htm. 
+
+ 
+Gerlach-Kristen, Petra (2004).  “Is the MPC’s Voting Record Informative about Future 
+
+UK Monetary Policy?” Scandinavian Journal of Economics, vol. 106 (June), pp. 
+299-313. 
+
+ 
+Hendry, David F., and Michael P. Clements (2004).  “Pooling of Forecasts,” 
+
+Econometrics Journal, vol. 7 (1), pp. 1-31. 
+ 
+Lombardelli, Clare, James Proudman, and James Talbot (2005).  “Committees versus 
+
+Individuals:  An Experimental Analysis of Monetary Policy Decision Making,” 
+International Journal of Central Banking, vol. 1 (May), pp. 181-205. 
+
+ 
+Lowenstein, Roger (2015).  America’s Bank:  The Epic Struggle to Create the Federal 
+
+Reserve.  New York:  Penguin Press. 
+
+
+ - 9 - 
+
+Meade, Ellen E., and David Stasavage (2008).  “Publicity of Debate and the Incentive to 
+Dissent: Evidence from the US Federal Reserve,” Economic Journal, vol. 118 
+(April), pp. 695-717. 
+
+ 
+Orphanides, Athanasios, and John C. Williams (2002). “Robust Monetary Policy Rules 
+
+with Unknown Natural Rates,” Brookings Papers on Economic Activity, no. 2, pp. 
+63-118. 
+
+ 
+Powell, Jerome H. (2016).  “A View from the Fed,” speech delivered at “Understanding 
+
+Fedspeak,” an event cosponsored by the Hutchins Center on Fiscal and Monetary 
+Policy at the Brookings Institution and the Center for Financial Economics at 
+Johns Hopkins University, held at the Brookings Institution, Washington, 
+November 
+30, https://www.federalreserve.gov/newsevents/speech/powell20161130a.htm.  
+
+ 
+Ruge-Murcia, Francisco, and Alessandro Riboni (2010).  “Monetary Policy by 
+
+Committee:  Consensus, Chairman Dominance, or Simple Majority?” Quarterly 
+Journal of Economics, vol. 125 (February), pp. 363-416. 
+
+ 
+-------- (forthcoming).  “Collective versus Individual Decision-Making:  A Case Study of 
+
+the Bank of Israel Law,” European Economic Review. 
+ 
+Taylor, John B. (1979).  “Estimation and Control of a Macroeconomic Model with 
+
+Rational Expectations,” Econometrica, vol. 47 (September), pp. 1267-86. 
+ 
+-------- (1993).  “Discretion versus Policy Rules in Practice,” Carnegie-Rochester 
+
+Conference Series on Public Policy, vol. 39 (December), pp. 195-214. 
+ 
+-------- (1999).  Monetary Policy Rules.  Chicago:  University of Chicago Press. 
+ 
+Taylor, John B., and John C. Williams (2011).  “Simple and Robust Rules for Monetary 
+
+Policy,” in Benjamin M. Friedman and Michael Woodford, eds., Handbook of 
+Monetary Economics, vol. 3B.  Amsterdam:  North-Holland, pp. 829-59.  
+
+ 
+Walsh, Carl E. (2009). “Using Monetary Policy to Stabilize Economic Activity,” speech 
+
+delivered at a symposium sponsored by the Federal Reserve Bank of Kansas City, 
+held in Jackson Hole, Wyo., August 20-22, pp. 245-
+96, https://www.kansascityfed.org/media/files/publicat/sympos/2009/papers/wals
+h091109.pdf. 
+
+ 
+Warsh, Kevin M. (2016).  “Institutional Design:  Deliberations, Decisions, and 
+
+Committee Dynamics,” in John H. Cochrane and John B. Taylor, eds., Central 
+Bank Governance and Oversight Reform.  Stanford, Calif.:  Hoover Institution 
+Press. 
+
+
+
+
+ - 10 - 
+
+Wheelock, David C. (2000).  “National Monetary Policy by Regional Design:  The 
+Evolving Role of the Federal Reserve Banks in Federal Reserve System Policy,” 
+in Jürgen von Hagen and Christopher J. Waller, eds., Regional Aspects of 
+Monetary Policy in Europe.  Boston:  Kluwer Academic, pp. 241-74. 
+
+ 
+Williams, John C. (2003). “Simple Rules for Monetary Policy,” Federal Reserve Bank of 
+
+San Francisco, Economic Review, pp. 1-12, http://www.frbsf.org/economic-
+research/files/simple-rules-for-monetary-policy.pdf. 
+

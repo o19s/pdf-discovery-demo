@@ -1,0 +1,357 @@
+
+For release on delivery 
+9:25 a.m. EDT (3:25 p.m. CET) 
+June 22, 2016 
+ 
+
+
+Comments on the Resolution Framework 
+for Banks and Bank Holding Companies in the United States 
+
+
+Remarks by 
+ 
+
+Stanley Fischer 
+ 
+
+Vice Chairman 
+ 
+
+Board of Governors of the Federal Reserve System 
+ 
+
+at 
+ 
+
+Panel Discussion on Resolution 
+Riksbank Macroprudential Conference 
+
+ 
+Stockholm, Sweden 
+
+
+June 22, 2016 
+ 
+
+
+
+I’m grateful to the organizers for inviting me to participate in this conference.  I 
+
+would like briefly to describe the legal frameworks that exist for resolving banking 
+
+organizations in the United States, the steps that the Federal Reserve and other U.S. 
+
+regulators have taken to make global systemically important banking organizations 
+
+(GSIBs) in the United States more resolvable, and a few of the criticisms of U.S. 
+
+regulatory actions in this area, together with my responses to them.1 
+
+U.S. law provides several legal frameworks for resolving failed financial firms.  
+
+In the United States, a failed depository institution is resolved by the Federal Deposit 
+
+Insurance Corporation (FDIC) using a framework created by the Federal Deposit 
+
+Insurance Act.  The FDIC has acted as receiver for several thousand failed banks since 
+
+1934, including 465 from 2008 through 2012.  Most of these failed banks were relatively 
+
+small community banks, and all were considerably smaller than the most systemically 
+
+important firms active today.2 
+
+While the Federal Deposit Insurance Act creates a special resolution framework 
+
+for failed banks, a failed U.S. bank holding company--that is, a corporate entity that 
+
+controls one or more banks--would generally be resolved under the same provisions of 
+
+the U.S. Bankruptcy Code as would apply to other corporate debtors, such as industrial 
+
+firms, in a proceeding overseen by a federal judge.  During the recent crisis, fears about 
+
+the systemic consequences that would follow from the bankruptcies of systemically 
+
+important financial firms motivated extraordinary government actions to prevent such 
+
+                                                 
+1 I am grateful to Mark Van Der Weide, Barbara Bouchard and Mark Savignac of the Federal Reserve 
+Board for their assistance in the preparation of these comments. 
+2 The average (per bank) assets of the 465 banks resolved by the FDIC between 2008 and 2012 was roughly 
+$1.5 billion, with a total of $680.3 billion. The largest depository institution ever resolved by the FDIC was 
+Washington Mutual, which was resolved in 2008 and had total assets of $307 billion prior to failure. 
+
+
+ - 2 - 
+
+firms from failing.  Unfortunately, the fears proved well founded: The bankruptcy of 
+
+Lehman Brothers Holdings--the largest bankruptcy filing in American history--
+
+significantly exacerbated the crisis.3 
+
+To increase the viability of the Bankruptcy Code as a framework for resolving 
+
+failed financial firms without major systemic consequences, section 165(d) of the Dodd-
+
+Frank Wall Street Reform and Consumer Protection Act of 2010 (Dodd-Frank Act) 
+
+requires large banking organizations to produce resolution plans, also known as living 
+
+wills, demonstrating how they could be resolved under the Bankruptcy Code in an 
+
+orderly fashion in the event of failure. 
+
+Although the Bankruptcy Code provides the default legal framework for the 
+
+resolution of a failed bank holding company, Title II of the Dodd-Frank Act creates a 
+
+backup resolution framework, called the orderly liquidation authority, to be used if the 
+
+resolution of a failed financial company under the Bankruptcy Code would have serious 
+
+adverse effects on U.S. financial stability.  If that criterion and several others are met, 
+
+Title II allows the Secretary of the Treasury to appoint the FDIC as receiver for the failed 
+
+financial company as an alternative to a bankruptcy resolution overseen by a judge.  The 
+
+orderly liquidation authority has several features that could reduce the systemic effect of 
+
+a financial company’s failure relative to a bankruptcy resolution, including an orderly 
+
+liquidation fund to provide government liquidity support for the failed firm and 
+
+provisions to prevent the unwinding of the failed firm’s derivatives and other qualified 
+
+financial contracts while they are transferred to a solvent firm. 
+
+                                                 
+3 Lehman’s pre-bankruptcy total assets were $691 billion.  The second-largest bankruptcy in American 
+history was the bankruptcy of Washington Mutual, Inc., the savings and loan holding company that owned 
+Washington Mutual; its pre-failure total assets were nearly $328 billion.  Both Lehman and Washington 
+Mutual filed for bankruptcy in September 2008. 
+
+
+ - 3 - 
+
+The Federal Reserve Board has recently proposed important new rules to increase 
+
+the prospects for the orderly resolution of a GSIB with minimal effect on financial 
+
+stability.  Last October, the Board proposed a rule to subject the eight U.S. GSIBs to total 
+
+loss-absorbing capacity (TLAC) and long-term debt requirements, building on the 
+
+international TLAC standard established by the Financial Stability Board.4  The proposal 
+
+would require these systemically important firms to maintain outstanding a large quantity 
+
+of long-term debt that could be used to absorb losses and recapitalize the firm in an 
+
+orderly resolution under either the Bankruptcy Code or the orderly liquidation authority.5    
+
+The proposal would also apply internal TLAC and long-term debt requirements to 
+
+the U.S. intermediate holding companies of foreign GSIBs in order to facilitate the 
+
+recapitalization of a failed foreign GSIB’s U.S. operations.  Finally, the proposal would 
+
+restrict the operations of GSIB holding companies (as distinct from their operating 
+
+subsidiaries) so that those legal entities could go through a resolution proceeding without 
+
+setting off short-term wholesale funding runs or otherwise jeopardizing financial 
+
+stability. 
+
+In May of this year, the Board issued another proposal to make GSIBs more 
+
+resolvable.  This second proposed rule would impose restrictions on GSIBs’ qualified 
+
+                                                 
+4 Board of Governors of the Federal Reserve System (2015), “Federal Reserve Board Proposes New Rule 
+to Strengthen the Ability of Largest Domestic and Foreign Banks Operating in the United States to Be 
+Resolved without Extraordinary Government Support or Taxpayer Assistance,” press release, October 30, 
+www.federalreserve.gov/newsevents/press/bcreg/20151030a.htm.  
+5 Under the proposal, a U.S. GSIB would be required to hold at a minimum (i) a long-term debt amount of 
+the greater of 6 percent plus its GSIB surcharge of risk-weighted assets and 4.5 percent of total leverage 
+exposure and (ii) a TLAC amount of the greater of 18 percent of risk-weighted assets and 9.5 percent of 
+total leverage exposure.  See Board of Governors of the Federal Reserve System (2015), “Total Loss-
+Absorbing Capacity, Long-Term Debt, and Clean Holding Company Requirements for Systemically 
+Important U.S. Bank Holding Companies and Intermediate Holding Companies of Systemically Important 
+Foreign Banking Organizations; Regulatory Capital Deduction for Investments in Certain Unsecured Debt 
+of Systemically Important U.S. Bank Holding Companies,” notice of proposed rulemaking (Docket 
+No. R-1523), Federal Register, vol. 80 (November 30), pp. 74931-32.  The GSIB has to satisfy both 
+constraints.  TLAC encompasses both equity capital and eligible long-term debt. 
+
+
+ - 4 - 
+
+financial contracts--including derivatives and repo agreements--to guard against the mass 
+
+unwinding of those contracts during the resolution of a GSIB.6  The proposed restrictions 
+
+are a key step toward GSIB resolvability because the rapid unwinding of a GSIB’s 
+
+qualified financial contracts could destabilize the financial system by causing asset fire 
+
+sales and toppling other firms. 
+
+Acting in conjunction with the FDIC, the Federal Reserve Board has also sought 
+
+to increase GSIB resolvability through its review of the firms’ living wills.  In April this 
+
+year, the Board and the FDIC announced the results of their review of the eight U.S. 
+
+GSIBs’ 2015 resolution plans, which evaluated the plans based on the firms’ capital, 
+
+liquidity, governance mechanisms, operational capabilities, legal entity rationalization, 
+
+derivatives and trading activities, and responsiveness to prior agency feedback.7 
+
+The agencies found that five of the GSIBs’ plans fell short of the Dodd-Frank 
+
+Act’s standard and required those firms to fix the deficiencies in their plans by October of 
+
+this year or potentially face more stringent prudential requirements.  The agencies also 
+
+identified less-severe shortcomings in the plans of all eight GSIBs, which the GSIBs are 
+
+expected to address in their next round of resolution plan submissions, due in July 2017.  
+
+The deficiencies and shortcomings identified by the agencies touched on most of the 
+
+categories I have just listed, especially liquidity, governance mechanisms, operational 
+
+capabilities, and legal entity rationalization. 
+
+                                                 
+6 See Board of Governors of the Federal Reserve System (2016), “Federal Reserve Board Proposes Rule to 
+Support U.S. Financial Stability by Enhancing the Resolvability of Very Large and Complex Financial 
+Firms,” press release, May 3, https://www.federalreserve.gov/newsevents/press/bcreg/20160503b.htm. 
+7 See Board of Governors of the Federal Reserve System and Federal Deposit Insurance Corporation 
+(2016), “Agencies Announce Determinations and Provide Feedback on Resolution Plans of Eight 
+Systemically Important, Domestic Banking Institutions,” joint press release, April 13, 
+www.federalreserve.gov/newsevents/press/bcreg/20160413a.htm. 
+
+
+ - 5 - 
+
+I want to end by briefly addressing several criticisms that have been made of the 
+
+Dodd-Frank Act’s orderly liquidation authority and the Board’s TLAC proposal.  One 
+
+criticism is that there is no need for the backup orderly liquidation authority because the 
+
+Bankruptcy Code provides an adequate framework for the resolution of any financial 
+
+company.  As Title II of the Dodd-Frank Act recognizes, however, the Bankruptcy Code 
+
+may not be adequate to minimize the systemic impact of the resolution of a systemically 
+
+important financial firm.  The Bankruptcy Code does not direct the judge to take financial 
+
+stability into account in making decisions, and it does not provide other important 
+
+stabilizing features of the orderly liquidation authority, such as government liquidity 
+
+support and stay-and-transfer treatment for qualified financial contracts. 
+
+A related line of criticism holds that the orderly liquidation authority enshrines 
+
+“too big to fail” and provides for taxpayer bailouts of systemically important firms 
+
+through the orderly liquidation fund.  However, under the Board’s proposed TLAC rule, a 
+
+failed GSIB would be recapitalized by its private-sector long-term creditors (whose debt 
+
+claims would be converted into equity), not by the government.  The orderly liquidation 
+
+fund would be used only to provide liquidity support, not to inject capital, and in the 
+
+unlikely event that the fund does incur losses, the Dodd-Frank Act provides that these 
+
+losses would be covered by assessments on major financial companies and would not be 
+
+passed on to taxpayers.  I also note that credit rating agencies have recognized public-
+
+sector efforts to end the too-big-to-fail phenomenon.  The rating agencies no longer 
+
+assume that the U.S. government will take extraordinary actions to prevent the failure of 
+
+systemically important U.S. financial firms. 
+
+
+ - 6 - 
+
+Finally, one criticism that has been leveled at our TLAC proposal is that imposing 
+
+long-term debt requirements on GSIBs will lead those firms to increase their leverage and 
+
+thereby raise their probability of failure, and that they should instead be required to hold 
+
+higher levels of equity capital.  I agree that equity capital plays a key role in preventing 
+
+financial firm failures, and we have raised equity capital requirements for banking 
+
+organizations--especially GSIBs--substantially since the crisis.  But to protect financial 
+
+stability, we must reduce not only the probability that a GSIB will fail, but also the 
+
+damage that its failure could do if it were to occur.  At the point of failure, a banking 
+
+firm’s equity capital is likely to be zero or negative, so to improve GSIB resolvability, 
+
+our proposal requires GSIBs to have a thick tranche of gone-concern loss-absorbing 
+
+capacity to ensure that resolution authorities will have the necessary raw material to 
+
+manufacture fresh equity and recapitalize and stabilize the firm.8  That is the role played 
+
+by the proposal’s long-term debt requirements.  And we expect that firms would 
+
+generally come into compliance with the proposed requirements by replacing existing 
+
+ineligible liabilities with eligible long-term debt rather than by increasing their leverage.  
+
+At any rate, even if a firm were to come into compliance in part by increasing the size of 
+
+its balance sheet, it would remain subject to our robust equity capital requirements and 
+
+leverage limits, which are designed to ensure a very low probability of failure.  Finally, 
+
+the existence of a thick tranche of loss-absorbing long-term debt should reduce a GSIB’s 
+
+                                                 
+8 See Board of Governors (2015), “Total Loss-Absorbing Capacity, Long-Term Debt, and Clean Holding 
+Company Requirements,” in note 5.  Under the proposal, a U.S. GSIB would be subject to external long-
+term debt requirements of 6 percent of risk-weighted assets plus the amount of the risk-based capital 
+surcharge applicable to the GSIB under the Board’s GSIB surcharge rule and 4.5 percent of total leverage 
+exposure. 
+
+
+ - 7 - 
+
+probability of failure by reducing its short-term creditors’ incentives to run at the first 
+
+sign of distress. 
+
+In short, we and other U.S. regulators are working hard to address the too-big-to-
+
+fail problem by improving the prospects for the orderly resolution of a GSIB in the 
+
+United States.  The Dodd-Frank Act gave us tools to reduce the probability of failure of 
+
+our largest and most complex banking firms and to significantly reduce the damage that 
+
+the failure of such a firm would do to the U.S. financial system and the broader economy.  
+
+We have made a lot of progress toward accomplishing these goals, leaving the U.S. 
+
+banking system fundamentally safer and stronger, and our work in this area will continue. 
+
+Thank you. 
+

@@ -1,0 +1,668 @@
+
+ 
+
+ 
+
+For release on delivery 
+8:35 a.m. EST 
+November 12, 2010 
+ 
+
+
+
+
+
+
+Next Steps in Financial Regulatory Reform 
+
+Remarks 
+
+by 
+
+Daniel K. Tarullo 
+
+Member 
+
+Board of Governors of the Federal Reserve System 
+
+at the 
+
+George Washington University Center for Law, Economics, and Finance Conference 
+
+Washington, D.C. 
+
+
+
+
+
+
+
+
+November 12, 2010
+
+
+1 
+ 
+
+ 
+ 
+
+Thank you very much for your invitation to speak at this second annual symposium on 
+
+financial regulatory reform.  Before addressing that topic, I want to say a word about the 
+
+mortgage foreclosure documentation imbroglio, the latest chapter in the recent sad history of 
+
+mortgage finance in this country.   
+
+The Need to Increase Mortgage Modifications 
+
+As you know, inquiries into the extent of, and culpability for, these problems are 
+
+currently being conducted by banking regulators, other federal agencies, and state attorneys 
+
+general.  Regardless of the findings that emerge, and the steps that servicers and others may take 
+
+to correct their mistakes, this episode has again drawn attention to what can only be described as 
+
+a perverse set of incentives for homeowners with underwater mortgages.  Homeowners who try 
+
+to get a modification of the terms of their mortgages are all too frequently subject to delay and 
+
+disappointment.  On the other hand, those who simply stop paying their mortgages have found 
+
+that they can often stay in their homes for a year or more, rent free, before the foreclosure 
+
+process moves ahead.     
+
+This simply is not a good outcome from any broad perspective--not for the revival of 
+
+housing markets, not for the banks and investors that hold the delinquent mortgages, and in the 
+
+longer run, not even for the homeowners themselves, who will ultimately have to move out, 
+
+taking with them a dark cloud over their creditworthiness.   
+
+Several possible explanations have been suggested for this untoward state of affairs--the 
+
+lack of servicer capacity to execute modifications, purported financial incentives for servicers to 
+
+foreclose rather than modify, what until recently appeared to be easier execution of foreclosures 
+
+relative to modifications, limits on the authority of securitization trustees, and conflicts between 
+
+primary and secondary lien holders.  Whatever the merits and relative weights of these various 
+
+
+2 
+ 
+
+ 
+ 
+
+explanations, the social costs of this situation are huge.  It just cannot be the case that foreclosure 
+
+is preferable to modification--including reductions of principal--for a significant proportion of 
+
+mortgages where the deadweight costs of foreclosure, including a distressed sale discount, are so 
+
+high.  While some banks and other industry participants have stepped forward to increase the rate 
+
+of modifications relative to foreclosures, many have not done enough.  I would hope that both 
+
+servicers and ultimate holders of the mortgages will take this occasion not just to correct 
+
+documentation flaws and to contest who should bear the losses of mortgages gone bad, but to 
+
+invigorate the modification process. 
+
+Next Steps Down the Reform Road 
+
+I note that while last year's conference was called "Regulatory Reform at the Crossroads," 
+
+this year's event is entitled "The Dodd-Frank Act and the Road Ahead for Financial Regulatory 
+
+Reform."  The metaphor of a long road ahead following key decisions in Dodd-Frank is an apt 
+
+one for the Federal Reserve and other regulatory agencies that will, over the next 15 to 20 
+
+months, complete implementation of that bill through scores of regulations.  The metaphor also 
+
+applies to elaboration and domestic implementation of the framework for Basel III that was 
+
+agreed to internationally in September.   
+
+Though we may no longer face a major crossroads, the federal banking agencies will 
+
+certainly encounter numerous forks in the road we are travelling.  Choices will be presented 
+
+during implementation of certain Dodd-Frank provisions that set a general direction for change, 
+
+but do not mandate a precise route.  Others will be encountered as we continue the Basel III 
+
+exercise, to which I will return in a moment.  Still other choices will doubtless be required as all 
+
+the member agencies of the new Financial Stability Oversight Council evaluate and, potentially, 
+
+
+3 
+ 
+
+ 
+ 
+
+respond to developments in financial markets.  Finally, at least one big crossroad still lies    
+
+ahead--a decision on the future of the government-sponsored housing finance agencies.   
+
+We are, of course, in the middle of the Dodd-Frank implementation process.  Thus, while 
+
+I recognize there is enormous interest in where the Federal Reserve and other rule-writing 
+
+agencies may be headed, I cannot say much about the substance of the regulations that will 
+
+eventually be proposed and adopted.  Indeed, I think it would be inconsistent with the very 
+
+purpose of administrative law requirements for me to come to my own conclusions, much less 
+
+opine publicly on them, before we have made our proposals and evaluated all the comments.    
+
+What I can say is that, in implementing Dodd-Frank, the Board of Governors will be 
+
+guided by the same norms of statutory construction that a court would apply.  Most importantly, 
+
+where Congressional intentions are clear from the language of the statute, we must faithfully 
+
+execute those intentions.  Of course, there are a good many provisions that do not admit of a 
+
+single interpretation, and the implementation of those provisions will require the exercise of 
+
+discretion by the Federal Reserve or other regulatory agencies.   
+
+I can also say that we are following a transparent and inclusive process that goes well 
+
+beyond the classic notice and comment requirements for agencies adopting regulations.  As to 
+
+transparency: At the Federal Reserve, we are entering into the public record a summary of all 
+
+communications with non-government groups or individuals regarding matters subject to a 
+
+potential or proposed rulemaking under Dodd-Frank.  As to inclusiveness: We have joined with 
+
+the other banking agencies in sponsoring a series of joint forums to solicit views from industry, 
+
+academics, and others on some key issues relevant to Dodd-Frank implementation.  We are also 
+
+hearing views on regulatory implementation at meetings that cover a broad range of topics, such 
+
+as at our last Consumer Advisory Council session.   
+
+
+4 
+ 
+
+ 
+ 
+
+Reforming Minimum Capital Requirements 
+
+Although they had long used bank capital ratios as a supervisory tool, U.S. bank 
+
+regulators did not impose explicit minimum capital requirements until the 1980s.  The proximate 
+
+reason for this change was regulatory concern over the decline in capital ratios of the largest 
+
+banks--a concern reinforced by Congress, as it saw some of those large banks facing enormous 
+
+losses on their loans to foreign sovereigns.  This U.S. regulatory innovation was effectively 
+
+internationalized a few years later in the original Basel Accord.   
+
+At the same time, regulators came to regard capital requirements as a supple prudential 
+
+tool.  As activity and affiliation restrictions were loosened in the United States, capital 
+
+requirements seemed a promising way to protect the public’s interest in the stability of financial 
+
+institutions that had access to the Federal Reserve’s discount window and Federal Deposit 
+
+Insurance Corporation insurance.  Capital requirements promised to provide a buffer against 
+
+bank losses from any activities in which the bank or its affiliates might engage, a consideration 
+
+of equal or greater relevance in countries with universal banking models.  Some support also 
+
+developed for the proposition that minimum capital levels could, by maintaining a material 
+
+equity value for the bank, serve as a disincentive for excessive risk-taking by management and 
+
+shareholders.   
+
+In the ensuing quarter century, the attention of banking regulators around the world had 
+
+been heavily oriented toward elaborating capital requirements to reflect more precisely the 
+
+particular risks faced by a financial institution.  Capital requirements had, to a considerable 
+
+extent, become the dominant prudential regulatory tool. 
+
+The financial crisis showed that the concentrated, almost all-consuming regulatory focus 
+
+on refining bank capital requirements in Basel II had come at the expense of attention to other 
+
+
+5 
+ 
+
+ 
+ 
+
+risks in the financial system.  In particular, there was insufficient appreciation of the implications 
+
+of the growth in size, leverage, and maturity transformation levels of the shadow banking system 
+
+for the balance sheets of commercial banks and for overall financial stability.  The limitations of 
+
+capital requirements as a regulatory tool, such as the frequent lag between declines in asset 
+
+values and reductions in bank capital, were also confirmed by experience during the crisis. 
+
+But it was also evident that capital requirements had simply been set too low in general, 
+
+and with respect to particular assets.  One of the most obvious examples was the capital 
+
+requirement for asset-backed securities in the trading books of banks.  The requirement was 
+
+based on returns over a 10-day holding period, used a one-year observation period that had been 
+
+characterized by unusually low price volatility, and neglected the credit risks inherent in these 
+
+traded instruments.  It was also apparent that at least some of the instruments that qualified as 
+
+“Tier 1 capital” for regulatory purposes were not reliable buffers against losses, at least not on a 
+
+going concern basis.   
+
+It is instructive that during the height of the crisis, counterparties and other market actors 
+
+looked almost exclusively to the amount of tangible common equity held by financial institutions 
+
+in evaluating the creditworthiness and overall stability of those institutions--they essentially 
+
+ignored the Tier 1 and total risk-based capital ratios in regulatory requirements.  In the fall of 
+
+2008, there was widespread doubt in markets that the common equity of some of our largest 
+
+institutions was sufficient to withstand the losses that those firms appeared to be facing.  This 
+
+doubt made investors and counterparties increasingly reluctant to deal with these firms, 
+
+contributing to the severe liquidity strains that characterized financial markets at the time. 
+
+It is obvious that the post-crisis regulatory system will not be as dependent on capital 
+
+requirements as the pre-crisis regime.  Dodd-Frank itself is testimony to this fact, as are a 
+
+
+6 
+ 
+
+ 
+ 
+
+number of changes already made by banking agencies.  There will be increased emphasis on 
+
+market discipline, liquidity regulation, activities restrictions, and more effective supervision.  But 
+
+the crisis reinforces the point that robust capital requirements should continue to be a central 
+
+component of the financial regulatory system.  The U.S. banking agencies, and most of our 
+
+counterparts from countries represented in the Basel Committee on Banking Supervision, made 
+
+strengthening the capital regime a high priority in the latest financial reform agenda. 
+
+Basel III makes a number of important changes to address deficiencies in the pre-crisis 
+
+capital rules:   
+
+First, reflecting both intuitive good sense and market realities during the crisis, Basel III 
+
+creates a new minimum common equity capital requirement.  Moreover, the agreement provides 
+
+a definition of common equity that will prevent firms or national regulators from including in the 
+
+calculation of common equity certain assets that could dilute its loss-absorbing character. 
+
+Second, the minimum common equity ratio will be set at 4.5% of risk-weighted assets, 
+
+with an additional requirement for a 2.5% “conservation buffer.”   The minimum ratio should be 
+
+understood as defining the amount of common equity needed for a firm to be regarded as a 
+
+viable financial intermediary.  The conservation buffer is a new feature of capital regulation, 
+
+intended specifically to reflect the losses that a firm may suffer during periods of financial stress. 
+
+Thus the concept behind the two-level requirement is that a banking organization should 
+
+be able to withstand losses associated with systemic stress and still be a viable financial 
+
+intermediary.  This concept is comparable to the approach we adopted during the Supervisory 
+
+Capital Assessment Program (SCAP) in early 2009.  There, you may recall, we used a special 
+
+stress test to provide a rough estimate of losses that the large banking organizations could face in 
+
+
+7 
+ 
+
+ 
+ 
+
+an adverse scenario and asked that they hold capital sufficient to absorb those losses and still be 
+
+above common equity levels that would maintain the firms as viable intermediaries. 
+
+There is no direct way to calculate how much equity is needed to assure markets that a 
+
+banking organization is viable.  In our internal analysis at the Federal Reserve in preparation for 
+
+the Basel Committee deliberations, we analyzed distributions of actual losses suffered by larger 
+
+institutions over the last several decades, on the assumption that an institution that could 
+
+withstand such losses at a high confidence level would be regarded as a viable going concern.  
+
+For the conservation buffer, we looked at actual pre-SCAP losses incurred by large banking 
+
+firms during the recent stress period and SCAP estimates of additional losses associated with the 
+
+recent stress period.  Both these determinations required considerable judgment, and thus we 
+
+developed ranges, rather than point estimates, for the levels we thought reasonable.  In particular, 
+
+government capital injections and debt guarantees in the fall of 2008 complicated the estimation 
+
+of losses that might have been incurred in the absence of too-big-to-fail support.  The ratios 
+
+agreed to in Basel were at the lower end of, though still within, the ranges we had calculated.   
+
+The practical effect of the two-level approach is that banks under stress may let their 
+
+common equity ratio drop below the 7% level that is the sum of the minimum and buffer 
+
+requirements.  However, restrictions on capital distributions will result, which will become 
+
+progressively more stringent as the common equity ratio drops closer to the 4.5% minimum.   
+
+The buffer is thus designed to forestall banks from continuing to pay dividends even as they 
+
+come under stress, a practice observed in some institutions during the financial crisis.  
+
+Realistically, both regulators and markets will expect firms generally to maintain their common 
+
+equity ratios above 7%. 
+
+
+8 
+ 
+
+ 
+ 
+
+Third, Basel III makes extensive changes to the risk weights assigned to a financial 
+
+institution’s traded assets and counterparty exposures.  As I mentioned earlier, the market-risk 
+
+requirements of the pre-crisis capital regime were woefully inadequate.  In many instances, they 
+
+simply did not reflect the actual risk assumed by an institution.  They also created an invitation to 
+
+arbitrage credit risks by turning them into traded assets with lower risk weights.  It is also 
+
+noteworthy that the changes in risk weights incorporate some elements of a macroprudential 
+
+perspective as, for example, in higher capital requirements on equity investments in other 
+
+financial firms and credit exposures to large financial firms   
+
+Fourth, Basel III provides for a minimum leverage ratio, roughly similar to requirements 
+
+already applicable under national law in the United States and Canada.  While the terms of this 
+
+leverage requirement have been agreed to, there will be a supervisory monitoring period and then 
+
+a parallel run to assess its impact, particularly in countries with no history of such a requirement, 
+
+and to provide for adjustments if warranted. 
+
+Finally, Basel III has a rather lengthy and complicated transition period, with the new 
+
+requirements to be phased in between January 1, 2013, and January 1, 2019.  We favored a 
+
+significant transition period, so as to allow firms flexibility in adjusting to the new regime 
+
+through such means as running off higher risk-weighted assets, adjusting their business models 
+
+gradually, or using retained earnings to add any new capital that might be required under the new 
+
+rules.  To be honest, however, we did not think the transition period needed to stretch over eight 
+
+years.  In fact, it appears that most U.S. banking entities expect to meet the new requirements 
+
+considerably sooner.  However, the lengthy transition period was an important inducement for 
+
+some countries to agree to the new, much stronger standards. 
+
+
+9 
+ 
+
+ 
+ 
+
+With the agreements reached in July and September at meetings of the Governors and 
+
+Heads of Supervision (GHOS) in Basel, the structure and basic elements of Basel III are clear.  
+
+Details are still being worked out by the Basel Committee.  Then, of course, the U.S. banking 
+
+agencies will need to implement Basel III through domestic capital regulations.   
+
+Basel III is not a perfect agreement, of course.  There are things we would have done 
+
+differently if we were writing a capital regulation on our own.  There will surely be some 
+
+technical challenges in implementing it.  It does not really address some pre-crisis problems in 
+
+capital regulation such as pro-cyclicality.  But it is a major step forward for capital regulation.  It 
+
+will raise minimum requirements substantially, ensure that regulatory capital is truly loss 
+
+absorbing, and discourage some of the risky activities for which the pre-crisis regime required 
+
+far too little capital.   
+
+Basel III was also a major step forward in international cooperation.  In all candor, as 
+
+recently as this past spring I was concerned that we might be unable to agree in Basel on such 
+
+key issues as a distinct common equity requirement.  However, under the strong leadership of 
+
+Nout Wellink in the Basel Committee and Jean-Claude Trichet in the GHOS, we concluded a 
+
+good agreement in timely fashion.  I believe that another factor in turning things around was that, 
+
+unlike at some times in the past, the U.S. banking agencies spoke with a single, unified voice in 
+
+Basel. 
+
+ Obviously, the benefits of Basel III for financial stability will be realized only if they are 
+
+implemented rigorously.  In this regard, it is important to draw a distinction between, on the one 
+
+hand, implementation in the sense of enacting national regulations that incorporate the Basel 
+
+standards and, on the other, implementation in the sense that firms are actually holding the 
+
+amounts of capital called for by the internationally agreed rules. 
+
+
+10 
+ 
+
+ 
+ 
+
+The Basel Committee must be able to monitor effectively implementation of, and 
+
+compliance with, these new capital standards.  A number of market analysts have noted that, 
+
+even under current market risk capital rules, there is considerable apparent variation in the risk-
+
+weightings apparently applied by different banks.  We are urging the Committee to explore 
+
+mechanisms for ensuring that these strengthened capital standards lead to a consistency in 
+
+application, as well as in the provisions of relevant domestic regulations. 
+
+Along these lines, we have heard complaints from a few other countries that Basel II is 
+
+not yet operative for our large, internationally active banking organizations in the United States.  
+
+As we have explained, despite the substantial resources devoted by both banking organizations 
+
+and supervisors to the tasks of developing and validating the Advanced Internal Ratings-Based 
+
+Approach in those institutions, we continue to encounter significant difficulties.  The suggestion 
+
+that U.S. banking organizations have thereby gained a competitive advantage is misplaced, 
+
+however.  For one thing, we required significant capital increases as part of the SCAP and the 
+
+Troubled Asset Relief Program repayment processes last year.  Also, we note that the required 
+
+capital levels for some foreign banks adopting Basel II apparently declined from Basel I levels.  
+
+In-depth oversight by the Basel Committee of implementation and compliance would 
+
+allow supervisors from all member countries better to understand issues such as these.  I suspect 
+
+it would also result in supervisors learning from one another and thus improving the quality of 
+
+large institution capital regulation globally.  Although, fortunately, Basel III does not present 
+
+nearly the degree of technical challenge posed by the advanced approach of Basel II, there will 
+
+still be a good bit of opaqueness in how some of its components are implemented and thus a 
+
+continuing need for significant monitoring by the Basel Committee. 
+
+
+11 
+ 
+
+ 
+ 
+
+One piece of unfinished business on the international capital regulatory agenda arises 
+
+from the agreement by the GHOS in September that systemically important financial institutions 
+
+should have loss absorbing capacity beyond the Basel III requirements.  This international 
+
+position parallels the Dodd-Frank requirement that the Federal Reserve apply capital 
+
+requirements to large, interconnected financial institutions that are more stringent than those 
+
+applied to other banks.  We think it serves U.S. interests to develop our plans for implementing 
+
+our domestic statutory obligation in tandem with our participation in this international process, 
+
+so as to maximize the chances of convergence of international standards and our own practice.  
+
+Work on this issue in the Basel Committee and the Financial Stability Board will continue well 
+
+into next year.   
+
+Dividend Policy 
+
+Before closing, I want to address requests for renewed or increased dividends by our 
+
+large bank holding companies, an issue in which there has been substantial recent interest.  
+
+During the crisis, dividends were eventually suspended or reduced to minimal levels by all the 
+
+banking organizations covered by the SCAP.  As the financial system has stabilized, some firms 
+
+have indicated an interest in resuming or increasing dividends, or repurchasing shares.  We have 
+
+been concerned with the safety and soundness implications of resuming or increasing capital 
+
+distributions in the absence of a strong, forward-looking demonstration that the capital position 
+
+of a firm would be protected even under stressed conditions.  Until Basel III was completed and 
+
+Dodd-Frank enacted, it was obviously difficult for any firm to make that kind of demonstration, 
+
+since its future capital needs and potential business model changes were obviously unknown.   
+
+While there continues to be a relatively high degree of uncertainty about near- to 
+
+medium-term economic prospects, the basic questions surrounding capital and regulatory reform 
+
+
+12 
+ 
+
+ 
+ 
+
+have now been answered.  We anticipate that some firms with high capital levels that have been 
+
+retaining solid earnings for several quarters will be interested in increasing or resuming 
+
+dividends.  In response to these anticipated requests, we will soon be issuing supervisory 
+
+guidelines applicable to such requests from the largest holding companies for the first quarter of 
+
+next year.   
+
+Although the details of these guidelines are still being finalized, I can say that our 
+
+approach to considering such requests will be a conservative one.  We will expect firms to 
+
+submit convincing capital plans that demonstrate their ability to absorb losses over the next two 
+
+years under an adverse economic scenario that we will specify, and still remain amply 
+
+capitalized.  We also expect that firms will have a sound estimate of any significant risks that 
+
+may not be captured by the stress testing, such as potential mortgage putback exposures, and the 
+
+capacity to absorb any consequent losses.  The firms will also be asked to show how, even with 
+
+their proposed capital distributions, they will readily and comfortably meet the Basel III 
+
+requirements as they come into effect, as well as to accommodate any business model changes 
+
+that might be necessitated by Dodd-Frank. 
+
+Conclusion 
+
+The final set of major Dodd-Frank regulations will not be completed until early 2012.  A 
+
+year from now we will be in the midst of a regulatory process implementing Basel III, and there 
+
+will likely be an active debate over the future of the government-sponsored enterprises.  So I see 
+
+little risk that the third annual conference on financial regulatory reform at George Washington 
+
+Law School will be entitled “The End of the Road.”  Maybe, just maybe, I have given you a title 
+
+for the fourth.  Then again, maybe not. 
+
+
+

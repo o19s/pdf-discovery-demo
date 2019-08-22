@@ -1,0 +1,898 @@
+
+
+For release on delivery 
+
+1:30 p.m. CST/2:30 p.m. EST 
+
+November 7, 2014 
+
+
+
+
+
+
+
+
+
+
+
+
+A Tiered Approach to Regulation and Supervision of Community Banks 
+
+
+
+
+
+Remarks by 
+
+
+Daniel K. Tarullo 
+
+
+Member 
+
+
+Board of Governors of the Federal Reserve System 
+
+
+at the 
+
+
+Community Bankers Symposium 
+
+
+Chicago, Illinois 
+
+
+
+
+
+
+
+November 7, 2014 
+
+
+
+
+
+
+
+
+
+Earlier this year—also speaking to a conference at the Federal Reserve Bank of Chicago 
+
+—I explained the need for an explicitly tiered approach to banking regulation and supervision.1  
+
+Today I would like to elaborate on those earlier remarks to suggest in more detail what a tiered 
+
+approach would mean for community banks.  Let me begin, though, by recapitulating my basic 
+
+premise and the reasoning behind it. 
+
+Rationale for Regulatory Tiering 
+
+For more than 75 years following passage of the Banking Act of 1933, the motivation for 
+
+banking regulation was fairly simple: the government had granted deposit insurance and access 
+
+to the discount window to depository institutions to forestall runs and panics.  The resulting 
+
+moral hazard and the use of insured deposits as a funding source for these institutions justified 
+
+prudential measures, including prohibitions on non-banking activities, aimed at maintaining safe 
+
+and sound banks, which would in turn protect taxpayers.  Prudential regulation of bank holding 
+
+companies by the Federal Reserve under authority granted by the Bank Holding Company Act of 
+
+1956 was aimed primarily at protecting insured depository institutions and the federal deposit 
+
+insurance fund from knock-on effects of problems at affiliated nonbank businesses.    
+
+This approach is what we now characterize as microprudential—that is, the focus is on 
+
+the soundness of individual banks rather than on the financial system more broadly.  This is not 
+
+                                                 
+1 Daniel K. Tarullo (2014), “Rethinking the Aims of Prudential Regulation,” speech delivered at the Federal Reserve 
+
+Bank of Chicago Bank Structure Conference, Chicago, May 8, 
+
+www.federalreserve.gov/newsevents/speech/tarullo20140508a.htm.  See also Janet L. Yellen (2014), “Tailored 
+
+Supervision of Community Banks,” speech delivered at the Independent Community Bankers of America 2014 
+
+Washington Policy Summit, Washington, D.C., May 1, 
+
+www.federalreserve.gov/newsevents/speech/yellen20140501a.htm; Jerome H. Powell (2014), introductory remarks 
+
+delivered at the Federal Reserve/Conference of State Bank Supervisors Community Banking Research Conference, 
+
+St. Louis, Missouri, September 23, www.federalreserve.gov/newsevents/speech/powell20140923a.htm; and 
+
+Elizabeth A. Duke (2012), “Opportunities to Reduce Regulatory Burden and Improve Credit Availability,” speech 
+
+delivered to the 2012 Bank Presidents Seminar, Santa Barbara, California, January 13, 
+
+www.federalreserve.gov/newsevents/speech/duke20120113a.htm. 
+
+
+
+
+- 2 - 
+
+to say that financial stability had not been important to financial regulators, but this stability was 
+
+implicitly assumed to follow from having sound individual banks.  
+
+Over the years, of course, banking regulation evolved.  For example, regulation expanded 
+
+to encompass fair and open access to financial services for consumers.  And, as developments in 
+
+financial markets and deregulation over the past several decades led to a more concentrated 
+
+financial sector in which bank holding companies could engage in a much broader range of 
+
+activities, supervision was tiered within the bank regulatory agencies based on the size and 
+
+complexity of the regulated institutions.  But the financial crisis provoked a fundamental rethink 
+
+of the aims of prudential regulation. 
+
+There is now more widespread agreement that these aims should vary according to the 
+
+size, scope, and range of activities of banking organizations.  Most significantly, banks of a size 
+
+and complexity such that serious stress or failure could pose risks to the entire financial system 
+
+need regulation that incorporates the macroprudential aim of protecting financial stability.2   
+
+There is also a good argument that very large banks that fall short of this level of systemic 
+
+importance should nonetheless be regulated with an eye to macroprudential aims, such as the 
+
+ability of the banking system as a whole to provide credit.   
+
+Although individual community banks may be an important source of credit, particularly 
+
+in local economies outside urban areas, neither systemic risk nor broad macroprudential 
+
+considerations are significant in thinking about prudential regulation of community banks.  So 
+
+what should the aims of such regulation be?  The basic answer is it should protect the deposit 
+
+                                                 
+2 For additional thoughts on the importance of a macroprudential approach, see Daniel K. Tarullo (2013), 
+
+“Macroprudential Regulation,” speech delivered at the Yale Law School Conference on Challenges in Global 
+
+Financial Services, New Haven, Connecticut, September 20, at 
+
+www.federalreserve.gov/newsevents/speech/tarullo20130920a.htm; and Ben S. Bernanke (2011), “Implementing a 
+
+Macroprudential Approach to Supervision and Regulation,” speech delivered at the 47th Annual Conference on Bank 
+
+Structure and Competition, Chicago, May 5, at 
+
+www.federalreserve.gov/newsevents/speech/bernanke20110505a.htm. 
+
+
+
+
+- 3 - 
+
+insurance fund.  In other words, the traditional microprudential approach to safety and soundness 
+
+regulation continues to be appropriate for these banks.  To develop that basic answer, I think it 
+
+useful to begin with an understanding of both the business model of community banks—that is, 
+
+how their financial intermediation adds value to the economy—and the ways in which such 
+
+banks are most likely to encounter problems. 
+
+There are roughly 5,700 community banks in the United States, the vast majority of 
+
+which have less than $1 billion in total assets.3  These banks represent 98 percent of insured U.S. 
+
+commercial banks, but collectively hold just under 20 percent of aggregate banking assets.  
+
+Moreover, the business model of most community banks, especially smaller and rural banks, is 
+
+built substantially on relationship banking.  While community banks have over the years found it 
+
+increasingly difficult to compete with larger banks in types of lending that can be efficiently 
+
+scaled through larger volumes and standardized credit models, they maintain a comparative 
+
+advantage relative to larger competitors through knowledge of their local communities and their 
+
+individual borrowers.4  This means that community banks play a unique role in their local 
+
+economies, particularly with regard to lending to small- and medium-sized businesses.  
+
+Numerous studies have documented this advantage and its value to economic 
+
+development.  One recent study found that loans extended by rural community banks to small 
+
+businesses default less frequently than similar loans granted by their urban counterparts, and that 
+
+the performance advantage is greater when the bank and the borrower are located in the same 
+
+                                                 
+3 For supervisory purposes, the Federal Reserve typically defines community banks as those with $10 billion or less 
+
+in total assets.  In addition, these remarks will refer to both “community banks” and “community banking 
+
+organizations.”  While the former typically refers to depository institutions and the latter refers to banking groups 
+
+more generally, including holding companies, for purposes of my remarks today these are used interchangeably 
+
+unless indicated otherwise. 
+4 Of course, larger banks may also devote important parts of their business to relationship lending, but it is 
+
+sometimes suggested that, even so, smaller banks whose management is present in local communities are better 
+
+adapted to relationship lending business models. 
+
+
+
+
+- 4 - 
+
+county.  This finding suggests that the “soft” information obtained from their local relationships 
+
+usefully informs rural community banks’ underwriting.5  Federal Reserve research also suggests 
+
+that many community banks that adhered to the traditional relationship banking model of 
+
+funding local lending with customer deposits continued to thrive even during the worst years of 
+
+the financial crisis.6   
+
+In contrast, many small banks that turned to a more transactional model and funded 
+
+construction loans—often outside of their local market—with borrowings, rather than core 
+
+deposits, failed.  And, precisely because of their business model, community banks do have their 
+
+vulnerabilities.  They are more likely to have geographic and portfolio concentrations that can 
+
+make them vulnerable to localized economic problems.  Of course, the failure of a community 
+
+bank in these circumstances will only exacerbate these problems.  Especially in rural areas, the 
+
+disappearance of community banks could result in a permanent reduction in this local kind of 
+
+credit, as the slack may not all be picked up by larger banks.7  Additionally, of course, there will 
+
+usually be issues requiring supervisory and management consideration for at least a time.  At 
+
+present, as I know you have been hearing from your supervisors, these issues include 
+
+cybersecurity and interest rate risks. 
+
+                                                 
+5 See Robert DeYoung, Dennis Glennon, Peter Nigro, and Kenneth Spong (2012), “Small Business Lending and 
+
+Social Capital:  Are Rural Relationships Different?” University of Kansas Center for Banking Excellence Research 
+
+Paper #2012-1, June, business.ku.edu/sites/businessdev.drupal.ku.edu/files/docs/CBE%20WP%202012-
+
+1%20DeYoung%20Glennon%20Nigro%20Spong.pdf.  
+6 See, for example, R. Alton Gilbert, Andrew P. Meyer, and James W. Fuchs (2013), “The Future of Community 
+
+Banks: Lessons from Banks That Thrived During the Recent Financial Crisis,” Federal Reserve Bank of St. Louis 
+
+Review, vol. 95 (March/April), pp. 115–143, research.stlouisfed.org/publications/review/13/02/gilbert.pdf; and Dean 
+
+F. Amel and Robin A. Prager (2014), “Community Bank Performance: How Important are Managers?” Finance and 
+
+Economics Discussion Series 2014-26 (Washington: Board of Governors of the Federal Reserve System, March 18), 
+
+www.federalreserve.gov/pubs/feds/2014/201426/201426pap.pdf. For a study finding relationship lending benefits in 
+
+an international context, see Franco Fiordelisi, Stefano Monferra, and Gabriele Sampagnaro (2014), “Relationship 
+
+Lending and Credit Quality,” Journal of Financial Services Research, vol. 46, pp. 295–315. 
+7 Counties that experience failures of community banks are likely to see significantly lower income and 
+
+compensation growth, higher poverty rates, and lower employment.  See John Kandrac (2013), “Bank Failure, 
+
+Relationship Lending, and Local Economic Performance,” www.stlouisfed.org/banking/community-banking-
+
+conference/PDF/Kandrac_BankFailure_CBRC2013.pdf. 
+  
+
+
+
+
+- 5 - 
+
+To return, then, to the aims of prudential regulation of community banks, it seems that we 
+
+can fill out the basic aims of protecting the deposit insurance fund and supporting the availability 
+
+of relationship lending across the country by concentrating on traditional capital regulation to 
+
+ensure solvency and on traditional examination practice to monitor the basic soundness of the 
+
+relationship lending practices.  We may also need to increase scrutiny when community banks 
+
+move beyond their traditional business model and enter lines or markets that are more complex 
+
+or with which they may not be familiar.  But many rules and examinations that are important for 
+
+institutions that are larger, more complex, or both, do not make sense in light of the nature of the 
+
+risks to community banks.  We must avoid importing measures from large bank oversight that 
+
+make relationship banking more costly. 
+
+With that explanation of the purposes of community bank oversight, let me now turn to 
+
+more specific discussion of how we are tailoring regulation and supervision of community banks 
+
+to achieve those aims. 
+
+Tiered Regulation for Community Banks 
+
+There are two complementary ways to implement a tiered approach to prudential 
+
+regulation.  One is to apply specific regulations only to those classes of banking organizations 
+
+whose activities and scale require those measures.  The second is to tailor the application of 
+
+generally applicable measures based on the size, complexity, and possibly other characteristics of 
+
+banking organizations.  We are following both approaches in putting into place an explicitly 
+
+tiered method of regulating community banks.8 
+
+                                                 
+8 While not directly the subject of these remarks, it also bears noting that additional tiering of expectations is 
+
+increasingly taking place even among larger banking organizations.  For example, capital planning and stress testing 
+
+requirements are more extensive for the very largest, most systemically important firms than they are for smaller 
+
+regional banking organizations.  Likewise, liquidity and capital requirements are or will be higher for the most 
+
+systemically important firms than for other large banking organizations. 
+
+
+
+
+- 6 - 
+
+An example of tailoring generally applicable regulations is the revised capital guidelines 
+
+that were issued in 2013.9  It was clear in the wake of the financial crisis that strong capital 
+
+positions were essential for banks of all sizes, including community banks.  But a number of 
+
+changes that were appropriate for large banks did not make sense for community banks.  As I am 
+
+sure you all recall, community banks gave us quite a bit of help in identifying which portions of 
+
+the originally proposed rule were, and were not, appropriate for community banks.  Following 
+
+publication of the final capital rule, the three federal banking agencies developed a streamlined, 
+
+supplemental Community Bank Guide to assist bank management in understanding the 
+
+applicability of the rules to smaller, non-complex institutions.10  This exercise is an example of a 
+
+broader effort to be explicit as to how prudential regulations that are sometimes quite detailed 
+
+apply to community banks.  By including such explanations in the introductory portions of 
+
+broadly applicable regulations, our hope is that community bankers will be relieved of the task of 
+
+wading through extensive regulatory texts just to find out what portions apply to their banks.   
+
+This is a good point at which to note that the federal banking agencies have, in 
+
+accordance with the terms of the Economic Growth and Regulatory Paperwork Reduction Act 
+
+(EGRPRA), recently launched a review to identify banking regulations that are outdated, 
+
+unnecessary, or unduly burdensome.11  One theme that has already been notable is the belief of 
+
+                                                 
+9 See Federal Deposit Insurance Corporation (FDIC) (2013), “Regulatory Capital Rules: Regulatory Capital, 
+Implementation of Basel III, Capital Adequacy, Transition Provisions, Prompt Corrective Action, Standardized 
+
+Approach for Risk-Weighted Assets, Market Discipline and Disclosure Requirements, Advanced Approaches Risk-
+
+Based Capital Rule, and Market Risk Capital Rule,” interim final rule, Federal Register, vol. 78, pp. 55340–55598, 
+
+www.fdic.gov/news/board/2013/2013-07-09_notice_dis_a_res.pdf; and Board of Governors of the Federal Reserve 
+
+System (Board of Governors) and Office of the Comptroller of the Currency (OCC) (2013), final rule of the same 
+
+name, Federal Register, vol. 78, pp. 62017–62291, www.gpo.gov/fdsys/pkg/FR-2013-10-11/pdf/2013-21653.pdf.  
+10 Board of Governors, FDIC, and OCC (2013), New Capital Rule: Community Bank Guide (Washington: Board of 
+
+Governors, FDIC, and OCC, July), 
+
+www.federalreserve.gov/bankinforeg/basel/files/capital_rule_community_bank_guide_20130709.pdf. 
+11 Board of Governors, FDIC, and OCC (2014), “Federal Bank Regulatory Agencies Seek Comment on Interagency 
+
+Effort to Reduce Regulatory Burden,” press release, June 4, 
+
+www.federalreserve.gov/newsevents/press/bcreg/20140604a.htm.  See also the Federal Financial Institutions 
+
+Examination Council’s (FFIEC) EGRPRA website at http://egrpra.ffiec.gov/.  
+
+
+
+
+- 7 - 
+
+community bankers that many regulations could be tailored more appropriately for community 
+
+banks.  I encourage you to participate in the EGRPRA process by giving us specific examples of 
+
+regulations that should be modified in this way and, even more helpfully, by suggesting specific 
+
+ways in which they might be usefully be tailored. 12 
+
+As to exempting community banks entirely from certain regulations, I should note first 
+
+that many of the statutory requirements introduced by the Dodd-Frank Wall Street Reform and 
+
+Consumer Protection Act do not by their own terms apply to community banks.  So, for example, 
+
+the extensive enhanced prudential standards required by section 165 of Dodd-Frank for bank 
+
+holding companies with more than $50 billion in assets do not apply to smaller banks.  Nor do 
+
+the requirements for stress testing and resolution planning.13  Similarly, the banking agencies 
+
+have used their discretion to exclude community banks from the coverage of some new 
+
+regulations adopted following the crisis.  For example, we recently approved a final rule 
+
+implementing in the United States a Basel agreement that establishes a quantitative minimum 
+
+liquidity requirement, but limited its coverage to banking organizations with more than $50 
+
+billion in assets.14  We excluded community and smaller regional banks, which generally have 
+
+relatively simple funding profiles and do not pose a significant potential risk to the financial 
+
+system. 
+
+However, some statutory requirements by their terms apply to all banks.  Even if we do 
+
+not believe that they actually advance safety and soundness aims for community banks, or 
+
+produce only a small benefit at a disproportionately large compliance cost, we must still enforce 
+
+                                                 
+12 See http://egrpra.ffiec.gov/.  
+13 For more information about large-bank capital planning and stress testing requirements, see the Board’s website at 
+
+www.federalreserve.gov/bankinforeg/stress-tests-capital-planning.htm.  
+14 Board of Governors, OCC, and FDIC (2014), “Liquidity Coverage Ratio: Liquidity Risk Measurement 
+
+Standards,” final rule, Federal Register, vol. 79 (October 10), pp. 61439–61541, www.gpo.gov/fdsys/pkg/FR-2014-
+
+10-10/pdf/2014-22520.pdf. 
+
+
+
+
+- 8 - 
+
+them.  It would be worthwhile to consider amendments to these statutory provisions to carve out 
+
+their applicability to community banks. 
+
+I have previously suggested two candidates for consideration: the Volcker rule and the 
+
+incentive compensation requirements in section 956 of Dodd-Frank.15  The risks addressed by 
+
+these statutory provisions are far more significant at larger institutions than they are at 
+
+community banks.16  Moreover, in the unlikely event that a community bank engages in practices 
+
+in either of these areas that raise heightened concerns, we would be able to address these 
+
+concerns as part of the normal safety-and-soundness supervisory process.  While the banking 
+
+agencies have used the other method of tiering and tried to tailor the Volcker rule (as we will do 
+
+with section 956), I believe that both community banks and supervisors would benefit from not 
+
+having to focus on formal compliance with regulation of matters that are unlikely to pose 
+
+problems at smaller banks. 
+
+Today I would like to add a third candidate for consideration—a statutory amendment 
+
+that would permit the Federal Reserve Board to raise the size of banks covered by our Small 
+
+Bank Holding Company Policy Statement.17  As background, the Board originally issued the 
+
+policy statement in 1980 to facilitate the transfer of ownership of small community banks.  The 
+
+Board generally discourages the use of debt by bank holding companies to finance acquisitions, 
+
+                                                 
+15 The Volcker rule applies to all banking entities that engage in prohibited activities, irrespective of size, and the 
+
+Dodd-Frank incentive compensation requirements apply to all banks and holding companies with total assets of 
+
+$1 billion or more. 
+16 As indicated in guidance for community banks that was issued with the final Volcker rule, in practice the agencies 
+
+believe that the vast majority of community banks do not engage in prohibited activities.  Because they are not 
+
+expressly exempted from the Volcker rule provisions, however, if community bankers have any questions about 
+
+whether their bank engages in prohibited activities, they may feel obliged to conduct due diligence on a very 
+
+complex rule.  Given the limited de facto applicability to community banks, I would suggest that exempting them 
+
+from Volcker compliance and resolving issues through the supervisory process would be a more effective use of 
+
+bank and supervisory resources.  See Board of Governors, FDIC, and OCC (2013), “The Volcker Rule: Community 
+
+Bank Applicability,” December 10, www.federalreserve.gov/newsevents/press/bcreg/bcreg20131210a4.pdf.  
+17 See 12 CFR part 225, appendix C, www.gpo.gov/fdsys/pkg/CFR-2014-title12-vol3/pdf/CFR-2014-title12-vol3-
+
+part225-appC.pdf. 
+
+
+
+
+- 9 - 
+
+because debt can impair the ability of the holding company to serve as a source of strength to 
+
+subsidiary banks.  However, the Board also recognizes that limited access to equity funding by 
+
+small institutions means that the transfer of ownership of small banks often requires the use of 
+
+acquisition debt.   
+
+The policy statement allows small, noncomplex bank holding companies to operate with 
+
+higher levels of debt than would normally be permitted, subject to restrictions to ensure that 
+
+higher debt does not pose an undue risk to subsidiary banks and that leverage is reduced over 
+
+time.  Bank holding companies that are subject to the policy statement are exempt from the 
+
+Board’s risk-based and leverage capital guidelines, and are subject to reduced regulatory 
+
+reporting requirements.18     
+
+The original policy statement set the maximum size of qualifying holding companies at 
+
+$150 million in total consolidated assets.  This threshold was increased to $500 million in 2006 
+
+to address the effects of inflation, industry consolidation, and asset growth.  The intervening 
+
+eight years have obviously brought dramatic changes in the financial, business, and regulatory 
+
+environments.  Accordingly, I believe it is worth considering raising the asset threshold once 
+
+again, this time to $1 billion.  Approximately 85 percent of all bank holding companies qualified 
+
+after the threshold was raised in 2006, a figure that has dropped to about 75 percent today.  
+
+Raising the threshold to $1 billion would recoup that lost coverage and go a bit further, covering 
+
+89 percent of holding companies. 
+
+Such an increase would entail some policy tradeoffs, of course, which obviously become 
+
+of greater concern as the threshold rises further.  But I think the balance of considerations argues 
+
+                                                 
+18 Bank holding companies with less than $500 million in assets may still be required to file regulatory reports with 
+
+the same detail and frequency as larger bank holding companies if they meet certain criteria that are set forth in the 
+
+instructions for the Federal Reserve FR Y-9SP and FR Y-9C regulatory reports 
+
+(www.federalreserve.gov/apps/reportforms/default.aspx) or to otherwise meet supervisory needs.  
+
+
+
+
+- 10 - 
+
+for taking this action to facilitate transfers of ownership of small banks.  For example, while 
+
+exempting more bank holding companies could result in increased leverage, subsidiary banks 
+
+remain subject to normal capital requirements.  Supervisory and applications approval processes 
+
+are available to limit instances in which holding companies could take on excessive debt.  
+
+Similarly, because most bank holding companies under $1 billion have limited activities outside 
+
+of their banks, and we will still receive detailed quarterly bank data, the reduced regulatory 
+
+reporting requirements for qualifying holding companies should not be problematic for 
+
+supervisors. 
+
+Of course, the policy statement was issued by the Board and thus one might think the 
+
+Board could raise the threshold on its own.  However, the Collins amendment to Dodd-Frank19 
+
+effectively eliminates any authority of the Board to extend the capital treatment in the policy 
+
+statement to holding companies with assets greater than the threshold in effect on May 19, 2010, 
+
+or to savings and loan holding companies of any size.  Thus, we would need legislative action to 
+
+effect these changes.  
+
+Tiered Supervision 
+
+Federal banking regulators have long organized supervision into portfolios of institutions 
+
+based predominantly—though for larger firms, not exclusively—on asset size.  Various 
+
+provisions of Dodd-Frank motivated the Federal Reserve to modify the composition of the 
+
+portfolios somewhat.  We have four such groups: (1) community banks, (2) regional banking 
+
+organizations, (3) large banking organizations, and (4) firms overseen by the Large Institution 
+
+Supervision Coordinating Committee (LISCC).20  This arrangement is not simply a matter of 
+
+                                                 
+19 Section 171 of the Dodd-Frank Act. 
+20 Community banking organizations generally are those with $10 billion or less in total assets, regional banking 
+
+organizations are those with total assets between $10 billion and $50 billion, large banking organizations are those 
+
+with total assets over $50 billion, and LISCC firms are the subset of large banking organizations that are largest and 
+
+
+
+
+- 11 - 
+
+organizational convenience.  Nor is it only a means for promoting consistency of treatment 
+
+among similar banks throughout the Federal Reserve System, important as that goal is.  As with 
+
+tiered regulation, this tiered approach to supervision is intended to take account of differences in 
+
+business models, risks, relative regulatory burden, and other salient considerations.  Where 
+
+specific regulatory goals for the different portfolios vary, the supervisory programs should reflect 
+
+those differences.  And where the goals are similar across portfolios, supervisory programs 
+
+should take account of the differences among banks noted a moment ago.  A tiered approach to 
+
+prudential regulation calls not for a single state of the art in supervision, but for distinct state-of-
+
+the-art approaches to each supervisory portfolio.  Some important implications for community 
+
+bank supervision follow from this principle. 
+
+First, the characteristics and business model of community banks must be reflected in the 
+
+supervisory program.  Detailed rules, regulations, and supervisory expectations are clearly 
+
+needed at times for overseeing the systems created in large, geographically dispersed 
+
+organizations where the distance from head office to operating branches can be very far indeed.  
+
+But in a well-run community bank where the president may oversee a relatively small staff and 
+
+can communicate and enforce expectations and standards face-to-face, some kinds of supervisory 
+
+expectations needed for larger banks may be unnecessary.  In fact, such supervision can be 
+
+burdensome, because community banks have a smaller balance sheet across which to amortize 
+
+compliance costs.  Such rules can also sometimes conflict with the flexibility that is important to 
+
+community banks meeting their customers’ needs.  For instance, community banks should 
+
+readily comply with expectations that they extend credit on safe and sound terms.  However, to 
+
+the extent that supervisors dictate the precise details of what terms are safe and sound, banks 
+
+                                                 
+most systemically important.  For more information on the LISCC, including the firms currently in the LISCC 
+
+portfolio, see the Board’s website at www.federalreserve.gov/bankinforeg/large-institution-supervision.htm.  
+
+
+
+
+- 12 - 
+
+may find it more difficult to structure a loan in a way that matches a borrower’s needs or credit 
+
+situation.  This can result in a lessening of credit availability and economic activity.  Attention to 
+
+a bank’s practices in making its relationship lending decisions, and on the performance of the 
+
+loans that have been made, may be supervisory time better spent.  
+
+A similar observation can be made with respect to consumer compliance supervision of 
+
+community banks, for which the Federal Reserve implemented a new examination program in 
+
+January 2014.21  While we have traditionally applied a risk-focused approach to consumer 
+
+compliance examinations, the new program more explicitly links examination intensity to the 
+
+individual community bank’s risk profile.  Here again, the scale of community banks is directly 
+
+relevant to supervisory choices.  Community banks do not have large, standardized systems for 
+
+dealing with many customers across a far-flung geographic footprint.  They do have much more 
+
+direct contact between customers and bank management.  The new program calls for examiners 
+
+to spend less time on low-risk compliance issues at community banks.  In addition, we revised 
+
+our consumer compliance examination frequency policy to lengthen the time between on-site 
+
+consumer compliance and Community Reinvestment Act examinations for many community 
+
+banks with less than $1 billion in total consolidated assets. 
+
+A second implication of supervisory tiering is that supervision must not inadvertently 
+
+undo the decisions made through regulatory tiering.  This point raises the oft-cited concern about 
+
+“supervisory trickle down,” whereby supervisory expectations—or even regulatory 
+
+requirements—formulated for larger banks are de facto applied in part to community banks.  The 
+
+concern has been particularly acute in the context of capital stress testing, though it is by no 
+
+                                                 
+21 Board of Governors, Division of Consumer and Community Affairs (2013), “Community Bank Risk-Focused 
+
+Consumer Compliance Supervision Program,” Consumer Affairs Letter CA 13-19 (November 18); and “Consumer 
+
+Compliance and Community Reinvestment Act (CRA) Examination Frequency Policy,” Consumer Affairs Letter 
+
+CA 13-20 (November 18). 
+
+
+
+
+- 13 - 
+
+means limited to that area.  Let me repeat here what all three federal banking agencies have 
+
+explained in the clearest possible terms, both publicly, in examiner training, and in one-on-one 
+
+discussions with bankers: that Dodd-Frank Act Stress Test (DFAST) and Comprehensive Capital 
+
+Analysis and Review requirements and expectations for enterprise-wide capital stress testing do 
+
+not apply to community banking organizations, either explicitly or implicitly.22  For example, 
+
+while it may be sensible supervisory practice to inquire of a growing $9 billion bank if it has 
+
+begun thinking about how it would meet DFAST requirements should it reach the current $10 
+
+billion statutory threshold, that bank does not need to start meeting those requirements until it 
+
+has actually crossed the threshold.  And there is simply no reason for examiners to make a $5 
+
+billion bank begin to develop capital stress testing capabilities. 
+
+Third, the relatively straightforward business model of community banks, along with 
+
+their relatively small scale and number of branches, provides the opportunity to increase the use 
+
+of off-site supervisory oversight, in accordance with informing principles of risk-based 
+
+supervision.  For example, last year we pilot-tested a voluntary program under which some 
+
+aspects of the loan review process were conducted off-site, relying on the bank’s electronic 
+
+records to assess loan quality and underwriting practices.  Overall, community bankers that were 
+
+part of the pilot expressed strong support for this approach, which reduced the time examiners 
+
+needed to spend on-site at bank offices.  As a result, we plan to continue using this approach in 
+
+future examinations at qualified banks that maintain electronic loan records and wish to 
+
+participate in this approach.  This initiative could tangibly reduce burden on community banking 
+
+organizations. 
+
+                                                 
+22 See, for example, Board of Governors, FDIC, and OCC (2012), “Statement to Clarify Supervisory Expectations 
+
+for Stress Testing by Community Banks,” May 14, 
+
+www.federalreserve.gov/newsevents/press/bcreg/20120514b.htm.  
+
+
+
+
+- 14 - 
+
+More generally, the Federal Reserve has invested substantial resources in developing 
+
+technological tools for examiners to improve the efficiency of both off-site and on-site 
+
+supervisory activities.  These tools should lead to greater consistency and more efficient, 
+
+effective, and risk-focused examinations as they assist staff in tailoring the scope of 
+
+examinations to the activities and risks at individual banks.  The automation of various parts of 
+
+the community bank examination process can also save examiners and bank management time, 
+
+as a bank can submit requested pre-examination information electronically rather than mailing 
+
+paper copies to a Federal Reserve Bank.   
+
+These observations relate to another issue that I might note in passing.  As you know, 
+
+there have been questions raised as to whether the level of required reporting is itself a regulatory 
+
+burden that might be mitigated for small banks.  The banking agencies are considering these 
+
+issues under the auspices of the Federal Financial Institutions Examination Council.  I do think 
+
+there may be some opportunities to streamline the content or frequency of reporting for smaller 
+
+banks.  However, I would observe that many of the efficiency improvements that I have 
+
+previously described were dependent on the data collected each quarter in Call Reports.  For 
+
+example, the availability of this data was a factor in raising the threshold for eligibility for the 
+
+18-month examination cycle from $250 million to $500 million.  Similarly, the regular Call 
+
+Report data for subsidiary banks buttress the case for increasing the threshold for application of 
+
+the Small Bank Holding Company Policy Statement.  Thus, there may be some tradeoffs among 
+
+various possible simplifying supervisory measures. 
+
+Conclusion 
+
+As I noted in my speech six months ago, the old unitary approach to prudential oversight 
+
+has in practical terms been supplanted by various statutory, regulatory, and supervisory 
+
+
+
+
+- 15 - 
+
+measures, particularly since the financial crisis.  Tiered regulation and supervision is a reality.  
+
+My hope is that by acknowledging and, indeed, applauding that reality, legislators and prudential 
+
+regulators can shape an oversight regime that most effectively realizes the complementary goals 
+
+of banking soundness, financial stability, and economic growth.  Post-crisis attention has 
+
+understandably been focused on too-big-to-fail issues and other sources of systemic risk.  But 
+
+now is a good time to look at the other end of the banking industry, where the contrast is 
+
+substantial.  Smaller banks present a very different set of business models.  Their risks and 
+
+vulnerabilities tend to grow from different sources.  An explicit and sustained tailoring of 
+
+regulation and supervision for community banks not only seems reasonable, it seems an 
+
+important and logical next step in financial regulatory reform. 
+

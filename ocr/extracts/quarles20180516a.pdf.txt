@@ -1,0 +1,503 @@
+
+For release on delivery 
+2:30 p.m. EDT 
+May 16, 2018 
+ 
+
+
+Trust Everyone--But Brand Your Cattle 
+Finding the Right Balance in Cross-Border Resolution 
+
+ 
+Remarks by 
+
+ 
+Randal K. Quarles 
+
+ 
+Vice Chairman for Supervision 
+
+ 
+Board of Governors of the Federal Reserve System 
+
+ 
+at  
+ 
+
+“Ring-Fencing the Global Banking System: The Shift towards Financial Regulatory 
+Protectionism”  
+
+Symposium sponsored by Harvard Law School Program on International Financial Systems  
+ 
+
+Harvard Law School 
+ 
+
+Cambridge, Massachusetts 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+May 16, 2018
+
+
+
+Thank you to Professor Scott for inviting me to join this discussion on cross-border 
+
+resolution and risks of fragmentation.  Like many of my international counterparts in the 
+
+audience, I maintain a deep commitment to cross-border banking and efficient movement of 
+
+capital and liquidity, which are important contributors to long-term economic growth.  And it is 
+
+with that commitment in mind that I have considered the topic of today’s conference: “ring-
+
+fencing,” beginning with some reflections on what the term means.  Many here use the term to 
+
+describe local capital and liquidity requirements, which are imposed ex ante on local subsidiaries 
+
+and designed to protect those entities and their creditors from losses.  The term is also used to 
+
+refer to disruptive actions taken by host regulators to seize assets in the moment of crisis.1  This 
+
+type of ring-fencing occurs suddenly and unilaterally. 
+
+Both uses of the term are associated with the risk arising from the stress or failure of a 
+
+global financial institution; however, whether ring-fencing as I first defined it--prepositioning--is 
+
+helpful or harmful in minimizing this risk depends on one’s perspective.  The views of different 
+
+stakeholders tend to vary depending on whether one is seeking to maximize efficient allocation 
+
+of resources in good times or minimize losses in stress and, importantly, whether one is a home 
+
+or host regulator.  
+
+Before the financial crisis, much of our collective orientation was on maximizing the 
+
+efficient flow of capital across the globe.  This should remain a paramount goal.  Yet in the wake 
+
+of the financial crisis, global regulators have understandably also focused on minimizing the cost 
+
+of the failure of a global financial institution by mitigating the impediments to cross-border 
+
+resolution.  The single-point-of-entry (SPOE) and bail-in concepts hold particular promise for 
+
+                                                           
+1  “Home regulator” refers to the prudential regulatory agency of the parent bank, and “host regulator” refers to the 
+prudential regulatory agency of a foreign branch or subsidiary of the parent bank. 
+
+
+- 2 - 
+ 
+
+
+most large global firms.  However, a successful SPOE resolution of a large global firm has not 
+
+yet been attempted and will require close cooperation among a large number of stakeholders, 
+
+including both home and host country regulators.  This cooperation will be based on an 
+
+understanding of separate and mutual interests, not on trust alone.  So while SPOE creates a 
+
+potentially workable framework for resolution, setting the conditions for cooperation is critical.  
+
+I grew up among the ranches of the American West, where we lived by the motto taught to me as 
+
+a young child: trust everyone, but brand your cattle.  This is a theme that will run throughout my 
+
+remarks today.   
+
+In addition to setting the stage for effective cooperation, I will focus specifically on the 
+
+type of ring-fencing that will almost certainly undermine the successful execution of an SPOE 
+
+resolution--namely the disruptive seizure of assets by host regulators in the moment of stress.  As 
+
+with other elements of our regime, I have been considering whether our current prepositioning 
+
+requirements for domestic and foreign firms operating in the United States are both minimizing 
+
+this risk and functioning in an efficient and transparent manner, and I will share some thoughts in 
+
+that regard.  Our vantage point in the United States as a large home and host regulator would 
+
+counsel that it is sensible to find a middle ground and fine tune our approach as we learn more 
+
+and global conditions evolve. 
+
+Resolution Considerations of a Home and Host Regulator 
+
+To enable cooperation and avoid a destabilizing seizure of assets by host regulators, I 
+
+would submit that all jurisdictions must find a balance of flexibility for the parent bank and 
+
+certainty for local stakeholders.  Flexibility, or the ability to allocate capital and liquidity to 
+
+different parts of the group on an as-needed basis, helps to meet unexpected demands on 
+
+resources and reduces the risk of misallocation and inefficient use of resources.  Certainty, or the 
+
+
+- 3 - 
+ 
+
+
+local prepositioning of capital and liquidity to ensure a firm can satisfy local claimants under 
+
+stressful conditions, helps to promote cooperation in the context of a cross-border resolution and 
+
+avoid incentives for more drastic action by host authorities.   
+
+One’s assessment of the optimal balance, as I alluded to earlier, can depend significantly 
+
+on where one sits in the regulatory constellation.  The home regulator, by nature, will logically 
+
+prefer flexibility in a resolution; consolidated capital and liquidity requirements are most 
+
+effective if resources can be freely allocated around the consolidated firm where and when they 
+
+are needed.  Flexibility also helps offset the uncertainty in forecasting the location within the 
+
+consolidated firm where stress may arise.  Yet I would also argue that home regulators should 
+
+recognize host jurisdictions may take action to restrict the flow of resources, or worse yet, 
+
+demand resources in the moment of crisis, even if the stress does not originally emanate from 
+
+their location.  Such actions tend to both limit the flexibility of the home regulator and 
+
+undermine cooperation in times of stress.  
+
+The host regulator, by nature, will prefer the certainty that resources will be available to 
+
+satisfy local customers and counterparties under stressful conditions.  This is particularly the case 
+
+if the risk of default or the potential local loss given default of a foreign firm is high, and the 
+
+tolerance for a government-assisted intervention for foreign banks is low.  However, the host 
+
+regulator should also recognize that it is ultimately in its interest for the SPOE resolution of the 
+
+foreign bank to be successful and, given the uncertainty of the circumstances or location of 
+
+losses that emerge in an actual stress, adequate flexibility for the parent to deploy resources 
+
+where needed is likewise in the host regulator’s interest.   
+
+A global bank has other stakeholders who have preferences regarding flexibility or 
+
+certainty and can take actions that can potentially destabilize the firm.  For instance, parent 
+
+
+- 4 - 
+ 
+
+
+company debt and equity holders may prefer less prepositioning, while local creditors and 
+
+financial market utilities may prefer more.  These other stakeholders can act in ways that can be 
+
+destabilizing.  Building a system that is transparent and is perceived by stakeholders as allocating 
+
+losses fairly is key in this regard.  
+
+Finally, I would like to note that the considerations of policymakers in determining the 
+
+right balance of flexibility and certainty may differ depending on whether the resource at issue is 
+
+capital or liquidity.  In resolution, the most important difference between capital and liquidity is 
+
+the speed with which financial stress can appear.  Liquidity needs are sudden and tend to 
+
+manifest in all areas of the organization, and the consequences of not meeting liquidity demand--
+
+an immediate default on an obligation--can be grave.  Capital needs, however, may be more 
+
+localized and slower to evolve but are foundational to the execution of an SPOE resolution.  It is 
+
+unlikely that host regulators would be comfortable cooperating in an SPOE resolution strategy 
+
+without some confidence in the viability of the entities in their jurisdictions.    
+
+U.S. Approach 
+
+Historically, the United States and the United Kingdom have been in a unique position of 
+
+having large interests as both home country and host country regulators of internationally active 
+
+banks.  Soon, the European Union is likely to assume this privilege as well.  We understand that 
+
+any requirements we impose on foreign banks operating in the United States may well be 
+
+imposed on U.S. firms operating abroad.  In addition, we are operating under a veil of ignorance, 
+
+as we don’t know whether the next firm in distress will be a U.S. firm operating globally or a 
+
+foreign firm with U.S. operations.  This provides us with strong incentives to view the risks from 
+
+both sides.  
+
+
+- 5 - 
+ 
+
+
+As the home regulator to U.S. global systemically important banking organizations (G-
+
+SIBs), we and the Federal Deposit Insurance Corporation (FDIC) have used the living wills 
+
+process to set the expectation that a firm appropriately balance prepositioned and centrally 
+
+managed resources.2  This expectation is based on the premise that the optimal balance will 
+
+depend on factors such as the firm’s structure and the host jurisdictions in which the firm 
+
+operates.  As such, the Board and the FDIC have asked U.S. G-SIBs to analyze and anticipate 
+
+capital and liquidity resources needed to ensure the continued operation of material entities in 
+
+resolution.  Regarding capital, the positioning of a U.S. G-SIB’s internal total loss absorbing 
+
+capacity (TLAC) should reflect a balance of certainty--prepositioning internal TLAC directly at 
+
+material entities--and flexibility--holding recapitalization resources at the parent, known as 
+
+contributable resources--to meet unanticipated losses at material entities.3   
+
+Regarding liquidity, the Board and FDIC expect a U.S. G-SIB to appropriately estimate 
+
+and maintain sufficient liquidity for material entities, an expectation known as Resolution 
+
+Liquidity Adequacy and Positioning, or RLAP.4  RLAP expectations are intended to be designed 
+
+so that liquidity is not “double counted” among home and host jurisdictions, to provide 
+
+transparency into the location of liquidity across the firm’s material entities, and to ensure that 
+
+liquidity can flow where needed with minimal potential disruption.  The RLAP approach is 
+
+                                                           
+2  Section 165(d) of the Dodd-Frank Wall Street Reform and Consumer Protection Act requires a large firm to 
+submit an annual resolution plan, or living will, that describes the company’s strategy for rapid and orderly 
+resolution under bankruptcy in the event of material financial distress or failure of the company.  If the Federal 
+Reserve and the FDIC determine that a firm’s resolution plan is not credible or would not facilitate an orderly 
+resolution under the U.S. Bankruptcy Code, the agencies, acting jointly, may impose more stringent prudential 
+requirements on the firm until it remediates identified deficiencies.  
+3  Guidance for 2017 section 165(d) Annual Resolution Plan Submissions by Domestic Covered Companies that 
+Submitted Resolution Plans in July 2015, available at 
+www.federalreserve.gov/newsevents/pressreleases/files/bcreg20160413a1.pdf.  
+4  Id.  
+
+
+- 6 - 
+ 
+
+
+aimed at ensuring that surpluses in one host jurisdiction generally are not relied upon to meet 
+
+deficits in another host jurisdiction, given the confusion and vulnerabilities such reliance can 
+
+cause in an actual stress.  Specifically, a firm should be able to measure the stand-alone liquidity 
+
+position of each material entity and ensure that liquidity is readily available either at the parent or 
+
+at that entity to meet any deficits.5  As with capital, firms are expected to have a balance of 
+
+prepositioned and centrally managed liquidity--specifically, by balancing the certainty associated 
+
+with holding liquidity directly at material entities against the flexibility provided by holding 
+
+high-quality liquid assets at the parent available to meet unanticipated outflows at material 
+
+entities.  
+
+As a host regulator, our approach to local capital and liquidity regulations of foreign 
+
+banks with large U.S. operations is motivated by the lessons of the recent financial crisis, where 
+
+many foreign banks operating in the United States suffered severe stress and survived only with 
+
+extraordinary support from the United States and their home country governments.  In addition 
+
+to increasing the resiliency of the U.S. operations of foreign banks, our approach also reflects 
+
+both resolution and competitive equity considerations.   
+
+From a resolution perspective, our rules seek to ensure that there are sufficient resources 
+
+in the United States today to ensure that we, as a host regulator, are well positioned to cooperate 
+
+with a home country authority in the event a firm experiences material stress or failure.  Our 
+
+rules also ensure that we do not have a strong incentive to limit flows or seek additional 
+
+resources in the moment of crisis, which could be highly destabilizing in a stress event.   
+
+                                                           
+5 The liquidity position of an entity reflects high-quality liquid assets at the material entity less stressed net outflows 
+to third parties and affiliates.   
+
+
+- 7 - 
+ 
+
+
+From a competitive equity standpoint, we believe that U.S. subsidiaries of foreign banks 
+
+should operate on a level playing field with their domestic counterparts.  This is generally 
+
+consistent with the long-standing treatment of large and complex bank and nonbank subsidiaries 
+
+around the world.   
+
+As such, our rules subject a large foreign bank to the same capital and liquidity 
+
+requirements as domestic bank holding companies by requiring the foreign bank to hold its U.S. 
+
+subsidiaries through a U.S. intermediate holding company (IHC) and imposing capital and 
+
+liquidity requirements to the IHC.  At the same time, we have adjusted our approach for the U.S. 
+
+branches of a foreign bank with a large U.S. presence in recognition that branches are subject to 
+
+a narrower set of permissible activities and operate as a direct extension of the parent bank.  For 
+
+these U.S. branches, we have imposed local liquidity requirements in light of the liquidity 
+
+vulnerabilities that many U.S. branches of foreign banks experienced in the crisis, but no 
+
+separate capital requirements.   
+
+For IHCs that are subsidiaries of foreign-owned G-SIBs, the Federal Reserve requires 
+
+such a firm to issue a minimum amount of loss-absorbing instruments to its foreign parent, 
+
+known as internal TLAC, including a minimum amount of unsecured long-term debt.6  In the 
+
+event that an IHC was experiencing significant financial distress, the internal TLAC could be 
+
+used to replenish the IHC’s equity and maintain its solvency.  The U.S. implementation of 
+
+internal TLAC is modeled on the internal TLAC framework developed by the Financial Stability 
+
+Board (FSB), which includes a calibration of the amount of loss-absorbing resources that should 
+
+                                                           
+6  12 CFR part 252, subpart G. 
+
+
+- 8 - 
+ 
+
+
+be prepositioned in a given jurisdiction.7  Specifically, the FSB contemplates that internal TLAC 
+
+requirements of a subsidiary of a foreign bank expected to be resolved through SPOE would be 
+
+calibrated at 75 to 90 percent of the external TLAC requirement that would apply to the 
+
+subsidiary if it were to be separately resolved.  In implementing the TLAC standards in the 
+
+United States, the Board calibrated the internal TLAC requirement for IHCs of foreign-owned  
+
+G-SIBs at the high end of the FSB range, at around 90 percent.  
+
+Adjustments to the Current Regime 
+
+ There are two principal points I have been making today.  The first is that some amount 
+
+of local capital and liquidity prepositioning can reduce the incentives for damaging and 
+
+unpredictable seizures of resources by local regulators during times of stress--thus actually 
+
+reducing the likelihood that improvised, beggar-thy-neighbor ring-fencing would frustrate 
+
+completion of a successful SPOE resolution in the future.  As we learned long ago out West, the 
+
+branding of cattle creates the possibility of trust.   
+
+The second point, however, is equally important: the best prepositioning structure is not 
+
+an eternal verity mathematically deducible from first principles, but it is instead a practical 
+
+balance designed to promote cooperation among humans, and any such balance is likely to be 
+
+improvable with experience, reflection, and debate.  We are interested in views from the firms 
+
+and the public on how the regimes can be improved, and we expect to invite public comment on 
+
+our living will guidance for U.S. and foreign firms in the near future.  In addition, we are 
+
+currently weighing the costs and benefits of our current approach of directing firms to determine 
+
+                                                           
+7  Financial Stability Board, “Principles on Loss-Absorbing and Recapitalisation of G-SIBs in Resolution” and 
+“Total Loss-absorbing Capacity (TLAC) Term Sheet” (November 9, 2015), available at www.fsb.org/wp-
+content/uploads/TLAC-Principles-and-Term-Sheet-for-publication-final.pdf. 
+
+
+- 9 - 
+ 
+
+
+the appropriate amount of prepositioned capital and liquidity.  We are also considering whether 
+
+formalizing resolution capital and liquidity requirements through a rulemaking process would 
+
+improve the predictability and transparency of our approach. 
+
+We continue to believe that the IHC and attendant requirements are appropriate for 
+
+foreign banks with large U.S. operations.  However, in light of our experience with these 
+
+structures, I believe we should consider whether the internal TLAC calibration for IHCs could be 
+
+adjusted to reflect the practice of other regulators without adversely affecting resolvability and 
+
+U.S. financial stability.  The current calibration is at the top end of the scale set forth by the FSB, 
+
+and willingness by the United States to reconsider its calibration may prompt other jurisdictions 
+
+to do the same, which could better the prospects of successful resolution for both foreign G-SIBs 
+
+operating in the United States, and for U.S. G-SIBs operating abroad.  Alternatively, it may be 
+
+possible to streamline the elements of our resolution loss absorbency regime, which include both 
+
+TLAC and long-term debt requirements.  I will be recommending to my colleagues that we look 
+
+closely at these possibilities in the coming weeks and seek comment on ways to further improve 
+
+this framework. 
+
+Conclusion 
+
+We are committed to working with other jurisdictions to continue to build the foundation 
+
+of the SPOE resolution framework.  In addition to finding the appropriate balance of flexibility 
+
+and certainty that I have discussed, we continue to advocate for increasing the standardization in 
+
+the global implementation of the regulatory capital rules, improving host supervisors’ 
+
+transparency into the global liquidity and capital positions of a G-SIB on a consolidated and 
+
+deconsolidated basis, and addressing impediments to a successful SPOE resolution.  As with all 
+
+regulations, we will be open to considering adjustments that would improve transparency and 
+
+
+- 10 - 
+ 
+
+
+efficiency and will continue to reassess our regime as we make advancements in developing the 
+
+cross-border resolution framework. 
+

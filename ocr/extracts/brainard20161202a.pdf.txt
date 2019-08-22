@@ -1,0 +1,613 @@
+
+For release on delivery 
+8:45 am EST 
+December 2, 2016 
+ 
+
+
+The Opportunities and Challenges of Fintech 
+ 
+ 
+
+Remarks by 
+ 
+
+Lael Brainard 
+ 
+
+Member 
+ 
+
+Board of Governors of the Federal Reserve System 
+ 
+
+at the 
+ 
+
+Conference on Financial Innovation at the Board of Governors of the  
+Federal Reserve System 
+
+ 
+Washington, D.C. 
+
+
+December 2, 2016 
+ 
+
+
+
+Introduction 
+
+On behalf of the Board of Governors, I would like to welcome you to our 
+
+conference on emerging financial technologies, or fintech.  I’d like to begin by 
+
+remembering our Federal Reserve colleague Teresa Curran--executive vice president and 
+
+director of Supervision at the Federal Reserve Bank of San Francisco--who recently 
+
+passed away after a long illness.  Teresa’s leadership on fintech was one of her many 
+
+extraordinary contributions to the System.  With her characteristic enthusiasm, Teresa 
+
+helped us prioritize this topic early on and had a strong influence in helping shape our 
+
+work program--with an emphasis on assessing the opportunities and challenges of fintech 
+
+in a balanced way.  We already miss her wise counsel here.  I’m sure Teresa would have 
+
+appreciated this conference’s gathering of academics, industry participants, and 
+
+policymakers to exchange information and discuss current research related to financial 
+
+innovation.   
+
+Why Is Fintech Important? 
+
+In my remarks today, I’d like to share a few thoughts about emerging financial 
+
+technologies and their relevance to our work.1  Fintech has the potential to transform the 
+
+way that financial services are delivered and designed as well as the underlying processes 
+
+of payments, clearing, and settlement.2  The past few years have seen a proliferation of 
+
+new digitally enabled financial products and services, in addition to new processes and 
+
+platforms.  Just as smartphones revolutionized the way in which we interact with one 
+
+                                                 
+1 These remarks represent my own views, which do not necessarily represent those of the Federal Reserve 
+Board. 
+2 For a review of the potential of distributed ledger technologies to change payment, settlement, and 
+clearance processes, see the forthcoming Federal Reserve Board Finance and Economics Discussion Series 
+paper titled “Distributed Ledger Technology in Payments, Clearing and Settlement.” 
+
+
+ - 2 - 
+
+another to communicate and share information, fintech may impact nearly every aspect of 
+
+how we interact with each other financially, from payments and credit to savings and 
+
+financial planning.  In our continuously connected, on-demand world, consumers, 
+
+businesses, and financial institutions are all eager to find new ways to engage in financial 
+
+transactions that are more convenient, timely, secure, and efficient.  
+
+In many cases, fintech puts financial change at consumers’ fingertips--literally.  
+
+Today’s consumers, particularly millennials, are accustomed to having a wide range of 
+
+applications, options, and information immediately accessible to them.  Almost every 
+
+type of consumer transaction--ordering groceries, downloading a movie, buying furniture, 
+
+or arranging childcare, to name a few--can be done on a mobile device, and there are 
+
+often multiple different applications that consumers can choose for each of these tasks 
+
+based on their  preferences.  It seems inevitable for this kind of convenience, immediacy, 
+
+and customization to extend to financial services.  Indeed, according to the Federal 
+
+Reserve Board’s most recent survey of mobile financial services, fully two-thirds of 
+
+consumers between the ages of 18 and 29 having a mobile phone and a bank account use 
+
+mobile banking.3 
+
+New fintech platforms are giving consumers and small businesses more real-time 
+
+control over their finances.  Once broad adoption is achieved, it is technologically quite 
+
+simple to conduct cashless person-to-person fund transfers, enabling, among other things, 
+
+the splitting of a check after a meal out with friends or the sending of remittances quickly 
+
+and cheaply to friends or family in other countries.  Financial management tools are 
+
+                                                 
+3 Board of Governors of the Federal Reserve, Consumers and Mobile Financial Services 2016 
+(Washington: Board of Governors), www.federalreserve.gov/econresdata/consumers-and-mobile-financial-
+services-report-201603.pdf. 
+
+
+ - 3 - 
+
+automating savings decisions based on what consumers can afford, and they are helping 
+
+consumers set financial goals and providing feedback on expenditures that are 
+
+inconsistent with those goals.  In some cases, fintech applications are automatically 
+
+transferring spare account balances into savings, based on monthly spending and income 
+
+patterns, effectively making savings the default choice.  Other applications are providing 
+
+consumers with more real-time access to earnings as they are accrued rather than waiting 
+
+for their regular payday.  This service may be particularly valuable to the nearly 50 
+
+percent of adults with extremely limited liquid savings.4  It is too early to know what the 
+
+overall impact of these innovations will be, but they offer the potential to empower 
+
+consumers to better manage cash flow to reduce the need for more expensive credit 
+
+products to cover short-term cash needs.5 
+
+One particularly promising aspect of fintech is the potential to expand access to 
+
+credit and other financial services for consumers and small businesses.  By reducing loan 
+
+processing and underwriting costs, online origination platforms may enable financial 
+
+services providers to more cost effectively offer smaller-balance loans to households and 
+
+small businesses than had previously been feasible.6  In addition, broader analysis of data 
+
+may allow lenders to better assess the creditworthiness of potential borrowers, facilitating 
+
+                                                 
+4 The Federal Reserve Board’s Survey of Household Economics and Decisionmaking finds that 46 percent 
+of households report that they would need to borrow money or sell something in order to pay an 
+unexpected expense of $400.  The report of survey findings is available on the Board’s website at 
+www.federalreserve.gov/communitydev/shed.htm. 
+5 Robo-advisors are making investing and retirement planning cheaper and more accessible, filling a 
+particular need as the coverage of employer-provided retirement plans has declined.  According to Insider 
+Newsletter published by Willis Towers Watson (vol. 26, no. 2, February 2016), only 20 percent of Fortune 
+500 companies offered a defined-benefit plan to salaried new hires in 2015, down from 59 percent among 
+the same employers in 1998.   
+6 For more information on fintech and small business lending, see Karen Gordon Mills and Brayden 
+McCarthy, “The State of Small Business Lending: Innovation and Technology and the Implications for 
+Regulation,” Harvard Business School Working Paper (2016), 
+www.hbs.edu/faculty/Publication%20Files/17-042_30393d52-3c61-41cb-a78a-ebbe3e040e55.pdf.  
+
+
+ - 4 - 
+
+the responsible provision of loans to some individuals and firms that otherwise would not 
+
+have access to such credit.  In recent years, some innovative Community Development 
+
+Financial Institutions (CDFIs) have developed partnerships with online alternative 
+
+lenders, with the goal of expanding credit access to underserved small businesses.7   
+
+The challenge will be to foster socially beneficial innovation that responsibly 
+
+expands access to credit for underserved consumers and small businesses, and those who 
+
+otherwise would qualify only for high-cost alternatives.  It would be a lost opportunity if, 
+
+instead of expanding access in a socially beneficial way, some fintech products merely 
+
+provided a vehicle to market high-cost loans to the underserved, or resulted in the digital 
+
+equivalent of redlining, exacerbating rather than ameliorating financial access inequities.   
+
+We are also monitoring a growing fintech segment called “regtech” that aims to 
+
+help banks achieve regulatory compliance more effectively.  Regtech firms are designing 
+
+new tools to assist banks and other financial institutions in addressing regulatory 
+
+compliance issues ranging from onboarding new customers to consumer protection to 
+
+payments and governance.  Many of the current solutions are focused on Bank Secrecy 
+
+Act (BSA) regulatory requirements, including know-your-customer (KYC) and 
+
+suspicious activity reporting requirements.  The solutions utilize new technologies and 
+
+data-analytic techniques that may reduce the costs and time needed for banks to identify 
+
+and assess customers’ money-laundering and terrorist-financing risks.  However, it is too 
+
+                                                 
+7 Most recently, Regions Bank announced a partnership with Fundation, an online lender, and TruFund, a 
+CDFI, to provide small-dollar loans to underserved small businesses (for more information, see 
+http://ir.regions.com/releasedetail.cfm?ReleaseID=989068).  In 2015, Lending Club and the Opportunity 
+Fund, a California-based CDFI, announced a partnership intended to provide $10 million in loans over a 
+period of five months to 400 small businesses in underserved areas of California (for more information, see  
+www.opportunityfund.org/media/blog/clinton-announces-partnership-between-opportunity-fund-and-
+lending-club). 
+
+
+ - 5 - 
+
+early to tell the degree to which innovative approaches to customer due diligence, such as 
+
+KYC utilities, will deliver efficiency gains such as those outlined in the recent Bank for 
+
+International Settlements Committee on Payments and Market Infrastructures report on 
+
+correspondent banking.8 
+
+Ensuring Risks Are Managed and Consumers Are Protected 
+
+While financial innovation holds promise, it is crucial that financial firms, 
+
+customers, regulators, and other stakeholders understand and mitigate associated risks.  
+
+There is a tension between the lightning pace of development of new products and 
+
+services being brought to market--sometimes by firms that are new or have not 
+
+historically specialized in consumer finance--and the duty to ensure that important risks 
+
+around financial services and payments are addressed.  Firms need to ensure that they are 
+
+appropriately controlling and mitigating both risks that are unique to fintech as well as 
+
+risks that exist independently of new technologies.   
+
+For example, some fintech firms are exploring the use of nontraditional data in 
+
+underwriting and pricing credit products.  While nontraditional data may have the 
+
+potential to help evaluate consumers who lack credit histories, some data may raise 
+
+consumer protection concerns.  Nontraditional data, such as the level of education and 
+
+social media usage, may not necessarily have a broadly agreed upon or empirically 
+
+established nexus with creditworthiness and may be correlated with characteristics 
+
+protected by fair lending laws.  To the extent that the use of this type of data could result 
+
+in unfairly disadvantaging some groups of consumers, it requires careful review to ensure 
+
+legal compliance.  In addition, while consumers generally have some sense of how their 
+
+                                                 
+8 See www.bis.org/cpmi/publ/d147.pdf. 
+
+
+ - 6 - 
+
+financial behavior affects their traditional credit scores, alternative credit scoring methods 
+
+present new challenges that could raise questions of fairness and transparency.  It may 
+
+not always be readily apparent to consumers, or even to regulators, what specific 
+
+information is utilized by certain alternative credit scoring systems, how such use impacts 
+
+a consumer’s ability to secure a loan or its pricing, and what behavioral changes 
+
+consumers might take to improve their credit access and pricing. 
+
+Similarly, fintech innovations that rely on data sharing may create security, 
+
+privacy, and data-ownership risks, even as they provide increased convenience to 
+
+consumers.  Recent examples of large-scale fraud and cybersecurity breaches have 
+
+illustrated the significance of possible security risks.  As the data sets that financial 
+
+institutions utilize expand beyond traditional consumer credit histories, data privacy will 
+
+become a growing concern, as will data ownership and whether or not the consumer has 
+
+any say over how these data are used and shared or whether he or she can review it for 
+
+accuracy.  The Consumer Financial Protection Bureau recently issued a request for 
+
+information to better understand the benefits and risks associated with new financial services 
+
+that rely on access to consumer financial accounts and account-related information.9 
+
+In addition to the risks I have outlined that are specific to new financial 
+
+technologies, firms also must control for risks that have always been present, even in 
+
+brick-and-mortar financial institutions.  For example, risks around the BSA and Anti-
+
+Money Laundering rules cut across all segments and all portfolios.  Similarly, firms must 
+
+                                                 
+9 See 
+http://files.consumerfinance.gov/f/documents/112016_cfpb_Request_for_Information_Regarding_Consum
+er_Access_to_Financial_Records.pdf.  The Consumer Financial Protection Bureau believes that 
+“consumers should be able to use their financial records and account information and securely share access 
+in an electronic format.” 
+
+
+ - 7 - 
+
+monitor credit and liquidity risks of loans acquired or processed via fintech platforms, 
+
+especially given that these products have not been tested over an economic cycle.   
+
+Furthermore, as a general rule, the introduction of new products or services 
+
+typically involves heightened risks as a financial institution enters into new areas with 
+
+which it may not have experience or that may not be consistent with its overall business 
+
+strategy and risk tolerance.  Banks collaborating with fintech firms must control for the 
+
+risks associated with the associated new products, services, and third-party relationships. 
+
+When incorporating innovation that is consistent with a bank’s goals and risk tolerance, 
+
+bankers will need to consider which model of engagement is most appropriate in light of 
+
+their business model and risk-management infrastructure, manage any outsourced 
+
+relationships consistent with supervisory expectations,10 ensure that regulatory 
+
+compliance considerations are included in the development of new products and services, 
+
+and have strong fallback plans in place to limit the risks associated with products and 
+
+partners that may not survive.  
+
+With the growing number of partnerships between banks and fintech companies, 
+
+we often receive questions about the applicability of our vendor risk-management 
+
+guidance.  We are actively reviewing our guidance to determine whether any adjustments 
+
+or clarifications may become appropriate in the context of these arrangements.  We hear 
+
+concerns from community bankers in particular about their internal capacity to undertake 
+
+the requisite due diligence and ongoing vendor management on their own, especially with 
+
+much larger vendors, and questions about whether the interagency service providers 
+
+supervision program might be relevant in this context.  We are thinking about whether 
+
+                                                 
+10 See Supervision and Regulation Letter 13-19/Consumer Affairs Letter 13-21, “Guidance on Managing 
+Outsourcing Risk,” www.federalreserve.gov/bankinforeg/srletters/sr1319.htm.  
+
+
+ - 8 - 
+
+changes brought about by fintech and fintech partnerships may warrant consideration of 
+
+any changes to the interagency supervision program for service providers. 
+
+Regulatory Engagement 
+
+I believe that the Federal Reserve is well-positioned to help shape this innovation 
+
+as it develops, and it is important that we be clear about our expectations and mindful of 
+
+the possible effects of our actions.  The policy, regulatory, and supervisory decisions 
+
+made by the Federal Reserve and other financial regulators can impact the ways in which 
+
+new financial technologies are developed and implemented, and ultimately how effective 
+
+they are.  It is critical that fintech firms and financial institutions comply with all 
+
+applicable legal protections and obligations.  At the same time, it is important that 
+
+regulators and supervisors not impose undue burdens on financial innovations that would 
+
+provide broad social benefits responsibly.  An unduly rigid regulatory or supervisory 
+
+posture could lead to unintended consequences, such as the movement of innovations 
+
+outside of the regulated banking industry, potentially creating greater risks and less 
+
+transparency. 
+
+The rapid pace of change and the large number of actors--both banks and 
+
+nonbanks--in fintech raise questions about how to effectively conduct our regulatory and 
+
+supervisory activities.  In one sense, regulators’ approach to fintech should be no 
+
+different than for conventional financial products or services.  The same basic principles 
+
+regarding fairness and transparency should apply regardless of whether a consumer 
+
+obtains a product through a brick-and-mortar bank branch or an online portal using a 
+
+smartphone.  Indeed, the same consumer laws and regulations that apply to products 
+
+offered by banks generally apply to nonbank fintech firms as well, even though their 
+
+
+ - 9 - 
+
+business models may differ.  However, the application of laws and regulations that were 
+
+designed based on traditional financial products and delivery channels may give rise to 
+
+complex or novel issues when applied to new products or new delivery channels.  As a 
+
+result, we are committed to regularly engage with firms and the technology to develop a 
+
+shared understanding of these issues as they evolve. 
+
+Fundamentally, financial institutions themselves are responsible for providing 
+
+innovative financial services safely.  Financial services firms must pair technological 
+
+know-how and innovative services with a strong compliance culture and a thorough 
+
+knowledge of the important legal and compliance guardrails.  While “run fast and break 
+
+things” may be a popular mantra in the technology space, it is ill-suited to an arena that 
+
+depends on trust and confidence.  New entrants need to understand that the financial 
+
+arena is a carefully regulated space with a compelling rationale underlying the various 
+
+rules at play, even if these are likely to evolve over time.  There is more at stake in the 
+
+realm of financial services than in some other areas of technological innovation.  There 
+
+are more serious and lasting consequences for a consumer who gets, for instance, an 
+
+unsustainable loan on his or her smartphone than for a consumer who downloads the 
+
+wrong movie or listens to a bad podcast.  At the same time, regulators may need to revisit 
+
+processes designed for a brick-and-mortar world when approaching digital finance.  To 
+
+ensure that fintech realizes its positive potential, regulators and firms alike should take a 
+
+long view, with thoughtful engagement on both sides. 
+
+When we look back at times of financial crisis or missteps, we frequently find that 
+
+a key cause was elevating short-term profitability over long-term sustainability and 
+
+consumer welfare.  It was not long ago that so-called exotic mortgages originally 
+
+
+ - 10 - 
+
+designed for niche borrowers became increasingly marketed to low- and moderate-
+
+income borrowers who could not sustain them, ultimately with disastrous results.  In 
+
+addition to the financial consequences for individual consumers, the drive for 
+
+unsustainable profit can contribute to distrust in the financial system, which is 
+
+detrimental to the broader economy.  It is critical that firms providing financial services 
+
+consider the long-term social benefit of the products and services they offer.  Concerns 
+
+regarding long-term sustainability are magnified in situations where banks may bear 
+
+credit or other longer-term operational risks related to products delivered by a fintech 
+
+firm.  One useful question to ask is whether a product’s success depends on consumers 
+
+making ill-informed choices; if so, or if the product otherwise fails to provide sufficient 
+
+value to consumers, it is not going to be seen as responsible and may not prove 
+
+sustainable over time.   
+
+The key challenge for regulatory agencies is to create the right balance. 
+
+Ultimately, regulators should be prepared to appropriately tailor regulatory or supervisory 
+
+expectations, to the extent possible within our respective authorities, to facilitate fintech 
+
+innovations that produce benefits for consumers, businesses, and the financial system.  At 
+
+the same time, any contemplated adjustments must also appropriately manage 
+
+corresponding risks.    
+
+Federal Reserve Fintech Engagement 
+
+To better understand technological changes in lending, payments, and other areas, 
+
+the Federal Reserve has been engaging with a wide range of market participants to 
+
+understand barriers to socially beneficial innovations.  Our unique structure, with Board 
+
+and Reserve Bank staff in over 30 locations, allows us to tap expertise in markets and 
+
+
+ - 11 - 
+
+innovation centers across the country to help establish channels of communication, 
+
+including with nonbank participants with whom we may not otherwise have regular 
+
+contact. 
+
+ The Federal Reserve also engages in ongoing communication with other 
+
+regulators to promote, to the greatest extent possible, consistency in approaches and 
+
+alignment of supervisory requirements.  Exchanging ideas and discussing fintech 
+
+innovations with other regulators is critical to understanding and vetting risks and, where 
+
+appropriate, reaching consistent views regarding the application of laws, regulations, or 
+
+guidance.  
+
+Finally, we recognize the value of technical expertise.  With fintech, as with any 
+
+other emerging financial product or service, the Federal Reserve is learning as much as 
+
+we can to ensure that we have a robust understanding of the technologies and activities in 
+
+which banks and other financial firms are engaging, and to inform the development of 
+
+our policy and supervisory approaches.  To that end, the Federal Reserve Board has 
+
+established a multidisciplinary working group that is engaged in a 360-degree analysis of 
+
+fintech innovation.  We are bringing together the best thinking across the Federal Reserve 
+
+System, spanning key areas of responsibility--from supervision to community 
+
+development, from financial stability to payments--to assess the impact of technological 
+
+development on the Federal Reserve’s responsibilities.  As part of this effort, Federal 
+
+Reserve senior officials and staff have been closely watching developments in fintech, 
+
+evaluating its impact on financial services delivery, and assessing the policy and 
+
+supervisory implications in this arena.   
+
+
+
+
+ - 12 - 
+
+Conclusion 
+
+Current developments in the digitization of finance, including the establishment 
+
+of new business models, are important and deserving of serious engagement on the part 
+
+of policymakers and regulators.  As policymakers, we want to facilitate innovation where 
+
+it has the potential to yield broad social benefit, while ensuring that risks are thoroughly 
+
+managed.  In safeguarding the public interest, the first line of analysis and protection will 
+
+always rest with the market participants closest to the new technologies and product 
+
+innovations and to the organizations that consider adopting them.  But regulators also 
+
+should seek to analyze the implications of technology developments through constructive 
+
+and timely engagement.  We should be attentive to the potential social benefits of these 
+
+new technologies, prepared to make the necessary regulatory adjustments if their safety 
+
+and integrity are proven and their potential benefits found to be in the public interest, and 
+
+vigilant to ensure risks are well understood and managed. 
+

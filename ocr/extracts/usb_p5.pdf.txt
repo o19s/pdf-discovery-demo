@@ -1,0 +1,3141 @@
+
+Compliance
+Introduction
+Effective Date July 1997 Section 5000.1
+
+Head office management should develop adequate
+policies and procedures to ensure that the branch
+is in compliance with all applicable U.S. federal
+and state laws and regulations, including report-
+ing and special supervisory requirements.
+
+To the extent possible given the size, risk
+profile and organizational structure of the branch,
+these responsibilities should be vested in a
+branch official or compliance officer whose
+function is separate from line management. The
+compliance officer should be qualified and
+familiar with U.S. and state laws and regulations.
+
+Branch management and the compliance offi-
+cer should ensure that all appropriate personnel
+
+are properly trained in meeting regulatory
+requirements on an ongoing basis. In addition,
+the training program should ensure that branch
+personnel are informed of U.S. and state laws
+and regulations to which the branch may be
+subject.
+
+The scope of the branch’s audit function also
+should ensure that the branch is meeting all
+applicable regulatory requirements. The head
+office should ensure that the audit team is
+qualified to audit its U.S. branch operations for
+compliance with U.S. and state laws, regula-
+tions, and regulatory reporting requirements.
+
+Branch and Agency Examination Manual September 1997
+Page 1
+
+
+Financial Recordkeeping and Reporting Regulations
+Effective date July 1997 Section 5010.1
+
+Information, plus the examination objectives
+and examination procedures relating to this
+section are available in the Federal Reserve
+
+Board’s Bank Secrecy Act Manual and other
+similar examination material of the other federal
+and state banking agencies.
+
+Branch and Agency Examination Manual September 1997
+Page 1
+
+
+Asset Maintenance
+Effective date July 1997 Section 5020.1
+
+Asset maintenance was originally developed as
+a method of ensuring that, in the event of a
+liquidation, sufficient assets would be available
+to effect repayment to depositors and liability
+holders. Although asset maintenance is not a
+capital equivalent, branches under asset mainte-
+nance have some of the characteristics of a
+separately capitalized entity. In fact, in the early
+stages of asset maintenance, ratios of 108 per-
+cent and 105 percent were established to be
+roughly equivalent to the then-prevailing capital
+ratios of U.S. domestic banks.
+
+Generally, asset maintenance is defined as the
+maintenance of eligible assets in a branch in a
+particular state, covering a specified percent-
+age of a branch’s third party liabilities. The
+asset maintenance calculation is determined by
+dividing eligible assets by liabilities requiring
+cover.
+
+Asset maintenance is generally defined and
+enforced by the licensing agency. Examiners
+should consult the appropriate regulation of the
+appropriate agency to define and calculate the
+ratio. Asset maintenance may also be imposed
+by regulators through the issuance of supervi-
+sory action. The supervisory imposition of asset
+maintenance has significant effects on the branch
+depending upon the percentage imposed. When
+imposed at levels above 100 percent, a branch
+must maintain a net due to related parties
+position at all times. This effectively prevents
+the branch from providing net funding to the
+head office or other related offices. Asset main-
+tenance levels below 100 percent would have
+the effect of limiting the net due from related
+parties position.
+
+Asset maintenance requirements will differ by
+state. Some states do not require coverage for all
+third party liabilities booked at the branch (e.g.
+IBF deposits). Therefore, even though a branch
+meets the state’s asset maintenance require-
+ments, the branch may still be in a net due from
+affiliates position. In the event of a financially
+weak FBO, regulators may consider expanding
+the asset maintenance requirements to further
+define eligible assets and liabilities to ensure
+adequate coverage of all third party deposits.
+
+State licensing authorities may impose asset
+maintenance as a requirement of licensure within
+that state. The FDIC imposes asset maintenance
+as a requirement for receiving deposit insurance.
+
+Asset maintenance may also be imposed at
+individual branches or FBO offices as a form of
+
+supervisory action for the U.S. operations of a
+foreign banking organization. This action may
+relate to supervisory concerns raised in deter-
+mining the financial strength of the FBO, includ-
+ing circumstances in the home country that
+could adversely affect the FBO’s U.S. opera-
+tions. Asset maintenance, in these instances,
+may be necessary, even though the U.S. opera-
+tions are in satisfactory condition.
+
+As a result of statute, regulation, or supervi-
+sory agreement, special requirements and guide-
+lines for determining the amount of eligible
+assets and calculating the asset maintenance
+percentage may be required by the appropriate
+regulatory agency. These requirements will
+necessitate the maintenance of specific records
+at the branch. A branch under asset maintenance
+will also be required to periodically report asset
+maintenance compliance to the appropriate regu-
+lators. Examiners should determine whether the
+daily record and the monthly report for asset
+maintenance are appropriately maintained and
+reported.
+
+ASSET MAINTENANCE
+CALCULATION
+
+The first part of the asset maintenance calcula-
+tion requires a determination of eligible assets.
+To determine eligible assets, the examiner
+deducts the ineligible assets from the gross asset
+position of the branch. Ineligible assets fall
+into two categories: those that are Ineligible
+by Statute, and those that are Ineligible by
+Examiner.
+
+Assets Ineligible By Statute
+
+Generally, assets that are Ineligible By Statute
+might include the following:
+
+• Any type of asset not specifically identified as
+eligible by statute or regulation by the appro-
+priate licensing agency;
+
+• Any other asset that fails to meet specific
+eligibility standards contained in the statute or
+regulation by the appropriate licensing agency.
+
+The specific assets that are Ineligible By
+Statute will vary according to the requirements
+
+Branch and Agency Examination Manual September 1997
+Page 1
+
+
+contained in federal and state laws and regula-
+tions. The following is representative of some of
+the requirements that may be imposed. Any
+asset for which:
+
+• Evidence of indebtedness (original signed note
+or loan agreement) is not held in the United
+States or the state within which the branch is
+licensed;
+
+• Evidence of indebtedness is in transit within
+the FBO system, either outside the United
+States or outside the state in which the branch
+is licensed;
+
+• Repayment is to be made in funds not freely
+convertible to U.S. dollars;
+
+• Reclassification to an expense category is
+pending.
+
+In addition requirements may be imposed on:
+
+• Types of securities and depreciation;
+• The documentation and collection of loans;
+• The type, location, holding, and depreciation
+
+of fixed assets;
+• All amounts due from the head office and
+
+other depository and nondepository offices
+and affiliates, including income accrued but
+uncollected on such amounts.
+
+The balance of any asset disallowed at the
+preceding examination will be treated as ineli-
+gible until the underlying reasons for the disal-
+lowance have been removed.
+
+Assets Ineligible By Examiner
+
+If an examiner, during the course of an exami-
+nation, determines that the value of any nonmar-
+ketable bond, note, debenture, or any other asset
+would preclude complete repayment, the exam-
+iner may consider that asset ineligible for asset
+maintenance purposes. The portion considered
+unrecoverable is disallowed.
+
+Disallowances of classified assets will differ
+based on the criteria or guidelines used by the
+various regulatory agencies. The following for-
+mula is representative of some of the disallow-
+ances that may be used: Loss—100 percent of
+book value; Doubtful—50 percent of book value;
+Substandard—20 percent of book value, and
+Value Impaired—100 percent of the amount
+equivalent to the Allocated Transfer Risk
+Reserve, plus 20 percent of any residual expo-
+
+sure. In addition, all accrued interest on assets
+subject to a Loss, Doubtful, Substandard, or
+Value Impaired classification is usually
+disallowed.
+
+An examiner may also disallow any loan or
+other credit exposure that is not supported by
+sufficient credit information (in English) to per-
+mit an evaluation of the creditworthiness or
+other risks inherent in the asset. Examiners are
+to exercise prudence in disallowing assets for
+this reason.
+
+Situations may arise where an asset can be
+disallowed for both statutory and discretionary
+reasons. For example, a loan may be disallowed
+by statute because the evidence of indebtedness
+is not held in the state where the branch is
+located. Additionally, the loan may be classified
+Substandard, Doubtful, Loss, or Value Impaired.
+In this case, the branch (for periodic reporting to
+the regulators) and/or the examiner can disallow
+the asset by statute and classify the loan. Of
+course, no further disallowance is made on the
+basis of the asset classification.
+
+Where an asset is controlled jointly by the
+branch and a related party, it is necessary to
+determine whether the branch has independent
+control ( i.e. the ability to withdraw the asset
+without a cosignatory). If so, the item should not
+be disallowed simply because another office
+retains signing authority.
+
+By definition, a certificate-less security (those
+represented by advises or confirmations) cannot
+be in the owner’s possession. Nevertheless, this
+type of security may be an eligible asset, even if
+the depository is located outside the state where
+the branch is located, provided that both of the
+following conditions are met: (1) The security is
+held by the depository in the name of the branch
+or in the name of an unrelated broker, agent, or
+custodian (the exchange member) who is located
+in the state where the branch is licensed; and
+(2) The asset is properly shown on the branch’s
+records so as to permit the appropriate regula-
+tors to freeze the account immediately upon
+taking possession of the branch.
+
+Reserves maintained at the local Federal
+Reserve Bank, pursuant to Regulation D, and
+assets pledged to the FDIC, in connection with
+deposit insurance regulations, are eligible assets.
+Securities held by the Federal Reserve Bank as
+collateral against possible borrowing are eligible
+on the same basis as if held by the branch. The
+amount of any borrowing must be deducted
+from the value determined.
+
+5020.1 Asset Maintenance
+
+September 1997 Branch and Agency Examination Manual
+Page 2
+
+
+Liabilities Requiring Coverage
+
+Once eligible assets are determined, the asset
+maintenance computation requires a determina-
+tion of liabilities requiring cover. Generally,
+liabilities requiring cover include all liabilities
+of a branch and may even include certain
+contingent liabilities, as determined by the
+appropriate regulators. The liabilities will be
+adjusted to exclude the following:
+
+• Amounts due and other liabilities to other
+offices, agencies, branches, and affiliates of
+the FBO, including unremitted profits;
+
+• Reserves for loan losses and other
+contingencies;
+
+• Any other liability, as specifically required by
+statute, regulation, or the appropriate regulators.
+
+Asset Maintenance 5020.1
+
+Branch and Agency Examination Manual September 1997
+Page 3
+
+
+Asset Maintenance
+Examination Objectives
+Effective date July 1997 Section 5020.2
+
+1. To determine if internal policies, procedures,
+and guidelines regarding asset maintenance
+are adequate.
+
+2. To determine that branch officers and
+employees are operating in conformance with
+established guidelines.
+
+3. To determine compliance with laws and regu-
+lations or supervisory requirements.
+
+4. To evaluate the accuracy of periodic asset
+maintenance reports submitted to the appro-
+priate regulators.
+
+5. To evaluate specific books and records that
+may be required for the continual monitoring
+of asset maintenance.
+
+6. To determine whether the internal audit func-
+tion adequately reviews asset maintenance
+compilation, review, and reporting.
+
+7. To recommend corrective action when poli-
+cies, practices, procedures, or internal con-
+trols are deficient or when violations of laws
+or regulations have been noted.
+
+Branch and Agency Examination Manual September 1997
+Page 1
+
+
+Asset Maintenance
+Examination Procedures
+Effective date July 1997 Section 5020.3
+
+The following procedures will determine if the
+branch under examination has established satis-
+factory periodic reporting, operating standards,
+and audit procedures regarding asset mainte-
+nance. Examiner discretion is required in apply-
+ing these procedures.
+
+1. Review applicable statutes, regulations,
+and/or supervisory requirements for asset
+maintenance.
+
+2. Test compliance with policies, practices,
+procedures, and internal controls for appro-
+priate asset maintenance monitoring.
+
+3. Obtain the most recent asset maintenance
+report filed with the regulators and deter-
+mine its accuracy. If necessary, review pre-
+vious submissions to determine any trends
+in reporting errors.
+
+4. Verify that eligible assets, as included in the
+filed reports, are correct. Ensure that, in
+addition to credits, categories such as due
+from related parties, securities, fixed assets,
+and other assets have been appropriately
+adjusted.
+
+5. Test check the asset maintenance computa-
+tion for accuracy with statutory and super-
+visory requirements. Ensure that liabilities
+requiring cover have been appropriately
+adjusted.
+
+6. Review assets considered ineligible by the
+branch for appropriateness and compliance
+with laws, regulations, and supervisory
+requirements.
+
+7. Determine that assets purchased by the
+branch are properly reflected at fair market
+value. While fair market value may be
+difficult to determine, it should, at a mini-
+mum, reflect both the rate of return being
+earned on such assets and an appropriate
+risk premium. Determine that appropriate
+write-offs are taken on any assets sold by
+the branch at less than book value.
+
+8. Review credits acquired from another lend-
+ing institution as a result of a purchase,
+participation, or asset swap since the previ-
+ous examination, to determine that the
+
+branch has appropriate agreements evidenc-
+ing the acquisition and credit documentation.
+
+9. Review credit classifications for appropriate
+inclusion in asset maintenance reports.
+
+10. Review credits that have been classified
+and/or are considered as problems by man-
+agement. If credits have been internally
+classified, test whether they and their asso-
+ciated accrued interest receivable have been
+appropriately removed from eligible assets.
+
+11. Determine whether any of the loans trans-
+ferred were nonperforming at the time of
+transfer, classified at the previous examina-
+tion, or, for any other reason, were consid-
+ered to be of questionable quality.
+
+12. Scan the delinquency lists submitted to the
+head office to determine that reports are
+sufficiently detailed to evaluate risk factors
+that could possibly identify credits that
+might be considered Ineligible By Examiner.
+
+13. Compile a listing of all loans not supported
+by current and satisfactory credit informa-
+tion, collateral documentation, and evi-
+dences of indebtedness.
+
+14. Ascertain whether loans are purchased on a
+recourse basis and are sold on a nonrecourse
+basis.
+
+15. Verify that asset maintenance monitoring
+and reports filed with appropriate regulators
+are reviewed for compliance by branch
+management and that internal controls are
+adequate.
+
+16. Organize and prepare a listing of violations
+of asset maintenance laws, regulations, and
+supervisory requirements.
+
+17. Prepare the following examination report
+pages:
+• Ineligible Assets
+• Asset Maintenance and Pledge Schedule
+
+18. Prepare comments for the Compliance and
+Violation of Laws and Regulations pages, if
+necessary.
+
+19. Prepare a complete set of workpapers to
+support conclusions and examination report
+pages and discuss all material findings with
+management.
+
+Branch and Agency Examination Manual September 1997
+Page 1
+
+
+Asset Pledge and Capital Equivalency Deposits
+Effective date July 1997 Section 5030.1
+
+Asset pledge or capital equivalency deposit
+accounts may be established as a requirement
+for licensing a branch. These accounts are
+designed to provide a ready source of liquid
+assets to begin to pay for the expenses of a
+liquidation, in the event it became necessary to
+take possession of a branch.
+
+Federal and state licensing authorities may
+prescribe, by statute or regulation, requirements
+and conditions under which the branch will
+establish, maintain, and conduct an asset pledge
+or capital equivalency deposit account. These
+conditions and requirements will vary from one
+regulatory agency to another. However, the fol-
+lowing represents some of the conditions or
+requirements that may be imposed:
+
+• Balance in the account may be a specific
+dollar amount and/or a variable amount based
+on a specified percentage of third party liabili-
+ties (i.e., related party liabilities and other
+specific liabilities are usually excluded);
+
+• Guidelines for establishing the account (i.e.,
+account must be held by a third party, in the
+name of the licensing authority);
+
+• Types of assets available for pledging or
+deposit (i.e., certificates of deposit, U.S. gov-
+ernment securities, etc.);
+
+• Conducting transactions (i.e., regulatory
+approval for deposits and withdrawals and
+direct confirmation to the licensing authority
+may be required).
+
+Asset pledge or capital equivalency deposit
+accounts, in severe problem situations, can also
+be used as a form of supervisory follow-up
+action. When severe problem situations are
+encountered, the licensing authority may require
+an upward adjustment by the branch in the
+balance of the applicable account. This may be
+done by increasing the, normally required, spe-
+cific dollar amount and/or the variable amount,
+based on a specified percentage of third party
+liabilities. The amount of the increase should be
+sufficient to give the regulators additional funds
+to cover expenses associated with a branch
+liquidation.
+
+Branch and Agency Examination Manual September 1997
+Page 1
+
+
+Suspicious Activities
+Effective date July 1997 Section 5040.1
+
+Current information on this topic is available in
+the Federal Reserve Board’s Bank Secrecy Act
+
+Manual and similar examination material of the
+other federal and state banking agencies.
+
+Branch and Agency Examination Manual September 1997
+Page 1
+
+
+International Banking Facilities
+Effective date July 1997 Section 5050.1
+
+The Board of Governors of the Federal Reserve
+System amended Regulations D and Q effective
+December 3, 1981, to permit U.S. depository
+institutions, Edge and Agreement Corporations
+and U.S. branches and agencies of FBOs to
+establish International Banking Facilities (IBFs)
+in the United States.
+
+The Board’s objective was to enhance the
+international competitive position of banking
+institutions in the United States by permitting,
+through an institution’s IBF, similar deposit
+reserve and tax treatment afforded to offshore
+banking offices. As a result, an IBF was permit-
+ted to maintain a lower rate of reserves on IBF
+liabilities maintained in excess of IBF assets.
+When adjustments to the deposit reserve require-
+ments were made in September 1990, an IBF’s
+relative advantage with respect to deposit
+reserves was effectively eliminated. However, in
+some states, there still remain tax advantages to
+maintaining IBFs. Furthermore, many FBOs
+continue to use their IBFs as funding vehicles on
+the assumption that former reserve requirements
+may be reestablished.
+
+Examinations of IBFs are ordinarily con-
+ducted in conjunction with examinations of the
+branches operating those facilities, and follow
+the same supervisory procedures.
+
+While a branch is not required to establish a
+separate organization for IBF operations, it is
+required to segregate on its books, the asset and
+liability accounts included in the IBF.
+
+In general, IBFs may accept deposits from
+and extend credit to non-U.S. residents or other
+IBFs. The Board’s rules impose various restric-
+tions and limitations on the type of business in
+which an IBF can engage. These restrictions
+were designed to avoid complicating the con-
+duct of domestic monetary policy and insulate
+U.S. economic activity from IBF transactions.
+As outlined in Regulation D, Section 204.8,
+these restrictions include:
+
+• Prohibiting the lending to or accepting of
+deposits from a U.S. resident, other than the
+branch establishing the IBF or other IBFs;
+
+• Prohibiting the acceptance of transaction
+accounts;
+
+• Prohibiting the issuance of negotiable or bearer
+instruments;
+
+• Requiring nonbank deposits to carry a mini-
+mum maturity or required notice period of two
+business days; bank deposits can be made
+with overnight maturities;
+
+• Subjecting nonbank customer transactions to a
+minimum deposit or withdrawal amount of
+$100,000, except to close out an account or
+withdraw accumulated interest;
+
+• Requiring the IBF to notify its nonbank cus-
+tomers, in writing, at the time an account
+relationship is first established that the depos-
+its received by the IBF may be used only to
+support its non-U.S. operations, and exten-
+sions of credit by the IBF may be used only to
+finance the customers’ non-U.S. operations. In
+the case of customers that are foreign affiliates
+of U.S. residents, the IBF is required to obtain
+acknowledgment of the receipt of such notice.
+
+Branches may book off-balance-sheet items
+in the IBF, provided the customer and the
+transactions comply with applicable regulations.
+Generally, off-balance-sheet items are booked at
+an IBF to take advantage of favorable tax rates
+or to hedge IBF assets and liabilities. Examiners
+should review the reasons for booking such
+items in the IBF and determine the appropriate-
+ness of such action.
+
+In addition, certain states impose further
+restrictions and requirements governing the
+establishment and maintenance of IBFs. The
+examiner should review these restrictions and
+requirements prior to establishing the scope of
+the review.
+
+Branch and Agency Examination Manual September 1997
+Page 1
+
+
+International Banking Facilities
+Examination Objectives
+Effective date July 1997 Section 5050.2
+
+1. To determine if policies, practices, proce-
+dures, and internal controls regarding IBFs
+are adequate.
+
+2. To determine if branch officers are operating
+in conformance with the established
+guidelines.
+
+3. To determine the scope and adequacy of the
+audit function.
+
+4. To determine compliance with laws and
+regulations.
+
+5. To recommend corrective action when poli-
+cies, practices, procedures, or internal con-
+trols are deficient or when violations of laws
+or regulations have been noted.
+
+Branch and Agency Examination Manual September 1997
+Page 1
+
+
+International Banking Facilities
+Examination Procedures
+Effective date July 1997 Section 5050.3
+
+1. Complete or update the Internal Control
+Questionnaire if selected for implementation.
+
+2. Review applicable statutes, regulations,
+and/or supervisory requirements for asset
+maintenance.
+
+3. Review IBF ledgers to determine that IBF
+accounts are clearly segregated from the
+establishing entity’s books. (Note: IBF led-
+gers may be integrated with the establishing
+entity’s general ledger or may be main-
+tained as a separate general ledger. If the
+ledgers are included with the establishing
+entity’s regular accounts, the IBF accounts
+must be clearly labeled. IBF assets need not
+balance with IBF liabilities.)
+
+4. Determine the adequacy of the internal
+audit procedures used to check compliance
+with applicable regulations. Obtain a list of
+any deficiencies noted in the latest review
+performed by the internal auditors and deter-
+mine if corrections have been made.
+
+5. In addition to verifying application of the
+branch’s standard review, analysis, and/or
+documentation of IBF-booked credits and
+deposits, evaluate the adequacy of proce-
+dures by reviewing a sample of accounts to
+ensure that:
+a. All deposits, extensions of credit, and
+
+off-balance-sheet items are extended to
+or accepted from qualified customers,
+i.e., foreign residents, other IBFs, and
+offices of the branch establishing the
+IBF.
+
+b. Nonbank extensions of credit are used
+only to finance the non-U.S. operations
+of the customer.
+
+c. Nonbank deposits are used only to sup-
+port the non-U.S. operations of the
+customer.
+
+d. Nonbank customers are provided written
+notice of the Federal Reserve Board of
+Governors’ policy statement at the time
+the deposit or credit relationship is first
+established advising of the requirement
+regarding the non-U.S. use of deposits
+and credit extensions.
+
+e. In the case of loans to or deposits from
+foreign affiliates of U.S. corporations,
+
+verify that written confirmation is
+obtained acknowledging receipt of the
+Board of Governors’ policy. (Note: IBF
+transactions with foreign governments
+and official institutions are treated in the
+same manner as IBF transactions with
+foreign banks, i.e. written notice of the
+non-U.S. use of funds is not necessary.)
+
+f. Nonbank deposits meet the minimum
+maturity or required notice period for
+withdrawal of two business days.
+
+g. Nonbank time deposits and withdrawals
+(except for account closings and with-
+drawals of accumulated interest) meet
+the minimum size transaction amount of
+$100,000.
+
+h. Deposit confirmations state that funds
+are being placed in an IBF and that the
+depositor must abide by IBF restrictions
+as defined by the Board of Governors of
+the Federal Reserve System.
+
+6. Review all intrabank transactions for an
+appropriate time period to determine that:
+a. All transactions with the U.S. offices of
+
+the IBF’s own branch are clearly
+identifiable.
+
+b. Eurocurrency liabilities are properly
+reported by the IBF’s establishing branch.
+
+7. Review IBF purchases from and sales to
+third parties to determine that:
+a. Such assets are IBF eligible assets, and
+
+appropriate notices and acknowledg-
+ments have been provided and uses of
+proceeds documented.
+
+b. The transactions are at arms length, with-
+out recourse.
+
+c. The transactions are not conducted with
+affiliates, other than the branch establish-
+ing the IBF.
+
+8. Review all IBF-related regulatory reports,
+e.g., the FFIEC-002 and FR 2951, if appli-
+cable, to determine their timely submission
+and accuracy.
+
+9. Discuss apparent violations and procedural
+deficiencies with appropriate officer(s).
+
+10. Prepare comments in appropriate report form
+for all violations and deficiencies noted.
+
+Branch and Agency Examination Manual September 1997
+Page 1
+
+
+International Banking Facilities
+Internal Control Questionnaire
+Effective date July 1997 Section 5050.4
+
+DEPOSITS
+
+1. Are all deposits from foreign residents,
+other IBFs, or offices of the branch estab-
+lishing the IBF?
+
+2. Do liabilities consist only of time deposits,
+borrowings, placements taken, or similar
+instruments?
+
+3. Has it been determined that no banker’s
+acceptances, certificates of deposit or other
+liabilities have been issued in negotiable or
+bearer form?
+
+4. Do all foreign nonbank deposits meet the
+minimum maturity or notice period to with-
+draw of two business days?
+
+5. Do nonbank time deposits or withdrawals
+(except closeouts or withdrawals of accu-
+mulated interest) meet the minimum size
+transaction amount requirement of $100,000?
+
+6. Have procedures been established to ensure
+that nonbank deposits received from non-
+U.S. residents or foreign affiliates of U.S.
+corporations are used only to support the
+non-U.S. operations of the depositor or its
+affiliates located outside the United States?
+
+7. Does the branch provide written notice to
+each of its nonbank customers at the time a
+deposit or credit relationship is first estab-
+lished, advising of the Board’s policy
+regarding the use of IBF deposits and loans
+outside the United States?
+
+8. In the case of loans to or deposits received
+from foreign affiliates of U.S. corporations,
+is a written confirmation obtained from
+such customers, acknowledging receipt of
+the Board of Governors’ policy statement?
+
+EXTENSIONS OF CREDIT
+
+9. Are extensions of credit granted only to
+qualified customers, that is, foreign resi-
+
+dents, other IBFs, and the branch establish-
+ing the IBF?
+
+10. Do credits consist only of loans, advances,
+placements, securities, or any other form of
+credit transaction?
+
+11. Have procedures been developed to reason-
+ably ensure that credits granted are being
+used only to finance operations outside the
+United States?
+
+12. Is documentation available to substantiate
+that funds are only being utilized outside
+the United States?
+
+INTRABANK TRANSACTIONS
+
+13. Are all transactions with the U.S. offices of
+the IBF’s own branch or other IBFs clearly
+identifiable?
+
+14. Are Eurocurrency liabilities to the IBF being
+properly reported by the U.S. offices of the
+IBF’s own branch?
+
+OTHER
+
+15. Is the establishing branch properly main-
+taining segregated or otherwise identifiable
+accounts for its IBF operations?
+
+16. Do all assets and liabilities and off-balance-
+sheet items of the IBF qualify under the
+definitions in Regulations D and Q and
+other regulatory provisions applicable to
+IBFs?
+
+17. Are IBF-related regulatory reports filed in a
+timely manner and were they found to be
+correct?
+
+18. Is management thoroughly familiar with the
+provisions of Regulations D and Q and the
+limitations and restrictions established by
+the Board of Governors for IBFs?
+
+Branch and Agency Examination Manual September 1997
+Page 1
+
+
+Review of Regulatory Reports
+Effective date July 1997 Section 5060.1
+
+The regulatory agencies rely on the timely and
+accurate filing of regulatory reports by domestic
+and foreign financial institutions. Data collected
+from regulatory reports facilitate early identifi-
+cation of problem situations. The Financial
+Institutions Reform, Recovery and Enforcement
+Act of 1989 (FIRREA) and the Federal Deposit
+Insurance Corporation Improvement Act of 1991
+(FDICIA) amended various banking statutes to
+enhance the Federal Reserve’s authority to assess
+civil money penalties against state member
+banks, bank holding companies and FBOs that
+file late, false, or misleading regulatory reports.
+The civil money penalties also can be assessed
+against individuals who cause or participate in
+such filings including those who sign officially
+submitted reports.
+
+FILING
+
+The Federal Reserve has identified a late regu-
+latory report as an official copy of a report that
+is not received by the Reserve Bank or its
+designated electronic collection agent in a timely
+manner. The filing of a completed original
+report is timely in the following cases:
+
+• The report is received by the Reserve Bank at
+the end of the reporting day on the submission
+deadline, including reports filed electronically;
+
+• The report is mailed first class and is post-
+marked no later than the third calendar day
+preceding the submission deadline, no matter
+when the report is received by the district
+Federal Reserve Bank. In the absence of a
+postmark, an institution may be called upon to
+provide proof of timely mailing, if the report
+has been received after the submission dead-
+line; or
+
+• The completed original report is delivered to
+an overnight package delivery service on the
+day before the submission deadline. An insti-
+tution may be called upon to provide proof of
+timely delivery to the service, if the report has
+been received after the submission deadline.
+
+The filing of a false report generally involves
+the submission of mathematically incorrect data,
+such as addition errors or transpositions, the
+submission of call reports without appropriate
+schedules, or the inadvertent filing of inaccurate
+information. Conversely, the filing of a mislead-
+
+ing report involves some degree of knowing or
+reckless behavior on the part of the filer and the
+intentional or negligent submission of inaccu-
+rate information to the Federal Reserve.
+
+FEDERAL RESERVE
+REGULATORY REPORTS
+MONITORING SYSTEM
+
+The Federal Reserve System has a Regulatory
+Reports Monitoring Program (program) to iden-
+tify those banking institutions under its supervi-
+sion that file late and false reports. Each Reserve
+Bank maintains records of late and false report-
+ers and submits summary reports of these records
+to Board staff after every reporting period.
+
+To promote consistent treatment under the
+program, the Reserve Banks may not grant grace
+periods or extensions of the submission dates of
+regulatory reports. In addition, the program
+requires Board staff responsible for enforcement
+actions to consult with Reserve Bank staff to
+ensure that appropriate follow-up supervisory
+actions are taken, and that the Federal Reserve
+addresses all instances of chronic late and false
+regulatory reporting through civil money penal-
+ties or other enforcement proceedings.
+
+REVIEW OF REGULATORY
+REPORTS
+
+Review of regulatory reports involves determin-
+ing whether the management of the branch has
+submitted all required reports to the Federal
+Reserve in a timely and accurate manner. The
+examiner assigned to a specific department in
+the branch is responsible for reviewing those
+reports relating to that department and verifying
+that the reports are accurate, meet statutory and
+regulatory requirements, and agree with the
+branch’s financial records. The examiner-in-
+charge is to consolidate the findings of the
+examination team and submit a list of regulatory
+reporting errors to the appropriate Reserve Bank
+staff, who will determine the extent to which the
+branch will be required to file amended reports.
+
+Examiners should discuss with Reserve Bank
+staff any regulatory report that is considered
+misleading as such a report could lead to the
+issuance of suspicious activities report(s) against
+
+Branch and Agency Examination Manual September 1997
+Page 1
+
+
+the involved branch and/or individual(s). In
+addition, management should be reminded that
+civil money penalties may be assessed or other
+enforcement proceedings may be initiated against
+regulatory report filers who are chronically late
+or repeatedly file seriously inaccurate reports.
+
+Branches should maintain efficient internal
+systems and procedures to ensure that reporting
+is made in accordance with the appropriate
+regulatory requirements. They should develop
+clear, concise, and orderly workpapers to sup-
+port the compilation of data. Preparation of
+proper workpapers not only provides a logical
+tie between report data and the branch’s finan-
+cial records but also facilitates accurate report-
+ing and verification.
+
+A branch’s internal control program for regu-
+latory reports should ensure that all required
+reports are submitted on time and are accurate.
+The specific internal controls employed by a
+branch to meet those objectives depend largely
+on the volume of reports, the scope of a branch’s
+operations, and the complexity of its accounting
+system.
+
+REQUIRED REGULATORY
+REPORTS
+
+This section describes the regulatory reports
+required to be submitted by the branch to the
+Federal Reserve. In addition to the list of reports
+outlined below, the examiner should also review
+the reports that monitor compliance with asset
+maintenance requirements, which are applicable
+under state law or are required for federally-
+licensed or -insured branches. For additional
+information on state requirements, refer to the
+Summary of Key State Statutes in the appendix
+of this manual.
+
+Report of Assets and Liabilities of
+U.S. Branches & Agencies of Foreign
+Banks (FFIEC 002 and 002S)
+
+All branches are required to file a report of
+assets and liabilities (known as the call report),
+as of the last day of each calendar quarter.
+Details of the appropriate reporting guidelines,
+along with the specific report form to be filed,
+are found in the Instructions for Preparation
+of the Report of Assets and Liabilities of
+
+U.S. Branches and Agencies of Foreign Banks
+(FFIEC 002).
+
+The branch should submit the completed call
+reports to the appropriate supervisory agencies
+no more than 30 calendar days after the report
+date. The Federal Reserve acts as the collecting
+and processing agent of the call report for the
+federal supervisory authorities.
+
+The examiner should carefully review the
+report to ensure that all pertinent data has been
+reported and is properly categorized in accor-
+dance with the call report instructions. To review
+a particular branch’s call report, the examiner
+must first understand the branch’s accounting
+methods and the information located in, and the
+relationships between, the branch’s general led-
+ger and subsidiary ledgers. Workpapers used in
+the preparation of the report and supplementary
+schedules will aid the examiner in understand-
+ing the branch’s system.
+
+Other Regulatory Reports
+
+Other regulatory reports include the following:
+
+1. Weekly Report of Assets and Liabilities
+by Large U.S. Branches and Agencies
+of Foreign Banks. (FR 2069)
+
+Frequency: Weekly.
+Voluntary series-branches selected by
+Board staff that had more than $1.1 billion
+in total assets in March 1991.
+
+2. Report of Transaction Accounts,
+Other Deposits and Vault Cash (FR 2900)
+
+Frequency: Weekly.
+Aggregate worldwide assets in excess of
+$1 billion.
+
+3. Monthly Report of Foreign
+Currency Deposits (FR 2915)
+
+Frequency: Monthly
+Aggregate worldwide assets in excess of
+$1 billion.
+
+4. Report of Certain Eurocurrency
+Transactions (FR 2951)
+
+Frequency: Weekly.
+Aggregate worldwide assets in excess of
+$1 billion.
+
+5. Country Exposure Report for U.S.
+Branches and Agencies of
+
+5060.1 Review of Regulatory Reports
+
+September 1997 Branch and Agency Examination Manual
+Page 2
+
+
+Foreign Banks (FFIEC 019)
+Frequency: Quarterly.
+Direct claims on foreigners in excess of
+$30 million.
+
+6. Monthly Consolidated Foreign
+Currency Report (FFIEC 035)
+
+Frequency: Monthly.
+Commitments to purchase foreign cur-
+rency or U.S. dollar exchange of more than
+$1 billion. Other criteria may be used for
+selection. Verify reporting status during
+examination.
+
+7. Weekly Foreign Currency Report (FC-1)
+Frequency: Weekly.
+Foreign exchange contracts aggregating
+$100 million or more. Other criteria may
+be used for selection. Verify reporting
+status during examination.
+
+The following U.S. Treasury Department
+reports are collected to gather information on
+international capital movements by U.S. banks
+(and their Edge Act and agreement corpora-
+tions), other depository institutions, interna-
+tional banking facilities, bank holding compa-
+nies, and U.S. branches and agencies of foreign
+banks; a U.S. $15 million (or equivalent) thresh-
+old applies to reporting institutions:
+
+• Liabilities to Foreigners, Payable in Dollars
+(BL-1);
+
+• Custody Liabilities to Foreigner (BL-2);
+• Intermediary’s Notification of U.S. Nonbank
+
+Borrowing From Foreigners, Payable in Dol-
+lars (BL-3);
+
+• Claims on Foreigners, Payable in Dollars
+(BC);
+
+• Part 1. Claims on Foreigners (BQ-1); Part 2.
+Domestic Customers’ Claims on Foreigners
+Held by Reporter;
+
+• Part 1. Liabilities to and Claims on Foreigners
+Payable in Foreign Currencies (BQ-2);
+Part 2. Domestic Customers’ Claims on For-
+eigners (in foreign currencies);
+
+• Purchases & Sales of Long-Term Securities
+by Foreigners (S).
+
+Applicable laws and regulations require
+branches to file certain reports relating to spe-
+cific business activities. For example, branches
+are required to file reports associated with lost
+and stolen securities, transfer agent activities,
+municipal securities dealer activities, govern-
+ment securities broker and dealer activities,
+criminal referrals, and BSA reporting. Specific
+comments relating to these activities are dis-
+cussed under in the Other Compliance Matters
+section of this manual. The examiner-in-charge
+should identify all applicable reporting require-
+ments of the branch and coordinate the review
+of those reports.
+
+Review of Regulatory Reports 5060.1
+
+Branch and Agency Examination Manual September 1997
+Page 3
+
+
+Review of Regulatory Reports
+Examination Objectives
+Effective date July 1997 Section 5060.2
+
+1. To determine that required reports are being
+filed on time.
+
+2. To determine that contents of reports are
+accurate.
+
+3. To determine the adequacy of the internal
+audit function as it relates to reviewing and
+preparing the regulatory reports.
+
+4. To recommend corrective action when poli-
+cies, practices, procedures, or internal con-
+trols are deficient or when violations of laws
+or regulations have been noted.
+
+Branch and Agency Examination Manual September 1997
+Page 1
+
+
+Review of Regulatory Reports
+Examination Procedures
+Effective date July 1997 Section 5060.3
+
+1. Complete or update the Internal Control
+Questionnaire if selected for implementation.
+
+2. Determine the branch’s historical record of
+submitting timely and accurate reports by
+reviewing workpapers.
+
+3. Depending on the scope of the examination,
+select certain regulatory reports or portions
+of reports for review. Obtain the most recent
+filing of the selected reports or portions of
+reports and perform the following:
+a. Reconcile the line items shown on the
+
+reports to the appropriate general ledger,
+subsidiary ledgers, or daily statements.
+
+b. Obtain the workpapers applicable to each
+line item and reconcile individual items to
+the reports.
+
+c. Determine the accuracy of electronic
+reporting systems used in the preparation
+of reports.
+
+d. Determine whether other examiners have
+uncovered any misstatement of assets or
+
+liabilities during their examination of the
+various departments.
+
+e. Determine that the reports are prepared in
+accordance with Federal Reserve and/or
+other applicable instructions.
+
+4. Review scope of internal audit to determine
+if it covers the preparation and review of
+regulatory reports.
+
+5. Prepare comments in appropriate report form
+and discuss with management recommended
+corrective action when policies, practices or
+procedures are deficient or when reports have
+been filed incorrectly, late, or not at all. The
+comments must include, if applicable, the
+name(s) and the as of date(s) of amended
+report(s) and the date of filing, amount of,
+and explanation of any material difference.
+
+6. Update the workpapers with any information
+that will facilitate future examinations.
+
+Branch and Agency Examination Manual September 1997
+Page 1
+
+
+Review of Regulatory Reports
+Internal Control Questionnaire
+Effective date July 1997 Section 5060.4
+
+1. Are regulatory reports accurate and submit-
+ted in a timely manner?
+
+2. Is there adequate separation of duties to
+ensure that the raw data used to complete
+regulatory reports is compiled by one person
+and verified by another person before
+submission?
+
+3. After the regulatory reports are prepared but
+before their submission, are they checked by:
+a. The supervisor of the department prepar-
+
+ing the report, who takes personal respon-
+sibility for its accuracy and submission on
+a timely basis?
+
+b. Branch personnel who have no part in the
+report’s preparation?
+
+4. If regulatory reports are produced
+electronically:
+a. Are accurate reports produced in a form
+
+acceptable to the applicable regulatory
+agencies?
+
+b. Are changes to the electronic systems
+documented and approved by an autho-
+
+rized officer responsible for the prepara-
+tion of the reports?
+
+5. Do regulatory report workpapers:
+a. Leave a clear audit trail from the raw data
+
+to the finished report, and are they readily
+available for inspection?
+
+b. Meet record retention standards under
+applicable laws and regulations?
+
+CONCLUSION
+
+6. Is the information covered by this ICQ
+adequate for evaluating internal controls in
+this area? If not, indicate any additional
+examination procedures deemed necessary.
+
+7. Based on the information gathered, evaluate
+the internal controls of this area (i.e. strong,
+satisfactory, fair, marginal, unsatisfactory).
+
+Branch and Agency Examination Manual September 1997
+Page 1
+
+
+Other Compliance Matters
+Effective date July 1997 Section 5070.1
+
+FBOs are subject to various other federal and
+state laws and regulations not discussed else-
+where in this manual. Similar to domestic bank-
+ing organizations, FBOs operating in the United
+States are required to be knowledgeable of these
+laws and regulations and to establish policies,
+practices, procedures, and internal controls to
+ensure compliance.
+
+The following discussion is divided into two
+sections: Safety and Soundness Rules and Regu-
+lations and Consumer Compliance Regulations.
+State-licensed branches should refer to their
+state statutory codes for specific statutes that
+may apply. Additionally, federally-insured
+branches are subject to the wide variety of laws
+and regulations applicable to all federally-
+insured depository institutions.
+
+On January 17, 1978, the three federal bank
+supervisory agencies issued a joint policy state-
+ment to address their concern regarding the
+potential for improper payments by banks and
+bank holding companies in violation of the
+Foreign Corrupt Practices Act and the Federal
+Election Campaign Act. While not widespread,
+the federal bank supervisory agencies were con-
+cerned that such practices could reflect adversely
+on the banking system and constitute unsafe and
+unsound banking practices, in addition to their
+possible illegality.
+
+The potential devices for making political
+payments in violation of the law could include
+compensatory bonuses to employees, designated
+expense accounts, fees or salaries paid to offi-
+cers, and preferential or zero interest rate loans.
+In addition, political contributions could be
+made by providing equipment and services with-
+out charge to candidates for office.
+
+SAFETY AND SOUNDNESS
+RULES AND REGULATIONS
+
+Foreign Corrupt Practices Act—
+15 USC 78DD-1, 78DD-2
+
+Beginning in 1973, the Securities and Exchange
+Commission (SEC) became aware of conduct by
+some companies involving the use of corporate
+funds for illegal domestic political contribu-
+tions. Subsequent SEC investigations, revealed
+instances in which some of the largest U.S.
+corporations had secretly engaged in the bribery
+of foreign officials. In the course of these
+
+investigations, it became apparent that, in many
+instances, these activities were concealed from
+the outside auditors and others by maintaining
+off-the-book bank accounts or otherwise circum-
+venting the system of internal accounting
+controls.
+
+As a result of these investigations, Congress
+passed the Foreign Corrupt Practices Act of
+1977 (Act). This Act consists of two separate
+groups of rules: (a) those that prohibit the
+offering or payment of bribes to certain foreign
+officials, and (b) those requiring the mainte-
+nance of complete accounting books and records
+and an effective system of accounting controls.
+
+Section 78DD-1 applies to any issuer of
+securities registered on a U.S. national securities
+exchange. Thus, if an FBO has issued securities
+so registered, the prohibition on certain corrupt
+practices applies to the FBO. Section 78DD-2,
+however, applies to any domestic concern, which
+is defined in subsection (h)(1)(B) to include any
+corporation which has its principal place of
+business in the United States. Generally, ques-
+tions of specific applicability of provisions of
+this Act to U.S. branches and agencies of FBOs
+should be referred to appropriate legal counsel.
+
+Antibribery Provisions
+
+These provisions of the Act prohibit any U.S.
+company or business entity (and its officers,
+directors, agents, employees, and shareholders
+acting on its behalf) from using the mails,
+telephone, transportation, or any other instru-
+mentality of interstate or foreign commerce
+corruptly, in furtherance of an offer, payment,
+promise to pay, authorization of the payment of
+any money, or other thing of value to:
+
+• An official of a foreign government or instru-
+mentality of a foreign government;
+
+• A foreign political party or official thereof or
+a candidate for political office; or,
+
+• Any other person the payor knows of or has
+reason to know, who will pay or give the
+money or value to those listed above,
+
+where the purpose is to influence an act or
+decision (including a decision not to act) of the
+recipient in his official capacity or to induce the
+recipient to use his or her influence to affect or
+influence an act or decision of the government
+
+Branch and Agency Examination Manual September 1997
+Page 1
+
+
+or instrumentality, in order to assist such com-
+pany or entity in obtaining, retaining, or direct-
+ing business for itself or another person.
+
+These provisions do not apply to payments to
+any employee whose duties are essentially min-
+isterial or clerical.
+
+Accounting Provisions
+
+Although the obligation to maintain accurate
+books and records and to have an adequate
+system of internal accounting controls has been
+acknowledged by responsible corporations for a
+long time, this obligation was not previously
+explicitly established into law until the passage
+of the Act. Applying essentially to all compa-
+nies whose securities are publicly traded in the
+United States, the Act requires them to:
+
+• Make and keep books, records, and accounts,
+which, in reasonable detail, accurately and
+fairly reflect the transactions and dispositions
+of the assets of the issuer; and
+
+• Devise and maintain a system of internal
+accounting controls sufficient to provide rea-
+sonable assurance that:
+— Transactions are executed in accordance
+
+with management’s general or specific
+authorizations;
+
+— Transactions are recorded as necessary
+(1) to permit preparation of financial state-
+ments in conformity with generally
+accepted accounting principles or any other
+criteria applicable to such statements and
+(2) to maintain accountability for assets;
+
+— Access to assets is permitted only in
+accordance with management’s general or
+specific authorization; and,
+
+— The recorded accountability for assets is
+compared with the existing assets at rea-
+sonable intervals and appropriate action is
+taken with respect to any difference.
+
+Acting under its authority to issue regula-
+tions, the SEC issued regulations, which became
+effective on March 23, 1979, concerning falsi-
+fications of records and the making of false,
+misleading, or incomplete statements to audi-
+tors. The first of these regulations says that no
+person shall, directly or indirectly, falsify or
+cause to be falsified, any book, record or account
+subject to the provisions of the law described
+above, that is, those used for making reports
+under the SEC laws.
+
+The second regulation prohibits a director or
+officer of an issuer from making or causing to be
+made a materially false or misleading statement,
+and from omitting to state or cause another
+person to omit a material fact necessary to make
+a statement not misleading to an accountant,
+external or internal, in connection with an audit
+of the financial statements or preparation of
+required reports. Conviction of a willful viola-
+tion of these accounting provisions carries a
+possible $10,000 fine or up to five years impris-
+onment, or both.
+
+Federal Elections Campaign Act—
+2 USC 441B
+
+The Federal Elections Campaign Act (FECA),
+enacted in 1971, was designed to curb potential
+abuses in the area of federal election financing.
+In general, FECA regulates the making of cam-
+paign contributions and expenditures in connec-
+tion with primary and general elections to fed-
+eral offices and specifically bans campaign
+contributions by national banks. The Office of
+the Comptroller of the Currency has, by regula-
+tion (12 CFR 28.101(4)), made this provision
+applicable to federal branches and agencies.1
+FECA does not specifically address the making
+of contributions and expenditures by banks or
+other corporations to advocate positions on issues
+that are the subjects of public referenda. As
+originally enacted, FECA required disclosure of
+contributions received or expenditures made;
+however, amendments to the law in 1974 and
+1976 imposed additional limitations on contri-
+butions and expenditures as well. The 1974
+amendments also established the Federal Elec-
+tion Commission (Commission) to administer
+FECA’s provisions. The Commission is respon-
+sible for adopting rules to carry out FECA, for
+rendering advisory opinions, and for enforcing
+the Act. The Commission was reorganized as a
+result of the FECA Amendments of 1976 and it
+has since issued regulations interpreting the
+statute Title 11 of the CFR.
+
+1. 2 USC 441a, however, limits campaign contributions by
+any person. The definition of person in 2 USC 431(h) is very
+broad and could include the U.S. branches and agencies of
+FBOs. Accordingly, any questions in this area should be
+referred to appropriate legal counsel. In addition, 2 USC 441e
+prohibits campaign contributions by foreign nationals (the
+definition of which excludes U.S. citizens and U.S. permanent
+resident aliens).
+
+5070.1 Other Compliance Matters
+
+September 1997 Branch and Agency Examination Manual
+Page 2
+
+
+Contributions and Expenditures
+
+The words contribution and expenditure are
+defined broadly by FECA and the Commission’s
+regulations to include any loan, advance, deposit,
+purchase, payment, distribution, subscription,
+gift of money, or anything of value that is made
+for the purpose of influencing the nomination or
+election of any person to federal office. The
+payment by a third party of compensation for
+personal services rendered without charge to a
+candidate or political committee is also treated
+as a contribution by FECA, although the term
+does not include the value of personal services
+provided by an individual without compensation
+on a volunteer basis.
+
+Although loans are included in the definitions
+of contribution and expenditure under FECA, a
+specific exemption is provided for bank loans
+made in the ordinary course of business and in
+accordance with applicable banking laws and
+regulations. The Commission’s regulations pro-
+vide further that extensions of credit to a candi-
+date, political committee, or other person in
+connection with a federal election may be treated
+as a loan, and not a contribution, if they are on
+terms substantially similar, in risk and amount,
+to those made to nonpolitical debtors. The
+regulations also provide that a debt may be
+forgiven only if the creditor has treated it in a
+commercially reasonable manner, including mak-
+ing efforts to collect the debt, which are similar
+to the efforts it would make with a nonpolitical
+debtor. In considering whether a particular trans-
+action is a contribution or a loan, it is expected
+that a factor would be the extent to which the
+creditor may have departed from its customary
+credit risk analysis.
+
+FECA and the implementing regulation per-
+mit certain limited payments to candidates or
+their political committees. For example, pay-
+ment of compensation to a regular employee,
+who is providing a candidate or political com-
+mittee with legal or accounting services, which
+are solely for the purpose of compliance with
+the provisions of the FECA, is exempt from the
+definitions of contribution and expenditure. The
+Commission’s regulations also permit occa-
+sional use of a corporation’s facilities by its
+shareholders and employees for volunteer politi-
+cal activity; however, reimbursement to the
+corporation is required for the normal rental
+charge for anything more than occasional or
+incidental use.
+
+Separate Segregated Funds and Political
+Committees
+
+FECA allows the establishment and administra-
+tion by corporations of separate segregated funds
+to be utilized for political purposes (2 USC
+Section 441b(b)(4)). While corporate monies
+may not be used to make political contributions
+or expenditures, corporations may bear the costs
+of establishing and administering these separate
+segregated funds, including payment of rent for
+office space, utilities, supplies, and salaries.
+These costs need not be disclosed under FECA.
+Commission regulations also permit a corpora-
+tion to exercise control over its separate segre-
+gated fund.
+
+In practice, most corporate segregated funds
+are administered by a group of corporate per-
+sonnel, which, if the fund receives any contri-
+butions or makes any expenditures during a
+calendar year, constitutes a political committee,
+as defined by FECA. As such, it is required to
+file a statement of organization with the Com-
+mission, to keep detailed records of contribu-
+tions and expenditures, and to file with the
+Commission reports identifying contributions in
+excess of $200 and candidates who are recipi-
+ents of contributions from the fund.
+
+Solicitation of contributions to corporate seg-
+regated funds by political committees must be
+accomplished within the precise limits estab-
+lished by FECA. All solicitations directed to
+corporate employees must satisfy the following
+requirements: (1) the contribution must be
+entirely voluntary, (2) the employee must be
+informed of the political purposes of the fund at
+the time of the solicitation, and (3) the employee
+must be informed of his or her right to refuse to
+contribute without reprisal. Beyond those basic
+requirements, FECA distinguishes between
+executive and administrative personnel and other
+employees. The former and their families may
+be solicited any number of times, while the latter
+and their families may only be solicited through
+a maximum of two written solicitations per year,
+and these solicitations must be addressed to the
+employees at their homes. Solicitations may
+also be directed to corporate stockholders and
+their families in the same manner as to executive
+and administrative personnel.
+
+Although a corporation or a corporation and
+its subsidiaries may form several political com-
+mittees, for purposes of determining the statu-
+tory limitations on contributions and expendi-
+tures, all committees established by a corporation
+
+Other Compliance Matters 5070.1
+
+Branch and Agency Examination Manual September 1997
+Page 3
+
+
+and its subsidiaries are treated as one. Thus, the
+total amount that all political committees of a
+corporation and its subsidiaries may make to a
+single candidate is $5,000 in any federal election
+(provided that the committees are qualified multi-
+candidate committees under FECA).
+
+Violation of FECA by any corporation is
+punishable by a fine of not more than $25,000,
+and any director or officer of any corporation
+who consents to any contribution or expenditure
+by the corporation in violation of FECA is
+subject to fine or imprisonment or both.
+
+State laws concerning this matter should also
+be reviewed by the examiner. However, FECA
+preempts state law with respect to election to
+federal office.
+
+Bank Bribery Act—18 USC 215
+
+The Comprehensive Crime Control Act of 1984
+amended the federal bank bribery law to pro-
+hibit employees, officers, directors, agents, and
+attorneys of financial institutions from seeking
+or accepting anything of value in connection
+with any transaction or business of their finan-
+cial institution. The definition of a financial
+institution in 18 USC 20(9) includes a U.S.
+branch or agency of an FBO. The amended law
+also prohibited anyone from offering or giving
+anything of value to employees, officers, direc-
+tors, agents, or attorneys of financial institutions
+for or in connection with any transaction or
+business of the financial institution. Because of
+its broad scope, the 1984 Act raised concerns
+that it might have made unlawful what had
+previously been considered acceptable conduct.
+
+In July 1985, the Department of Justice issued
+a Policy Concerning Prosecution Under the New
+Bank Bribery Statute. In that policy, the Justice
+Department discussed the basic elements of the
+prohibited conduct under Section 215, and indi-
+cated that cases to be considered for prosecution
+under the new bribery law entail breaches of
+fiduciary duty or dishonest efforts to undermine
+financial institution transactions. Because the
+statute was intended to reach acts of corruption
+in the banking industry, the Justice Department
+expressed its intent not to prosecute insignificant
+gift giving or entertaining that does not involve
+a breach of fiduciary duty or dishonesty.
+
+Congress decided that the broad scope of the
+statute provided too much prosecutorial discre-
+tion. Consequently, Congress adopted the Bank
+
+Bribery Amendments Act of 1985 to narrow the
+scope of 18 USC 215 by adding a new element,
+namely, an intent to corruptly influence or reward
+an officer in connection with financial institution
+business.
+
+This law now specifically excepts the pay-
+ment of bona fide salary, wages, fees or other
+compensation paid, or expenses paid or reim-
+bursed in the usual course of business. In
+addition, the law now requires the financial
+institution regulatory agencies to publish guide-
+lines to assist employees, officers, directors,
+agents, and attorneys of financial institutions in
+complying with the law. The branch’s internal
+code or written policy should prohibit such
+persons from (1) soliciting for themselves or for
+a third party (other than the branch itself)
+anything of value from anyone in return for any
+business, service, or confidential information of
+the branch and from (2) accepting anything of
+value (other than bona fide salary, wages, and
+fees) from anyone in connection with the busi-
+ness of the branch, either before or after a
+transaction is discussed or consummated. In
+addition, the code/policy may specify appropri-
+ate exceptions to the general prohibition of
+accepting something of value in connection with
+branch business.
+
+Furthermore, the branch’s code of conduct or
+written policy should provide that if a branch
+official is offered or receives something of value
+beyond what is permitted in the policy, that
+branch official must disclose that incident to an
+appropriately designated official of the financial
+institution. The branch should maintain such
+disclosures. A branch official’s full disclosure
+evidences good faith when it is made in the
+context of properly exercised supervision and
+control. Management should review the disclo-
+sures and determine that what is accepted is
+reasonable and does not pose a threat to the
+integrity of the branch. Thus, the prohibitions of
+the bank bribery statute cannot be avoided by
+simply reporting to management the acceptance
+of various gifts.
+
+The business luncheon or holiday season gift
+from a customer generally is not a violation of
+the statute if: (1) its acceptance is based on a
+family or personal relationship existing indepen-
+dent of any business of the financial institution,
+(2) the benefit is available to the general public
+under the same conditions on which it is avail-
+able to the branch, or (3) the benefit would be
+paid for by the branch as a reasonable business
+expense if not paid for by another party. What is
+
+5070.1 Other Compliance Matters
+
+September 1997 Branch and Agency Examination Manual
+Page 4
+
+
+reasonable in one part of the country may appear
+lavish in another part. Thus, the branch may
+establish, in its own code/policy, a range of
+dollar values, which cover the various benefits
+that its officials may receive from those doing or
+seeking to do business with the branch.
+
+In addition to the exceptions discussed above,
+the branch may describe other appropriate
+exceptions to the general prohibition in its code
+of conduct or written policy, such as those that:
+
+• Permit acceptance of meals, refreshments,
+travel arrangements, accommodations, or
+entertainment, all of reasonable value and in
+the course of a meeting or other occasion the
+purpose of which is to hold bona fide business
+discussions, provided that the expenses would
+be paid for by the branch as a reasonable
+business expense, if not paid for by another
+party;
+
+• Permit acceptance of loans from other branches
+or financial institutions on customary terms to
+finance proper and usual activities of branch
+officials, such as home mortgage loans, except
+where prohibited by law;
+
+• Permit acceptance of advertising or promo-
+tional material of reasonable value, such as
+pens, pencils, note pads, key chains, calen-
+dars, and similar items;
+
+• Permit acceptance of discounts or rebates on
+merchandise or services that do not exceed
+those available to other customers;
+
+• Permit acceptance of gifts of reasonable value
+that are related to commonly recognized events
+or occasions, such as a promotion, new job,
+wedding, retirement, Christmas, or bar or bat
+mitzvah;
+
+• Permit the acceptance of civic, charitable,
+educational, or religious organizational awards
+for recognition of service and accomplishment.
+
+A serious threat to the branch’s integrity
+occurs when its officials become involved in
+outside business interests or employment that
+give rise to a conflict of interest. Such conflicts
+of interest may evolve into corrupt transactions
+that are covered under this Act. Accordingly, the
+branch is encouraged to prohibit in its code/
+policy, branch officials from self-dealing or
+otherwise trading on their positions with the
+branch or accepting a business opportunity from
+someone doing or seeking to do business with
+the branch, which is not available to other
+persons or which is made available to the branch
+
+official because of such person’s position with
+the branch.
+
+If the value of the item or benefit offered or
+received exceeds $100, the offense is a felony
+punishable by up to thirty years imprisonment
+and a fine of up to $1,000,000 or three times the
+value of the bribe or gratuity, whichever is
+greater. If value does not exceed $100, the
+offense is a misdemeanor punishable by up to
+one year imprisonment and a maximum fine of
+$1,000.
+
+Foreign Assets Control Regulation
+
+The function of the Office of Foreign Assets
+Control (OFAC) of the U.S. Department of the
+Treasury is to promulgate and administer regu-
+lations dealing with the economic sanctions that
+the U.S. government imposes against certain
+foreign countries, against the nationals of those
+countries, and against the specially designated
+nationals of those countries. Under the Interna-
+tional Emergency Economic Powers Act, the
+President can impose sanctions such as trade
+embargoes, freezing of assets, import sur-
+charges, etc. These sanctions usually entail the
+freezing of a country’s assets and are politically
+motivated. Branches must block funds transfers
+that (1) are remitted by or on behalf of a blocked
+individual or entity; (2) are remitted to or
+through a blocked entity; or (3)are remitted in
+connection with a transaction in which a blocked
+individual or entity has an interest. If a branch in
+the U.S. receives instructions to make a payment
+that falls into one of these categories, it is
+required to execute the payment order and place
+the funds into a blocked account. A payment
+order cannot be canceled or amended after the
+U.S. branch has received it. Once assets or funds
+are blocked, they may be released only by
+specific authorization from the U.S. Treasury.
+
+A ‘‘specially designated national’’ is a person
+or entity who acts on behalf of one of those
+countries under economic sanction by the U.S.
+The designation is done by the U.S. Secretary of
+State. Dealing with such nationals is prohibited.
+Moreover, their assets or accounts in the U.S. are
+frozen. In certain cases, however, the Treasury
+Department can issue a license to a designated
+national. This license can then be presented by
+the customer to the institution, allowing the
+institution to debit his/her account. The license
+can be either general or specific. The general
+
+Other Compliance Matters 5070.1
+
+Branch and Agency Examination Manual September 1997
+Page 5
+
+
+license is not a document but a provision in the
+regulation itself authorizing certain transactions;
+the branch must request the customer to sign an
+affidavit stating that the particular transaction is
+covered by a general license. The specific license
+is a document (with U.S. Treasury seal, signa-
+ture of OFAC’s Chief of Licensing and control
+number) issued by OFAC on a case-by-case
+basis to a specific individual or company allow-
+ing an activity that otherwise is prohibited by
+the regulations; the branch must request to see
+the original license.
+
+Blocking an account allows only credits to be
+posted to a customer’s account. If OFAC imposes
+the blocking of an account, then the account
+cannot be used to settle claims, i.e., the branch is
+prohibited from offsetting the account; no deb-
+iting is allowed. Assets can also be blocked
+whereby the Treasury Department exercises
+powers and privileges associated with owner-
+ship of all property and interests in property of
+the sanctioned country’s government, its agen-
+cies, instrumentalities, and controlled entities in
+the United States or within the possession or
+control of U.S. persons. An institution’s corre-
+spondent banks accounts can also be blocked or
+frozen. The branch is not allowed to tell its
+customer if his/her account has been blocked by
+OFAC.
+
+A 602 Request is a national emergency inquiry
+requested by the U.S. Secretary of State. The
+U.S. government does not need an injunction
+order for this request, and the recipient of such
+a request must respond to the inquiry.
+
+Any violation of the regulations implement-
+ing the sanctions subjects the violator to crimi-
+nal prosecution. Criminal penalties for violating
+sanctions range up to 12 years in prison and
+$1 million in corporate fines and $250,000 in
+individual fines, per incident. In addition, civil
+penalties of up to $250,000 per violation may be
+imposed administratively.
+
+Regulation K, International Banking
+Organizations—12 CFR 211
+
+The Board of Governors of the Federal Reserve
+System’s Regulation K, Subpart B was issued
+under the authority of the Bank Holding Com-
+pany Act of 1956 (BHCA) and the International
+Banking Act of 1978 (IBA). It applies to FBOs
+with respect to:
+
+• limitations on interstate banking;
+• exemptions from the nonbanking prohibitions
+
+of the BHCA and the IBA;
+• the approval of the establishment of an office
+
+of a foreign bank in the U.S.;
+• the termination of a foreign bank’s branch or
+
+agency;
+• the examination of an office of a foreign bank
+
+in the U.S.;
+• the disclosure of supervisory information to a
+
+foreign supervisor; and
+• the limitations on loans to one borrower by
+
+state branches and state agencies of a foreign
+bank.
+
+The following is a brief summary of Regula-
+tion K:
+
+Section 211.21—Definitions
+
+This section includes all the definitions for this
+subpart. Included in this section is the definition
+of agency and credit balances. Refer to the
+Deposit Accounts section of this manual for
+additional information on credit balances.
+
+Section 211.22—Limitation on Interstate
+Banking
+
+This section addresses the designation of a home
+state for the foreign organization. The Federal
+Reserve Bank District in which a foreign orga-
+nization’s home state is located, is considered
+the organization’s ‘‘responsible Reserve Bank.’’
+
+Section 211.23—Nonbanking Activities of
+FBOs
+
+This section exempts certain FBOs from the
+nonbanking prohibitions of the BHCA and IBA.
+An organization must qualify for exemption
+from these prohibitions by meeting certain asset,
+revenue, and net income requirements. If an
+organization does not meet the qualifications, or
+ceases to be eligible for the exemption, the
+organization may apply to the Federal Reserve
+Board for a specific determination of its eligi-
+bility. Refer to the regulation for details. If an
+organization qualifies for this exemption, it may
+engage in certain activities and investments
+cited in the regulation. Refer to the regulation
+for a listing of such activities and investments.
+
+5070.1 Other Compliance Matters
+
+September 1997 Branch and Agency Examination Manual
+Page 6
+
+
+Section 211.24—Approval of Offices of
+Foreign Banks; Procedures for
+Applications; Standards for Approval;
+Representative-Office Activities and
+Standards of Approval; Preservation of
+Existing Authority
+
+This section addresses the application proce-
+dures and approval process for branches, agen-
+cies, representative offices, and commercial lend-
+ing companies of foreign banks. The section
+also lists the activities in which a representative
+office may engage. In addition, this section
+requires uninsured federal and state branches,
+uninsured state branches, all state agencies, and
+all representative offices to file a suspicious
+activity report in accordance with the Federal
+Reserve Board’s Regulation H.
+
+Section 211.25—Termination of Offices of
+Foreign Banks
+
+This section addresses the grounds under which
+a foreign bank may be required to terminate the
+activities of its representative office, commercial
+lending company subsidiary, or state branch or
+agency. The section also includes termination
+procedures. The license of a federal branch or
+agency would be terminated by the OCC. A
+state branch or agency license can only be
+terminated by the respective state’s banking
+authority.
+
+Section 211.26—Examination of Offices
+and Affiliates of Foreign Banks
+
+This section requires an annual on-site exami-
+nation of each branch, agency, or commercial
+lending company of a foreign bank by:
+
+• the Federal Reserve Board;
+
+• the FDIC, if the branch is FDIC insured;
+
+• the OCC, if the branch or agency is licensed
+by the Comptroller; or
+
+• the state supervisor, if the branch or agency is
+licensed by the state.
+
+To the extent possible, these examinations
+should be coordinated with all the regulatory
+agencies; and the examination of all U.S. offices
+of the FBO should be conducted simultaneously.
+
+Section 211.27—Disclosure of Supervisory
+Information to Foreign Supervisors
+
+As the title suggests, this section addresses the
+disclosure of information to a foreign banking
+regulatory or supervisory authority. Refer to the
+regulation for details.
+
+Section 211.28—Limitation on Loans to
+One Borrower
+
+Except as otherwise provided in this section, the
+aggregate of all outstanding loans and exten-
+sions of credit at one time to a single borrower
+by all state and federal branches and agencies of
+the same FBO are subject to the limitations and
+other provisions of section 5200 of the Revised
+Statutes (12 USC 84). Section 5200 of the
+Revised Statutes (12 USC 84) limits loans and
+extensions of credit to a person outstanding at
+one time which are not fully secured, to 15% per-
+cent of the unimpaired capital and unimpaired
+surplus for the association. Separate from and in
+addition to this 15% limitation, loans and exten-
+sions of credit to a person outstanding at one
+time which are fully secured by readily market-
+able collateral having a market value, are limited
+to 10% of unimpaired capital and unimpaired
+surplus of the association. In the case of a
+branch, the ‘‘unimpaired capital and unimpaired
+surplus of the association’’ is the unimpaired
+capital and unimpaired surplus of the FBO as
+reported on the FBO’s Annual Report of FBO
+(FR Y-7). Section 5200 allows for some exemp-
+tions to these limits; however, the examiner
+should place the burden of proof upon the
+branch to justify qualifications for these
+exemptions.
+
+Regulation D, Reserve Requirements
+of Depository Institutions—
+12 CFR 204
+
+The Board of Governors of the Federal Reserve
+System’s Regulation D was issued under the
+authority of section 19 (12 USC 461) and other
+provisions of the Federal Reserve Act and of
+section 7 of the IBA (12 USC 3105). The
+regulation relates to the reserves that depository
+institutions are required to maintain. The reserve
+requirements apply to a foreign bank’s branch or
+agency located in the U.S., in the following
+instances:
+
+Other Compliance Matters 5070.1
+
+Branch and Agency Examination Manual September 1997
+Page 7
+
+
+• its parent bank has total worldwide consoli-
+dated bank assets in excess of $1 billion;
+
+• its parent bank is controlled by a foreign
+company or group of foreign companies that
+own or control foreign banks that in the
+aggregate have total worldwide consolidated
+bank assets in excess of $1 billion; or
+
+• the branch is eligible to apply to become a
+FDIC-insured bank.
+
+Refer to the regulation for information on the
+calculation and maintenance of reserves. Sec-
+tion 5060 of this manual also addresses the
+regulatory reports required to calculate reserves.
+The examiner assigned the review of regulatory
+reports should determine whether any violations
+of Regulation D exist.
+
+Bank Secrecy Act—31 USC 5311, et
+seq. and 31 CFR Part 103, et seq./
+Regulation H, Section 208.14
+
+Refer to the Federal Reserve System’s Bank
+Secrecy Act Manual for information on these
+rules and regulations.
+
+Transfer Agent Activities
+
+If a branch acts as a transfer agent for the stock
+of its holding company or any other equity
+security, it may have to register with the Board
+of Governors as a transfer agent, pursuant to the
+requirements of Regulation H (section 208.8(f)),
+by filing uniform interagency Form TA-1. A
+discussion of the responsibilities of a branch as
+a transfer agent, the reports and filing require-
+ments, and other information, including exami-
+nation procedures, are contained in the Board’s
+Transfer Agent Examination Manual. The Board
+has developed a separate Report of Examination
+of Transfer Agents.
+
+Municipal Securities Dealer Activities
+
+A branch that is a municipal securities dealer
+must register with the SEC and with the Board
+as a municipal securities dealer, pursuant to SEC
+Rule 15Ba2-1, by filing Form MSD. A discus-
+sion of the responsibilities as a municipal secu-
+rities dealer, filing requirements, and other
+information, including examination procedures,
+
+is contained in the Board’s Municipal Securities
+Dealer Examination Manual. The Board has
+developed a separate Report of Examination of
+Municipal Securities Dealer Activities.
+
+Government Securities Broker and Dealer
+Activities
+
+If a branch acts as a government securities
+broker and/or dealer, it may have to file notice
+with the Board as a government securities bro-
+ker and/or dealer pursuant to section 15C(a)(1)(B)
+of the Securities Exchange Act of 1934, by filing
+Form FR G-FIN. A discussion of the branch’s
+responsibilities as a government securities bro-
+ker and/or dealer, filing requirements, and other
+information, including examination procedures
+is contained in the Board’s Procedures for the
+Examination of Government Securities Activi-
+ties. The Board has developed a separate Sum-
+mary Report of Examination of Government
+Securities Broker/Dealer or Custodial Activities.
+
+Lost and Stolen Securities Reporting
+and Inquiry Requirements—
+17 CFR 240.17F-1
+
+A branch with deposits insured by the Federal
+Deposit Insurance Corporation (reporting insti-
+tution) must register with the Securities and
+Exchange Commission’s designee, Securities
+Information Center, Inc. (SIC) and report lost,
+missing, stolen, or counterfeit securities to the
+SIC. Each insured branch is responsible for
+contacting the SIC to determine if securities
+coming into its possession, whether by pledge,
+transfer or some other manner, have been pre-
+viously reported as missing, lost, stolen,
+or counterfeit, except in certain limited
+circumstances.
+
+All functions within a branch that handle or
+process securities are subject to the reporting
+requirements. Only the transfer agent function is
+exempt from the inquiry requirements. Accord-
+ingly, all branch departments likely to be
+affected, including the trust, investment, transfer
+agent, custody or dealer departments, and the
+lending operations as relating to margin loans,
+should be familiar with the requirements set out
+in 17 CFR 240.17F-1.
+
+Securities exempt from the reporting require-
+ments are:
+
+5070.1 Other Compliance Matters
+
+September 1997 Branch and Agency Examination Manual
+Page 8
+
+
+• Registered securities of the U.S. government
+and federal agencies thereof;
+
+• Securities that have not been assigned CUSIP
+numbers; and,
+
+• Bond coupons.
+
+Securities exempt from the inquiry require-
+ments are:
+
+• Securities received directly from the issuer or
+its agent at issuance;
+
+• Securities received from another reporting
+institution or from a Federal Reserve Bank or
+branch;
+
+• Securities received from a customer of the
+reporting institution in the name of the cus-
+tomer or nominee; and,
+
+• Securities that are a part of a transaction of
+$10,000 or less (aggregate face value for
+bonds or market value for stocks).
+
+Reporting Lost, Missing, Stolen or
+Counterfeit Securities
+
+Form X-17F-1A must be filed with the SIC
+within one business day after the discovery of:
+
+• A theft or loss of any security, when there is a
+substantial indication of criminal activity;
+
+• A security that has been lost or missing for
+two business days; or
+
+• A security that is counterfeit.
+
+The form must be filed within two business
+days of notification of nonreceipt when
+(1) delivery of securities sent by the branch is
+made by mail or by draft and payment is not
+received within ten business days and confirma-
+tion of nondelivery has been made by the
+receiving institution and (2) delivery is made in
+person and no receipt is maintained by the
+branch. If securities sent by the branch, either in
+person or through a clearing agency, are lost in
+transit and the certificate numbers of the secu-
+rities can be determined, the branch must supply
+the receiving institution with the certificate num-
+bers of the securities within two business days
+from the date of the request from the receiving
+institution. The delivery of lost or missing
+securities to the branch must be reported within
+one business day after discovery and notification
+of certificate numbers. Securities that are con-
+sidered lost or missing as a result of counts or
+verifications must be reported no later than ten
+
+business days after discovery or as soon as
+certificate numbers can be ascertained.
+
+Copies of all reports required to be filed under
+17 CFR 240.17F-1 must also be submitted to the
+registered transfer agent for the issue being
+reported and, if criminal activities are suspected,
+to the Federal Bureau of Investigation. Copies of
+filed or received Forms X-17F-1A must be
+maintained in an easily accessible place for
+three years.
+
+CONSUMER COMPLIANCE
+REGULATIONS
+
+Since the late 1960s, Congress has enacted a
+number of consumer protection and civil rights
+laws directly related to the activities of financial
+institutions. Traditionally, these laws have been
+enforced by the domestic institution’s primary
+federal regulator; for example, the Board of
+Governors conducts consumer compliance
+examinations for state member banks. More
+recently, as part of the Federal Deposit Insur-
+ance Corporation Improvement Act of 1991,
+Congress expanded the authority of the Board
+and other federal banking agencies to enforce
+consumer statutes for certain types of FBOs.
+
+Specifically, the Federal Reserve System is
+responsible for enforcing consumer laws in the
+case of state-licensed agencies and state-licensed
+uninsured branches of FBOs, commercial lend-
+ing companies owned or controlled by FBOs
+and organizations operating under section 25 or
+25(a) of the Federal Reserve Act (Edge Act and
+Agreement corporations). In addition, the Office
+of the Comptroller of the Currency is respon-
+sible for conducting these examinations for
+federally-licensed, uninsured branches of FBOs
+and the Federal Deposit Insurance Corporation
+is responsible for federally-insured branches of
+FBOs.
+
+The scope of a typical compliance examina-
+tion for these institutions includes the Equal
+Credit Opportunity Act, the Home Mortgage
+Disclosure Act, the Truth in Lending Act, the
+Fair Credit Reporting Act, the Fair Debt Collec-
+tion Practices Act, the Electronic Fund Transfer
+Act, the Federal Trade Commission Act, and the
+Expedited Funds Availability Act. The degree to
+which FBOs operating in the U.S. conduct
+activities covered by these laws and regulations
+vary, but often these institutions conduct far
+fewer such activities than a typical domestically-
+chartered bank.
+
+Other Compliance Matters 5070.1
+
+Branch and Agency Examination Manual September 1997
+Page 9
+
+
+Examinations of entities of FBOs should be
+conducted using existing regulatory policies and
+procedures for domestically-chartered bank com-
+pliance examinations. Examiner guidelines for
+conducting compliance examinations and inves-
+tigating consumer complaints are contained, for
+example, in the Board of Governor’s Consumer
+Compliance Handbook and various supervisory
+Consumer Affairs letters. These guidelines
+describe the examination procedures to be used
+in connection with loan file sampling, reporting
+and correcting violations, and rating branches
+for compliance. Of particular importance are
+violations that require reimbursement of over-
+charges and violations that trigger corrective
+action under the Board’s Regulation B/Fair
+Housing Act Policy Guide.
+
+Following is a description of some of the
+regulations and consumer protection laws that
+Federal Reserve System examiners enforce. This
+information is provided primarily as reference
+material; examiners should consult the detailed
+handbooks mentioned earlier for specific exami-
+nation guidance in this area.
+
+Regulation B/Equal Credit
+Opportunity Act
+
+The Equal Credit Opportunity Act prohibits
+discrimination against an applicant for credit
+because of age, sex, marital status, religion,
+race, color, national origin, or receipt of public
+assistance. It also prohibits discrimination
+because of a good faith exercise of any rights
+under the federal consumer credit laws. The law
+also contains notification requirements for con-
+sumers and small businesses that have been
+denied credit.
+
+Regulation C/Home Mortgage
+Disclosure Act
+
+The Home Mortgage Disclosure Act requires
+certain lending branches to report annually on
+their originations and purchases of home pur-
+chase and home improvement loans and appli-
+cations for such loans. The type of loan, location
+of property, race or national origin, sex, and
+income of the applicant or borrower are reported
+to supervisory agencies. Branches are required
+to make information regarding their lending
+
+available to the public and must post a notice of
+availability in their public lobby.
+
+Regulation E/Electronic Funds
+Transfer Act
+
+The Electronic Funds Transfer Act provides
+consumer protection for all transactions using a
+debit card or other electronic means to debit or
+credit an account. For example, it also limits a
+consumer’s liability for unauthorized electronic
+fund transfers, restricts issuance of debit cards,
+and requires certain disclosures.
+
+Regulation Z/Truth In Lending Act
+
+Regulation Z implements the federal Truth in
+Lending Act, which is contained in Title I of the
+Consumer Protection Act and Section 1204 of
+the Competitive Equality Banking Act of 1987.
+
+The Truth in Lending Act requires disclosure
+of certain costs and terms of credit including the
+finance charge and the annual percentage rate so
+that a consumer can compare the prices of credit
+from different sources. It also limits liability on
+lost or stolen credit cards. In addition, it pro-
+vides consumers the right to cancel certain
+home-secured loans. Over the years, the Truth in
+Lending Act has been amended by several acts.
+A summary of the provisions of each of the Acts
+follows.
+
+Consumer Leasing Act
+
+The Consumer Leasing Act requires disclosure
+of certain costs and terms of consumer leases, so
+that consumers can compare the prices of leas-
+ing from different sources.
+
+Fair Credit and Charge Card Disclosure
+Act
+
+The Fair Credit and Charge Card Disclosure Act
+requires disclosures on (1) credit and charge
+cards and (2) applications and pre-approved
+solicitations for cards, whether issued by finan-
+cial institutions, retail stores, or private compa-
+nies. Information such as APRs, annual fees,
+and grace periods must be provided in tabular
+form. The Act also requires card issuers that
+
+5070.1 Other Compliance Matters
+
+September 1997 Branch and Agency Examination Manual
+Page 10
+
+
+impose an annual fee to provide disclosures
+before annual renewal. In addition, card issuers
+that offer credit insurance must inform custom-
+ers of any increase in rate or substantial decrease
+in coverage should the issuer decide to change
+insurance providers.
+
+Fair Credit Billing Act
+
+The Fair Credit Billing Act establishes proce-
+dures for the prompt correction of errors on
+open-end credit accounts. It also protects a
+consumer’s credit rating while the consumer is
+settling any disputes.
+
+Home Equity Loan Consumer Protection
+Act
+
+The Home Equity Loan Consumer Protection
+Act requires lenders to disclose terms, rates, and
+conditions (APR, miscellaneous charges, pay-
+ment terms, and information about variable rate
+features) for home equity lines of credit with the
+applications and before the first transaction under
+the home equity plan. If the disclosed terms
+change, the consumer can refuse to open the
+plan and is entitled to a refund of fees paid in
+connection with the application. The Act also
+limits the circumstances under which creditors
+may terminate or change the terms of a home
+equity plan after it is opened.
+
+Regulation AA/Credit Practices Rule
+(issued under the Federal Trade
+Commission Act)
+
+The Credit Practices Rule prohibits lenders from
+using certain remedies such as confessions of
+judgement; exemption waivers; wage assign-
+ments; and nonpossessory, nonpurchase money,
+security interests in household goods in connec-
+tion with consumer credit contracts. The rule
+also prohibits lenders from misrepresenting a
+cosigner’s liability and requires that lenders
+
+provide cosigners with a notice explaining their
+credit obligation as a cosigner. It also prohibits
+the pyramiding of late charges.
+
+Regulation CC/Expedited Funds
+Availability Act
+
+The Expedited Funds Availability Act requires
+that all banks (including branches of FBOs),
+savings and loan associations, savings banks,
+and credit unions to make funds deposited into
+checking, share draft, and NOW accounts avail-
+able according to specified time schedules, and
+to disclose their funds availability policies to
+their customers. The law does not require an
+institution to delay the customer’s use of depos-
+ited funds but instead limits how long any delay
+may last. The regulation also establishes rules
+designed to speed the return of unpaid checks.
+
+Fair Credit Reporting Act
+
+The Fair Credit Reporting Act establishes pro-
+cedures for correcting mistakes on a person’s
+credit record and requires that a consumer’s
+record only be provided for legitimate business
+needs. It also requires that the record be kept
+confidential. A credit record may be retained
+seven years for judgements, liens, suits, and
+other adverse information, except for bankrupt-
+cies, which may be retained ten years. If a
+consumer has been denied credit, a cost-free
+credit report may be requested within 30 days of
+denial.
+
+Fair Debt Collection Practices Act
+
+The Fair Debt Collection Practices Act is
+designed to eliminate abusive, deceptive, and
+unfair debt collection practices. It applies to
+third party debt collectors or those who use a
+name other than their own in collecting con-
+sumer debts.
+
+Other Compliance Matters 5070.1
+
+Branch and Agency Examination Manual September 1997
+Page 11
+
+
+Other Compliance Matters
+Examination Objectives
+Effective date July 1997 Section 5070.2
+
+1. To determine whether the branch has poli-
+cies and procedures covering applicable
+requirements of the Foreign Corrupt Prac-
+tices Act, Federal Election Campaign Act,
+Bank Bribery Act, and Foreign Assets Con-
+trol Regulation, and to determine the effec-
+tiveness of such procedures to ensure com-
+pliance and detect violations.
+
+2. To determine if the branch has made
+improper or illegal payments in violation of
+the Foreign Corrupt Practices Act, Federal
+Election Campaign Act, Bank Bribery Act,
+or the Foreign Assets Control Regulation,
+and, regardless of legality, to determine
+whether they constitute an unsafe and
+unsound banking practice.
+
+3. To determine if the branch is in compliance
+with the requirements of Regulation K and
+Regulation D, where applicable.
+
+4. To determine if the branch has policies and
+procedures covering applicable require-
+ments of the Bank Secrecy Act, and deter-
+mine the effectiveness of such procedures to
+ensure compliance and detect violations.
+
+5. To determine if the branch has complied
+with the other reporting requirements
+regarding securities and transfer agent
+activities, where applicable.
+
+6. To determine if the branch has complied
+with reporting requirements regarding Trans-
+fer Agent, Municipal Securities Dealer, and
+Government Securities Broker/Dealer activi-
+ties, where applicable.
+
+7. To determine if the branch has complied
+with the SEC’s lost and stolen securities
+reporting and inquiry requirements, if
+applicable.
+
+8. To determine if branch officers and other
+personnel are operating in conformance with
+established branch guidelines.
+
+9. To determine the extent and severity of
+violations noted, if any.
+
+10. To recommend corrective action when poli-
+cies, practices, procedures, or internal con-
+trols are deficient.
+
+11. To ensure that prompt corrective action is
+taken with respect to all violations noted.
+
+Branch and Agency Examination Manual September 1997
+Page 1
+
+
+Other Compliance Matters
+Examination Procedures
+Effective date July 1997 Section 5070.3
+
+1. Determine whether the branch has a policy
+or policies prohibiting improper or illegal
+payments, bribes, kickbacks, or loans cov-
+ered by applicable provisions of the Foreign
+Corrupt Practices Act, Federal Election
+Campaign Act, Bank Bribery Act, or For-
+eign Assets Control Regulation. Also, deter-
+mine whether the branch has a policy
+addressing the requirements of the Bank
+Secrecy Act.
+
+2. Determine whether the policy(s), if any, has
+been effectively communicated to officers,
+employees, or agents of the organization to
+ensure compliance.
+
+3. Review any investigation or study per-
+formed by or on behalf of the head office
+that evaluates policy or operations associ-
+ated with the payment of funds and finan-
+cial recordkeeping requirements for pos-
+sible violation of the statutes mentioned
+above.
+
+4. Review and analyze any internal or external
+audit program employed by the branch to
+determine whether the internal and external
+auditors have established appropriate rou-
+tines to identify improper or illegal pay-
+ments under the statutes. In connection with
+the evaluation of the adequacy of any audit
+program, the examiner should:
+a. Determine whether the auditor is aware
+
+of the provisions of the Foreign Corrupt
+Practices Act, Federal Election Cam-
+paign Act, Bank Bribery Act, and For-
+eign Assets Control Regulation, and
+whether audit programs are in place that
+check for compliance with these laws.
+
+b. Review such programs and the results of
+any audits.
+
+5. Analyze the general level of internal con-
+trols to determine whether there is sufficient
+protection against improper or illegal pay-
+ments being irregularly recorded on the
+organization’s books.
+
+6. Examiners should be alert, in the course of
+their usual examination procedures, for any
+transactions or the use of organization ser-
+vices or equipment, which might indicate a
+violation of the statutes.
+
+7. Determine whether the branch is in compli-
+ance with Regulation K by reviewing the
+activities and investments in which the
+branch engages.
+
+8. For the responsible Federal Reserve Bank,
+determine whether the FBO is in compli-
+ance with Section 211.28 of Regulation K.
+
+9. Consult with the examiner assigned ‘‘Review
+of Regulatory Reports’’ to determine if any
+instances of noncompliance with Regula-
+tion D have occurred.
+
+10. Review the procedures in effect regarding
+the filing of Form X-17F-1A (Missing,
+Lost, Stolen, or Counterfeit Securities
+Report).
+
+11. Review the procedures in effect regarding
+compliance with the inquiry requirements
+under Lost and Stolen Securities Reporting
+and Inquiry Requirements (17CFR 240.17
+F-1).
+
+12. Review manual or automated OFAC accounts
+and wire transfer screening systems. Ensure
+that periodic OFAC updates are incorpo-
+rated into the monitoring system in a timely
+manner.
+
+Branch and Agency Examination Manual September 1997
+Page 1
+
+
+Other Compliance Matters
+Internal Control Questionnaire
+Effective date July 1997 Section 5070.4
+
+FOREIGN CORRUPT PRACTICES
+ACT
+
+1. Has the branch adopted written policies that
+prohibit the offering or payment of improper
+or illegal payments, bribes, kickbacks, or
+loans to or from foreign government offi-
+cials, officials of a foreign government
+instrumentality, a foreign political party or
+official thereof, a candidate for foreign
+political office, or to a person that the
+branch employee believes will give such
+money to those foreign officials?
+
+2. Has this policy been communicated to all
+branch employees?
+
+3. If an allowable payment is made, did the
+branch properly record the transaction with-
+out trying to conceal the activity?
+
+4. Does the allowable payment consist only of
+a payment made to expedite or secure the
+performance of a routine governmental
+action by a foreign official, foreign political
+party, or foreign party official?
+
+FEDERAL ELECTION CAMPAIGN
+ACT
+
+5. Has the branch adopted written policies that
+prohibit it from making contributions or
+expenditures in connection with any elec-
+tion to any political office or to any primary
+election, political convention, or caucus
+held to select candidates for political office?
+Does the policy also prohibit political con-
+tributions made by providing equipment
+and services without charge to candidates
+for office?
+
+6. Has this policy been communicated to all
+branch employees?
+
+7. The statute allows the branch to establish a
+separate segregated fund for political pur-
+poses by a corporation, labor organization,
+membership organization, cooperative, or
+corporation without capital stock. If the
+branch has established such a fund, were
+contributions requested and obtained from
+employees on a strictly voluntary basis?
+
+8. Are such solicitations only made a maxi-
+mum of twice a year?
+
+9. Are such solicitations only made to execu-
+tive or administrative personnel (i.e., sala-
+
+ried, not hourly paid, employees who have
+policy making, managerial, professional, or
+supervisory responsibilities), employees of
+the branch or family members of such
+persons?
+
+10. If an allowable contribution is made, did the
+branch properly record the transaction with-
+out trying to conceal the activity?
+
+BANK BRIBERY ACT
+
+11. Has the branch adopted a code of conduct or
+written policy that prohibits branch officials
+from:
+a. Soliciting for themselves or a third party
+
+anything of value from anyone in return
+for any business, service, or confidential
+information of the branch or the FBO, as
+applicable?
+
+b. Accepting anything of value from any-
+one, whose intent is to corruptly influ-
+ence or reward the branch official in
+connection with branch business, either
+before or after a transaction is discussed
+or consummated?
+
+12. Does the code or policy describe prohibited
+conduct, including conflicts of interest? Does
+it describe appropriate exceptions, includ-
+ing a range of internally acceptable dollar
+amounts for the various benefits that the
+branch official may receive from those doing
+or seeking to do business with the branch?
+
+13. Does the branch have its employees sign a
+written acknowledgment of having received
+a copy of this code or policy? Is an acknowl-
+edgment signed each time there are changes
+to the code or policy?
+
+14. When a branch official is offered or given a
+gift by a customer, does the branch official
+prepare a disclosure statement describing
+such incident?
+
+15. Does management regularly review the dis-
+closure(s) to ascertain if it is reasonable?
+
+FOREIGN ASSETS CONTROL
+REGULATION
+
+16. Does the branch have a written procedure
+for monitoring compliance with the
+regulation?
+
+Branch and Agency Examination Manual September 1997
+Page 1
+
+
+17. Does the branch have a policy that addresses
+transacting business with countries against
+which sanctions have been imposed by the
+U.S.?
+
+18. Does the branch refuse to transact business
+with those countries or specially designated
+nationals so listed by the statute?
+
+19. Does the branch report all blockings to the
+Office of Foreign Assets Control (OFAC)
+within ten days of occurrence?
+
+20. If the branch does conduct a transaction
+with a national from an economically sanc-
+tioned country, did the customer obtain a
+license from OFAC allowing it to undertake
+such transaction?
+
+21. Does the branch’s system for monitoring
+compliance with the statute include a con-
+tinuing review of its customer country lists
+and customer names to ensure that it is not
+dealing with customers from sanctioned
+countries or designated nationals?
+
+22. Are OFAC updates incorporated into the
+monitoring system in a timely manner?
+
+23. Do customer files contain sufficient docu-
+mentation that show the foreign citizenship
+or residency of the customer?
+
+24. Are private banking officers or other branch
+personnel who solicit loans or open deposit
+accounts cognizant of prohibited countries
+under the regulation?
+
+REGULATION K
+
+25. Are the activities in which the branch
+engages permissible under Regulation K?
+
+26. Does the branch monitor the total loans and
+extensions of credit extended to each single
+borrower?
+a. Is this information given to the branch’s
+
+U.S. regional headquarters of head office
+for determination of compliance with
+section 211.28 of Regulation K?
+
+b. If this is an examination of the U.S.
+regional headquarters of the FBO, is the
+organization in compliance with section
+211.28 of Regulation K?
+
+c. If the branch reports directly to the head
+office, is documentation sufficient to sup-
+port compliance with section 211.28 of
+Regulation K?
+
+REGULATION D
+
+27. Is the branch required to maintain reserves
+
+according to Regulation D? If so, have
+adequate reserves been maintained? (Refer
+to the Review of Regulatory Reports ICQ)
+
+28. Review the branch’s system for compliance
+with the reporting and inquiry requirements
+of the lost and stolen securities provisions
+of 17 CFR 240.17f-1.
+a. Has the branch registered as a direct or
+
+indirect inquirer with the Securities
+Information Center, Inc.?
+
+b. Are reports submitted within one busi-
+ness day of discovery when:
+• Theft or loss of a security is believed
+
+to have occurred through criminal
+activity?
+
+• A security has been missing or lost for
+two business days, except in certain
+cases?
+
+• A security is counterfeit?
+c. Are reports submitted by the branch, as a
+
+delivering institution, within two busi-
+ness days of notification of nonreceipt
+when:
+• Delivery is made in person and no
+
+receipt is maintained by the branch?
+• Delivery of securities is made by mail
+
+or via draft and payment is not received
+within 10 business days and confirma-
+tion of nondelivery has been made by
+the receiving institution?
+
+• Securities are lost in transit and
+the certificate number(s) can be
+determined?
+
+d. Are reports submitted by the branch, as a
+receiving institution, within one business
+day of discovery and notification of the
+certificate number(s) when:
+• Securities are delivered through a clear-
+
+ing agency and the delivering institu-
+tion has supplied the certificate num-
+bers within the required two business
+days after request?
+
+• Securities are delivered over the win-
+dow and the delivering institution has
+a receipt and supplies the certificate
+number(s) within the required two busi-
+ness days after request?
+
+e. Are securities that are considered to be
+lost or missing as a result of counts or
+verifications reported no later than ten
+business days after discovery or as soon
+after as the certificate number(s) can be
+ascertained?
+
+29. Are copies of those reports submitted to the
+registered transfer agent for the issue and
+
+5070.4 Other Compliance Matters: Internal Control Questionnaire
+
+September 1997 Branch and Agency Examination Manual
+Page 2
+
+
+the Federal Bureau of Investigation, in the
+case of suspected criminal activity?
+
+30. Are all recoveries of securities reported
+within one business day of recovery or
+finding? (Note: Only the institution that
+initially reported the security as missing can
+make a recovery report.)
+
+31. Are inquiries made when the branch takes
+in any security that is not:
+a. Received directly from the issuer or
+
+issuing agent at issuance?
+b. Received from another reporting institu-
+
+tion or Federal Reserve Bank in its
+capacity as fiscal agent?
+
+c. Received from a branch customer and is
+registered in the name of the customer or
+its nominee?
+
+32. Are all reports made on Form X-17F-1A or
+facsimile?
+
+33. Are copies of Form X-17F-1A and subse-
+quent confirmations and other information
+received maintained for three years in an
+easily accessible location?
+
+CONCLUSION
+
+34. Is the information covered by this ICQ
+adequate for evaluating internal controls in
+this area? If not, indicate any additional
+examination procedures deemed necessary.
+
+35. Based on the information gathered, evaluate
+the internal controls in this area (i.e. strong,
+satisfactory, fair, marginal, unsatisfactory).
+
+Other Compliance Matters: Internal Control Questionnaire 5070.4
+
+Branch and Agency Examination Manual September 1997
+Page 3
+

@@ -1,0 +1,418 @@
+
+
+For release on delivery 
+8:00 a.m. EST (2:00 p.m. local time) 
+February 18, 2011 
+ 
+
+
+Global Imbalances:  Links to Economic and Financial Stability 
+ 
+ 
+ 
+
+Remarks by 
+ 
+
+Ben S. Bernanke 
+ 
+
+Chairman 
+ 
+
+Board of Governors of the Federal Reserve System 
+ 
+
+at the 
+ 
+
+Banque de France Financial Stability Review Launch Event 
+ 
+
+Paris, France 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+February 18, 2011
+
+
+ By facilitating the allocation of the world’s savings to the most productive uses, 
+
+the free flow of capital across national borders confers substantial economic benefits, 
+
+including the promotion of economic growth.  That said, we have seen a number of 
+
+episodes in which international capital flows have brought with them challenges for 
+
+macroeconomic adjustment, financial stability, or both.  Such challenges have tended to 
+
+arise in two situations:  first, when the “rules of the game” of the international monetary 
+
+system--the policy responses that countries are expected to take to help foster a balanced 
+
+global economy over time--are either poorly articulated or not observed by key countries; 
+
+and second, when the financial systems of nations receiving strong capital inflows have 
+
+not been up to the task of investing those inflows productively.  
+
+These issues are hardly new.  In the late 1920s and early 1930s, the U.S. dollar 
+
+and French franc were undervalued, with the result that both countries experienced 
+
+current account surpluses and strong capital inflows.  Under the unwritten but long-
+
+standing rules of the gold standard, those two countries would have been expected to 
+
+allow the inflows to feed through to domestic money supplies and prices, leading to real 
+
+appreciations of their currencies and, with time, to a narrowing of their external 
+
+surpluses.  Instead, the two nations sterilized the effects of these capital inflows on their 
+
+money supplies, so that their currencies remained persistently undervalued.  Under the 
+
+constraints imposed by the gold standard, these policies in turn increased deflationary 
+
+pressures and banking-sector strains in deficit countries such as Germany, which were 
+
+losing gold and foreign deposits.  Ultimately, the unwillingness of the United States and 
+
+France to conduct their domestic policies by the rules of the game, together with 
+
+
+- 2 - 
+ 
+
+
+structural vulnerabilities in financial systems and in the gold standard itself, helped 
+
+destabilize the global economic and financial system and bring on the Great Depression. 
+
+The Asian financial crisis of the late 1990s illustrates a somewhat different type 
+
+of risk associated with large cross-border flows of capital.  During the 1990s, strong 
+
+capital inflows helped support robust growth in many Asian economies.  But Thailand’s 
+
+devaluation in mid-1997 triggered closer scrutiny of developments in the region.  
+
+Investors began to recognize that the financial systems of some Asian economies--
+
+because of institutional weaknesses, inadequate regulation, or other deficiencies--had not 
+
+effectively channeled the surge of incoming funds into productive investments.  As 
+
+foreign investors lost confidence, capital flows into the region reversed sharply, and the 
+
+credit-driven boom came to a precipitous end.  The Asian crisis imposed heavy costs in 
+
+terms of financial and macroeconomic instability in the affected countries.  In this case, 
+
+capital inflows posed a problem because of weaknesses in the financial systems and 
+
+regulatory oversight in countries receiving foreign capital.   
+
+Although these issues are now generally discussed in the context of emerging 
+
+market economies, the United States--the recipient of the largest capital inflows in the 
+
+world--has also faced challenges coping with capital inflows.  Notably, the failures of the 
+
+U.S. financial system in allocating strong flows of capital, both domestic and foreign, 
+
+helped precipitate the recent financial crisis and global recession.  
+
+Why was the United States, a mature economy, the recipient of net capital inflows 
+
+that rose to as much as 6 percent of its gross domestic product prior to the financial 
+
+crisis?  A significant portion of these capital inflows reflected a broader phenomenon 
+
+
+- 3 - 
+ 
+
+
+that, in the past, I have dubbed the global saving glut.1  Over the past 15 years or so, for 
+
+reasons on which I have elaborated in earlier remarks, many emerging market economies 
+
+have run large, sustained current account surpluses and thus have become exporters of 
+
+capital to the advanced economies, especially the United States.  These inflows 
+
+exacerbated the U.S. current account deficit and were also a factor pushing U.S. and 
+
+global longer-term interest rates below levels suggested by expected short-term rates and 
+
+other macroeconomic fundamentals.    
+
+My earlier comments on the global saving glut hypothesis focused on the sources 
+
+of the capital inflows to the United States and their effects on global longer-term interest 
+
+rates and the U.S. current account, without attention to the composition of those flows.  
+
+My paper for the Banque de France Financial Stability Review extends the basic global 
+
+saving glut hypothesis to consider the portfolio preferences of foreign investors in the 
+
+United States and the implications of those preferences.2  Several researchers have argued 
+
+that capital flows from emerging markets to advanced economies will tend to be directed 
+
+to the safest and most liquid assets, of which, these researchers argue, there is a relative 
+
+shortage in emerging markets.3  My paper confirms empirically that the global saving 
+
+glut countries--principally, some emerging Asian economies and Middle Eastern oil 
+
+                                                 
+1 See Ben S. Bernanke (2005), “The Global Saving Glut and the U.S. Current Account Deficit,” speech 
+delivered at the Sandridge Lecture, Virginia Association of Economists, Richmond, Va., March 10, 
+www.federalreserve.gov/boarddocs/speeches/2005/200503102/default.htm; and Ben S. Bernanke (2007), 
+“Global Imbalances:  Recent Developments and Prospects,” speech delivered at the Bundesbank Lecture, 
+Berlin, Germany, September 11, www.federalreserve.gov/newsevents/speech/bernanke20070911a.htm. 
+2 See Ben S. Bernanke, Carol Bertaut, Laurie Pounder DeMarco, and Steven Kamin (2011), “International 
+Capital Flows and the Returns to Safe Assets in the United States, 2003-2007,” Banque de France 
+Financial Stability Review, no. 15 (February), pp.13-26. 
+3 See, for example, Ricardo J. Caballero, Emmanuel Farhi, and Pierre-Olivier Gourinchas (2008), “An 
+Equilibrium Model of ‘Global Imbalances’ and Low Interest Rates,” American Economic Review, 
+vol. 98 (1), pp. 358-93; and Ricardo J. Caballero and Arvind Krishnamurthy (2009), “Global Imbalances 
+and Financial Fragility,” American Economic Review:  Papers & Proceedings, vol. 99 (May), pp. 584-88. 
+
+
+- 4 - 
+ 
+
+
+exporters--did indeed evince a strong preference for very safe and liquid U.S. assets in 
+
+the middle of the past decade, especially Treasury and agency securities. 
+
+Although a large share of the net capital inflows to the United States came from 
+
+emerging markets, substantial gross capital inflows were received from the advanced 
+
+economies as well.  An additional contribution of the paper is to examine the portfolio 
+
+preferences of these advanced economy, especially European, investors.  The paper finds 
+
+that, like the global saving glut countries, European investors placed a high value on 
+
+safety and liquidity in their U.S. investments; however, relative to purchases by emerging 
+
+markets, those of European investors encompassed a broader range of U.S. securities, 
+
+including sizable amounts of private-label mortgage-backed securities (MBS) as well as 
+
+other highly rated asset-backed securities.  Unlike the global saving glut countries, which 
+
+funded their acquisitions of U.S. assets through their current account surpluses, Europe 
+
+on net had a roughly balanced current account and thus issued liabilities to fund 
+
+acquisitions of U.S. assets.  However, as these liabilities were tilted toward more 
+
+traditional securities, including sovereign debt, as well as bank deposits, the result here 
+
+too was a net increase in the global demand for highly rated U.S. assets.  
+
+The preferences of foreign investors for highly rated U.S. assets, together with 
+
+similar preferences by many domestic investors, had a number of implications, including 
+
+for the relative yields on such assets.  Importantly, though, the preference by so many 
+
+investors for perceived safety created strong incentives for U.S. financial engineers to 
+
+develop investment products that “transformed” risky loans into highly rated securities.  
+
+Remarkably, even though a large share of new U.S. mortgages during the housing boom 
+
+were of weak credit quality, financial engineering resulted in the overwhelming share of 
+
+
+- 5 - 
+ 
+
+
+private-label mortgage-related securities being rated AAA.  The underlying contradiction 
+
+was, of course, ultimately exposed, at great cost to financial stability and the global 
+
+economy. 
+
+To be clear, these findings are not to be read as assigning responsibility for the 
+
+breakdown in U.S. financial intermediation to factors outside the United States.  Instead, 
+
+in analogy to the Asian crisis, the primary cause of the breakdown was the poor 
+
+performance of the financial system and financial regulation in the country receiving the 
+
+capital inflows, not the inflows themselves.  In the case of the United States, sources of 
+
+poor performance included misaligned incentives in mortgage origination, underwriting, 
+
+and securitization; risk-management deficiencies among financial institutions; conflicts 
+
+of interest at credit rating agencies; weaknesses in the capitalization and incentive 
+
+structures of the government-sponsored enterprises; gaps and weaknesses in the financial 
+
+regulatory structure; and supervisory failures.4  In reflecting on this experience, I have 
+
+gained increased appreciation for the challenges faced by policymakers in emerging 
+
+market economies who have had to manage large and sometimes volatile capital inflows 
+
+for the past several decades. 
+
+The global financial crisis is receding, but capital flows are once again posing 
+
+some notable challenges for international macroeconomic and financial stability.  These 
+
+capital flows reflect in part the continued two-speed nature of the global recovery, as 
+
+                                                 
+4 For a discussion, see Ben S. Bernanke (2010), “Causes of the Recent Financial and Economic Crisis,” 
+statement before the Financial Crisis Inquiry Commission, September 2, 
+www.federalreserve.gov/newsevents/testimony/bernanke20100902a.htm. 
+
+
+- 6 - 
+ 
+
+
+economic growth in the emerging markets is far outstripping growth in the advanced 
+
+economies.5   
+
+In light of the relatively muted recoveries to date in the advanced economies, the 
+
+central banks of those economies have generally continued accommodative monetary 
+
+policies.  Some observers, while acknowledging that an aborted recovery in the advanced 
+
+economies would be highly detrimental to the emerging market economies, have 
+
+nevertheless argued that these monetary policies are generating negative spillovers.  In 
+
+particular, concerns have centered on the strength of private capital flows to many 
+
+emerging market economies, which, depending on their policy responses, could put 
+
+upward pressure on their currencies, boost their inflation rates, or lead to asset price 
+
+bubbles.   
+
+Although policymakers in the emerging markets clearly face important 
+
+challenges, such concerns should be put into perspective.  First, these capital flows have 
+
+been driven by many factors, including expectations of more-rapid growth and thus 
+
+higher investment returns in the emerging market economies than in the advanced 
+
+economies.  Indeed, recent data suggest that the aggregate flows to emerging markets are 
+
+not out of line with longer-term trends.  Second, as I noted earlier, emerging market 
+
+economies have a strong interest in a continued economic recovery in the advanced 
+
+economies, which accommodative monetary policies in the advanced economies are 
+
+intended to promote.  Third, policymakers in the emerging markets have a range of 
+
+powerful--although admittedly imperfect--tools that they can use to manage their 
+
+economies and prevent overheating, including exchange rate adjustment, monetary and 
+
+                                                 
+5 For a discussion of the international implications of the two-speed recovery, see Ben S. Bernanke (2010), 
+“Rebalancing the Global Recovery,” speech delivered at the Sixth European Central Banking Conference, 
+Frankfurt, Germany, November 19, www.federalreserve.gov/newsevents/speech/bernanke20101119a.htm. 
+
+
+- 7 - 
+ 
+
+
+fiscal policies, and macroprudential measures.  Finally, it should be borne in mind that 
+
+spillovers can go both ways.  For example, resurgent demand in the emerging markets 
+
+has contributed significantly to the sharp recent run-up in global commodity prices.  
+
+More generally, the maintenance of undervalued currencies by some countries has 
+
+contributed to a pattern of global spending that is unbalanced and unsustainable.  Such 
+
+imbalances include those not only between emerging markets and advanced economies, 
+
+but also among the emerging market economies themselves, as those countries that have 
+
+allowed their exchange rates to be determined primarily by market forces have seen their 
+
+competitiveness erode relative to countries that have intervened more aggressively in 
+
+foreign exchange markets.     
+
+Our collective challenge is to reshape the international monetary system to foster 
+
+strong, sustainable growth and improve economic outcomes for all nations.  Working 
+
+together, we need to clarify and strengthen the rules of the game, with an eye toward 
+
+creating an international system that more effectively supports the simultaneous pursuit 
+
+of internal and external balance.  To achieve a more balanced international system over 
+
+time, countries with excessive and unsustainable trade surpluses will need to allow their 
+
+exchange rates to better reflect market fundamentals and increase their efforts to 
+
+substitute domestic demand for exports.  At the same time, countries with large, 
+
+persistent trade deficits must find ways to increase national saving, including putting 
+
+fiscal policies on a more sustainable trajectory.  In addition, to bolster our individual and 
+
+collective ability to manage and productively invest capital inflows, we must continue to 
+
+increase the efficiency, transparency, and resiliency of our national financial systems and 
+
+to strengthen financial regulation and oversight. 
+
+
+- 8 - 
+ 
+
+
+None of these changes will be easy or immediate.  To help us achieve them, we 
+
+must continue to strengthen our mechanisms for international cooperation, including in 
+
+the Basel Committee, the Financial Stability Board, and the Group of Twenty Mutual 
+
+Assessment Process, and work together to enhance surveillance by the International 
+
+Monetary Fund.       
+
+ I am pleased that our French hosts are focusing the work of the Group of Twenty 
+
+on these challenging, but crucially important, issues.  I am hopeful that we will make 
+
+substantive progress on them in the year ahead--an outcome that will strengthen the 
+
+global economy and benefit all countries.   
+
+
+

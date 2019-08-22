@@ -1,0 +1,1193 @@
+
+For release on delivery 
+
+10:00 a.m. EDT (8:00 a.m. MDT) 
+
+August 25, 2017 
+
+
+
+
+
+
+
+
+
+Financial Stability a Decade after the Onset of the Crisis 
+
+
+
+
+Remarks by 
+
+
+Janet L. Yellen  
+
+
+Chair  
+
+
+Board of Governors of the Federal Reserve System 
+
+
+at 
+
+
+“Fostering a Dynamic Global Recovery,” a symposium sponsored by  
+
+the Federal Reserve Bank of Kansas City 
+
+
+Jackson Hole, Wyoming 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+August 25, 2017 
+
+
+
+
+
+A decade has passed since the beginnings of a global financial crisis that resulted 
+
+in the most severe financial panic and largest contraction in economic activity in the 
+
+United States since the Great Depression.  Already, for some, memories of this 
+
+experience may be fading--memories of just how costly the financial crisis was and of 
+
+why certain steps were taken in response.  Today I will look back at the crisis and discuss 
+
+the reforms policymakers in the United States and around the world have made to 
+
+improve financial regulation to limit both the probability and the adverse consequences of 
+
+future financial crises.   
+
+A resilient financial system is critical to a dynamic global economy--the subject 
+
+of this conference.  A well-functioning financial system facilitates productive investment 
+
+and new business formation and helps new and existing businesses weather the ups and 
+
+downs of the business cycle.  Prudent borrowing enables households to improve their 
+
+standard of living by purchasing a home, investing in education, or starting a business.  
+
+Because of the reforms that strengthened our financial system, and with support from 
+
+monetary and other policies, credit is available on good terms, and lending has advanced 
+
+broadly in line with economic activity in recent years, contributing to today’s strong 
+
+economy.1    
+
+At the same time, reforms have boosted the resilience of the financial system.   
+
+Banks are safer.  The risk of runs owing to maturity transformation is reduced.  Efforts to 
+
+enhance the resolvability of systemic firms have promoted market discipline and reduced 
+
+                                                 
+1 Over the 12 quarters ending in the first quarter of this year, borrowing by the nonfinancial business sector 
+
+increased at an annual rate just above 6 percent, on average, and borrowing by households and nonprofit 
+
+institutions rose at an annual rate of 3-1/4 percent, on average; the corresponding average pace of increase 
+
+in nominal gross domestic product was 3-3/4 percent.  Over the same period, lending by private depository 
+
+institutions advanced at an annual rate of nearly 6-1/2 percent. 
+
+
+ - 2 - 
+
+the problem of too-big-to-fail.  And a system is in place to more effectively monitor and 
+
+address risks that arise outside the regulatory perimeter.   
+
+Nonetheless, the scope and complexity of financial regulatory reforms demand 
+
+that policymakers and researchers remain alert to both areas for improvement and 
+
+unexpected side effects.  The Federal Reserve is committed to continuing to evaluate the 
+
+effects of regulation on financial stability and on the broader economy and to making 
+
+appropriate adjustments. 
+
+I will start by reviewing where we were 10 years ago.  I will then walk through 
+
+some key reforms our country has put in place to diminish the chances of another severe 
+
+crisis and limit damage during times of financial instability.  After reviewing these steps, 
+
+I will summarize indicators and research that show the improved resilience of the U.S. 
+
+financial system--resilience that is due importantly to regulatory reform as well as actions 
+
+taken by the private sector.  I will then turn to the evidence regarding how financial 
+
+regulatory reform has affected economic growth, credit availability, and market liquidity.   
+
+Developments 10 Years Ago  
+
+The U.S. and global financial system was in a dangerous place 10 years ago.  U.S. 
+
+house prices had peaked in 2006, and strains in the subprime mortgage market grew acute 
+
+over the first half of 2007.2  By August, liquidity in money markets had deteriorated 
+
+enough to require the Federal Reserve to take steps to support it.3  And yet the discussion 
+
+                                                 
+2 A contemporaneous perspective on subprime mortgage market developments at this time is provided in 
+
+Ben S. Bernanke (2007), “The Subprime Mortgage Market,” speech delivered at the Federal Reserve Bank 
+
+of Chicago’s 43rd Annual Conference on Bank Structure and Competition, Chicago, May 17, 
+
+https://www.federalreserve.gov/newsevents/speech/bernanke20070517a.htm. 
+3 On August 17, 2007, the Federal Reserve Board reduced the primary credit rate at the discount window 
+
+by 50 basis points and announced a change to the Reserve Banks’ usual practices to allow the provision of 
+
+term financing for as long as 30 days, renewable by the borrower.  The changes were announced to remain 
+
+in place until the Federal Reserve determined that market liquidity had improved materially.  See Board of 
+
+
+ - 3 - 
+
+here at Jackson Hole in August 2007, with a few notable exceptions, was fairly optimistic 
+
+about the possible economic fallout from the stresses apparent in the financial system.4  
+
+As we now know, the deterioration of liquidity and solvency within the financial 
+
+sector continued over the next 13 months.  Accumulating strains across the financial 
+
+system, including the collapse of Bear Stearns in March 2008, made it clear that 
+
+vulnerabilities had risen across the system.  As a result, policymakers took extraordinary 
+
+measures:  The Federal Open Market Committee (FOMC) sharply cut the federal funds 
+
+rate, and the Federal Reserve, in coordination with the Treasury Department and other 
+
+agencies, extended liquidity facilities beyond the traditional banking sector, applying to 
+
+the modern structure of U.S. money markets the dictum of Walter Bagehot, conceived in 
+
+the 19th century, to lend freely against good collateral at a penalty rate.5  Still, the 
+
+deterioration in the financial sector continued, with Fannie Mae and Freddie Mac failing 
+
+in early September.6   
+
+But the deterioration from early 2007 until early September 2008--already the 
+
+worst financial disruption in the United States in many decades--was a slow trickle 
+
+                                                 
+Governors of the Federal Reserve System (2007), “Federal Reserve Board Discount Rate Action,” press 
+
+release, August 17, https://www.federalreserve.gov/newsevents/press/monetary/20070817a.htm. 
+4 The proceedings from the 2007 conference are instructive about the range of views regarding housing-
+
+related developments preceding the acute phase of the financial crisis.  See Federal Reserve Bank of 
+
+Kansas City (2007), Housing, Housing Finance, and Monetary Policy, proceedings of an economic policy 
+
+symposium (Kansas City:  FRBKC), 
+
+https://www.kansascityfed.org/publications/research/escp/symposiums/escp-2007.     
+5 For a discussion of the correspondence between the steps taken by the Federal Reserve and those 
+
+suggested by Walter Bagehot in the 19th century, see Brian F. Madigan (2009), “Bagehot’s Dictum in 
+
+Practice:  Formulating and Implementing Policies to Combat the Financial Crisis,” speech delivered at the 
+
+Federal Reserve Bank of Kansas City’s annual economic symposium, Jackson Hole, Wyo., August 21, 
+
+https://www.federalreserve.gov/newsevents/speech/madigan20090821a.htm. 
+6 A timeline of developments in the United States over the financial crisis is available on the Federal 
+
+Reserve Bank of St. Louis’s website at https://www.stlouisfed.org/financial-crisis/full-timeline.  The failure 
+
+of Fannie Mae and Freddie Mac is marked by the decision of the Federal Housing Finance Agency (FHFA) 
+
+to place Fannie Mae and Freddie Mac in government conservatorship on September 7, 2008.  Links to 
+
+documents outlining the actions taken around this time are available on the FHFA’s website at 
+
+https://www.fhfa.gov/Media/PublicAffairs/Pages/Conservatorship-of-Fannie-Mae-and-Freddie-Mac.aspx.  
+
+
+ - 4 - 
+
+compared with the tidal wave that nearly wiped out the financial sector that September 
+
+and led to a plunge in economic activity in the following months.  Not long after Fannie 
+
+and Freddie were placed in government conservatorship, Lehman Brothers collapsed, 
+
+setting off a week in which American International Group, Inc. (AIG), came to the brink 
+
+of failure and required large loans from the Federal Reserve to mitigate the systemic 
+
+fallout; a large money market fund “broke the buck” (that is, was unable to maintain a net 
+
+asset value of $1 per share) and runs on other money funds accelerated, requiring the 
+
+Treasury to provide a guarantee of money fund liabilities; global dollar funding markets 
+
+nearly collapsed, necessitating coordinated action by central banks around the world; the 
+
+two remaining large investment banks became bank holding companies, thereby ending 
+
+the era of large independent investment banks in the United States; and the Treasury 
+
+proposed a rescue of the financial sector.  Within several weeks, the Congress passed--
+
+and President Bush signed into law--the Emergency Economic Stabilization Act of 2008, 
+
+which established the $700 billion Troubled Asset Relief Program; the Federal Reserve 
+
+initiated further emergency lending programs; and the Federal Deposit Insurance 
+
+Corporation (FDIC) guaranteed a broad range of bank debt.7  Facing similar challenges in 
+
+their own jurisdictions, many foreign governments also undertook aggressive measures to 
+
+support the functioning of credit markets, including large-scale capital injections into 
+
+banks, expansions of deposit insurance programs, and guarantees of some forms of bank 
+
+debt.  
+
+                                                 
+7 In the fall of 2008, the three largest investment banks were (in alphabetical order) Goldman Sachs, Merrill 
+
+Lynch, and Morgan Stanley.  Merrill Lynch agreed to be acquired by Bank of America, and the remaining 
+
+two firms became bank holding companies. 
+
+
+ - 5 - 
+
+Despite the forceful policy responses by the Treasury, the Congress, the FDIC, 
+
+and the Federal Reserve as well as authorities abroad, the crisis continued to intensify:  
+
+The vulnerabilities in the U.S. and global economies had grown too large, and the 
+
+subsequent damage was enormous.  From the beginning of 2008 to early 2010, nearly 
+
+9 million jobs, on net, were lost in the United States.  Millions of Americans lost their 
+
+homes.  And distress was not limited to the U.S. economy:  Global trade and economic 
+
+activity contracted to a degree that had not been seen since the 1930s.  The economic 
+
+recovery that followed, despite extraordinary policy actions, was painfully slow.   
+
+What the Crisis Revealed and How Policymakers Have Responded 
+
+These painful events renewed efforts to guard against financial instability.  The 
+
+Congress, the Administration, and regulatory agencies implemented new laws, 
+
+regulations, and supervisory practices to limit the risk of another crisis, in coordination 
+
+with policymakers around the world. 
+
+The vulnerabilities within the financial system in the mid-2000s were numerous 
+
+and, in hindsight, familiar from past financial panics.  Financial institutions had assumed 
+
+too much risk, especially related to the housing market, through mortgage lending 
+
+standards that were far too lax and contributed to substantial overborrowing.  Repeating a 
+
+familiar pattern, the “madness of crowds” had contributed to a bubble, in which investors 
+
+and households expected rapid appreciation in house prices.  The long period of 
+
+economic stability beginning in the 1980s had led to complacency about potential risks, 
+
+and the buildup of risk was not widely recognized.8  As a result, market and supervisory 
+
+                                                 
+8 The notion that popular sentiment may contribute to mispricing of assets--for example, the power of the 
+
+madness of crowds--is attributed to Charles Mackay (1841), Memoirs of Extraordinary Popular Delusions 
+
+and the Madness of Crowds (London:  Richard Bentley).  A more modern perspective, and one using a 
+
+
+ - 6 - 
+
+discipline was lacking, and financial institutions were allowed to take on high levels of 
+
+leverage.  This leverage was facilitated by short-term wholesale borrowing, owing in part 
+
+to market-based vehicles, such as money market mutual funds and asset-backed 
+
+commercial paper programs that allowed the rapid expansion of liquidity transformation 
+
+outside of the regulated depository sector.  Finally, a self-reinforcing loop developed, in 
+
+which all of the factors I have just cited intensified as investors sought ways to gain 
+
+exposure to the rising prices of assets linked to housing and the financial sector.  As a 
+
+result, securitization and the development of complex derivatives products distributed 
+
+risk across institutions in ways that were opaque and ultimately destabilizing. 
+
+In response, policymakers around the world have put in place measures to limit a 
+
+future buildup of similar vulnerabilities.  The United States, through coordinated 
+
+regulatory action and legislation, moved very rapidly to begin reforming our financial 
+
+system, and the speed with which our banking system returned to health provides 
+
+evidence of the effectiveness of that strategy.  Moreover, U.S. leadership of global efforts 
+
+through bodies such as the Basel Committee on Banking Supervision, the Financial 
+
+Stability Board (FSB), and the Group of Twenty has contributed to the development of 
+
+standards that promote financial stability around the world, thereby supporting global 
+
+growth while protecting the U.S. financial system from adverse developments abroad.   
+
+                                                 
+phrase as memorable as the madness of crowds, is provided by Robert J. Shiller (2016), Irrational 
+
+Exuberance, 3rd ed. (Princeton, N.J.:  Princeton University Press).  The notion that economic stability can 
+
+generate a buildup of imbalances that subsequently contributes to instability is presented in Hyman P. 
+
+Minsky (1974), “The Modeling of Financial Instability:  An Introduction,” in Modeling and Simulation, 
+
+Vol. 5, Part 1, proceedings of the Fifth Annual Pittsburgh Conference (Pittsburgh:  Instrument Society of 
+
+America), pp. 267-72, http://digitalcommons.bard.edu/hm_archive/467.  A related discussion of how 
+
+financial excesses often precede downturns (and even panics) is provided in Charles P. Kindleberger and 
+
+Robert Z. Aliber (2005), Manias, Panics, and Crashes:  A History of Financial Crises, 5th ed. (Hoboken, 
+
+N.J.:  John Wiley & Sons).  
+
+
+
+
+ - 7 - 
+
+Preeminent among these domestic and global efforts have been steps to increase the loss-
+
+absorbing capacity of banks, regulations to limit both maturity transformation in short-
+
+term funding markets and liquidity mismatches within banks, and new authorities to 
+
+facilitate the resolution of large financial institutions and to subject systemically 
+
+important firms to more stringent prudential regulation. 
+
+Several important reforms have increased the loss-absorbing capacity of global 
+
+banks.  First, the quantity and quality of capital required relative to risk-weighted assets 
+
+have been increased substantially.9  In addition, a simple leverage ratio provides a 
+
+backstop, reflecting the lesson imparted by past crises that risk weights are imperfect and 
+
+a minimum amount of equity capital should fund a firm’s total assets.  Moreover, both 
+
+the risk-weighted and simple leverage requirements are higher for the largest, most 
+
+systemic firms, which lowers the risk of distress at such firms and encourages them to 
+
+limit activities that could threaten financial stability.10  Finally, the largest U.S. banks 
+
+participate in the annual Comprehensive Capital Analysis and Review (CCAR)--the 
+
+                                                 
+9 These improvements encompass a number of changes.  The regulatory requirements for capital have been 
+
+increased and focus on Tier 1 common equity, which proved more capable of absorbing losses than lower-
+
+quality forms of capital.  The role of bank internal models in determining risk-weighted assets also has 
+
+been significantly constrained in the United States.  In addition, exposures previously considered off 
+
+balance sheet have been incorporated into risk-weighted assets. 
+10 The Federal Reserve Board, the FDIC, and the Office of the Comptroller of the Currency adopted a final 
+
+rule to strengthen the leverage ratio standards for the largest, most interconnected U.S. banking 
+
+organizations on April 8, 2014.  Under the final rule, covered bank holding companies must maintain a 
+
+leverage buffer of 2 percentage points above the minimum supplementary leverage ratio requirement of 
+
+3 percent, for a total of 5 percent, to avoid restrictions on capital distributions and discretionary bonus 
+
+payments (see Board of Governors of the Federal Reserve System, Federal Deposit Insurance Corporation, 
+
+and Office of the Comptroller of the Currency (2014), “Agencies Adopt Enhanced Supplementary 
+
+Leverage Ratio Final Rule and Issue Supplementary Leverage Ratio Notice of Proposed Rulemaking,” joint 
+
+press release, April 8, https://www.federalreserve.gov/newsevents/pressreleases/bcreg20140408a.htm).  
+
+The Federal Reserve approved a final rule imposing risk-based capital surcharges on the largest, most 
+
+systemically important U.S. bank holding companies on July 20, 2015; in connection with the final rule, the 
+
+Board issued a white paper describing the calibration of the risk-based capital surcharges (see Board of 
+
+Governors of the Federal Reserve System (2015), “Federal Reserve Board Approves Final Rule Requiring 
+
+the Largest, Most Systemically Important U.S. Bank Holding Companies to Further Strengthen Their 
+
+Capital Positions,” press release, July 20, 
+
+https://www.federalreserve.gov/newsevents/pressreleases/bcreg20150720a.htm). 
+
+
+ - 8 - 
+
+stress tests.  In addition to contributing to greater loss-absorbing capacity, the CCAR 
+
+improves public understanding of risks at large banking firms, provides a forward-
+
+looking examination of firms’ potential losses during severely adverse economic 
+
+conditions, and has contributed to significant improvements in risk management. 
+
+Reforms have also addressed the risks associated with maturity transformation.  
+
+The fragility created by deposit-like liabilities outside the traditional banking sector has 
+
+been mitigated by regulations promulgated by the Securities and Exchange Commission 
+
+affecting prime institutional money market funds.  These rules require these prime funds 
+
+to use a floating net asset value, among other changes, a shift that has made these funds 
+
+less attractive as cash-management vehicles.  The changes at money funds have also 
+
+helped reduce banks’ reliance on unsecured short-term wholesale funding, since prime 
+
+institutional funds were significant investors in those bank liabilities.  Liquidity risk at 
+
+large banks has been further mitigated by a new liquidity coverage ratio and a capital 
+
+surcharge for global systemically important banks (G-SIBs).  The liquidity coverage ratio 
+
+requires that banks hold liquid assets to cover potential net cash outflows over a 30-day 
+
+stress period.  The capital surcharge for U.S. G-SIBs links the required level of capital for 
+
+the largest banks to their reliance on short-term wholesale funding.11 
+
+While improvements in capital and liquidity regulation will limit the reemergence 
+
+of the risks that grew substantially in the mid-2000s, the failure of Lehman Brothers 
+
+demonstrated how the absence of an adequate resolution process for dealing with a 
+
+                                                 
+11 Moreover, the Federal Reserve’s Comprehensive Liquidity Analysis and Review, in which supervisors 
+
+analyze the liquidity risks and practices at large banks, has promoted improvements in liquidity-risk 
+
+management.  The U.S. banking agencies also have proposed a net stable funding ratio (NSFR) to help 
+
+ensure that large banks have a stable funding profile over a one-year horizon, and we are working toward 
+
+finalization of the NSFR. 
+
+
+ - 9 - 
+
+failing systemic firm left policymakers with only the terrible choices of a bailout or 
+
+allowing a destabilizing collapse.  In recognition of this shortcoming, the Congress 
+
+adopted the orderly liquidation authority in Title II of the Dodd-Frank Wall Street 
+
+Reform and Consumer Protection Act (Dodd-Frank Act) to provide an alternative 
+
+resolution mechanism for systemically important firms to be used instead of bankruptcy 
+
+proceedings when necessary to preserve financial stability.  The orderly liquidation 
+
+authority contains a number of tools, including liquidity resources and temporary stays on 
+
+the termination of financial contracts, that would help protect the financial system and 
+
+economy from the severe adverse spillovers that could occur if a systemic firm failed.  
+
+Importantly, any losses incurred by the government in an Orderly Liquidation Authority 
+
+resolution would not be at the expense of taxpayers, since the statute provides that all 
+
+such losses must be borne by other large financial firms through subsequent assessments.  
+
+In addition, the Congress required that the largest banks submit living wills that describe 
+
+how they could be resolved under bankruptcy.12  And the Federal Reserve has mandated 
+
+that systemically important banks meet total loss-absorbing capacity requirements, which 
+
+require these firms to maintain long-term debt adequate to absorb losses and recapitalize 
+
+the firm in resolution.  These enhancements in resolvability protect financial stability and 
+
+help ensure that the shareholders and creditors of failing firms bear losses.  Moreover, 
+
+these steps promote market discipline, as creditors--knowing full well that they will bear 
+
+                                                 
+12 In addition to these steps, the Board issued another proposal to make G-SIBs more resolvable in May of 
+
+last year (see Board of Governors of the Federal Reserve System (2016), “Federal Reserve Board Proposes 
+
+Rule to Support U.S. Financial Stability by Enhancing the Resolvability of Very Large and Complex 
+
+Financial Firms,” press release, May 3, 
+
+https://www.federalreserve.gov/newsevents/pressreleases/bcreg20160503b.htm).  This proposed rule would 
+
+impose restrictions on G-SIBs’ qualified financial contracts--including derivatives and repurchase 
+
+agreements (or repos)--to guard against the rapid, mass unwinding of those contracts during the resolution 
+
+of a G-SIB.  The proposed restrictions are a key step toward G-SIB resolvability because rapidly unwinding 
+
+these contracts could destabilize the financial system by causing asset fire sales and toppling other firms. 
+
+
+ - 10 - 
+
+losses in the event of distress--demand prudent risk-taking, thereby limiting the problem 
+
+of too-big-to-fail.   
+
+Financial stability risks can also grow large outside the regulated banking sector, 
+
+as amply demonstrated by the events of 2007 and 2008.  In response, a number of 
+
+regulatory changes affecting what is commonly referred to as the shadow banking sector 
+
+have been instituted.  A specific example of such risks, illustrative of broader 
+
+developments, was the buildup of large counterparty exposures through derivatives 
+
+between market participants and AIG that were both inappropriately risk-managed and 
+
+opaque.  To mitigate the potential for such risks to arise again, new standards require 
+
+central clearing of standardized over-the-counter derivatives, enhanced reporting 
+
+requirements for all derivatives, and higher capital as well as margin requirements for 
+
+noncentrally cleared derivatives transactions.13 
+
+Another important step was the Congress’s creation of the Financial Stability 
+
+Oversight Council (FSOC).  The council is responsible for identifying risks to financial 
+
+stability and for designating those financial institutions that are systemically important 
+
+and thus subject to prudential regulation by the Federal Reserve.  Both of these 
+
+responsibilities are important to help guard against the risk that vulnerabilities outside the 
+
+existing regulatory perimeter grow to levels that jeopardize financial stability.14  
+
+                                                 
+13 One area in which regulations have shifted to a lesser degree in the United States is that of time-varying 
+
+macroprudential tools, in which regulatory requirements are adjusted to address changes in vulnerabilities 
+
+that may affect the financial system.  For example, U.S. regulatory authorities have adopted rules that allow 
+
+use of the countercyclical capital buffer, but other time-varying tools are limited in the United States.  This 
+
+issue is discussed in, for example, Stanley Fischer (2015), “Macroprudential Policy in the U.S. Economy,” 
+
+speech delivered at “Macroprudential Monetary Policy,” 59th Economic Conference of the Federal Reserve 
+
+Bank of Boston, Boston, October 2, 
+
+https://www.federalreserve.gov/newsevents/speech/fischer20151002a.htm. 
+14 For example, the FSOC contributed, through its identification process, to the development of the 
+
+Securities and Exchange Commission reforms affecting money market funds.  The FSOC has also 
+
+
+ - 11 - 
+
+The Financial System Is Safer 
+
+The evidence shows that reforms since the crisis have made the financial system 
+
+substantially safer.  Loss-absorbing capacity among the largest banks is significantly 
+
+higher, with Tier 1 common equity capital more than doubling from early 2009 to now.15  
+
+The annual stress-testing exercises in recent years have led to improvements in the capital 
+
+positions and risk-management processes among participating banks.  Large banks have 
+
+cut their reliance on short-term wholesale funding essentially in half and hold 
+
+significantly more high-quality, liquid assets.  Assets under management at prime 
+
+institutional money market funds that proved susceptible to runs in the crisis have 
+
+decreased substantially.  And the ability of regulators to resolve a large institution has 
+
+improved, reflecting both new authorities and tangible steps taken by institutions to 
+
+adjust their organizational and capital structure in a manner that enhances their 
+
+resolvability and significantly reduces the problem of too-big-to-fail. 
+
+The progress evident in regulatory and supervisory metrics has been accompanied 
+
+by shifts in private-sector assessments that also suggest enhanced financial stability.  
+
+Investors have recognized the progress achieved toward ending too-big-to-fail, and 
+
+several rating agencies have removed the government support rating uplift that they once 
+
+accorded to the largest banks.  Credit default swaps for the large banks also suggest that 
+
+                                                 
+designated four firms as systemically important--AIG, GE Capital, Prudential, and MetLife.  GE Capital 
+
+chose to shrink, adjust its business model, and reduce its footprint in short-term wholesale funding 
+
+markets--and hence reduce a source of systemic risk.  These actions caused the FSOC to subsequently 
+
+remove its designation as systemically important last year--illustrating how the designation process allows 
+
+both identifying systemic firms and removing such designations when appropriate.   
+15 The increase in Tier 1 common equity among bank holding companies has been sizable, especially for 
+
+the largest banks.  If the largest banks are defined as either the eight U.S. global systemically important 
+
+banks or the U.S. bank holding companies that participated in the CCAR in 2017 (and for which data are 
+
+available for 2009:Q1), Tier 1 common equity has more than doubled in dollar terms and relative to risk-
+
+weighted assets from the first quarter of 2009 to the most recent observations. 
+
+
+ - 12 - 
+
+market participants assign a low probability to the distress of a large U.S. banking firm.  
+
+Market-based assessments of the loss-absorbing capacity of large U.S. banks have moved 
+
+up in recent years, and market-based measures of equity now lie in the range of book 
+
+estimates of equity.  To be sure, market-based measures may not reflect true risks--they 
+
+certainly did not in the mid-2000s--and hence the observed improvements should not be 
+
+overemphasized.16  But supervisory metrics are not perfect, either, and policymakers and 
+
+investors should continue to monitor a range of supervisory and market-based indicators 
+
+of financial system resilience.   
+
+Economic research provides further support for the notion that reforms have made 
+
+the system safer.  Studies have demonstrated that higher levels of bank capital mitigate 
+
+the risk and adverse effects of financial crises.17  Moreover, researchers have highlighted 
+
+how liquidity regulation supports financial stability by complementing capital 
+
+                                                 
+16 For example, Natasha Sarin and Lawrence Summers have reviewed market-based measures of bank 
+
+equity and related measures of bank risks and concluded that such measures have not improved since the 
+
+mid-2000s.  This assessment may understate the improvement in fundamental risk within the banking 
+
+sector, as it takes the elevated valuations and low assessment of default risk implied by market prices 
+
+during the earlier period as indicative of fundamentals.  Despite these shortcomings, their analysis is a 
+
+useful reminder of the importance of considering both regulatory metrics and assessments implied by 
+
+market prices.  See Natasha Sarin and Lawrence H. Summers (2016), “Understanding Bank Risk through 
+
+Market Measures,” Brookings Papers on Economic Activity, Fall, pp. 57-109, 
+
+https://www.brookings.edu/wp-content/uploads/2017/02/sarintextfall16bpea.pdf. 
+17 For example, see the review of evidence in Simon Firestone, Amy Lorenc, and Ben Ranish (2017), “An 
+
+Empirical Economic Assessment of the Costs and Benefits of Bank Capital in the US,” Finance and 
+
+Economics Discussion Series 2017-034 (Washington:  Board of Governors of the Federal Reserve System, 
+
+April), https://www.federalreserve.gov/econres/feds/files/2017034pap.pdf.  Some research is less 
+
+supportive of the role of bank capital in limiting the risk of financial crises but suggests that higher levels of 
+
+bank capital limit the economic costs of a financial crisis (for example, Òscar Jordà, Björn Richter, Moritz 
+
+Schularick, and Alan M. Taylor (2017), “Bank Capital Redux:  Solvency, Liquidity, and Crisis,” NBER 
+
+Working Paper Series 23287 (Cambridge, Mass.:  National Bureau of Economic Research, March)).  Some 
+
+of the differences in findings across studies may be due to the degree to which the studies incorporate data 
+
+from different countries and over different periods, as researchers disagree over the extent to which 
+
+comparisons across countries or periods appropriately account for other factors that differ across such 
+
+dimensions. 
+
+
+ - 13 - 
+
+regulation.18  Economic models of the resilience of the financial sector--so called top-
+
+down stress-testing models--reinforce the message from supervisory stress tests that the 
+
+riskiness of large banks has diminished over the past decade.19  Similarly, model-based 
+
+analyses indicate that the risk of adverse fire sale spillovers across banks or broker-
+
+dealers have been substantially mitigated.20 
+
+Is This Safer System Supporting Growth? 
+
+I suspect many in this audience would agree with the narrative of my remarks so 
+
+far:  The events of the crisis demanded action, needed reforms were implemented, and 
+
+these reforms have made the system safer.  Now--a decade from the onset of the crisis 
+
+and nearly seven years since the passage of the Dodd-Frank Act and international 
+
+agreement on the key banking reforms--a new question is being asked:  Have reforms 
+
+gone too far, resulting in a financial system that is too burdened to support prudent risk-
+
+taking and economic growth? 
+
+The Federal Reserve is committed individually, and in coordination with other 
+
+U.S. government agencies through forums such as the FSOC and internationally through 
+
+bodies such as the Basel Committee on Banking Supervision and the FSB, to evaluating 
+
+                                                 
+18 For example, Charles A.E. Goodhart, Anil K. Kashyap, Dimitrios P. Tsomocos, and Alexandros P. 
+
+Vardoulakis (2013), “An Integrated Framework for Analyzing Multiple Financial Regulations,” 
+
+International Journal of Central Banking, supp. 1, vol. 9 (January), pp. 109-43; and Gazi I. Kara and S. 
+
+Mehmet Ozsoy (2016), “Bank Regulation under Fire Sale Externalities,” Finance and Economics 
+
+Discussion Series 2016-026 (Washington:  Board of Governors of the Federal Reserve System, April), 
+
+https://www.federalreserve.gov/econresdata/feds/2016/files/2016026pap.pdf. 
+19 For example, researchers at the Federal Reserve Bank of New York have developed a top-down stress-
+
+testing model, and simulation results from the model suggest that the resilience of the U.S. banking system 
+
+has improved since the crisis; see Beverly Hirtle, Anna Kovner, James Vickery, and Meru Bhanot (2014), 
+
+“Assessing Financial Stability:  The Capital and Loss Assessment under Stress Scenarios (CLASS) 
+
+Model,” Staff Report 663 (New York:  Federal Reserve Bank of New York, February; revised July 2015), 
+
+https://www.newyorkfed.org/medialibrary/media/research/staff_reports/sr663.pdf. 
+20 For example, see Fernando Duarte and Thomas Eisenbach (2013), “Fire-Sale Spillovers and Systemic 
+
+Risk,” Staff Report 645 (New York:  Federal Reserve Bank of New York, October; revised February 2015), 
+
+https://www.newyorkfed.org/medialibrary/media/research/staff_reports/sr645.pdf. 
+
+
+ - 14 - 
+
+the effects of financial market regulations and considering appropriate adjustments.  
+
+Furthermore, the Federal Reserve has independently taken steps to evaluate potential 
+
+adjustments to its regulatory and supervisory practices.  For example, the Federal Reserve 
+
+initiated a review of its stress tests following the 2015 cycle, and this review suggested 
+
+changes to reduce the burden on participating institutions, especially smaller institutions, 
+
+and to better align the supervisory stress tests with regulatory capital requirements.21  In 
+
+addition, a broader set of changes to the new financial regulatory framework may deserve 
+
+consideration.  Such changes include adjustments that may simplify regulations applying 
+
+to small and medium-sized banks and enhance resolution planning.22 
+
+More broadly, we continue to monitor economic conditions, and to review and 
+
+conduct research, to better understand the effect of regulatory reforms and possible 
+
+implications for regulation.  I will briefly summarize the current state of play in two 
+
+areas:  the effect of regulation on credit availability and on changes in market liquidity. 
+
+                                                 
+21 In response to the Federal Reserve’s review and other information, the Board finalized a rule adjusting its 
+
+capital plan and stress-testing rules, effective for the 2017 cycle, on January 30, 2017.  The final rule 
+
+removes large and noncomplex firms from the qualitative assessment of the Federal Reserve’s CCAR, 
+
+reducing significant burden on these firms and focusing the qualitative review in CCAR on the largest, 
+
+most complex financial institutions.  More generally, changes to improve regulatory and supervisory 
+
+practices related to stress testing by reducing unnecessary burden while preserving resilience are under 
+
+consideration.  Possible changes have been discussed in Daniel K. Tarullo (2016), “Next Steps in the 
+
+Evolution of Stress Testing,” speech delivered at the Yale University School of Management Leaders 
+
+Forum, New Haven, Conn., September 26, 
+
+https://www.federalreserve.gov/newsevents/speech/tarullo20160926a.htm. 
+22 An overview of a set of principles that may guide such adjustments is discussed by Jerome H. Powell 
+
+(2017), “Relationship between Regulation and Economic Growth,” statement before the Committee on 
+
+Banking, Housing, and Urban Affairs, U.S. Senate, June 22, 
+
+https://www.federalreserve.gov/newsevents/testimony/powell20170622a.htm.  In addition, the Federal 
+
+Reserve Board has continued to engage in international efforts to assess the effects of reforms and possible 
+
+adjustments; in this context, the FSB has developed a framework for the post-implementation evaluation of 
+
+the effects of the Group of Twenty financial regulatory reforms; see Financial Stability Board (2017), 
+
+Framework for Post-Implementation Evaluation of the Effects of the G20 Financial Regulatory Reforms 
+
+(Basel, Switzerland:  FSB, July), www.fsb.org/wp-content/uploads/P030717-4.pdf. 
+
+
+ - 15 - 
+
+The effects of capital regulation on credit availability have been investigated 
+
+extensively.  Some studies suggest that higher capital weighs on banks’ lending, while 
+
+others suggest that higher capital supports lending.23  Such conflicting results in academic 
+
+research are not altogether surprising.  It is difficult to identify the effects of regulatory 
+
+capital requirements on lending because material changes to capital requirements are rare 
+
+and are often precipitated, as in the recent case, by financial crises that also have large 
+
+effects on lending. 
+
+Given the uncertainty regarding the effect of capital regulation on lending, 
+
+rulemakings of the Federal Reserve and other agencies were informed by analyses that 
+
+balanced the possible stability gains from greater loss-absorbing capacity against the 
+
+possible adverse effects on lending and economic growth.24  This ex ante assessment 
+
+pointed to sizable net benefits to economic growth from higher capital standards--and 
+
+subsequent research supports this assessment.25  The steps to improve the capital 
+
+                                                 
+23 The related literature is sizable.  An early contribution is Ben S. Bernanke and Cara S. Lown (1991), 
+
+“The Credit Crunch,” Brookings Papers on Economic Activity, no. 2, pp. 205-47.  Research finding a 
+
+sizable negative relationship between capital requirements and lending includes Shekhar Aiyar, Charles W. 
+
+Calomiris, and Tomasz Wieladek (2014), “Does Macro-Prudential Regulation Leak?  Evidence from a UK 
+
+Policy Experiment,” Journal of Money, Credit and Banking, vol. 46 (s1; February), pp. 181-214.  Research 
+
+finding little relationship between lending and capital ratios (outside financial crises) includes Mark 
+
+Carlson, Hui Shan, and Missaka Warusawitharana (2013), “Capital Ratios and Bank Lending:  A Matched 
+
+Bank Approach,” Journal of Financial Intermediation, vol. 22 (October), pp. 663-87.  Research suggesting 
+
+that higher capital levels may increase lending includes Leonardo Gambacorta and Hyun Song Shin (2016), 
+
+“Why Bank Capital Matters for Monetary Policy,” BIS Working Papers 558 (Basel, Switzerland:  Bank for 
+
+International Settlements, April), www.bis.org/publ/work558.pdf. 
+24 For example, see Basel Committee on Banking Supervision (2010), An Assessment of the Long-Term 
+
+Economic Impact of Stronger Capital and Liquidity Requirements (Basel, Switzerland:  BCBS, August), 
+
+www.bis.org/publ/bcbs173.pdf; and Macroeconomic Assessment Group (2010), Interim Report:  Assessing 
+
+the Macroeconomic Impact of the Transition to Stronger Capital and Liquidity Requirements (Basel, 
+
+Switzerland:  MAG, August), www.bis.org/publ/othp10.pdf. 
+25 The ex ante studies from the Basel Committee and the Macroeconomic Assessment Group referenced in 
+
+note 24 pointed to sizable net benefits from higher capital requirements.  More academic research pointing 
+
+to similar conclusions using macroeconomic models (and typically focused on model-specific measures of 
+
+economic welfare) includes Michael T. Kiley and Jae W. Sim (2014), “Bank Capital and the 
+
+Macroeconomy:  Policy Considerations,” Journal of Economic Dynamics and Control, vol. 43 (June), 
+
+pp. 175-98; Laurent Clerc, Alexis Derviz, Caterina Mendicino, Stephane Moyen, Kalin Nikolov, Livio 
+
+
+ - 16 - 
+
+positions of banks promptly and significantly following the crisis, beginning with the 
+
+2009 Supervisory Capital Assessment Program, have resulted in a return of lending 
+
+growth and profitability among U.S. banks more quickly than among their global peers. 
+
+While material adverse effects of capital regulation on broad measures of lending 
+
+are not readily apparent, credit may be less available to some borrowers, especially 
+
+homebuyers with less-than-perfect credit histories and, perhaps, small businesses.  In 
+
+retrospect, mortgage borrowing was clearly too easy for some households in the mid-
+
+2000s, resulting in debt burdens that were unsustainable and ultimately damaging to the 
+
+financial system.  Currently, many factors are likely affecting mortgage lending, 
+
+including changes in market perceptions of the risk associated with mortgage lending; 
+
+changes in practices at the government-sponsored enterprises and the Federal Housing 
+
+Administration; changes in technology that may be contributing to entry by nonbank 
+
+lenders; changes in consumer protection regulations; and, perhaps to a limited degree, 
+
+changes in capital and liquidity regulations within the banking sector.  These issues are 
+
+complex and interact with a broader set of challenges related to the domestic housing 
+
+finance system. 
+
+                                                 
+Stracca, Javier Suarez, and Alexandros P. Vardoulakis (2015), “Capital Regulation in a Macroeconomic 
+
+Model with Three Layers of Default,” International Journal of Central Banking, vol. 11 (June), pages 9-63; 
+
+and Juliane Begenau (2016), “Capital Requirements, Risk Choice, and Liquidity Provision in a Business 
+
+Cycle Model,” unpublished paper, Harvard Business School, September.  Subsequent analyses, albeit ones 
+
+that follow similar approaches, also suggest that there are net benefits to higher capital standards.  One 
+
+example is the analysis by Firestone, Lorenc, and Ranish, “An Empirical Economic Assessment,” in 
+
+note 17.  Another is Ingo Fender and Ulf Lewrick (2016), “Adding It All Up:  The Macroeconomic Impact 
+
+of Basel III and Outstanding Reform Issues,” BIS Working Papers 591 (Basel, Switzerland:  Bank for 
+
+International Settlements, November), www.bis.org/publ/work591.pdf.  Indeed, this research points to 
+
+benefits from capital requirements in excess of those adopted, a conclusion also reached in Wayne 
+
+Passmore and Alexander H. von Hafften (2017), “Are Basel’s Capital Surcharges for Global Systemically 
+
+Important Banks Too Small?” Finance and Economics Discussion Series 2017-021 (Washington:  Board of 
+
+Governors of the Federal Reserve System, February), 
+
+https://www.federalreserve.gov/econresdata/feds/2017/files/2017021pap.pdf.   
+
+
+ - 17 - 
+
+Credit appears broadly available to small businesses with solid credit histories, 
+
+although indicators point to some difficulties facing firms with weak credit scores and 
+
+insufficient credit histories.26  Small business formation is critical to economic dynamism 
+
+and growth.  Smaller firms rely disproportionately on lending from smaller banks, and 
+
+the Federal Reserve has been taking steps and examining additional steps to reduce 
+
+unnecessary complexity in regulations affecting smaller banks.27 
+
+Finally, many financial market participants have expressed concerns about the 
+
+ability to transact in volume at low cost--that is, about market liquidity, particularly in 
+
+certain fixed-income markets such as that for corporate bonds.  Market liquidity for 
+
+corporate bonds remains robust overall, and the healthy condition of the market is 
+
+apparent in low bid-ask spreads and the large volume of corporate bond issuance in 
+
+recent years.  That said, liquidity conditions are clearly evolving.  Large dealers appear to 
+
+devote less of their balance sheets to holding inventories of securities to facilitate trades 
+
+and instead increasingly facilitate trades by directly matching buyers and sellers.  In 
+
+                                                 
+26 This conclusion is consistent with, for example, the findings in Federal Reserve Banks (2017), 2016 
+
+Small Business Credit Survey:  Report on Employer Firms (New York:  Federal Reserve Bank of New 
+
+York, April), https://www.newyorkfed.org/medialibrary/media/smallbusiness/2016/SBCS-Report-
+
+EmployerFirms-2016.pdf.  
+27  As I have discussed previously, the Federal Reserve has been considering improvements through a 
+
+number of work streams.  For example, the Federal Reserve and the other banking agencies have recently 
+
+completed the Economic Growth and Regulatory Paperwork Reduction Act (EGRPRA) review.  Under 
+
+EGRPRA, the federal banking agencies are required to conduct a joint review of their regulations every 
+
+10 years to identify provisions that are outdated, unnecessary, or unduly burdensome.  The Federal Reserve 
+
+viewed this review as a timely opportunity to step back and identify ways to reduce regulatory burden, 
+
+particularly for smaller or less complex banks that pose less risk to the U.S. financial system.  I discussed 
+
+preliminary emerging themes from this review in Janet L. Yellen (2016), “Supervision and Regulation,” 
+
+statement before the Committee on Financial Services, U.S. House of Representatives, September 28, 
+
+https://www.federalreserve.gov/newsevents/testimony/yellen20160928a.htm.  For the final EGRPRA 
+
+report to the Congress, see Board of Governors of the Federal Reserve System, Office of the Comptroller of 
+
+the Currency, Federal Deposit Insurance Corporation, and National Credit Union Administration (2017), 
+
+Joint Report to Congress:  Economic Growth and Regulatory Paperwork Reduction Act (Washington:  
+
+Federal Financial Institutions Examination Council, March), 
+
+https://www.ffiec.gov/pdf/2017_FFIEC_EGRPRA_Joint-Report_to_Congress.pdf. 
+
+
+
+
+ - 18 - 
+
+addition, algorithmic traders and institutional investors are a larger presence in various 
+
+markets than previously, and the willingness of these institutions to support liquidity in 
+
+stressful conditions is uncertain.  While no single factor appears to be the predominant 
+
+cause of the evolution of market liquidity, some regulations may be affecting market 
+
+liquidity somewhat.  There may be benefits to simplifying aspects of the Volcker rule, 
+
+which limits proprietary trading by banking firms, and to reviewing the interaction of the 
+
+enhanced supplementary leverage ratio with risk-based capital requirements.  At the same 
+
+time, the new regulatory framework overall has made dealers more resilient to shocks, 
+
+and, in the past, distress at dealers following adverse shocks has been an important factor 
+
+driving market illiquidity.  As a result, any adjustments to the regulatory framework 
+
+should be modest and preserve the increase in resilience at large dealers and banks 
+
+associated with the reforms put in place in recent years.   
+
+Remaining Challenges 
+
+So where do we stand a decade after the onset of the most severe financial crisis 
+
+since the Great Depression?  Substantial progress has been made toward the Federal 
+
+Reserve’s economic objectives of maximum employment and price stability, in putting in 
+
+place a regulatory and supervisory structure that is well designed to lower the risks to 
+
+financial stability, and in actually achieving a stronger financial system.  Our more 
+
+resilient financial system is better prepared to absorb, rather than amplify, adverse 
+
+shocks, as has been illustrated during periods of market turbulence in recent years.  
+
+Enhanced resilience supports the ability of banks and other financial institutions to lend, 
+
+thereby supporting economic growth through good times and bad. 
+
+
+ - 19 - 
+
+Nonetheless, there is more work to do.  The balance of research suggests that the 
+
+core reforms we have put in place have substantially boosted resilience without unduly 
+
+limiting credit availability or economic growth.  But many reforms have been 
+
+implemented only fairly recently, markets continue to adjust, and research remains 
+
+limited.  The Federal Reserve is committed to evaluating where reforms are working and 
+
+where improvements are needed to most efficiently maintain a resilient financial system.   
+
+Moreover, I expect that the evolution of the financial system in response to global 
+
+economic forces, technology, and, yes, regulation will result sooner or later in the all-too-
+
+familiar risks of excessive optimism, leverage, and maturity transformation reemerging in 
+
+new ways that require policy responses.  We relearned this lesson through the pain 
+
+inflicted by the crisis.  We can never be sure that new crises will not occur, but if we keep 
+
+this lesson fresh in our memories--along with the painful cost that was exacted by the 
+
+recent crisis--and act accordingly, we have reason to hope that the financial system and 
+
+economy will experience fewer crises and recover from any future crisis more quickly, 
+
+sparing households and businesses some of the pain they endured during the crisis that 
+
+struck a decade ago.   
+

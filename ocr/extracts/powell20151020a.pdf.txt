@@ -1,0 +1,352 @@
+
+1 
+ 
+
+Pre-recorded for release on delivery 
+9:15 a.m. EDT 
+October 20, 2015 
+
+
+
+
+The Evolving Structure of U.S. Treasury Markets 
+
+
+
+
+Remarks by 
+
+
+Jerome H. Powell 
+
+
+Member 
+
+
+Board of Governors of the Federal Reserve System 
+
+
+at 
+
+
+The Federal Reserve Bank of New York 
+
+
+New York, N.Y. 
+
+
+October 20, 2015 
+
+
+
+
+2 
+ 
+
+
+I am pleased to be here with this distinguished group of market participants, 
+
+academics, government officials, and many others who are vitally interested in the 
+
+issues before us today.1  I am sure that all of us recognize the importance of the 
+
+U.S. Treasury markets to our economy and our financial system; indeed, to the 
+
+world economy and the global financial system.  As Bill just outlined, for the next 
+
+two days, we will collectively address the most important questions facing the 
+
+Treasury markets today.2  Are there significant problems in these markets that are 
+
+not likely to self-correct?  More specifically, is liquidity in broad decline, or more 
+
+prone to sudden disappearance?  If so, what are the causes?  And what are the costs 
+
+and benefits of potential market-led or regulatory responses?  The design of this 
+
+conference is to provide a forum for differing perspectives on these issues.   
+
+  It has been one year since the events of October 15, 2014.  Appropriately, 
+
+the conference will begin with a review of the findings of the recent Joint Staff 
+
+Report issued by the U.S. Department of Treasury, the Board of Governors, the 
+
+Federal Reserve Bank of New York, the Securities and Exchange Commission, and 
+
+the Commodity Futures Trading Commission.3  The report analyzes in depth the 
+
+                                                           
+1 These remarks represent my own views, which do not necessarily represent those of the Federal Reserve Board or 
+the Federal Open Market Committee.   
+2 References to the “Treasury markets” refer to the interdealer cash and futures markets, unless otherwise specified. 
+3 Joint Staff Report: The U.S. Treasury Market on October 15, 2014, http://www.treasury.gov/press-center/press-
+releases/Documents/Joint_Staff_Report_Treasury_10-15-2015.pdf  
+
+
+3 
+ 
+
+unprecedented events and market conditions that day.  It also shows clearly how 
+
+dramatically the structure of Treasury markets has changed in recent years.  New 
+
+participants and new technologies have taken prominent roles in these markets, and 
+
+long-time market participants have adopted new business models.  Today’s 
+
+discussions will reflect this altered landscape, with panels on automated trading, 
+
+market making,  and the impacts that changes in Treasury markets have had on 
+
+liquidity and on end users.   
+
+ My discussions with market participants and regulatory colleagues suggest a 
+
+range of opinions about Treasury market liquidity.  While most market participants 
+
+perceive some reduction in liquidity, views on the severity of the situation seem to 
+
+be more mixed.  Some measures such as trade size and market depth have 
+
+declined, and investors today have to employ increasingly sophisticated strategies 
+
+to execute larger trades at a good price.  Some other measures show no decline in 
+
+overall market liquidity.  However, we need to consider not just the average level 
+
+of liquidity under normal trading conditions, but also the risk that liquidity may be 
+
+more prone to disappearing at times when it is most needed, as it seemed to do on 
+
+October 15.       
+
+This concern is an important one.  Because U.S. Treasury securities reflect 
+
+the full faith and credit of our government, they are rightly considered risk-free.  
+
+But the value of any security, even a U.S. Treasury, will reflect not just its inherent 
+
+
+4 
+ 
+
+credit risk but also investors’ faith in the markets where it is traded.  We need 
+
+investors to have full faith in the structure and functioning of Treasury markets 
+
+themselves.  Treasury markets need to be as safe as the securities that trade on 
+
+them.  Episodes such as October 15, in which Treasury prices fluctuated wildly 
+
+with no obvious reason, threaten to erode investor confidence.  The growing list of 
+
+similar events in equity and other markets underscores this concern.  
+
+Confidence in Treasury markets helps to support demand for Treasury 
+
+securities and keep our government’s financing costs low.  Households and firms 
+
+and even foreign governments hold Treasury securities as a key form of savings in 
+
+no small part because of their trust in their safety and liquidity.     
+
+Financial firms have particular reasons to care about these markets.  Many 
+
+types of financial firms are represented here today, with diverse roles within 
+
+Treasury markets.  Since before the financial crisis, one of the driving narratives 
+
+within financial markets has been the growing demand for safe assets.  Many have 
+
+argued that this demand helped to engender the crisis, as a variety of assets came to 
+
+be accepted as risk-free when in fact they were anything but that.  Treasury bills 
+
+and bonds are about the only freely tradeable dollar-denominated assets that really 
+
+can be called safe.  We have a shared interest in guarding against an outcome 
+
+where the Treasury market becomes a source of stress, rather than a safe haven in 
+
+times of stress. 
+
+
+5 
+ 
+
+And if declining market function did undermine confidence in Treasury 
+
+securities, we would be putting at risk a key source of credit creation.  Our 
+
+financial system depends on high-quality liquid assets (HQLA) for collateral that is 
+
+used by banks, dealers, CCPs, money market mutual funds, and countless others.  
+
+If Treasury prices can fluctuate wildly at any time for no or little reason, then over 
+
+time investors could require higher haircuts and regulators could see a need for 
+
+even more HQLA.   
+
+How can we protect and strengthen the structure of these markets?  In 
+
+tomorrow’s session, several panels will discuss market structure, including 
+
+potential risks to clearing and settlement infrastructure, and ask how current 
+
+structures might be adapted to provide greater liquidity and better guard against 
+
+liquidity risk.   
+
+I would point to four important trends that have been driving the changing 
+
+structure of these markets:  first, advances in computerized trading and high-speed 
+
+communications and the entry of new players using these technologies; second, the 
+
+intensified prudential regulation and supervision of the systemically important 
+
+banks that are the largest dealers; third, the banks’ own re-evaluation of risk in the 
+
+wake of the financial crisis; and fourth, the increasing importance of mutual funds 
+
+and other asset managers.  While markets will always continue to evolve, there is 
+
+
+6 
+ 
+
+no reason to think these trends will suddenly reverse.  In all likelihood, they are 
+
+here to stay.     
+
+  Although post-crisis regulatory changes have likely increased the costs of 
+
+market making, markets were already undergoing dramatic changes well before the 
+
+crisis.  High-frequency and algorithmic trading firms already accounted for a large 
+
+and growing share of transactions in the interdealer market,  altering the speed and 
+
+nature of market making.  As traditional dealers have lost market share, they have 
+
+sought to remain competitive by internalizing a greater share of their customer 
+
+trades, finding matches between their own customers and keeping those trades off 
+
+the public interdealer markets.  But internalization does not eliminate the need for 
+
+a public market, which is where price discovery mainly occurs.  Dealers need to 
+
+place the orders that they cannot internalize onto that market, and at times of 
+
+market stress such as on October 15, they will likely need to put most of their 
+
+orders onto the public market.   
+
+The current structure of the trading platforms in both the cash and futures 
+
+markets is based on a central limit order book, which provides for continuous 
+
+trading but also provides strong incentives to be the fastest.  There may be 
+
+adaptations of this market structure that could give greater emphasis to liquidity 
+
+provision rather than a never-ending competition for more speed.  Some of the 
+
+panelists we’ll hear from tomorrow argue that it may be possible to do so, for 
+
+
+7 
+ 
+
+example by considering frequent batch auctions as an alternative to the central 
+
+limit order book, or by placing minimum time limits on orders.  Ideas such as these 
+
+make me wonder whether it might collectively be possible to come to a 
+
+compromise in which more trading is done directly on the public market, if at the 
+
+same time the public market rules were adjusted to emphasize greater liquidity 
+
+provision, and particularly more stable liquidity provision, over speed.  Perhaps 
+
+public-private forums such as this conference can help in achieving that type of 
+
+cooperative approach.  I look forward to hearing views on these ideas tomorrow.    
+
+Treasury repo markets have also been undergoing structural changes.  This 
+
+is a good time to look at potential changes to the clearance and settlement 
+
+infrastructure in these markets, as we will discuss tomorrow afternoon.  We should 
+
+take this opportunity to ask whether current market structures are well-suited to the 
+
+new environment, or whether we should be aiming for a substantially different 
+
+approach in the longer run.  There is a tight link between funding liquidity in repo 
+
+markets and market liquidity in cash and futures markets, so a healthy, liquid repo 
+
+market is essential to the overall health of the market.  However, regulatory 
+
+changes have made repo activity more expensive.4  There are currently a number of 
+
+private proposals to expand the use of central clearing for repo markets that could 
+
+                                                           
+4 Regulatory efforts have also made tri-party repo infrastructure considerably safer by sharply reducing the market’s 
+reliance on discretionary extensions of intraday credit by the clearing banks and fostering improvements in market 
+participants’ liquidity and credit risk-management practices. 
+
+
+8 
+ 
+
+help to reduce those costs.  Since the crisis, reforms have supported greater use of 
+
+clearing for a wide range of products, and I believe that greater clearing in 
+
+Treasury repo markets could be beneficial.   
+
+  The conference will conclude tomorrow with a discussion of regulatory 
+
+requirements in Treasury markets.  Many point to post-crisis regulation as a key 
+
+factor driving any recent decline in liquidity.  Although regulation seems to have 
+
+had little to do with the events of October 15, I would agree that it is one factor 
+
+driving recent changes in market making.  The same regulations have also greatly 
+
+strengthened the major banks and made another financial crisis far less likely.  In 
+
+my view, we should be prepared to accept some increase in the cost of market 
+
+making in order to improve our overall financial stability.  That said, these 
+
+regulations are new, and we should be willing to learn from experience.  
+
+Regulatory requirements for Treasury markets may need to change over time to 
+
+reflect a rapidly evolving market environment.    
+
+  Markets will adapt to new regulation and other developments. We all have a 
+
+responsibility to make sure that market and regulatory incentives appropriately 
+
+encourage an evolution that will enhance market liquidity and functioning.  I’ve 
+
+been eagerly looking forward to this conference, in the belief that our discussions 
+
+here can do just that.  
+
+
+9 
+ 
+
+
+

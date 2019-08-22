@@ -1,0 +1,695 @@
+
+ 
+
+For release on delivery 
+1 p.m. EDT 
+November 4, 2011 
+
+
+The International Agenda for Financial Regulation 
+ 
+ 
+ 
+ 
+
+Remarks by 
+ 
+
+Daniel K. Tarullo 
+ 
+
+Member 
+ 
+
+Board of Governors of the Federal Reserve System 
+ 
+
+to the 
+ 
+
+American Bar Association Banking Law Committee Fall Meeting 
+ 
+ 
+ 
+
+Washington, D.C.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+November 4, 2011 
+ 
+ 
+
+
+
+
+ 
+
+Long before the recent financial crisis, banking regulation had acquired an important 
+
+international dimension.  The crisis renewed attention to the interconnectedness among national 
+
+financial markets.  In its aftermath, accordingly, the international focus on banking regulation 
+
+has grown even more extensive.  Today I will discuss three subjects germane to the increasingly 
+
+significant international regulatory agenda.  
+
+First are the steps needed to complete the reform agenda on capital and liquidity 
+
+standards, including some implementation issues in the United States.  Second are areas that I 
+
+believe should be priorities for international work in 2012--cross-border resolution of financial 
+
+firms, wholesale funding markets, and over-the-counter (OTC) derivatives reform.  And third are 
+
+some institutional changes that will be required in the relevant international bodies to assure that 
+
+they fulfill their promise of promoting a safe and efficient international financial system. 
+
+Before turning to these topics, I think it important to state the goals that should inform 
+
+U.S. involvement in international financial regulatory efforts.  In recognition of the fact that 
+
+financial distress can quickly and dramatically cross national borders, we seek to protect our own 
+
+financial system by promoting the adoption of strong, common regulatory standards and 
+
+effective supervisory practices for large financial firms and important financial market 
+
+infrastructures around the world.  Such standards and practices can also help prevent major 
+
+competitive disadvantage for U.S. firms.  
+
+Completing the Agenda on Minimum Capital and Liquidity Standards  
+
+Strong capital and liquidity standards are central to these goals and to the overall reform 
+
+agenda for financial regulation.  The crisis showed that liquidity problems can be an independent 
+
+source of severe stress, perhaps even for firms that might otherwise have remained solvent.  But 
+
+it also confirmed that capital standards themselves had been wholly inadequate in a number of 
+
+
+‐ 2 ‐ 
+ 
+
+respects:  Required capital levels were much too low, particularly trading book capital 
+
+requirements.  In evaluating the condition of financial firms at the height of the crisis, markets 
+
+focused on common equity ratios and virtually ignored the Tier 1 ratio enshrined by Basel I and 
+
+Basel II.  Moreover, markets and supervisors both used a much more forward-looking capital 
+
+calculation than under prevailing regulatory requirements--subtracting losses that they estimated 
+
+would be sustained in an adverse scenario to determine whether firms would have enough capital 
+
+to remain viable financial intermediaries.  Finally, the significant interconnectedness among 
+
+globally active firms, and the high degree of correlation in their assets, underscored the 
+
+vulnerability of the entire international financial system to the potential failure of these firms. 
+
+In response to these revealed regulatory shortcomings, the Basel Committee has 
+
+announced four sets of changes to minimum prudential standards for internationally active 
+
+banks:  First, in 2009 it revised and strengthened the market risk requirements of Basel II, in 
+
+what has become known as Basel 2.5.  Second, last year it issued Basel III, which improved the 
+
+quality and increased the quantity of minimum capital requirements, created a capital 
+
+conservation buffer, and introduced an international leverage ratio requirement.  Third, and 
+
+coincident with Basel III, the committee issued a framework for quantitative liquidity 
+
+requirements.  Fourth, it has just today released the rules text of its assessment methodology for 
+
+determining an additional capital requirement for global systemically important banks (G-SIBs)--
+
+popularly referred to as a “capital surcharge.”    
+
+In the Basel Committee itself, work on Basel 2.5 and Basel III has been essentially 
+
+complete for some time.  As reported recently by the committee,1 implementation of Basel 2.5 
+
+                                                       
+1 Basel Committee on Banking Supervision (2011), Progress Report on Basel III Implementation (Bank for 
+International Settlements: Basel, Switzerland, October), www.bis.org/publ/bcbs203.pdf. 
+
+
+‐ 3 ‐ 
+ 
+
+and Basel III into national legislation or regulations is at various stages of progress around the 
+
+world.     
+
+Two points are worth making with respect to U.S. implementation.  First, while U.S. 
+
+bank regulatory agencies have published a proposed regulation for the new market risk capital 
+
+requirements, we did not include the trading book securitization and resecuritization portions of 
+
+Basel 2.5.  The complication here, and with part of Basel III implementation, lies in the use of 
+
+agency credit ratings.  The Dodd-Frank Wall Street Reform and Consumer Protection Act 
+
+requires the removal of agency credit ratings from all regulations throughout the government.  
+
+The banking agencies thus need to develop substitutes for agency ratings in each of the quite 
+
+different contexts within the capital standards where they are used.  This has not been the easiest 
+
+of tasks, but I believe we are now close to convergence on the approaches we will take in 
+
+fashioning these substitutes.  Thus we should soon be able to draft a proposed regulation for the 
+
+rest of Basel 2.5.  Work on the Basel III rule has had to compete for staff time with all the other 
+
+rulemakings currently underway at the banking agencies, but I would expect a proposed 
+
+regulation in the first quarter of 2012. 
+
+My second point pertains to the six-year transition period for Basel III, which by its terms 
+
+phases in the requirements for both the improved quality and increased quantity of capital in 
+
+somewhat backloaded stages beginning in January 2013.  Questions have arisen--particularly 
+
+here in the United States, though elsewhere as well--as to supervisory expectations for capital 
+
+levels during this rather lengthy period.  Specifically, there has been some uncertainty as to 
+
+whether supervisors intend to “pull forward” the various transition points outlined in Basel III.  
+
+While the Federal Reserve intends to ensure that firms are on a steady path to full Basel III 
+
+compliance, we do not intend to require firms to raise external capital or reduce their risk-
+
+
+‐ 4 ‐ 
+ 
+
+weighted assets in order to meet any target earlier than at the time specified in the Basel III 
+
+transition schedule.  However, because this issue is complicated somewhat both by certain 
+
+expectations stated in Basel III and by the relationship of Basel III implementation to the Federal 
+
+Reserve’s requirement for annual capital planning by certain large bank holding companies, I 
+
+think it may be useful to provide some further details on our expectations.   
+
+In the first place, the Federal Reserve will require bank holding companies that are 
+
+subject to our proposed capital plan rule (generally companies with $50 billion or more in total 
+
+assets) to take affirmative steps to improve capital ratios, such as external capital raises, when 
+
+those steps would be needed to meet each Basel III transition target on time. 
+
+ Next, I would remind everyone of a statement made by the Governors and Heads of 
+
+Supervision (GHOS)--the oversight body of the Basel Committee--in announcing agreement on 
+
+Basel III in September 2010.  The GHOS said that banks should “maintain prudent earnings 
+
+retention policies” so as to meet both the new minimum equity standard and the conservation 
+
+buffer “as soon as reasonably possible.”2  In the spirit of that statement, we will expect large 
+
+bank holding companies that have not yet met the fully phased-in Basel III requirements 
+
+(including any expected G-SIB capital surcharge) to improve their capital ratios steadily during 
+
+the transition period through prudent earnings retention policies, even if they already meet any 
+
+applicable intermediate targets.  In practical terms, we will monitor their progress through our 
+
+review of the capital plans that we require large bank holding companies to submit annually.  
+
+That is, we will be comfortable with proposed capital distributions only when we are convinced 
+
+they are consistent with a bank holding company readily and without difficulty meeting the new 
+
+                                                       
+2 See Bank for International Settlements (2010), “Group of Governors and Heads of Supervision Announces Higher 
+Global Minimum Capital Standards,” press release, September 12, www.bis.org/press/p100912.htm. 
+
+
+‐ 5 ‐ 
+ 
+
+capital requirements as they come into effect.  We will provide more detail on this point in a few 
+
+weeks when we issue guidance and instructions for the 2012 capital review. 
+
+Last, it is important to note that supervisors may require banking organizations to 
+
+increase capital ratios above the minimum levels specified in Basel I and II for a variety of safety 
+
+and soundness reasons.  Institution-specific measures of this sort are explicitly contemplated in 
+
+both Basel II and U.S. banking regulations.  During the financial crisis, we used our safety and 
+
+soundness authority to require banks to hold sufficient capital to weather the impact of the crisis 
+
+and the serious recession that followed.  Similarly, our annual capital plan review is a forward-
+
+looking exercise that, in estimating losses and reduced revenues that would follow an adverse 
+
+economic scenario, may result in requiring banks to maintain more capital than would a static 
+
+snapshot of minimum capital levels.   
+
+Unlike the Basel 2.5 and Basel III capital standards, the quantitative liquidity framework 
+
+requires further work in the Basel Committee.  The committee has developed two 
+
+complementary liquidity requirements:  The Liquidity Coverage Ratio (LCR) was designed to 
+
+promote short-term liquidity resiliency of firms, while the Net Stable Funding Ratio (NSFR) was 
+
+directed at medium-term structural liquidity mismatches.  The framework presented to the 
+
+GHOS in 2010 was genuinely pathbreaking, in that it was the first effort ever to establish 
+
+quantitative liquidity requirements.  Precisely because of the novelty of this exercise, questions 
+
+were raised in the GHOS as to how the definition and calibration of the new ratios aligned with 
+
+actual experience in the crisis, and whether the ratios might result in some adverse unintended 
+
+consequences on financial markets.  Consequently, the GHOS agreed to delay implementation of 
+
+both standards and provide for what were termed “observation periods,” during which further 
+
+analysis will be done and changes very likely made.   
+
+
+‐ 6 ‐ 
+ 
+
+Here, though, it is important to draw a distinction between the two standards.  In 
+
+recognition of the fact that the NSFR needs considerable work, which is not yet under way, it is 
+
+not scheduled to become effective until 2018.  The LCR, on the other hand, will go into effect in 
+
+2015.  The Basel Committee has recently agreed to accelerate its review of the LCR so as to be 
+
+able to make changes well before that date and, thereby, give firms and markets ample time to 
+
+prepare and, as necessary, adjust.   
+
+In the coming months, the Federal Reserve, after consulting with the other U.S. banking 
+
+agencies, will be making recommendations for changes in the LCR.  We have not yet finished 
+
+developing those recommendations, but I expect that we will, among other things, suggest 
+
+recalibration of certain deposit run-off and commitment draw-down rates, as well as 
+
+modification of the buffer definition to place a greater focus on the liquidity characteristics of 
+
+assets, as opposed to such things as the credit ratings associated with the assets.  We are also 
+
+examining how the regulations might be best applied during liquidity stress events to maximize 
+
+the benefits for financial stability.  Several other possible changes are also under consideration, 
+
+including altering the LCR so as to limit certain arbitrage opportunities that appear possible from 
+
+its current structure. 
+
+Finally, let me turn to the Basel Committee’s framework for calibrating capital 
+
+surcharges for banks of global systemic importance.  It is informed by the fact that failure of a 
+
+systemically important firm would have substantially greater negative consequences on the 
+
+financial system than the failure of other firms, even quite sizeable ones.  Thus, the surcharge 
+
+attempts to reduce the chances of a G-SIB’s failure so as to bring the expected impact of failure 
+
+of such a firm--that is, its expected damage to the system upon failure discounted by the 
+
+possibility that it will, in fact, fail--more in line with that of other sizeable firms.  Moreover, the 
+
+
+‐ 7 ‐ 
+ 
+
+metrics for determining G-SIB status are heavily weighted toward the kind of interconnectedness 
+
+features that pose macroprudential risks. 
+
+This framework includes a range of surcharges in the 1.0–2.5 percent range for what will 
+
+likely be a global group of about 30 banks, to be phased in as an expansion of the Basel III 
+
+capital conservation buffer from 2016 to 2019.  The framework is consistent with the obligation 
+
+of the Federal Reserve under section 165 of the Dodd-Frank Act to impose more stringent capital 
+
+standards on systemically important institutions, including the requirement that these additional 
+
+standards be graduated based on the systemic importance of the bank.   
+
+For illustrative purposes, the Basel Committee used 2009 data to generate a list of banks 
+
+that were of global systemic importance and, based on the criteria developed from that data, a 
+
+hypothetical set of “buckets” associated with the different surcharge rates.  It is important to 
+
+note, however, that this list will not be used to determine any bank’s surcharge. The list of banks 
+
+to be covered and the buckets within which they will be placed when the surcharge begins to 
+
+take effect in 2016 will be based upon data collected in 2014.  This is as it should be, since the 
+
+inclusion and ordering of the firms should be based upon the characteristics of the banks as they 
+
+have evolved closer to the effective date.  Some banks have changed their profiles materially in 
+
+the past couple of years, and the prospect of capital surcharges may be an incentive for others to 
+
+do so as well.  In this regard, I should also note that the bucket allocation of each G-SIB will be 
+
+recomputed in each year after 2016.  
+
+The use of more up-to-date data means that banks will not know for some time exactly 
+
+which buckets they will occupy when the surcharge first phases in.  The Basel Committee does 
+
+plan to release by the latter part of 2014 the thresholds for each surcharge “bucket,” as well as 
+
+the denominator reflecting the universe of global banking institutions against which each G-SIB 
+
+
+‐ 8 ‐ 
+ 
+
+will be measured.  To further advance the goals of transparency and predictability, we will 
+
+continue to work within the Basel Committee to ensure that the indicators used to determine the 
+
+systemic risk ranking of a firm are clear and based upon publicly available information sources.  
+
+If additional information is needed by firms to allow for effective capital planning, the Basel 
+
+Committee should be prepared to develop and release additional guidance. 
+
+Next Steps for the Reform Agenda 
+
+As I stated earlier, strong capital and liquidity standards are central to an effective 
+
+financial regulatory system.  Well-crafted capital standards provide a buffer against loss from 
+
+any activities of a bank, while good liquidity standards help provide assurance that a firm will 
+
+have breathing space during a period of financial stress, whether idiosyncratic or systemic.  But 
+
+we cannot rely solely on these standards, important as they are, to provide a stable financial 
+
+system.   
+
+Basel 2.5, Basel III, and the G-SIB surcharges can only reduce the chances of highly 
+
+disruptive failure, not eliminate them.  A necessary supplement is a strong resolution mechanism 
+
+for systemically important firms, both to counter too-big-to-fail perceptions and to contain the 
+
+harm to the financial system that would be caused by the failure of one of these firms.  Thus, my 
+
+first candidate for a priority area of work in 2012 is to take concrete steps to advance the useful 
+
+analytic work that has been done in the Basel Committee and the Financial Stability Board (FSB) 
+
+on the resolution of financial firms with substantial international presence.   
+
+Here in the United States, the Dodd-Frank Act provides for an orderly liquidation 
+
+process.  Some other jurisdictions have, or are planning to, put in place comparable special- 
+
+resolution mechanisms.  But the co-existence of internationally active firms with nationally 
+
+based insolvency regimes means that there can be potentially important transborder legal 
+
+
+‐ 9 ‐ 
+ 
+
+complications when a home jurisdiction places into receivership a firm with significant assets, 
+
+subsidiaries, and contractual arrangements in other countries.  A comprehensive, treaty-like 
+
+instrument for a global bank resolution regime is almost surely not achievable in the foreseeable 
+
+future, and perhaps well beyond that.  But there should be room for more limited cooperation 
+
+agreements, coordinated supervisory work on resolution plans, and other devices to make the 
+
+orderly resolution of a large internationally active firm more feasible. 
+
+Similarly, the limits of even well-conceived liquidity requirements suggest a second item 
+
+that warrants attention in international fora--namely, the problems connected with wholesale 
+
+funding channels over the last several years.  Broadly speaking, threats to financial stability can 
+
+arise in two ways: first, through the rapid deterioration or failure of a large institution with 
+
+leverage sufficient to produce widespread knock-on effects and, second, through the breakdown 
+
+of a significant market in which large numbers of leveraged actors depend upon similar sources 
+
+of liquidity and backup liquidity.  While these two sources of systemic risk can be, and usually 
+
+are, related, the latter has not been the subject of the broad reform agenda directed at the former. 
+
+You will note that the Basel III liquidity standards do not require global banks to reduce 
+
+their usage of wholesale funding; instead, they require a bank that uses more volatile funding 
+
+sources to hold more liquid assets.  This requirement is critical to a sounder financial system, to 
+
+be sure, but it does not address completely the potential instability associated with wholesale 
+
+funding--even in the regulated institutions subject to these requirements, much less in the rest of 
+
+the financial system.  We will need further measures if we are to mitigate the risks of runs seen 
+
+in 2007–2008 and, somewhat less dramatically, more recently.  Because the risk of runs in 
+
+wholesale funding manifests itself in different ways in different countries’ financial systems, the 
+
+appropriate response will likely be a mix of national and international actions, not an 
+
+
+‐ 10 ‐ 
+ 
+
+international agreement like Basel III.  But for this very reason, it is important that there be 
+
+ongoing attention to the issue, in order to share ideas for action and monitor the steps various 
+
+jurisdictions are taking to mitigate the risks.   
+
+For example, we in the United States need to move forward with changes to money 
+
+market funds and triparty repo markets to ensure that they do not serve as a trigger for wholesale 
+
+funding runs.  We also need to address further the issues raised by the dependence of some 
+
+foreign banking institutions on large amounts of wholesale dollar funding.  The responses to 
+
+these issues may themselves involve a mix of national and international measures.   
+
+ A third priority is the area of OTC derivatives, where strong capital standards alone are 
+
+not enough to contain systemic risks.  We know that OTC derivatives dealers, as a byproduct of 
+
+that business model, become part of a global network of interconnected exposures.  When one 
+
+dealer in the network fails, as we saw in the case of Lehman Brothers, fear of losses at other 
+
+dealers in the network can cause systemic stress.  Capital, which covers only a fraction of 
+
+exposure, cannot alone prevent this contagion. 
+
+To reduce the systemic risk of OTC derivatives, the Group of Twenty (G-20) leaders 
+
+have agreed to mandate that standardized OTC derivatives must be cleared through a central 
+
+counterparty.  Work in the United States is well under way to implement mandatory clearing.  
+
+Other countries have begun this work as well, but progress abroad has been slow to date.  To 
+
+help ensure that a global move toward central clearing of derivatives actually reduces systemic 
+
+risk, it is critical that central counterparties in the derivatives market be very sound and stable.  
+
+Therefore, it is essential that the Committee on Payment and Settlement Systems (CPSS) and the 
+
+International Organization of Securities Commissions (IOSCO) complete their important work 
+
+on strengthening the oversight of central counterparties as soon as possible.   
+
+
+‐ 11 ‐ 
+ 
+
+To further build shock absorbers in the derivatives network, non-standardized derivatives 
+
+that are not suitable for clearing should have margin requirements that are sufficient to prevent 
+
+contagion when the next Lehman fails.  An international working group has been formed for this 
+
+purpose.  We hope to see considerable progress on this element of OTC derivatives reform next 
+
+year.  
+
+Institutional Changes 
+
+An audience of banking lawyers will appreciate the impact of the institutional features of 
+
+international arrangements on the substantive output of those arrangements.  In the time 
+
+remaining this afternoon, I cannot do justice to this subject.  But I do want to leave you with two 
+
+observations about the international regulatory reform agenda of the last few years, along with 
+
+some implications of those observations for desirable institutional changes. 
+
+The first observation is that, although there are exceptions, the output of this agenda has 
+
+largely consisted of what are essentially regulatory rules, intended to be applied to firms through 
+
+national law.  Second, most of these rules are being generated, or at least reviewed, within an 
+
+overlapping set of organizations and arrangements--the Basel Committee, IOSCO, the FSB, the 
+
+G-20, and a veritable potpourri of committees functioning under the umbrella of the Bank for 
+
+International Settlements (BIS).   
+
+These rather mundane observations lead, I think, to some rather important institutional 
+
+implications.  It goes without saying that the benefits of international regulatory rules will be 
+
+realized only if they are implemented rigorously and consistently across jurisdictions.  Not only 
+
+must they be incorporated into national legislation or regulations effectively, they must also be 
+
+rigorously enforced by national supervisors.  We do not need formal dispute mechanisms similar 
+
+to those in the World Trade Organization, which could undermine supervisory cooperation, but 
+
+
+‐ 12 ‐ 
+ 
+
+we do need effective, collaborative monitoring mechanisms administered by the supervisors 
+
+themselves and reported to the public.  So, for example, the Federal Reserve has suggested that 
+
+the Basel Committee go beyond the important function of reviewing legal implementation and 
+
+also monitor how capital standards are applied within banks.  While a variety of methods could 
+
+be used, we are particularly interested in establishing international validation teams to verify 
+
+methodologies used at individual banks on such matters as the risk-weighting of trading assets. 
+
+Even as the Basel Committee should monitor compliance with the standards it 
+
+establishes, it must not lose sight of the importance of supervisory cooperation in pursuit of the 
+
+shared goal of a stable international financial system.  The focus on rules and standards over the 
+
+last few years has been both understandable and necessary, but the Basel Committee should not 
+
+be purely a negotiating forum.  The activities of the Basel Committee in the 1970s and early 
+
+1980s were largely informal, involving the sharing of supervisory perspectives and, perhaps 
+
+more importantly, the establishment of relationships that could be drawn upon when cross-border 
+
+supervisory problems arose.  I regret that these functions have been substantially attenuated over 
+
+the years.  With the increased membership and expanded scope of activities, a return to early 
+
+practice is not feasible.  But other ways must be found to foster the common goals of committee 
+
+members in promoting safe and sound financial systems. 
+
+The overlapping, sometimes competing, activities of all the international committees and 
+
+arrangements is, like the recent emphasis on rules, completely understandable in light of the 
+
+number of new and urgent issues to be tackled.  Similarly, the involvement of political officials 
+
+through the G-20 was imperative to galvanize the legislative and regulatory processes of 
+
+participating countries to undertake the breadth of needed reforms.  But as we move toward 
+
+administering these new standards and arrangements, we must rationalize the often confusing 
+
+
+‐ 13 ‐ 
+ 
+
+and duplicative process whereby the Basel Committee, the FSB, and some other BIS committees 
+
+are all involved in the same subjects.   
+
+Fortunately, the agenda breaks down rather naturally into the new substantive topics, 
+
+such as resolution and OTC derivatives, and the further refinement and implementation of 
+
+established regulatory areas such as capital standards.  The new topics play to the coordinating 
+
+and gap-filling strengths of the FSB, which includes both regulators and finance ministry 
+
+representatives, and which can parcel out appropriate components of larger projects to standard-
+
+setting committees.  Work in established regulatory areas obviously falls more appropriately 
+
+within the province of the Basel Committee (or with respect to some securities regulatory issues, 
+
+IOSCO), which consists of the regulators with responsibility for administering these standards 
+
+domestically.  In this regard, it is important that the independence of regulators established 
+
+domestically also be respected internationally.   
+
+Conclusion 
+
+The international dimension of financial regulation has grown even more important since 
+
+the financial crisis.  Yet there are, as I have suggested, more subjects to be tackled.  At the same 
+
+time, the pursuit of efficient and effective regulation requires priority-setting by, and 
+
+rationalization of, the web of international arrangements dealing with these issues.  
+
+
+

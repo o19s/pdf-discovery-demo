@@ -1,0 +1,1378 @@
+
+For release on delivery 
+
+8:00 a.m. EST  
+
+March 4, 2013 
+
+
+
+
+
+
+
+
+
+Challenges Confronting Monetary Policy  
+
+
+
+
+Remarks by 
+
+
+Janet L. Yellen 
+
+
+Vice Chair 
+
+
+Board of Governors of the Federal Reserve System 
+
+
+at the 
+
+
+2013 NABE Economic Policy Conference 
+
+
+sponsored by the 
+
+
+National Association for Business Economics 
+
+
+Washington, D.C. 
+
+
+
+
+
+
+
+
+March 4, 2013 
+
+
+
+
+
+Thank you.  I’m delighted to address the National Association for Business 
+
+Economics (NABE), a group that has done so much to promote understanding of the 
+
+economy and the appropriate role of policy.   
+
+My topic today is the challenges confronting monetary policy in what has been an 
+
+unusually weak recovery from a severe recession.  I will discuss the Federal Reserve’s 
+
+ongoing efforts in these circumstances to speed the U.S. economy’s return to maximum 
+
+employment in a context of price stability.
+1
+  
+
+As you know, the Federal Open Market Committee (FOMC) has recently taken 
+
+new steps to achieve this objective.  In September, the Committee approved a new 
+
+program of agency-guaranteed mortgage-backed securities (MBS) purchases, pledging to 
+
+continue the program--contingent on favorable ongoing evaluations of its efficacy and 
+
+costs--until there has been a substantial improvement in the outlook for the labor market.
+2
+  
+
+Most recently, in December the Committee announced that it would purchase longer-term 
+
+Treasury securities after completion of the maturity extension program.  At the same 
+
+time, it revamped its forward guidance for the federal funds rate, explicitly linking the 
+
+path of that rate to quantitative measures of economic performance.
+3
+  
+
+My goal today is to explain these policies and why I consider them appropriate 
+
+under current conditions.  With respect to the asset purchase program, I will discuss 
+
+several economic indicators that I plan to consider in evaluating the outlook for the labor 
+
+market and then offer my perspective at present on the program’s efficacy and costs, an 
+
+assessment I will continue updating in light of experience.     
+
+                                                 
+1
+ The views expressed here are my own and not necessarily those of my colleagues in the Federal Reserve 
+
+System.  I am indebted to members of the Board staff--Stephanie Aaronson, Thomas Laubach, John Maggs, 
+
+Edward Nelson, Devin Saiki, and William Wascher--who contributed to the preparation of these remarks.  
+2
+ See Board of Governors (2012a). 
+
+3
+ See Board of Governors (2012b). 
+
+
+ - 2 - 
+
+The Outlook for the Labor Market and Inflation 
+
+The Committee’s recent actions are shaped by the fact that the labor market is still 
+
+far from healed from the trauma of the Great Recession.  Despite some welcome 
+
+improvement, employment remains well below its pre-recession peak, reflecting an 
+
+economy that is still operating far short of its potential.  At 7.9 percent in January, the 
+
+unemployment rate has declined from its recent peak of 10 percent in October 2009.  But 
+
+that’s still higher than unemployment ever reached in the 24 years prior to the recent 
+
+recession and well above the 5.2 to 6 percent that is the central tendency of FOMC 
+
+participants’ estimates of the longer-run normal rate of unemployment.  With economic 
+
+activity constrained by fiscal consolidation, the lingering effects from the financial crisis, 
+
+and the added headwinds of Europe’s recession and debt problems, most FOMC 
+
+participants reported in December that they expected only a gradual decline in 
+
+unemployment over the next two years, to about 7 percent by the end of 2014.
+4
+ 
+
+The official estimate of 12 million currently unemployed does not include 
+
+800,000 more discouraged workers who say they have given up looking for work.
+5
+  In 
+
+addition, nearly 8 million people, or 5.6 percent of the workforce, say they are working 
+
+part time even though they would prefer full-time jobs.  A broader measure of 
+
+underemployment that includes these and others who want a job stands at 14.4 percent, 
+
+                                                 
+4
+ In the December 2012 Summary of Economic Projections (SEP), the central tendency of FOMC 
+
+participants’ projections for the unemployment rate in the final quarter of 2013 and 2014 was 7.4 to 
+
+7.7 percent and 6.8 to 7.3 percent, respectively.  The central tendency omits the three lowest and three 
+
+highest projections.  The SEP is an addendum to the FOMC minutes and is available at Board of Governors 
+
+(2013). 
+5
+ The most widely reported estimate of those in the labor force who are unemployed--12.3 million in 
+
+January, rounded to 12 million, from the Bureau of Labor Statistics (BLS)--is seasonally adjusted.  
+
+(Without seasonal adjustment, the actual estimate of unemployed in January was 13.2 million.)  The BLS 
+
+does not seasonally adjust its estimate of discouraged workers who have left the labor force, an estimate 
+
+that was 804,000 in January.  For more on the employment situation in January, see Bureau of Labor 
+
+Statistics (2013). 
+
+
+ - 3 - 
+
+nearly double the 7.9 percent “headline” rate that is most commonly reported in the 
+
+media.
+6
+   
+
+The large shortfall of employment relative to its maximum level has imposed 
+
+huge burdens on all too many American households and represents a substantial social 
+
+cost.  In addition, prolonged economic weakness could harm the economy’s productive 
+
+potential for years to come.  The long-term unemployed can see their skills erode, making 
+
+these workers less attractive to employers.  If these jobless workers were to become less 
+
+employable, the natural rate of unemployment might rise or, to the extent that they leave 
+
+the labor force, we could see a persistently lower rate of labor force participation.  In 
+
+addition, the slow recovery has depressed the pace of capital accumulation, and it may 
+
+also have hindered new business formation and innovation, developments that would 
+
+have an adverse effect on structural productivity.   
+
+In contrast to the large gap between actual and maximum employment, inflation, 
+
+apart from fluctuations due to energy and other commodity prices, has been running for 
+
+some time now a little below the rate of 2 percent per year that the Committee judges to 
+
+be consistent with the Federal Reserve’s dual mandate.  The Committee anticipates that 
+
+inflation will continue to run at or below 2 percent over the medium term.  Moreover, 
+
+expectations for inflation over the next 5 to 10 years remain well anchored, according to 
+
+surveys of households and professional forecasters. 
+
+With employment so far from its maximum level and with inflation running 
+
+below the Committee’s 2 percent objective, I believe it’s appropriate for progress in the 
+
+labor market to take center stage in the conduct of monetary policy.  Let me therefore 
+
+                                                 
+6
+ In my view, and as I’ve argued elsewhere (Yellen, 2013), the evidence indicates that elevated 
+
+unemployment and the disappointingly slow improvement in the labor market are primarily the result of 
+
+weak aggregate demand and not an increase in structural unemployment.    
+
+
+ - 4 - 
+
+turn to the FOMC’s recent actions and describe how I see them promoting this important 
+
+goal. 
+
+Forward Guidance for the Federal Funds Rate 
+
+I’ll begin with the Committee’s forward guidance for the federal funds rate.  The 
+
+FOMC has employed such forward guidance since 2003 but has relied more heavily on it 
+
+since December 2008, when the target for the federal funds rate was reduced to its 
+
+effective lower bound.  In current circumstances, forward guidance can lower private-
+
+sector expectations regarding the future path of short-term rates, thereby reducing longer-
+
+term interest rates on a wide range of debt instruments and also raising asset prices, 
+
+leading to more accommodative financial conditions.  In addition, given the FOMC’s 
+
+stated intention to sell assets only after the federal funds rate target is increased, any 
+
+outward shift in the expected date of liftoff for the federal funds rate suggests that the 
+
+Federal Reserve will be holding a large stock of assets on its balance sheet longer, which 
+
+should work to further increase accommodation.
+7
+   
+
+Starting in March 2009, the FOMC’s postmeeting statements noted that 
+
+“economic conditions are likely to warrant exceptionally low levels of the federal funds 
+
+rate for an extended period,” and in November of the same year added “low rates of 
+
+resource utilization, subdued inflation trends, and stable inflation expectations” as 
+
+justification for this stance.”
+8
+  In August 2011, the Committee substituted “at least 
+
+through mid-2013” for the words “for an extended period.”
+9
+  This date was moved further 
+
+into the future several times, most recently last September, when it was shifted to mid-
+
+                                                 
+7
+ Empirical studies of the Committee’s date-based forward guidance suggest that changes in that guidance 
+
+generated an appreciable effect on longer-term yields.  See, for example, Swanson and Williams (2012) and 
+
+Woodford (2012).   
+8
+ See Board of Governors (2009a, 2009b). 
+
+9
+ See Board of Governors (2011a). 
+
+
+ - 5 - 
+
+2015.
+10
+
+  Also in September, the Committee changed the language related to that 
+
+commitment, dropping the reference to “low rates of resource utilization and a subdued 
+
+outlook for inflation.”  Instead, it emphasized that “a highly accommodative stance of 
+
+monetary policy will remain appropriate for a considerable time after the economic 
+
+recovery strengthens,” clarifying the Committee’s intention to continue to provide 
+
+support well into the recovery.
+11
+
+
+Finally, last December, the Committee recast its forward guidance for the federal 
+
+funds rate by specifying a set of quantitative economic conditions that would warrant 
+
+holding the federal funds rate at the effective lower bound.  Specifically, the Committee 
+
+anticipates that exceptionally low levels for the federal funds rate will be appropriate “at 
+
+least as long as the unemployment rate remains above 6-1/2 percent, inflation between 
+
+one and two years ahead is projected to be no more than a half percentage point above the 
+
+Committee’s 2 percent longer-run goal, and longer-term inflation expectations continue 
+
+to be well anchored.”
+12
+
+
+An important objective of these changes in forward guidance is to enhance the 
+
+public’s understanding of the Committee’s policy strategy and its “reaction function”--
+
+namely, how the FOMC anticipates varying its federal funds rate target in response to 
+
+evolving economic developments.  For example, the Committee’s initial, calendar-based 
+
+guidance did not clearly convey the rationale for the specified date.  In particular, when 
+
+the Committee extended the calendar date, the public was left to infer whether the change 
+
+reflected a deterioration in the Committee’s economic outlook or, instead, a decision to 
+
+increase policy accommodation.    
+
+                                                 
+10
+
+ See Board of Governors (2012a). 
+11
+
+ See Board of Governors (2012a). 
+12
+
+ See Board of Governors (2012b). 
+
+
+ - 6 - 
+
+In my view, the language now incorporated into the statement affirmatively 
+
+conveys the Committee’s determination to keep monetary policy highly accommodative 
+
+until well into the recovery.  And the specific numbers that were selected as thresholds 
+
+for a possible change in the federal funds rate target should confirm that the FOMC 
+
+expects to hold that target lower for longer than would be typical during a normal 
+
+economic recovery.  This improved guidance should help the public to accurately adjust 
+
+their expectations for the federal funds rate in response to new financial and economic 
+
+information, which should make policy more effective.
+13
+
+  In addition, I hope that 
+
+improved guidance will help to boost confidence in the outlook and bolster households’ 
+
+unusually depressed expectations for income gains, which in turn will spur a faster 
+
+recovery. 
+
+A considerable body of research suggests that, in normal times, the evolution of 
+
+the federal funds rate target can be reasonably well described by some variant of the 
+
+widely known Taylor rule.
+14
+
+  Rules of this type have been shown to work quite well as 
+
+guidelines for policy under normal conditions, and they are familiar to market 
+
+participants, helping them judge how short-term rates are likely to respond to changing 
+
+economic conditions.   
+
+The current situation, however, is abnormal in two important and related ways. 
+
+First, in the aftermath of the financial crisis, there has been an unusually large and 
+
+persistent shortfall in aggregate demand.  Second, use of the federal funds rate has been 
+
+constrained by the effective lower bound so that monetary policy has been unable to 
+
+                                                 
+13
+
+ The new guidance should serve as an automatic stabilizer in the face of shifts in the outlook.  For 
+
+example, weaker economic data, suggesting that the thresholds will be reached later than previously 
+
+anticipated, should lead market participants to push out the expected timing of liftoff, automatically 
+
+promoting lower longer-term rates and an easing of financial conditions.  See, for example, Yellen (2012b).  
+14
+
+ See, for example, Clarida, Galí, and Gertler (2000) and Rudebusch (2006). 
+
+
+ - 7 - 
+
+provide as much accommodation as conventional policy rules suggest would be 
+
+appropriate, given the weakness in aggregate demand.  I’ve previously argued that, in 
+
+such circumstances, optimal policy prescriptions for the federal funds rate’s path diverge 
+
+notably from those of standard rules.
+15
+
+  For example, David Reifschneider and John 
+
+Williams have shown that when policy is constrained by the effective lower bound, 
+
+policymakers can achieve superior economic outcomes by committing to keep the federal 
+
+funds rate lower for longer than would be called for by the interest rate rules that serve as 
+
+reasonably reliable guides for monetary policy in more normal times.
+16
+
+  Committing to 
+
+keep the federal funds rate lower for longer helps bring down longer-term interest rates 
+
+immediately and thereby helps compensate for the inability of policymakers to lower 
+
+short-term rates as much as simple rules would call for.   
+
+I view the Committee’s current rate guidance as embodying exactly such a “lower 
+
+for longer” commitment.  In normal times, the FOMC would be expected to tighten 
+
+monetary policy before unemployment fell as low as 6-1/2 percent.  Under the new 
+
+thresholds guidance, the public is informed that tightening is unlikely as long as 
+
+unemployment remains above 6-1/2 percent and inflation one to two years out is 
+
+projected to be no more than a half percentage point above the FOMC’s 2 percent longer-
+
+run goal.
+17
+
+  The evidence suggests that the evolution I’ve described in the Committee’s 
+
+forward guidance, particularly the new thresholds, has shifted the market’s view of how 
+
+forceful the FOMC intends to be in supporting the recovery.  In the Federal Reserve Bank 
+
+                                                 
+15
+
+ See, for example, Yellen (2012a, 2012b).  
+16
+
+ See Reifschneider and Williams (2000). 
+17
+
+ Setting the threshold above the unemployment rate’s longer-run normal level recognizes the fact that 
+
+monetary policy affects real activity and inflation with a lag so that, assuming inflation is near the 
+
+Committee’s long-run target, it will likely be necessary to begin the process of removing accommodation 
+
+before the longer-run normal rate is reached.  
+
+
+ - 8 - 
+
+of New York’s Survey of Primary Dealers, for example, participants have repeatedly 
+
+revised downward the unemployment rate at which they anticipate that tightening will 
+
+first occur.
+18
+
+
+I mentioned that the FOMC’s new forward guidance offers considerable insight 
+
+into the Committee’s likely reaction function, but I should note that the guidance it 
+
+provides is not complete.  For example, the Committee has not specified exactly how it 
+
+intends to vary the federal funds rate after liftoff from the effective lower bound, 
+
+although it has stated that “when the Committee decides to begin to remove policy 
+
+accommodation, it will take a balanced approach.”
+19
+
+  This language is consistent with 
+
+optimal policy prescriptions that call for lower-for-longer considerations to pertain to the 
+
+path of the federal funds rate both before and after liftoff.  
+
+In addition, the guidance specifies thresholds for possible action, not triggers that 
+
+will necessarily prompt an increase in the federal funds rate.  The FOMC statement 
+
+therefore notes that “in determining how long to maintain a highly accommodative stance 
+
+of monetary policy, the Committee will also consider other information, including 
+
+additional measures of labor market conditions, indicators of inflation pressures and 
+
+inflation expectations, and readings on financial developments.”
+20
+
+
+For example, the Committee could decide to defer action even after the 
+
+unemployment rate has declined below 6-1/2 percent if inflation is running and expected 
+
+to continue at a rate significantly below the Committee’s 2 percent objective.  
+
+Alternatively, the Committee might judge that the unemployment rate significantly 
+
+                                                 
+18
+
+ The Survey of Primary Dealers is available on the Federal Reserve Bank of New York’s website at 
+
+www.newyorkfed.org/markets/primarydealer_survey_questions.html. 
+19
+
+ See Board of Governors (2012b). 
+20
+
+ See Board of Governors (2012b). 
+
+
+ - 9 - 
+
+understates the actual degree of labor market slack.  A decline in the unemployment rate 
+
+could, for example, primarily reflect the exit from the labor force of discouraged job 
+
+seekers.  That is an important reason why the Committee will consider a broad range of 
+
+labor market indicators.  I will discuss some of the additional indicators I plan to consider 
+
+in judging the strength of the labor market in connection with the Committee’s current 
+
+asset purchase program.
+ 
+ 
+
+The Federal Reserve’s Asset Purchase Program 
+
+Turning next to that program, the Federal Reserve initiated a new asset purchase 
+
+program last September, extending it in December, under which the Federal Reserve is 
+
+currently buying agency-guaranteed MBS at a pace of $40 billion per month and longer-
+
+term Treasury securities at a pace of $45 billion per month.  As with the guidance for the 
+
+federal funds rate, the Committee tied the new program to labor market conditions, 
+
+stating that purchases would continue until there is a substantial improvement in the 
+
+outlook for the labor market in a context of price stability.
+21
+
+  The FOMC’s earlier large-
+
+scale asset purchase programs, in contrast, were fixed in size and carried out on a 
+
+specified schedule.  The Committee has also noted that, in determining the size, pace, and 
+
+composition of its asset purchases, it would take appropriate account of the likely 
+
+efficacy and costs of such purchases.   
+
+The purpose of the new asset purchase program is to foster a stronger economic 
+
+recovery, or, put differently, to help the economy attain “escape velocity.”  By lowering 
+
+longer-term interest rates, these asset purchases are expected to spur spending, 
+
+particularly on interest-sensitive purchases such as homes, cars, and other consumer 
+
+                                                 
+21
+
+ The Committee also indicated that it expects the asset purchase program to end well before the target for 
+
+the federal funds rate is raised. 
+
+
+ - 10 - 
+
+durables.  Research on the effects of such asset purchases suggests that what matters for 
+
+the reaction of longer-term interest rates to a purchase program is the extent to which the 
+
+program leads market participants to change their expectations concerning the entire path 
+
+of the Federal Reserve’s holdings of longer-term securities.
+22
+
+  Other things being equal, 
+
+the greater the effect that a purchase program has on the expected path of the Federal 
+
+Reserve’s securities holdings, the more substantial should be the downward pressure on 
+
+the term premium in longer-term interest rates.
+23
+
+  By linking the pace of purchases and 
+
+how long that pace will be maintained to the outlook for the labor market, the program 
+
+acts as a sort of automatic stabilizer: As market perceptions of the prospects for the 
+
+economy vary, so too should expectations of the pace and duration of asset purchases.  
+
+In stating that asset purchases will continue, subject to caveats pertaining to 
+
+efficacy and costs, until there has been a substantial improvement in the outlook for the 
+
+labor market, the FOMC established a criterion that differs in three important respects 
+
+from the forward guidance for the federal funds rate:  (1) It is qualitative, not 
+
+quantitative; (2) it refers to an improvement in the outlook for the labor market rather 
+
+than an improvement in actual labor market conditions; and (3) it requires the Committee 
+
+not only to consider progress toward its employment goal, but also to evaluate the 
+
+efficacy and costs of asset purchases on an ongoing basis.  The public is, naturally, eager 
+
+to understand how the FOMC will approach such complex judgments.  I cannot, of 
+
+course, speak for the Committee on this issue, but I can spell out some of the key factors 
+
+that will guide my conclusions.     
+
+                                                 
+22
+
+ See Gagnon and others (2011). 
+23
+
+ Typically, investors demand a higher return as a condition for putting their funds into a longer-term 
+
+security instead of investing in a series of short-term securities.  The difference in expected returns on these 
+
+two alternative investments is called a term premium. 
+
+
+ - 11 - 
+
+A “Substantial Improvement in the Outlook for the Labor Market”   
+
+The first imperative will be to judge what constitutes a substantial improvement in 
+
+the outlook for the labor market.  Federal Reserve research concludes that the 
+
+unemployment rate is probably the best single indicator of current labor market 
+
+conditions.  In addition, it is a good predictor of future labor market developments.  Since 
+
+1978, periods during which the unemployment rate declined ½ percentage point or more 
+
+over two quarters were followed by further declines over the subsequent two quarters 
+
+about 75 percent of the time. 
+
+That said, the unemployment rate also has its limitations.  As I noted before, the 
+
+unemployment rate may decline for reasons other than improved labor demand, such as 
+
+when workers become discouraged and drop out of the labor force.  In addition, while 
+
+movements in the rate tend to be fairly persistent, recent history provides several cases in 
+
+which the unemployment rate fell substantially and then stabilized at still-elevated levels.  
+
+For example, between the fourth quarter of 2010 and the first quarter of 2011, the 
+
+unemployment rate fell ½ percentage point but was then little changed over the next two 
+
+quarters.  Similarly, the unemployment rate fell ¾ percentage point between the third 
+
+quarter of 2011 and the first quarter of 2012, only to level off over the subsequent spring 
+
+and summer.  
+
+To judge whether there has been a substantial improvement in the outlook for the 
+
+labor market, I therefore expect to consider additional labor market indicators along with 
+
+the overall outlook for economic growth.  For example, the pace of payroll employment 
+
+growth is highly correlated with a diverse set of labor market indicators, and a decline in 
+
+
+ - 12 - 
+
+unemployment is more likely to signal genuine improvement in the labor market when it 
+
+is combined with a healthy pace of job gains.   
+
+The payroll employment data, however, also have shortcomings.  In particular, 
+
+they are subject to substantial revision.  When the Labor Department released its annual 
+
+benchmarking of the establishment survey data last month, it revised up its estimate of 
+
+employment in December 2012 by 647,000.   
+
+In addition, I am likely to supplement the data on employment and unemployment 
+
+with measures of gross job flows, such as job loss and hiring, which describe the 
+
+underlying dynamics of the labor market.  For instance, layoffs and discharges as a share 
+
+of total employment have already returned to their pre-recession level, while the hiring 
+
+rate remains depressed.  Therefore, going forward, I would look for an increase in the rate 
+
+of hiring.  Similarly, a pickup in the quit rate, which also remains at a low level, would 
+
+signal that workers perceive that their chances to be rehired are good--in other words, that 
+
+labor demand has strengthened.   
+
+I also intend to consider my forecast of the overall pace of spending and growth in 
+
+the economy.  A decline in unemployment, when it is not accompanied by sufficiently 
+
+strong growth, may not indicate a substantial improvement in the labor market outlook.  
+
+Similarly, a convincing pickup in growth that is expected to be sustained could prompt a 
+
+determination that the outlook for the labor market had substantially improved even 
+
+absent any substantial decline at that point in the unemployment rate.   
+
+The Efficacy of Asset Purchases  
+
+Let me turn next to the efficacy and potential costs of asset purchases, a topic 
+
+discussed at recent FOMC meetings and that I suspect will be discussed at succeeding 
+
+
+ - 13 - 
+
+meetings as well.  I see the currently available evidence as suggesting that our asset 
+
+purchases have been reasonably efficacious in stimulating spending.  There is 
+
+considerable evidence that these purchases have eased financial conditions, and so have 
+
+presumably increased interest-sensitive spending.
+24
+
+  Research suggests that our purchases 
+
+of mortgage-backed securities pushed down MBS yields and that MBS yields pass 
+
+through, with a lag, to mortgage rates.
+25
+
+  Indeed, I see the recent strength in housing and 
+
+consumer durables, such as motor vehicle purchases, as partly reflecting the effect of 
+
+reduced borrowing costs.  Plausible, albeit uncertain, estimates of the ultimate economic 
+
+effect of asset purchases can be obtained from simulations of the Board’s FRB/US model.  
+
+Such simulations suggest that a hypothetical program involving $500 billion in longer-
+
+term asset purchases would serve to lower the unemployment rate by close to 
+
+¼ percentage point within three years while keeping inflation close to the Committee’s 
+
+2 percent objective. 
+
+One issue on which there has been considerable debate is whether low interest 
+
+rates are doing as much to promote economic growth since the financial crisis as they 
+
+would have before the financial crisis--whether the interest rate channel of transmission 
+
+for monetary policy has been attenuated.  I agree with those who think this channel has 
+
+been partially blocked.  Individuals who have impaired credit histories, have been 
+
+unemployed, or hold underwater mortgages are experiencing great difficulty gaining 
+
+access to credit, whether to buy or refinance a home, finance a small business, or support 
+
+                                                 
+24
+
+ Empirical studies have drawn on the experience of the Federal Reserve’s large-scale asset purchases in 
+
+recent years, as well as from earlier episodes in the United States and from the experience with asset 
+
+purchases in the United Kingdom.  See, for example, D’Amico and King (forthcoming), D’Amico and 
+
+others (2012), Gagnon and others (2011), Hamilton and Wu (2012), Joyce and others (2011), 
+
+Krishnamurthy and Vissing-Jørgensen (2011), and Swanson (2011). 
+25
+
+ See Hancock and Passmore (2012).  
+ 
+
+
+ - 14 - 
+
+spending for other needs.  Even those with good, but not stellar, credit histories and 
+
+sufficient income are facing capacity constraints in the mortgage market.  However, even 
+
+if the interest rate channel is less powerful right now than it was before the crisis, asset 
+
+purchases still work to support economic growth through other channels, including by 
+
+boosting stock prices and house values.  The resulting improvement in household wealth 
+
+supports greater consumption spending. 
+
+The Costs of Asset Purchases 
+
+Turning to the potential costs of the Federal Reserve’s asset purchases, there are 
+
+some that definitely need to be monitored over time.  At this stage, I do not see any that 
+
+would cause me to advocate a curtailment of our purchase program.   
+
+To address one concern that I have heard, there is no evidence that the Federal 
+
+Reserve’s purchases have impaired the functioning of financial markets, and, while we 
+
+continue to monitor market function carefully, so long as we pursue our purchases 
+
+sensibly, I do not expect market functioning to become a problem in the future.  Further, 
+
+I’ve argued previously, and still judge, that the FOMC has the tools it needs to withdraw 
+
+accommodation, even if the balance sheet at that time is large.  These tools include a new 
+
+one, approved by the Congress during the financial crisis, which allows the Federal 
+
+Reserve to pay banks interest on their reserves.  A suite of supporting tools, such as 
+
+reverse repurchase agreements with a wide range of counterparties and the Term Deposit 
+
+Facility, are routinely tested to make sure that the Federal Reserve is prepared to use 
+
+them and that they will work as planned.   
+
+Two additional costs have been discussed at recent meetings of the FOMC.  First, 
+
+the expansion of the balance sheet has implications for the Federal Reserve’s earnings 
+
+
+ - 15 - 
+
+from its asset holdings and, hence, for its remittances to the Treasury.  Second, some 
+
+have raised the possibility that the Committee’s policies could have negative 
+
+consequences for financial stability.   
+
+With respect to the Federal Reserve’s remittances, balance sheet operations are 
+
+intended to support economic growth and job creation in a context of price stability and 
+
+not to maximize Federal Reserve income.  There is a possibility that the Federal 
+
+Reserve’s earnings from its assets and the remittances of those earnings to the Treasury 
+
+will decline later in the decade, perhaps even ceasing entirely for some period.  It is 
+
+important to note, however, that any losses that could conceivably occur would not 
+
+impair the Federal Reserve’s conduct of monetary policy.
+ 26
+
+  Further, even if remittances 
+
+to the Treasury ceased for a time, it is highly likely that average annual remittances over 
+
+the period affected by our asset purchases will be higher than the pre-crisis norms.   
+
+ Though our expanded portfolio of longer-term securities has in recent years 
+
+translated into substantial earnings and remittances to the Treasury, the Federal Reserve 
+
+has, to be sure, increased its exposure to interest rate risk by lengthening the average 
+
+maturity of its securities holdings.  As the economic recovery strengthens and monetary 
+
+policy normalizes, the Federal Reserve’s net interest income will likely decline.  In 
+
+particular, the Federal Reserve’s interest expenses will increase as short-term interest 
+
+rates rise, while reserve balances initially remain sizable.  In addition, policy 
+
+normalization may well involve significant sales of the Federal Reserve’s agency 
+
+securities holdings, and losses could be incurred in these sales.  A recent study by the 
+
+Board staff considered the effect of a number of scenarios on Federal Reserve income, 
+
+                                                 
+26
+
+ See Carpenter and others (2013).   
+
+
+ - 16 - 
+
+based on assumptions about the course of balance sheet normalization that are consistent 
+
+with the exit strategy principles adopted at the June 2011 FOMC meeting.
+27
+
+
+The projections resulting from this exercise imply that Federal Reserve 
+
+remittances to the Treasury will likely decline for a time.  In some scenarios, they decline 
+
+to zero.  Once the Federal Reserve’s portfolio is normalized, however, earnings are 
+
+projected to return to their long‐run trend.  The study supports the conclusion that the 
+
+Federal Reserve’s purchase programs will very likely prove to have been a net plus for 
+
+cumulative income and remittances to the Treasury over the period from 2008 through 
+
+2025, by which time it is assumed that the balance sheet has been normalized.
+28
+
+
+Focusing only on the ebb and flow of the Federal Reserve’s remittances to the 
+
+Treasury, however, is not, in my view, the appropriate way to evaluate the effect of these 
+
+purchases on the government’s finances.  More germane is the overall effect of the 
+
+program on federal finances.  If the purchases provide even a modest boost to economic 
+
+activity, increased tax payments would swamp any reduction in remittances.  By 
+
+depressing longer-term interest rates, the purchases also hold down the Treasury’s debt 
+
+service costs.  These effects can be quantified through simulations of the Board’s 
+
+FRB/US model.  In the simulation I described earlier, a hypothetical program involving 
+
+$500 billion of asset purchases would reduce the ratio of federal debt to gross domestic 
+
+                                                 
+27
+
+ See Carpenter and others (2013) for the Board study; the exit strategy principles are in Board of 
+
+Governors (2011b).  
+28
+
+ The extent of realized capital losses on sales of Federal Reserve assets depends on the precise securities 
+
+sales policy that the Committee eventually decides to undertake.  An increase in longer-term interest rates 
+
+would lower the market value of the securities in the System Open Market Account (SOMA) portfolio.  But 
+
+the Federal Reserve would continue to receive interest income on those securities for as long as they 
+
+remained in the SOMA portfolio, and securities held to maturity could roll off the portfolio without the 
+
+Federal Reserve realizing losses on them.  While the authors of the Board staff study used particular 
+
+assumptions about future securities sales that are consistent with the exit strategy principles outlined by the 
+
+Committee in June 2011, other strategies for sales that are equally consistent might lead to different results.  
+
+
+
+
+ - 17 - 
+
+product (GDP) by about 1.5 percentage points by late 2018.  The lower debt-to-GDP ratio 
+
+mainly reflects stronger tax revenue as a result of more-robust economic activity. 
+
+Finally, let me comment on the possibility that our asset purchase program could 
+
+threaten financial stability by promoting excessive risk-taking, a significant concern that I 
+
+and my colleagues take very seriously.  To put this concern in context, though, remember 
+
+that during the most intense phase of the financial crisis, risk aversion surged.  Even in 
+
+the aftermath of the crisis, businesses, banks, and investors have been exceptionally 
+
+cautious, presumably reflecting their concern about future business conditions, 
+
+uncertainty about economic policy, and the perception of pronounced tail risks relating, 
+
+for example, to stresses in global financial markets.  I see one purpose of the 
+
+Committee’s accommodative policies as promoting a return to prudent risk-taking.  
+
+Indeed, the return to more normal levels of risk-taking and the associated normalization 
+
+of credit markets have been vital to recovery from the Great Recession.    
+
+Of course, risk-taking can go too far, thereby threatening future economic 
+
+performance, and a low interest rate environment has the potential to induce investors to 
+
+take on too much leverage and reach too aggressively for yield.  At this stage, there are 
+
+some signs that investors are reaching for yield, but I do not now see pervasive evidence 
+
+of trends such as rapid credit growth, a marked buildup in leverage, or significant asset 
+
+bubbles that would clearly threaten financial stability.
+29
+
+  That said, such trends need to be 
+
+carefully monitored and addressed, and the Federal Reserve has invested considerable 
+
+resources to establish new surveillance programs to assess risks in the financial system.  
+
+In the aftermath of the crisis, regulators here and around the world are also implementing 
+
+                                                 
+29
+
+ In a recent speech, Governor Jeremy Stein (2013) discussed several areas in which a noticeable increase 
+
+in risk-taking behavior has emerged. 
+
+
+ - 18 - 
+
+a broad range of reforms to mitigate systemic risk.
+30
+
+  With respect to the large financial 
+
+institutions that it supervises, the Federal Reserve is using a variety of supervisory tools 
+
+to assess their exposure to, and proper management of, interest rate risk.   
+
+To the extent that investors are reaching for yield, I see the low interest rate 
+
+environment and not the FOMC’s asset purchases, per se, as a contributing factor.  It is 
+
+true that asset purchases put downward pressure on the term premium component of 
+
+longer-term rates, and that discontinuing purchases would likely cause term premiums to 
+
+rise.  But ending asset purchases before observing a substantial improvement in the labor 
+
+market might also create expectations that the amount of accommodation provided would 
+
+not be sufficient to sustain the improvement in the economy.  This weakening in the 
+
+economic outlook might bring down the expected path of the federal funds rate, with the 
+
+result that longer-term interest rates might not rise appreciably, on net.  Moreover, a 
+
+weakening of the economic environment could also create significant financial stability 
+
+risks.  That said, financial stability concerns, to my mind, are the most important potential 
+
+cost associated with the current stance of monetary policy.   
+
+Conclusion 
+
+In these remarks, I have reviewed recent FOMC policy actions--actions I have 
+
+supported because I believe they will help foster a stronger recovery and keep inflation 
+
+close to the Committee’s longer-run target.  I recognize that the Federal Reserve’s highly 
+
+accommodative policy entails some costs and risks.  It will be important both to monitor 
+
+them and to continue strengthening our financial system. 
+
+However, insufficiently forceful action to achieve our dual mandate also entails 
+
+costs and risks.  There is the high cost that unemployed workers and their families are 
+
+                                                 
+30
+
+ See, for example, a speech on financial stability regulation by Governor Daniel Tarullo (2012). 
+
+
+ - 19 - 
+
+paying in this disappointingly slow recovery.  There is the risk of longer-term damage to 
+
+the labor market and the economy’s productive capacity.  At present, I view the balance 
+
+of risks as still calling for a highly accommodative monetary policy to support a stronger 
+
+recovery and more-rapid growth in employment. 
+
+Thank you for inviting me to speak to you today at NABE’s spring conference. 
+
+
+
+
+ - 20 - 
+
+References 
+
+Board of Governors of the Federal Reserve System (2009a).  “FOMC Statement,” press 
+
+release, March 18, 
+
+www.federalreserve.gov/newsevents/press/monetary/20090318a.htm. 
+
+
+------ (2009b).  “FOMC Statement,” press release, November 4, 
+
+www.federalreserve.gov/newsevents/press/monetary/20091104a.htm. 
+
+
+------ (2011a).  “FOMC Statement,” press release, August 9, 
+
+www.federalreserve.gov/newsevents/press/monetary/20110809a.htm. 
+
+
+------ (2011b).  “Minutes of the Federal Open Market Committee, June 21-22, 2011,” 
+
+press release, July 12, 
+
+www.federalreserve.gov/newsevents/press/monetary/20110712a.htm. 
+
+
+------ (2012a).  “Federal Reserve Issues FOMC Statement,” press release, September 13, 
+
+www.federalreserve.gov/newsevents/press/monetary/20120913a.htm. 
+
+
+------ (2012b).  “Federal Reserve Issues FOMC Statement,” press release, December 12, 
+
+www.federalreserve.gov/newsevents/press/monetary/20121212a.htm. 
+
+
+------ (2013).  “Minutes of the Federal Open Market Committee, December 11-12, 2012,” 
+
+press release, January 3, 
+
+www.federalreserve.gov/newsevents/press/monetary/20130103a.htm. 
+
+
+Bureau of Labor Statistics (2013), “Employment Situation--January 2013,” press release, 
+
+February 1, www.bls.gov/news.release/pdf/empsit.pdf. 
+
+
+Carpenter, Seth B., Jane E. Ihrig, Elizabeth C. Klee, Daniel W. Quinn, and Alexander H. 
+
+Boote (2013).  “The Federal Reserve’s Balance Sheet and Earnings:  A Primer 
+
+and Projections,” Finance and Economics Discussion Series 2013-01.  
+
+Washington:  Board of Governors, January, 
+
+www.federalreserve.gov/pubs/feds/2013/201301/201301abs.html. 
+
+
+
+
+ - 21 - 
+
+Clarida, Richard, Jordi Galí, and Mark Gertler (2000).  “Monetary Policy Rules and 
+
+Macroeconomic Stability:  Evidence and Some Theory,” Quarterly Journal of 
+
+Economics, vol. 115 (February), pp. 147-80. 
+
+
+D’Amico, Stefania, William English, David López-Salido, and Edward Nelson (2012).  
+
+“The Federal Reserve’s Large-Scale Asset Purchase Programmes:  Rationale and 
+
+Effects,” Economic Journal, vol. 122 (November), pp. F415-F446. 
+
+
+D’Amico, Stefania, and Thomas B. King (forthcoming).  “Flow and Stock Effects of 
+
+Large-Scale Treasury Purchases:  Evidence on the Importance of Local Supply,” 
+
+Journal of Financial Economics. 
+
+
+Gagnon, Joseph, Mathew Raskin, Julie Remache, and Brian Sack (2011).  “The Financial 
+
+Market Effects of the Federal Reserve’s Large-Scale Asset Purchases,” 
+
+International Journal of Central Banking, vol. 7 (March), pp. 3-43. 
+
+
+Hamilton, James D., and Jing Cynthia Wu (2012).  “The Effectiveness of Alternative 
+
+Monetary Policy Tools in a Zero Lower Bound Environment,” Journal of Money, 
+
+Credit and Banking, vol. 44 (February supplement), pp. 3-46. 
+
+
+Hancock, Diana, and Wayne Passmore (2012).  “The Federal Reserve’s Portfolio and its 
+
+Effects on Mortgage Markets,” Finance and Economics Discussion Series 2012-
+
+22.  Washington:  Board of Governors of the Federal Reserve System, June, 
+
+www.federalreserve.gov/pubs/feds/2012/201222/201222abs.html. 
+
+
+Joyce, Michael A.S., Ana Lasaosa, Ibrahim Stevens, and Matthew Tong (2011).  “The 
+
+Financial Market Impact of Quantitative Easing in the United Kingdom,” 
+
+International Journal of Central Banking, vol. 7 (September), pp. 113-61. 
+
+
+Krishnamurthy, Arvind, and Annette Vissing-Jørgensen (2011).  “The Effects of 
+
+Quantitative Easing on Interest Rates:  Channels and Implications for Policy,” 
+
+Brookings Papers on Economic Activity, Fall, pp. 215-65. 
+
+
+Reifschneider, David, and John C. Williams (2000).  “Three Lessons for Monetary Policy 
+
+in a Low-Inflation Era,” Journal of Money, Credit and Banking, vol. 32 
+
+(November, part 2), pp. 936-66. 
+
+
+ - 22 - 
+
+
+Rudebusch, Glenn D. (2006).  “Monetary Policy Inertia:  Fact or Fiction?” International 
+
+Journal of Central Banking, vol. 2 (December), pp. 85-135. 
+
+
+Stein, Jeremy C. (2013).  “Overheating in Credit Markets:  Origins, Measurement, and 
+
+Policy Responses,” speech delivered at “Restoring Household Financial Stability 
+
+after the Great Recession:  Why Household Balance Sheets Matter,” a symposium 
+
+sponsored by the Federal Reserve Bank of St. Louis, St. Louis, February 5-7, 
+
+www.federalreserve.gov/newsevents/speech/stein20130207a.htm. 
+
+
+Swanson, Eric T. (2011).  “Let’s Twist Again:  A High-Frequency Event-Study Analysis 
+
+of Operation Twist and Its Implications for QE2,” Brookings Papers on Economic 
+
+Activity, Spring, pp. 151-88. 
+
+
+Swanson, Eric T., and John C. Williams (2013).  “Measuring the Effect of 
+
+the Zero Lower Bound on Medium- and Longer-Term Interest Rates,” Working 
+
+Papers Series 2012-02.  San Francisco:  Federal Reserve Bank of San Francisco, 
+
+January, www.frbsf.org/publications/economics/papers/2012/wp12-02bk.pdf. 
+
+
+Tarullo, Daniel K. (2012).  “Financial Stability Regulation,” speech delivered at the 
+
+Distinguished Jurist Lecture, University of Pennsylvania Law School, 
+
+Philadelphia, October 10, 
+
+www.federalreserve.gov/newsevents/speech/tarullo20121010a.htm. 
+
+
+Woodford, Michael (2012).  “Methods of Policy Accommodation at the Interest-Rate 
+
+Lower Bound,” paper presented at “The Changing Policy Landscape,” a 
+
+symposium sponsored by the Federal Reserve Bank of Kansas City, held in 
+
+Jackson Hole, Wyo., August 31-September 1, 
+
+http://kansascityfed.org/publicat/sympos/2012/mw.pdf. 
+
+
+Yellen, Janet L. (2012a).  “Perspectives on Monetary Policy,” speech delivered at the 
+
+Boston Economic Club Dinner, Boston, June 6, 
+
+www.federalreserve.gov/newsevents/speech/yellen20120606a.htm. 
+
+
+
+
+ - 23 - 
+
+------ (2012b).  “Revolution and Evolution in Central Bank Communications,” speech 
+
+delivered at the Haas School of Business, University of California, Berkeley, 
+
+Berkeley, Calif., November 13, 
+
+www.federalreserve.gov/newsevents/speech/yellen20121113a.htm. 
+
+
+------ (2013).  “A Painfully Slow Recovery for America’s Workers:  Causes, 
+
+Implications, and the Federal Reserve’s Response,” speech delivered at “A Trans-
+
+Atlantic Agenda for Shared Prosperity,” a conference sponsored by the AFL-CIO, 
+
+Friedrich Ebert Stiftung, and the IMK Macroeconomic Policy Institute, held in 
+
+Washington, February 11, 
+
+www.federalreserve.gov/newsevents/speech/yellen20130211a.htm. 
+
+
+

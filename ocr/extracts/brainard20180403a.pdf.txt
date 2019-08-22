@@ -1,0 +1,675 @@
+
+For release on delivery
+4:30 p.m. EDT
+April 3, 2018
+
+An Update on the Federal Reserve’s Financial Stability Agenda
+
+Remarks by
+
+Lael Brainard
+
+Member
+
+Board of Governors of the Federal Reserve System
+
+at the
+
+Center for Global Economy and Business
+Stern School of Business
+
+New York University
+
+New York, New York
+
+April 3, 2018
+
+
+The Federal Reserve’s work on financial stability is integral to our dual-mandate 
+
+objectives of price stability and full employment. As the Global Financial Crisis 
+
+demonstrated, when severe financial stress triggers a broad pullback from risk, the 
+
+resulting disruption in financial intermediation can impose deep and lasting damage on 
+
+American families, workers, and businesses.1
+
+The primary focus of financial stability policy is tail risk (outcomes that are
+
+unlikely but severely damaging) as opposed to the modal outlook (the most likely path of 
+
+the economy).  The objective of financial stability policy is to lessen the likelihood and
+
+severity of a financial crisis. Guided by that objective, our financial stability work rests 
+
+on four interdependent pillars:  systematic analysis of financial vulnerabilities; standard 
+
+prudential policies that safeguard the safety and soundness of individual banking 
+
+organizations; additional policies, which I will refer to as “macroprudential,” that build 
+
+resilience in the large, interconnected institutions at the core of the system; and 
+
+countercyclical policies that increase resilience as risks build up cyclically.2 This work 
+
+also recognizes the important connections to our monetary policy objectives. 
+
+Assessment of Financial Vulnerabilities
+
+The foundation for our financial stability work is our assessment of systemic 
+
+financial vulnerabilities.  Our assessment framework is informed by historical episodes of 
+
+financial stress here at home and around the world, as well as by a growing body of 
+
+1 I am grateful to John Schindler of the Federal Reserve Board for his assistance in preparing this text.  The 
+remarks represent my own views, which do not necessarily represent those of the Federal Reserve Board or 
+the Federal Open Market Committee.
+2 In this work agenda, the Federal Reserve cooperates closely with other regulators to facilitate joint 
+responsibility for financial stability while respecting that each independent agency has its own specific 
+statutory mandate and governing body.
+
+
+- 2 -
+
+research on key indicators of building imbalances.3 Instead of attempting to forecast 
+
+particular adverse shocks that could buffet the economy, the focus is on vulnerabilities--
+
+that is, on features of the financial system that amplify bad shocks, spreading damage to 
+
+households and businesses.  Each quarter, Federal Reserve Board staff assess a set of 
+
+vulnerabilities relevant for financial stability:  asset valuations and risk appetite, 
+
+borrowing by the nonfinancial sector (households and nonfinancial businesses), liquidity 
+
+risks and maturity transformation by the financial system, and leverage in the financial 
+
+system.
+
+It may be illuminating to briefly describe our current assessment in each of these 
+
+areas.  Valuations in a broad set of markets appear elevated relative to historical norms, 
+
+even after taking into account recent movements. Estimates of risk premiums and 
+
+spreads in a range of markets remain narrow by historical standards. Corporate bond 
+
+yields remain low by historical comparison, and spreads of yields on junk bonds above
+
+those on comparable-maturity Treasury securities are near the lower-end of their 
+
+historical range. Spreads on leveraged loans and securitized products backed by those 
+
+loans remain narrow. Prices of multifamily residential and industrial commercial real 
+
+estate (CRE) have risen, and capitalization rates--the ratios of operating income relative 
+
+to the sale price of commercial properties--for these segments have reached historical 
+
+lows. However, measures of credit conditions suggest that lenders are, to an extent, 
+
+taking into account the potential for a reversion of valuations.
+
+3 In addition to cyclical vulnerabilities, structural vulnerabilities, such as those that arise from the 
+complexity and interconnectedness of large financial institutions, also remain potential sources of risk to 
+the financial system. The Federal Reserve assesses structural vulnerabilities in support of its financial 
+stability and supervision and regulation responsibilities.  For instance, cybersecurity is the subject of
+ongoing monitoring and policy efforts.
+
+
+- 3 -
+
+By contrast, prices of single-family homes appear to be closer to historical norms. 
+
+House prices have risen at a robust pace, and the price-to-rent ratio is high in absolute 
+
+terms, but it does not appear to be far out of line with its longer-run trend. This broad 
+
+national trend belies significant variation among local markets, however.4
+
+One area that the Federal Reserve is monitoring is the extreme volatility 
+
+evidenced by some cryptocurrencies.  For instance, Bitcoin rose over 1,000 percent in
+
+2017 and has fallen sharply in recent months.5 These markets may raise important 
+
+investor and consumer protection issues, and some appear especially vulnerable to
+
+money-laundering (BSA/AML, or Bank Secrecy Act/anti-money laundering) concerns.  
+
+As in other highly speculative markets, individual investors should be careful to 
+
+understand the possible pitfalls of these investments and the potential for losses.  But it is 
+
+less clear how the valuations of cryptocurrencies currently could pose a threat to financial 
+
+stability.  For instance, it is hard to see evidence of substantial leverage used in the 
+
+purchase of the cryptocurrencies, or a material degree of use in payments, although our 
+
+assessment of these markets is limited by their opacity. Nonetheless, we will continue to 
+
+study them.
+
+In the assessment of elevated asset valuations, the relatively low level of Treasury 
+
+yields is a mitigating factor; many asset valuation metrics, such as price-to-earnings 
+
+ratios, corporate bond yields, and property capitalization rates, appear notably less 
+
+stretched when judged relative to low Treasury yields. That said, Treasury yields reflect 
+
+historically low term premiums--the compensation investors demand to hold assets over a 
+
+4 For example, the price-to-rent ratios in Los Angeles, Miami, and Denver are 10 to 20 percent above their 
+long-run trends, compared with 4 percent at the national level.
+5 Similar volatility was seen in some other cryptocurrencies, such as Ether, XRP, and Litecoin.
+
+
+- 4 -
+
+longer horizon.  This poses the risk that term premiums could rise sharply--for instance, if 
+
+investor perceptions of inflation risks increased.  I will return to this risk later.
+
+Although asset valuations are elevated, vulnerabilities due to debt owed outside 
+
+the financial sector appear to be moderate--in the middle of their historical range.  This 
+
+reflects elevated leverage in the nonfinancial business sector and a moderate pace of 
+
+borrowing in the household sector. In the nonfinancial business sector, the debt-to-
+
+earnings ratio has increased to near the upper end of its historical distribution, and net 
+
+leverage at speculative-grade firms remains especially elevated. Overall, however, the 
+
+ratio of nonfinancial-sector borrowing to gross domestic product has been below an 
+
+estimate of its trend for several years as a result of the deleveraging of the household 
+
+sector following the crisis.  While the sustained period of post-crisis household 
+
+deleveraging appears to have come to an end and savings rates have recently moved 
+
+down, overall borrowing has been at a moderate pace and, on net, concentrated among 
+
+borrowers with high credit scores. Even though the balance sheet of the household sector 
+
+as a whole appears relatively strong, recent years have seen a rapid rise in student debt as 
+
+well as rising default rates for borrowers with subprime credit scores on auto loans and, 
+
+more recently, credit card balances.
+
+Beyond the nonfinancial sector, the vulnerabilities associated with maturity and 
+
+liquidity transformation in the financial system appear to have fallen significantly relative
+
+to the levels seen prior to the crisis. The amount of wholesale short-term funding, which 
+
+proved to be a substantial source of run risk during the crisis, has dropped substantially 
+
+since its peak in 2008. Money market funds, which had been an area of vulnerability in 
+
+the crisis, have undergone important reforms, including a move to floating net asset 
+
+
+- 5 -
+
+values for prime institutional funds along with the imposition of fees and restrictions on 
+
+redemption.  The anticipation of the enactment of these reforms in October 2016 led to a 
+
+large decline in the level of assets under management at the affected funds, which has 
+
+since held steady. So far, the growth of alternative short-term investment vehicles that 
+
+could pose similar risks appears to have been weak.
+
+Finally, risks associated with leverage in the financial sector also appear to be 
+
+subdued by historical standards.  Leverage in the banking sector has declined notably 
+
+since the crisis. Issuance of securitized products remains well below pre-crisis levels for 
+
+most asset classes, with few signs of securitizations that involve maturity or liquidity 
+
+transformation and limited issuance of complex securities whose opaque structures can 
+
+contain significant leverage. And the data that are available suggest that leverage at 
+
+nonbank financial firms has been stable. That said, there are indications that the use of 
+
+leverage has been increasing at some institutions; for example, margin credit provided by 
+
+dealers to equity investors such as hedge funds has expanded.
+
+Prudential, Macroprudential, and Countercyclical Policies
+
+There is an important connection between the robustness of our financial
+
+regulatory framework and the assessment of resilience in the financial sector.  The 
+
+subdued level of vulnerabilities from liquidity and maturity transformation and leverage 
+
+is due centrally to reforms undertaken in response to the financial crisis.  The Federal 
+
+Reserve has implemented a framework of rules and supervision that requires large, 
+
+interconnected banking organizations to hold substantial capital and liquidity buffers.  
+
+This framework requires banks to be forward looking in their capital decisions and to be 
+
+prepared for the possibility of severely stressed conditions occurring.  The framework is 
+
+
+- 6 -
+
+macroprudential in design so that banks internalize the costs of undertaking activities that 
+
+pose risks to the system.  
+
+The core of the framework is the requirement of a substantial stack of common 
+
+equity to build resilience against shocks and to provide an incentive for prudent risk 
+
+management.  Regulatory capital ratios for the largest banking firms at the core of the 
+
+system have about doubled since 2007 and are currently at their highest levels in the post-
+
+crisis era.  U.S. firms have substantially increased their capital since the first round of 
+
+stress tests led by the Federal Reserve in 2009. The common equity capital ratio--which 
+
+compares high-quality capital to risk-weighted assets--of the bank holding companies 
+
+participating in the 2017 Comprehensive Capital Analysis and Review has more than 
+
+doubled from 5.5 percent in the first quarter of 2009 to 12 percent in the fourth quarter of 
+
+2017. Their leverage ratios--defined as Tier 1 capital to total assets--increased from 7.3 
+
+percent to 8.6 percent over the same period.6 There has also been an important shift in 
+
+the distribution of high-quality capital so that the average ratio of high-quality common 
+
+equity to risk-weighted assets at the largest banks now exceeds the average for smaller 
+
+banks.  The larger and more complex banking organizations are now holding more 
+
+capital, commensurate with the greater risks their distress could pose.  
+
+Reduced vulnerability associated with liquidity and maturity transformation 
+
+similarly is due importantly to key financial reforms instituted since the crisis.  Large 
+
+financial institutions are required to maintain substantial buffers of high-quality liquid 
+
+assets (HQLA) calibrated to their funding needs and to their likely run risk in stressed 
+
+6 These statistics are for the 18 bank holding companies that participated in both the 2009 and 2017 stress 
+tests. The risk-based capital statistics for 2009 report tier 1 common equity, and for 2017 report Basel III 
+common equity tier 1.
+
+
+- 7 -
+
+conditions.  Similar to the capital buffers, the liquidity buffers are greatest for those 
+
+financial institutions that pose the greatest risks. Indeed, banks are holding buffers of 
+
+HQLA in excess of their liquidity coverage ratio (LCR) requirements. Our largest 
+
+banking firms have increased their holdings of HQLA from 13 percent of assets in 2011 
+
+to 20 percent in 2017 and have reduced their reliance on short-term wholesale funding 
+
+from 36 percent of liabilities in 2011 to 29 percent in 2017.7
+
+Just as our strengthened policy framework helps modulate vulnerabilities in the 
+
+financial sector that could make the economy more vulnerable to shocks, so, too, our 
+
+quarterly surveillance is intended to identify rising vulnerabilities early enough to be able 
+
+to act to prevent disruptions that could damage the economy. In particular, the quarterly 
+
+assessment of financial stability is a critical input into the Board’s processes for adjusting
+
+the supervisory scenarios used in the stress test and the setting of the countercyclical 
+
+capital buffer--the two tools that permit the Board to respond to vulnerabilities that build 
+
+over time.
+
+The supervisory stress test is intended to ensure that large banking institutions 
+
+will be able to continue to function normally even under severely adverse 
+
+macroeconomic conditions. It also assesses the resilience of the largest trading firms to 
+
+risks of a large disturbance to global financial markets and the failure of the firms’ largest 
+
+counterparty. These components reflect some of the key linkages through which the 
+
+distress or failure of one firm could affect others, including direct credit losses as well as 
+
+the severe financial disruptions that would be expected to accompany fire sales and an 
+
+increase in risk aversion. 
+
+7 These statistics reflect the 18 advanced approaches bank holding companies subject to the standard LCR.
+
+
+- 8 -
+
+By design, the Fed’s stress test is intended to incorporate some elements to make 
+
+the tests more stringent when the economy and financial markets are heating up.  These 
+
+countercyclical features are intended to give the stress tests some utility as a 
+
+macroprudential tool--that is, to mitigate the financial system’s inherent pro-cyclicality. 
+
+The most prominent countercyclical feature of the stress-test scenario architecture is the 
+
+setting of the unemployment rate in the severely adverse scenario.  The general rule is to 
+
+increase the unemployment rate by 4 percent unless the baseline unemployment rate 
+
+starts at levels below 6 percent, in which case the ultimate level of the unemployment rate 
+
+reached in the severely adverse scenario is fixed at 10 percent.  In addition, last 
+
+December, the Board put out a proposal for comment to introduce a systematically 
+
+countercyclical mechanism in the component of the scenario that shocks house prices.8
+
+Beyond these systematic elements, the assessment of vulnerabilities is a critical 
+
+input in the development of scenarios for the stress tests each year to strengthen resilience 
+
+against vulnerabilities that may be identified.  As I noted earlier, recent assessments have 
+
+noted high levels of valuations across a broad set of asset markets and elevated business 
+
+leverage in an environment where Treasury yields and term premiums have been 
+
+relatively low by historical standards.  In such circumstances, asset prices might be 
+
+particularly susceptible to an unexpected development that accentuates downside risks to 
+
+the macroeconomic outlook.  For instance, a sharp increase in concerns about the 
+
+8 See Board of Governors of the Federal Reserve System (2017), “Policy Statement on the Scenario Design 
+Framework for Stress Testing,” proposed rule (Docket No. OP-1588), Federal Register, vol. 82 (December 
+15), pp. 59533-59547, https://www.federalregister.gov/documents/2017/12/15/2017-26858/policy-
+statement-on-the-scenario-design-framework-for-stress-testing.
+
+
+- 9 -
+
+potential for high inflation or in uncertainty about policy could boost term premiums on
+
+Treasury securities, which could trigger declines in asset prices across a range of markets.
+
+The scenarios for this year’s stress tests, which were announced in February, 
+
+feature material decreases in asset prices--notably including CRE prices--along with a 
+
+substantial rise in Treasury term premiums.  Although the severely adverse scenarios 
+
+always include severe recessions and sharp declines in asset prices, in past years, they 
+
+have been accompanied by large declines in Treasury yields, which have resulted in 
+
+capital gains on these securities.9 In contrast, in this year’s severely adverse scenario, 
+
+yields on longer-maturity Treasury securities are flat. In this way, this year’s severely 
+
+adverse scenario addresses one of the salient vulnerabilities that have been identified. By 
+
+encouraging institutions at the core of the system to build resilience against such an 
+
+eventuality, we seek to lessen the severity of the distress to the overall financial system 
+
+should asset prices fall and term premiums rise sharply in a challenging macroeconomic 
+
+environment.
+
+Even with these design features, the Fed’s stress-testing framework has some 
+
+limitations in counteracting the inherent pro-cyclicality in the availability of credit.
+
+Indeed, the stress tests have become less binding on banks as the recovery has gathered 
+
+strength.  Thus, losses on loans and positions in the severely adverse scenario among 
+
+participating banks have declined over time as the economy has strengthened. For 
+
+example, in the 2016 exercise, losses amounted to $526 billion, while in 2017 they had 
+
+fallen to $493 billion, despite a larger increase in the unemployment rate in the scenario.
+
+As economic conditions strengthen, typical measures of underwriting quality look strong,
+
+9 Over the years, our adverse scenarios, which are not designed to be the binding scenario for capital 
+planning purposes, have featured large increases in Treasury yields across the maturity curve.  
+
+
+- 10 -
+
+delinquencies fall to low levels, and profits rise consistently, all of which could lead to 
+
+lower projected stress losses. Of course, these effects tend to reverse during bad 
+
+economic conditions: Underwriting deficiencies tend to be revealed, delinquencies to 
+
+rise, and profits to fall. Thus, capital requirements based on stress tests alone are unlikely 
+
+to completely compensate for the financial system’s natural pro-cyclicality. 
+
+In part for that reason, we also have a specifically countercyclical capital 
+
+requirement that applies to the largest banks. Countercyclical capital requirements can
+
+lean against a dangerous increase in financial vulnerabilities at a time when the degree of 
+
+monetary tightening that would be needed to achieve the same goal would be inconsistent 
+
+with the Federal Reserve’s dual mandate of full employment and price stability. The 
+
+reverse is also true. The countercyclical capital buffer (CCyB) is designed to increase the 
+
+resilience of large banking organizations when there is an elevated risk of above-normal 
+
+losses, which often follow periods of rapid asset price appreciation or credit growth that 
+
+are not well supported by underlying economic fundamentals. The CCyB is an additional 
+
+margin of capital that the nation’s largest banks can be asked to build to augment 
+
+resilience at times of rising cyclical pressures and to release as the economy weakens in 
+
+order to allow banks to lend more when it is most needed.
+
+The CCyB framework, which was finalized in September 2016, requires the 
+
+Federal Reserve Board to vote at least once per year on the level of the CCyB.  Put 
+
+simply, the criterion for raising the CCyB above its minimum value of zero is that 
+
+financial risks are assessed to be in the upper one-third of their historical distribution.
+
+Our assessment of financial vulnerabilities is a key input into the Federal Reserve 
+
+Board’s decisions surrounding the setting of the CCyB, along with a variety of other 
+
+
+- 11 -
+
+model-based and judgmental criteria.  On December 1, 2017, with overall risks assessed 
+
+as moderate and with other measures that we routinely monitor sending a similar signal, 
+
+the Board announced its decision to leave the CCyB at its minimum value of zero.  
+
+Of course, our assessments of financial vulnerabilities are also an important input 
+
+into Federal Open Market Committee (FOMC) deliberations, recognizing that there is 
+
+important interdependence between financial stability and our monetary policy objectives 
+
+of full employment and price stability.10 The FOMC Statement on Longer-Run Goals 
+
+and Monetary Policy Strategy notes that “the Committee’s policy decisions reflect . . . its 
+
+assessments of the balance of risks, including risks to the financial system that could 
+
+impede the attainment of the Committee’s goals.”11 Generally speaking, lessons from a 
+
+broad range of countries suggest financial crises occur with substantially lower frequency 
+
+than business cycles, and there is no settled doctrine to date on the use of the short-term 
+
+policy rate--the key instrument of monetary policy--to lessen the probability and severity
+
+of financial crises. While financial imbalances are an important consideration in 
+
+monetary policymaking and the expected path of monetary policy can have important 
+
+implications for financial vulnerabilities, both research and experience suggest there is no 
+
+simple rule for accomplishing our dual-mandate and financial stability objectives through 
+
+reliance on a single policy instrument.
+
+10  See the box “Developments Related to Financial Stability” in Board of Governors of the Federal Reserve 
+System (2018), Monetary Policy Report (Washington: Board of Governors, February), pp. 24-26,
+
+.
+11  For the most recent statement, see Board of Governors of the Federal Reserve System (2018), “Federal 
+Open Market Committee Reaffirms Its ‘Statement on Longer-Run Goals and Monetary Policy Strategy,’ ”  
+press release, January 31, 
+https://www.federalreserve.gov/newsevents/pressreleases/monetary20180131b.htm.
+
+Note: On April 5, 2018, a typo was corrected to change 19 to 18 in the following sentence in footnote 7: 
+“These statistics reflect the 19 advanced approaches bank holding companies subject to the standard LCR.”
+
+
+- 12 -
+
+Cyclical Considerations
+
+As I have noted elsewhere, the recently enacted fiscal stimulus should boost the 
+
+economy at a time when it is close to full employment and growing above trend.  It is 
+
+hard to know with precision how the economy is likely to respond.  If unemployment 
+
+continues to decline at the rate of the past year, it could reach levels not seen in several 
+
+decades.  Historically, such episodes tended to see a risk of accelerating inflation in 
+
+earlier decades or a risk of financial imbalances in more recent decades.  It is important to 
+
+be attentive to the emergence of any imbalances, because we do not have much
+
+experience with pro-cyclical fiscal stimulus at a time when resource constraints are
+
+tightening and growth is above trend.
+
+Despite elevated asset valuations, overall risks to the financial system remain
+
+moderate in no small part because important financial reforms have encouraged large 
+
+banking institutions to build strong capital and liquidity buffers.  History suggests,
+
+however, that a booming economy can lead to a relaxation in lending standards and an
+
+attendant increase in risky debt levels.  At a time when valuations seem stretched and 
+
+cyclical pressures are building, I would be reluctant to see our large banking institutions 
+
+releasing the capital and liquidity buffers that they have built so effectively over the past 
+
+few years, especially since credit growth and profitability in the U.S. banking system are 
+
+robust.
+
+Of course, if cyclical pressures continue to build and financial vulnerabilities 
+
+broaden, it may become appropriate to ask the largest banking organizations to build a 
+
+countercyclical buffer of capital to fortify their resilience and protect against stress.  
+
+Alternatively, if there were to be a material adjustment to the calibration of the structural 
+
+
+- 13 -
+
+buffers held by the large banking institutions, it would be important to make a 
+
+compensating adjustment to the countercyclical buffer in order to achieve the same 
+
+overall resilience to financial vulnerabilities.
+
+As a rough rule of thumb--and as described in the Board’s framework for 
+
+implementing the CCyB, which was finalized in September 2016--the criteria for setting 
+
+the CCyB are calibrated so that the CCyB will be above its minimum value about one-
+
+third of the time, assuming that vulnerabilities evolve as they did pre-crisis.  It is worth 
+
+noting that some other jurisdictions have designed their countercyclical buffer 
+
+requirement to be above zero roughly half of the time--spanning a greater range of 
+
+economic conditions than in the United States. This may reflect a difference in the 
+
+relative emphasis on structural buffers relative to cyclically varying buffers.  It is worth 
+
+noting that, although U.S. structural buffers are on the stronger end of the range 
+
+internationally, the U.S. banking system is also among the healthiest and most 
+
+competitive in the world.  Credit growth is robust, and banks are registering strong
+
+profitability relative to their international peers.  
+
+Conclusion
+
+Our financial stability agenda seeks to reduce the likelihood and severity of 
+
+financial crises.  In the wake of the 2007-09 financial crisis and recession, we learned 
+
+important lessons about the critical necessity of monitoring emerging financial 
+
+vulnerabilities in a systematic fashion and taking corresponding prudential, 
+
+macroprudential, and countercyclical policies to build resilience.  We undertake 
+
+systematic assessment of financial vulnerabilities as an important input into our 
+
+policymaking processes--helping to calibrate the prudential, macroprudential, and 
+
+
+- 14 -
+
+countercyclical policies that are our first lines of defense, in addition to informing FOMC 
+
+deliberations because of the important feedback loops between financial conditions and 
+
+our dual-mandate goals. This work is complemented by the efforts of our domestic and 
+
+international partners through the Financial Stability Oversight Council and the Federal 
+
+Financial Institutions Examination Council here at home and through the Financial 
+
+Stability Board and the International Monetary Fund internationally.
+

@@ -1,0 +1,748 @@
+
+For release on delivery 
+10:30 a.m. EDT 
+October 12, 2017 
+ 
+
+
+Rethinking Monetary Policy in a New Normal 
+ 
+ 
+ 
+
+Remarks by 
+ 
+
+Lael Brainard 
+ 
+
+Member 
+ 
+
+Board of Governors of the Federal Reserve System 
+ 
+
+at the 
+ 
+
+Panel on Monetary Policy 
+“Rethinking Macroeconomic Policy,” a conference sponsored by 
+
+the Peterson Institute for International Economics 
+ 
+
+Washington, D.C. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+October 12, 2017 
+ 
+
+
+
+I enjoyed Ben Bernanke’s paper titled “Monetary Policy in a New Era.” 1  He 
+
+presents a compelling diagnosis of the issues facing policymakers and discusses a variety 
+
+of policy options.  Bernanke proposes an approach to policy that is elegant and 
+
+straightforward to communicate.  I will focus on those elements that I find particularly 
+
+relevant for the challenges faced by policymakers and suggest some implications and 
+
+complications.  My comments are not intended to address current policy.2 
+
+The New Normal 
+
+Policymakers in advanced economies are confronting a different constellation of 
+
+challenges today than those that dominated the canon of U.S. monetary policymaking 
+
+over the previous half-century, which I refer to as the “new normal.”3  A key feature of 
+
+the new normal is that the neutral interest rate--the level of the federal funds rate that is 
+
+consistent with the economy growing close to its potential rate, full employment, and 
+
+stable inflation--appears to be much lower than it was in the decades prior to the crisis.  
+
+In the Federal Open Market Committee’s (FOMC) most recent Summary of Economic 
+
+Projections (SEP), the median FOMC participant expected a longer-run real federal funds 
+
+rate, after subtracting inflation, of 3/4 percent, down sharply from the value the first time 
+
+the policy projection was published in the January 2012 SEP of 2-1/4 percent--and the 
+
+average value in the decades prior to the financial crisis of 2-1/2 percent.4   
+
+                                                 
+1 Bernanke (2017). 
+2 I am grateful to John Roberts for his assistance in preparing this text.  The remarks represent my own 
+views, which do not necessarily represent those of the Federal Reserve Board or the Federal Open Market 
+Committee. 
+3 See Brainard (2015, 2016b). 
+4 The well-known Laubach-Williams model currently suggests an estimate of the longer-run neutral federal 
+funds rate that is close to zero.  The latest estimates are available on the Federal Reserve Bank of San 
+Francisco’s website at http://www.frbsf.org/economic-
+research/files/Laubach_Williams_updated_estimates.xlsx.  Over the 1960-2007 period, the real federal 
+funds rate--measured as the nominal federal funds rate less trailing four-quarter core PCE (personal 
+consumption expenditures) inflation--averaged 2-1/2 percent. 
+
+
+ - 2 - 
+
+The low level of the neutral rate limits the amount of space available for cutting 
+
+the federal funds rate to offset adverse developments and thereby can be expected to 
+
+increase the frequency and duration of periods when the policy rate is constrained by the 
+
+effective lower bound, unemployment is elevated, and inflation is below target.  In this 
+
+environment, frequent or extended periods of low inflation run the risk of pulling down 
+
+private-sector inflation expectations, which could amplify the degree and persistence of 
+
+shortfalls of inflation, thereby making future lower bound episodes even more 
+
+challenging in terms of output and employment losses.  To the extent it is weighing on 
+
+longer-run inflation expectations, the persistently low level of the neutral federal funds 
+
+rate may be a factor contributing to the persistent shortfall of U.S. inflation from the 
+
+FOMC’s target.5  
+
+Further complicating the ability of central banks to achieve their inflation 
+
+objectives in today’s new normal is the very flat Phillips curve observed in the United 
+
+States and many other advanced economies, which makes the relationship between labor 
+
+market conditions and price inflation more tenuous.  For instance, inflation has remained 
+
+stubbornly below the FOMC’s 2 percent target for the past five years even as 
+
+unemployment has fallen from 8.2 percent to 4.2 percent, a level that most experts 
+
+believe is in the vicinity of full employment.6 
+
+Bernanke’s paper provides an excellent review of the Federal Reserve’s efforts to 
+
+operate in this new environment and makes some interesting new proposals.  Reflecting 
+
+on the Fed’s available “policy toolbox,” Bernanke concludes that the available tools are 
+
+                                                 
+5 See, for example, Brainard (2017b), Kiley and Roberts (2017), and Nakata and Schmidt (2016).   
+6 The inflation information refers to core PCE inflation measured on a 12-month average basis. 
+
+
+ - 3 - 
+
+not likely to be sufficient and proposes a framework that relies on forward guidance with 
+
+commitment to help central banks achieve their inflation and employment objectives.  
+
+The Makeup Principle  
+
+The academic literature on monetary policy suggests a variety of prescriptions for 
+
+preventing a lower neutral rate of interest from eroding longer-run inflation expectations.  
+
+The paper argues convincingly that many of these proposals present practical difficulties 
+
+that would create a very high bar for their adoption.  For instance, raising the inflation 
+
+target sufficiently to provide meaningfully greater policy space could engender public 
+
+discomfort or, at the other extreme, risk unmooring inflation expectations.  The transition 
+
+to a notably higher target is likely to be challenging and could heighten uncertainty.    
+
+As I have noted previously, the persistence of the shortfall in inflation from our 
+
+objective is an important consideration for monetary policy.7  The makeup principle, in 
+
+which policy would make up for past misses of the inflation target, is not reflected in 
+
+most standard monetary policy frameworks, although it is an important precept in 
+
+theory.8  Some of the proposals that have been advanced to implement this principle 
+
+present some difficulties.  For example, while price-level targeting would be helpful in 
+
+the aftermath of a recession that puts the economy at the effective lower bound, it could 
+
+require tightening into a negative supply shock, which is a very unattractive feature, as 
+
+Bernanke points out.9 
+
+                                                 
+7 See Brainard (2017b). 
+8 See, for example, Eggertsson and Woodford (2003) or Reifschneider and Williams (2000). 
+9 As Bernanke notes, one way to avoid this feature is to adopt “flexible price-level targeting,” in which 
+policy takes into account resource utilization as well as the deviation of the price level from its target.  
+Kiley and Roberts (2017) examine a form of flexible price-level targeting—which they refer to as a 
+“shadow rate rule”—and find that it performs well. 
+
+
+ - 4 - 
+
+Bernanke proposes a framework that avoids this undesirable possibility by 
+
+implementing a temporary price-level targeting framework only in periods where 
+
+conventional policy is constrained by the lower bound.  Bernanke’s proposal thus has the 
+
+advantage of maintaining standard practice in normal times while proposing a makeup 
+
+policy in periods when the policy rate is limited by the lower bound and inflation is 
+
+below target.   His proposed temporary price-level target would delay the liftoff of the 
+
+policy rate from the lower bound until the average inflation over the entire lower bound 
+
+episode has reached 2 percent and full employment is achieved.  This type of policy, 
+
+which would result in temporary overshooting of the inflation target in order to make up 
+
+for the previous period of undershooting, is designed to, in Bernanke’s words, “calibrate 
+
+the vigor of the policy response . . . to the severity of the episode.”   
+
+ The Normalization Bias 
+
+The proposed temporary price-level targeting policy is designed to address what I 
+
+see as one of the key challenges facing policymakers.  Following deep recessions of the 
+
+type we experienced in 2008-09, there appears to be an important premium on 
+
+“normalization.”  This was apparent in 2010, for instance, when there was substantial 
+
+pressure among Group of Twenty officials to commit to timelines and targets for 
+
+reducing fiscal support and to articulate exit principles for monetary policy.10  This 
+
+inclination proved premature, as was evident from the subsequent intensification of the 
+
+euro-area crisis.  
+
+                                                 
+10 The 2010 G-20 Toronto communiqué indicated that advanced economies “committed to fiscal plans that 
+will at least halve deficits by 2013 and stabilize or reduce government debt-to-GDP ratios by 2016.”  The 
+document is available on the U.S. Department of the Treasury’s website at 
+https://www.treasury.gov/resource-center/international/Documents/The%20G-
+20%20Toronto%20Summit%20Declaration.pdf.  
+
+
+ - 5 - 
+
+Moreover, the benchmark for “normal” tends to be defined in terms of pre-crisis 
+
+standards that involved policy settings well away from the lower bound, at least initially, 
+
+because it may take some time to learn about important changes in underlying financial 
+
+and economic relationships.  For example, the factors underlying what we now 
+
+understand to be the new normal of persistently low interest rates were in many cases 
+
+initially viewed as temporary headwinds.  In these circumstances, a standard policy 
+
+framework calibrated around the pre-crisis or “old” normal may be biased to 
+
+underachieving the inflation target in a low neutral rate environment.  The kind of policy 
+
+framework that Bernanke proposes, which pre-commits to implementing the makeup 
+
+principle based on the actual observed performance of inflation during a lower bound 
+
+episode, could guard against premature liftoff and help prevent the erosion of longer-term 
+
+inflation expectations. 
+
+Monetary policymakers operate in an environment of considerable uncertainty 
+
+and therefore have to weigh the risks of tightening too little or too late against those of 
+
+tightening too much or too soon.  While past experience has conditioned U.S. 
+
+policymakers to be highly attentive to the risks associated with a breakout of inflation to 
+
+the upside, as in the 1970s, they balance these risks against those associated with 
+
+undershooting the inflation target persistently, as in Japan in the late 1990s and the 2000s.   
+
+In weighing these risks, the standard approach is typically designed to achieve 
+
+“convergence from below,” in which inflation gradually rises to its target.  Given the lags 
+
+in the effects of monetary policy, convergence from below would necessitate raising 
+
+interest rates preemptively, well in advance of inflation reaching its target.  Moreover, 
+
+particularly in the early stage of a recovery, this kind of preemptive approach tends of 
+
+
+ - 6 - 
+
+necessity to rely on economic relationships derived from pre-crisis observations, when 
+
+policy rates were comfortably above the lower bound. 
+
+During a period when the policy rate is limited by the lower bound, Bernanke’s 
+
+proposal would represent a substantial departure from the standard approach.  While a 
+
+standard policy framework would tend to prescribe that tightening should start 
+
+preemptively, well before inflation reaches target, Bernanke’s temporary price-level 
+
+target proposal would imply maintaining the policy rate at the lower bound well past the 
+
+point at which inflation has risen above target.  In principle, policymakers would have to 
+
+be willing to accept elevated rates of above-target inflation for a period following a 
+
+lengthy period of undershooting. 
+
+Just as policymakers could run a risk of low inflation becoming entrenched in the 
+
+standard preemptive framework, so, too, there are risks in the temporary price-level target 
+
+framework.  One risk is that the public, seeing elevated rates of inflation, may start to 
+
+doubt that the central bank is still serious about its inflation target.  It is worth noting that 
+
+the policy is motivated by the opposite concern--that convergence from below, following 
+
+an extended lower bound episode, may lead to an unanchoring of inflation expectations to 
+
+the downside.  Still, a conscious policy of overshooting may be difficult to calibrate, 
+
+especially since the large confidence intervals around inflation forecasts suggest that the 
+
+risks of an undesired overshooting are nontrivial.  A related risk is that the central bank 
+
+would lose its nerve:  Maintaining the interest rate at zero in the face of a strong economy 
+
+and inflation notably above its target would place a central bank in uncomfortable 
+
+territory.   
+
+
+ - 7 - 
+
+One additional challenge of the proposed framework is specifying a path for the 
+
+policy rate immediately following liftoff that smoothly and gradually eases inflation back 
+
+down to target and facilitates a gradual adjustment of the labor market.  In the proposed 
+
+framework, once the cumulative average rate of inflation during the lower-bound period 
+
+has reached the target of 2 percent, policy would revert to a standard policy rule.11  This 
+
+implies that a standard policy rule would kick in at a point when inflation is above target 
+
+and the economy is at or beyond full employment.  Even with a smoothing (inertial) 
+
+property, a standard policy rule could result in a relatively sharp path of tightening, and 
+
+the anticipation of the steep post-liftoff rate path itself could undo some of the benefits 
+
+associated with the framework.  Thus, there would likely need to be a transitional 
+
+framework to guide policy initially post-liftoff that might make both communications and 
+
+policy somewhat more complicated. 
+
+Integrating the Policy Rate and the Balance Sheet 
+
+The temporary price-level targeting framework proposed by Bernanke is 
+
+appealing on a conceptual level because it proposes a simple and clear mechanism to help 
+
+policymakers deal with the challenges posed by the lower bound on the policy rate in an 
+
+environment of uncertainty.  The reality is more complicated, however, especially if, as 
+
+the paper suggests, many central banks in advanced economies are likely to operate with 
+
+an additional tool when the policy rate is constrained.  In the paper, Bernanke cites Chair 
+
+Yellen’s 2016 Jackson Hole speech, which suggests that in a recession, the FOMC could 
+
+be expected to turn to large-scale asset purchases as well as forward guidance after the 
+
+federal funds rate is lowered to zero.12   
+
+                                                 
+11 In the paper, this rule is specified as an inertial Taylor rule. 
+12 See Yellen (2016). 
+
+
+ - 8 - 
+
+Today, when many central banks in advanced economies are operating with two 
+
+distinct tools, policymakers consider the effects of the balance sheet as well as the policy 
+
+rate in their assessment of the extent of accommodation provided by monetary policy.  In 
+
+the United States, from the time tapering was first discussed to the September 2017 
+
+meeting, when the path for balance sheet runoff was adopted, FOMC minutes and 
+
+statements suggest that participants considered the degree of accommodation provided by 
+
+both policy tools in their discussions of the sequencing and timing of changes to policy 
+
+settings.  Discussions about the sequencing of “normalization” and the delay of balance 
+
+sheet runoff “until normalization of the level of the federal funds rate is well under way” 
+
+effectively consider the extent to which maintaining the balance sheet may continue to 
+
+provide makeup support for the economy while enabling the policy rate to escape the 
+
+lower bound earlier than otherwise in a low neutral rate environment.   
+
+As Bernanke acknowledges, now that many central banks have developed 
+
+playbooks specifying the operational modalities associated with asset purchases, and 
+
+there is some familiarity with their effects on asset prices and financial conditions, there 
+
+is a greater likelihood that asset purchases would become a part of the policy reaction 
+
+function, along with forward guidance, during lower-bound episodes.  Yet, as I have 
+
+noted previously in the international context, asset purchases can complicate policy 
+
+frameworks and communications, because their deployment and withdrawal has tended 
+
+to be discontinuous and discrete and thus may be associated with greater uncertainty 
+
+about the policy reaction function.13  It appears the public closely follows statements 
+
+about both the policy rate and asset purchases to glean possible information about the 
+
+                                                 
+13 See Brainard (2015). 
+
+
+ - 9 - 
+
+future overall stance of monetary policy.  This suggests there may be benefits in 
+
+communications and predictability of a unified policy framework across the tools that is 
+
+more predictable and continuous.  Relatedly, one helpful elaboration of the framework 
+
+Bernanke proposes might be to incorporate a unified measure, or shadow rate, that would 
+
+capture the degree of policy accommodation provided through the combined settings of 
+
+both asset purchases and the policy rate.14  
+
+Greater Cross-Border Spillovers 
+
+Moving away from the policy proposal in the paper, there are two other aspects of 
+
+a low neutral rate world that I want to touch on briefly:  cross-border spillovers and 
+
+financial imbalances.  The new normal appears to be characterized by low neutral rates 
+
+and a weak relationship between overall inflation and unemployment not only in the 
+
+United States, but also in many other advanced economies with lower-bound episodes 
+
+likely to be more prevalent.  The current environment appears also to evidence intensified 
+
+cross-border feedback into financial conditions.15  In this kind of environment, it is 
+
+conceivable the kind of committed forward guidance associated with the temporary price-
+
+level targeting framework proposed by Bernanke, by helping rule out anticipation of a 
+
+standard preemptive tightening, could help avoid unwarranted premature tightening 
+
+through the exchange rate. 
+
+ Given available data, it is difficult to disentangle whether the heightened cross-
+
+border feedback effects are attributable to the low level of neutral rates, particular 
+
+features of today’s lower-bound episodes, or the interaction of the policies adopted by 
+
+many central banks.  In any case, recent Federal Reserve staff analysis suggests that 
+
+                                                 
+14 See, for instance, Krippner (2016) and Wu and Xia (2016). 
+15 See Brainard (2016a, 2016b). 
+
+
+ - 10 - 
+
+cross-border spillovers have increased notably since the crisis and are quite large.  For 
+
+instance, European Central Bank policy news that leads to a 10 basis point decrease in the 
+
+German 10-year term premium is associated with a roughly 5 basis point decrease in the 
+
+U.S. 10-year term premium; by contrast, these spillovers were smaller in the years 
+
+leading up to the crisis.16 
+
+Moreover, news about policy rates and term premiums appears to have quite 
+
+different effects on exchange rates, such that the ordering of policy normalization can 
+
+have important implications for exchange rates and associated financial conditions, as I 
+
+discussed earlier this year.17  Recent staff estimates suggest that news about expected 
+
+changes in the policy rate tends to have a large spillover through the exchange rate, 
+
+whereas news about changes in term premiums tends to lead to corresponding cross-
+
+border changes in term premiums, as discussed previously, with much smaller effects on 
+
+the exchange rate.  Moreover, the exchange rate effect of changes in short-term rates is 
+
+much greater than it was pre-crisis.  For instance, policy news that leads to a 25 basis 
+
+point increase in the expected interest rate portion of the 10-year Treasury yield is 
+
+associated with a roughly 3 percentage point appreciation in the dollar, which is three 
+
+times greater than the response pre-crisis.  By contrast, policy news surrounding a change 
+
+in U.S. term premiums has a muted effect on the exchange rate both now and pre-crisis. 
+
+Financial Imbalances 
+
+Finally, a low neutral rate environment may also be associated with a heightened 
+
+risk of asset price bubbles, which could exacerbate the tradeoff for monetary policy 
+
+between achieving the traditional dual-mandate goals and preventing the kinds of 
+
+                                                 
+16 See Kamin, Li, and Rodriguez (forthcoming).   
+17 See Brainard (2017a). 
+
+
+ - 11 - 
+
+imbalances that could contribute to financial instability.  Standard asset-valuation models 
+
+suggest that a persistently low neutral rate, depending on the factors driving it, could lead 
+
+to higher ratios of asset prices to underlying income flows--for example, higher ratios of 
+
+prices to earnings for stocks or higher prices of buildings relative to rents.  If asset 
+
+markets were highly efficient and participants had excellent foresight, this would not 
+
+necessarily lead to imbalances.  However, to the extent that financial markets extrapolate 
+
+price movements, markets may not transition smoothly to asset valuations that reflect 
+
+underlying fundamentals but may instead evidence periods of overshooting.18  Such 
+
+forces may have played a role in both the stock market boom that ended in the bust of 
+
+2001 and the house price bubble that burst in 2007-09.   
+
+The risks of such financial imbalances may be greater in the context of the kind of 
+
+explicit inflation target overshooting policies proposed in the paper.  Again, if market 
+
+participants were perfectly rational, overshooting policies would not likely pose financial 
+
+stability risks.  But the combination of low interest rates and low unemployment that 
+
+would prevail during the inflation overshooting period could well spark capital markets to 
+
+overextend, leading to financial imbalances.  
+
+Macroprudential tools are the preferred first line of defense to address such 
+
+financial imbalances, which should in principle enable monetary policy to focus on price 
+
+stability and macroeconomic stabilization.  But the development and deployment of 
+
+macroprudential tools is still relatively untested in the U.S. context, and the toolkit is 
+
+limited.  Although important research suggests that the situations under which monetary 
+
+policy should take financial imbalances into account are likely to be very rare, some 
+
+                                                 
+18 See, for example, Case, Shiller, and Thompson (2012) and Greenwood and Schleifer (2014). 
+
+
+ - 12 - 
+
+recent research has pointed out that the case in favor of taking financial imbalances into 
+
+account is strengthened when the consequences of financial crises are long lasting.19  In 
+
+this case, another complication of a persistently low neutral rate may be a sharper 
+
+tradeoff between achieving the traditional dual-mandate objectives and avoiding financial 
+
+stability risks, which may make it even more difficult to achieve our price-stability 
+
+objective. 
+
+
+                                                 
+19 See, for example, Svensson (2016).  See Gourio, Kashyap, and Sim (2016) and Gerdrup and others 
+(2016). 
+
+
+ - 13 - 
+
+References 
+
+Bernanke, Ben S. (2017).  “Monetary Policy for a New Era,” paper prepared for 
+“Rethinking Macroeconomic Policy,” a conference held at the Peterson Institute 
+for International Economics, Washington, October 12.   
+
+ 
+Brainard, Lael (2015).  “Normalizing Monetary Policy When the Neutral Interest Rate Is 
+
+Low,” speech delivered at the Stanford Institute for Economic Policy Research, 
+Stanford, Calif., December 1, 
+https://www.federalreserve.gov/newsevents/speech/brainard20151201a.htm. 
+
+ 
+-------- (2016a).  “What Happened to the Great Divergence?” speech delivered at the 
+
+2016 U.S. Monetary Policy Forum, New York, February 26, 
+https://www.federalreserve.gov/newsevents/speech/brainard20160226a.htm. 
+
+ 
+-------- (2016b).  “The ‘New Normal’ and What It Means for Monetary Policy,” speech 
+
+delivered at the Chicago Council on Foreign Affairs, Chicago, September 12, 
+https://www.federalreserve.gov/newsevents/speech/brainard20160912a.htm. 
+
+ 
+-------- (2017a).  “Cross-Border Spillovers of Balance Sheet Normalization,” speech 
+
+delivered at the National Bureau of Economic Research’s Monetary Economics 
+Summer Institute, Cambridge, Mass., July 13, 
+https://www.federalreserve.gov/newsevents/speech/brainard20170713a.htm. 
+
+ 
+-------- (2017b).  “Understanding the Disconnect between Employment and Inflation with 
+
+a Low Neutral Rate,” speech delivered at the Economic Club of New York, New 
+York, September 5, 
+https://www.federalreserve.gov/newsevents/speech/brainard20170905a.htm. 
+
+ 
+Case, Karl E., Robert J. Shiller, and Anne K. Thompson (2012).  “What Have They Been 
+
+Thinking?  Homebuyer Behavior in Hot and Cold Markets,” Brookings Papers on 
+Economic Activity, Fall, pp. 265-98, https://www.brookings.edu/wp-
+content/uploads/2012/09/2012b_Case.pdf. 
+
+ 
+Eggertsson, Gauti B., and Michael Woodford (2003).  “The Zero Bound on Interest Rates 
+
+and Optimal Monetary Policy,” Brookings Papers on Economic Activity, Spring, 
+pp. 139-233, https://www.brookings.edu/bpea-articles/the-zero-bound-on-interest-
+rates-and-optimal-monetary-policy. 
+
+ 
+Gerdrup, Karsten R., Frank Hansen, Tord Krogh, and Junior Maib (2017).  “Leaning 
+
+against the Wind When Credit Bites Back,” International Journal of Central 
+Banking, September, www.ijcb.org/journal/ijcb17q3a8.htm. 
+
+ 
+Gourio, Francois, Anil K. Kashyap, and Jae Sim (2016).  “The Tradeoffs in Leaning 
+
+against the Wind,” paper presented at the 17th Jacques Polak Annual Research 
+Conference, sponsored by the International Monetary Fund, Washington, 
+
+
+ - 14 - 
+
+November 
+3, https://www.imf.org/external/np/res/seminars/2016/arc/pdf/Kashyap_et_al_Ses
+sion1.pdf. 
+
+ 
+Greenwood, Robin, and Andrei Shleifer (2014).  “Expectations of Returns and Expected 
+
+Returns,” Review of Financial Studies, vol. 27 (March), pp. 714-46. 
+ 
+Kamin, Steven B., Canlin Li, and Marius D. Rodriguez (forthcoming).  “International 
+
+Spillovers from Conventional and Unconventional Monetary Policy,” IFDP 
+Notes.  Washington:  Board of Governors of the Federal Reserve System. 
+
+ 
+Kiley, Michael T., and John M. Roberts (2017). “Monetary Policy in a Low Interest 
+
+Rate World,” Finance and Economics Discussion Series 2017-080.  Washington:  
+Board of Governors of the Federal Reserve System, 
+August, https://dx.doi.org/10.17016/FEDS.2017.080. 
+
+ 
+Krippner, Leo (2016).  “Documentation for Measures of Monetary Policy,” Reserve Bank 
+
+of New Zealand Working Paper.  Wellington, New Zealand:  Reserve Bank of 
+New Zealand, July, https://www.rbnz.govt.nz/-
+/media/ReserveBank/Files/Publications/Research/Additional%20research/Leo%2
+0Krippner/5892888.pdf?la=en. 
+
+ 
+Nakata, Taisuke, and Sebastian Schmidt (2016).  “The Risk-Adjusted Monetary Policy 
+
+Rule,” Finance and Economics Discussion Series 2016-061.  Washington:  Board 
+of Governors of the Federal Reserve System, July, 
+https://dx.doi.org/10.17016/FEDS.2016.061. 
+
+ 
+Reifschneider, David, and John C. Williams (2000).  “Three Lessons for Monetary Policy 
+
+in a Low-Inflation Era,” Journal of Money, Credit and Banking, vol. 32 
+(November), pp. 936-66. 
+
+ 
+Svensson, Lars E. (2016).  “Cost-Benefit Analysis of Leaning against the Wind,” NBER 
+
+Working Papers Series 21902.  Cambridge, Mass.:  National Bureau of Economic 
+Research, January. 
+
+ 
+Wu, Jing Cynthia, and Fan Dora Xia (2016).  “Measuring the Macroeconomic Impact of 
+
+Monetary Policy at the Zero Lower Bound,” Journal of Money, Credit and 
+Banking, vol. 48 (March-April), pp. 253-91. 
+
+ 
+Yellen, Janet L. (2016).  “The Federal Reserve’s Monetary Policy Toolkit:  Past, Present, 
+
+and Future,” speech at “Designing Resilient Monetary Policy Frameworks for the 
+Future,” a symposium sponsored by the Federal Reserve Bank of Kansas City, 
+held in Jackson Hole, Wyoming, August 
+26, https://www.federalreserve.gov/newsevents/speech/yellen20160826a.htm. 
+
+
+

@@ -1,0 +1,470 @@
+
+
+For release on delivery 
+2:00 p.m. EDT (1:00 p.m. CDT)  
+October 3, 2018 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Supporting Fast Payments for All  
+ 
+ 
+
+Remarks by 
+ 
+
+Lael Brainard 
+ 
+
+Member 
+ 
+
+Board of Governors of the Federal Reserve System 
+ 
+
+at the 
+ 
+
+Fed Payments Improvement Community Forum  
+Sponsored by the Federal Reserve Bank of Chicago 
+
+ 
+Chicago, Illinois 
+
+
+October 3, 2018
+
+
+The Role of the Federal Reserve in Ensuring Safe and Reliable Payments 
+
+It is a pleasure to be here in Chicago today to talk about payments.  The confidence that 
+
+payments will be timely and dependable is a cornerstone of America’s dynamic and resilient 
+
+economy.1   
+
+Today, Americans take the reliability and safety of their payments for granted.  But that 
+
+was not always the case.  The nation’s first 150 years were frequently disrupted by panics in the 
+
+financial system that extended into the payment system, which was highly fragmented and 
+
+inefficient.  Before the Federal Reserve took on a role in the payment system, a check recipient 
+
+could not count on receiving the full value written on the check and faced long and unpredictable 
+
+delays in getting access to the funds.  As a result of banks’ efforts to avoid excessive clearance 
+
+fees, it could take days, weeks, or more to clear checks.  The Federal Reserve’s second 
+
+Chairman, William P.G. Harding, described the circuitous, opaque, and costly route one payment 
+
+made: “…a bank in Rochester, N.Y., sent a check drawn on a Birmingham, Ala., account to a 
+
+correspondent bank in New York, which sent it along to a bank in Jacksonville, Fla.  From there, 
+
+it traveled to Philadelphia, Baltimore and Cincinnati before it finally reached the originating 
+
+bank in Birmingham.”2  The fragmentation of the payment system imposed costs on American 
+
+merchants, households, community banks, and, ultimately, on the overall U.S. economy.   
+
+Ensuring a reliable nationwide payment infrastructure was one of the motivations that led 
+
+the Congress to create the Federal Reserve after the severe financial panic of 1907.  Fostering a 
+
+                                                            
+1 I am grateful to Susan Foley, John Maggs, Mark Manuszak, and Anjana Ravi of the Federal Reserve Board for 
+their assistance in preparing this text.  These remarks represent my own views, which do not necessarily represent 
+those of the Federal Reserve Board or the Federal Open Market Committee. 
+2 Noted by Federal Reserve Chairman W.P.G. Harding in Robert Kramer and W. Putnam Livingston, “Cashing in on 
+the Checkless Society,” Harvard Business Review, September/October 1967, p. 143; Bill Medley, Highways of 
+Commerce: Central Banking and the U.S. Payments System (Kansas City: Federal Reserve Bank of Kansas City, 
+2017), p. 23, www.kansascityfed.org/~/media/files/publicat/highwasyofcommer/highwaysofcommerce.pdf?la=en. 
+
+
+- 2 - 
+ 
+
+
+safe, efficient, and widely accessible payment infrastructure has been a crucial aspect of the 
+
+Fed’s mission from its founding in 1913.  By creating a new core infrastructure for clearing and 
+
+settling checks, the Fed was able to boost confidence in banks and America’s payment system, 
+
+ensure Americans received the full value of their checks, and speed up payments.  
+
+That was the first, but not the last, time that the Fed played a central role in transforming 
+
+America’s retail payment system.  By the 1970s, the payment system was staggering under the 
+
+weight of paper checks.  In 1973, Governor Jeffrey Bucher of the Federal Reserve Board 
+
+described the exponential growth in check volume and the time-consuming and expensive 
+
+process to clear paper checks as a “time bomb.”3  The Federal Reserve and payment system 
+
+stakeholders faced a choice:  continue making incremental changes to manage the growing 
+
+avalanche of checks, or look to technology to facilitate transformational change.     
+
+Working with the private sector, the Federal Reserve chose transformation, and the effect 
+
+was dramatic.  In partnership with the private sector, the Federal Reserve supported the 
+
+implementation of the automated clearinghouse, or ACH system, to process payroll payments for 
+
+individuals, bill payments for households, and vendor payments for businesses.  Before the 
+
+advent of the ACH, it would typically take a week for an employee to be able to access the funds 
+
+from a paycheck.  It would require first a trip to the bank during business hours to deposit the 
+
+paycheck and then several business days for that bank to complete the time-consuming process 
+
+of collecting the funds from the employer’s bank.4  With the advent of ACH, an employee could 
+
+expect to access their pay from their bank on the same day it was deposited electronically by 
+
+                                                            
+3 Jeffrey Bucher, “The Check,” (remarks at the Annual Meeting, Bank Stationers Association, Colorado Springs, 
+CO, June 4, 1973), https://fraser.stlouisfed.org/title/931/item/36180. 
+4 Andre Pollack, “The New Look to Bankers’ Hours,” New York Times, April 8, 1989, 
+www.nytimes.com/1989/04/08/business/the-new-look-to-bankers-hours.html. 
+
+
+- 3 - 
+ 
+
+
+their employer.  Today, the ACH operates with important roles for the private sector and the Fed, 
+
+is available nationwide, and constitutes a vital piece of infrastructure supporting earlier access to 
+
+funds and reliable settlement of payments.5   
+
+Moving to 24/7 Real-Time Settlement 
+
+Today, our payment system is again at a crossroads.  There is a growing gap between the 
+
+transaction capabilities we need and expect in the digital economy--fast, convenient, and 
+
+accessible to all--and the underlying settlement capabilities.    
+
+Consumers and businesses increasingly expect to complete transactions with a simple 
+
+keystroke, swipe, or tap.  If I want to split a restaurant tab with my friends, I can use an app on 
+
+my smartphone.  But my friends have to be signed up for the same app to receive the payment, 
+
+and they may have to wait for confirmation that the funds have moved from the app into their 
+
+bank accounts before they can use the funds outside the app.  Similarly, if I want to make a 
+
+purchase from a vendor online, all I have to do is upload my payment information and touch a 
+
+screen to complete the purchase immediately.  But that payment in turn may not be immediately 
+
+available to the seller.   
+
+While we are seeing a growing demand for payments to be as instantaneous as the apps 
+
+on our smartphones, in reality, under the hood, these payments currently rely on a patchwork of 
+
+systems that can result in inefficiencies and delays, as well as uneven access.  To meet the 
+
+expectations of our 24/7 app economy, there is a growing demand for broadly and nationally 
+
+accessible faster payments that make funds available immediately.  Faster payments would allow 
+
+                                                            
+5 According to the Federal Reserve Payments Study 2016, in 2015, the ACH system was used for 23.5 billion 
+payments, totaling $145.3 trillion in value. See www.federalreserve.gov/paymentsystems/files/2016-payments-
+study-20161222.pdf. 
+
+
+- 4 - 
+ 
+
+
+consumers and businesses to send and immediately receive payments at any time of the day, any 
+
+day of the year, and provide recipients the ability to use their funds anywhere they choose.6   
+
+Nascent faster payment services are emerging to address this demand from individuals 
+
+and businesses for the capability to manage their finances more efficiently in real time.  These 
+
+faster payment innovations are striving to keep up with this demand, but gaps in the underlying 
+
+infrastructure pose challenges associated with safety, efficiency, and accessibility.  In many 
+
+circumstances, the underlying infrastructure in place today cannot ensure that a fast payment is 
+
+fully complete before the recipient seeks to use the funds.  To complete a payment, the banks 
+
+behind the transaction need to transfer funds between each other.  Until this happens, the 
+
+payment between them is like an “IOU.”   
+
+Today’s systems that transfer funds between banks are not set up to work in a 24/7, real-
+
+time world.  Instead, most faster payments settle funds between banks on a deferred basis.  
+
+Deferred settlement entails a buildup of obligations--like IOUs between banks--that could 
+
+present real risks to the financial system in times of stress.  Although faster payment systems that 
+
+rely on deferred settlements can incorporate certain measures to mitigate these risks, these 
+
+measures may be appropriate for a nascent faster payment market only for a limited time.  As we 
+
+saw with the avalanche of paper checks prior to ACH, as the volume and value of faster 
+
+payments grow over time, the potential risks of deferred settlement to the financial system are 
+
+also likely to grow. 
+
+To fully deliver on the promise of faster payments into the future, we need an 
+
+infrastructure that can support continued growth and innovation, with a goal of settlement on a 
+
+                                                            
+6 The Faster Payments Task Force viewed 24x7x365 service availability and final funds provided to the recipient 
+within one minute as characteristics of a “very effective” faster payment service. Faster Payments Task Force, 
+“Faster Payments Effectiveness Criteria,” January 26, 2016, https://fedpaymentsimprovement.org/wp-
+content/uploads/fptf-payment-criteria.pdf.  
+
+
+- 5 - 
+ 
+
+
+24/7 basis in real time.  To ensure the robustness of the payment system into the future, banks 
+
+and other providers acting as their agents should have access to a settlement system that operates 
+
+24/7 and settles each payment as soon as an individual sends it.   
+
+ While everyone stands to benefit from faster payments, the benefits could be especially 
+
+important for households and small business owners who face cash flow constraints.  We know 
+
+from the Fed’s Survey of Household Economics and Decisionmaking that four in 10 adults say 
+
+they would need to cover an unexpected expense of $400 by borrowing or selling something, or 
+
+simply be unable to pay.  A forthcoming Fed research note estimates that a quarter of households 
+
+have less than $400 combined in their bank accounts.7  For these households, the difference 
+
+between waiting for a payment to clear and receiving a payment in real time is not merely an 
+
+inconvenience; it could tip the balance toward overdraft fees, bounced checks, or collections 
+
+fees.  To be clear, faster payments would not address the root causes of these households’ 
+
+financial fragility.  Even so, faster payments could help reduce the strain on some.  
+
+ Similarly, many small businesses cite immediate access to working capital to finance 
+
+inventories or pay employees as their number one constraint on growth.8  Smaller businesses and 
+
+merchants would benefit from faster payments because of their need to tightly manage how 
+
+much of their capital is tied up in unused material or inventory.  If a small business could count 
+
+on its customers’ payments being immediately accessible in its bank account, it could reduce its 
+
+need for short-term financing to cover the costs of ordering materials and goods well in advance.   
+
+                                                            
+7 Board of Governors of the Federal Reserve System, Report on the Economic Well-Being of U.S. Households in 
+2017 (Washington: Board of Governors, May 2018), www.federalreserve.gov/consumerscommunities/shed.htm;  
+Neil Bhutta and Lisa Dettling, “Money in the Bank? Assessing Families’ Liquid Savings Using the Survey of 
+Consumer Finances,” FEDS Notes (Washington: Board of Governors of the Federal Reserve System, forthcoming). 
+8 For example, in 2015, 22 percent of small businesses reported cash flow (for example, meeting payroll or paying 
+for inventory) as their top business challenge. See 2015 Small Business Credit Survey: Report on Employer Firms, 
+March 2016, www.newyorkfed.org/medialibrary/media/smallbusiness/2015/Report-SBCS-2015.pdf. 
+
+
+- 6 - 
+ 
+
+
+The Role of the Federal Reserve in Faster Payments 
+
+So what is our role at this moment of opportunity for the payment system?  In keeping 
+
+with the Fed’s historical role in payments, five years ago we launched a collaborative effort with 
+
+a broad array of stakeholders to catalyze a safe, efficient, and accessible faster payment system 
+
+for the United States.  As part of that effort, 300 organizations representing consumers, 
+
+businesses, banks, card companies, and technology providers, including many represented here 
+
+today, came together to define expectations for the future of the retail payment system and to 
+
+make recommendations on how to implement those expectations.  The members of the task force 
+
+told us that the Federal Reserve needed to develop a 24/7 settlement system.9  The U.S. Treasury 
+
+echoed this theme in a recent report.10   
+
+Over the past year, we have undertaken an assessment of what the Federal Reserve could 
+
+do to modernize its infrastructure to support interbank settlement of faster payments.  That 
+
+assessment found that 24/7 payment-by-payment interbank settlement in real-time--what we 
+
+refer to as real-time gross settlement (RTGS)--offers clear benefits in minimizing risk and 
+
+maximizing efficiency.  A 24/7 economy with 24/7 real-time payments needs 24/7 real-time 
+
+settlement, and RTGS is the way to achieve this.  That is where we believe that the Federal 
+
+Reserve and the private sector together need to make investments for the future.  In this regard, 
+
+the U.S. retail payment system lags behind some other countries:  the Reserve Bank of Australia 
+
+and the European Central Bank have already implemented or are on the cusp of implementing 
+
+RTGS systems to support private-sector faster payment services.  
+
+                                                            
+9  Faster Payments Task Force, Final Report Part Two: A Call to Action, July 2017, 
+https://fasterpaymentstaskforce.org/.  
+10 U.S. Department of the Treasury, A Financial System That Creates Economic Opportunities: Nonbank Financials, 
+Fintech, and Innovation (Washington: Department of the Treasury, July 2018), 
+https://home.treasury.gov/sites/default/files/2018-07/A-Financial-System-that-Creates-Economic-Opportunities---
+Nonbank-Financi....pdf. 
+
+
+- 7 - 
+ 
+
+
+The Federal Reserve and payment system stakeholders have an opportunity to upgrade 
+
+America’s payment system to meet the needs of households, businesses, and banks in the app 
+
+economy.  Today, we are publishing a Federal Register notice that seeks public comment on 
+
+potential steps the Federal Reserve could take to support the vision of RTGS of faster payments.  
+
+The Reserve Banks could develop a service for RTGS that is available on a 24/7 basis to provide 
+
+payment-by-payment interbank settlement in real time and at any time, on any day, including 
+
+weekends and holidays.  The Reserve Banks currently provide payment services to more than 
+
+11,000 banks across the country.  A 24/7 RTGS service provided by the Reserve Banks could 
+
+significantly improve the prospect that banks of all sizes will have equitable access to a real-time 
+
+interbank settlement infrastructure for faster payments in the long term.  
+
+This common infrastructure would support connections across banks, and faster payment 
+
+service providers acting as their agents, with the potential to weave together the current 
+
+patchwork of systems.  As a result, we would also expect the overall safety of faster payments to 
+
+increase.  The capability to finalize interbank settlement before funds are made available to the 
+
+recipient would avoid an undesirable buildup of risk in the system.  The more banks that have 
+
+access to real-time as opposed to deferred settlement mechanisms, the lower the risk would be 
+
+from deferring settlement to the payment system as a whole.  Although RTGS may be 
+
+operationally demanding, it offers clear benefits from a risk and efficiency perspective over the 
+
+long term.    
+
+ The development of a nationwide real-time interbank settlement infrastructure could also 
+
+support the development of private-sector faster payment services, thereby increasing innovation 
+
+and choice in the market.  Banks and technology providers of all sizes may be able to develop 
+
+new services or enhance existing services by capitalizing on the underlying interbank settlement 
+
+
+- 8 - 
+ 
+
+
+infrastructure.  This could ultimately benefit all consumers by lowering costs, increasing choice, 
+
+and improving quality.   
+
+ In that regard, we are also seeking comment on whether the Reserve Banks should 
+
+consider developing a liquidity management tool that would operate 24/7 in support of services 
+
+for real-time interbank settlement of faster payments.  The tool could support settlement services 
+
+provided by the private sector or the Reserve Banks.    
+
+ The Federal Reserve has a responsibility to promote a payment system that serves the 
+
+evolving needs of the public.  We hope to solicit as wide a range of views as possible as we 
+
+consider these and possibly other options to support prompt, secure, and resilient settlement in a 
+
+24/7 world.  To that end, the Federal Register notice poses a series of questions related to 
+
+whether an RTGS is the appropriate strategic foundation for interbank settlement of faster 
+
+payments.  We also solicit views on the appropriate role for the Federal Reserve in such a 
+
+system.  We look forward to hearing from, and learning from, a broad array of stakeholders, 
+
+including those who are actively involved in the provision of payment and banking services, as 
+
+well as representatives of the consumers, households, and businesses who rely on the ability to 
+
+make and receive payments every day. 
+
+ The future of payments will be determined by the actions we take today.  We can wait 
+
+and watch how these issues evolve on their own.  But this will likely result in a fragmented 
+
+patchwork of systems that entails inefficiencies and risks and could leave behind many 
+
+households, small businesses, and smaller banks.  Alternatively, we can work with other 
+
+stakeholders to embrace innovation and design a faster payments infrastructure for the future to 
+
+promote broad access and resilience. 
+
+
+- 9 - 
+ 
+
+
+As technological change continues to drive payments innovation, we continue to focus on 
+
+the same basic objective that motivated our initial engagement in the payment system a century 
+
+ago:  promoting a safe, efficient, and accessible payment system that serves the interests of all 
+
+Americans.  The Fed has the unique ability to provide the infrastructure to reliably settle 
+
+obligations between banks using balances at the central bank.  As such, we have a responsibility 
+
+to serve the broad public interest by providing a flexible and robust payment infrastructure on 
+
+which the private sector can innovate.  We look forward to hearing from you on the important 
+
+choices before us as we work to safeguard the integrity and efficiency of our payment system. 
+

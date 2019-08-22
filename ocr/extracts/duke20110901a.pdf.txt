@@ -1,0 +1,697 @@
+
+
+For release on delivery 
+12:00 noon EDT  
+September 1, 2011 
+
+
+
+
+
+
+
+Rebalancing the Housing Market 
+ 
+ 
+ 
+
+Remarks by 
+ 
+
+Elizabeth A. Duke 
+ 
+
+Member 
+ 
+
+Board of Governors of the Federal Reserve System 
+ 
+
+at the 
+ 
+
+Federal Reserve Board Policy Forum:  “The Housing Market Going Forward: 
+Lessons Learned from the Recent Crisis” 
+
+ 
+Washington, D.C. 
+
+
+September 1, 2011 
+
+
+
+Good afternoon.  I’d like to join my colleagues in welcoming you to the Federal 
+
+Reserve Board.  This policy forum, “The Housing Market Going Forward:  Lessons 
+
+Learned from the Recent Crisis,” has been designed to connect lessons learned from the 
+
+recent past with policy alternatives that may affect the market for years to come.  
+
+Determining the key lessons and getting this connection right are important, and as you 
+
+have already heard, perhaps not as easy as it might sound.  I would like to offer some 
+
+suggestions that I think could help.  Before I begin, though, I should clarify that the ideas 
+
+I will be discussing do not necessarily reflect the opinions of my colleagues on the 
+
+Federal Reserve Board and that these suggestions should not be construed as policy of the 
+
+Board or the Federal Open Market Committee. 
+
+There are many interpretations of the key factors that led to the current state of 
+
+affairs, and there are a similar number of visions of what the future should look like.  But, 
+
+while it is important to learn from and avoid the mistakes of the recent past, we should 
+
+not forget what did work for many years in the housing and housing finance markets.  So, 
+
+in crafting appropriate policy responses, an important starting point is to carefully 
+
+analyze what we’re solving for.  Certainly we want a solution based on private capital, 
+
+but the role of government in housing and mortgage markets will need to be defined 
+
+before private markets will fully reengage.  Any policy solution will have to be evaluated 
+
+in the context of its effect on both owner-occupied and rental housing markets.  And as 
+
+the policy conversations progress, it will also be important to maintain a focus on the 
+
+demand side of the market--which is to say, all of us, as consumers of housing.  Finally, a 
+
+national housing policy must also serve the needs of the segments of our society that have 
+
+
+- 2 - 
+ 
+
+
+been historically underserved--low-income and low-wealth families, including 
+
+disproportionate numbers of minorities and households headed by females. 
+
+These longer-term questions are critical.  But before we get to the longer-term 
+
+solutions, we need to deal with the unprecedented number of loans in or still entering the 
+
+foreclosure pipeline, the disposition of properties acquired through foreclosure, and the 
+
+effect of a high percentage of distressed sales on home prices.  Regardless of how we got 
+
+here, we, as a nation, currently have a housing market that is so severely out of balance 
+
+that it is hampering our economic recovery.  
+
+ To many, the story of the recent financial crisis and its aftereffects for the 
+
+housing market is one mainly attributed to subprime lending.  Although problems were 
+
+concentrated initially in subprime mortgages, today about two-thirds of underwater 
+
+mortgages and loans in foreclosure are actually prime or Federal Housing Administration 
+
+(FHA) mortgages.  This fact suggests that solutions aimed at righting the wrongs of 
+
+previous reckless lending in the subprime market are not sufficient to tackle the scale of 
+
+current problems. 
+
+Clearly, the market is not functioning as it should.  Despite near-record-low 
+
+interest rates, credit conditions remain tight for many consumers and investors interested 
+
+in buying or refinancing residential real estate.  Moreover, the lack of sufficient numbers 
+
+of buyers and sellers may limit price discovery, which heightens uncertainty about the 
+
+“right” price for a given piece of real estate and further limits activity.  In addition, the 
+
+large number of foreclosures and a protracted foreclosure process have led to an 
+
+unprecedented level of bank-owned homes, a level that is likely to persist for some time. 
+
+ So how do we move forward in these difficult circumstances?   
+
+
+- 3 - 
+ 
+
+
+The economy normally has some self-correcting mechanisms.  Typically, a drop 
+
+in prices--whether the price of an apple or the price of a house--stimulates demand and 
+
+brings new buyers into the market.  In the case of houses, price declines often occur in 
+
+the context of a broad-based weakness in the overall economy.  In response to 
+
+macroeconomic weakness, the Federal Reserve generally can lower the target federal 
+
+funds rate, which would be expected to lower mortgage rates.  The combination of lower 
+
+prices and lower mortgage rates makes home purchase more affordable and helps revive 
+
+the housing market.  Indeed, most recent recoveries have been led by housing.  But for a 
+
+variety of reasons, these mechanisms are not working fully in today’s economy.  When 
+
+crafting solutions, it is helpful to first identify areas where removing some obstacles 
+
+might enable these self-correcting mechanisms to operate more productively. 
+
+Refinancing Existing Mortgages at Lower Rates 
+
+One way to reduce the flow of foreclosed homes is to ease the payment strain on 
+
+borrowers, which can be accomplished by modifying loans that are past due or by 
+
+refinancing performing loans at lower rates.  The Federal Reserve has already acted to 
+
+lower longer-term interest rates, including mortgage rates, through the purchase of 
+
+longer-term Treasury securities, agency debt, and agency mortgage-backed securities.  In 
+
+addition to enabling more buyers to purchase homes, low mortgage rates act to reduce the 
+
+debt service cost of existing household debt.  However, while refinancing activity has 
+
+picked up in response to the lower rates, the pickup has been subdued compared with past 
+
+low-rate environments.  That is, even though mortgage rates on many outstanding loans 
+
+are well above current market rates, many borrowers have not been able to take 
+
+
+- 4 - 
+ 
+
+
+advantage of the lower rates because they have little or no equity in their homes or face 
+
+other obstacles.   
+
+To facilitate refinancing for borrowers who are current on their mortgages but 
+
+whose equity has eroded as home prices have fallen, the Administration’s Home 
+
+Affordable Refinance Program, or HARP, provides streamlined refinancing for low- or 
+
+no-equity mortgages if the borrowers meet certain qualifications and if their existing 
+
+mortgages are already guaranteed by Fannie Mae or Freddie Mac.  So far, more than 
+
+800,000 borrowers have refinanced their mortgages through HARP. 
+
+One question, however, is why more borrowers have not benefited from this 
+
+program.  We estimate that 4 million borrowers appear to meet the basic eligibility for 
+
+HARP refinancing.1  Of course, some of these borrowers may be ineligible for reasons 
+
+that we cannot observe, and others may be uninterested in refinancing.  However, given 
+
+the potential savings to households, the relatively low take-up on this program warrants 
+
+another look at the frictions that may be impeding these refinancing transactions. 
+
+Responses to our inquiries regarding impediments to HARP refinancing have 
+
+revealed four possible frictions: 
+
+1. Loan-level pricing adjustments (LLPAs).  LLPAs are upfront fees that are 
+
+added to the refinancing costs of loans that are judged to have higher risk 
+
+characteristics, such as high loan-to-value ratios.  The fees can increase the 
+
+cost of refinancing by thousands of dollars and thus discourage borrowers 
+
+                                                 
+1 This estimate is for borrowers who have mortgages guaranteed by Fannie Mae or Freddie Mac that were 
+originated no earlier than 2003 and no later than May 31, 2009.  The mortgages carry an interest rate on the 
+first lien that is more than 75 basis points higher than the current level of mortgage rates and have loan-to-
+value ratios on the first-lien mortgage that are between 80 and 125 percent.  The borrowers are current on 
+their loans and have missed either no payments in the past year if guaranteed by Freddie or a maximum of 
+one payment in the past year if guaranteed by Fannie.  
+
+
+- 5 - 
+ 
+
+
+from participating in the HARP program.  Risk-based pricing is a standard 
+
+risk-management tool for lenders in evaluating new risk.  However, when the 
+
+lender or guarantor already owns the credit risk, refinancing a low- or no-
+
+equity loan can actually reduce risk because it reduces payments and thus 
+
+makes default less likely.     
+
+2. Limited lender competition for HARP refinance loans due to lender 
+
+concerns about taking on “putback” risk from previous underwriting.  
+
+Putback risk is the possibility that the loan originator will have to repurchase 
+
+the loan from the government-sponsored enterprises (GSEs) because the 
+
+underwriting violated GSE guidelines.  Although the streamlined HARP 
+
+guidelines do not require lenders to verify all aspects of a borrower’s 
+
+application, lenders who process the HARP refinancings have putback risk 
+
+both from the refinance and from the original underwriting, even if the 
+
+refinancing lender did not underwrite the original loan.  This risk may make 
+
+lenders reluctant to refinance loans originated by other lenders and so limits 
+
+participation in the program.  Perhaps competition among potential lenders 
+
+could be increased if a minimum number of timely payments could be used as 
+
+a proxy for sound original underwriting to relieve the liability of the 
+
+refinancing lender for the mistakes of previous lenders. 
+
+3. Junior lienholders.  In some cases, holders of junior liens are refusing to 
+
+allow their loans to remain subordinate to a proposed new refinance loan, thus 
+
+holding up the HARP process. 
+
+
+- 6 - 
+ 
+
+
+4. Mortgage insurers.  Similarly, some mortgage insurers will not agree to 
+
+reunderwrite their policies despite presumably diminished default risk after 
+
+the refinancing. 
+
+The common theme in all of these frictions is that, in each case, the parties to the 
+
+transaction are applying standard risk-management tools that would normally apply to 
+
+low- or no-equity loans--but they are applying them to risk they already own.  The 
+
+economics of the situation suggests that if the first mortgage becomes more affordable, 
+
+the existing risk exposure of all credit risk holders actually decreases.  Moreover, to the 
+
+extent that more widespread refinancing reduces the overall volume of distressed 
+
+mortgages, it likely reduces pressures on house prices which would, in turn, lead to lower 
+
+losses on sales of foreclosed properties across all mortgage portfolios.  And finally, 
+
+removal of barriers to refinancing would boost the impetus to recovery provided by lower 
+
+long-term interest rates.  Thus, finding different approaches to the policies that are 
+
+hindering refinancing would likely provide some support to the economic recovery while 
+
+improving the circumstances of homeowners and reducing the overall level of credit risk 
+
+borne by the various holders of the risk. 
+
+Converting Real Estate Owned to Rental 
+
+Let me turn now to the effect on the housing market of properties acquired by 
+
+creditors through foreclosure, commonly called real estate owned, or REO.  An estimated 
+
+1 million or more properties will likely pass through REO inventory in 2011, with 
+
+another million or so per year expected in both 2012 and 2013. 
+
+REO properties are weighing heavily on the market for owner-occupied houses in 
+
+at least three ways.  First, REO properties increase the total inventory of properties for 
+
+
+- 7 - 
+ 
+
+
+sale.  While the numbers are difficult to measure precisely, we estimate that in the second 
+
+quarter of 2011, roughly 500,000 to 600,000 of the 2 million vacant homes for sale in the 
+
+United States were REO properties.  This extra supply is particularly problematic because 
+
+demand is quite low.  High unemployment and tight credit standards are currently 
+
+precluding many families from buying homes, and other potential buyers may be staying 
+
+out of the market due to uncertainty about their incomes.  Even ignoring the potential 
+
+inventory represented by the large backlog of distressed loans that have not yet been 
+
+foreclosed upon, the current inventory of existing homes for sale represents 
+
+approximately nine months of sales compared with a norm of five to six months, 
+
+suggesting additional pressure on house prices as the market struggles to clear the excess 
+
+inventory.  Second, the downward pressure on prices is compounded by the high 
+
+proportion of sales considered to be distressed sales.  Currently, around 40 percent of 
+
+sales transactions are considered to be distressed sales--that is, short sales or sales of 
+
+REO properties.  And third, high vacancy rates and the low level of maintenance that 
+
+often characterize foreclosed properties make a neighborhood a less desirable place to 
+
+live and thus depress the value of surrounding homes.2    
+
+In contrast to the market for owner-occupied houses, the market for rental housing 
+
+has been strengthening of late.  For example, apartment rents have turned up in the past 
+
+year, and vacancy rates on multifamily rental properties have dropped noticeably.  The 
+
+relative strength of the rental market reflects increased demand as families who are 
+
+unable or unwilling to purchase homes because of tight mortgage conditions or income 
+
+                                                 
+2 See, for instance, John P. Harding, Eric Rosenblatt, and Vincent W. Yao (2009), “The Contagion Effect 
+of Foreclosed Properties,” Journal of Urban Economics, vol. 66 (November), pp. 164-78; and John Y. 
+Campbell, Stefano Giglio, and Parag Pathak (2011), “Forced Sales and House Prices,” American Economic 
+Review, vol. 101 (August), pp. 2108-31. 
+
+
+- 8 - 
+ 
+
+
+uncertainty are renting properties instead.  Rental demand has also been supported by 
+
+families who have lost their homes to foreclosure.  The majority of these families move 
+
+to rental housing, most commonly to single-family rentals.3  Unfortunately, these 
+
+conditions supporting rental demand may persist for some time. 
+
+The weak demand in the owner-occupied housing market and the relatively high 
+
+demand in the rental housing market suggest that transitioning some REO properties to 
+
+rental housing might benefit both markets.  Such conversions might also be in the best 
+
+interests of lienholders and guarantors if recoveries from renting out properties exceed 
+
+those from outright sales.  Over time, as financing conditions ease and the number of 
+
+REO properties to be sold declines, the share of properties sold to owner-occupants and 
+
+sold to investors for rental will adjust commensurately. 
+
+Small investors are already converting some foreclosed properties to rental units 
+
+on a limited scale.  Larger-scale conversion, however, has been hindered by at least two 
+
+factors.  First, managing single-family rental homes is expensive unless the properties are 
+
+concentrated within a geographic area and investors can be certain of acquiring a critical 
+
+mass of properties.  Second, regulatory guidance and standard servicing practices have 
+
+typically encouraged GSEs, FHA, servicers, and financial institutions to actively market 
+
+REO properties for sale and to consider rentals only as a short-term income generator 
+
+while the properties are being marketed.  
+
+In August, the Federal Housing Finance Agency (FHFA), working with the 
+
+Treasury Department and the Department of Housing and Urban Development, issued a 
+
+request for information seeking ideas for the disposition of REO owned by Fannie Mae, 
+
+                                                 
+3 See Raven Molloy and Hui Shan (2011), “The Post-Foreclosure Experience of U.S. Households,” Finance 
+and Economics Discussion Series 2011-32 (Washington:  Board of Governors of the Federal Reserve 
+System, May), www.federalreserve.gov/Pubs/FEDS/2011/201132. 
+
+
+- 9 - 
+ 
+
+
+Freddie Mac, and the FHA, including ideas for turning these properties into rental 
+
+housing.  Together, the GSEs and the FHA hold about half of the outstanding REO 
+
+inventory and so may be able to aggregate enough properties to facilitate a cost-effective 
+
+rental program in many markets.   
+
+In thinking through how a rental program might be structured, I want to highlight 
+
+three possible design considerations.  First, as I noted earlier, achieving a cost-effective 
+
+program may require obtaining a critical mass of properties--perhaps a couple hundred or 
+
+more--within a limited geographic area.  In this respect, the comparative advantage of 
+
+government is in solving the aggregation problem.  The combined portfolios of the GSEs 
+
+and the FHA are large enough to achieve the necessary scale in a number of markets.  
+
+However, the structuring of such a program might require the flexibility for a pooling 
+
+entity to acquire properties from more than one seller or to contract for the acquisition of 
+
+a minimum number of properties over time.  With such flexibility, the scale potential of 
+
+the GSE-FHA portfolios could be supplemented with properties from servicer or 
+
+financial institution portfolios. 
+
+Second, it is important to ensure that such rental conversions are executed in a 
+
+responsible manner and in the best interests of renters and local communities.  Replacing 
+
+the blight of a foreclosed home with the blight of a rundown rental property would 
+
+provide little assistance to the affected neighborhoods.  Examining how best to ensure 
+
+that landlords keep their properties well maintained will be crucial. 
+
+Third, in many markets, house prices have fallen to such an extent that better 
+
+recoveries may result from renting properties rather than selling them.  However, in other 
+
+markets, converting REO properties to rentals may not be in the narrow best interest of 
+
+
+- 10 - 
+ 
+
+
+financial institutions or mortgage investors but may be in the best interest of local 
+
+communities.  For these markets, it may be useful to consider the possible role of new 
+
+incentives and, if so, what form those incentives might take. 
+
+While existing statutes and regulations do not prohibit financial institutions from 
+
+renting REO properties, supervisors encourage sales as the primary disposition tool.  In 
+
+light of the relative weakness of the owner-occupied market and strength of the rental 
+
+market along with the potential for a GSE-FHA program to solve the problem of 
+
+insufficient scale in some markets, conditions are unusual enough that it might also make 
+
+economic sense to clarify existing expectations to recognize that in some cases 
+
+converting a portion of residential REO to rental may be a reasonable option for financial 
+
+institutions.  Depending upon the conditions in their individual markets, I believe having 
+
+such an option could allow for better outcomes for institutions--that is, a superior net 
+
+present value compared with traditional disposition approaches--and could at the same 
+
+time contribute to market healing.  However, to be effective in promoting better 
+
+outcomes, such an approach would require supervisors to clarify current supervisory 
+
+guidance to address how existing standards might apply to the valuation of real estate 
+
+converted to rental, the time limits applicable to such holdings, and other aspects of 
+
+managing those properties.  Financial institutions with large portfolios might be able to 
+
+achieve scale in some markets on their own or possibly leverage the scale of a GSE-FHA 
+
+program if such a program was created; smaller institutions should also have the 
+
+flexibility to act in accordance with the conditions in their local markets. 
+
+
+
+
+
+- 11 - 
+ 
+
+
+Responsible REO Management 
+
+In addition to the consideration of conversion strategies at significant scale, there 
+
+are steps that all REO holders can take today to ensure that they are not contributing 
+
+further to the problems.  They can and should make sure that they are adequately 
+
+monitoring any third-party vendors with which they contract to maintain, market, or sell 
+
+REO properties.  Certainly, the recent interagency review of servicers revealed the severe 
+
+consequences that can result from failing to monitor third-party vendors.  Before 
+
+converting REO properties to rental, REO holders could also consider “first look” types 
+
+of programs to enable owner-occupants, public entities, and nonprofits windows of time 
+
+to bid on available properties.  A number of institutions have used such programs with 
+
+successful results.  And REO holders who sell large numbers of properties to investors 
+
+should consider processes, such as those used by the GSEs, to screen and monitor bulk 
+
+investors to reasonably assess their probable actions regarding maintenance and 
+
+disposition after acquiring the properties. 
+
+Low-Value Properties 
+
+So far I’ve talked solely about REO-to-rental as a solution for REO properties.  
+
+But that’s not going to work everywhere.  In particular, some properties are too damaged, 
+
+or otherwise too low-value, to be sold as owner-occupied units or profitably converted to 
+
+rental properties.  In fact, we estimate that about 5 percent of properties in the REO 
+
+inventory of the FHA and the GSEs are appraised at less than $20,000, and in some 
+
+markets the share is significantly higher.  In many of these cases, the cost to repair or 
+
+demolish existing structures exceeds their fair market value, and a different type of 
+
+solution may be needed. 
+
+
+- 12 - 
+ 
+
+
+In recent years, local governments and community-based organizations have 
+
+struggled to counter the effects of foreclosures on neighborhoods.  One tool for 
+
+controlling the temporary condition and ultimate disposition of REO properties is the use 
+
+of a unique kind of entity known as a land bank.4  Land banks are typically public or 
+
+nonprofit entities created to manage properties not dealt with adequately through the 
+
+private market.  The lifespan of these entities may be time-limited with sunset provisions.  
+
+The notion of a land bank, as opposed to a land trust, is that properties are brought in and 
+
+moved out of a land bank’s portfolio rather than permanently preserved.  Using this kind 
+
+of mechanism, a community can gain control of low-value properties that may otherwise 
+
+sit vacant and cause problems for the surrounding neighborhood.  Options available for 
+
+disposing of the properties include physical rehabilitation, some period of rental, sale to 
+
+new owner-occupants or responsible investors, or, in some cases, demolition.  Because it 
+
+likely will take several years for the overhang of vacant homes to be sold, such a strategy 
+
+would help some communities deal with the short-term crisis and then ultimately allow 
+
+for the disposition of properties in a manner suitable to local market conditions in the 
+
+longer term.  
+
+While few land banks currently have the resources to operate at significant scale, 
+
+the land bank model is one that has shown some success and could help many 
+
+communities stabilize troubled properties if used more extensively.  However, although 
+
+such an approach holds promise, the current infrastructure for land banks is limited.  
+
+                                                 
+4 For more information, see Thomas J. Fitzpatrick IV (2010), “How Modern Land Banking Can Be Used to 
+Solve REO Acquisition Problems,” in REO and Vacant Properties:  Strategies for Neighborhood 
+Stabilization, proceedings of the conference REO and Vacant Properties:  Strategies for Neighborhood 
+Stabilization cosponsored by the Federal Reserve Banks of Boston and Cleveland and the Federal Reserve 
+Board, pp. 145-50, 
+www.federalreserve.gov/events/conferences/2010/reovpsns/downloads/reo_20100901.pdf. 
+
+
+- 13 - 
+ 
+
+
+First, not all states have passed legislation that is needed to permit land banks.  Second, 
+
+this is difficult work, and existing land banks have limited capacity to handle high 
+
+numbers of properties at a time.  More funding and technical assistance would be needed 
+
+to scale these efforts up to an adequate level.  Of course, new funds are hard to come by 
+
+in the current fiscal environment, but this appears to be an instance where relatively 
+
+modest investments have the potential to yield significant benefits, such as reduced crime 
+
+stemming from vacant properties, lower municipal costs to limit property deterioration or 
+
+provide services to neighborhoods that are largely vacant, higher property tax revenue 
+
+derived from property values not being unduly depressed, and other benefits that may be 
+
+realized.   
+
+Conclusion 
+
+These are my thoughts on some of the things that can be done in the near term to 
+
+help the housing market stabilize and rebalance.  An immediate priority is balancing 
+
+supply and demand in a market overwhelmed by financially stressed homeowners, tight 
+
+credit conditions, and an unusually high number of foreclosed homes.  It is an important 
+
+part of rebuilding our market for housing and housing finance, but it is only a part.  In 
+
+addition, we must think carefully about longer-term policy and market changes that may 
+
+affect Americans’ housing options for years and even decades to come.  This is important 
+
+work, and I appreciate your participation in the forum today. 
+
+Thank you.  
+

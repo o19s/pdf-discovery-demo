@@ -1,0 +1,742 @@
+
+For release on delivery 
+2:00 p.m. EST 
+December 3, 2014 
+ 
+
+
+The Federal Reserve’s Financial Stability Agenda 
+ 
+ 
+ 
+
+Remarks by 
+ 
+
+Lael Brainard 
+ 
+
+Member 
+ 
+
+Board of Governors of the Federal Reserve System 
+ 
+
+at the 
+ 
+
+Hutchins Center on Fiscal and Monetary Policy 
+The Brookings Institution 
+
+ 
+Washington, D.C. 
+
+
+December 3, 2014 
+ 
+
+
+
+Although its founding statute makes no explicit mention of financial stability, the 
+
+Federal Reserve was created in response to a severe financial panic, and safeguarding 
+
+financial stability is deeply ingrained in the mission and culture of the Federal Reserve 
+
+Board. Today, financial stability is more important than ever to the work of the Federal 
+
+Reserve Board. With the lessons from the crisis still fresh, we are in the process of 
+
+strengthening our financial stability capabilities.1   
+
+In carrying out the work of financial stability, the Federal Reserve is seen as the 
+
+agency with the broadest sight lines across the economy and one that has some important 
+
+stability tools, as well as a critical first responder when a crisis hits.  But the Federal 
+
+Reserve also faces limitations as a financial stability authority:  It is predominantly a 
+
+supervisor of banks and bank holding companies2 in a system with large capital markets, 
+
+several independent agencies have responsibilities for regulation of nonbank financial 
+
+intermediaries and markets, and no U.S. agency yet has access to complete data regarding 
+
+bank and nonbank financial activities.  
+
+Recognizing these limitations, the Federal Reserve is likely to actively utilize the 
+
+tools under its authority, which means placing a strong emphasis on structural resilience 
+
+in the largest and most complex institutions, while strengthening less tested time-varying 
+
+tools to lean against the buildup of risks and, in some circumstances, looking to the 
+
+unique capacity of monetary policy to act across the financial system. It will also need to 
+
+cooperate closely with other regulators to develop well-rehearsed working protocols and 
+
+1 See Ben S. Bernanke (2013), “A Century of U.S. Central Banking:  Goals, Frameworks, Accountability,” 
+speech delivered at “The First 100 Years of the Federal Reserve:  The Policy Record, Lessons Learned, and 
+Prospects for the Future,” a conference sponsored by the National Bureau of Economic Research, 
+Cambridge, Mass., July 10, www.federalreserve.gov/newsevents/speech/bernanke20130710a.htm. 
+2 More precisely, it is predominantly a supervisor of depository institutions and depository institution 
+holding companies. 
+
+
+
+
+ - 2 - 
+
+a joint sense of responsibility for financial stability, while respecting that each 
+
+independent agency has its own specific statutory mandate and governing body.   
+
+
+Financial Stability Agenda 
+
+In the wake of the financial crisis, the Congress and the Federal Reserve itself 
+
+became more deliberate and explicit about the responsibility for safeguarding the stability 
+
+of the financial system.  The Dodd-Frank Act, enacted in July 2010, charged the Federal 
+
+Reserve with specific authorities for the purposes of safeguarding financial stability.  At 
+
+the Federal Reserve, we created the Office of Financial Stability Policy and Research to 
+
+strengthen our cross-disciplinary approach to the identification and analysis of potential 
+
+risks to the financial system and the broader economy and to support macroprudential 
+
+supervision of large financial institutions and, following its creation, participation on the 
+
+Financial Stability Oversight Council (FSOC).  This work is carried out by staff in that 
+
+office as well as in many areas across the Board and is overseen by the Board’s newly 
+
+created Committee on Financial Stability.  This work is proceeding in four pillars, which 
+
+are in varying stages of advancement. 
+
+First pillar:  Surveillance 
+
+The first pillar is surveillance of the possible risks that could threaten financial 
+
+stability.  Research and historical case studies suggest that increasing valuation pressures 
+
+accompanied by rising leverage, widening maturity mismatches, and the erosion of 
+
+underwriting standards often provide important warning signals.  Drawing on this 
+
+information and other analysis, each quarter Federal Reserve Board staff systematically 
+
+assess a standard set of financial vulnerabilities, including asset valuations and risk 
+
+
+ - 3 - 
+
+appetite, leverage, maturity and risk transformation, and interconnectedness in the broad 
+
+financial system, and borrowing by households and businesses.  
+
+The research that informs this work, by helping to identify financial patterns 
+
+likely to be associated with rising risks of financial crisis, continues to grow.  But its 
+
+predictive power is still limited; it remains difficult to identify ahead of time credit booms 
+
+that are likely to cause severe damage, such as the subprime housing crisis, from those 
+
+that do not, such as the high-tech boom, in part because risk-taking by financial market 
+
+participants cannot always be well-observed.3 
+
+Over time, our and others’ surveillance will benefit as the Office of Financial 
+
+Research established by the Dodd-Frank Act, makes progress in facilitating the sharing of 
+
+previously siloed data sets among the independent regulators and as international 
+
+impediments are overcome, allowing more comprehensive analysis of financial 
+
+transaction flows across different types of financial intermediaries and activities.  
+
+This regular, systematic surveillance of financial vulnerabilities is buttressed by 
+
+three other valuable types of analysis.  First, we use the detailed information gathered 
+
+through bank examinations and loan reviews that are the regular work of our supervisors 
+
+to assess emerging risky practices; these reviews helped identify deteriorating 
+
+underwriting standards in the leveraged loan market.  Second, we undertake periodic 
+
+analyses of potential systemwide consequences of possible, particularly salient shocks, 
+
+such as a sharp rise in the level or volatility of interest rates, including possible 
+
+3 According to the International Monetary Fund, only about one in three credit booms have historically 
+ended in some form of financial crisis.  See Giovanni Dell’Ariccia, Deniz Igan, Luc Laeven, Hui Tong, Bas 
+Bakker, and Jérôme Vandenbussche (2012), “Policies for Macrofinancial Stability:  How to Deal with 
+Credit Booms,” IMF Staff Discussion Note Series 12/06 (Washington:  International Monetary Fund, 
+June 7), www.imf.org/external/pubs/cat/longres.aspx?sk=25935.0. 
+ 
+
+
+
+
+ - 4 - 
+
+bottlenecks that could impede orderly adjustments.  Finally, when there is a close brush 
+
+with specific risk events, we closely study the behavior of markets and institutions for 
+
+insights into possible structural vulnerabilities that might be revealed and assess possible 
+
+policy actions. 
+
+Second pillar:  Macroprudential policy 
+
+The ultimate objective of our surveillance is to build resilience of firms and 
+
+markets and to counter risks early enough to prevent disruptions to financial stability that 
+
+could damage the real economy.  While the macroprudential toolkit is larger than it was 
+
+pre-crisis, there is a substantial amount of work remaining to implement some of these 
+
+tools.  In particular, as I will discuss in more detail, the ability of the available tools to 
+
+counteract time-varying risks has yet to be tested in the U.S.  
+
+First, the Federal Reserve is well along in promulgating an important system of 
+
+new, through-the-cycle safeguards that together should deliver much greater structural 
+
+resilience and make excessive risk-taking costly for the large, complex institutions that 
+
+pose the greatest risks to the financial system.  Second, the Federal Reserve is assessing 
+
+the kinds of broad time-varying regulatory tools that might further buttress resilience 
+
+during periods in which risks associated with rapid credit expansion are building.  Third, 
+
+the Federal Reserve is exploring tools that can be varied over the cycle to target specific 
+
+activities, recognizing that we will have limited authorities relative to some foreign 
+
+financial regulators in operating on the borrowing side and outside the regulatory 
+
+perimeter of the banking system.  Let’s take each in turn. 
+
+Tool One:  Structural resilience 
+
+We are relatively far advanced, and compare favorably to other jurisdictions, in 
+
+implementing a framework of rules and supervision that compels large, complex financial 
+
+
+ - 5 - 
+
+institutions to build substantial loss-absorbing buffers and to internalize the costs of 
+
+undertaking activities that pose risks to the system.  This framework represents a 
+
+substantial improvement on structural resilience relative to the pre-crisis framework 
+
+across a number of dimensions:  It is forward looking in assessing risks under severely 
+
+stressed conditions, and it is explicitly macroprudential in design so that bank 
+
+management internalizes risks not only to the safety and soundness of their own 
+
+institution, but also to the system as a whole. 
+
+Reforms undertaken in recent years help ensure that institutions that are large, 
+
+internationally active, and interconnected face significantly higher capital and liquidity 
+
+charges when undertaking risky activities.  The core of the framework is the requirement 
+
+of a very substantial stack of common equity to absorb shocks and to provide incentives 
+
+against excessive risk-taking.  The new framework imposes “belts and suspenders” on the 
+
+capital cushion by requiring a simple, non-risk-adjusted ceiling on leverage as well as 
+
+requiring the largest banking firms to satisfy two sets of risk-based capital requirements:  
+
+one derived from internal models and a second based on standardized supervisory risk 
+
+weights.  Beyond that, the largest, most complex firms will face an additional common 
+
+equity requirement that reflects the risk they pose to the system and an additional layer of 
+
+loss absorbency on top of that to provide adequate support to operating subsidiaries in 
+
+resolution.  Large financial institutions are also required to maintain substantial buffers of 
+
+high-quality liquid assets calibrated to their funding needs and to their likely run risk in 
+
+stressed conditions.  Similar to the equity cushions, the liquidity buffers are calibrated to 
+
+affect disproportionately those financial institutions that pose the greatest risks.  
+
+
+ - 6 - 
+
+Regular stress tests of both capital and liquidity at our largest banking firms 
+
+provide a key bulwark in the new supervisory architecture.4  Minimum capital 
+
+requirements must be met under severely adverse macroeconomic conditions and, for the 
+
+very largest firms, in the face of severe market shocks, including the failure of a firm’s 
+
+largest counterparty.  By providing a forward-looking assessment that takes into account 
+
+correlations among risks under stressed conditions, these stress tests on capital and 
+
+liquidity are powerful tools for building resilience in our largest banking firms.  But they 
+
+also have some limitations.  For instance, while the severity of the stresses can be varied 
+
+from year to year, it is difficult to introduce entirely new scenarios each year to target 
+
+specific sectoral risks without introducing excessive complexity.  And while the new U.S. 
+
+framework requires that capital buffers are calibrated for the riskiness of their assets and 
+
+exposures, the proportion of capital required does not vary systematically to counter the 
+
+cyclicality that arises through elevated asset valuations and other channels.5 
+
+4 The Comprehensive Liquidity Analysis and Review, or CLAR, is the Federal Reserve Board’s periodic 
+simultaneous supervisory examination of firms’ liquidity buffers and risk-management policies.  We use 
+CLAR to analyze and adjust our supervisory program for emerging firm practices and risk areas not 
+captured in the Liquidity Coverage Ratio (LCR).  For example, CLAR enables monitoring of firm liquidity 
+positions for buildups of concentrations of risk beyond the 30-day threshold.  It also allows us to look more 
+closely at risks that may emanate from areas such as intraday credit, which are not captured within the LCR 
+but are captured by firms’ internal stress-testing frameworks. 
+5 As the Board laid out in its November 2013 policy statement on the scenario design framework for stress 
+testing, it uses a recession approach to develop the severely adverse scenario of the stress tests.  See Board 
+of Governors of the Federal Reserve System (2013), “Federal Reserve Board Issues Final Policy Statement 
+for Developing Scenarios for Future Capital Planning and Street Testing Exercises,” press release, 
+November 7, www.federalreserve.gov/newsevents/press/bcreg/20131107a.htm.  The severely adverse 
+scenario is anticipated to feature an unemployment rate over the first six to eight quarters of the scenario 
+that increases between 3 percentage points and 5 percentage points, which is the amount by which 
+unemployment has increased in the most recent three severe recessions.  However, if such an increase does 
+not raise the level of the unemployment rate to at least 10 percent--the average level to which it has 
+increased in the most recent three severe recessions--the path of the unemployment rate in most cases will 
+be specified so as to raise the unemployment rate to at least this level.  Under this methodology, the 
+increase in the unemployment rate would be slightly greater if the initial unemployment rate were low--as it 
+would be after a sustained long expansion.  Moreover, setting a floor for the unemployment rate recognizes 
+the fact that not only do cyclical systemic risks build up at financial intermediaries during robust 
+expansions, but that these risks are also easily obscured by the buoyant environment.  Note, however, that 
+while the approach to specifying the severely adverse scenario is designed to avoid adding sources of 
+
+
+
+
+ - 7 - 
+
+Tool two:  Time-varying broad macroprudential tools 
+
+While our efforts are far advanced in building structural resilience, progress is 
+
+less advanced in developing time-varying tools that counter the buildup of excesses 
+
+across the system broadly or in a particular financial sector.  These efforts are in earlier 
+
+stages of elaboration and more of a departure from recent practice.  Here we can learn 
+
+from financial authorities in other countries that have recent experience deploying a 
+
+broader array of macroprudential tools. 
+
+The classic case for time-varying broad macroprudential tools is to lean against a 
+
+dangerous acceleration of credit growth at a time when the degree of monetary tightening 
+
+that would be needed to slow it down would be highly inconsistent with conditions in the 
+
+real economy.  The Basel Committee agreed on a common countercyclical capital buffer 
+
+framework for addressing such circumstances, and the Federal Reserve and the other U.S. 
+
+banking agencies issued a final rule to implement the Basel 3 countercyclical capital 
+
+buffer for U.S. banking firms in 2013.  Under the rule, starting in 2016 and phasing in 
+
+through 2019, the U.S. banking agencies could require the largest, most complex U.S. 
+
+banking firms to hold additional capital in amounts up to 2.5 percent of their risk-
+
+weighted assets if the agencies determine it is warranted by rising risks.  We are currently 
+
+considering how best to implement the countercyclical capital buffer.  The existing 
+
+research would suggest that indicators related to debt growth, leverage, and other signs of 
+
+growing financial imbalances would provide guidance on when to implement the buffer 
+
+and when to deactivate it.  
+
+procyclicality to the financial system, it is not designed to explicitly offset any existing procyclical 
+tendencies.  The purpose of the stress-test scenarios is to make sure that banks are properly capitalized to 
+withstand severe economic and financial conditions, not to serve as an explicit countercyclical offset to the 
+financial system.  
+
+
+
+
+ - 8 - 
+
+The countercyclical capital buffer may enhance financial stability by building 
+
+additional resilience at systemic banking institutions near the height of the credit cycle.  
+
+However, it may prove to be less effective in leaning against credit growth, since, as 
+
+credit booms progress, there is greater potential for capital to be relatively cheap, asset 
+
+valuations to be inflated, and risk weights to be incorrect.  Moreover the countercyclical 
+
+capital buffer has some practical limitations:  It applies to a subset of the U.S. banking 
+
+system and is designed to act with a one-year lag.  It also cannot be used efficiently to 
+
+target specific asset classes that appear frothy, a challenge I turn to next.  
+
+Tool three:  Time-varying sector-specific tools 
+
+The countercyclical buffer may be a relatively blunt tool for circumstances where 
+
+the buildup of risk is highly concentrated in a particular sector.  This was, of course, the 
+
+challenge U.S. policymakers faced early in the recent housing bubble, with home prices 
+
+rising and capital markets developing the complicated, opaque securities built on 
+
+subprime mortgages that would ultimately cause damage throughout the financial system. 
+
+Indeed, property booms are perhaps the most common macroprudential challenge that 
+
+have confronted financial authorities in advanced economies over the years, although 
+
+macroprudential challenges have also surfaced in other sectors, such as the corporate 
+
+lending boom that confronted Korea in the mid-to-late 1990s.   
+
+In addition to time-varying broad macroprudential tools, such as countercyclical 
+
+capital buffers and dynamic provisioning, many financial authorities have the authority to 
+
+promulgate rules that target activity in a specific sector.  For instance, Swiss authorities 
+
+activated, in early 2013, a countercyclical capital buffer that added 1 percentage point of 
+
+capital requirement for direct and indirect mortgage-backed positions secured by Swiss 
+
+residential property, and then increased this amount in 2014 to 2 percentage points.   
+
+
+ - 9 - 
+
+Time-varying lending-side tools 
+
+In the United States, there is a more limited set of authorities the Federal Reserve 
+
+could exercise either on its own or jointly with the other banking agencies to address 
+
+sector-specific risks.  Most commonly, as we have seen with leveraged lending, the 
+
+banking regulators acting together can use the tools of supervisory guidance and intensive 
+
+supervision to discourage banks from taking on additional risk on safety and soundness 
+
+grounds.  Moreover, the annual supervisory stress tests can be tailored to increase the 
+
+severity of losses in specific portfolios of loans or the market shock.  However, these 
+
+authorities fall short of direct restrictions on activities in a particular sector.  Such 
+
+supervisory actions usually flow from microprudential concerns about the safety and 
+
+soundness of individual institutions rather than macroprudential concerns about the 
+
+stability of the entire system. By contrast, section 165 of the Dodd-Frank Act provides 
+
+that the Federal Reserve could restrict the activities of banks with assets greater than $50 
+
+billion or nonbank systemically important financial institutions (SIFIs) designated by the 
+
+FSOC “to prevent or mitigate risks to the financial stability of the United States,” thus 
+
+providing potential macroprudential authority. 
+
+In addition, the Federal Reserve has authority under the Securities and Exchange 
+
+Act of 1934 to set initial and variation margin requirements for repurchase agreements 
+
+and securities financing transactions, which applies across the financial system.  This 
+
+authority was used to curb perceived excesses in the equity markets through the mid-
+
+1970s with what was seen as limited success, and it has not been used in such a manner 
+
+since.  There is some interest in exploring whether imposing minimum margin 
+
+requirements on additional forms of securities credit could prevent margins from 
+
+compressing during booms and likewise help mitigate destabilizing procyclical margin 
+
+
+ - 10 - 
+
+increases at times of stress, reducing the associated “fire sales” in short-term wholesale 
+
+funding markets.  
+
+Consideration of the utility of these authorities is in preliminary phases.  It is 
+
+being undertaken as part of a broad review of macroprudential authorities and not with 
+
+regard to developments in any particular sector. 
+
+Time-varying borrower-side tools 
+
+For purposes of comparison, it is instructive to focus on how central banks in 
+
+several advanced economies have dealt with housing booms in recent years.6  Financial 
+
+authorities in the United Kingdom, Sweden, Switzerland, and New Zealand have recently 
+
+confronted rapidly rising residential housing prices in macroeconomic environments 
+
+where there were compelling reasons not to use the policy rate as the first line of defense.  
+
+They responded by imposing strictures on borrowers, through loan-to-value or debt-to-
+
+income limits, in some cases in concert with disincentives to lenders, and in many cases 
+
+in an escalating pattern.  Indeed, restrictions on borrowing are among the most commonly 
+
+employed macroprudential tools and, according to some research, among the most 
+
+effective in stemming the buildup of borrowing.7  
+
+This is not a problem we face today.  If anything, the most pressing problem 
+
+currently facing housing authorities in the United States is to restore vitality to the single-
+
+family housing market, where construction activity remains puzzlingly weak.  However, 
+
+6 As shown by Elliott, Feldberg, and Lehnert (2013), the United States had an active macroprudential 
+policy that included frequent use of borrower restrictions until 1980; however, the use of borrower 
+restrictions, and the underlying legal authorities, have diminished significantly since then.  See Douglas J. 
+Elliott, Greg Feldberg, and Andreas Lehnert (2013), “The History of Cyclical Macroprudential Policy in 
+the United States,” Finance and Economics Discussion Series 2013-29 (Washington:  Board of Governors 
+of the Federal Reserve System, May), www.federalreserve.gov/pubs/feds/2013/201329/201329abs.html. 
+7 See Stijn Claessens, Swati R. Ghosh, and Roxana Mihet (2014), “Macro-Prudential Policies to Mitigate 
+Financial System Vulnerabilities,” IMF Working Paper Series 14/155 (Washington:  International 
+Monetary Fund, August), www.imf.org/external/pubs/cat/longres.aspx?sk=41851. 
+
+
+
+
+ - 11 - 
+
+if, in the future, a mortgage-credit fueled house price bubble were to reemerge, the 
+
+banking regulators could perhaps impose higher risk weights on mortgage loans with 
+
+certain characteristics either directly or through expectations around stress testing.8  This 
+
+approach would be slow, perhaps requiring upwards of a year to adjust, and narrow in its 
+
+scope of application, and it may prove ineffective at times when bank regulatory capital 
+
+comfortably exceeds the required thresholds.  
+
+Third pillar:  Working across the regulatory perimeter 
+
+In some cases, foreign central banks acted in concert with other financial 
+
+authorities to address the buildup of risk in their housing sectors.  In the American 
+
+context, the Federal Reserve’s work is embedded in a larger web of efforts by other 
+
+financial authorities.  In parallel to the Federal Reserve’s own efforts to formalize its 
+
+financial stability surveillance and policy making, the network of independent financial 
+
+agencies is enhancing cooperation through the formal structure and responsibilities of the 
+
+FSOC as well as through joint rulemakings and joint supervisory efforts.9   
+
+It is vitally important that the bank and market regulators actively work to share 
+
+assessments of risks across the financial system and to develop joint macroprudential 
+
+efforts to address risks that stretch across regulatory perimeters.  Realistically, however, 
+
+8 The Federal Reserve Board and five other federal agencies approved risk-retention rules in October 2014 
+designed to ensure that securitization sponsors have an incentive to monitor and ensure the quality of the 
+securitized assets underlying a securitization transaction.  Sponsors of securities collateralized solely by 
+“qualified residential mortgages,” or QRMs, as defined by the agencies, are not required to hold credit risk 
+in their securitizations.  The QRM definition rests, in part, on the debt service-to-income of the mortgage 
+borrower, but it does not include loan-to-value ratios.  The agencies have committed to review the QRM 
+definition at five-year intervals, or earlier at the request of any agency, in order to ensure that the definition 
+remains appropriate as mortgage and securitization market conditions and practices change.  Altering the 
+QRM definition more frequently would likely be cumbersome and time-consuming. 
+9 A parallel evolution is also under way internationally across the major financial jurisdictions and the 
+international standard-setting bodies under the umbrella of the Financial Stability Board (FSB).   
+
+
+
+
+ - 12 - 
+
+those efforts are in early stages and must respect differences of mission and mandate, 
+
+authority, and governance structures. 
+
+As an example, the Consumer Financial Protection Bureau (CFPB) has authority 
+
+to adjust the definition of qualifying mortgages (QM), which affects mortgage credit at 
+
+all lenders, whether inside or outside the banking regulatory perimeter.  It is worth 
+
+noting, however, that the CFPB operates primarily under a consumer protection mandate.  
+
+While the ultimate consequences of a mortgage credit boom have, in the past, proved 
+
+very costly for families, the danger to consumers in the initial stages of such a boom may 
+
+be too unclear to warrant timely action. 
+
+Fourth pillar:  Monetary policy 
+
+Recognition of the limits to the macroprudential framework brings us to a 
+
+consideration of monetary policy—a powerful tool with broad reach, but also relatively 
+
+blunt.10  Monetary policy is the only tool available to the Federal Reserve that has far-
+
+reaching effects on private credit creation across the entire financial system and one of 
+
+the few tools that can be changed rapidly (although its effects have famously long and 
+
+variable lags). 
+
+While recognizing the far-reaching effects of monetary policy on financial 
+
+conditions, there are good reasons to view monetary policy as the second line of defense. 
+
+It is better viewed as a complement to rather than an alternative to macroprudential tools.  
+
+In many circumstances, standard monetary policy and financial stability considerations 
+
+will reinforce one another.  
+
+10 See Janet L. Yellen (2014), “Monetary Policy and Financial Stability,” speech delivered at “2014 Michel 
+Camdessus Central Banking Lecture,” a lecture series sponsored by the International Monetary Fund, 
+Washington, July 2, www.federalreserve.gov/newsevents/speech/yellen20140702a.htm. 
+ 
+
+
+
+
+ - 13 - 
+
+Nevertheless, there may be times when standard monetary policy and financial 
+
+stability considerations conflict. In several recent instances, foreign economies have 
+
+faced some tension between high unemployment and shortfalls in inflation relative to the 
+
+central bank’s target, on the one hand, and financial stability concerns associated with 
+
+rapidly rising real estate prices on the other.  In the United Kingdom, policymakers put in 
+
+place a range of measures to limit the buildup of risks in the housing market, and, partly 
+
+as a result, the housing market appears to be cooling somewhat.  Nonetheless, U.K. 
+
+policymakers have acknowledged the potential for monetary policy adjustments to play a 
+
+role in the pursuit of financial stability.  The Bank of England’s 2013 forward guidance 
+
+had a specific financial stability “knockout” for monetary policy accommodation if the 
+
+Financial Policy Committee (FPC) judges that the stance of monetary policy poses a 
+
+significant threat to financial stability that cannot be contained by the substantial range of 
+
+mitigating policy actions available to the FPC.”11 
+
+If, in the future, the United States did face a similar dilemma, where financial 
+
+imbalances are growing rapidly against a backdrop of subpar economic conditions, the 
+
+Federal Reserve may consider monetary policy for financial stability purposes more 
+
+readily than some foreign peers because our regulatory perimeter is narrower, the capital 
+
+markets are more important, and the macroprudential toolkit is not as extensive.  Even in 
+
+these circumstances, however, it is important to be prudent about the role of monetary 
+
+policy, recognizing that the necessary adjustments in monetary policy could have broader 
+
+consequences.  For example, a tightening in monetary policy sufficient to limit strong 
+
+11 See Bank of England (2013), “Forward Guidance,” webpage, 
+www.bankofengland.co.uk/monetarypolicy/Pages/forwardguidance.aspx, August 7, paragraph 5. 
+
+
+
+
+ - 14 - 
+
+credit growth could depress employment and potentially trigger a sharp correction in 
+
+financial markets.   
+
+These limitations should lead us to be circumspect regarding the use of monetary 
+
+policy as a tool to address financial stability risks, perhaps viewing it as a second line of 
+
+defense.  But it is equally important to acknowledge the potential utility of monetary 
+
+policy for addressing risks to financial stability and to the broader economy and to 
+
+continue expanding our work on the appropriate role of financial stability in our 
+
+monetary policy framework. 
+
+Conclusion 
+
+In sum, while the Federal Reserve has an inherent responsibility for financial 
+
+stability, it has an incomplete set of authorities and a limited regulatory perimeter in a 
+
+financial system that has large capital markets and a fragmented regulatory structure.  It 
+
+is therefore important that we actively utilize the tools under our authority—which place 
+
+particular emphasis on building structural resilience at the largest, most complicated 
+
+institutions through tougher through-the-cycle standards, along with broad 
+
+countercyclical measures to limit the buildup, and potential consequences, of risks to 
+
+financial stability, while exploring the design of time-varying sector-specific tools, and, 
+
+at times, looking to monetary policy as a powerful tool that unlike any other operates 
+
+across the entire financial system. 
+

@@ -1,0 +1,1054 @@
+
+For release on delivery 
+7:30 p.m. EST 
+November 4, 2015 
+ 
+
+
+Central Bank Independence 
+ 
+ 
+ 
+
+Remarks by 
+ 
+
+Stanley Fischer 
+ 
+
+Vice Chairman 
+ 
+
+Board of Governors of the Federal Reserve System 
+ 
+
+at the 
+ 
+
+2015 Herbert Stein Memorial Lecture 
+National Economists Club 
+
+ 
+Washington, D.C. 
+
+
+November 4, 2015 
+ 
+
+
+
+It is a pleasure to speak to you tonight and an honor to deliver the 2015 Herbert 
+
+Stein Memorial Lecture.1  My subject tonight is central bank independence.  But before 
+
+turning to that topic, I would like to explain why this is a special occasion for me.   
+
+My first real-world involvement in economic policy began late in 1983, when I 
+
+was invited by Secretary of State George Shultz to join a small team to advise him on the 
+
+stabilization of the Israeli economy, then suffering from triple-digit inflation and other 
+
+ills.  Herb Stein, formerly chairman of the Council of Economic Advisers under Richard 
+
+Nixon and Gerald Ford, was also on that team.  Herb was 67, wise, witty, and 
+
+experienced, and I was 40 years old, with a lot still to learn.  By mid-1984, the advisory 
+
+team consisted of only Herb and me. 
+
+The experience of working for George Shultz, in partnership with Herb, was not 
+
+only wonderful, but it also changed my life, for after that I had the policy bug.  I believe 
+
+our team made a real contribution to the success of the Israeli stabilization program that 
+
+began in mid-1985 and which is now recognized as a critical turning point in Israel’s 
+
+economic history.  But tonight is not the occasion to retell that story.   
+
+Rather, let me tell you a bit about Herb via what should be called Herbisms.  The 
+
+most famous one is “If something cannot go on forever, it will stop,” which comes in 
+
+very handy when trying to persuade someone to stop implementing policies that are 
+
+driving their economy straight into a stone wall.  A second Herbism is extremely useful 
+
+when discussing economic growth or interest rates:  “The difference between a growth 
+
+rate of 1 percent and a growth rate of 2 percent is 100 percent.”  I have many more but 
+
+                                                 
+1 The views expressed here are my own and not necessarily those of others at the Board, on the Federal 
+Open Market Committee, or in the Federal Reserve System.  I am grateful to Kurt Lewis, Ellen Meade, and 
+Jonathan Rose for their help in preparing this speech. 
+
+
+ - 2 - 
+
+will stop at three.  While we were having dinner in a Washington, D.C. restaurant 
+
+sometime in 1984, Herb asked me what was happening in the Israeli economy.  I replied 
+
+with an excellent exposition of monetary and fiscal policies, the accelerating inflation 
+
+rate, all of the mistakes that were being made, who was doing what to whom, and more.  
+
+If I had been a graduate student, I would certainly have received an A.  Herb’s response 
+
+was not to congratulate me on the excellence of my analysis, but to ask gently, “Yes, but 
+
+what do we want them to do?”  That is a question one should always remember to ask 
+
+when trying to advise a policymaker. 
+
+In brief, I learned an enormous amount from working with Herb and soon came to 
+
+admire him as a man of strong but softly stated principles and immense decency, with 
+
+whom it was a pleasure and privilege to be able to work and to talk--and, of course, to 
+
+joke, for he had a great sense of humor.  If you want to know more about him, go to 
+
+Google, look up Herbert Stein, and find the speech that his son Ben delivered at the first 
+
+Herbert Stein Memorial Lecture, in 2012.  And I’m very happy indeed that Herb and 
+
+Mildred’s two children, Rachel and Ben, are here tonight.   
+
+Central Bank Independence over the Past 20 Years 
+
+The modern academic literature on central bank independence developed largely 
+
+in the late 1980s and the first half of the 1990s.  The world of central banking was very 
+
+different then--a fact brought home by recalling that, in the early 1990s, the interest rate 
+
+in the United Kingdom was still set by the Treasury and not the Bank of England.  At its 
+
+tercentenary celebration in 1994, the Bank of England organized a symposium on central 
+
+banking, motivated in part by its desire for independence from the Treasury and the 
+
+modernization of its legal structure.   
+
+
+ - 3 - 
+
+I gave a speech on monetary policy independence and modern central banking at 
+
+the tercentenary celebration, in which I made the case for central bank independence and 
+
+concluded with the sentence “On her 300th birthday, it is time to allow the Old Lady to 
+
+take on the responsibilities of independence.”2  At that time, visitors to Britain who raised 
+
+the issue of independence for the Bank of England were typically treated to a lecture on 
+
+why that was not possible in the British political system.  Nonetheless, independence was 
+
+granted to the Bank of England by a newly elected Labour government in 1997, and 
+
+subsequent researchers have linked this independence to declines in both longer-term 
+
+inflation risk premiums and inflation expectations.3   
+
+The literature I discussed in my 1994 speech was developed with an emphasis--
+
+based on post-World War II experience--on the problem of preventing high inflation.  But 
+
+we are no longer in that era.  The inflation problem with which most of the leading 
+
+economies are dealing is inflation that is too low, not too high.  Further, now that we have 
+
+had time to understand better the damage that the global financial crisis has wreaked on 
+
+the world economy, and after much research on the effect of major financial crises on 
+
+growth and on the dynamics of business cycles, we are focused to a much greater extent 
+
+than in the past on the importance of financial stability. 
+
+I would like to use our time tonight to reflect on how the analysis of central bank 
+
+independence of 20 years ago should be updated to reflect the different economic 
+
+environment in which we are now living.  I shall argue that, although high inflation is not 
+
+the immediate concern that it was in the 1980s and 1990s, monetary policy independence 
+
+                                                 
+2 The lecture, titled “Modern Central Banking,” was printed in the conference volume, Capie and others 
+(1994).  A standalone version, including revisions following the discussion at that conference, is available 
+as Fischer (1995a). 
+3 See Joyce, Lildholdt, and Sorensen (2010). 
+
+
+ - 4 - 
+
+remains of the highest importance, and that it is important that we preserve monetary 
+
+policy independence to help foster desirable macroeconomic outcomes and financial 
+
+stability.   
+
+The Case for Monetary Policy Independence  
+
+By 1994, both theory and evidence suggested that more independent central banks 
+
+deliver better outcomes, particularly lower and more stable inflation.  The theoretical case 
+
+for monetary policy independence focused on countering inflationary biases that were 
+
+likely to exert themselves in the absence of an independent central bank.  Such a bias 
+
+could result from political pressure to boost output in the short run--for example, before 
+
+an election--or to use a central bank’s power to issue money as a means to finance 
+
+government spending.  Even in the absence of political interference, inflationary bias can 
+
+result from the problem of dynamic inconsistency if central banks cannot credibly 
+
+commit to keeping inflation low.4   
+
+On the empirical side, many scholars have studied whether monetary policy 
+
+independence fosters low and stable inflation in practice.  Summarizing roughly 25 years 
+
+of research in his 2008 paper, Alex Cukierman observed that “the evidence is consistent 
+
+with the conclusion that inflation and actual [independence] are negatively related in both 
+
+developed and developing countries.”5  Further, monetary policy independence does not 
+
+appear to be associated with adverse economic consequences.  In particular, to the extent 
+
+that independence of the central bank helps restrain inflation, it does not appear to result 
+
+in significantly more volatile output, as some theoretical models had predicted.6  
+
+                                                 
+4 These theoretical results are demonstrated in the seminal work of Kydland and Prescott (1977) and Barro 
+and Gordon (1983). 
+5 See Cukierman (2008). 
+6 See Rogoff (1985) for a well-known model that predicted such an outcome.  
+
+
+ - 5 - 
+
+Cukierman goes on to note, however, that the causality from independence to lower 
+
+inflation is not clear, and several studies over the past 10 to 15 years have found 
+
+conflicting results on that front.7    
+
+Let me touch on four issues that are now an essential part of the understanding of 
+
+central bank independence, but that were less prominent in the 1990s.  First, there is a 
+
+distinction between the terms monetary policy independence and central bank 
+
+independence.  In the literature that developed before the global financial crisis, central 
+
+bank independence referred to independence from political influences in the setting of 
+
+monetary policy.  But many central banks have roles outside monetary policy--in 
+
+particular, bank regulation and supervision.  These roles are in certain cases granted their 
+
+own level of independence, a subject to which I shall return later in the lecture.   
+
+Second, there is a useful distinction between goal independence and instrument 
+
+independence.8  A central bank’s mission--its purposes and goals--are set out in its 
+
+founding legislation and subsequent refinements.  The purposes may be general, such as 
+
+preserving the value of the currency, maintaining the stability of the financial system, 
+
+and, in some countries, promoting economic growth or employment.  These purposes 
+
+have typically to be translated into operational goals--for instance, maintaining an 
+
+inflation rate of 2 percent.  The question of goal independence is whether the central bank 
+
+itself establishes the operational goals or whether some other official body does so.  
+
+Examples of such bodies are the finance ministry or the cabinet.  If the central bank sets 
+
+                                                 
+7 See also Posen (1995) and Forder (1996). 
+8 This distinction was introduced by Guy Debelle and the present author; see Debelle and Fischer (1994) 
+and Fischer (1995a). 
+
+
+ - 6 - 
+
+the operational goals, it has goal independence; if those operational goals are defined by 
+
+some other body, the central bank does not have goal independence.      
+
+The academic literature was developed during the early 1990s when the Federal 
+
+Reserve had already been given its statutory mandate of maximum employment and price 
+
+stability.  After careful deliberation, the Federal Open Market Committee (FOMC) 
+
+clarified that inflation of 2 percent is most consistent with the goal of price stability.   
+
+The powers and instruments the central bank has at its command are also 
+
+generally specified in legislation.  If the central bank has control over the policy 
+
+instruments it has been assigned, it has instrument independence.  Virtually every central 
+
+bank has the authority to engage in asset market transactions, with the goal of setting a 
+
+specific--typically short-term--interest rate or, closely related, of controlling the money 
+
+supply.  There have been proposals--for instance, by Milton Friedman--that the central 
+
+bank be required to cause the money supply to grow at a constant rate, 4 percent.  Such a 
+
+central bank would have neither instrument nor goal independence. 
+
+Third, the power to set the short-term interest rate or the money supply is a 
+
+formidable one.  Well exercised, that power can support the stability of both prices and 
+
+output; poorly exercised, it can create economic havoc.  Any institution to which such 
+
+responsibility has been delegated must be held accountable for carrying out its mission 
+
+effectively and efficiently.  In almost all countries, the central bank’s accountability is 
+
+enforced by requiring regular reporting on monetary policy actions and outcomes to the 
+
+legislature, to the executive branch, and to the public.  The formal centerpiece of the 
+
+required reporting is generally exercised by the regular publication and presentation to 
+
+the legislature of an inflation report or monetary policy report, followed by public 
+
+
+ - 7 - 
+
+hearings on the report and related matters.  Accountability can be further enhanced by 
+
+increasing the transparency of central banks about their operations.   
+
+Accountability of the central bank helps deal with the potential conflict between 
+
+the benefits of shielding the central bank from political pressures and the fact that 
+
+unelected officials--albeit officials who are commonly nominated by the government and, 
+
+in many cases, confirmed by the legislative branch--are determining policies critical to 
+
+the country’s economy.   
+
+Fourth, there is an argument in the profession about the difficulties of presenting a 
+
+central bank with more than one policy goal.  The argument is often put as “You need as 
+
+many instruments of policy as you have policy goals,” a result often attributed to Jan 
+
+Tinbergen, co-winner of the first Nobel Prize in economics.9  Tinbergen’s result is correct 
+
+if the targets have to be achieved exactly, but it is not correct if there are tradeoffs among 
+
+the goals of policy, and the central bank utility or loss function includes the costs of 
+
+missing each of the targets and the interactions among them.10   
+
+Based on the Tinbergen result, central banks whose mandated goals are narrow, 
+
+such as having only an inflation target, are often considered to have more independence 
+
+than central banks with additional targets or with multifaceted objectives.  In practice, I 
+
+doubt that any central bank targets inflation to the exclusion of all other outcomes.  For 
+
+example, the Bundesbank was generally thought to have a very strict focus on inflation in 
+
+the years in which it had an independent monetary policy before the founding of the 
+
+European Central Bank.  But researchers who have studied the Bundesbank’s policies of 
+
+                                                 
+9 See Tinbergen (1952). 
+10 For further discussion of this issue, see Fischer (2010), a set of comments given as part of a panel at the 
+Reserve Bank of Australia 50th Anniversary Symposium.  
+
+
+ - 8 - 
+
+that period have concluded that it likely responded to deviations from target of both 
+
+expected inflation and output growth.11  I do not regard the Fed’s dual mandate, which 
+
+gives it both an inflation and an employment goal, as causing significant difficulties for 
+
+Fed decisionmakers, and note that if the Fed had only an inflation target and found itself 
+
+in the situation we find ourselves today, it would face precisely the same difficulty we 
+
+currently face--how to get the inflation rate up to meet the inflation target.  
+
+The Fed Today 
+
+The Federal Reserve System’s current mandate of maximum employment, stable 
+
+prices, and moderate long-term interest rates was established by an amendment to the 
+
+Federal Reserve Act in 1977.  The Congress, in effect, recognized the principle of 
+
+instrument independence by requiring that the Federal Reserve Board report 
+
+semiannually directly to the Congress about the Board’s and the FOMC’s plans to meet 
+
+these objectives and by exempting monetary policy from Government Accountability 
+
+Office (GAO) review as part of the Full Employment and Balanced Growth Act of 1978.   
+
+By passing these two pieces of legislation, the Congress put in place a mechanism 
+
+for holding the Fed accountable for meeting its statutory mandate.  A key venue for 
+
+reviewing the Fed’s approach to pursuing its mandated goals remains the semiannual 
+
+testimony of the Chair, along with the associated Monetary Policy Report.  In general, the 
+
+provision of such an accountability structure is important, since, as previously noted, 
+
+accountability to elected officials and the public is an essential complement to central 
+
+bank independence.12   
+
+                                                 
+11 See Gerberding, Worms, and Seitz (2004); and Clarida and Gertler (1997). 
+12 Not only do the principles of democracy demand such accountability, but economic theory also points to 
+accountability as one way of addressing an inflationary bias that might otherwise take hold.  I have in mind 
+here the principal-agent model of Walsh (1995). 
+
+
+ - 9 - 
+
+The Federal Reserve’s accountability structure has been largely stable since the 
+
+1970s reforms.  At the same time, the Federal Reserve has greatly augmented its public 
+
+communications about its economic outlook and its policy strategy.  Over the past 
+
+20 years, this augmentation includes the release, beginning in 1994, of postmeeting 
+
+statements explaining policy decisions.13  Other changes include the inclusion of roll call 
+
+votes in the postmeeting statements in 2002; the release of the FOMC minutes three 
+
+weeks after the meeting rather than following the subsequent meeting, beginning in 2005; 
+
+the introduction of the Summary of Economic Projections in 2007 and the inclusion in 
+
+2012 of the “dot plot” showing FOMC participants’ federal funds rate projections; the 
+
+Chair’s quarterly postmeeting press conferences in 2011; and the issuance in 2012 of the 
+
+FOMC’s Statement on Longer-Run Goals and Monetary Policy Strategy, which is 
+
+reaffirmed every January.14   
+
+This increased transparency has been a key complement to the Fed’s 
+
+independence and accountability by regularly demonstrating that the Fed has been 
+
+appropriately pursuing its mandated goals.  Transparency can also make monetary policy 
+
+more effective by helping to guide the public’s expectations and clarify the Committee’s 
+
+policy intentions.15 
+
+                                                 
+13 Prior to 1999, the FOMC released statements only after meetings at which the federal funds rate was 
+changed.  Over time, the statements released by the FOMC have become more informative about the 
+Committee’s views of the economy and policy. 
+14 There are a number of additional transparency improvements that are less directly related to monetary 
+policy communication, including detailed reports on liquidity facility and lending programs during the 
+financial crisis, which can be found on the Board’s website at 
+www.federalreserve.gov/monetarypolicy/bst_reports.htm.  In addition, a full list of securities held in the 
+System Open Market Account portfolio is available on the Federal Reserve Bank of New York’s website at 
+www.newyorkfed.org/markets/soma/sysopen_accholdings.html. 
+15 Given the benefits of transparency, central banks around the world have also greatly augmented their 
+public communications over the past 20 years.  Recent papers measuring transparency across central banks 
+include Crowe and Meade (2008) and Dincer and Eichengreen (2014). Dincer and Eichengreen (2014) 
+conclude that almost all of the central banks around the world had greater transparency in 2010 than they 
+
+
+ - 10 - 
+
+The Fed, like other central banks, does appropriately retain some matters for 
+
+private discussions.  These discussions often contain market-sensitive information and 
+
+may, by necessity, involve frank assessments of market- or even firm-specific conditions 
+
+as well as outside-the-box ideas needed to deal with evolving economic situations.  These 
+
+exceptions reflect the view that transparency should preserve the ability of policymakers 
+
+to think out of the box and should not inhibit free give-and-take and the testing of ideas 
+
+that is essential to reaching good decisions.  Transcripts of the FOMC’s meetings are 
+
+made available with a five-year lag, allowing researchers to study the closed-door 
+
+discussions after an appropriate time has elapsed. 
+
+Central Bank Independence and New Challenges 
+
+Low inflation 
+
+The basic governance structure set up in the late 1970s was envisioned as a means 
+
+to monitor and encourage the Federal Reserve to pursue its mandates, and an aggressive 
+
+and successful campaign to bring down inflation followed.  Indeed, the high inflation of 
+
+the 1970s and early 1980s was one of the primary motivations for the broadening and 
+
+deepening of monetary policy independence worldwide.   
+
+Today consumer price inflation remains below the FOMC’s objective of 
+
+2 percent.  According to the personal consumption expenditures index, the 12-month 
+
+change in core prices (prices excluding the food and energy categories) has been around 
+
+1-1/4 to 1-1/2 percent since the beginning of 2013.  At the September 2015 FOMC 
+
+                                                 
+did in 1998.  See for example Figure 1 in that paper.  These measures of transparency cover a variety of 
+factors, including the openness about policy objectives and economic data, disclosures about the procedures 
+used in deliberations, the speed of such disclosures, and transparency about the operational aspects of 
+meeting targets.  
+
+
+ - 11 - 
+
+meeting, participants saw inflation as very low this year but expected it to pick up notably 
+
+next year and rise further in 2017.16   
+
+Although the presence of low inflation makes the traditional inflationary bias less 
+
+of an immediate concern, actions that would compromise monetary policy independence 
+
+would still be dangerous.  The anchoring of inflation expectations has been a hard-fought 
+
+product of the disinflation of the 1980s and subsequent Federal Reserve policy.  Today, 
+
+even with low inflation, the balance of evidence suggests that survey-based measures of 
+
+longer-term inflation expectations have likely remained fairly steady and consistent with 
+
+our objective.  The anchoring of these expectations is due in great part, I suspect, to the 
+
+continued credibility of the Fed’s independence from political interference, along with 
+
+the adoption of the explicit inflation target of 2 percent. 
+
+To put this point clearly, the concern over the effects of political interference in 
+
+monetary policy remains as valid in practice when inflation is too low as when inflation 
+
+is too high.  That is primarily because political horizons are typically shorter than those 
+
+that need to be taken into account in making monetary policy decisions.   
+
+Recently, there have been proposals to restrict monetary policy independence.  
+
+One proposal, labeled “Audit the Fed,” would subject the Federal Reserve’s conduct of 
+
+monetary policy to unlimited congressional policy audits.17  (Financial audits are already 
+
+conducted regularly.)18 
+
+                                                 
+16 See the Summary of Economic Projections submitted in conjunction with the September 2015 FOMC 
+meeting, an addendum to Board of Governors (2015).  
+17 See Federal Reserve Transparency Act of 2015, H.R. 24, 114 Cong. (2015); and Federal Reserve 
+Transparency Act of 2015, S. 264, 114 Cong. (2015). 
+18 Audited financial statements for the Federal Reserve System can be found on the Board’s website at 
+www.federalreserve.gov/monetarypolicy/bst_fedfinancials.htm.   
+
+
+ - 12 - 
+
+Another proposal would require the FOMC to adopt and follow a specific 
+
+equation in setting monetary policy and to face immediate congressional hearings and 
+
+investigation by the GAO whenever the FOMC deviates from the policy dictated by that 
+
+equation.19  In the terminology I have used in this speech, these proposals could 
+
+accurately be described more as restrictions on the Federal Reserve’s instrument 
+
+independence than as measures that would increase transparency or accountability.  They 
+
+would thus represent a departure from the modern governance structure that has come to 
+
+characterize the Fed and leading central banks around the world.  Since the Federal 
+
+Reserve is already very transparent about its monetary policy decisions, review by the 
+
+GAO would not meaningfully augment communications with the public but would 
+
+instead reflect an effort by the Congress to influence the Fed’s policy decisions.   
+
+We should recognize that if a GAO review and, likely, a congressional hearing 
+
+were held every time a monetary policy decision deviated from a simple equation, as has 
+
+been proposed, the Fed would be subjected to the very sort of political pressure from 
+
+which experience suggests central banks should be independent.  Instead, a modern 
+
+governance framework calls for the political system to give the central bank a mandate 
+
+along with the operational freedom to pursue that mandate, supported by transparency 
+
+and accountability.20 
+
+In addition, using a central bank as a source of revenue to cover the cost of a 
+
+fiscal program is dangerous to its independence.  For example, recently some have 
+
+proposed that the Fed be used to provide revenue to fund specific government initiatives, 
+
+                                                 
+19 See the Fed Oversight Reform and Modernization Act of 2015, H.R. 3189, 114 Cong. (2015). 
+20 For additional discussion of these proposals, see Powell (2015). 
+
+
+ - 13 - 
+
+which amounts to quasi-fiscal policy, with manifold implications for central bank 
+
+independence as well as for the quality of fiscal policy decisions.21 
+
+The Great Recession and the use of unconventional central bank instruments 
+
+The basic delegated-authority governance framework I have described--mandated 
+
+goals, instrument independence, and accountability--has allowed the Federal Reserve to 
+
+respond to dramatic changes in the economic environment over the past 20 years.  In 
+
+particular, during the Great Recession, instrument independence afforded the FOMC the 
+
+flexibility needed to develop new tools that could address the large and extraordinary 
+
+challenges it faced in pursuing its dual mandate.  The legislative proposals just discussed 
+
+appear to be motivated by the belief that the Fed’s response during the crisis was 
+
+somehow ineffective or inappropriate.  In fact, the Fed’s response was a carefully 
+
+considered exercise of instrument independence that was effective, appropriate, and 
+
+necessary in light of the congressional mandate to which it is held accountable.  Indeed, 
+
+without those operations, the U.S. economy would have suffered a significantly deeper 
+
+and longer recession than the very substantial recession we did suffer. 
+
+Financial stability 
+
+The research on monetary policy independence at the end of the 20th century was 
+
+conducted on the assumption that the central bank was focused on its direct 
+
+macroeconomic mandates such as inflation and employment.  After the global financial 
+
+crisis, we cannot ignore the fact that central banks are typically tasked with multiple 
+
+responsibilities, often among them, preserving or contributing to financial stability.   
+
+                                                 
+21 Discussions and descriptions of issues related to central banking remittances to fiscal authorities and the 
+challenges involved are discussed in Bank for International Settlements (2003), particularly the chapter 
+“Central Bank Balance Sheets and Fiscal Operations.”    
+
+
+ - 14 - 
+
+These responsibilities do not represent a new mandate--they were the impetus 
+
+behind the 1913 legislation setting up the Federal Reserve System and, in a somewhat 
+
+subordinate role, behind the legislation setting up both the independent Bank of England 
+
+and the European Central Bank as well as many other central banks whose legal 
+
+framework has changed in the past two decades.22  But these responsibilities have 
+
+received far more emphasis following the financial crisis.  As has long been known, a 
+
+central bank must take into account risks to financial stability if it is to help achieve good 
+
+macroeconomic performance.23   
+
+Could central bank involvement in dealing with potential financial instability 
+
+present a challenge to central bank independence?  In answering this question, we need to 
+
+consider an important difference between the use of traditional monetary policy and the 
+
+use of macroprudential policies.  Macroprudential policies are typically aimed at a 
+
+specific sector.  Often the housing sector is disproportionately involved in financial 
+
+crises.   
+
+In the face of an incipient bubble growing in the housing sector at a time when 
+
+inflation and unemployment are at their target levels, the first instinct of regulators and 
+
+others--the central bank among them--is to turn to macroprudential instruments, such as 
+
+constraints on the loan-to-value ratio or the debt-service-to-income ratio of borrowers.  
+
+However, doing so would affect particular sectors of the population.  This difficulty can, 
+
+to some extent, be dealt with by tailoring the macroprudential measures in ways that 
+
+                                                 
+22 Recall that the Federal Reserve was itself created in response to a severe financial panic, the Panic of 
+1907.  This panic led to the creation of the National Monetary Commission, whose 1911 report was a major 
+factor in the creation of the Federal Reserve Act, signed into law in 1913. 
+23 See, for example, Tarullo (2014). 
+
+
+ - 15 - 
+
+soften their effect on groups of particular concern.24  Nonetheless, the housing issue is 
+
+often politically important, and it could be argued that the political authorities should 
+
+have some representation in discussing measures taken to deal with it.   
+
+This representation can be done as in the British case by having a separate 
+
+committee to make financial stability decisions, the Financial Policy Committee (FPC), 
+
+located in the Bank of England, whose membership is different from that of the Monetary 
+
+Policy Committee and on which also sits a nonvoting member from the U.K. Treasury.25  
+
+In the U.S. case, the Financial Stability Oversight Council is a coordinating committee, 
+
+with all of the principal regulators as members and the Secretary of the Treasury as 
+
+chairman.  Because the member regulatory agencies are independent, coordination among 
+
+them--the function of the FSOC--is critical to the financial regulatory system’s success in 
+
+addressing risks to financial stability. 
+
+There are many other models for the governance of the responsibility for financial 
+
+stability.  For instance, in Australia, there is a single integrated prudential regulator, the 
+
+Australian Prudential Regulation Authority, as well as the Council of Financial 
+
+Regulators, whose chair is the governor of the Reserve Bank of Australia and whose 
+
+members are drawn from the central bank, the prudential authority, the Australian 
+
+Securities and Investments Commission, and the Treasury.  These various approaches 
+
+                                                 
+24 The use of the federal funds rate also affects particular sectors more than others--but that effect is 
+softened by being spread over the entire economy. 
+25 A few of the members--namely, the governor and deputy governors of the Bank of England--are on both 
+the Monetary Policy Committee and the FPC, but the remaining members do not overlap.  The FPC 
+members are the governor, three of the deputy governors, the chief executive of the Financial Conduct 
+Authority, the bank’s executive director for financial stability strategy and risk, four external members 
+appointed by the chancellor, and a nonvoting representative of the Treasury.  The current membership of 
+the FPC is available on the Bank of England’s website at 
+www.bankofengland.co.uk/about/Pages/people/fpc.aspx. 
+
+
+ - 16 - 
+
+each have their own merits, but the ultimate stress test for any particular institutional 
+
+structure will, of course, come as these new governance structures face the challenges of 
+
+dealing with financial stress and potential financial crises.   
+
+The structure of the FPC ensures that the Bank of England is nearly fully 
+
+independent with regard to financial stability.26  The Fed does not have that 
+
+independence, even though it has been assigned the responsibility of helping to ensure 
+
+financial stability.   
+
+I have heard foreign central bankers argue, “You can’t be independent in one 
+
+function (monetary policy) and not independent in another (financial stability), without 
+
+the nonindependence with respect to financial stability seeping over to weaken the 
+
+independence of monetary policy.”  I do not believe this is correct--as proof, I think each 
+
+of us feels and is more independent in some of the decisions we make about our lives 
+
+than in others.  Thus, I think the Fed retains its monetary policy independence despite its 
+
+nonindependence with respect to financial stability policy. 
+
+No doubt economists will long debate the appropriate institutional structure for 
+
+financial stability authority.  Because financial markets and political institutions differ 
+
+widely across economies and because historical accident affects the current situation in 
+
+each, it seems unlikely that any single set of arrangements will be optimal in all cases.27  
+
+In any event, as time and future potential crises go by--and may they be few and far 
+
+                                                 
+26 The macroprudential tools that the FPC may use were granted to it by specific acts of the U.K. 
+Parliament.  In addition, each year, the chancellor remits a letter to the FPC on issues that are of particular 
+relevance to the government. 
+27 This is an instance of a general point made by Avinash Dixit (1996). 
+
+
+ - 17 - 
+
+between--there will be far more experience on which to base the choice of regulatory 
+
+system, and changes will quite likely be made.28 
+
+Finally, as I mentioned at the Federal Reserve Bank of Boston last month, as a 
+
+result of the currently limited nature of the macroprudential toolkit, there could be times 
+
+when adjustments in monetary policy itself should be discussed as a means to curb 
+
+emerging risks to financial stability.  Alternatively, financial stability considerations can 
+
+sometimes point to the need for accommodative monetary policy.  For example, the 
+
+accommodative U.S. monetary policy since 2008 has helped repair the balance sheets of 
+
+households, nonfinancial firms, and the financial sector.  The challenge to monetary 
+
+policy independence then derives from the use of a single tool to achieve multiple 
+
+outcomes across different time horizons.  I do not regard this challenge as a serious 
+
+constraint on monetary policy independence, but rather as an inherent aspect of the fact 
+
+that monetary policy works in the first instance through financial markets and financial 
+
+institutions.    
+
+The multifaceted nature of macroprudential policy and its interactions with the 
+
+governance of monetary policy have important consequences that are not yet fully 
+
+understood.  The interaction between financial stability and monetary policy, its 
+
+implications for central bank independence, and the resulting effects on macroeconomic 
+
+outcomes deserve extensive study that is already well under way but probably still in its 
+
+infancy.    
+
+                                                 
+28 In the U.K. case, all responsibility for supervision of the financial sector was taken away from the Bank 
+of England shortly after it was given its monetary policy independence; it was returned to the bank in the 
+reforms implemented after the outbreak of the global financial crisis. 
+
+
+ - 18 - 
+
+Conclusion 
+
+The economic environment has changed considerably in the quarter-century since 
+
+economists began the careful study of the theory and evidence on the potential benefits of 
+
+monetary policy independence.  Over that time, central bankers have had to make use of 
+
+their tools--some of them not used previously--to meet unprecedented challenges.  
+
+Without the independence to pursue their mandates, this work would have been 
+
+impossible.  But following the global financial crisis, we are living in a different world, 
+
+one in which issues of financial stability have moved out of the shadows and into the 
+
+center of our concerns.  The resulting challenges are only beginning to be understood--
+
+and they need to be understood and taken seriously if we are to reduce the probability of 
+
+future financial crises.   
+
+
+
+
+ - 19 - 
+
+References 
+
+Bank for International Settlements (2003). “Fiscal Issues and Central Banking in 
+Emerging Economies,” BIS Papers Series 20.  Basel, Switzerland:  BIS, October, 
+www.bis.org/publ/bppdf/bispap20.pdf. 
+
+Barro, Robert J., and David B. Gordon (1983). “Rules, Discretion and Reputation in a 
+Model of Monetary Policy,” Journal of Monetary Economics, vol. 12 (July), 
+pp. 101-21. 
+
+Board of Governors of the Federal Reserve System (2015), “Minutes of the Federal Open 
+Market Committee, September 16-17, 2015,” press release, October 8, 
+www.federalreserve.gov/newsevents/press/monetary/20151008a.htm. 
+
+Capie, Forrest, Stanley Fischer, Charles Goodhart, and Norbert Schnadt (1994).  The 
+Future of Central Banking: The Tercentenary Symposium of the Bank of England.  
+Cambridge, England:  Cambridge University Press. 
+
+Cecchetti, Stephen G. (2013).  “Central Bank Independence--A Path Less Clear,” 
+remarks prepared for the International Conference held to commemorate the 20th 
+anniversary of the autonomy of the Bank of Mexico, Mexico City, October 14, 
+www.bis.org/speeches/sp131014.pdf. 
+
+Clarida, Richard, and Mark Gertler (1997).  “How the Bundesbank Conducts Monetary 
+Policy,” in Christina D. Romer and David H. Romer, eds., Reducing Inflation: 
+Motivation and Strategy.  Chicago:  University of Chicago Press, pp. 363-412.    
+
+Clement, Piet (2010).  “The Term ‘Macroprudential’:  Origins and Evolution,” BIS 
+Quarterly Review (March), pp. 59-67, www.bis.org/publ/qtrpdf/r_qt1003h.pdf. 
+
+Crockett, Andrew (2000).  “Marrying the Micro- and Macro-Prudential Dimensions of 
+Financial Stability,” remarks before the Eleventh International Conference of 
+Banking Supervisors, Basel, Switzerland, September 21, 
+www.bis.org/review/rr000921b.pdf. 
+
+Crowe, Christopher, and Ellen Meade (2008).  “Central Bank Independence and 
+Transparency:  Evolution and Effectiveness,” European Journal of Political 
+Economy, vol. 24 (December), pp. 763-77. 
+
+Cukierman, Alex (2008). “Central Bank Independence and Monetary Policymaking 
+Institutions--Past, Present and Future,” European Journal of Political Economy, 
+vol. 24 (December), pp. 722-36. 
+
+Cukierman, Alex, Pantelis Kalaitzidakis, Lawrence H. Summers, and Steven B. Webb 
+(1993).  “Central Bank Independence, Growth, Investment, and Real Rates.”  
+Carnegie-Rochester Conference Series on Public Policy, vol. 39 (December), 
+pp. 95-140. 
+
+Cukierman, Alex, Steven B. Webb, and Bilin Neyapti (1992).  “Measuring the 
+Independence of Central Banks and Its Effect on Policy Outcomes,” World Bank 
+Economic Review, vol. 6 (September), pp. 353-98. 
+
+Debelle, Guy, and Stanley Fischer (1994).  “How Independent Should a Central Bank 
+Be?” proceedings of a conference sponsored by the Federal Reserve Bank of 
+Boston, Falmouth, Mass., June, pp. 195-221, 
+www.bostonfed.org/economic/conf/conf38/conf38f.pdf. 
+
+
+ - 20 - 
+
+Dincer, N. Nergiz, and Barry Eichengreen (2014).  “Central Bank Transparency and 
+Independence:  Updates and New Measures,” International Journal of Central 
+Banking, vol. 10 (March), pp. 189-253. 
+
+Dixit, Avinash K. (1996).  The Making of Economic Policy:  A Transaction-Cost Politics 
+Perspective.  Cambridge, Mass.:  MIT Press. 
+
+Fischer, Stanley (1995a).  “Modern Approaches to Central Banking,” NBER Working 
+Paper Series 5064.  Cambridge, Mass.:  National Bureau of Economic Research, 
+March. 
+
+-------- (1995b).  “Central-Bank Independence Revisited,” American Economic Review, 
+vol. 85 (May), pp. 201-06. 
+
+-------- (2010).  Contribution to panel discussion, in Christopher Kent and Michael 
+Robson, eds., Reserve Bank of Australia 50th Anniversary Symposium.  Sydney:  
+Reserve Bank of Australia, pp. 38-41, 
+www.rba.gov.au/publications/confs/2010/pdf/conf-vol-2010.pdf. 
+
+-------- (2014).  “Financial Sector Reform:  How Far Are We?” speech delivered as the 
+Martin Feldstein Lecture, National Bureau of Economic Research, Cambridge, 
+Mass., July 10, 
+www.federalreserve.gov/newsevents/speech/fischer20140710a.htm. 
+
+-------- (2015).  “Macroprudential Policy in the U.S. Economy,” speech delivered at 
+“Macroprudential Monetary Policy,” 59th Economic Conference of the Federal 
+Reserve Bank of Boston, Boston, October 2, 
+www.federalreserve.gov/newsevents/speech/fischer20151002a.htm. 
+
+Forder, James (1996).  “On the Assessment and Implementation of ‘Institutional’ 
+Remedies,” Oxford Economic Papers, vol. 48 (January), pp. 39-51. 
+
+Gerberding, Christina, Andreas Worms, and Franz Seitz (2004).  “How the Bundesbank 
+Really Conducted Monetary Policy:  An Analysis Based on Real-Time Data,” 
+Discussion Paper Series 1:  Studies of the Economic Research Centre 25/2004.  
+Frankfurt:  Deutsche Bundesbank, 
+www.bundesbank.de/Redaktion/EN/Downloads/Publications/Discussion_Paper_1
+/2004/2004_09_23_dkp_25.pdf?__blob=publicationFile. 
+
+Joyce, Michael A. S., Peter Lildholdt, and Steffen Sorensen (2010).  “Extracting Inflation 
+Expectations and Inflation Risk Premia from the Term Structure:  A Joint Model 
+of the UK Nominal and Real Yield Curves,” Journal of Banking & Finance, 
+vol. 34 (February), pp. 281-94. 
+
+Kydland, Finn E., and Edward C. Prescott (1977).  “Rules Rather than Discretion:  The 
+Inconsistency of Optimal Plans,” Journal of Political Economy, vol. 85 (June), 
+pp. 473-92. 
+
+Posen, Adam S. (1995).  “Declarations Are Not Enough:  Financial Sector Sources of 
+Central Bank Independence,” in Ben S. Bernanke and Julio J. Rotemberg, eds., 
+NBER Macroeconomics Annual, vol. 10.  Cambridge, Mass.:  MIT Press, 
+pp. 253-74. 
+
+Powell, Jerome (2015).  “ ‘Audit the Fed’ and Other Proposals,” speech delivered at the 
+Catholic University of America, Columbus School of Law, Washington, 
+February 9. www.federalreserve.gov/newsevents/speech/powell20150209a.htm. 
+
+
+ - 21 - 
+
+Rogoff, Kenneth (1985).  “The Optimal Degree of Commitment to an Intermediate 
+Monetary Target,” Quarterly Journal of Economics, vol. 100 (November), 
+pp. 1169-89. 
+
+Stein, Herbert (1969).  The Fiscal Revolution in America.  Chicago:  University of 
+Chicago Press. 
+
+Svensson, Lars (2015). “Cost-Benefit Analysis of Leaning against the Wind,” 
+presentation delivered at the AQR Institute of Asset Management event 
+“Perspectives:  Unprecedented Monetary Policy Intervention,” London Business 
+School, London, June 25, http://larseosvensson.se/2015/06/25/cost-benefit-
+analysis-of-leaning-against-the-wind-2/. 
+
+Tarullo, Daniel K. (2014).  “Monetary Policy and Financial Stability,” speech delivered 
+at the 30th Annual National Association for Business Economics Economic 
+Policy Conference, Arlington, Va., February 25, 
+www.federalreserve.gov/newsevents/speech/tarullo20140225a.htm. 
+
+Tinbergen, Jan (1952).  On the Theory of Economic Policy.  Amsterdam:  North‐Holland. 
+Walsh, Carl E. (1995). “Optimal Contracts for Central Bankers,” American Economic 
+
+Review, vol. 85 (March), pp. 150-67. 
+ 
+
+
+

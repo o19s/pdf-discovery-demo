@@ -1,0 +1,669 @@
+
+
+
+For release on delivery 
+
+Noon EDT 
+
+October 20, 2014 
+
+
+
+
+
+
+
+
+Good Compliance, Not Mere Compliance 
+
+
+Remarks by 
+
+
+Daniel K. Tarullo 
+
+
+Member 
+
+
+Board of Governors of the Federal Reserve System 
+
+
+at the 
+
+Federal Reserve Bank of New York Conference, “Reforming Culture and Behavior in the 
+
+Financial Services Industry” 
+
+
+
+New York, N.Y.
+
+
+
+
+
+In the aftermath of the financial crisis, ongoing increases in capital buffers, reductions in 
+
+funding vulnerabilities, improvements in risk management, and attention to orderly resolution 
+
+are producing a substantially more resilient financial system.  Yet even as the financial position 
+
+of firms has been strengthened, headlines describing misconduct in financial firms have appeared 
+
+with disturbing regularity.  For a time, these stories were the legacy of pre-crisis errors and 
+
+misdeeds, with a focus on the mortgages and mortgage-related products that lay at the heart of 
+
+the crisis.  But soon they were accompanied by allegations of post-crisis actions: rigging of 
+
+LIBOR (London interbank offered rate) and foreign exchange rates, facilitation of tax evasion, 
+
+inadequate controls on money laundering, and front running through dark pools, among others. 
+
+A pattern of antitrust, market regulatory, and consumer protection problems would of 
+
+course be troubling in any firm or industry.  From a prudential regulatory perspective, such a 
+
+pattern in financial institutions creates additional concerns, particularly as it poses a threat to 
+
+continued progress toward a safer and more stable financial system.  It is noteworthy that 
+
+supervisory assessments of risks to the earnings and balance sheets of major financial institutions 
+
+have, like those of many private analysts, placed increasing emphasis on exposure to public fines 
+
+and private litigation losses.  And senior management is surely diverted from the challenges of 
+
+fashioning sound business strategies when major legal problems arise. 
+
+Behind much of this malfeasance lies something other than the excessive credit and 
+
+market risk that led to the crisis itself, although there may be some common roots of these 
+
+problems.  The hypothesis that this is all the result of “a few bad apples,” an explanation I heard 
+
+with exasperating frequency a year or two ago, has I think given way to a realization within 
+
+many large financial firms that they have not taken steps sufficient to ensure that the activities of 
+
+their employees remain within the law and, more broadly, accord with the values of probity,
+
+
+- 2 - 
+
+
+
+
+customer service, and ethical conduct that most of them espouse on their websites and in their 
+
+television commercials.  
+
+Today’s conference addresses the sources of the problems and some of the corrective 
+
+measures that have been, or might be, taken by both firms and regulators.  While the title of the 
+
+conference refers to both “culture” and “behavior,” I am going to focus mostly on the behavior 
+
+that regulators and the public can observe, since culture is a somewhat contested academic 
+
+concept and, however defined, is difficult to observe and assess from the outside.  It is the 
+
+behavior of the employees of banking organizations with which we, as regulators, are ultimately 
+
+concerned, since it is only through its employees that a firm can act.  Where there is significant 
+
+incidence of behavior that violates laws or regulations, or runs afoul of supervisory guidance, 
+
+then we will need to consider some combination of tougher sanctions, additional regulation, or 
+
+more intrusive supervisory oversight.   
+
+After stating a few general premises relating to the manifold influences upon behavior in 
+
+financial firms, I will briefly address two topics: first, what regulators have learned about the 
+
+shaping of behavior within the firm from our work on risk management and, second, the role of 
+
+reward and punishment systems in affecting employee behavior. 
+
+Influences on Behavior 
+
+Without attempting a rigorous definition of “culture” or “corporate culture,” I think we 
+
+can usefully posit that in every organization there is a set of norms that appear to inform 
+
+behavior of those within the organization, even in the absence of explicit and specific rules or 
+
+instructions.  These norms are of course related to the rules, guidelines, structures, incentives, 
+
+and punishments that the organization creates.  Indeed, one important determinant of behavior is 
+
+the shared expectation as to which of the stated values and rules of an organization will be 
+
+
+- 3 - 
+
+
+
+
+supported and reinforced by management action, and which are generally regarded as window 
+
+dressing.  The identifiable norms may well differ within an organization, especially a large one 
+
+in which different functions are performed in pursuit of overall organizational ends.   
+
+Debates over the sources and nature of these norms are the stuff of the academic 
+
+literature to which I referred a moment ago.  I will not attempt to synthesize this learning, much 
+
+less to fashion my own theory.  Again, though, I think one can pragmatically note that these 
+
+norms are shaped by both internal choices and external influences and constraints.   
+
+For a private, profit-making corporation the most important internal choices are 
+
+obviously made by management under the oversight of the board of directors.  However, the 
+
+revealed preferences and choices of employees will also affect a firm’s culture.  For a financial 
+
+institution, external influences and constraints include shareholders and market analysts, 
+
+regulators, prosecutors, elected officials, the media, and the public.  Market conditions and the 
+
+actions of competitors can also be significant.   
+
+Nature of Risk Management 
+
+Financial risk-taking is arguably the fundamental activity of financial intermediaries.1  
+
+Unlike most non-financial firms, a financial institution more or less continually makes risk 
+
+decisions, whose implications can vary significantly based on the nature of the asset involved, 
+
+market conditions, counterparty identity, and many other factors.  The processes by which risk 
+
+appetites are set and activity managed so as to conform to these risk appetite decisions are central 
+
+to determining outcomes, and thus the firm’s near-term profitability and longer-term stability. 
+
+For these reasons, there is considerable regulatory interest in these processes, an interest 
+
+that has been formalized in the Federal Reserve’s annual Comprehensive Capital Analysis and 
+
+                                                 
+1 Intermediaries without sizeable balance sheets of their own, such as mutual funds, may not themselves be 
+
+assuming risk, but they are creating it for their investors. 
+
+
+- 4 - 
+
+
+
+
+Review (CCAR) and informs the emphasis of our supervision throughout the year.  Each year, in 
+
+conjunction with our supervisory stress tests, we provide an assessment to every participating 
+
+firm of their risk-management and capital planning processes, indicating where specific 
+
+improvements are needed.  The interactions between supervisors and firms on these matters are 
+
+extensive, focused, and consequential.  For this reason, I think we have gained considerable 
+
+insight into, if not precisely the “culture” of the firms, then at least the attitudes of senior and 
+
+mid-level management toward these risk functions.  
+
+In some firms the attitude we perceive is one of a mere compliance exercise.  The firm 
+
+proceeds to address the deficiencies identified by the Fed in a discrete, almost check-the-box 
+
+fashion.  To oversimplify a bit, I would say that our sense is that management at these firms 
+
+wants the hurdle to capital distribution removed, but once the specific problems have been 
+
+remedied, they want to move on.  If this is the attitude we perceive, I suspect the working level 
+
+employees of such firms do the same.  The supervisory reaction in such cases is quite likely to be 
+
+an inclination toward greater scrutiny. 
+
+Other firms, by contrast, seem to have internalized the aims of the risk-management 
+
+processes and systems that we expect of them.  In these firms the dialogue can be quite different, 
+
+with supervisors observing that, even as a specific problem is addressed, such as deficiencies in 
+
+estimating losses for a particular loan portfolio in a tail event, the firm has gone back to think 
+
+about how the identified shortcomings fit into their overall risk decision-making and 
+
+management processes.  These firms will, on their own, then consider whether changes in other 
+
+areas are needed.  Again, I suspect that the line employees in these firms are also hearing a 
+
+different message and presumably, to at least some degree, will behave in accordance with that 
+
+
+- 5 - 
+
+
+
+
+message when they encounter risk-management issues not covered specifically by Fed 
+
+communications. 
+
+Needless to say, nothing here is meant to suggest that a focus on compliance is 
+
+problematic.  On the contrary, particularly as applied to areas like antitrust, securities laws, and 
+
+consumer protection, well-crafted compliance programs are essential.  But what we want to see 
+
+is good compliance, not mere compliance.  As in financial risk management, the perceived 
+
+importance of what appear to be similar compliance efforts can vary greatly across firms.  Are 
+
+compliance programs put in place by risk managers or general counsels understood as a kind of 
+
+background noise that should not drown out the voices urging employees to “make their 
+
+numbers,” or are they seen as reflecting the views and priorities of senior management? 
+
+A related question is whether compliance with applicable law or regulations is 
+
+understood to be just that, and that alone.  Do employees understand their job to be maximizing 
+
+revenues in any way possible so long as they do not do anything illegal, or do they understand 
+
+their job to be maximizing revenues in a manner consistent with a broader set of considerations?  
+
+In the former case, the message is that the law is a constraint to be observed, but that the 
+
+purposes or values that underlie it have no additional importance for determining corporate 
+
+activity.  It may not be too great a leap from this attitude to a conscious weighing of the 
+
+profitability of a particular practice that violates laws or regulations against the penalty that 
+
+would be assessed for the violation, discounted by the probability of enforcement.   
+
+In the latter case, the message to employees is that constraints on practices or products 
+
+may be self-imposed as well as external.  The potential sources of such internal constraints are 
+
+manifold.  For example, there might be a fear that always running close to the line will inevitably 
+
+result in swerving over it at some point.  Or management may worry that reputational harm will 
+
+
+- 6 - 
+
+
+
+
+result if clients and customers believe the firm is always seeking an advantage over them that, 
+
+literally or metaphorically, is buried in the fine print.   
+
+This second concern recalls the much-discussed issue of whether a trading mentality has 
+
+migrated to other parts of large financial firms, so that the position communicated by 
+
+management to both employees and others is that the firm has no “customers” or “clients,” only 
+
+counterparties.  While such an attitude is typical for trading in anonymous markets or with 
+
+equally sophisticated institutions, it hardly seems designed to engender trust on the part of those 
+
+who have ongoing relationships with the firm.  This tendency may pose another challenge in 
+
+managing complex banking organizations—the need to foster different kinds of norms and 
+
+expectations across the different parts of the firm, which may do business with individuals and 
+
+institutions of widely varying financial expertise. 
+
+To encourage behavior among their employees that reflects something other than a 
+
+narrow mentality of compliance and constraint, firms need to take tangible steps that reinforce 
+
+stated norms such as respect for customers.  Some interesting possibilities along these lines are 
+
+suggested in a recent book by Thomas Huertas, a former U.K. banking regulator.2  Although 
+
+Huertas focuses directly on how banks can avoid suffering losses from conduct and operational 
+
+risks, his proposals would also serve the purpose just noted.  One idea is that firms develop a 
+
+score for conduct risk.  While analogous to long-established scoring systems for credit risk, this 
+
+method would, in his words, “include ranking the business or product against factors that 
+
+frequently give rise to conduct issues, including without limitation the sophistication of the 
+
+customer, the complexity of the product, the level of training of the staff, and so on.”  A second, 
+
+complementary idea is for the firm to have a formal system in place to, again in Huertas’ words, 
+
+                                                 
+2 Thomas Huertas (2014), Safe to Fail (London: Palgrave Macmillan), pp. 158-59. 
+
+
+- 7 - 
+
+
+
+
+“monitor adherence to the original product approval criteria, especially where the product is 
+
+growing rapidly and/or is generating extraordinary profits.” 
+
+These particular ideas may or may not be best for specific firms.  The point, though, is 
+
+that some concrete organizational systems are needed for firms to carry into effective action the 
+
+goals or values that they nominally espouse. 
+
+Before leaving this topic, I want to observe that regulators can unwittingly reinforce what 
+
+I have termed a mere compliance mentality.  I would first note that the detail of many regulations 
+
+means that attention to narrow issues of compliance is sometimes wholly understandable and, 
+
+indeed, essential.  Banks, like other regulated entities, need to be able to determine how a 
+
+regulation actually applies to them.  Beyond that kind of unavoidable focus on narrow 
+
+compliance, however, management and line employees are more likely to adopt a mere 
+
+compliance mentality where regulations appear to them to have been poorly drafted or 
+
+implemented.   
+
+Sometimes this too is unavoidable, since regulators may simply conclude that the public 
+
+interest requires a form of regulation opposed by the firm and most of its employees.  Sometimes 
+
+regulated firms are really complaining about the type or purpose of regulation, even when they 
+
+say they are only criticizing its specifics.  But in cases where those inside a firm would stipulate 
+
+the stated objective of the regulation and still find a regulation badly conceived or implemented, 
+
+there will be less possibility of internalization or integration into a broader set of firm norms and 
+
+expectations.  This is an outcome that regulators can avoid, and something with which the 
+
+regulated firms themselves can assist by pointing out what they would regard as more sensible 
+
+methods for achieving stated regulatory purposes. 
+
+
+
+
+- 8 - 
+
+
+
+
+Rewards and Punishments 
+
+ An important determinant of behavior in any organization is the system of rewards and 
+
+punishments applicable to its employees.  Assuming that they are able to discern factors that 
+
+generally explain patterns of hiring, raises, promotions, demotions, and dismissals, employees 
+
+receive very strong signals as to what those running the organization actually value.  This set of 
+
+signals has, I suspect, considerably more influence on employee behavior than a corporate 
+
+statement of values or purposes, particularly if the system of rewards and punishments appears at 
+
+odds with that statement.   
+
+Indeed, the significance of reward and punishment signals is probably magnified by their 
+
+role in shaping the composition of the firm’s workforce—by influencing which people are 
+
+attracted to work at the firm in the first place, which acquire more authority over time, and which 
+
+are asked to leave.  To take one example: if a financial firm’s recruitment of young professionals 
+
+is driven almost entirely by promises of the large amounts of money they can make and the 
+
+speed with which they can make it, then the firm should not be too surprised when those same 
+
+young professionals give short shrift to values such as respect for customers, or skirt risk-
+
+management guidelines, or perhaps even ignore regulatory and legal compliance requirements.   
+
+One topic within this broader area of reward and punishment that has received 
+
+considerable attention is incentive compensation.  The deleterious effects of many incentive 
+
+compensation arrangements were recognized by firms well before regulators began to focus on 
+
+them in earnest following the financial crisis, as reflected in a survey conducted early in 2009 on 
+
+behalf of the Institute of International Finance, which reported that all but one of 37 large 
+
+banking organizations believed that compensation practices were a factor underlying the crisis.3 
+
+                                                 
+3 Institute of International Finance (2009), Compensation in Financial Services: Industry Progress and the Agenda 
+
+for Change (Washington: IIF, March). 
+
+
+- 9 - 
+
+
+
+
+Compensation arrangements that created high-powered incentives using rewards 
+
+dominantly based on equity had their origins in efforts to align better management and 
+
+shareholder interests.  And compensation arrangements that rewarded incentives for loan officers 
+
+to write more loans or traders to generate more trading revenue were grounded in efforts to 
+
+increase firm profitability.  But the revenues that served as the basis for calculating bonuses were 
+
+generated immediately, while the risks associated with these revenues might not have been 
+
+realized for months or years after the transactions were completed.  When these or similarly 
+
+misaligned incentive compensation arrangements were common in a firm, the very purpose of 
+
+sound risk management could be undermined by the actions of employees seeking to maximize 
+
+their own pay. 
+
+Since the financial crisis, both firms and regulators have devoted considerable attention 
+
+to incentive compensation practices for senior managers and others with substantial decision-
+
+making authority.  Several years ago the bank regulatory agencies issued guidance on incentive 
+
+compensation and then began a horizontal monitoring of practices at large banking 
+
+organizations.4  Prior to the crisis, incentive compensation arrangements at many firms 
+
+incorporated virtually no adjustment for risk.  Today, firms routinely take into consideration 
+
+adverse outcomes.  A greater proportion of pay is deferred, and a greater proportion of that pay is 
+
+at risk of a variety of clawback and forfeiture provisions.   
+
+There is still considerable work to be done in developing and implementing incentive 
+
+compensation arrangements that truly give appropriate incentives to employees.  In many cases 
+
+risk metrics need to be better targeted to specific activities, and risk adjustments should be more 
+
+                                                 
+4 See Board of Governors of the Federal Reserve System, Office of the Comptroller of the Currency, Office of Thrift 
+
+Supervision, and Federal Deposit Insurance Corporation (2010), “Federal Reserve, OCC, OTS, FDIC Issue Final 
+
+Guidance on Incentive Compensation,” press release, June 21, 
+
+www.federalreserve.gov/newsevents/press/bcreg/20100621a.htm. 
+
+
+- 10 - 
+
+
+
+
+consistently applied.  And it is important that compensation arrangements, including clawback 
+
+and forfeiture provisions, cover risks associated with market conduct and consumer protection, 
+
+as well as credit and market risks.  These kinds of improvements would give more precise 
+
+signals to employees as to the risk calculus expected of them in making decisions that affect the 
+
+firm.  I hope the long-awaited interagency final rule implementing section 956 of the Dodd-
+
+Frank Wall Street Reform and Consumer Protection Act will be forthcoming in the not-too-
+
+distant future, so as to provide a common objective baseline for incentive compensation 
+
+programs. 
+
+Beyond regulatory and supervisory requirements, however, there is obviously more that 
+
+firms can do to use their compensation practices to encourage certain practices and conduct by 
+
+employees.  For example, firms might reward employees with increased compensation or 
+
+promotion not just for increasing revenues, but also for forestalling losses, such as by identifying 
+
+non-obvious risks in proposed transactions or products.  In order to be effective signals, though, 
+
+the fact of these rewards, and the standards under which they were granted, need to be 
+
+transparent. 
+
+Punishment systems provide the complement of negative incentives to the positive 
+
+incentives created by compensation and promotion practices (even where qualified by clawback 
+
+or similar provisions).  Here the role of the government differs.  With respect to positive 
+
+incentives, regulators affect individuals only by way of requirements or expectations for firms.  
+
+When it comes to disincentivizing egregious bad behavior, however, the government can play a 
+
+more direct role.  Because of the required standard of proof and other constitutional protections, 
+
+criminal prosecutions of individuals are harder to bring successfully than criminal prosecutions 
+
+of firms.  But, as I think was learned decades ago when individuals were criminally prosecuted 
+
+
+- 11 - 
+
+
+
+
+and imprisoned for antitrust law violations, it is difficult to imagine a more effective deterrent to 
+
+such conduct. 
+
+Banking regulators do not have criminal enforcement powers, of course.  But we can, and 
+
+do, require dismissal of employees as part of our enforcement actions against firms.  And we do 
+
+have the authorities to remove malefactors from their positions in any institution that we regulate 
+
+and to prohibit them from working in the banking industry.  Somewhat like criminal 
+
+prosecutions, these are not easy cases to make.  But it is important that we be willing to expend 
+
+the resources to initiate such actions in appropriate cases.   
+
+For quite some time, large banking organizations usually dismissed employees who had 
+
+engaged in significant misconduct or exercised very bad judgment in a quiet, almost surreptitious 
+
+way.  This was particularly true of someone in a responsible position, who would be ushered out 
+
+the door discreetly, with no recognition internally or externally of the fact of dismissal, or the 
+
+reasons behind it.  Frequently, this person would turn up at another financial firm not long 
+
+thereafter.  The dismissing firm’s reasoning was that any public awareness of the dismissal could 
+
+hurt the reputation of the firm and perhaps cause customers or counterparties to rethink their 
+
+willingness to do business with it.  But the effect of this private way of doing things was to signal 
+
+the rest of the firm’s employees that dismissal, even for very serious reasons, carried quite 
+
+manageable consequences. 
+
+At least some firms are rethinking this traditional approach, though different banks seem 
+
+to be reaching different conclusions about what to put in its place.  Some are moving toward a 
+
+more public system of dismissals, so as to let employees, regulators, and other potential 
+
+employers know of the consequences of malfeasance and the identity of the responsible 
+
+individual.  Others are inclined toward the view that, because most serious infractions in a firm 
+
+
+- 12 - 
+
+
+
+
+involve failures by many people and systems, there should not be excessive emphasis on the 
+
+culpability of just one or two individuals.  They are opting instead for a more transparent internal 
+
+process to dissect the failures of action, judgment, and oversight that lay behind a significant 
+
+problem, and then act more broadly in applying disciplinary or remedial measures.  Whatever 
+
+approach a firm takes, it is important that the consequences of violations of a firm’s norms and 
+
+expectations, much less regulations and laws, be well-specified and clearly communicated to 
+
+employees. 
+
+Conclusion 
+
+In these very selective remarks on the factors that affect employee behavior, I have 
+
+intentionally concentrated on the roles of management and regulators.  I realize, of course, that 
+
+there are other forces at work.  There is, for example, an interesting debate among corporate law 
+
+professors as to the merits of giving shareholders more direct influence over firm policies, in 
+
+order to reduce agency costs within the firm.  Some fear that this would focus employees of 
+
+financial firms even more on short-term equity market movements, with potential bad effects on 
+
+both conventional risk management and the kinds of conduct problems noted at the outset of my 
+
+remarks.   
+
+Those broader concerns are relevant, to be sure, but they implicate a broader set of actors 
+
+than the banks themselves, or even bank regulators.  My expectation is that if banks do not take 
+
+more effective steps to control the behavior of those who work for them, there will be both 
+
+increased pressure and propensity on the part of regulators and law enforcers to impose more 
+
+requirements, constraints, and punishments.  
+

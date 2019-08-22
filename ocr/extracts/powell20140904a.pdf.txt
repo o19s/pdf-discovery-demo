@@ -1,0 +1,617 @@
+
+For release on delivery 
+
+7:00 p.m. EDT 
+
+September 4, 2014 
+
+
+
+
+
+
+
+
+
+Reforming U.S. Dollar LIBOR:  The Path Forward 
+
+
+
+
+Remarks by 
+
+
+Jerome H. Powell 
+
+
+Member 
+
+
+Board of Governors of the Federal Reserve System 
+
+
+at the 
+
+
+Money Marketeers of New York University 
+
+
+New York, New York 
+
+
+
+
+
+
+
+
+September 4, 2014 
+
+
+
+
+
+Thank you for giving me this opportunity to speak this evening.  I would like to 
+
+discuss ongoing efforts to reform the current structure and uses of the London Interbank 
+
+Offered Rate, commonly referred to as LIBOR.  These reforms affect not only the 
+
+financial industry, but also a large number of U.S. households and corporations.   
+
+LIBOR is a reference rate.  When two parties enter a financial contract in which 
+
+interest payments are to be exchanged, they frequently choose to base those payments on 
+
+LIBOR.  LIBOR is currently referenced in roughly $300 trillion worth of contracts 
+
+globally, which means that it is part of the global financial system’s critical 
+
+infrastructure.1  But LIBOR’s credibility was badly undermined by the scandal that 
+
+erupted when some of the banks that help produce the rate attempted to manipulate it by 
+
+contributing inaccurate estimates of their borrowing costs.  These illegal actions helped 
+
+damage the public’s trust not just in LIBOR, but also in financial markets and institutions 
+
+more broadly.   
+
+In response, a number of global efforts to reform reference rates have been 
+
+undertaken.  LIBOR is produced and administered in London.  As a result of the steps 
+
+taken by the government of the United Kingdom, LIBOR is now regulated and 
+
+supervised by the U.K. Financial Conduct Authority (FCA).  The International 
+
+Organization of Securities Commissions (IOSCO) developed a broad set of 19 principles 
+
+that reference rates and other financial benchmarks are now expected to meet.2  Building 
+
+on this work, in July, the Financial Stability Board (FSB) released a report outlining a 
+
+                                                 
+1 For more information on the role of LIBOR in the global financial system, see Wheatley Review (2012), 
+
+The Wheatley Review of LIBOR:  Final Report (London:  HM Treasury, September), 
+
+www.gov.uk/government/uploads/system/uploads/attachment_data/file/191762/wheatley_review_libor_fin
+
+alreport_280912.pdf. 
+2 Details on the principles may be found in Board of the International Organization of Securities 
+
+Commissions (2013), Principles for Financial Benchmarks:  Final Report (Madrid:  Board of IOSCO, 
+
+July), www.iosco.org/library/pubdocs/pdf/IOSCOPD415.pdf. 
+
+
+ - 2 - 
+
+number of further reform proposals.3  Continuing the work of my former Fed colleague 
+
+Jeremy Stein, I recently took over as co-chair--along with Martin Wheatley, chief 
+
+executive officer of the FCA--of the international group that drafted the report and is now 
+
+charged with implementing its recommendations.4  Today I will discuss the reasons why 
+
+further reforms are necessary and how those reforms should proceed, and I will focus on 
+
+U.S. dollar LIBOR.5  As is made clear in the FSB report, while the goals and principles 
+
+of the official sector participants are uniform, specific plans for reference rate reform will 
+
+vary by currency, depending on differences in markets and institutions. 
+
+I will share my conclusion at the outset.  While there have been significant 
+
+reforms, much remains to be done.6  First, U.S. dollar LIBOR needs to be updated to 
+
+reflect current practices in unsecured funding markets and to be better anchored in actual 
+
+transactions.  Second, and equally important, regulators need to work with market 
+
+participants to encourage them to develop and adopt alternative reference rates that better 
+
+reflect the current structure of U.S. financial markets, in which borrowing and derivatives 
+
+transactions are much more likely to be secured with collateral.  Going forward, these 
+
+alternative rates could replace LIBOR as the reference rate for new interest rate 
+
+derivatives and some other contracts denominated in U.S. dollars.  These dual transitions 
+
+will need to be managed very carefully to avoid disrupting the financing markets on 
+
+which borrowers and lenders depend.  But I believe that they are crucial to strengthening 
+
+the stability of our financial system and to helping restore the public’s faith in its 
+
+                                                 
+3 For the FSB’s reform proposals, see Financial Stability Board (2014), Reforming Major Interest Rate 
+
+Benchmarks (Basel, Switzerland:  FSB, July), www.financialstabilityboard.org/publications/r_140722.pdf. 
+4 Former Federal Reserve Governor Jeremy C. Stein was the previous co-chair. 
+5 The views expressed here are my own and should not be taken to represent those of the FSB’s Official 
+
+Sector Steering Group or those of the Board of Governors of the Federal Reserve System. 
+6 LIBOR reform and the work still to be accomplished are discussed in Wheatley Review, The Wheatley 
+
+Review of LIBOR, in note 1. 
+
+
+ - 3 - 
+
+integrity.  This problem is not just Wall Street’s concern; every household with a LIBOR-
+
+linked mortgage and every corporation with a LIBOR-linked loan has an interest in more 
+
+robust U.S. dollar reference rates. 
+
+The Basics 
+
+I will take a few moments to explain the basic mechanics of LIBOR for those who 
+
+have not spent time on an interest rate swap desk.  For almost three decades, LIBOR was 
+
+run by the British Bankers’ Association.  Just a few months ago, a private corporation 
+
+called ICE Benchmark Administration (IBA) took over the daily production and 
+
+administration of the rate subject to the regulation and supervision of the FCA.  Today, 
+
+18 banks participate in the panel that contributes to the production of U.S. dollar LIBOR.  
+
+Each morning at 11 a.m. London time, those banks estimate the rate at which they could 
+
+borrow at several different maturities ranging from overnight up to a year, and they send 
+
+those estimates to IBA.  It is often the case that banks have recent transactions at some 
+
+but not all of these maturities.  Where there are no transactions, they submit estimates of 
+
+their borrowing costs based on their judgment.  In addition to U.S. dollar LIBOR, the rate 
+
+is produced in four other currencies--the euro, the yen, the British pound, and the Swiss 
+
+franc--although not all banks contribute rates in all currencies.  The administrator 
+
+provides specific instructions to the panel banks regarding their submissions; currently, 
+
+these instructions direct banks to reflect the perceived rate at which they could borrow 
+
+from another bank.7  The administrator collects these submissions and, after dropping the 
+
+highest and lowest quartiles at each maturity, publishes an average of the remaining 
+
+submissions as the U.S. dollar LIBOR rate for that day. 
+
+                                                 
+7 The actual question asks banks only about transactions of “reasonable market size.”  This size is not 
+
+defined and is left to banks’ judgment. 
+
+
+ - 4 - 
+
+Pervasive and Problematic 
+
+When the British Bankers’ Association standardized LIBOR in the 1980s for use 
+
+in interest rate products, I doubt that anyone could have imagined how pervasive it would 
+
+eventually become.  As I mentioned, there are an estimated $300 trillion in LIBOR 
+
+contracts, roughly half which reference dollar LIBOR.  In the United States, dollar 
+
+LIBOR is the reference rate used in most interest rate swaps and futures contracts, in 
+
+most floating-rate mortgages, in many commercial loans, and in structured products such 
+
+as mortgage- and asset-backed securities.  The list could go on and on, but the key point 
+
+is that LIBOR touches a large number of U.S. households and businesses. 
+
+Although LIBOR is currently used for all of these purposes, it is actually not 
+
+ideally suited for some of them.  LIBOR is designed to measure the costs of bank 
+
+borrowing for a panel of large banks.  The rate can be decomposed into a component that 
+
+reflects the general level of risk-free rates and a component that reflects a risk premium 
+
+related to the credit risk of the borrowing bank.  During the global financial crisis, the 
+
+credit risk component of LIBOR fluctuated dramatically, which meant that LIBOR 
+
+behaved quite differently from rates with no credit risk embedded in them, such as risk-
+
+free rates.   
+
+LIBOR is a less-than-ideal rate for most derivatives contracts and secured 
+
+borrowing because movements in the credit risk component do not reflect well the 
+
+underlying risks of those contracts.  However, LIBOR’s pervasiveness has become self-
+
+reinforcing.  Firms use LIBOR in contracts, even when it is less than ideal, because they 
+
+know they can hedge the resulting risk using highly liquid, LIBOR-based interest rate 
+
+swaps or other derivatives contracts.  And those derivatives markets are so liquid because 
+
+
+ - 5 - 
+
+most market participants use LIBOR as the reference rate in their financial contracts.  
+
+Because of the progression of this dynamic over time, and not because of some careful 
+
+design, LIBOR has spread well beyond its intended uses and become an important pillar 
+
+of the global financial system--perhaps too important. 
+
+In recent years, two separate developments have called into question the wisdom 
+
+of that arrangement.  I have already mentioned the first one--the emergence of a 
+
+pervasive pattern of attempted manipulation of LIBOR dating back many years.  This 
+
+misconduct was designed either to increase the potential profit of the submitting firms or 
+
+to convey a misleading picture of the relative health of such firms.  Since 2012, seven 
+
+financial institutions have settled related charges with the U.S. Commodity Futures 
+
+Trading Commission and the U.S. Department of Justice, and the cumulative penalties 
+
+and fines paid in the United States now stand at more than $3 billion.8  Global penalties 
+
+paid related to benchmark misconduct exceed $6 billion as investigations into reference 
+
+rate manipulation continue.  Although these penalties and fines are themselves 
+
+substantial, to my mind the longer-term damage to the public’s trust represents the greater 
+
+cost of this misconduct. 
+
+A second problem is that unsecured interbank borrowing has been in a secular 
+
+decline that predates the global financial crisis.  Changes in bank behavior following the 
+
+crisis exacerbated the decline and further weakened the foundation of LIBOR.  The result 
+
+is a scarcity, or outright absence in longer tenors, of actual transactions that banks can use 
+
+to estimate their daily submission to LIBOR.  Ongoing regulatory reforms and the shift 
+
+away from unsecured funding raise the possibility that unsecured interbank borrowing 
+
+                                                 
+8 The seven firms that have settled consist of five banks (Barclays, Lloyds Bank, Rabobank, RBS, and 
+
+UBS) and two brokers (ICAP and RP Martin). 
+
+
+ - 6 - 
+
+transactions may become even more infrequent in the future.  While it is also possible 
+
+that activity in these markets could rebound, the threat that this form of borrowing may 
+
+decline further, particularly in periods of stress, seems likely to remain. 
+
+So let me pose a question:  Is it wise to rely on a critical benchmark that is built 
+
+on a market in decline?  Clearly not.  The risks to market functioning are simply too 
+
+great.  For example, market activity could decline to the point where publication of a rate 
+
+becomes untenable.  And many of the panel banks have expressed concerns about the 
+
+ongoing legal risks of remaining on the panel.  If the publication of LIBOR were to 
+
+become untenable or if we were to simply “end LIBOR,” as some have urged, untangling 
+
+the $150 trillion in outstanding U.S. dollar LIBOR contracts would entail a protracted, 
+
+expensive, and uncertain process of negotiating amendments to an enormous number of 
+
+complex documents--a horrible mess and a feast for the legal profession, to be sure.  It 
+
+does not help matters that the hundreds of trillions of dollars’ worth of derivatives 
+
+contracts referencing LIBOR do not, in general, have robust backups in the event that 
+
+publication of a rate ceases.   
+
+The FSB report identifies ways to improve U.S. dollar LIBOR, and to create 
+
+alternatives to it, while minimizing transition costs, particularly for end users who bear 
+
+no blame for the misconduct.  The proposed reforms come down to two simple ideas.  
+
+First, U.S. dollar LIBOR needs to be redefined to include a broader range of transaction 
+
+types.  Doing so will make it more robust and will allow it to reflect actual bank funding 
+
+costs, which is what the rate was intended to do in the first place.  Second, we need to 
+
+promote robust alternatives to U.S. dollar LIBOR that better reflect the secured nature of 
+
+many of today’s financial market transactions.   
+
+
+ - 7 - 
+
+Updating U.S. Dollar LIBOR 
+
+Let me first address the efforts the Federal Reserve is considering, in cooperation 
+
+with the LIBOR administrator and U.K. authorities, to update the mechanics of U.S. 
+
+dollar LIBOR.  Our aim is to make LIBOR more robust and more representative of 
+
+current bank funding costs.  In this regard, we have considered two important attributes 
+
+of LIBOR--its definition and the data used to produce it.   
+
+While the current definition of LIBOR is limited to unsecured borrowing between 
+
+banks, LIBOR is actually intended to represent the overall cost of banks’ unsecured 
+
+borrowing.  At the time LIBOR was created, a substantial amount of that unsecured 
+
+borrowing was in the interbank market, but that is no longer the case.  Broadening the 
+
+definition to include the unsecured borrowing from nonbanks would make the rate more 
+
+representative of current funding practices.  Changing the definition of LIBOR, as has 
+
+been done in the past, would acknowledge the fact that a reference rate must adapt to 
+
+continue to represent what it is meant to measure.9   
+
+Updating the definition of U.S. dollar LIBOR could also allow other sources of 
+
+transactions data to be incorporated into it.  Potentially, we could even move away from 
+
+the current panel-based method of calculating U.S. dollar LIBOR to a rate that is fully 
+
+transactions based.  In April, the Federal Reserve began collecting data from banks on a 
+
+                                                 
+9 For a reference to a past change in LIBOR, see the British Bankers’ Association’s website “BBA LIBOR” 
+
+at www.bbalibor.com/disclaimer/explained/historical-perspective.  The design of BBA LIBOR has seen 
+
+one significant change since its inception.  Up until 1998, banks submitted quotes to the BBA LIBOR 
+
+process in line with the question “At what rate do you think interbank term deposits will be offered by one 
+
+prime bank to another prime bank for a reasonable market size today at 11 am?”  During 1998, this 
+
+question changed and has, up until today, been as follows:  “At what rate could you borrow funds, were 
+
+you to do so by asking for and then accepting inter-bank offers in a reasonable market size just prior to 
+
+11 am?”  This decision was made after consultation with the markets and was implemented due to a view 
+
+that a universal definition of a prime bank could no longer be given.  It also links the figures submitted by 
+
+banks to their own market activity rather than a hypothetical entity.  For a reference to the usefulness of the 
+
+adaptability of reference rates, see Board of IOSCO, Principles for Financial Benchmarks, p. 12, in note 2. 
+
+
+ - 8 - 
+
+variety of unsecured transactions.  These data, along with other available data, will help 
+
+us understand whether there is enough borrowing activity to support a fully transactions-
+
+based rate.10  It will take some time to assess these data and, in particular, to analyze the 
+
+depth of the markets under different conditions and during different times of the year.  
+
+But preliminary analysis, which is reinforced by research done by the Market Participants 
+
+Group (MPG) that was assembled by the FSB, suggests that there may be enough 
+
+borrowing activity to create a transactions-based U.S. dollar LIBOR rate.   
+
+Basing U.S. dollar LIBOR more on transactions could modestly increase the 
+
+volatility of the rate.  However, I see nothing wrong with a reference rate that more 
+
+accurately reflects the volatility of the market it represents.  We are working closely with 
+
+the LIBOR administrator, IBA, and with its regulator, FCA, to explore these issues.  In 
+
+this regard, cooperation with IBA is crucial if LIBOR is to be strengthened--U.S. dollar 
+
+LIBOR is produced in the United Kingdom and is not regulated here in the United States.  
+
+The IOSCO review found that IBA has made progress in implementing most of the 
+
+19 IOSCO principles; the changes I have discussed are designed to continue this 
+
+progress, and I believe that IBA is well motivated to continue its efforts.11   
+
+Alternatives Needed 
+
+Improving U.S. dollar LIBOR alone cannot eliminate all of the weaknesses in the 
+
+current system.  In the FSB’s opinion and that of the MPG, a large portion of the 
+
+derivatives that currently reference U.S. dollar LIBOR would be better served by 
+
+                                                 
+10 For the report form used to collect these data, see Board of Governors of the Federal Reserve System, 
+
+FR 2420, Report of Selected Money Market Rates, 
+
+www.federalreserve.gov/reportforms/formsreview/FR2420_20140401_f.pdf.   
+11 The results of the IOSCO review are reported in Board of the International Organization of Securities 
+
+Commissions (2014), Review of the Implementation of IOSCO’s Principles for Financial Benchmarks by 
+
+Administrators of Euribor, Libor and Tibor (Madrid:  Board of IOSCO, July), available at 
+
+www.financialstabilityboard.org/publications/r_140722a.htm. 
+
+
+ - 9 - 
+
+referencing a risk-free (or nearly risk-free) rate based on a robust and liquid underlying 
+
+market.  These transactions are more appropriately linked to a narrower measure of 
+
+interest rates that does not include a bank credit risk component.  Encouraging 
+
+alternatives that better reflect today’s funding markets would also allow for greater 
+
+choice, increase the resilience of the system, and would potentially make hedging of 
+
+some risks less costly.  In addition, the incentive to manipulate LIBOR would be 
+
+substantially reduced if a smaller share of the multi-hundred-trillion-dollar derivatives 
+
+market was referencing it. 
+
+Some possible alternatives include rates based on the U.S. Treasury market or 
+
+rates based on the secured funding markets that have replaced much of the borrowing 
+
+banks used to do in the unsecured interbank market.  The Federal Reserve is not seeking 
+
+to dictate the particular rate that financial markets adopt.  Instead, we will encourage key 
+
+market participants to further the work done by the FSB’s MPG by narrowing down the 
+
+list of alternatives and developing them into robust reference rates that meet agreed-upon 
+
+international standards and best practices.12  There are enough suggestions on the MPG’s 
+
+list to inspire confidence that we should be able to find common ground.  Any alternative 
+
+would, of course, need to be in accord with the IOSCO principles mentioned earlier, and 
+
+some potential alternatives would take time to fully develop.  But the establishment of 
+
+alternative reference rates for certain products is in our shared interests and would 
+
+substantially strengthen the financial system.   
+
+                                                 
+12 For details on the MPG’s work, see Financial Stability Board (2014), Market Participants Group on 
+
+Reforming Interest Rate Benchmarks:  Final Report (Basel, Switzerland:  FSB, March), 
+
+www.financialstabilityboard.org/publications/r_140722b.pdf. 
+
+
+ - 10 - 
+
+We are strongly committed that at least one such rate be developed and actively 
+
+used as soon as practicable.  And we look forward to working with financial institutions 
+
+and other market participants to achieve this end. 
+
+In the near term, the Federal Reserve, along with other government agencies, 
+
+intends to meet with a wide range of market participants, including end users, to hear 
+
+their views as to how change can be effected and to begin the work of developing 
+
+alternatives to LIBOR.  Later this year, we will convene a group of the largest global 
+
+dealers to discuss these issues, following a model that was successfully used to promote 
+
+derivatives reform.  Searching for potential alternative rates and encouraging their use 
+
+will be a key point of that discussion.  Of course, end users will be affected by these 
+
+changes as well, and we will also consult closely with key participants outside of the 
+
+dealer community to make sure that reform meets their needs and is not disruptive to 
+
+them.  In particular, end users who want to continue to use LIBOR will certainly be able 
+
+to do so, and we will work toward the goal of ensuring that any changes to LIBOR will 
+
+not require borrowers or lenders to amend their existing contracts.  And the markets that 
+
+reference dollar LIBOR are so enormous that there will surely be more than enough 
+
+liquidity to support both a new risk free rate as well as LIBOR itself. 
+
+One of the lessons that I take from our study of LIBOR is that these existing 
+
+legacy contracts are quite important.  As I mentioned earlier, many financial contracts, 
+
+including derivatives contracts, do not have robust backups in the event that the reference 
+
+rates they use cease to exist.  Some derivatives, such as interest rate swaps, can be quite 
+
+long lasting, and, over a long enough period of time, there is always a risk that any given 
+
+reference rate will cease being published.  It is important that financial contracts address 
+
+
+ - 11 - 
+
+the need for a backup plan if a reference rate does cease to function.  This issue is 
+
+something that we intend to bring up with market participants and end users as we meet 
+
+with them.  
+
+Conclusion 
+
+My hope is that governments, market participants, and end users can work 
+
+together to build a stronger foundation for the reference interest rates that are so critical 
+
+to our financial system.  Implementation of these measures is clearly in the interest of 
+
+U.S. financial stability.  I also hope and expect that individual financial institutions will 
+
+understand that it is also in their private interests.  Reference rates are one of the 
+
+foundations of the financial system, and it is in the interest of everyone, from the 
+
+residential mortgage holder to the financial institutions that heavily use these rates, that 
+
+those foundations have integrity and be well constructed and resistant to manipulation.  
+
+As I said at the beginning, the problems with LIBOR have undermined the public’s trust 
+
+in the financial system.  In light of the need to regain that trust, I am certain that our 
+
+reform efforts will meet with the active cooperation of financial institutions in carrying 
+
+forward these reforms. 
+

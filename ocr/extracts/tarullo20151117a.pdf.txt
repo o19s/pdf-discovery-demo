@@ -1,0 +1,740 @@
+
+For release on delivery 
+3:30 p.m. EST 
+November 17, 2015 
+
+
+
+
+
+Thinking Critically about Nonbank Financial Intermediation 
+
+
+Remarks by  
+
+Daniel K. Tarullo 
+
+Member 
+
+Board of Governors of the Federal Reserve System 
+
+at the  
+
+Brookings Institution 
+
+Washington, D.C. 
+
+
+
+
+November 17, 2015  
+
+
+-1- 
+ 
+
+
+ The financial crisis highlighted two major vulnerabilities in the U.S. financial system.  
+
+First was the magnitude of the too-big-to-fail problem.  Second was the size and fragility of the 
+
+so-called shadow banking system and the extent to which shadow banking activities not subject 
+
+to prudential regulation were integrated with the regulated banking sector.  In the intervening 
+
+years, much has been done to address too-big-to-fail.  With regard to shadow banking concerns, 
+
+the specific forms related to mortgage lending that linked the regulated and unregulated sectors, 
+
+such as the notorious structured investment vehicles (SIVs), collapsed during the crisis.  Changes 
+
+in capital, accounting, and other regulatory standards make these arrangements very unlikely to 
+
+reappear.  Moreover, the kind of very large nonbank financial firms whose failures deepened the 
+
+crisis are now subject to consolidated prudential regulation and supervision.  So, in a quite direct 
+
+sense, the answer to the question posed by this conference of whether we are safer than before 
+
+the crisis is easy to answer in the affirmative. 
+
+ Of course, “safer” does not necessarily mean safe enough.  With respect to the largest 
+
+banks, we continue to pursue the aim of promoting orderly resolution through evaluation of their 
+
+resolution plans and through a long-term debt requirement, as proposed a few weeks ago.  In 
+
+addition, the banking agencies will be proposing a net stable funding ratio rule, aimed at assuring 
+
+adequate medium-term liquidity, in the next few months.  And the Federal Reserve is currently 
+
+engaged in a review of its annual stress testing and capital planning exercises, one goal of which 
+
+is to reflect better the range of risks confronted by these institutions. 
+
+ With respect to shadow banking, the subject of my remarks today, the circumstances are 
+
+somewhat different.  While the specific pre-crisis linkages to the regulated sector have been 
+
+removed or better regulated, the possibility of other connections remains.  More generally, risks 
+
+to financial stability may arise anew from activities mostly or completely outside the ambit of 
+
+
+-2- 
+ 
+
+
+prudentially regulated firms.  Shadow banking is not a single, identifiable “system,” but a 
+
+constantly changing and largely unrelated set of intermediation activities pursued by very 
+
+different types of financial market actors.  Indeed, the very rigor of post-crisis reforms to 
+
+prudential regulation may create new opportunities for such activities.  The aphoristic warning to 
+
+avoid too much emphasis on fighting the last war, since wholly new risks may have arisen, 
+
+seems particularly applicable in this area.   
+
+ Yet there is simultaneously the opposite danger that the regulatory response to shadow 
+
+banking will be too broad and too unidimensional.  Indeed, the very term “shadow banking” tilts 
+
+in that direction.  This afternoon, I will try to identify some of the considerations that could help 
+
+navigate between the perils of underappreciating the risks to financial stability arising from, and 
+
+the costs from overreacting to, new forms of nonbank financial intermediation.  Along the way I 
+
+will make a few points.  One is that, analytically, it is essential to disaggregate the various 
+
+activities that fall under the loose term shadow banking and to assess the risks and benefits they 
+
+present on a discrete basis.  A second is that, notwithstanding the manifold nature of nonbank 
+
+intermediation, it remains useful to identify the relationship of specific activities to the 
+
+prudentially regulated sector.  A third is that institutional considerations will be important in 
+
+defining the potential, and actual, regulatory responses to nonbank intermediation.  
+
+The Legacy of Shadow Banking  
+
+As you have probably noticed already, I have some misgivings about the continued use of 
+
+the term shadow banking as a shorthand for various forms of nonbank financial intermediation 
+
+that may need a regulatory response.  The term conjures up a picture of lending and borrowing 
+
+that resembles activity associated with, but not conducted by, commercial banks which is both 
+
+over- and under-inclusive of actual risks to financial stability.  Before elaborating on this point, 
+
+
+-3- 
+ 
+
+
+though, let me review how the phrase does capture well the activities that played such a large 
+
+part in precipitating and exacerbating the financial crisis.1 
+
+Before 2007, large banks provided credit and liquidity support, whether explicit or 
+
+implicit, for a range of intermediation entities, including finance companies, nonbank mortgage 
+
+lenders, SIVs, and asset-backed commercial paper conduits.  All of these entities engaged in 
+
+maturity and liquidity transformation, frequently accompanied by significant leverage.  Many 
+
+created, through securitization or otherwise, assets that were viewed as cash equivalents--safe, 
+
+short-term, and liquid.  That is, at least in normal times, they were seen as comparable to demand 
+
+deposits created by the traditional banking sector.  Thus, what we might refer to as the 
+
+prototypical form of shadow banking presented the kind of risk associated with traditional 
+
+banking prior to the creation of deposit insurance--that of destabilizing short-term creditor runs 
+
+that lead to defaults and asset fire sales.   
+
+Bank sponsorship contributed to the illusion that the shadow banks’ short-term liabilities 
+
+were virtually as good as cash.  Large banks also relied on short-term wholesale funding 
+
+provided by the shadow banking sector as a source of cheap financing.  Then, questions arose 
+
+about the quality of the mortgage loans and other assets underlying the liabilities of SIVs and 
+
+asset-backed commercial paper conduits and, simultaneously, about the continued willingness 
+
+and capacity of their sponsors to support them.  Suddenly, asset-backed commercial paper was 
+
+no longer seen as a cash equivalent, and a run ensued.  Large investment banks also experienced 
+
+dramatic runs on their short-term, secured wholesale funding.  Another powerful run occurred, 
+
+                                                 
+1 For a fuller discussion, see Daniel K. Tarullo (2012), “Shadow Banking after the Financial Crisis,” remarks 
+delivered at the Federal Reserve Bank of San Francisco Conference on Challenges in Global Finance, San 
+Francisco, California, June 12, www.federalreserve.gov/newsevents/speech/tarullo20120612a.htm. 
+
+
+-4- 
+ 
+
+
+this time on money market mutual funds, after Lehman Brothers’ shadow banking activities 
+
+caused it to fail and the Reserve Primary Fund broke the buck.   
+
+   As noted earlier, some key elements of pre-crisis shadow banking such as SIVs have 
+
+vanished, and some key actors of that earlier period have been brought within the bounds of 
+
+prudential regulation.  Today, the shadow banking sector is smaller and the traditional banking 
+
+sector is more resilient.  Nonetheless, abundant global liquidity continues to seek out safe assets, 
+
+and some financial market participants will continue to accept maturity and liquidity mismatches 
+
+in order to earn incrementally higher yields.  The risks associated with short-term wholesale 
+
+funding in particular have more receded than disappeared.  Accordingly, the prototype of the 
+
+precarious shadow banking model can generate new variants that should command regulatory 
+
+attention.  Before returning to this issue, though, I want to speak more directly to why and how 
+
+we should analyze the risks and benefits associated with specific forms of nonbank financial 
+
+intermediation, rather than make regulatory decisions based upon the fact that a particular form 
+
+of intermediation bears some resemblance to the borrowing or lending activities traditionally 
+
+associated with commercial banks.    
+
+Analyzing Nonbank Intermediation 
+
+ Switching from a focus on “shadow banking” to a consideration of the varieties of 
+
+nonbank intermediation reinforces the importance of assessing specific risks rather than merely 
+
+categorizing activities as either shadow banking or something else.  In this way, the potential 
+
+over-inclusiveness for financial stability purposes of the tag “shadow banking” can be better 
+
+avoided.  Even nonbank intermediaries that engage in lending to consumers or small businesses 
+
+are not monolithic, insofar as the sources of their funding--and thus attendant run risks--may 
+
+differ markedly.   
+
+
+-5- 
+ 
+
+
+On the other hand, financial stability risks are not limited to entities or activities that 
+
+seem to replicate the kind of lending conventionally associated with commercial banks.  This is 
+
+where the potential under-inclusiveness of the shadow banking category arises.  Here again, 
+
+though, it is important not to leap to the conclusion that where some risks do exist, they should 
+
+be addressed in a uniform manner.  For example, some classes of asset managers, such as bond 
+
+funds that hold relatively illiquid assets while offering their investors the right to withdraw funds 
+
+on very short notice, may pose redemption risks.  But intermediaries such as many conventional 
+
+mutual funds do not pose bank-like risks, since they generally are not leveraged.  So, if further 
+
+analysis supports the conclusion that redemption risks are real, the optimal regulatory response 
+
+would surely not be one that treats all asset managers as quasi-banks that need to have capital 
+
+and similar bank regulatory constraints.2 
+
+An emphasis on actual risks can lead to the conclusion that some nonbank financial 
+
+entities or activities do not pose material threats to financial stability at all.  Pension funds, for 
+
+example, are surely an important form of intermediation.  If, over time, they do not have assets 
+
+sufficient to meet their promises to plan participants, whether because they have been 
+
+underfunded in the traditional sense or because they have lost money through ill-considered 
+
+investments, hardship will undoubtedly follow.  If enough pension plans fell short of 
+
+expectations, there might be macroeconomic consequences.  And if they provide short-term 
+
+funding in order to increase returns on the assets they need to keep liquid, they might contribute 
+
+to the risks assumed by other kinds of intermediaries.  But, in themselves, they are unlikely to 
+
+pose financial stability risks.  Similar reasoning would apply to traditional insurance activities. 
+
+                                                 
+2 Some mutual funds may in fact use a form of synthetic leveraging that could complicate an assessment of financial 
+stability implications.  See 80 Fed. Reg. 62279 (October 15, 2015), footnote 35. 
+
+
+-6- 
+ 
+
+
+ Even as the risks associated with specific forms of nonbank intermediation are evaluated, 
+
+it is important also to bear in mind the specific economic benefits of those activities.  Nonbank 
+
+intermediaries can increase the diversity of the economy’s capital providers.  For example, the 
+
+creation and eventual proliferation of equity mutual funds offered a variety of savings options to 
+
+American households for which ownership of a diversified portfolio of equities is either 
+
+practically burdensome or financially impossible.  This development posed a challenge for the 
+
+liability side of banks’ balance sheets, as households reduced the share of their savings in 
+
+traditional bank deposits.  But it is hard to argue that this challenge would have merited limiting 
+
+the availability of mutual funds. 
+
+Nonbank intermediaries can also provide credit to borrowers that are underserved or 
+
+unserved by traditional banks.  It could be argued that one example of such nonbank activity is 
+
+online marketplace lending that uses new sources of data and new technologies to lower the 
+
+fixed costs of making credit decisions, rendering lending to some individuals and small 
+
+businesses more cost-effective.  Of course, it matters a great deal whether this competition to 
+
+traditional banks arises because risks are genuinely lower or useful new products have been 
+
+created, on the one hand, or because well-grounded prudential or consumer regulations have 
+
+been successfully avoided, on the other.3   
+
+A key implication of the fact that the activities often grouped under the heading shadow 
+
+banking are not monolithic is that the level of a particular activity is less important than the 
+
+degree of vulnerability that it creates.  Not all of what some might call shadow banking activity 
+
+represents a market failure that creates excessive risk to financial stability, and so it would be 
+
+                                                 
+3 For a discussion of potential concerns with marketplace lending, see Antonio Weiss (2015), remarks delivered at 
+the Information Management Network Conference on Marketplace Lenders, New York, New York, October 29, 
+www.treasury.gov/press-center/press-releases/Pages/jl0238.aspx. 
+
+
+-7- 
+ 
+
+
+wrong to assume that all shadow banking ought to be regulated to safeguard financial stability.  
+
+This view is reflected in the Global Shadow Banking Monitoring Report for 2015, which has just 
+
+been issued by the Financial Stability Board.  The report begins by including all activities that 
+
+could arguably be included in the very broad category of shadow banking, but then classifies 
+
+these activities by economic function and risks.  The result is about a 70 percent decrease in the 
+
+amount of intermediation otherwise captured by the broader definition.4 
+
+Thus, assessing whether regulation is appropriate for specific forms of nonbank 
+
+intermediation requires a balancing of the resulting increase in socially beneficial credit, capital, 
+
+or savings options against any associated increase in risks to the safety and stability of the 
+
+financial system as a whole.  The chief relevant factors to consider include the extent of reliance 
+
+on maturity or liquidity transformation, the creation of cash equivalent assets, the use of 
+
+leverage, and the degree of interconnection with the traditional banking sector.   
+
+ When growth in nonbank intermediation reflects a migration of traditional banking 
+
+activities to less-regulated entities, a number of similar considerations are relevant to an 
+
+evaluation of the costs and benefits of the migration and the potential need for a regulatory 
+
+response.  Here, where the activity is probably quite bank-like, I am going to revert to the use of 
+
+the term shadow bank.   
+
+First, to what extent does the activity, as practiced by shadow banks, entail reliance on 
+
+leverage or on maturity or liquidity transformation that could lead to a bank-like creditor run 
+
+dynamic?  Bank regulation is primarily aimed at preventing the occurrence of such destabilizing 
+
+                                                 
+4 Financial Stability Board, Global Shadow Banking Monitoring Report 2015 (Basel, Switzerland: Financial 
+Stability Board, November 12), www.financialstabilityboard.org/2015/11/global-shadow-banking-monitoring-
+report-2015/. 
+
+
+-8- 
+ 
+
+
+runs or minimizing their ill effects, and so the need for bank-like regulation is greater in the 
+
+presence of material run risk.   
+
+Second, are banks still informally or indirectly at risk despite the migration to nonbank 
+
+entities?  This could be the case if banks sponsor the shadow banks and implicitly or explicitly 
+
+provide them with a liquidity backstop or credit support, and it would call for greater regulatory 
+
+attention either to the shadow banks conducting the activity or to the banks’ connection with 
+
+those shadow banks.   
+
+Third, is the activity at issue primarily migrating out of the most systemic banks--global 
+
+systemically important banking organizations (GSIBs)--or smaller banks?  Migration of activity 
+
+out of GSIBs might on net be beneficial for financial stability because it would leave the GSIBs 
+
+less systemic, even if the activity migrates to less-regulated shadow banks, though I would 
+
+caution that an especially careful analysis would be needed before reaching this conclusion.   
+
+In this regard, I would note that one way to limit the growth of shadow banking that 
+
+simply arbitrages bank regulation is to make sure that the regulated sector itself is not 
+
+unnecessarily burdened.  This aim lies behind our efforts to tailor banking regulation by 
+
+reference to the risks posed to the economy and the financial system by banks of different sizes, 
+
+scopes, and business activities.   
+
+In addition, it suggests a couple of additional considerations for evaluating specific forms 
+
+of shadow banking.  Here, though, the relevance of these considerations is for determining 
+
+whether to adjust banking regulation, as much as it is for determining whether regulation of the 
+
+shadow banks would be warranted.  One such consideration is whether the activity is high-risk, 
+
+and whether banks have a good track record in addressing the attendant risks.  Migration may be 
+
+of less concern where banks historically have done a poor job of managing the risks of the 
+
+
+-9- 
+ 
+
+
+activity.  Another salient consideration is whether the activity at issue has significant synergies 
+
+with core banking activities.  If so, then migration out of the traditional banking sector could 
+
+damage the efficiency of banks and increase their vulnerability. 
+
+Short-Term Wholesale Funding 
+
+ While I favor assessment of the specific risks and costs associated with a particular form 
+
+of nonbank intermediation, I also believe that the greatest risks to financial stability are the 
+
+funding runs and asset fire sales associated with reliance on short-term wholesale funding, and 
+
+thus I place particular emphasis on this factor.  If there is one lesson to be drawn from the 
+
+financial crisis, it is that the rapid withdrawal of funding by short-term credit providers can lead 
+
+to systemic problems as consequential as those associated with classic runs on traditional banks.5  
+
+When financial intermediaries must rapidly liquidate a substantial amount of longer-term assets 
+
+that they can no longer fund, the impact can reverberate throughout the financial system.  The 
+
+resulting declines in asset prices can trigger margin calls on other investors, who themselves may 
+
+need to de-lever by selling their own holdings, adding to the fire sale-induced price impact on 
+
+these, and potentially other, assets.  In the worst case, the result can be the kind of generalized 
+
+asset price decline and liquidity freeze observed at the height of the financial crisis.   
+
+The total amount of short-term wholesale funding within the financial system is lower 
+
+today than immediately before the crisis, but volumes are still large relative to the size of the 
+
+financial system.  For example, nearly half of the liabilities of broker-dealers consist of short-
+
+term wholesale funding, an amount that is nearly the same as it was during the crisis.6  
+
+Numerous regulatory reforms have addressed the use of short-term wholesale funding by 
+
+                                                 
+5 See, for example, Gary Gorton and Andrew Metrick (2010), “Regulating the Shadow Banking System,” Brookings 
+Papers on Economic Activity (Washington: Brookings Institution, Fall). 
+6 See Stanley Fischer (2015), “Macroprudential Policy in the U.S. Economy,” speech delivered at the 59th Annual 
+Conference of the Federal Reserve Bank of Boston, October 2, Table 1. 
+
+
+-10- 
+ 
+
+
+prudentially regulated institutions.  The Board has finalized the liquidity coverage ratio7 and is 
+
+developing the net stable funding ratio to diminish large banks’ vulnerability to abrupt changes 
+
+in short-term wholesale markets.  The Board’s annual Comprehensive Liquidity Analysis and 
+
+Review provides an opportunity for supervisors to assess and, where necessary to contain risks, 
+
+require changes to the specific funding practices of large banking organizations.8  Finally, in 
+
+order to increase the resilience of firms that continue to use significant amounts of such funding, 
+
+we have also incorporated a measure of a firm’s reliance on short-term wholesale funding into 
+
+the calibration of both the capital surcharge for U.S. GSIBs and our proposed long-term debt 
+
+requirement for those firms.9   
+
+These measures, applicable as they are only to prudentially regulated banking 
+
+organizations, do nothing to address the risks of short-term wholesale funding by nonbank 
+
+intermediaries.  Indeed, constraints imposed on banking organizations may prompt more short-
+
+term wholesale funding to migrate outside the regulated sector.  In the past, bank backstops were 
+
+generally needed for shadow banks to obtain substantial amounts of such funding.  But it is not 
+
+so far-fetched to think that, with time and sufficient economic incentive, the financial, 
+
+technological, and regulatory barriers to the disintermediation of prudentially regulated banking 
+
+firms could be overcome.  Indeed, we have observed some investment funds exploring the 
+
+possibility of disintermediating dealers by lending cash against securities collateral to other 
+
+market participants.  While it would be inadvisable to apply bank-style regulation to all entities 
+
+that make use of short-term wholesale funding, a degree of consistent regulatory treatment is 
+
+                                                 
+7 79 Fed. Reg. 61440 (October 10, 2014).  
+8 For a fuller description, see Daniel K. Tarullo (2014), “Liquidity Regulation,” remarks delivered at the Clearing 
+House 2014 Annual Conference, New York, New York, November 20, 
+www.federalreserve.gov/newsevents/speech/tarullo20141120a%20.htm. 
+9 See 80 Fed. Reg. 49082 (August 14, 2015) (GSIB risk-based capital surcharge final rule); and 
+www.federalreserve.gov/newsevents/press/bcreg/bcreg20151030a1.pdf (long-term debt proposal). 
+
+
+-11- 
+ 
+
+
+desirable to address bank-like risks in the shadow banking sector and to forestall regulatory 
+
+arbitrage. 
+
+ The Board has advocated for international measures to forestall the development of 
+
+highly volatile funding structures outside the regulated sector.  Consistent with this position, we 
+
+will be developing a regulation that would establish minimum haircuts for securities financing 
+
+transactions (SFTs) on a market-wide basis, rather than just for specific classes of market 
+
+participants.  SFTs include repo, reverse repo, securities lending and borrowing, and securities 
+
+margin lending--transactions that are the lifeblood of many kinds of shadow banks.  SFTs are a 
+
+key component of the healthy functioning of the securities market.  But, in the absence of 
+
+sensible regulation, they also carry the potential for prompting the fire sale dynamic described 
+
+earlier.  While the haircuts and other conditions associated with SFTs today are considerably 
+
+more conservative than during the period leading up to the crisis, there is good reason to believe 
+
+that this conservatism could be eroded as economic conditions continue to improve and credit 
+
+growth accelerates. 
+
+ A system of numerical haircut floors for SFTs would require any entity that wants to 
+
+borrow against a security to post a minimum amount of excess margin to its lender, with the 
+
+amount varying depending on the asset class of the collateral.  Like the minimum margin 
+
+requirements that U.S. regulators have imposed on derivatives contracts, numerical floors for 
+
+SFT haircuts would serve as a mechanism for limiting the build-up of leverage in the financial 
+
+system.  They could also mitigate the risk to financial stability posed by pro-cyclical margin calls 
+
+during times of financial stress, since putting a regulatory floor under SFT haircuts during good 
+
+times would reduce the amount by which they would increase during periods of stress. 
+
+
+-12- 
+ 
+
+
+Institutional Considerations 
+
+ While the analytics of shadow banking, or nonbank intermediation more generally, lean 
+
+toward a case-by-case balancing of risks and economic benefits, significant institutional issues 
+
+also need to be addressed.  Today I will mention only two.  
+
+First is the issue of what form of regulation is appropriate once analysis suggests that a 
+
+response is needed.  By authorizing the Financial Stability Oversight Council (FSOC) to 
+
+designate nonbanks as systemically important institutions, the Dodd-Frank Wall Street Reform 
+
+and Consumer Protection Act fills the gap that existed in the pre-crisis period, when firms like 
+
+Bear Stearns, Lehman Brothers, and AIG largely escaped the perimeter of prudential regulation.  
+
+Designation by FSOC places firms under the regulation and supervision of the Federal Reserve 
+
+Board.  While the Board can shape the particulars of its oversight to the nature of each 
+
+designated firm, the statute requires liquidity standards, risk management standards, resolution 
+
+plans, and concentration limits, with the additional strong presumption of capital standards. 
+
+ As important as the designation authority is to preclude the Lehmans or AIGs of the 
+
+future, it is almost surely not the optimal regulatory approach for most activities that can be 
+
+characterized as shadow banking or that are conducted by nonbank intermediaries so as to raise 
+
+financial stability concerns.  The vast majority of firms engaged in such activities will not satisfy 
+
+the statutory test for designation.  In any case, it is unclear that all of the statutory prudential 
+
+requirements for designated firms would be necessary or appropriate in dealing with the risks to 
+
+financial stability posed by the activities of these firms.  In many instances, and especially where 
+
+funding vulnerabilities are at the heart of a business model, it is the activity itself that needs to be 
+
+regulated in some way, whether there are a few large firms involved or many smaller ones. 
+
+
+-13- 
+ 
+
+
+A tool that might be better targeted to actual risks, while avoiding unnecessary “bank-
+
+like” regulation would be what I have previously termed “prudential market regulation”--that is, 
+
+a policy framework that builds on the traditional investor-protection and market-functioning 
+
+aims of market regulation by incorporating a system-wide financial stability perspective.  This 
+
+approach would take into account such considerations as system-wide demands on liquidity 
+
+during stress periods and correlated risks that could exacerbate liquidity, redemption, or fire sale 
+
+pressures.  The specific policies associated with prudential market regulation might be 
+
+transaction-specific or apply to certain kinds of business models.   
+
+One example of such a measure is the SFT minimum haircut idea I mentioned earlier.  
+
+Generally, though, prudential market regulation would be a tool more available to market 
+
+regulators, since it would apply to activities on a market or transactional basis.  In her important 
+
+speech last year, Securities and Exchange Commission (SEC) Chair Mary Jo White provided a 
+
+roadmap for just such a regulatory approach for the asset management industry.10  The SEC has 
+
+since begun to develop that approach.11  
+
+The second institutional issue is the question of which regulators would make the 
+
+assessment and policy tradeoffs that I contemplate in addressing financial stability risks 
+
+associated with nonbank financial intermediation.  The natural answer would be the regulator 
+
+with authority to act.  While this may well be the best answer from a policy perspective, it does 
+
+raise some potential issues on its own.  For example, if regulators with responsibility for one 
+
+sector believe that the failure of regulators with responsibility for another sector to act on 
+
+financial stability concerns is creating debilitating disadvantages for firms in the first sector, they 
+
+                                                 
+10 See Mary Jo White (2014), “Enhancing Risk Monitoring and Regulatory Safeguards for the Asset Management 
+Industry,” speech delivered at the New York Times DealBook Opportunities for Tomorrow Conference, New York, 
+New York, December 11, www.sec.gov/News/Speech/Detail/Speech/1370543677722. 
+11 See 80 Fed. Reg. 62274 (October 15, 2015). 
+
+
+-14- 
+ 
+
+
+might be tempted to relax regulation on their firms, even though they might agree that the best 
+
+outcome would be to retain their existing regulations but have the other sector subject to some 
+
+constraints as well.  This seems to me not a bad description of what happened in banking for a 
+
+good part of the three decades beginning in the mid-1970s, when the banking agencies pursued a 
+
+variety of deregulatory measures in part because they believed that the franchise of commercial 
+
+banking was being eroded by various capital market activities that were not subject to 
+
+appropriate prudential requirements. 
+
+Conclusion 
+
+ The Financial Stability Board study to which I referred earlier notes that the growth of 
+
+shadow banking in the United States in recent years has been relatively modest.  With the 
+
+regulated financial sector so much more resilient than in pre-crisis days, the financial system as a 
+
+whole is obviously safer.  Moreover, much of the innovation occurring in lending and payments 
+
+arenas today carries the promise of genuinely increased efficiency, and does not appear to be just 
+
+an arbitrage against the stronger post-crisis regulatory regime.   
+
+But if history is any guide, the grace period we are now experiencing will not last forever.  
+
+New forms of intermediation may carry new risks, or older forms may acquire new risks as they 
+
+expand and adapt to new circumstances.  If we are to pursue a policy of case-by-case assessment 
+
+that permits healthy forms of nonbank intermediation while protecting the financial system, 
+
+financial regulators will need to develop effective and supple mechanisms for what I have termed 
+
+prudential market regulation.    
+

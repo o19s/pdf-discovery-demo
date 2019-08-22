@@ -1,0 +1,184 @@
+
+For release on delivery 
+2:00 p.m. EDT 
+October 24, 2016 
+
+
+
+Opening Remarks on Government Securities Settlement 
+
+
+Jerome H. Powell 
+
+
+Member 
+
+
+Board of Governors of the Federal Reserve System 
+
+
+at 
+
+
+The Evolving Structure of the U.S. Treasury Market: Second Annual Conference 
+
+
+The Federal Reserve Bank of New York 
+
+
+New York, N.Y. 
+
+
+October 24, 2016 
+
+
+
+
+1 
+ 
+
+  This panel will focus on the settlement infrastructure for U.S. government securities -- a 
+
+vital component of the Treasury market and one that is undergoing an important transition.  This 
+
+segment of the industry has been in a period of slow but steady consolidation for several decades 
+
+now.  Thirty years ago, there were six banks providing a full suite of settlement services for U.S. 
+
+government securities.  Due to mergers and exits, two firms, Bank of New York Mellon 
+
+(BNYM) and J.P. Morgan Chase (JPMC), have been the two dominant providers of these 
+
+services since the 1990s.  And soon there will be just one, given JPMC’s planned exit. 
+
+  Given the importance of these services, the official sector has had a long involvement as 
+
+the market structure has evolved.  After the terrorist attacks of September 11, 2001, the Federal 
+
+Reserve convened the private-sector Working Group on Government Securities Clearance and 
+
+Settlement to recommend steps to mitigate risks to the financial system from a disruption to 
+
+these services.  That work led to the “NewBank” proposal.1  Although the proposal was 
+
+ultimately put aside, NewBank would have been a dormant financial institution that could spring 
+
+into action in the event of potential disruptions from an exit from this business by either of the 
+
+clearing banks. Some of today’s panelists were actively involved in that work.  Of course, at that 
+
+time, the business was roughly evenly split between the two providers.   Today’s situation is very 
+
+different – BNYM now has over 80 percent market share, due mainly to consolidation among 
+
+end users.    
+
+ The Federal Reserve has been working closely with the Department of the Treasury to 
+
+ensure a smooth transition as JPMC prepares to exit.   JPMC has said that it recognizes the need 
+
+                                                           
+1 Report to the Federal Reserve Board by the Working Group on NewBank Implementation, December 2005.  
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwibwreBpOfPAhXM7CY
+KHfGGAt8QFggeMAA&url=https%3A%2F%2Fwww.federalreserve.gov%2Fboarddocs%2Fpress%2Fother%2F20
+05%2F20051215%2Fattachment.pdf&usg=AFQjCNGWY_qoYfTbX5xXL7mVn2yV3p2yTA&cad=rja 
+ 
+
+
+2 
+ 
+
+for, and its own interest in, ensuring that its exit does not disrupt the market.  Indeed, JPMC will 
+
+itself need to rely on these services going forward.  The timeline set for a gradual transition over 
+
+the next two years should be sufficient to avoid significant dislocations; however, if unexpected 
+
+complications arise, that timeline may need to be adjusted.  
+
+  In the near term, this exit will leave BNYM as the sole provider of U.S. government 
+
+securities settlement and triparty repo services for broker-dealers.  We have been working 
+
+intensively with BNYM in anticipation of this transition.  We have long recognized that any 
+
+disruptions to these critical market services could have serious consequences for financial 
+
+stability, and have calibrated our supervisory expectations accordingly.  To ensure financial 
+
+stability, we expect the provision of U.S. government securities settlement services to be robust 
+
+in nearly all contingencies. 
+
+  As BNYM becomes the sole provider, we will raise our expectations even higher.  The 
+
+bank has anticipated and welcomed this higher bar.  BNYM is one of 8 U.S.-based systemically 
+
+important banks.  The bank is therefore subject to heightened capital and liquidity requirements 
+
+and a resolution process that explicitly requires planning to ensure the continuity of critical 
+
+services even in the event of a default.   
+
+   BNYM is unique in that it also plays the dominant – and soon the sole – role in 
+
+government securities settlement and in the triparty repo market.  These activities are comparable 
+
+in their importance to those of the financial market utilities that have been designated as 
+
+systemically important by the FSOC.  Thus, BNYM will continue to be held to the high 
+
+standards to which all U.S. bank SIFIs are held.  And it will also be expected to operate in a 
+
+manner that provides confidence that it is as resilient and robust as a systemically important 
+
+financial market utility (FMU).  Such FMUs are, of course, held to the Principles for Financial 
+
+
+3 
+ 
+
+Market Infrastructures (PFMIs).2   The PFMIs overlap with our banking regulation in many 
+
+areas; for example, both emphasize the need for sound risk management and the importance of 
+
+resilience and recovery.  The PFMIs also emphasize a strong governance role in support of 
+
+financial stability and the interests of market functioning, and this has been a focus of our work 
+
+with Bank of New York Mellon regarding the transition.         
+
+  Although our current task is to establish appropriate expectations for Bank of New York 
+
+Mellon as a sole operator, that focus should not be taken as an indication that the Federal 
+
+Reserve or other public authorities have pre-judged what the longer-term landscape for 
+
+government securities settlement should look like.  In fact, we do not have a specific market 
+
+design end state in mind.  Rather, we recognize the systemic importance of these activities and 
+
+the need to ensure their continued availability in nearly all states of the world, regardless of the 
+
+firms that offer them or the specific market structure.   
+
+  The industry as a whole should play an important role in shaping the evolution of the 
+
+settlement infrastructure.  Other firms may seek to enter this market. There have also been 
+
+discussions over time of a settlement utility, and the Depository Trust & Clearing Corporation is 
+
+currently considering a new variant of such a model.  Our focus is on the quality of the services 
+
+offered -- their safety, resilience, and support of the market -- and not on the particular 
+
+mechanism for offering them.  If new proposals come forward that are consistent with our goals 
+
+of a safe and resilient settlement system, then they will receive fair consideration.  
+
+
+                                                           
+2 See Committee on Payment and Settlement Systems and the International Organization of Securities Commissions 
+(2012), Principles for Financial Market Infrastructures, report (Basel, Switzerland: Bank for International 
+Settlements, April), www.bis.org/publ/cpss101.htm 
+

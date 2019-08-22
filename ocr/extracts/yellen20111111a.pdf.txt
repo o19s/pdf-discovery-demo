@@ -1,0 +1,637 @@
+
+For release on delivery 
+1:15 p.m. EST (12:15 p.m. CST) 
+November 11, 2011 
+ 
+
+
+Pursuing Financial Stability at the Federal Reserve 
+ 
+ 
+ 
+
+Remarks by 
+ 
+
+Janet L. Yellen 
+Vice Chair 
+
+ 
+Board of Governors of the Federal Reserve System 
+
+ 
+at 
+ 
+
+Fourteenth Annual International Banking Conference 
+Federal Reserve Bank of Chicago 
+
+ 
+Chicago, Illinois 
+
+
+November 11, 2011 
+ 
+
+
+
+Let me begin by thanking the Federal Reserve Bank of Chicago for inviting me to 
+
+participate in this important conference on the role of central banks in financial stability.  
+
+As you know, the Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010 
+
+(Dodd-Frank Act) assigned the Federal Reserve a central role in the new framework for 
+
+achieving and maintaining financial stability.  I am grateful for this opportunity to explain 
+
+how we, together with other regulators, have been moving forward to fulfill our new 
+
+responsibilities.1   
+
+The Dodd-Frank Act instituted substantial changes to financial-sector supervision 
+
+and regulation in the United States in direct response to the serious deficiencies in the 
+
+regulatory framework that were revealed, all too painfully, by the financial crisis and the 
+
+associated deep recession.  One key change was the requirement that U.S. financial 
+
+regulators take a “macroprudential approach” to supervision and regulation.  In my 
+
+remarks today, I want to describe how this approach is being put into practice at the 
+
+Federal Reserve.  I will touch on both our own regulatory and supervisory responsibilities 
+
+and our responsibilities as a member of the multiagency Financial Stability Oversight 
+
+Council (FSOC), which the Dodd-Frank Act established to promote a more 
+
+comprehensive approach to monitoring and mitigating systemic risk.  
+
+I should note that an important part of putting the macroprudential approach into 
+
+practice is establishing a new regulatory infrastructure, including the FSOC and its 
+
+working-committee structure.  In addition, individual regulatory agencies have made 
+
+organizational changes needed to fulfill their new responsibilities.  At the Federal 
+
+Reserve, we have reoriented our supervision of large bank holding companies, and we 
+
+                                                 
+1 I am indebted to Federal Reserve Board staff members Rochelle Edge, Andrea Kusko, Andrew Levin, and 
+Nellie Liang for their assistance in preparing these remarks, which reflect my own views and not 
+necessarily those of others in the Federal Reserve System. 
+
+
+ - 2 -
+
+have created a new office called the Office of Financial Stability Policy and Research, 
+
+which plays a key role in monitoring financial risks, analyzing the implications for 
+
+financial stability, and identifying approaches for mitigating identified risks.      
+
+Overview of the Macroprudential Approach 
+
+The explicit incorporation of macroprudential considerations into our structure for 
+
+financial regulation and oversight represents a major innovation in our thinking about 
+
+how financial stability is most effectively achieved.  In contrast to the traditional, or 
+
+“microprudential,” approach to regulation and supervision, which focuses on the safety 
+
+and soundness of individual financial institutions, markets, and infrastructures, the 
+
+macroprudential approach also calls for attention to the financial system as a whole.   
+
+In particular, financial institutions are typically linked together in a complex web 
+
+of relationships, and hence the sudden failure of a single institution can generate spillover 
+
+effects on other firms and potentially place the entire financial system at risk.  Such 
+
+externalities are most evident for very large institutions and financial market utilities but 
+
+may also arise within a set of small or medium-sized firms that are engaged in activities 
+
+with highly correlated returns.  Therefore, the macroprudential approach focuses on 
+
+achieving financial stability by reducing systemic risk--that is, the risk of a financial 
+
+disruption that is severe enough to inflict significant damage on the broader economy.  
+
+Ideally, this approach is done through preemptive policies that restrain risks to the 
+
+financial system before they develop into crises.   
+
+Macroprudential policies address several forms of systemic risk.  One form of risk 
+
+can be described as structural--such as the presence of systemically important financial 
+
+institutions (SIFIs) or systemically important payment, clearing, or settlement 
+
+
+ - 3 -
+
+infrastructures or activities, whose failure or financial distress could have outsized 
+
+destabilizing effects on the rest of the financial system.  Another form of risk can be 
+
+described as cyclical and includes, for example, elevated asset prices and excessive credit 
+
+growth that arise in robust economic times but can leave the balance sheets of both large 
+
+and small financial firms vulnerable to downturns in the credit cycle.  Attentiveness to 
+
+these various channels is critical in the monitoring of systemic risk and the formulation of 
+
+appropriate macroprudential policy responses.  In particular, some risks are best allayed 
+
+by policies that are structural in nature and thus do not change as economic conditions 
+
+evolve, whereas others are best addressed by policies that are sensitive to economic 
+
+developments.  Indeed, selecting the right policies to address specific forms of systemic 
+
+risk is important for ensuring that reasonable risk-taking and innovation continue to take 
+
+place in financial markets so as to foster broader productivity gains, economic growth, 
+
+and job creation. 
+
+A key question for central banks is how macroprudential policies fit together with 
+
+monetary policy.  The evolving--though by no means settled--consensus is that monetary 
+
+policy is too blunt a tool to be routinely used to address cyclical risks to financial 
+
+stability, and that more-targeted micro- and macroprudential tools should be used to 
+
+address these risks.  I agree that targeted prudential policies should be the first line of 
+
+defense against threats to financial stability.  However, because their effectiveness in 
+
+practice is not yet proven, I would not rule out the possibility that monetary policy could 
+
+be used directly to support financial stability goals, at least on the margin. 
+
+
+ - 4 -
+
+Identifying and Addressing Structural Forms of Systemic Risk 
+
+I want to turn now to structural sources of systemic risk and discuss how 
+
+macroprudential policy can be used to mitigate them.  Structural vulnerabilities may go 
+
+largely unnoticed until they are exposed in financial crises--and at considerable cost.  
+
+Indeed, many of the regulations now being implemented under the Dodd-Frank Act, as 
+
+well as the international agreements relating to bank capital and liquidity standards, are a 
+
+reaction to the events of 2007 through 2009.  Such responses include regulations and 
+
+reforms that address risks resulting from the existence of SIFIs and systemically 
+
+important financial market utilities (FMUs) as well as other efforts to improve the 
+
+resilience of important financial markets and infrastructure. 
+
+Because the material distress or failure of a SIFI can have outsized effects on the 
+
+financial sector and the real economy, the Dodd-Frank Act empowers the Federal 
+
+Reserve to reduce the probability of such events through tougher prudential standards, 
+
+including enhanced risk-based capital and leverage requirements, liquidity requirements, 
+
+an early remediation regime, and restrictions on activities.  The act also requires the 
+
+Federal Reserve to consider systemic risk effects when reviewing and ruling on 
+
+applications for mergers among financial firms.  In addition, to ensure that the failure of a 
+
+SIFI can occur without serious damage to the financial system, the act gives the Federal 
+
+Reserve and the Federal Deposit Insurance Corporation new tools, such as improved 
+
+resolution planning by firms and an orderly liquidation authority.  The act also requires 
+
+centralized clearing of standardized over-the-counter (OTC) derivatives and introduces 
+
+margin requirements for noncleared derivatives and other measures to strengthen the 
+
+integrity and functioning of financial markets. 
+
+
+ - 5 -
+
+Efforts to develop these rules have been progressing well.  The Federal Reserve 
+
+will soon release for comment its proposed rule on enhanced prudential standards that 
+
+would apply to large bank holding companies and systemically important nonbank 
+
+financial firms.  It also recently approved a final rule implementing the resolution plan 
+
+requirement.  Let me note that in these instances, as in all its rulemaking responsibilities, 
+
+the Federal Reserve is attentive to aligning the rules required by the Dodd-Frank Act with 
+
+international agreements, such as higher capital standards and new liquidity standards for 
+
+large banks and capital surcharges for the largest global SIFIs.   
+
+The Federal Reserve, working with other financial regulators, has issued a 
+
+number of proposed and final rules relating to such areas as the centralized clearing of 
+
+derivatives, swap margin requirements, and the designation of systemically important 
+
+FMUs and nonbank financial firms.  The proposed rule for designating nonbank financial 
+
+firms was put out for comment in October.2  This rule specifies a process for designating 
+
+such institutions, starting by analyzing firms that exceed a size threshold and exhibit 
+
+characteristics, including excessive leverage and reliance on short-term funding, that 
+
+could contribute to systemic risk if the firm were to become distressed.   
+
+Less-discernible progress has been made to date, however, in addressing other 
+
+key vulnerabilities that came to the fore during the financial crisis.  Indeed, short-term 
+
+funding markets remain an important source of structural risk.  Despite some significant 
+
+reforms that enhance liquidity and impose additional restrictions on portfolios, money 
+
+market funds are still susceptible to liquidity constraints largely because of attributes like 
+
+                                                 
+2 See Financial Stability Oversight Council (2011), “Authority to Require Supervision and Regulation of 
+Certain Nonbank Financial Companies,” second notice of proposed rulemaking and proposed interpretive 
+guidance (FR Doc. 2011-26783), Federal Register, vol. 76 (October 18), pp. 64264-83, 
+www.gpo.gov/fdsys/pkg/FR-2011-10-18/pdf/2011-26783.pdf.  
+
+
+ - 6 -
+
+their rounded net asset value (NAV) feature and the low risk tolerance of their investors.  
+
+Options for further reforms being considered by the Securities and Exchange 
+
+Commission (SEC) include a mandatory floating NAV to mute the incentive for investors 
+
+to be the first to redeem, capital buffers to allow funds to deal better with actual and 
+
+potential losses while sustaining a stable NAV, and limits on redemptions both to provide 
+
+more time for fund managers to address problems and to emphasize to investors that 
+
+money market funds do not guarantee bank-like liquidity.3 
+
+The triparty repurchase agreement (repo) market also continues to exhibit 
+
+important vulnerabilities.  In particular, the settlement process for triparty repo trades 
+
+continues to rely on massive amounts of intraday credit and, as a result, remains 
+
+vulnerable to a decision by a clearing bank to withhold funding from a market participant 
+
+in default or perceived as facing distress.  The FSOC has recommended reforms to deal 
+
+with these problems, and an industry task force has taken some key initial steps in that 
+
+direction--for example, by coordinating the implementation of a robust confirmation 
+
+process for triparty trades.  But more needs to be done.  Indeed, given the centrality of 
+
+this market to the financial system, taking further steps to reduce its vulnerabilities should 
+
+be given a high priority.  
+
+In addition to addressing the unfinished business from the financial crisis, 
+
+financial stability authorities and market participants need to be alert to new structures 
+
+and products, not just those that caused problems in the past.  New financial products--for 
+
+example, exchange-traded funds and collateralized commercial paper--may foster more 
+
+                                                 
+3 Box D of the FSOC 2011 annual report provides a fuller discussion of the financial-sector vulnerabilities 
+implied by money market funds.  See Financial Stability Oversight Council (2011), Financial Stability 
+Oversight Council 2011 Annual Report (Washington:  FSOC), “Box D:  Money Market Funds,” pp. 50-51, 
+www.treasury.gov/initiatives/fsoc/Documents/FSOCAR2011.pdf. 
+
+
+ - 7 -
+
+efficient intermediation, but they may also raise systemic risk if they increase the 
+
+complexity and interconnectedness of the financial system. 
+
+Authorities need to collect data and monitor risks associated with new products 
+
+before the risks become salient.  To improve the quality of financial-sector data and 
+
+facilitate the analysis of data for the FSOC and its member agencies, the Dodd-Frank Act 
+
+created the Office of Financial Research within the Treasury Department.  The office has 
+
+initiated a project to design a global classification system based on unique legal entity 
+
+identifiers to identify parties to financial contracts.  This system would allow market 
+
+participants to better measure on a consolidated basis their counterparty risk across 
+
+products and other dimensions.  In addition, the SEC and the Commodity Futures 
+
+Trading Commission recently issued a new reporting form for hedge funds and certain 
+
+other private investment funds, which will provide more information on their size, 
+
+concentration, funding, and investments; this additional information should shed some 
+
+valuable light on an important segment of the financial sector for which we have not had 
+
+consistent data.   
+
+Identifying and Addressing Cyclical Forms of Systemic Risk 
+
+Turning next to cyclical forms of systemic risk, we are working to develop good 
+
+measures of such risks, to monitor them on an ongoing basis, and to be aware of how 
+
+they could unwind in a destabilizing way.  On that score, at the Federal Reserve, we 
+
+regularly monitor measures of leverage and maturity mismatch at financial 
+
+intermediaries, and we look at asset valuations, underwriting standards for loans, and 
+
+credit growth for signs of a credit-induced buildup of systemic risk.  We also monitor 
+
+various systemic risk measures for the largest banking firms.  These measures capture 
+
+
+ - 8 -
+
+financial market perceptions of the risk such a firm could impose on the broader financial 
+
+system were it to become stressed.  Such measures are based on firms’ stock prices, 
+
+credit default swap premiums, and stock price volatility, as well as the correlation in asset 
+
+prices across firms.    
+
+In addition, we use regular stress tests of the nation’s largest banking 
+
+organizations to evaluate the ability of these firms to withstand worse-than-expected 
+
+outcomes for the economy.  These tests are based on detailed confidential data about the 
+
+balance sheets of the large banks and provide a comprehensive and rigorous assessment 
+
+of how their financial conditions would evolve over a multiyear period if economic and 
+
+financial conditions were to deteriorate.  The stress tests started in 2009 with the 
+
+Supervisory Capital Assessment Program (SCAP), and they continued with the 
+
+Comprehensive Capital Analysis and Review (CCAR) in late 2010 and early 2011, in 
+
+which we evaluated the capital planning processes of the firms and responded to requests 
+
+to resume or increase shareholder payouts. 
+
+In a couple of weeks, we will begin CCAR 2012, building on the previous CCAR, 
+
+and roughly a year from now, we will conduct the annual supervisory stress tests 
+
+mandated by the Dodd-Frank Act.  The Dodd-Frank tests will involve a larger group of 
+
+banking organizations than the 19 firms covered in the SCAP and will be extended to 
+
+include any financial institution the FSOC designates as systemically important.  As 
+
+additional data are collected on significant credit exposures, stress tests may evolve into 
+
+an effective way to identify linkages across systemically important institutions that could 
+
+lead them to fall into financial distress at the same time.   
+
+
+ - 9 -
+
+Another important element in identifying financial-sector vulnerabilities is the 
+
+continued vigilance to the financial risks that might emerge in parts of the financial sector 
+
+for which data are very scarce or that have developed more recently and are thus less well 
+
+understood.  The regulatory community has been working hard to fill these knowledge 
+
+gaps.  For example, in response to the need to improve the monitoring of leverage, 
+
+particularly outside of the traditional banking system, the Federal Reserve instituted in 
+
+2010 a quarterly survey on dealer financing terms (the Senior Credit Officer Opinion 
+
+Survey on Dealer Financing Terms).4  This survey collects qualitative information on the 
+
+leverage that dealers provide to financial market participants in the repo and OTC 
+
+derivatives markets.  This information complements the data on counterparty credit 
+
+exposures that supervisors collect on a confidential basis from large, complex financial 
+
+institutions and higher-frequency data on liquidity profiles.  In addition, the Board staff is 
+
+working in the context of the flow of funds accounts to develop measures of reliance by 
+
+nonfinancial businesses on nonbank, volatile sources of funds--that is, the shadow 
+
+banking sector.  Such measures would permit us to track this source of risk through the 
+
+business cycle. 
+
+Cyclical vulnerabilities seem relatively quiescent at present.  Still, such 
+
+vulnerabilities could easily emerge, especially once the economy starts to expand more 
+
+robustly.  Regulators need to look ahead and be ready to respond.  A number of 
+
+macroprudential policy tools could, in principle, be used to address heightened cyclical 
+
+vulnerabilities--some of which have been used in other countries and others that have 
+
+been proposed but not yet tried.  Examples of tools that have been used in other countries 
+
+                                                 
+4 The Senior Credit Officer Opinion Survey is available on the Board’s website at 
+www.federalreserve.gov/econresdata/releases/scoos.htm. 
+
+
+ - 10 -
+
+include time-varying caps on mortgage loan-to-value ratios and household debt-to-
+
+income ratios, which have been used in Korea and Hong Kong, and dynamic 
+
+provisioning for losses by banks, which has been employed in Spain.  The Basel III 
+
+package of reforms that was agreed to last year includes a countercyclical capital buffer 
+
+that can be imposed when excessive growth of risk-taking in credit markets results in an 
+
+unacceptable level of systemic risk.  Another policy that has been put forward but not yet 
+
+tried is countercyclical margins and haircuts for funding contracts, as proposed by the 
+
+Committee on the Global Financial System.5 
+
+Of course, U.S. policymakers will need to examine such policy tools in depth 
+
+before implementing them here.  As a first step, policymakers need to establish that 
+
+countercyclical policy tools address cyclical vulnerabilities more effectively than simpler 
+
+tools that are constant over the course of the cycle do.6  In addition, in taking lessons 
+
+from abroad, policymakers need to be aware of institutional differences that may prevent 
+
+tools from having the same effects in the United States as they do elsewhere.  A further 
+
+issue is that the literature on the efficacy of macroprudential tools in limiting the buildup 
+
+of cyclical systemic risks is still at an early stage.  Even for policies that have been used 
+
+in other countries, the number of papers that evaluate their effectiveness is relatively 
+
+small, and isolating the effect of a specific policy amid an array of economic and 
+
+financial developments is a persistent challenge.  Nonetheless, these papers are 
+
+encouraging--at least to the further consideration of the use of cyclical policy tools--and 
+
+                                                 
+5 See Committee on the Global Financial System (2010), “The Role of Margin Requirements and Haircuts 
+in Procyclicality,” CGFS Papers No. 36 (Basel, Switzerland:  Bank for International Settlements, March), 
+www.bis.org/publ/cgfs36.pdf. 
+6 Examples of constant, through-the-cycle policy tools are time-invariant caps on loan-to-value (LTV) and 
+debt-to-income (DTI) ratios and time-invariant floors on margins and haircuts, which can likely play some 
+role in limiting the buildup of cyclical vulnerabilities (even if they do not go as far as countercyclical 
+policies).   
+
+
+ - 11 -
+
+this literature, which also includes more theoretical analyses of such policies, is a vibrant 
+
+and growing one that should yield useful insights in coming years.7   
+
+Current Challenges 
+
+Let me finish with a few words about current challenges to financial stability.  In 
+
+particular, concerns about European fiscal and banking issues have contributed to strains 
+
+in global financial markets that pose significant downside risks to the U.S. economic 
+
+outlook. 
+
+ U.S. banking institutions have manageable levels of direct exposure to the 
+
+peripheral European countries but more substantial links to financial institutions in the 
+
+larger European economies.  In addition, some major European banks that obtain 
+
+appreciable short-term wholesale U.S. dollar funding from U.S. money market funds 
+
+appear to be facing significant funding pressures.  In light of such international linkages, 
+
+further intensification of financial disruptions in Europe could lead to a deterioration of 
+
+financial conditions in the United States.   
+
+                                                 
+7 Current empirical work on this topic includes a number of interesting country case studies on LTV and 
+DTI policies.  For example, see Bank of Korea and International Monetary Fund (2011), “Managing Real 
+Estate Booms and Busts,” summary from the BOK-IMF workshop, Seoul, Korea, April 11-12, 
+www.imf.org/external/np/res/seminars/2011/bok/041111.pdf.  For a difference-in-difference econometric 
+analysis of dynamic provisioning in Spain (with implications for countercyclical capital buffers), also see 
+Gabriel Jiménez, Steven Ongena, José-Luis Peydro, and Jesús Saurina (2011), “Macroprudential Policy, 
+Countercyclical Bank Capital Buffers and Credit Supply:  Evidence from the Spanish Dynamic 
+Provisioning Experiments,” unpublished paper, Banco de España, March, 
+http://finance.univie.ac.at/fileadmin/user_upload/inst_finanzwirtschaft/Oktober_Konferenz/J.L.Peydr%C3
+%B3_Alcalde_macroprudential_policy__countercyclical_Bank_Capital_2011-03-09_final.pdf.  An 
+example of model-based analysis is a study of LTV ratios in the context of calibrated general-equilibrium 
+macro models by Luisa Lambertini, Caterina Medicino, and Maria Teresa Punzi (2011), “Leaning against 
+Boom-Bust Cycles in Credit and Housing Prices,” Banco de Portugal Working Papers 8/11 (Lisboa, 
+Portugal:  Banco de Portugal, March), www.bportugal.pt/en-
+US/BdP%20Publications%20Research/wp201108.pdf; another example of model-based analysis is a study 
+of countercyclical capital buffers in the context of calibrated general-equilibrium macro models by Ian 
+Christensen, Césaire Meh, and Kevin Moran (2011), “Bank Leverage Regulation and Macroeconomic 
+Dynamics,” paper presented at the Regulation of Systemic Risk Conference sponsored by the Board of 
+Governors of the Federal Reserve System and the Journal of Money, Credit and Banking, Washington, 
+September 15-16, www.federalreserve.gov/events/conferences/2011/rsr/papers/ChristensenMehMoran.pdf.  
+
+
+ - 12 -
+
+The European rescue package announced in late October indicates a strong 
+
+commitment by European leaders to address the issues stemming from sovereign debt.  
+
+The package was a step in the right direction, but many details of the plan were unclear, 
+
+and the measures would require rigorous implementation.  The continued rise in 
+
+sovereign debt spreads for some countries, more generalized market volatility, and 
+
+political turmoil that we have seen in recent days speak to the need for forceful action to 
+
+stabilize the situation.   
+
+We, along with other supervisors, are actively engaged in ensuring that U.S. 
+
+financial institutions are appropriately managing their credit and liquidity risks.  To limit 
+
+the spread of funding stresses, we have in place dollar liquidity swap lines with a number 
+
+of foreign central banks.  We are monitoring European developments very closely, and 
+
+we will continue to do all that we can to mitigate the consequence of any adverse 
+
+developments abroad on the U.S. financial system.     
+
+Conclusion 
+
+The Federal Reserve and other U.S. financial regulators have accomplished a 
+
+great deal since the Dodd-Frank Act was enacted a little more than a year ago.  We have 
+
+put into practice an institutional framework for undertaking a macroprudential approach 
+
+to supervision and regulation, and we have implemented processes for identifying and 
+
+responding to sources of systemic risk.  However, much remains to be done, including 
+
+further work to close the gaps in the data coverage of the financial sector and to deepen 
+
+our understanding of the effectiveness of different policy tools.  The bottom line is that 
+
+developing an effective macroprudential policy is critical to preserving financial stability 
+
+
+ - 13 -
+
+and supporting overall U.S. economic activity.  Accomplishing this objective will be a 
+
+considerable challenge, but it is one of great importance. 
+

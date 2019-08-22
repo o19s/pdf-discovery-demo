@@ -1,0 +1,898 @@
+
+
+For release on delivery 
+
+8:30 a.m. CDT/9:30 a.m. EDT  
+
+May 8, 2014 
+
+
+
+
+
+
+Rethinking the Aims of Prudential Regulation 
+
+
+
+Remarks by 
+
+
+Daniel K. Tarullo 
+
+
+Member 
+
+
+Board of Governors of the Federal Reserve System 
+
+
+at the  
+
+
+Federal Reserve Bank of Chicago 
+
+Bank Structure Conference 
+
+
+Chicago 
+
+
+
+
+
+
+
+
+May 8, 2014
+
+
+
+Among the questions posed by the organizers of this 50
+th
+
+ Annual Conference on Bank 
+
+Structure and Competition is how the “regulatory-supervisory framework has fundamentally 
+
+changed.”   I think one answer is that the aims and scope of prudential regulation have been 
+
+fundamentally redefined since the financial crisis.  Most significantly, a concern with financial 
+
+stability and an increased emphasis on macroprudential regulation have informed major changes 
+
+in both banking law and supervision.  This salutary shift in perspective has important 
+
+implications for prudential regulation.  One is that prudential regulation must deal with threats to 
+
+financial stability whether or not those threats emanate from traditional banking organizations.  
+
+Hence the need to broaden the perimeter of prudential regulation, both to certain nonbank 
+
+financial institutions and to certain activities by all financial actors.  
+
+A second implication—to which I will devote most of my remarks this morning—is that 
+
+the aims of prudential regulation for traditional banking organizations should vary according to 
+
+the size, scope, and range of activities of the organizations.  By specifying these aims with more 
+
+precision, we can shape both a more effective regulatory system and a more efficient one.  That 
+
+is, once we have specified the regulatory aims for a particular type of financial institution, we 
+
+can more effectively rationalize and, as appropriate, differentiate the rules and requirements to be 
+
+applied to each kind of institution.   
+
+The Legacy of a Unitary Approach to Bank Regulation 
+
+ When I was teaching banking law prior to my appointment to the Board of Governors, I 
+
+noticed an interesting disconnect in the best casebooks in the field.  An introductory chapter on 
+
+the history and purposes of bank regulation revealed a complicated set of issues concerning 
+
+changes in the structure and activities of banks, which, among other things, suggested that the 
+
+rationales for regulating banks might vary depending on the size, business model, and affiliations 
+
+
+- 2 - 
+ 
+
+
+of a bank.  Yet the remaining chapters of the casebooks treated bank regulation as a more or less 
+
+unitary endeavor—with prudential rules applicable in about the same way to the activities and 
+
+affiliations of all banking organizations, and only to banking organizations.   
+
+To be sure, topics such as bank affiliations with nonbank financial institutions were, for 
+
+practical reasons, more focused on larger banks.  And there were a few measures directed at the 
+
+more complicated balance sheets of larger banks, such as the Basel II internal ratings-based 
+
+(IRB) approach to regulatory capital, although there was no evidence the underlying purpose of 
+
+capital regulation differed.  But in all the chapters elaborating applicable doctrine and rules, there 
+
+was little hint that the purposes and principles of bank regulation might vary across the bank 
+
+population.  And, to the extent that nonbank financial institutions such as broker-dealers, 
+
+investment companies, or insurance companies were covered, the pedagogical point seemed to 
+
+be that the aims of regulating these kinds of firms were dominantly investor and customer 
+
+protection—not prudential considerations such as limiting moral hazard, much less fostering 
+
+financial stability. 
+
+ The reason for this disconnect was, to a great extent, that pre-crisis statutes and 
+
+regulations reflected what I have termed a unitary approach to banking regulation.  The core of 
+
+banking regulation could be explained with a relatively simple narrative, by which deposit 
+
+insurance and access to the discount window had been granted to depository institutions in order 
+
+to forestall runs and panics.  The resulting moral hazard and the use of insured deposits as a 
+
+funding source for these institutions justified everything from capital requirements to limitations 
+
+on banks getting into nonbanking businesses.  Even when traditional banks were permitted to 
+
+affiliate with other kinds of financial firms, laws such as the Bank Holding Company Act
+1
+ and 
+
+                                                           
+1
+ Bank Holding Company Act of 1956, as amended, 12 U.S.C. §§1841-1850.   
+
+
+- 3 - 
+ 
+
+
+section 23A of the Federal Reserve Act
+2
+ were oriented mostly toward protecting the insured 
+
+depository institution and the federal deposit insurance fund (DIF) from possible depredation by 
+
+those nonbank  businesses.  The activities of broker-dealers, for example, were relevant to 
+
+prudential regulation only insofar as they affected an affiliated depository institution.   
+
+ Of course, banking law had not only tried to protect the DIF from the risky activities of 
+
+banks and their affiliates.  It had also, albeit far less explicitly, tried to protect banks from 
+
+nonbank competition and, to some degree, from each other.
+3
+  Just as banks were supposed to 
+
+stick to their knitting—the business of banking—so everyone else was supposed to stay out of 
+
+that business.  But as we all know, the distinction between demand for commercial bank loans 
+
+and for investment bank underwriting of public debt issuance was never absolute, and in the 
+
+1970s it began to erode more rapidly with the growth of capital markets and financial 
+
+innovations such as money market funds.   
+
+The financial crisis has confirmed that the pre-crisis regulatory structure reflected a view 
+
+of the financial system that was at once too broad and too narrow.  It was too broad in that 
+
+prudential rules generally applied to all banks and bank holding companies through a 
+
+microprudential approach focused on the soundness of each individual bank.  The rules were 
+
+implemented somewhat differently, based on the size and relative complexity of banking 
+
+organizations, and separate supervisory portfolios were created.  But the principles informing 
+
+regulation were basically the same whether the institution was a community bank or a holding 
+
+company with a $1 trillion balance sheet whose failure might shake the entire financial system. 
+
+                                                           
+2
+ 12 U.S.C. §371c.  Section 23A limits transactions between insured depository institutions and their corporate 
+
+affiliates. 
+3
+ For example, restrictions on branching across state lines and, in some cases, within states limited competition 
+
+significantly until they were loosened through statutory changes, such as the Riegle-Neal Interstate Banking & 
+
+Branching Efficiency Act, P.L. 103-328 (1994). 
+
+
+
+
+- 4 - 
+ 
+
+
+The prudential regulatory structure was too narrow in that it did not extend to firms and 
+
+activities outside of banking organizations, even those that could pose a threat to financial 
+
+stability, because the soundness of the federal deposit insurance system was not implicated.  
+
+Thus Lehman Brothers, whose failure did seriously shake the financial system, was not subject to 
+
+even the microprudential standards applicable to bank holding companies.  The run on the repo 
+
+market involved a wide range of market actors of different sizes, operating under different 
+
+regulatory constraints.   
+
+Redefining Prudential Regulation 
+
+ It is important to recognize that the statutory and administrative changes in regulation 
+
+following the financial crisis were not only about strengthening existing regulation following 30 
+
+years of largely deregulatory measures that had preceded the crisis.  The turmoil that attended the 
+
+collapse of several large nonbank financial institutions, and the extraordinary government 
+
+measures necessary to contain that turmoil, had quickly changed into a consensus—previously 
+
+the minority view—that prudential regulation should be broadened to better safeguard the 
+
+financial system as a whole.  This perspective was embraced by Congress in the Dodd-Frank 
+
+Wall Street Reform and Consumer Protection Act (Dodd-Frank), which directed federal banking 
+
+and market regulators to add to their existing mandates the responsibility for protecting financial 
+
+stability.  Dodd-Frank provided numerous new authorities for executing this new mission. 
+
+  One regulatory innovation in Dodd-Frank that is particularly salient for present purposes 
+
+was the creation of different categories of banking organizations—largely, but not exclusively, 
+
+on the basis of total assets—to which different regulatory requirements are to apply.  Most 
+
+prominently, section 165 requires that “in order to prevent or mitigate risks to the financial 
+
+stability of the United States,” the Federal Reserve Board is to establish for all bank holding 
+
+
+- 5 - 
+ 
+
+
+companies with at least $50 billion in assets prudential standards that “are more stringent” than 
+
+generally applicable standards and that “increase in stringency” based on a variety of factors 
+
+related to the systemic importance of these institutions.
+4
+  These standards must cover capital, 
+
+liquidity, risk management, resolution planning, and concentration limits; the Federal Reserve 
+
+may add other standards as it finds appropriate.
+5
+  Section 165 also establishes requirements for 
+
+the establishment of a risk committee and for stress testing, but these are applicable in at least 
+
+some respects to all bank holding companies with at least $10 billion in assets.   
+
+ In implementing the section 165 requirement of increasing stringency for enhanced 
+
+prudential standards applicable to banking organizations of increasing systemic importance, the 
+
+Federal Reserve has essentially created several categories within the universe of banking 
+
+organizations with $50 billion or more in assets.  All firms in this universe will be subject to the 
+
+basic enhanced standards, including supervisory stress tests, capital plan submissions, resolution 
+
+plan requirements, single counterparty credit limits, and a modified form of the Liquidity 
+
+Coverage Ratio (LCR) requirement that was part of Basel III.  Firms with at least $250 billion in 
+
+assets or $10 billion in on-balance-sheet foreign assets are also subject to the advanced approach 
+
+risk-based capital requirements of Basel II, the Basel III supplementary leverage ratio, the full 
+
+LCR requirement, and the countercyclical capital buffer provision of Basel III.
+6
+  The eight U.S. 
+
+firms designated as global systemically important banks will be additionally subject to risk-based 
+
+capital surcharges, the enhanced Basel III supplementary leverage ratio, tighter single 
+
+counterparty credit limits, and a long-term debt requirement designed to support the 
+
+                                                           
+4
+ Section 165 of Dodd-Frank also requires that these special prudential standards apply to any nonbank financial 
+
+company designated as systemically important by the Financial Stability Oversight Council. 
+5
+ Dodd-Frank also uses the $50 billion threshold in other parts of the law, such as to define the universe of firms that 
+
+must pay the Federal Reserve for the cost of examination and supervision, and that are subject to ex post 
+
+assessments in the event that taxpayers were to bear any loss as a result of the resolution of a firm under Title II of 
+
+the law. 
+6
+ The $250 billion/$10 billion threshold does not appear in Dodd-Frank.  It was a pre-existing regulatory category 
+
+created to identify the firms subject to the so-called advanced approaches risk-based capital requirements of Basel II. 
+
+
+- 6 - 
+ 
+
+
+effectiveness of orderly resolution processes.  In addition, the supervision of these firms is 
+
+overseen by the Large Institution Supervision Coordinating Committee (LISCC), an inter-
+
+disciplinary group created by the Federal Reserve Board in 2010.
+7
+ 
+
+ Thus, there are regulatory categories for banks with $10 billion or more in assets, with 
+
+$50 billion in assets, with either $250 billion in assets or $10 billion in foreign assets, and with a 
+
+combination of large asset holdings and other characteristics that have resulted in their being 
+
+designated of global systemic importance.  In fact, Dodd-Frank creates another category of banks 
+
+in making its provision on incentive compensation applicable to banking organizations with at 
+
+least $1 billion in assets.  Clearly, the unitary approach of the pre-crisis period has been 
+
+abandoned.  This is an important move in the right direction.  But in terms of differentiating 
+
+regulatory aims, Dodd-Frank really identifies only one additional objective—that of preventing 
+
+or mitigating risks to U.S. financial stability.  By developing this objective a bit more, and by 
+
+introducing other salient considerations, we may be able to specify the varying aims of 
+
+regulation for different kinds of banks in a manner that helps us rationalize applicable regulatory 
+
+structures.  
+
+Specifying Regulatory Aims 
+
+ Let me begin with what I regard as relatively straightforward cases in specifying 
+
+regulatory aims—those of the very largest banking organizations and of small ones.  The largest, 
+
+of course, have commanded enormous attention, with too-big-to-fail concerns often dominating 
+
+the public debate on regulatory reform in the aftermath of the financial crisis.  There is now a 
+
+consensus among banking authorities, both U.S. and foreign, that the failure of financial 
+
+                                                           
+7
+ For more on LISCC, including which firms are part of the LISCC portfolio, see 
+
+www.federalreserve.gov/bankinforeg/large-institution-supervision.htm. 
+
+
+- 7 - 
+ 
+
+
+institutions of sufficient combined size, interconnectedness, and leverage could threaten the 
+
+entire financial system, and, therefore, must be subject to a stricter regulatory regime. 
+
+The special regulatory aims for such institutions should reflect this systemic focus.  The 
+
+very large negative externalities associated with such failures could be realized through a classic 
+
+domino effect or through contagion effects.  As the financial crisis showed, losses in a tail event 
+
+are likely to be correlated for large firms deeply engaged in trading, structured products, and 
+
+other capital market instruments, and relying on similar sources of short-term funding.  Thus, the 
+
+regulatory framework should aim to reduce the chances of distress or failure at such firms to a 
+
+greater extent than traditional, microprudential regulation would.  Moreover, it should explicitly 
+
+take into account the correlations and inter-dependencies in asset holdings and funding.  Finally, 
+
+the regulatory system should aim to offset the perception of too-big-to-fail status, which carries 
+
+with it the possibility of funding advantages in normal times, and protection of creditors and 
+
+perhaps even shareholders in highly stressed times.  The systemic perspective and consequent 
+
+aim of protecting financial stability argue for the stronger and broader regulatory measures that 
+
+have been undertaken in recent years.  
+
+At the other end of the spectrum are community banks, conventionally defined as those 
+
+with less than $10 billion in assets.  The roughly 5,700 banks in this group constitute 98 percent 
+
+of insured commercial banks in the United States, but hold just under 20 percent of the aggregate 
+
+assets of all commercial banks.  Indeed, 90 percent of community banks are what supervisors 
+
+classify as “small” community banks—those with less than $1 billion in assets.  While these 
+
+banks will suffer the fallout from systemic problems, they are unlikely to cause such problems.  
+
+The regulatory aim, therefore, is about as close as can be to the traditional microprudential bank 
+
+regulatory aims of protecting the federal DIF and limiting the use of insured deposits by 
+
+
+- 8 - 
+ 
+
+
+restricting the scope of bank activities.  It is true that the relative lack of geographic and portfolio 
+
+diversification in many community banks can make them vulnerable to localized economic 
+
+problems.  But that is just the kind of problem that traditional microprudential regulation has 
+
+been concerned with addressing. 
+
+What, then, of the 80 or so U.S. banks that have assets of $10 billion or more, but are not 
+
+among the eight large, complex institutions that have been designated of global systemic 
+
+importance?  Obviously they vary enormously in size, from just over $10 billion in assets all the 
+
+way up to very large regional banks with hundreds of billions in assets.  They bridge the $50 
+
+billion threshold for enhanced prudential standards established by Dodd-Frank.  Yet, whatever 
+
+their size, most banking organizations in this group are overwhelmingly recognizable as 
+
+traditional commercial banks (though a few do have significant capital market or other 
+
+activities).  
+
+ It is with this similarity in mind that some executives of some pretty sizable banks have 
+
+described their institutions to me as essentially a community bank, but with a bigger balance 
+
+sheet.  But there are at least two reasons why the aims for prudential regulation of such 
+
+institutions might reach beyond conventional microprudential purposes.  First, some at the higher 
+
+end of this range may have a large enough systemic footprint that their stress or failure could 
+
+have material effects on the rest of the financial system, though less than the LISCC firms.  
+
+Second, more than one-third of U.S. commercial banking assets are held by these 80 banks.  If a 
+
+number of these banks simultaneously came under pressure or failed, a harmful contraction of 
+
+credit availability in significant regions or sectors of the economy could ensue, even if there were 
+
+little chance of a financial crisis.  Thus, particularly to the degree that there are correlations in the 
+
+
+- 9 - 
+ 
+
+
+risks associated with loans held across such institutions, there should be a macroprudential 
+
+objective in the regulation of at least some of these firms.   
+
+ Of course, I would not lump all 80 of these institutions into the same category for 
+
+purposes of specifying the aims of regulation.  In particular, only a small fraction of these firms 
+
+have a significant enough systemic footprint that their stress or failure would impose sizable 
+
+negative externalities on the rest of the financial system.  And the lines delineating the possible 
+
+categories are not as easy to draw as for community banks and LISCC firms.  Nonetheless, I will 
+
+suggest in a few moments some possible classifications for this group of banks, along with 
+
+examples of the varying regulations that might apply. 
+
+Rationalizing the Regulatory Framework 
+
+   The preceding observations have portrayed the prudential regulatory framework as one 
+
+that should be constructed with different aims in mind.  With respect to all depository 
+
+institutions, this framework maintains the traditional aim of protecting the DIF and limiting the 
+
+use of insured deposits to engage in nonbank activities.  With respect to banks of a certain size—
+
+even those predominantly involved in conventional lending activities—a macroprudential aim 
+
+should be added.  Finally, with respect to banking organizations of such size and complexity that 
+
+serious stress or failure could pose risks to the entire financial system, a financial stability aim 
+
+should be the basis for additional forms of regulation.  As suggested in section 165 of Dodd-
+
+Frank, the stringency of these additional regulations should increase in proportion to the systemic 
+
+importance of the banking organizations. 
+
+ Let me now give a few examples of how specifying these aims can help us think through 
+
+ways in which the current overlays of regulatory and supervisory requirements might be 
+
+rationalized.  In part, such a rationalization is motivated by the familiar goal of limiting 
+
+
+- 10 - 
+ 
+
+
+regulatory costs that are not necessary to achieve a given set of regulatory aims, thereby lowering 
+
+the cost of the underlying economic activity.  But it is also motivated by the advantage to be 
+
+gained if supervisory resources can be deployed where their payoff in achieving well-specified 
+
+regulatory aims will be highest.   
+
+Community banks.  I will begin again with community banks.  Community bankers often 
+
+argue that they are subject to a range of rules and requirements that are not really necessary 
+
+given the relevant regulatory aim which, as previously suggested, is quite straightforward.  That 
+
+regulatory aim needs to be implemented with an eye to the context in which community banks 
+
+operate.  One obvious point of context is that any regulatory requirement is likely to be 
+
+disproportionately costly for community banks, since the fixed costs associated with compliance 
+
+must be spread over a smaller base of assets.   
+
+A second important point of context is the business model of community banks.  As is 
+
+well-known, over the past few decades they have substantially reduced their presence in lines of 
+
+business such as consumer lending in the face of competition from larger banks benefiting from 
+
+economies of scale.  Today, as a group, their most important forms of lending are to small- and 
+
+medium-sized businesses.  Smaller community banks—those with less than $1 billion in assets—
+
+account for nearly a quarter of commercial and industrial lending, and nearly 40 percent of 
+
+commercial real estate lending, to small- and medium-sized businesses, despite their having less 
+
+than 10 percent of total commercial banking assets. 
+
+This state of affairs is not surprising when one considers that credit extension to smaller 
+
+firms is an area in which the relationship lending model of community banks retains a 
+
+comparative advantage.  It means that community banks are of special significance to local 
+
+economies.  It also means that, particularly in rural areas, the disappearance of community banks 
+
+
+- 11 - 
+ 
+
+
+could augur a permanent falloff in this kind of credit, at least a portion of which may not be 
+
+maintained in the more standardized approach to lending characteristic of larger banks.   
+
+ Banking regulators have taken a number of steps to try to avoid unnecessary regulatory 
+
+costs for community banks, such as fashioning simpler compliance requirements and identifying 
+
+which provisions of new regulations are of relevance to smaller banks.  But a number of new 
+
+statutory provisions apply explicitly to some smaller banks or, by failing to exclude any banks 
+
+from coverage, apply to all banks.  This means that smaller banks do need to expend at least 
+
+some compliance effort.  And, even where regulatory frameworks try to place a lesser burden on 
+
+smaller banks, there may be some risk of “supervisory trickle down,” whereby supervisors 
+
+informally, and perhaps not wholly intentionally, create compliance expectations for smaller 
+
+banks that resemble expectations created for larger institutions. 
+
+ It would be worthwhile to have a policy discussion of statutes that might be amended 
+
+explicitly to exclude community banks (which, again, are generally defined as those with less 
+
+than $10 billion in assets) from their coverage.  In my view, two candidates would be the 
+
+Volcker rule and the incentive compensation requirements in section 956 of Dodd-Frank.  The 
+
+concerns addressed by these statutory provisions are substantially greater at larger institutions 
+
+and, even where a practice at a smaller bank might raise concerns, the supervisory process 
+
+remains available to address what would likely be unusual circumstances.  Indeed, relieving both 
+
+banks and supervisors of the need to focus on formal compliance with a range of regulations less 
+
+relevant to community bank practice would free them to focus on the actual problems that may 
+
+exist at smaller banks.     
+
+ Middle-range banks.   As I have already suggested, financial stability and 
+
+macroprudential aims do not apply equally to all 80 of the banks in this wide category of firms 
+
+
+- 12 - 
+ 
+
+
+holding over $10 billion in assets, other than the LISCC banking organizations.  While it is 
+
+reasonable to adopt a macroprudential aim for all firms in this category, few of these banks have 
+
+the kind of systemic footprint that would warrant extensive special regulation for financial 
+
+stability purposes.  In establishing requirements for firm (though not supervisory) stress testing 
+
+and risk-management committees for all bank holding companies in this group, but mandating 
+
+that only bank holding companies of $50 billion or more be subject to enhanced prudential 
+
+standards, Congress has reflected a similar judgment.  The key question is whether $50 billion is 
+
+the right line to have drawn.   
+
+ Experience to date suggests to me, at least, that the line might better be drawn at a higher 
+
+asset level—$100 billion, perhaps.   Requirements such as resolution planning and the quite 
+
+elaborate requirements of our supervisory stress testing process do not seem to me to be 
+
+necessary for banks between $50 billion and $100 billion in assets.  If the line were redrawn at a 
+
+higher figure, we might explore simpler methods for promoting macroprudential aims with 
+
+respect to banks above $10 billion in assets but below the new threshold. 
+
+ Were such a change to be adopted, bank holding companies with less than $100 billion in 
+
+assets would not be subject to any of the enhanced prudential requirements of section 165 of 
+
+Dodd-Frank; bank holding companies with assets between $100 billion and $250 billion would 
+
+be subject to supervisory stress testing and a basic set of the section 165 requirements; and 
+
+holding companies with $250 billion or more in assets would be subject to the supplementary 
+
+leverage ratio, the full LCR, and the countercyclical capital buffer provision.  Of course, this is 
+
+not the only way to draw the lines, and there could be reasons for applying additional 
+
+requirements to specific banks, even if they fall below the presumptive asset threshold.  But I use 
+
+
+- 13 - 
+ 
+
+
+this example to illustrate how the specification of aims and the progressive stringency of section 
+
+165 could be usefully combined. 
+
+ Largest institutions.  Specifying prudential regulatory aims in the context of community 
+
+and middle-range banks suggests a rationalization that could possibly eliminate certain 
+
+requirements as they apply to some of these banks.  In the case of the LISCC institutions, 
+
+however, I believe there are additional requirements needed to implement prudential aims 
+
+associated with financial stability.  These include capital surcharges and minimum amounts of 
+
+“gone concern” loss absorbing capacity, among others.  Most important is continued work on the 
+
+vulnerabilities posed by short-term wholesale funding and, more generally, by large trading 
+
+books, including maturity matched books of securities financing transactions.  The regulatory 
+
+response to these vulnerabilities will likely require some combination of measures directed at 
+
+capital, liquidity requirements, and resolution procedures.  There is also a need for a 
+
+complementary set of measures such as minimum margining requirements applicable to all 
+
+securities financing transactions, whether or not they involve systemically important firms. 
+
+But there are some opportunities for rationalization even with respect to regulation of the 
+
+larger institutions.  While necessary new rules will now be applied to these institutions, vestiges 
+
+of the pre-crisis regulatory approach that did not rest on well-specified regulatory aims are still in 
+
+place and might sensibly be modified or removed.  Most prominent in this regard is the Basel II 
+
+IRB approach for risk-weighted capital requirements.  The IRB approach, which generally 
+
+applies in the United States to all bank holding companies with $250 billion or more in assets, 
+
+was developed a decade ago in an effort to align risk weightings more closely to the increasingly 
+
+sophisticated quantitative risk-assessment techniques in the financial industry.   
+
+
+- 14 - 
+ 
+
+
+At the time of its development, the IRB approach seemed intended to result in a modest 
+
+decline in risk-weighted capital requirements, a goal that the financial crisis revealed to be badly 
+
+misguided.  But even with the higher capital ratios required by Basel III, the IRB approach is 
+
+problematic.  The combined complexity and opacity of risk weights generated by each banking 
+
+organization for purposes of its regulatory capital requirement create manifold risks of gaming, 
+
+mistake, and monitoring difficulty.  The IRB approach contributes little to market understanding 
+
+of large banks’ balance sheets, and thus fails to strengthen market discipline.  And the relatively 
+
+short, backward-looking basis for generating risk weights makes the resulting capital standards 
+
+likely to be excessively pro-cyclical and insufficiently sensitive to tail risk.  That is, the IRB 
+
+approach—for all its complexity and expense—does not do a very good job of advancing the 
+
+financial stability and macroprudential aims of prudential regulation.  Yet a capital measure that 
+
+incorporates these aims is precisely what is needed to complement the traditional 
+
+microprudential elements of our capital standards. 
+
+ The supervisory stress tests developed by the Federal Reserve over the past five years 
+
+provide a much better risk-sensitive basis for setting minimum capital requirements.  They do 
+
+not rely on firms’ own loss estimates.  They are based on adverse scenarios that would affect the 
+
+entire economy and take correlated asset holdings into account.  As we gain experience, we have 
+
+been enhancing the macroprudential features of the annual stress test exercise.  And, of course, 
+
+the disclosure of the results helps inform counterparties and investors, thereby increasing market 
+
+discipline.  They are undoubtedly a substantial amount of work for both the banks and 
+
+supervisors but, unlike the IRB approach, the benefits seem worth the work.
+8
+ 
+
+                                                           
+8
+ Under the Federal Reserve’s Comprehensive Capital Analysis and Review program, bank holding companies 
+
+participating in the supervisory stress tests must demonstrate their capacity for sound quantitative risk assessment 
+
+and management, but not for purposes of setting regulatory capital requirements. 
+
+
+- 15 - 
+ 
+
+
+  For all these reasons, I believe we should consider discarding the IRB approach to risk-
+
+weighted capital requirements.  With the Collins Amendment
+9
+ providing a standardized, 
+
+statutory floor for risk-based capital; the enhanced supplementary leverage ratio providing a 
+
+stronger back-up capital measure; and the stress tests providing a better risk-sensitive measure 
+
+that incorporates a macroprudential dimension, the IRB approach has little useful role to play.  
+
+We would continue to expect that firms practice sound quantitative risk management using 
+
+internal models and other techniques.  Indeed, the qualitative assessment included in our annual 
+
+Comprehensive Capital Analysis and Review (CCAR) exercise is designed to ensure that the 
+
+firms have this capacity.  But, in light of all that has happened in the last decade, I see little 
+
+reason to maintain the requirements of the IRB approach for our largest banks. 
+
+Of course, the IRB approach was agreed internationally as part of the Basel II framework 
+
+concluded in 2004.  It would be best if all the Basel Committee countries moved together to 
+
+adopt standardized risk-weighted and supervisory stress testing requirements for all 
+
+internationally active banks.  This would be a somewhat complicated shift for a number of 
+
+reasons, including the likely appropriateness of applying different adverse scenarios for different 
+
+parts of the world and the challenges in conducting a peer review at the Basel Committee of 
+
+supervisory stress tests by member countries.  Yet, as documented by the Basel Committee’s 
+
+work on divergence in risk weightings by banks applying IRB methods, Basel II created its own 
+
+problems of consistency and transparency.  There is no reason to believe that the task of creating 
+
+an oversight and review framework for supervisory stress testing would be any more difficult. 
+
+
+
+                                                           
+9
+ Section 171 of Dodd-Frank, popularly known as the Collins Amendment, requires that the federal banking 
+
+agencies establish minimum consolidated capital requirements for all banking organizations that are not less than 
+
+“generally applicable” risk-based capital requirements.   
+
+
+- 16 - 
+ 
+
+
+Conclusion 
+
+ In practical terms, the unitary approach to banking regulation has been supplanted by 
+
+various statutory, regulatory, and supervisory responses to the financial crisis.  In particular, the 
+
+aim of protecting financial stability has figured prominently in those responses, though a broader 
+
+macroprudential aim can be detected as well.  I have tried today to suggest that an explicit effort 
+
+to specify relevant aims as they pertain to different kinds of banking organizations can provide a 
+
+basis for rationalizing applicable regulatory frameworks—sometimes by paring back or 
+
+foregoing regulation for certain kinds of firms, and sometimes by adding a regulatory measure 
+
+where the relevant aim has not been adequately promoted by existing measures. 
+
+ By design and necessity, I have offered only a handful of illustrations as to how this 
+
+perspective might lead to certain regulatory changes.  I look forward to debate on the merits of 
+
+these, and other, possible implications of a more precise specification of prudential regulatory 
+
+aims.  I also look forward to seeing new editions of banking law casebooks that differentiate 
+
+regulatory measures with an eye to these multiple aims and their differential application to 
+
+various banking organizations.  
+
+
+
+
+
+
+

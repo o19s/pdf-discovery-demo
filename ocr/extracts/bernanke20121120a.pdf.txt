@@ -1,0 +1,820 @@
+
+
+
+For release on delivery 
+12:15 p.m. EST 
+November 20, 2012 
+ 
+
+
+The Economic Recovery and Economic Policy 
+ 
+ 
+ 
+
+Remarks by 
+ 
+
+Ben S. Bernanke 
+Chairman 
+
+ 
+Board of Governors of the Federal Reserve System 
+
+ 
+at 
+ 
+
+The Economic Club of New York 
+ 
+
+New York, New York 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+November 20, 2012 
+
+
+
+
+
+
+Good afternoon.  I am pleased to join the New York Economic Club for lunch 
+
+today.  I know that many of you and your friends and neighbors are still recovering from 
+
+the effects of Hurricane Sandy, and I want to let you know that our thoughts are with 
+
+everyone who has suffered during the storm and its aftermath.   
+
+My remarks today will focus on the reasons for the disappointingly slow pace of 
+
+economic recovery in the United States and the policy actions that have been taken by the 
+
+Federal Open Market Committee (FOMC) to support the economy.  In addition, I will 
+
+discuss some important economic challenges our country faces as we close out 2012 and 
+
+move into 2013--in particular, the challenge of putting federal government finances on a 
+
+sustainable path in the longer run while avoiding actions that would endanger the 
+
+economic recovery in the near term. 
+
+The Recovery from the Financial Crisis and Recession 
+
+The economy has continued to recover from the financial crisis and recession, but 
+
+the pace of recovery has been slower than FOMC participants and many others had hoped 
+
+or anticipated when I spoke here about three years ago.  Indeed, since the recession 
+
+trough in mid-2009, growth in real gross domestic product (GDP) has averaged only a 
+
+little more than 2 percent per year.   
+
+Similarly, the job market has improved over the past three years, but at a slow 
+
+pace.  The unemployment rate, which peaked at 10 percent in the fall of 2009, has since 
+
+come down 2 percentage points to just below 8 percent.  This decline is obviously 
+
+welcome, but it has taken a long time to achieve that progress, and the unemployment 
+
+rate is still well above both its level prior to the onset of the recession and the level that 
+
+my colleagues and I think can be sustained once a full recovery has been achieved.  
+
+
+
+
+- 2 -
+
+Moreover, many other features of the jobs market, including the historically high level of 
+
+long-term unemployment, the large number of people working part time because they 
+
+have not been able to find full-time jobs, and the decline in labor force participation, 
+
+reinforce the conclusion that we have some way to go before the labor market can be 
+
+deemed healthy again. 
+
+Meanwhile, inflation has generally remained subdued.  As is often the case, 
+
+inflation has been pushed up and down in recent years by fluctuations in the price of 
+
+crude oil and other globally traded commodities, including the increase in farm prices 
+
+brought on by this summer’s drought.  But with longer-term inflation expectations 
+
+remaining stable, the ebbs and flows in commodity prices have had only transitory effects 
+
+on inflation.  Indeed, since the recovery began about three years ago, consumer price 
+
+inflation, as measured by the personal consumption expenditures (PCE) price index, has 
+
+averaged almost exactly 2 percent, which is the FOMC’s longer-run objective for 
+
+inflation.1  Because ongoing slack in labor and product markets should continue to 
+
+restrain wage and price increases, and with the public’s inflation expectations continuing 
+
+to be well anchored,  inflation over the next few years is likely to remain close to or a 
+
+little below the Committee’s objective. 
+
+As background for our monetary policy decisionmaking, we at the Federal 
+
+Reserve have spent a good deal of effort attempting to understand the reasons why the 
+
+economic recovery has not been stronger.  Studies of previous financial crises provide 
+
+one helpful place to start.2  This literature has found that severe financial crises--
+
+                                                 
+1 Inflation excluding food and energy has averaged a little less, about 1-1/2 percent, over this period.   
+2 See Carmen M. Reinhart and Kenneth S. Rogoff (2009), This Time Is Different:  Eight Centuries of 
+Financial Folly (Princeton:  Princeton University Press); Moritz Schularick and Alan M. Taylor (2012), 
+ 
+
+
+
+
+- 3 -
+
+particularly those associated with housing booms and busts--have often been associated 
+
+with many years of subsequent weak performance.  While this result allows for many 
+
+interpretations, one possibility is that financial crises, or the deep recessions that typically 
+
+accompany them, may reduce an economy’s potential growth rate, at least for a time. 
+
+The accumulating evidence does appear consistent with the financial crisis and 
+
+the associated recession having reduced the potential growth rate of our economy 
+
+somewhat during the past few years.  In particular, slower growth of potential output 
+
+would help explain why the unemployment rate has declined in the face of the relatively 
+
+modest output gains we have seen during the recovery.  Output normally has to increase 
+
+at about its longer-term trend just to create enough jobs to absorb new entrants to the 
+
+labor market, and faster-than-trend growth is usually needed to reduce unemployment.  
+
+So the fact that unemployment has declined in recent years despite economic growth at 
+
+about 2 percent suggests that the growth rate of potential output must have recently been 
+
+lower than the roughly 2-1/2 percent rate that appeared to be in place before the crisis.3   
+
+                                                                                                                                                 
+“Credit Booms Gone Bust:  Monetary Policy, Leverage Cycles, and Financial Crises, 1870-2008,” 
+American Economic Review, vol. 102 (April), pp. 1029-61; Valerie Cerra and Sweta Chaman Saxena 
+(2008), “Growth Dynamics:  The Myth of Economic Recovery,” American Economic Review, vol. 98 
+(March), pp. 439-57; Greg Howard, Robert Martin, and Beth Anne Wilson (2011), “Are Recoveries from 
+Banking and Financial Crises Really So Different?” International Finance Discussion Papers 1037 
+(Washington:  Board of Governors of the Federal Reserve System, November), 
+www.federalreserve.gov/pubs/ifdp/2011/1037/default.htm; and Michael D. Bordo and Joseph G. Haubrich 
+(2012), “Deep Recessions, Fast Recoveries, and Financial Crises:  Evidence from the American Record,” 
+Working Paper 12-14 (Cleveland:  Federal Reserve Bank of Cleveland, June), 
+www.clevelandfed.org/research/research_publication.cfm?id=35. 
+3 That said, GDP growth in excess of potential is probably not the whole explanation for the decline in 
+unemployment.  Some of the decline in unemployment during the recovery could also reflect a reversal of 
+the especially large increases that occurred during the deepest part of the recession, when firms appeared to 
+cut their workforces by greater numbers than would normally be associated with the decline in GDP.  (For 
+a discussion, see Ben S. Bernanke (2012), “Recent Developments in the Labor Market,” speech delivered at 
+the National Association for Business Economics 28th Annual Economic Policy Conference, Arlington, 
+Va., March 26,   www.federalreserve.gov/newsevents/speech/bernanke20120326a.htm.)  A reduction in the 
+number of people receiving extended or emergency unemployment insurance benefits may have 
+contributed to the decline in unemployment as well.   
+
+
+
+
+- 4 -
+
+There are a number of ways in which the financial crisis could have slowed the 
+
+rate of growth of the economy’s potential.  For example, the extraordinarily severe job 
+
+losses that followed the crisis, especially in housing-related industries, may have 
+
+exacerbated for a time the extent of mismatch between the jobs available and the skills 
+
+and locations of the unemployed.  Meanwhile, the very high level of long-term 
+
+unemployment has probably led to some loss of skills and labor force attachment among 
+
+those workers.  These factors may have pushed up to some degree the so-called natural 
+
+rate of unemployment--the rate of unemployment that can be sustained under normal 
+
+conditions--and reduced labor force participation as well.  The pace of productivity 
+
+gains--another key determinant of growth in potential output--may also have been 
+
+restrained by the crisis, as business investment declined sharply during the recession; and 
+
+increases in risk aversion and uncertainty, together with tight credit conditions, may have 
+
+impeded the commercial application of new technologies and slowed the pace of business 
+
+formation. 
+
+Importantly, however, although the nation’s potential output may have grown 
+
+more slowly than expected in recent years, this slowing seems at best a partial 
+
+explanation of the disappointing pace of the economic recovery.  In particular, even 
+
+though the natural rate of unemployment may have increased somewhat, a variety of 
+
+evidence suggests that any such increase has been modest, and that substantial slack 
+
+remains in the labor market.  For example, the slow pace of employment growth has been 
+
+widespread across industries and regions of the country.  That pattern suggests a broad-
+
+based shortfall in demand rather than a substantial increase in mismatch between 
+
+available jobs and workers, because greater mismatch would imply that the demand for 
+
+
+
+
+- 5 -
+
+workers would be strong in some regions and industries, not weak almost across the 
+
+board.  Likewise, if a mismatch of jobs and workers is the predominant problem, we 
+
+would expect to see wage pressures developing in those regions and industries where 
+
+labor demand is strong; in fact, wage gains have been quite subdued in most industries 
+
+and parts of the country.4  Indeed, as I indicated earlier, the consensus among my 
+
+colleagues on the FOMC is that the unemployment rate is still well above its longer-run 
+
+sustainable level, perhaps by 2 to 2-1/2 percentage points or so.5   
+
+A critical question, then, is why significant slack in the job market remains three 
+
+years after the recovery began.  A likely explanation, which I will discuss further, is that 
+
+the economy has been faced with a variety of headwinds that have hindered what 
+
+otherwise might have been a stronger cyclical rebound.  If so, we may take some 
+
+encouragement from the likelihood that there are potentially two sources of faster GDP 
+
+growth in the future.  First, the effects of the crisis on potential output should fade as the 
+
+economy continues to heal.6  And second, if the headwinds begin to dissipate, as I expect, 
+
+                                                 
+4 In addition, while the changing relationship between job vacancies and unemployment--the shift in the 
+Beveridge curve--probably does point to some greater difficulty matching jobs with workers, factors other 
+than mismatch likely explain some of that shift.  For example, evidence suggests that firms tend to become 
+more selective in hiring when their hiring needs are not urgent.  For further discussion of these labor market 
+issues, see Bernanke, “Recent Developments,” in note 3 and the references cited therein.  See also Edward 
+P. Lazear and James R. Spletzer (2012), “The United States Labor Market:  Status Quo or a New Normal?” 
+paper delivered at “The Changing Policy Landscape,” a symposium sponsored by the Federal Reserve 
+Bank of Kansas City, held in Jackson Hole, Wyo., August 30-September 1, 
+www.kansascityfed.org/publicat/sympos/2012/el-js.pdf. 
+5 In the September 2012 Summary of Economic Projections (SEP), the central tendency of FOMC 
+participants’ estimates of the long-run normal rate of unemployment ranged from 5.2 to 6 percent.  The 
+SEP is an addendum to the FOMC minutes and is available at Board of Governors of the Federal Reserve 
+System (2012), “Minutes of the Federal Open Market Committee, September 12-13, 2012,” press release, 
+October 4, www.federalreserve.gov/newsevents/press/monetary/20121004a.htm.  
+6 For example, mismatch problems in the labor market should fade as the economy strengthens, a further 
+rise in business investment would contribute to faster growth in the capital stock, and an improving 
+economy should cause investors to become less risk averse.   
+
+
+
+
+- 6 -
+
+growth should pick up further as many who are currently unemployed or out of the labor 
+
+force find work.    
+
+Headwinds Affecting the Recovery 
+
+What are the headwinds that have slowed the return of our economy to full 
+
+employment?  Some have come from the housing sector.  Previous recoveries have often 
+
+been associated with a vigorous rebound in housing, as rising incomes and confidence 
+
+and, often, a decline in mortgage interest rates led to sharp increases in the demand for 
+
+homes.7  But the housing bubble and its aftermath have made this episode quite different.  
+
+In the first half of the past decade, both housing prices and construction rose to what 
+
+proved to be unsustainable levels, leading to a subsequent collapse:  House prices 
+
+declined almost one-third nationally from 2006 until early this year, construction of 
+
+single-family homes fell two-thirds, and the number of construction jobs decreased by 
+
+nearly one-third.  And, of course, the associated surge in delinquencies on mortgages 
+
+helped trigger the broader financial crisis. 
+
+Recently, the housing market has shown some clear signs of improvement, as 
+
+home sales, prices, and construction have all moved up since early this year.  These 
+
+developments are encouraging, and it seems likely that, on net, residential investment 
+
+will be a source of economic growth and new jobs over the next couple of years.  
+
+However, while historically low mortgage interest rates and the drop in home prices have 
+
+made housing exceptionally affordable, a number of factors continue to prevent the sort 
+
+of powerful housing recovery that has typically occurred in the past.  Notably, lenders 
+
+                                                 
+7 In the recoveries following the 1975 and 1982 recessions, for example, residential construction directly 
+contributed about 1 percentage point to GDP growth during the two years following the recession trough; 
+indirect effects--through the effect of home prices on consumer spending or through multiplier effects--no 
+doubt added to the contribution.   
+
+
+
+
+- 7 -
+
+have maintained tight terms and conditions on mortgage loans, even for potential 
+
+borrowers with relatively good credit.8  Lenders cite a number of factors affecting their 
+
+decisions to extend credit, including ongoing uncertainties about the course of the 
+
+economy, the housing market, and the regulatory environment.  Unfortunately, while 
+
+some tightening of the terms of mortgage credit was certainly an appropriate response to 
+
+the earlier excesses, the pendulum appears to have swung too far, restraining the pace of 
+
+recovery in the housing sector.   
+
+Other factors slowing the recovery in housing include the fact that many people 
+
+remain unable to buy homes despite low mortgage rates; for example, about 20 percent of 
+
+existing mortgage borrowers owe more on their mortgages than their houses are worth, 
+
+making it more difficult for them to refinance or sell their homes.  Also, a substantial 
+
+overhang of vacant homes, either for sale or in the foreclosure pipeline, continues to hold 
+
+down house prices and reduce the need for new construction.  While these headwinds on 
+
+both the supply and demand sides of the housing market have clearly started to abate, the 
+
+recovery in the housing sector is likely to remain moderate by historical standards. 
+
+A second set of headwinds stems from the financial conditions facing potential 
+
+borrowers in credit and capital markets.  After the financial system seized up in late 2008 
+
+and early 2009, global economic activity contracted sharply, and credit and capital 
+
+markets suffered significant damage.  Although dramatic actions by governments and 
+
+central banks around the world helped these markets to stabilize and begin recovering, 
+
+                                                 
+8 For example, according to the April 2012 Senior Loan Officer Opinion Survey on Bank Lending, about 
+one-half of lenders reported that they were “somewhat less likely” or “much less likely” than in 2006 to 
+originate a mortgage to a borrower with a FICO score of 680 and a 10 percent down payment.  The 
+complete survey is available on the Board’s website at 
+www.federalreserve.gov/boarddocs/snloansurvey/201205/default.htm.   
+
+
+
+
+- 8 -
+
+tight credit and a high degree of risk aversion have restrained economic growth in the 
+
+United States and in other countries as well. 
+
+Measures of the condition of U.S. financial markets and institutions suggest 
+
+gradual but significant progress has been achieved since the crisis.  For example, credit 
+
+spreads on corporate bonds and syndicated loans have narrowed considerably, and equity 
+
+prices have recovered most of their losses.  In addition, indicators of market stress and 
+
+illiquidity--such as spreads in short-term funding markets--have generally returned to 
+
+levels near those seen before the crisis.  One gauge of the overall improvement in 
+
+financial markets is the National Financial Conditions Index maintained by the Federal 
+
+Reserve Bank of Chicago.  The index shows that financial conditions, viewed as a whole, 
+
+are now about as accommodative as they were in the spring of 2007. 
+
+In spite of this broad improvement, the harm inflicted by the financial crisis has 
+
+yet to be fully repaired in important segments of the financial sector.  One example is the 
+
+continued weakness in some categories of bank lending.  Banks’ capital positions and 
+
+overall asset quality have improved substantially over the past several years, and, over 
+
+time, these balance sheet improvements will position banks to extend considerably more 
+
+credit to bank-dependent borrowers.  Indeed, some types of bank credit, such as 
+
+commercial and industrial loans, have expanded notably in recent quarters.  Nonetheless, 
+
+banks have been conservative in extending loans to many consumers and some 
+
+businesses, likely even beyond the restrictions on the supply of mortgage lending that I 
+
+noted earlier.  This caution in lending by banks reflects, among other factors, their 
+
+continued desire to guard against the risks of further economic weakness.  
+
+
+
+
+- 9 -
+
+A prominent risk at present--and a major source of financial headwinds over the 
+
+past couple of years--is the fiscal and financial situation in Europe.  This situation, of 
+
+course, was not anticipated when the U.S. recovery began in 2009.  The elevated levels of 
+
+stress in European economies and uncertainty about how the problems there will be 
+
+resolved are adding to the risks that U.S. financial institutions, businesses, and 
+
+households must consider when making lending and investment decisions.  Negative 
+
+sentiment regarding Europe appears to have weighed on U.S. equity prices and prevented 
+
+U.S. credit spreads from narrowing even further.  Weaker economic conditions in Europe 
+
+and other parts of the world have also weighed on U.S. exports and corporate earnings. 
+
+ Policymakers in Europe have taken some important steps recently, and in doing 
+
+so have contributed to some welcome easing of financial conditions.  In particular, the 
+
+European Central Bank’s new Outright Monetary Transactions program, under which it 
+
+could purchase the sovereign debt of vulnerable euro-area countries who agree to meet 
+
+prescribed conditions, has helped ease market concerns about those countries.  European 
+
+governments have also taken steps to strengthen their financial firewalls and to move 
+
+toward greater fiscal and banking union.  Further improvement in global financial 
+
+conditions will depend in part on the extent to which European policymakers follow 
+
+through on these initiatives. 
+
+ A third headwind to the recovery--and one that may intensify in force in coming 
+
+quarters--is U.S. fiscal policy.  Although fiscal policy at the federal level was quite 
+
+expansionary during the recession and early in the recovery, as the recovery proceeded, 
+
+the support provided for the economy by federal fiscal actions was increasingly offset by 
+
+the adverse effects of tight budget conditions for state and local governments.  In 
+
+
+
+
+- 10 -
+
+response to a large and sustained decline in their tax revenues, state and local 
+
+governments have cut about 600,000 jobs on net since the third quarter of 2008 while 
+
+reducing real expenditures for infrastructure projects by 20 percent.   
+
+More recently, the situation has to some extent reversed:  The drag on economic 
+
+growth from state and local fiscal policy has diminished as revenues have improved, 
+
+easing the pressures for further spending cuts or tax increases.  In contrast, the phasing-
+
+out of earlier stimulus programs and policy actions to reduce the federal budget deficit 
+
+have led federal fiscal policy to begin restraining GDP growth.  Indeed, under almost any 
+
+plausible scenario, next year the drag from federal fiscal policy on GDP growth will 
+
+outweigh the positive effects on growth from fiscal expansion at the state and local level.  
+
+However, the overall effect of federal fiscal policy on the economy, both in the near term 
+
+and in the longer run, remains quite uncertain and depends on how policymakers meet 
+
+two daunting fiscal challenges--one by the start of the new year and the other no later 
+
+than the spring. 
+
+Upcoming Fiscal Challenges 
+
+What are these looming challenges?  First, the Congress and the Administration 
+
+will need to protect the economy from the full brunt of the severe fiscal tightening at the 
+
+beginning of next year that is built into current law--the so-called fiscal cliff.  The 
+
+realization of all of the automatic tax increases and spending cuts that make up the fiscal 
+
+cliff, absent offsetting changes, would pose a substantial threat to the recovery--indeed, 
+
+by the reckoning of the Congressional Budget Office (CBO) and that of many outside 
+
+observers, a fiscal shock of that size would send the economy toppling back into 
+
+recession.  Second, early in the new year it will be necessary to approve an increase in the 
+
+
+
+
+- 11 -
+
+federal debt limit to avoid any possibility of a catastrophic default on the nation’s 
+
+Treasury securities and other obligations.  As you will recall, the threat of default in the 
+
+summer of 2011 fueled economic uncertainty and badly damaged confidence, even 
+
+though an agreement ultimately was reached.  A failure to reach a timely agreement this 
+
+time around could impose even heavier economic and financial costs. 
+
+As fiscal policymakers face these critical decisions, they should keep two 
+
+objectives in mind.  First, as I think is widely appreciated by now, the federal budget is 
+
+on an unsustainable path.  The budget deficit, which peaked at about 10 percent of GDP 
+
+in 2009 and now stands at about 7 percent of GDP, is expected to narrow further in the 
+
+coming years as the economy continues to recover.  However, the CBO projects that, 
+
+under a plausible set of policy assumptions, the budget deficit would still be greater than 
+
+4 percent of GDP in 2018, assuming the economy has returned to its potential by then.  
+
+Moreover, under the CBO projection, the deficit and the ratio of federal debt to GDP 
+
+would subsequently return to an upward trend.9  Of course, we should all understand that 
+
+long-term projections of ever-increasing deficits will never actually come to pass, 
+
+because the willingness of lenders to continue to fund the government can only be 
+
+sustained by responsible fiscal plans and actions.  A credible framework to set federal 
+
+fiscal policy on a stable path--for example, one on which the ratio of federal debt to GDP 
+
+eventually stabilizes or declines--is thus urgently needed to ensure longer-term economic 
+
+growth and stability. 
+
+                                                 
+9 This projection is the alternative fiscal scenario in a CBO report from August of this year.  See 
+Congressional Budget Office (2012), An Update to the Budget and Economic Outlook:  Fiscal Years 2012 
+to 2022 (Washington:  CBO, August), available at www.cbo.gov/publication/43539. 
+
+
+
+
+- 12 -
+
+Even as fiscal policymakers address the urgent issue of longer-run fiscal 
+
+sustainability, they should not ignore a second key objective:  to avoid unnecessarily 
+
+adding to the headwinds that are already holding back the economic recovery.  
+
+Fortunately, the two objectives are fully compatible and mutually reinforcing.  Preventing 
+
+a sudden and severe contraction in fiscal policy early next year will support the transition 
+
+of the economy back to full employment; a stronger economy will in turn reduce the 
+
+deficit and contribute to achieving long-term fiscal sustainability.  At the same time, a 
+
+credible plan to put the federal budget on a path that will be sustainable in the long run 
+
+could help keep longer-term interest rates low and boost household and business 
+
+confidence, thereby supporting economic growth today. 
+
+Coming together to find fiscal solutions will not be easy, but the stakes are high.  
+
+Uncertainty about how the fiscal cliff, the raising of the debt limit, and the longer-term 
+
+budget situation will be addressed appears already to be affecting private spending and 
+
+investment decisions and may be contributing to an increased sense of caution in 
+
+financial markets, with adverse effects on the economy.  Continuing to push off difficult 
+
+policy choices will only prolong and intensify these uncertainties.  Moreover, while the 
+
+details of whatever agreement is reached to resolve the fiscal cliff are important, the 
+
+economic confidence of both market participants and the general public likely will also 
+
+be influenced by the extent to which our political system proves able to deliver a 
+
+reasonable solution with a minimum of uncertainty and delay.  Finding long-term 
+
+solutions that can win sufficient political support to be enacted may take some time, but 
+
+meaningful progress toward this end can be achieved now if policymakers are willing to 
+
+think creatively and work together constructively. 
+
+
+
+
+- 13 -
+
+Monetary Policy 
+
+Let me now turn briefly to monetary policy. 
+
+Monetary policy can do little to reverse the effects that the financial crisis may 
+
+have had on the economy’s productive potential.  However, it has been able to provide an 
+
+important offset to the headwinds that have slowed the cyclical recovery.  As you know, 
+
+the Federal Reserve took strong easing measures during the financial crisis and recession, 
+
+cutting its target for the federal funds rate--the traditional tool of monetary policy--to 
+
+nearly zero by the end of 2008.  Since that time, we have provided additional 
+
+accommodation through two nontraditional policy tools aimed at putting downward 
+
+pressure on longer-term interest rates:  asset purchases that reduce the supply of longer-
+
+term securities outstanding in the market, and communication about the future path of 
+
+monetary policy. 
+
+Most recently, after the September FOMC meeting, we announced that the 
+
+Federal Reserve would purchase additional agency mortgage-backed securities (MBS) 
+
+and continue with the program to extend the maturity of our Treasury holdings.10  These 
+
+additional asset purchases should put downward pressure on longer-term interest rates 
+
+and make broader financial conditions more accommodative.11  Moreover, our purchases 
+
+                                                 
+10 See Board of Governors of the Federal Reserve System (2012), “Federal Reserve Issues FOMC 
+Statement,” press release, September 13, 
+www.federalreserve.gov/newsevents/press/monetary/20120913a.htm. 
+11 One way in which our asset purchases affect the economy is through the so-called portfolio balance 
+channel.  Because different classes of financial assets are not perfect substitutes in investors’ portfolios, 
+changes in the supplies of various assets available to private investors may affect the prices and yields of 
+those assets.  Thus, the Federal Reserve’s purchases of Treasury securities, for example, should raise the 
+prices and lower the yields of those securities; moreover, as investors rebalance their portfolios by 
+replacing the Treasury securities sold to the Federal Reserve with other assets, the prices of those other 
+assets should rise and their yields decline as well.  An increase in our asset purchases may also act as a 
+signal that we intend to pursue a persistently more accommodative policy stance than previously thought, 
+thereby lowering investors’ expectations for the future path of the federal funds rate and putting additional 
+downward pressure on longer-term interest rates.   
+
+
+
+
+- 14 -
+
+of MBS, by bringing down mortgage rates, provide support directly to housing and 
+
+thereby help mitigate some of the headwinds facing that sector.  In announcing this 
+
+decision, we also indicated that we would continue purchasing MBS, undertake 
+
+additional purchases of longer-term securities, and employ our other policy tools until we 
+
+judge that the outlook for the labor market has improved substantially in a context of 
+
+price stability.   
+
+Although it is still too early to assess the full effects of our most recent policy 
+
+actions, yields on corporate bonds and agency MBS have fallen significantly, on balance, 
+
+since the FOMC’s announcement.  More generally, research suggests that our previous 
+
+asset purchases have eased overall financial conditions and provided meaningful support 
+
+to the economic recovery in recent years.12 
+
+In addition to announcing new purchases of MBS, at our September meeting we 
+
+extended our guidance for how long we expect that exceptionally low levels for the 
+
+federal funds rate will likely be warranted at least through the middle of 2015.  By 
+
+                                                 
+12 See Ben S. Bernanke (2012), “Monetary Policy since the Onset of the Crisis,” speech delivered at “The 
+Changing Policy Landscape,” a symposium sponsored by the Federal Reserve Bank of Kansas City, held in 
+Jackson Hole, Wyo., August 30-September 1, 
+www.federalreserve.gov/newsevents/speech/bernanke20120831a.htm.  For simulation results showing the 
+effects of the FOMC’s asset purchases, see Hess Chung, Jean-Philippe Laforte, David Reifschneider, and 
+John C. Williams (2012), “Have We Underestimated the Likelihood and Severity of Zero Lower Bound 
+Events?” Journal of Money, Credit and Banking, vol. 44 (February supplement), pp. 47-82.  For a study 
+focusing only on the second large-scale asset purchase program that finds comparable effects, attributing to 
+that program a bit less than a 1 percent increase in output and 700,000 new jobs, see Jeffrey C. Fuhrer and 
+Giovanni P. Olivei (2011), “The Estimated Macroeconomic Effects of the Federal Reserve’s Large-Scale 
+Treasury Purchase Program,” Public Policy Briefs 11-02 (Boston:  Federal Reserve Bank of Boston, April), 
+www.bos.frb.org/economic/ppb/2011/ppb112.htm.  For a study using different methodologies that finds 
+significantly smaller effects, see Michael T. Kiley (2012), “The Aggregate Demand Effects of Short- and 
+Long-Term Interest Rates,” Finance and Economics Discussion Series 2012-54 (Washington:  Board of 
+Governors of the Federal Reserve System, August), 
+www.federalreserve.gov/pubs/feds/2012/201254/201254abs.html; and for one that finds larger effects, see  
+Christiane Baumeister and Luca Benati (2010), “Unconventional Monetary Policy and the Great Recession:  
+Estimating the Impact of a Compression in the Yield Spread at the Zero Lower Bound,” European Central 
+Bank Working Paper Series 1258 (Frankfurt:  European Central Bank, October), 
+www.ecb.int/pub/pdf/scpwps/ecbwp1258.pdf.  
+
+
+
+
+- 15 -
+
+pushing the expected period of low rates further into the future, we are not saying that we 
+
+expect the economy to remain weak until mid-2015; rather, we expect--as we indicated in 
+
+our September statement--that a highly accommodative stance of monetary policy will 
+
+remain appropriate for a considerable time after the economic recovery strengthens.13  In 
+
+other words, we will want to be sure that the recovery is established before we begin to 
+
+normalize policy.  We hope that such assurances will reduce uncertainty and increase 
+
+confidence among households and businesses, thereby providing additional support for 
+
+economic growth and job creation. 
+
+Conclusion 
+
+In sum, the U.S. economy continues to be hampered by the lingering effects of the 
+
+financial crisis on its productive potential and by a number of headwinds that have 
+
+hindered the normal cyclical adjustment of the economy.  The Federal Reserve is doing 
+
+its part by providing accommodative monetary policy to promote a stronger economic 
+
+recovery in a context of price stability.  As I have said before, however, while monetary 
+
+policy can help support the economic recovery, it is by no means a panacea for our 
+
+economic ills.  Currently, uncertainties about the situation in Europe and especially about 
+
+the prospects for federal fiscal policy seem to be weighing on the spending decisions of 
+
+households and businesses as well as on financial conditions.  Such uncertainties will 
+
+only be increased by discord and delay.  In contrast, cooperation and creativity to deliver 
+
+fiscal clarity--in particular, a plan for resolving the nation’s longer-term budgetary issues 
+
+without harming the recovery--could help make the new year a very good one for the 
+
+American economy. 
+
+                                                 
+13 See Board of Governors, “FOMC Statement,” in note 10. 
+

@@ -1,0 +1,863 @@
+
+For release on delivery 
+
+9:30 a.m. EDT (8:30 a.m. CDT) 
+
+May 10, 2013 
+
+
+
+
+
+
+
+
+
+Monitoring the Financial System 
+
+
+
+
+Remarks by 
+
+
+Ben S. Bernanke 
+
+
+Chairman 
+
+
+Board of Governors of the Federal Reserve System 
+
+
+at the 
+
+
+49th Annual Conference on Bank Structure and Competition 
+
+sponsored by the Federal Reserve Bank of Chicago 
+
+
+Chicago, Illinois 
+
+
+
+
+
+
+
+
+May 10, 2013 
+
+
+
+
+
+We are now more than four years beyond the most intense phase of the financial 
+
+crisis, but its legacy remains.  Our economy has not yet fully regained the jobs lost in the 
+
+recession that accompanied the financial near collapse.  And our financial system--
+
+despite significant healing over the past four years--continues to struggle with the 
+
+economic, legal, and reputational consequences of the events of 2007 to 2009.   
+
+The crisis also engendered major shifts in financial regulatory policy and practice.  
+
+Not since the Great Depression have we seen such extensive changes in financial 
+
+regulation as those codified in the Dodd-Frank Wall Street Reform and Consumer 
+
+Protection Act (Dodd-Frank Act) in the United States and, internationally, in the Basel III 
+
+Accord and a range of other initiatives.  This new regulatory framework is still under 
+
+construction, but the Federal Reserve has already made significant changes to how it 
+
+conceptualizes and carries out both its regulatory and supervisory role and its 
+
+responsibility to foster financial stability. 
+
+In my remarks today I will discuss the Federal Reserve’s efforts in an area that 
+
+typically gets less attention than the writing and implementation of new rules--namely, 
+
+our ongoing monitoring of the financial system.  Of course, the Fed has always paid close 
+
+attention to financial markets, for both regulatory and monetary policy purposes.  
+
+However,  in recent years, we have both greatly increased the resources we devote to 
+
+monitoring and taken a more systematic and intensive approach, led by our Office of 
+
+Financial Stability Policy and Research and drawing on substantial resources from across 
+
+the Federal Reserve System.  This monitoring informs the policy decisions of both the 
+
+Federal Reserve Board and the Federal Open Market Committee as well as our work with 
+
+other agencies. 
+
+
+ - 2 - 
+
+The step-up in our monitoring is motivated importantly by a shift in financial 
+
+regulation and supervision toward a more macroprudential, or systemic, approach, 
+
+supplementing our traditional microprudential perspective focused primarily on the 
+
+health of individual institutions and markets.  In the spirit of this more systemic approach 
+
+to oversight, the Dodd-Frank Act created the Financial Stability Oversight Council 
+
+(FSOC), which is comprised of the heads of a number of federal and state regulatory 
+
+agencies.  The FSOC has fostered greater interaction among financial regulatory agencies 
+
+as well as a sense of common responsibility for overall financial stability.  Council 
+
+members regularly discuss risks to financial stability and produce an annual report, which 
+
+reviews potential risks and recommends ways to mitigate them.
+1
+  The Federal Reserve’s 
+
+broad-based monitoring efforts have been essential for promoting a close and well-
+
+informed collaboration with other FSOC members. 
+
+A Focus on Vulnerabilities 
+
+Ongoing monitoring of the financial system is vital to the macroprudential 
+
+approach to regulation.  Systemic risks can only be defused if they are first identified.  
+
+That said, it is reasonable to ask whether systemic risks can in fact be reliably identified 
+
+in advance; after all, neither the Federal Reserve nor economists in general predicted the 
+
+past crisis.  To respond to this point, I will distinguish, as I have elsewhere, between 
+
+triggers and vulnerabilities.
+2
+  The triggers of any crisis are the particular events that touch 
+
+                                                 
+1
+ For the most recent report, see U.S. Department of the Treasury, Financial Stability Oversight Council 
+
+(2013), 2013 Annual Report (Washington:  Department of the Treasury), 
+
+www.treasury.gov/initiatives/fsoc/studies-reports/Pages/2013-Annual-Report.aspx. 
+2
+ See Ben S. Bernanke (2010), “Causes of the Recent Financial and Economic Crisis,” testimony before the 
+
+Financial Crisis Inquiry Commission, Washington, September 2, 
+
+www.federalreserve.gov/newsevents/testimony/bernanke20100902a.htm; and Ben S. Bernanke (2012), 
+
+“Some Reflections on the Crisis and the Policy Response,” speech delivered at “Rethinking Finance:  
+
+Perspectives on the Crisis,” a conference sponsored by the Russell Sage Foundation and The Century 
+
+Foundation, New York, April 13, www.federalreserve.gov/newsevents/speech/bernanke20120413a.htm. 
+
+
+ - 3 - 
+
+off the crisis--the proximate causes, if you will.  For the 2007-09 crisis, a prominent 
+
+trigger was the losses suffered by holders of subprime mortgages.  In contrast, the 
+
+vulnerabilities associated with a crisis are preexisting features of the financial system that 
+
+amplify and propagate the initial shocks.  Examples of vulnerabilities include high levels 
+
+of leverage, maturity transformation, interconnectedness, and complexity, all of which 
+
+have the potential to magnify shocks to the financial system.  Absent vulnerabilities, 
+
+triggers might produce sizable losses to certain firms, investors, or asset classes but 
+
+would generally not lead to full-blown financial crises; the collapse of the relatively small 
+
+market for subprime mortgages, for example, would not have been nearly as 
+
+consequential without preexisting fragilities in securitization practices and short-term 
+
+funding markets which greatly increased its impact.  Of course, monitoring can and does 
+
+attempt to identify potential triggers--indications of an asset bubble, for example--but 
+
+shocks of one kind or another are inevitable, so identifying and addressing vulnerabilities 
+
+is key to ensuring that the financial system overall is robust.  Moreover, attempts to 
+
+address specific vulnerabilities can be supplemented by broader measures--such as 
+
+requiring banks to hold more capital and liquidity--that make the system more resilient to 
+
+a range of shocks. 
+
+Two other related points motivate our increased monitoring.  The first is that the 
+
+financial system is dynamic and evolving not only because of innovation and the 
+
+changing needs of the economy, but also because financial activities tend to migrate from 
+
+more-regulated to less-regulated sectors.  An innovative feature of the Dodd-Frank Act is 
+
+that it includes mechanisms to permit the regulatory system, at least in some 
+
+circumstances, to adapt to such changes.  For example, the act gives the FSOC powers to 
+
+
+ - 4 - 
+
+designate systemically important institutions, market utilities, and activities for additional 
+
+oversight.  Such designation is essentially a determination that an institution or activity 
+
+creates or exacerbates a vulnerability of the financial system, a determination that can 
+
+only be made with comprehensive monitoring and analysis. 
+
+The second motivation for more intensive monitoring is the apparent tendency for 
+
+financial market participants to take greater risks when macro conditions are relatively 
+
+stable.  Indeed, it may be that prolonged economic stability is a double-edged sword.  To 
+
+be sure, a favorable overall environment reduces credit risk and strengthens balance 
+
+sheets, all else being equal, but it could also reduce the incentives for market participants 
+
+to take reasonable precautions, which may lead in turn to a buildup of financial 
+
+vulnerabilities.  Probably our best defense against complacency during extended periods 
+
+of calm is careful monitoring for signs of emerging vulnerabilities and, where 
+
+appropriate, the development of macroprudential and other policy tools that can be used 
+
+to address them. 
+
+The Federal Reserve’s Financial Stability Monitoring Program 
+
+So, what specifically does the Federal Reserve monitor?  In the remainder of my 
+
+remarks, I’ll highlight and discuss four components of the financial system that are 
+
+among those we follow most closely:  systemically important financial institutions 
+
+(SIFIs), shadow banking, asset markets, and the nonfinancial sector.
+3
+ 
+
+                                                 
+3
+ The remainder of my remarks draws heavily on Tobias Adrian, Daniel Covitz, and Nellie Liang (2013), 
+
+“Financial Stability Monitoring,” Finance and Economics Discussion Series 2013-21 (Washington:  Board 
+
+of Governors of the Federal Reserve System, April), 
+
+www.federalreserve.gov/pubs/feds/2013/201321/201321pap.pdf.  This paper provides more details on the 
+
+Federal Reserve’s financial stability monitoring program.  I thank the authors for their assistance with these 
+
+remarks. 
+
+
+ - 5 - 
+
+Systemically Important Financial Institutions 
+
+SIFIs are financial firms whose distress or failure has the potential to create 
+
+broader financial instability sufficient to inflict meaningful damage on the real economy.  
+
+SIFIs tend to be large, but size is not the only factor used to determine whether a firm is 
+
+systemically important; other factors include the firm’s interconnectedness with the rest 
+
+of the financial system, the complexity and opacity of its operations, the nature and extent 
+
+of its risk-taking, its use of leverage, its reliance on short-term wholesale funding, and the 
+
+extent of its cross-border operations.  Under the Dodd-Frank Act, the largest bank 
+
+holding companies are treated as SIFIs; in addition, as I mentioned, the act gives the 
+
+FSOC the power to designate individual nonbank financial companies as systemically 
+
+important.  This designation process is under way. 
+
+Dodd-Frank also establishes a framework for subjecting SIFIs to comprehensive 
+
+supervisory oversight and enhanced prudential standards.  For all such companies, the 
+
+Federal Reserve will have access to confidential supervisory information and will 
+
+monitor standard indicators such as regulatory capital, leverage, and funding mix.  
+
+However, some of these measures, such as regulatory capital ratios, tend to be backward 
+
+looking and thus may be slow to flag unexpected, rapid changes in the condition of a 
+
+firm.  Accordingly, we supplement the more standard measures with other types of 
+
+information. 
+
+One valuable source of supplementary information is stress testing.  Regular, 
+
+comprehensive stress tests are an increasingly important component of the Federal 
+
+Reserve’s supervisory toolkit, having been used in our assessment of large bank holding 
+
+
+ - 6 - 
+
+companies since 2009.
+4
+  To administer a stress test, supervisors first construct a 
+
+hypothetical scenario that assumes a set of highly adverse economic and financial 
+
+developments--for example, a deep recession combined with sharp declines in the prices 
+
+of houses and other assets.  The tested firms and their supervisors then independently 
+
+estimate firms’ projected losses, revenues, and capital under the hypothetical scenario, 
+
+and the results are publicly disclosed.  Firms are evaluated both on their post-stress 
+
+capital levels and on their ability to analyze their exposures and capital needs. 
+
+Stress testing provides a number of advantages over more-standard approaches to 
+
+assessing capital adequacy.  First, measures of capital based on stress tests are both more 
+
+forward looking and more robust to “tail risk”--that is, to extremely adverse 
+
+developments of the sort most likely to foster broad-based financial instability.  Second, 
+
+because the Federal Reserve conducts stress tests simultaneously on the major institutions 
+
+it supervises, the results can be used both for comparative analyses across firms and to 
+
+judge the collective susceptibility of major financial institutions to certain types of 
+
+shocks.  Indeed, comparative reviews of large financial institutions have become an 
+
+increasingly important part of the Federal Reserve’s supervisory toolkit more generally.   
+
+Third, the disclosure of stress-test results, which increased investor confidence during the 
+
+crisis, can also strengthen market discipline in normal times.  The stress tests thus provide 
+
+critical information about key financial institutions while also forcing the firms to 
+
+improve their ability to measure and manage their risk exposures. 
+
+                                                 
+4
+ The Federal Reserve’s stress-testing program is discussed in Ben S. Bernanke (2013), “Stress Testing 
+
+Banks:  What Have We Learned?” speech delivered at “Maintaining Financial Stability:  Holding a Tiger 
+
+by the Tail,” a financial markets conference sponsored by the Federal Reserve Bank of Atlanta, held in 
+
+Stone Mountain, Ga., April 8-10, www.federalreserve.gov/newsevents/speech/bernanke20130408a.htm.  
+
+More limited forms of stress testing were used by supervisors before 2009.  
+
+
+ - 7 - 
+
+Stress-testing techniques can also be used in more-focused assessments of the 
+
+banking sector’s vulnerability to specific risks not captured in the main scenario, such as 
+
+liquidity risk or interest rate risk.  Like comprehensive stress tests, such focused exercises 
+
+are an important element of our supervision of SIFIs.  For example, supervisors are 
+
+collecting detailed data on liquidity that help them compare firms’ susceptibilities to 
+
+various types of funding stresses and to evaluate firms’ strategies for managing their 
+
+liquidity.  Supervisors also are working with firms to assess how profitability and capital 
+
+would fare under various stressful interest rate scenarios. 
+
+Federal Reserve staff members supplement supervisory and stress-test 
+
+information with other measures.  For example, though supervisors have long appreciated 
+
+the value of market-based indicators in evaluating the conditions of systemically 
+
+important firms (or, indeed, any publicly traded firm), our monitoring program uses 
+
+market information to a much greater degree than in the past.  Thus, in addition to 
+
+standard indicators--such as stock prices and the prices of credit default swaps, which 
+
+capture market views about individual firms--we use market-based measures of systemic 
+
+stability derived from recent research.  These measures use correlations of asset prices to 
+
+capture the market’s perception of a given firm’s potential to destabilize the financial 
+
+system at a time when the broader financial markets are stressed; other measures estimate 
+
+the vulnerability of a given firm to disturbances emanating from elsewhere in the 
+
+system.
+5
+  The further development of market-based measures of systemic vulnerabilities 
+
+and systemic risk is a lively area of research. 
+
+                                                 
+5
+ For example, conditional value at risk provides an estimate of the systemic importance of a firm at a 
+
+moment in time, based on how the firm’s equity value and broader equity values co-vary when overall 
+
+conditions are very adverse; see Tobias Adrian and Markus K. Brunnermeier (2008; revised September 
+
+2011), “CoVaR,” Staff Reports 348 (New York:  Federal Reserve Bank of New York, September), 
+
+
+ - 8 - 
+
+Network analysis, yet another promising tool under active development, has the 
+
+potential to help us better monitor the interconnectedness of financial institutions and 
+
+markets.  Interconnectedness can arise from common holdings of assets or through the 
+
+exposures of firms to their counterparties.  Network measures rely on concepts used in 
+
+engineering, communications, and neuroscience to map linkages among financial firms 
+
+and market activities.  The goals are to identify key nodes or clusters that could 
+
+destabilize the system and to simulate how a shock, such as the sudden distress of a firm, 
+
+could be transmitted and amplified through the network.  These tools can also be used to 
+
+analyze the systemic stability effects of a change in the structure of a network.  For 
+
+example, margin rules affect the sensitivity of firms to the conditions of their 
+
+counterparties; thus, margin rules affect the likelihood of financial contagion through 
+
+various firms and markets. 
+
+Shadow Banking 
+
+Shadow banking, a second area we closely monitor, was an important source of 
+
+instability during the crisis.  Shadow banking comprises various markets and institutions 
+
+that provide financial intermediation outside the traditional, regulated banking system.  
+
+Shadow banking includes vehicles for credit intermediation, maturity transformation, 
+
+liquidity provision, and risk sharing.  Such vehicles are typically funded on a largely 
+
+short-term basis from wholesale sources.  In the run-up to the crisis, the shadow banking 
+
+                                                                                                                                                 
+www.newyorkfed.org/research/staff_reports/sr348.pdf.  The distressed insurance premium uses information 
+
+from firms’ credit default swap spreads and equity prices to measure the implied cost of insuring a given 
+
+firm against broader financial distress--an indicator of the vulnerability of the firm to systemic instability; 
+
+see Xin Huang, Hao Zhou, and Haibin Zhu (2009), “A Framework for Assessing the Systemic Risk of 
+
+Major Financial Institutions,” Journal of Banking and Finance, vol. 33 (November), pp. 2036-49.  The 
+
+systemic expected shortfall uses firm equity prices, leverage, and volatility to measure the propensity of a 
+
+firm to be undercapitalized given a marketwide decline in equity prices; see Viral V. Acharya, Lasse H. 
+
+Pedersen, Thomas Philippon, and Matthew Richardson (2010), “Measuring Systemic Risk,” unpublished 
+
+paper, New York University, Leonard Stern School of Business, May, 
+
+http://vlab.stern.nyu.edu/public/static/SR-v3.pdf. 
+
+
+ - 9 - 
+
+sector involved a high degree of maturity transformation and leverage.  Illiquid loans to 
+
+households and businesses were securitized, and the tranches of the securitizations with 
+
+the highest credit ratings were funded by very short-term debt, such as asset-backed 
+
+commercial paper and repurchase agreements (repos).  The short-term funding was in 
+
+turn provided by institutions, such as money market funds, whose investors expected 
+
+payment in full on demand and had little tolerance for risk to principal.   
+
+As it turned out, the ultimate investors did not fully understand the quality of the 
+
+assets they were financing.  Investors were lulled by triple-A credit ratings and by 
+
+expected support from sponsoring institutions--support that was, in fact, discretionary and 
+
+not always provided.  When investors lost confidence in the quality of the assets or in the 
+
+institutions expected to provide support, they ran.  Their flight created serious funding 
+
+pressures throughout the financial system, threatened the solvency of many firms, and 
+
+inflicted serious damage on the broader economy. 
+
+Securities broker-dealers play a central role in many aspects of shadow banking as 
+
+facilitators of market-based intermediation.  To finance their own and their clients’ 
+
+securities holdings, broker-dealers tend to rely on short-term collateralized funding, often 
+
+in the form of repo agreements with highly risk-averse lenders.  The crisis revealed that 
+
+this funding is potentially quite fragile if lenders have limited capacity to analyze the 
+
+collateral or counterparty risks associated with short-term secured lending, but rather look 
+
+at these transactions as nearly risk free.  As questions emerged about the nature and value 
+
+of collateral, worried lenders either greatly increased margin requirements or, more 
+
+commonly, pulled back entirely.  Borrowers unable to meet margin calls and finance their 
+
+
+ - 10 - 
+
+asset holdings were forced to sell, driving down asset prices further and setting off a 
+
+cycle of deleveraging and further asset liquidation.  
+
+To monitor intermediation by broker-dealers, the Federal Reserve in 2010 created 
+
+a quarterly Senior Credit Officer Opinion Survey on Dealer Financing Terms, which asks 
+
+dealers about the credit they provide.
+6
+  Modeled on the long-established Senior Loan 
+
+Officer Opinion Survey on Bank Lending Practices sent to commercial banks, the survey 
+
+of senior credit officers at dealers tracks conditions in markets such as those for securities 
+
+financing, prime brokerage, and derivatives trading.
+7
+  The credit officer survey is 
+
+designed to monitor potential vulnerabilities stemming from the greater use of leverage 
+
+by investors (particularly through lending backed by less-liquid collateral) or increased 
+
+volumes of maturity transformation.  Before the financial crisis, we had only very limited 
+
+information regarding such trends.   
+
+We have other potential sources of information about shadow banking.  The 
+
+Treasury Department’s Office of Financial Research and Federal Reserve staff are 
+
+collaborating to construct data sets on triparty and bilateral repo transactions, which 
+
+should facilitate the development of better monitoring metrics for repo activity and 
+
+improve transparency in these markets.  We also talk regularly to market participants 
+
+about developments, paying particular attention to the creation of new financial vehicles 
+
+that foster greater maturity transformation outside the regulated sector, provide funding 
+
+for less-liquid assets, or transform risks from forms that are more easily measured to 
+
+forms that are more opaque. 
+
+                                                 
+6
+ The Senior Credit Officer Opinion Survey on Dealer Financing Terms is available on the Federal Reserve 
+
+Board’s website at www.federalreserve.gov/econresdata/releases/scoos.htm. 
+7
+ The Senior Loan Officer Opinion Survey on Bank Lending Practices is available on the Federal Reserve 
+
+Board’s website at www.federalreserve.gov/boarddocs/SnLoanSurvey/default.htm. 
+
+
+ - 11 - 
+
+A fair summary is that, while the shadow banking sector is smaller today than 
+
+before the crisis and some of its least stable components have either disappeared or been 
+
+reformed, regulators and the private sector need to address remaining vulnerabilities.  For 
+
+example, although money market funds were strengthened by reforms undertaken by the 
+
+Securities and Exchange Commission (SEC) in 2010, the possibility of a run on these 
+
+funds remains--for instance, if a fund should “break the buck,” or report a net asset value 
+
+below 99.5 cents, as the Reserve Primary Fund did in 2008.  The risk is increased by the 
+
+fact that the Treasury no longer has the power to guarantee investors’ holdings in money 
+
+funds, an authority that was critical for stopping the 2008 run.  In November 2012, the 
+
+FSOC proposed for public comment some alternative approaches for the reform of 
+
+money funds.  The SEC is currently considering these and other possible steps. 
+
+With respect to the triparty repo platform, progress has been made in reducing the 
+
+amount of intraday credit extended by the clearing banks in the course of the daily 
+
+settlement process, and, as additional enhancements are made, the extension of such 
+
+credit should be largely eliminated by the end of 2014.  However, important risks remain 
+
+in the short-term wholesale funding markets.  One of the key risks is how the system 
+
+would respond to the failure of a broker-dealer or other major borrower.  The Dodd-
+
+Frank Act has provided important additional tools to deal with this vulnerability, notably 
+
+the provisions that facilitate an orderly resolution of a broker-dealer or a broker-dealer 
+
+holding company whose imminent failure poses a systemic risk.  But, as highlighted in 
+
+the FSOC’s most recent annual report, more work is needed to better prepare investors 
+
+
+ - 12 - 
+
+and other market participants to deal with the potential consequences of a default by a 
+
+large participant in the repo market.
+8
+   
+
+Asset Markets 
+
+Asset markets are a third area that we closely monitor.  We follow developments 
+
+in markets for a wide range of assets, including public and private fixed-income 
+
+instruments, corporate equities, real estate, commodities, and structured credit products, 
+
+among others.  Foreign as well as domestic markets receive close attention, as do global 
+
+linkages, such as the effects of the ongoing European fiscal and banking problems on 
+
+U.S. markets. 
+
+ Not surprisingly, we try to identify unusual patterns in valuations, such as 
+
+historically high or low ratios of prices to earnings in equity markets.  We use a variety of 
+
+models and methods; for example, we use empirical models of default risk and risk 
+
+premiums to analyze credit spreads in corporate bond markets.  These assessments are 
+
+complemented by other information, including measures of volumes, liquidity, and 
+
+market functioning, as well as intelligence gleaned from market participants and outside 
+
+analysts.  In light of the current low interest rate environment, we are watching 
+
+particularly closely for instances of “reaching for yield” and other forms of excessive 
+
+risk-taking, which may affect asset prices and their relationships with fundamentals.  It is 
+
+worth emphasizing that looking for historically unusual patterns or relationships in asset 
+
+prices can be useful even if you believe that asset markets are generally efficient in 
+
+setting prices.  For the purpose of safeguarding financial stability, we are less concerned 
+
+about whether a given asset price is justified in some average sense than in the possibility 
+
+                                                 
+8
+ See Financial Stability Oversight Council, 2013 Annual Report, in note 1.  
+
+
+ - 13 - 
+
+of a sharp move.  Asset prices that are far from historically normal levels would seem to 
+
+be more susceptible to such destabilizing moves. 
+
+From a financial stability perspective, however, the assessment of asset valuations 
+
+is only the first step of the analysis.  Also to be considered are factors such as the 
+
+leverage and degree of maturity mismatch being used by the holders of the asset, the 
+
+liquidity of the asset, and the sensitivity of the asset’s value to changes in broad financial 
+
+conditions.  Differences in these factors help explain why the correction in equity markets 
+
+in 2000 and 2001 did not induce widespread systemic disruptions, while the collapse in 
+
+house prices and in the quality of mortgage credit during the 2007-09 crisis had much 
+
+more far-reaching effects:  The losses from the stock market declines in 2000 and 2001 
+
+were widely diffused, while mortgage losses were concentrated--and, through various 
+
+financial instruments, amplified--in critical parts of the financial system, resulting 
+
+ultimately in panic, asset fire sales, and the collapse of credit markets. 
+
+Nonfinancial Sector 
+
+Our financial stability monitoring extends to the nonfinancial sector, including 
+
+households and businesses.  Research has identified excessive growth in credit and 
+
+leverage in the private nonfinancial sector as potential indicators of systemic risk.
+9
+  
+
+Highly leveraged or financially fragile households and businesses are less able to 
+
+withstand adverse changes in income or wealth, including those brought about by 
+
+deteriorating conditions in financial and credit markets.  A highly leveraged economy is 
+
+also more prone to so-called financial accelerator effects, as when financially stressed 
+
+                                                 
+9
+ See, for example, Mathias Drehmann, Claudio Borio, and Kostas Tsatsaronis (2011), “Anchoring 
+
+Countercyclical Capital Buffers:  The Role of Credit Aggregates,” International Journal of Central 
+
+Banking, vol. 7 (December), pp. 189-240; and Rochelle M. Edge and Ralf R. Meisenzahl (2011), “The 
+
+Unreliability of Credit-to-GDP Ratio Gaps in Real Time:  Implications for Countercyclical Capital 
+
+Buffers,” International Journal of Central Banking, vol. 7 (December), pp. 261-98. 
+
+
+ - 14 - 
+
+firms are forced to lay off workers who, in turn, lacking financial reserves, sharply cut 
+
+their own spending.  Financial stress in the nonfinancial sector--for example, higher 
+
+default rates on mortgages or corporate debt--can also damage financial institutions, 
+
+creating a potential adverse feedback loop as they reduce the availability of credit and 
+
+shed assets to conserve capital, thereby further weakening the financial positions of 
+
+households and firms. 
+
+The vulnerabilities of the nonfinancial sector can potentially be captured by both 
+
+stock measures (such as wealth and leverage) and flow measures (such as the ratio of 
+
+debt service to income).  Sector-wide data are available from a number of sources, 
+
+importantly the Federal Reserve’s flow of funds accounts, which is a set of aggregate 
+
+integrated financial accounts that measures sources and uses of funds for major sectors as 
+
+well as for the economy as a whole.
+10
+
+  These accounts allow us to trace the flow of credit 
+
+from its sources, such as banks or wholesale funding markets, to the household and 
+
+business sectors that receive it.   
+
+The Federal Reserve also now monitors detailed consumer- and business-level 
+
+data suited for picking up changes in the nature of borrowing and lending, as well as for 
+
+tracking financial conditions of those most exposed to a cyclical downturn or a reversal 
+
+of fortunes.  For example, during the housing boom, the aggregate data accurately 
+
+showed the outsized pace of home mortgage borrowing, but it could not reveal the 
+
+pervasive deterioration in underwriting that implied a substantial increase in the 
+
+underlying credit risk from that activity.
+11
+
+  More recently, gains in household net worth 
+
+                                                 
+10
+
+ The flow of funds data are available on the Federal Reserve Board’s website at 
+
+www.federalreserve.gov/releases/z1. 
+11
+
+ See Matthew J. Eichner, Donald L. Kohn, and Michael G. Palumbo (2010), “Financial Statistics for the 
+
+United States and the Crisis:  What Did They Get Right, What Did They Miss, and How Should They 
+
+
+ - 15 - 
+
+have been concentrated among wealthier households, while many households in the 
+
+middle or lower parts of the distribution have experienced declines in wealth since the 
+
+crisis.  Moreover, many homeowners remain “underwater,” with their homes worth less 
+
+than the principal balances on their mortgages.  Thus, more detailed information clarifies 
+
+that many households remain more financially fragile than might be inferred from the 
+
+aggregate statistics alone. 
+
+Conclusion 
+
+ In closing, let me reiterate that while the effective regulation and supervision of 
+
+individual financial institutions will always be crucial to ensuring a well-functioning 
+
+financial system, the Federal Reserve is moving toward a more systemic approach that 
+
+also pays close attention to the vulnerabilities of the financial system as a whole.  Toward 
+
+that end, we are pursuing an active program of financial monitoring, supported by 
+
+expanded research and data collection, often undertaken in conjunction with other U.S. 
+
+financial regulatory agencies.  Our stepped-up monitoring and analysis is already 
+
+providing important information for the Board and the Federal Open Market Committee 
+
+as well as for the broader regulatory community.  We will continue to work toward 
+
+improving our ability to detect and address vulnerabilities in our financial system.  
+
+                                                                                                                                                 
+Change?” Finance and Economics Discussion Series 2010-20 (Washington:  Board of Governors of the 
+
+Federal Reserve System, April), www.federalreserve.gov/pubs/feds/2010/201020/201020pap.pdf. 
+

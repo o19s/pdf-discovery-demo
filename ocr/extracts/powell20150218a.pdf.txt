@@ -1,0 +1,1334 @@
+
+For release on delivery 
+5:00 p.m. EST 
+February 18, 2015 
+ 
+
+
+Financial Institutions, Financial Markets, and Financial Stability 
+ 
+ 
+ 
+
+Remarks by 
+ 
+
+Jerome H. Powell 
+ 
+
+Member 
+ 
+
+Board of Governors of the Federal Reserve System 
+ 
+
+at 
+ 
+
+Stern School of Business 
+New York University 
+
+ 
+New York, New York 
+
+
+February 18, 2015 
+ 
+
+
+
+It has now been over six years since the most acute phase of the financial crisis.  
+
+Over the intervening years, market structures have evolved, and financial firms have 
+
+changed their business models in important respects.  Authorities around the world are 
+
+implementing reforms that address the painful lessons of the crisis, while at the same 
+
+time keeping the evolution of markets and firms in mind.1   
+
+Today, I will briefly summarize this sweeping reform program as it relates to 
+
+large, global systemically important banks (G-SIBs), critical financial market 
+
+infrastructure, and money markets.  In my view, the basic agendas in these areas are, to 
+
+different degrees, well developed, although a great deal of implementation remains.  In 
+
+contrast, I will argue that thinking about financial stability in the context of credit 
+
+markets is less advanced and presents difficult challenges for supervisors.  I will consider 
+
+a range of factors that may address those challenges, illustrated with a discussion of 
+
+recent developments in the syndicated leveraged loan market.  And I will argue that the 
+
+standard for regulatory intervention in the credit markets should be higher than for the 
+
+other three areas.   
+
+Financial Institutions:  Even before the financial crisis ended, it was clear that 
+
+reforms to strengthen the most systemically important firms and their regulation and 
+
+supervision needed to be the first order of business.  I will mention four critical elements 
+
+of that program.  First, these institutions are required to hold, and now do hold, much 
+
+higher levels of higher-quality capital, as measured by both risk-based ratios and a much 
+
+more comprehensive leverage ratio.  Under the “enhanced prudential standards” of the 
+
+Dodd-Frank Wall Street Reform and Consumer Protection Act (Dodd-Frank), the fully 
+
+1 The views expressed here are my own and not necessarily those of others in the Federal Reserve System. 
+                                                 
+
+
+ - 2 - 
+
+phased-in capital requirements will be meaningfully higher for these institutions because 
+
+of the greater threat their failure would pose to the financial system and to the broader 
+
+economy.  Second, these institutions are for the first time becoming subject to rule-based 
+
+liquidity regulation, including the Liquidity Coverage Ratio, the Net Stable Funding 
+
+Ratio, and liquidity stress testing.2  These innovations are in part designed to address the 
+
+firms’ vulnerabilities to damaging runs on their short-term financing, runs that occurred 
+
+repeatedly during the crisis and clearly increased its severity.  Third, we now have 
+
+rigorous, forward-looking capital stress testing that recognizes the dynamic nature of the 
+
+financial system and guards against the excessive optimism that can build during a credit 
+
+boom.   
+
+These three reforms are well advanced and, in my view, have left the G-SIBs far 
+
+stronger than they were before the crisis.  Together, they significantly reduce the 
+
+probability of a large bank failure.  But they would leave us short of meeting the 
+
+overriding objective of eliminating the too-big-to-fail conundrum without a fourth 
+
+reform--a viable resolution mechanism that could handle the failure of these institutions 
+
+without severe damage to the economy.  Until recently, no nation has had a way of 
+
+handling such failures without that degree of damage.   
+
+Authorities around the world have been working to develop an approach to 
+
+resolving large financial firms that credibly imposes losses on shareholders and debt 
+
+holders consistent with the basic tenets of our capitalist system, but does so in a way that 
+
+protects the rest of the financial system and the real economy from severe damage.  The 
+
+2 For more information, see Daniel K. Tarullo (2014), “Liquidity Regulation,” speech delivered at the 
+Clearing House 2014 Annual Conference, New York, November 20, 
+www.federalreserve.gov/newsevents/speech/tarullo20141120a%20.htm. 
+
+
+
+
+ - 3 - 
+
+single-point-of-entry approach developed by the Federal Deposit Insurance Corporation 
+
+(FDIC) in conjunction with other U.S. supervisors is a promising innovation, especially 
+
+in combination with the recent proposal of the Financial Stability Board to increase the 
+
+“total loss absorbency capacity” of systemically important firms in terms of their total 
+
+levels of equity and long-term debt.  When fully worked out, these new regulatory 
+
+regimes should permit a large, consolidated entity that owns  banks or broker-dealers to 
+
+continue to function even if the ultimate holding company ceases to be viable and must 
+
+be recapitalized or wound down.   
+
+As I said at the outset, these reforms directed at the G-SIBs are well advanced.  
+
+But much implementation remains, including, most notably, addressing cross-border 
+
+issues associated with the failure of complex global firms.  It will take time and continued 
+
+international cooperation to complete this task.3   
+
+Infrastructure:  The crisis exposed a number of important weaknesses in the 
+
+infrastructure of the financial markets--what might be more plainly called the plumbing.  
+
+Reforms aimed at addressing these weaknesses receive less public attention than those 
+
+focused on the G-SIBs, and are in some respects less advanced in their conception and 
+
+execution.  But they are, in my view, of great importance. 
+
+I will mention two important sets of reforms in the U.S. context, one well 
+
+advanced and the other still under development.  The first concerns the triparty 
+
+repurchase agreement (repo) market, which is a principal source of overnight financing 
+
+3 For a more complete treatment of these issues, see Daniel K. Tarullo (2015), “Advancing Macroprudential 
+Policy Objectives,” speech delivered at “Evaluating Macroprudential Tools:  Complementarities and 
+Conflicts,” a conference cosponsored by the Office of Financial Research and the Financial Stability 
+Oversight Council, held in Arlington, Va., January 30, 
+www.federalreserve.gov/newsevents/speech/tarullo20150130a.htm. 
+
+
+
+
+ - 4 - 
+
+for the largest securities dealers.  Before the crisis, the functioning of this market was 
+
+critically dependent on the extension of large volumes of discretionary intraday credit by 
+
+two clearing banks.  When confidence in Bear Stearns collapsed in March 2008, the 
+
+vulnerability of this market and its settlement procedures in particular became very clear.  
+
+Today, almost seven years later, in no small measure thanks to the leadership and 
+
+persistence of the Federal Reserve Bank of New York, the triparty repo settlement 
+
+process has been substantially reengineered, with reliance on discretionary intraday credit 
+
+essentially eliminated.4  In addition, a smaller fraction of the market now involves the 
+
+financing of lower-quality collateral, and far less of the overall funding is provided 
+
+overnight and thus subject to daily rollover risk. 5  Dealers in general manage their short-
+
+term funding risk far more conservatively than before the crisis, including by carrying 
+
+substantially higher levels of liquidity, in part because of the introduction of prudential 
+
+liquidity standards that I mentioned earlier. 
+
+Second, as I have discussed at some length in other venues, in the run-up to the 
+
+crisis, the highly opaque and fast-growing market for over-the-counter derivatives gave 
+
+rise to an underappreciated and largely invisible buildup of risk, which proved a major 
+
+source of instability when the crisis broke.6  In light of this experience, authorities around 
+
+4 For more on this topic, see William C. Dudley (2014), “Welcoming Remarks at Workshop on the Risks 
+of Wholesale Funding,” speech delivered at “Workshop on the Risks of Wholesale Funding,” sponsored 
+by the Federal Reserve Bank of New York, New York, August 13, 
+www.newyorkfed.org/newsevents/speeches/2014/dud140813.html.  
+5 There have also been reforms to the money market funds that provide most of the funding in this market, 
+as discussed later.  
+6 See Jerome H. Powell (2013), “OTC Market Infrastructure Reform:  Opportunities and Challenges,” 
+speech delivered at the Clearing House 2013 Annual Meeting, New York, November 21, 
+www.federalreserve.gov/newsevents/speech/powell20131121a.htm; and Jerome H. Powell (2014), “A 
+Financial System Perspective on Central Clearing of Derivatives,” speech delivered at “The New 
+International Financial System:  Analyzing the Cumulative Impact of Regulatory Reform,” a conference 
+cosponsored by the Federal Reserve Bank of Chicago and the Bank of England, Chicago, November 6, 
+www.federalreserve.gov/newsevents/speech/powell20141106a.htm. 
+
+
+
+
+ - 5 - 
+
+the world agreed in 2009 that standardized derivatives should be cleared through central 
+
+counterparties (CCPs), and that noncentrally cleared derivatives should be subject to 
+
+minimum margin requirements.   
+
+Central clearing holds the promise of enhancing financial stability through the 
+
+netting of counterparty risks, creating greater transparency, and applying stronger and 
+
+more consistent risk-management practices.  But this reform program will only succeed if 
+
+CCPs, in which counterparty credit risks are concentrated, are strong enough to withstand 
+
+severe but plausible stress scenarios, including, for example, the failure of multiple 
+
+clearing members.  Achieving this degree of resiliency will require robust liquidity risk-
+
+management practices, including the maintenance of substantial buffers of liquid 
+
+resources that can quickly be tapped.  In addition, adequate loss absorption capacity is 
+
+essential, including through substantial initial margin requirements and default funds.  A 
+
+framework for such requirements has been agreed upon at the international level through 
+
+the Principles for Financial Market Infrastructures.7  Vigorous implementation at the 
+
+national level is essential.  There is also a need for greater transparency for clearing 
+
+members and the public regarding the risk-management practices of CCPs, for 
+
+heightened stress testing, for consideration of “skin-in-the-game” requirements, and for 
+
+credible recovery and resolution plans.  A great deal of work remains to be done to 
+
+finalize and implement these additional reforms in all of the important CCPs around the 
+
+world.   
+
+
+7 See Committee on Payment and Settlement Systems and Technical Committee of the International 
+Organization of Securities Commissions (2012), Principles for Financial Market Infrastructures (Basel, 
+Switzerland:  Bank for International Settlements and International Organization of Securities Commissions, 
+April), www.bis.org/cpmi/publ/d101a.pdf. 
+
+
+
+
+ - 6 - 
+
+Money Markets:  Money markets involve money-like investments such as 
+
+commercial paper and repo.  Investors in these markets include money market funds, 
+
+corporations and other large holders of excess cash seeking a safe return in the short term, 
+
+frequently no longer than overnight.  Borrowers in money markets include banks, 
+
+securities dealers and other financial companies, nonfinancial corporations, and 
+
+governments.  By linking investors seeking a safe return with borrowers needing short-
+
+term credit, money markets do what commercial banks have always done, but without 
+
+deposit insurance and other aspects of the safety net provided for regulated depository 
+
+institutions.  After Lehman failed and the Reserve Fund “broke the buck,” money market 
+
+fund investors realized that their investments were not as safe and liquid as “money” after 
+
+all.  There were widespread runs in these markets, and it took a U.S. Treasury guarantee, 
+
+augmented by a number of unprecedented liquidity facilities established by the Federal 
+
+Reserve, to stabilize the money market fund industry and, more importantly, stave off a 
+
+sudden stoppage of the flow of credit to households and businesses.   
+
+This experience tells us clearly that disruptions in the money markets can threaten 
+
+the broader financial system.  Regulation to increase the resilience of the money markets 
+
+needs to reflect their systemic importance.  Some important steps have been taken to 
+
+address the most immediate risks--for example, through the liquidity standards for large 
+
+institutions I mentioned earlier.  But the risks associated with dislocations in the money 
+
+markets go far beyond the large banks.   
+
+The Securities and Exchange Commission (SEC) has taken some important steps 
+
+to address the money market fund issue, notably through its 2014 rule amendments.8  To 
+
+8 The 2014 SEC rule amendments are available at www.sec.gov/rules/final/2014/33-9616.pdf. 
+                                                 
+
+
+ - 7 - 
+
+address so-called repo runs, the Financial Stability Board is in the final phases of 
+
+developing a framework of margin rules designed to be applied uniformly across nations 
+
+for securities financing transactions involving nongovernmental securities.  These 
+
+minimum standards should increase the resiliency of those markets and mitigate the 
+
+pressures on terms that inevitably emerge during benign periods.  We expect to propose 
+
+regulations implementing these rules in the United States in due course. 
+
+Credit Markets:  That brings me to the credit markets, where households, 
+
+businesses and governments engage in borrowing to fund their purchases and operations.  
+
+These markets figured importantly in the crisis, most notoriously through securities 
+
+collateralized by subprime mortgages.  The story is by now well known.  Lenders offered 
+
+these loans to retail borrowers, often with negligible or simply fraudulent underwriting.  
+
+Many of our largest financial institutions packaged the loans into marginally capitalized 
+
+securitization structures that were rated highly by the credit rating agencies and thus 
+
+generally viewed as suitable for purchase by a range of investors--including the most risk 
+
+averse.  As conditions in the housing market deteriorated, the threat of significant 
+
+mortgage defaults emerged in 2007.  The panic began in earnest when it became apparent 
+
+that exposure to subprime mortgages was ubiquitous, from the balance sheets of key 
+
+financial intermediaries and their supposedly “off balance sheet” vehicles to the 
+
+investment portfolios of other institutional investors around the world.  Although the total 
+
+losses were initially thought to be not so large as to threaten the system, some of these 
+
+toxic mortgage-backed securities (MBS) were financed with the types of short-term, 
+
+confidence-sensitive funding mechanisms I have just described, which amplified the 
+
+
+ - 8 - 
+
+dislocations once the run in funding markets began and caused great harm to the broader 
+
+economy.   
+
+As the crisis has receded, supervisors--not to mention market participants, 
+
+commentators, and the general public--have eyed financial markets with a heightened 
+
+sensitivity to anything that resembles the buildup of risks that occurred in the run-up to 
+
+the crisis--a natural and useful exercise in pattern recognition.  In that spirit, the Fed, the 
+
+Office of the Comptroller of the Currency (OCC), and the FDIC have focused significant 
+
+attention on the origination activities of depository institutions in the syndicated 
+
+leveraged loan market, where some of the troubling patterns that were evident in 
+
+subprime MBS have been observed.   
+
+These conditions prompted policymakers first to ask questions and then to act.  
+
+Fed officials raised concerns publicly as early as 2011.9  The Fed, the OCC, and the 
+
+FDIC issued supervisory guidance emphasizing these concerns in 2013.10  In 2014, the 
+
+agencies clarified the guidance through published FAQs and began to exercise intensive 
+
+supervision at the largest regulated banks emphasizing the need to improve underwriting 
+
+standards and credit risk management on safety and soundness grounds.11   
+
+9 See, for example, Janet L. Yellen (2011), “Assessing Potential Financial Imbalances in an Era of 
+Accommodative Monetary Policy,” speech delivered at “Real and Financial Linkage and Monetary 
+Policy,” an international conference sponsored by the Bank of Japan, June 1, 
+www.federalreserve.gov/newsevents/speech/yellen20110601a.htm. 
+10 See Board of Governors of the Federal Reserve System, Federal Deposit Insurance Corporation, and 
+Office of the Comptroller of the Currency (2013), “Interagency Guidance on Leveraged Lending,” 
+March 13, www.federalreserve.gov/bankinforeg/srletters/sr1303a1.pdf. 
+11 Along with the Shared National Credit results, the Fed, along with the OCC and the FDIC, released on 
+November 7, 2014, an FAQ document regarding the guidance 
+(www.federalreserve.gov/newsevents/press/bcreg/bcreg20141107a3.pdf).  Also see Board of Governors of 
+the Federal Reserve System, Federal Deposit Insurance Corporation, and Office of the Comptroller of the 
+Currency (2014), “Credit Risk in the Shared National Credit Portfolio Is High; Leveraged Lending 
+Remains a Concern,” joint press release, November 7, 
+www.federalreserve.gov/newsevents/press/bcreg/20141107a.htm. 
+     The guidance covers a wide range of risk-management issues and generally aims tighter scrutiny at 
+deals with leverage over six times pre-tax cash flow, or with forecast debt paydown of less than 50 percent 
+
+
+
+
+ - 9 - 
+
+The case of the leveraged loan market is an interesting one, because it sits at the 
+
+intersection between core financial institutions and credit markets and illustrates the 
+
+challenges supervisors face in thinking about intervention in credit markets.  I will turn to 
+
+that market now in some detail.   
+
+The term portions of leveraged loans are typically not held in the arranging banks’ 
+
+portfolios, but rather sold to a wide range of institutional investors--collateralized loan 
+
+obligations (CLOs), retail loan funds, pension funds, insurance companies, hedge funds, 
+
+and others (figures 1 and 2).  This “originate-to-distribute” model is now dominant across 
+
+a range of markets and reflects the movement over several decades of credit 
+
+intermediation from portfolio lending (from the firm’s perspective, the “storage 
+
+business”) to the capital markets (the “moving business”).  This practice transfers and 
+
+disperses credit and liquidity risks from the core of the financial sector to capital market 
+
+investors that are willing to bear such risks for what they deem appropriate compensation.  
+
+While the risks do not disappear, the system can, in principle, be safer if the ultimate 
+
+institutional investors pose lower risk to the system than banks.  For example, movement 
+
+of credit exposure to speculative grade firms from a bank’s balance sheet to a vehicle that 
+
+is stably funded by sophisticated, deep-pocket institutional investors could be a net gain 
+
+to financial stability.  Movement of such loans to a highly leveraged, runnable vehicle 
+
+beyond the regulatory perimeter could have the opposite effect.   
+
+Pre-crisis conditions in leveraged finance markets were, with the benefit of 
+
+hindsight, clearly in bubble territory.  Deal leverage was at historically high levels (figure 
+
+3), and spreads were at historic lows (figure 4).  Interest coverage ratios were quite low 
+
+over a five-to-seven-year period; differences across industries and companies are also to be taken into 
+consideration. 
+
+
+
+
+ - 10 - 
+
+(figure 5).  Unusually large leveraged buyouts were common.  Banks entered into very 
+
+large, long duration commitments to fund deals that faced significant regulatory and other 
+
+requirements before they could close.  Estimates vary, but when the crisis emerged and 
+
+liquidity in these markets evaporated, large dealers were left holding roughly $350 billion 
+
+in loans and commitments in their pipelines that they could not sell, and these positions 
+
+remained on banks’ balance sheets for a time.  As loan values declined an unprecedented 
+
+40 percent (figure 6), there were significant mark-to-market losses on these assets, which 
+
+may have contributed to doubts about the condition of institutions at the core of the 
+
+system.  Subsequent default rates were not outsized by historical standards, and recovery 
+
+rates were in line with past averages (figure 7).  Of course, the Fed’s monetary policy 
+
+eased financial conditions across the economy and enabled the refinancing of many of 
+
+these loans at lower rates and with issuer-friendly terms. 
+
+Because leveraged loans were generally not held in investment structures that 
+
+used short-term, confidence-sensitive funding, these investments were not a principal 
+
+focal point of runs such as those that plagued MBS funding structures.  CLOs were the 
+
+largest institutional investors in leveraged loans, holding over 50 percent of loans 
+
+outstanding.  These structures are funded with stable capital, with both equity and debt 
+
+tranches committed for several years--a longer duration than that of the underlying loans.   
+
+This picture of the pre-crisis leveraged lending market is one of a sharp decline in 
+
+underwriting standards and a breakdown of risk management, resulting in a large risk 
+
+buildup involving many of the G-SIBs--something the Fed and other regulators want to 
+
+avoid.  Leveraged loans may not have been a material cause of the crisis, and leveraged 
+
+lending alone would likely not have threatened the overall health of the large institutions.  
+
+
+ - 11 - 
+
+But caution on the part of supervisors is certainly understandable here.  It is worth 
+
+remembering that the destructive potential of the subprime mortgage market was not 
+
+obvious in advance and not fully reflected in real-time measures of balance sheet 
+
+exposure.  In light of that demonstrated uncertainty, since the crisis, supervisors have 
+
+opted to react earlier and more aggressively to the buildup of risk.   
+
+Let’s now turn to post-crisis market conditions, which exhibit both similarities 
+
+and differences compared with the pre-crisis period.  Borrowing through leveraged loans 
+
+by speculative-grade companies has been brisk since 2010, with about $800 billion of 
+
+institutional loans now outstanding (figure 8).  Over much of the post-crisis low interest 
+
+rate period, demand for higher-yielding assets has been very strong, often outstripping 
+
+supply.  Price and nonprice terms in the syndicated leveraged loan market have been 
+
+highly favorable to borrowers, as credit spreads declined, albeit not to particularly low 
+
+levels (figure 4), and leverage multiples increased (figure 3).  The share of loan 
+
+agreements that lack traditional maintenance covenants increased to historic highs 
+
+(figures 9 and 10).12 
+
+CLOs and other stably funded investors continue to be the primary owners of 
+
+leveraged loans.  But in recent years, mutual funds that invest in fixed income assets have 
+
+seen large inflows and have become more significant investors in this market.  Some of 
+
+these funds, including those holding syndicated leveraged loans and high-yield bonds, 
+
+provide investors with what is called “liquidity transformation”--providing daily liquidity 
+
+12 Highly accommodative monetary policy, while far from the only cause of ebullient credit market 
+conditions, is designed to support economic activity by creating incentives to take credit and duration risk.  
+See Ben S. Bernanke (2013), “Semiannual Monetary Policy Report to the Congress,” statement before the 
+Committee on Banking, Housing, and Urban Affairs, U.S. Senate, February 26, 
+www.federalreserve.gov/newsevents/testimony/bernanke20130226a.htm. 
+ 
+
+
+
+
+ - 12 - 
+
+even when the underlying assets are relatively illiquid.  The risk is that, in the event of a 
+
+shock or a panic, investors will demand all of their money back at the exact time when 
+
+the liquidity of the already illiquid underlying assets deteriorates even further.  Investors 
+
+may not anticipate or recognize this problem until it is too late--the so-called liquidity 
+
+illusion. 
+
+Bank loan funds, which attract retail investors and offer daily liquidity, now total 
+
+about $150 billion, or 20 percent of institutional leveraged loans outstanding (figure 11).  
+
+The liquidity transformation provided by these funds has not created problems so far 
+
+despite recent outflows from bank loan funds, but supervisors and market participants 
+
+have raised valid concerns that stressful times could well bring large-scale redemptions 
+
+and threaten runs (figure 12).  Chair Mary Jo White has made liquidity concerns 
+
+regarding open-ended mutual funds a priority for the SEC.13  
+
+While it is possible to observe the characteristics of cash market investments, it is 
+
+far more challenging to assess comparable positions in the derivatives and secured 
+
+lending markets.  Investors may take highly leveraged positions in leveraged loans 
+
+through total return swaps and secured funding transactions, and a substantial buildup of 
+
+these positions could present run and fire-sale risks if asset values started to fall.  Today, 
+
+the evidence suggests that such positions are fairly limited, but challenges in 
+
+measurement and data make it hard to get a clear picture. 
+
+While some of these conditions evoke the pre-crisis bubble period and thus raise 
+
+red flags, there are important differences as well.  The large institutions that arrange these 
+
+13 See Mary Jo White (2014), “Enhancing Risk Monitoring and Regulatory Safeguards for the Asset 
+Management Industry,” speech at the New York Times DealBook Opportunities for Tomorrow 
+Conference, New York, December 11, 
+www.sec.gov/News/Speech/Detail/Speech/1370543677722#.VN0WontBfT4. 
+
+
+
+
+ - 13 - 
+
+loans have significantly reduced both the size and duration of their leveraged loan 
+
+commitments (figure 13).  Thus, they are not exposed to the large “pipeline risk” they 
+
+faced as the crisis broke.  In addition, banks now routinely limit their risk by including 
+
+“flex” provisions that, among other things, enable them to increase the interest rate on a 
+
+loan offered for sale by 150 basis points or more, at the borrower’s expense.  So far, we 
+
+have not seen the very large transactions of the pre-crisis period.  In these and other 
+
+respects, the leveraged finance markets have evolved, probably because of supervision as 
+
+well as lessons learned by the banks themselves.  Given these changes, banks at the core 
+
+of our financial system seem less likely to experience stress should conditions in 
+
+leveraged lending deteriorate.  Of course, the guidance now stands in the way of a return 
+
+to pre-crisis conditions. 
+
+Let’s now step back from the leveraged loan market to ask the broader question of 
+
+how supervisors should address a clear deterioration of credit market conditions.  I will 
+
+consider three factors that are often discussed in considering the broader question of 
+
+when and how to intervene in the credit markets to promote financial stability through 
+
+institution-specific supervisory policy.14 
+
+First, do conditions present a threat to the safety and soundness of financial 
+
+institutions at the core of the system?   
+
+14 This approach is consistent with the financial stability framework in Adrian, Covitz, and Liang (2013), 
+and emphasizes the importance of leverage, maturity transformation, and common risks and behaviors in 
+the financial system that can amplify credit losses and harm the real economy.  See Tobias Adrian, Daniel 
+Covitz, and Nellie Liang (2013), “Financial Stability Monitoring,” Finance and Economics Discussion 
+Series 2013-21 (Washington:  Board of Governors of the Federal Reserve System), 
+www.federalreserve.gov/pubs/feds/2013/201321/201321abs.html. 
+ 
+ 
+ 
+
+
+
+
+ - 14 - 
+
+It hardly needs saying that we must to be alert to the buildup of risks in the credit 
+
+markets that could undermine the safety, soundness, or solvency of the G-SIBs or the 
+
+broader system.  If deterioration in one or more of the key credit markets would credibly 
+
+raise such threats, the Fed and the other supervisors should react preemptively.  An object 
+
+lesson in this regard is the damage done by the accumulation of excessive exposures to 
+
+high-risk MBS and other mortgage-related assets in the years leading up to the 
+
+crisis.  The originate-to-distribute model of mortgage lending on its face promised a 
+
+social-welfare-enhancing distribution of mortgage credit risk away from banks and 
+
+toward stable capital market investors.  But the banks remained profoundly exposed 
+
+through contractual putback rights, mortgage and MBS litigation, residual balance sheet 
+
+holdings, and implicit support to sponsored investment vehicles. 
+
+Since the crisis, there have been significant and eminently justified legislative and 
+
+regulatory actions to assure that mortgage originators follow minimum underwriting 
+
+standards and that banks are better protected from exposure to high-risk 
+
+mortgages.  These efforts include the Dodd-Frank risk retention rules and ability-to-pay 
+
+standards, much higher capital and liquidity requirements, stricter accounting rules that 
+
+limit off-balance-sheet treatment for sponsored vehicles, and a much greater supervisory 
+
+focus on litigation and reputational risk.   
+
+Second, is there use of run-prone financing by other investors that can lead to 
+
+damaging fire sales? 
+
+Supervisors should be highly alert to the reemergence in the markets--that is, not 
+
+on the balance sheets of the large banks--of structures that are prone to runs and 
+
+damaging fire sales triggered by sharp declines in asset values.  As I mentioned earlier, 
+
+
+ - 15 - 
+
+two different features can create vulnerability to runs and fire-sale risk.  The first 
+
+involves funding of volatile assets with high leverage that includes short-term, confidence 
+
+sensitive debt.  These structures were widely used before the crisis in the funding of 
+
+MBS.  The second involves “liquidity transformation,” in which the investment structure 
+
+provides investors daily liquidity, but the underlying assets are far less liquid and prone 
+
+to becoming quite illiquid in times of stress.  Either or both of these features can be 
+
+replicated in the derivatives or securities lending markets, which provide less visibility to 
+
+market participants and supervisors.  Financial markets evolve constantly in response to 
+
+market conditions, financial engineering, and regulation.  It will be important to keep up 
+
+with trends in these markets that may give rise to this threat. 
+
+Third, if left unaddressed, is it likely that conditions will risk meaningful damage to 
+
+the real economy when the credit cycle turns? 
+
+A positive answer on either of the first two questions should raise red flags for 
+
+supervisors.  Let’s say, for the sake of argument, that the answers to these questions were 
+
+negative.  One might still try to make the case for supervisory intervention into the credit 
+
+markets to avoid the risk of meaningful damage to the economy down the road.  History 
+
+shows that excesses that occur at the height of a credit boom can result in substantial 
+
+losses not just to financial firms and market investors, but also to households and 
+
+businesses, when that boom turns to bust.15 
+
+15 See, for example, Moritz Schularick and Alan M. Taylor (2012), “Credit Booms Gone Bust:  Monetary 
+Policy, Leverage Cycles, and Financial Crises, 1870-2008,” American Economic Review, vol. 102 (2), 
+pp. 1029-61.   
+
+
+
+
+ - 16 - 
+
+The question of whether to “lean against” the credit cycle through supervisory 
+
+policy--and when, and with what tools--is a difficult one.16  An important threshold 
+
+question is whether supervisors will be able to correctly and in a timely manner identify 
+
+“dangerous” conditions in credit markets, without too many false positives and without 
+
+unnecessarily limiting credit availability by interfering with market forces.  Interesting 
+
+recent research seeks to identify observable variables that could be used to monitor credit 
+
+conditions and detect trends that could threaten the performance of the real economy in 
+
+the future.17  This research is promising, and it could be used by supervisors to inform 
+
+their thinking as it develops further.  In the meantime, unless there is a plausible threat to 
+
+the core of the system or potential for damaging fire sales, I would set a high bar for 
+
+supervisory interventions to lean against the credit cycle.  Such interventions would 
+
+almost surely interfere with the traditional function of capital markets in allocating capital 
+
+to productive uses and dispersing risk to the investors who willingly choose to bear it.   
+
+Finally, another issue to consider when contemplating such intervention is that, 
+
+particularly in the United States, activity is free to migrate outside the commercial 
+
+banking system into less regulated entities.  As supervisory scrutiny has increased in 
+
+recent years, a growing number of nonbanks have become involved in the distribution of 
+
+leveraged loans.  Migration of this activity could be either a net positive or a net negative 
+
+for financial stability, depending on whether it actually transfers risk irrevocably from the 
+
+16 The U.S. banking agencies, following the lead of the Basel Committee on Banking Supervision, created a 
+countercyclical capital buffer that could be activated during periods of excess aggregate credit growth.  The  
+Basel proposal can both “lean against the cycle” and create a capital cushion to absorb losses from the 
+likely increase in defaults. 
+17 See Robin Greenwood and Samuel G. Hanson (2013), “Issuer Quality and Corporate Bond Returns,” 
+Review of Financial Studies, vol. 26 (June), pp. 1483-525; and David López-Salido, Jeremy C. Stein, and 
+Egon Zakrajšek (2014), “Credit-Market Sentiment and the Business Cycle,” slide presentation, 
+http://economics.mit.edu/files/10240. 
+
+
+
+
+ - 17 - 
+
+core of the financial system, and whether the institutions to which activity migrates rely 
+
+on funding that is stable and robust to fire sale dynamics.   
+
+Conclusion 
+
+To wrap up, I believe that sustaining financial stability requires supervisors to 
+
+consider financial markets, in addition to financial institutions and infrastructure.  That is 
+
+most obviously so when conditions threaten the safety and soundness of the financial 
+
+system through leverage, liquidity transformation, or deterioration of credit underwriting 
+
+or other risk-management standards.  At the same time, financial stability need not seek 
+
+to eliminate all risks.  We need to learn, but not overlearn, the lessons of the crisis.  I 
+
+believe there should be a high bar for “leaning against the credit cycle” in the absence of 
+
+credible threats to the core or the reemergence of run-prone funding structures.  In my 
+
+view, the Fed and other prudential and market regulators should resist interfering with the 
+
+role of markets in allocating capital to issuers and risk to investors unless the case for 
+
+doing so is strong and the available tools can achieve the objective in a targeted manner 
+
+and with a high degree of confidence. 
+
+
+
+
+1994 1997 2000 2003 2006 2009 2012
+  0
+
+ 20
+
+ 40
+
+ 60
+
+ 80
+
+100
+Percent
+
+Banks and securities firms
+Nonbanks
+
+Figure 1.  Primary Market for Leveraged Loans
+
+     Annual
+
+    Source:  Standard & Poor’s Leveraged Commentary and Data.*
+
+  0
+ 10
+ 20
+ 30
+ 40
+ 50
+ 60
+ 70
+ 80
+ 90
+100
+
+Percent
+
+2002 2004 2006 2008 2010 2012 2014
+
+  Banks
+  CLO
+  Loan mutual funds
+
+  Hedge, distressed, & HY funds
+  Other
+
+Figure 2.  Loan Market Investor Base
+
+    Note:  Key identifies bar segments from top to bottom for each
+period. CLO is collateralized loan obligation. HY is high-yield.
+    Source:  Standard & Poor’s Leveraged Commentary and Data.*
+
+0
+
+2
+
+4
+
+6
+
+8
+
+Debt/EBITDA
+
+2004 2006 2008 2010 2012 2014
+
+  Large corporate loans
+  Large LBO loans
+  Middle-market loans
+
+Figure 3.  Average Debt/EBITDA Ratio for Large
+Corporate, LBO, and Middle-Market Loans
+
+    Note:  Key identifies bars from left to right within each period.
+"Large corporate loans" captures loans to issuers with EBITDA of
+more than $50 million. "Middle-market loans" captures issuers with
+EBITDA of $50 million or less. EBITDA is earnings before interest,
+taxation, depreciation and amortization, and LBO is leveraged
+buyout.
+    Source:  Standard & Poor’s Leveraged Commentary and Data.*
+
+Q1 Q2
+Q3
+
+Q4
+
+2001 2003 2005 2007 2009 2011 2013 2015
+100
+
+150
+
+200
+
+250
+
+300
+
+350
+
+400
+
+450
+
+500
+
+550
+
+600
+Basis points
+
+B+/B
+BB/BB- 
+
+     Quarterly
+
+Figure 4.  Average New-Issue B+/B
+Institutional Spreads
+
+    Note:  Breaks in the series represent periods with no issuance.
+Straight spreads do not include upfront fees.
+    Source:  Standard & Poor’s Leveraged Commentary and Data.*
+
+1.5
+
+2.0
+
+2.5
+
+3.0
+
+3.5
+
+4.0
+
+4.5
+
+5.0
+
+3.5 4.0 4.5 5.0 5.5 6.0
+
+Coverage (percent)
+
+
+’97
+
+’98
+
+’99’00
+
+’01
+
+’02’03 ’04
+
+’05
+
+’06
+’07
+
+’08
+
+’09
+
+’10
+
+’11 ’12
+’13 ’14
+
+Figure 5.  Interest Rate Coverage vs. Debt/EBITDA
+
+Debt/EBITDA
+
+    Source:  Standard & Poor’s Leveraged Commentary and Data.*
+
+2002 2004 2006 2008 2010 2012 2014
+ 50
+
+ 60
+
+ 70
+
+ 80
+
+ 90
+
+100
+
+110
+
+120
+ Percent of par
+
+     Daily
+
+Figure 6.  Average Bid Price
+
+    Source:  Thomson Reuters LPC Secondary Market Intelligence.
+
+Financial Institutions, Financial Markets, and Financial Stability
+
+   * Disclaimer:  S&P and its third-party information providers expressly disclaim the accuracy and completeness of the information provided to the Board, as well as
+any errors or omissions arising from the use of such information. Further, the information provided herein does not constitute, and should not be used as,
+advice regarding the suitability of securities for investment purposes or any other type of investment advice.
+
+
+2001 2003 2005 2007 2009 2011 2013 2015
+ 0
+
+ 2
+
+ 4
+
+ 6
+
+ 8
+
+10
+
+12
+Percent
+
+Figure 7.  Trailing 12-Month Default Rate
+
+     Monthly
+
+    Note:  Default rate is calculated as the amount in default over the
+last 12 months divided by the amount outstanding at the beginning
+of the 12-month period.
+    Source:  Moody’s default data via Standard & Poor’s Leveraged
+Commentary and Data*
+
+  0
+
+200
+
+400
+
+600
+
+800
+
+Billions of dollars
+
+2004 2006 2008 2010 2012 2014
+
+  Institutional
+  Pro rata
+
+Q1
+
+Q2
+
+Q3
+
+Q4
+
+     Annual rate
+
+Figure 8.  Leveraged Loan Issuance, by
+Investor Type
+
+    Note:  Key identifies bar segments from top to bottom for each
+period.
+    Source:  Standard & Poor’s Leveraged Commentary and Data.*
+
+Leveraged loans outstanding
+
+  0
+
+ 40
+
+ 80
+
+120
+
+160
+
+200
+
+240
+
+280
+
+320
+
+360
+Billions of dollars
+
+2004 2006 2008 2010 2012 2014
+
+   Volume (left scale)
+
+ 0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+
+90
+Percent
+
+     Annual rate
+
+Figure 9.  Issuance of Covenant-Lite Loans
+
+Percent of institutional issuance (right scale)
+
+    Note:  Excludes debtor-in-possession, second liens, and
+unsecured transactions.
+    Source:  Standard & Poor’s Leveraged Commentary and Data.*
+
+  0
+
+ 20
+
+ 40
+
+ 60
+
+ 80
+
+100
+
+Percent
+
+1998 2000 2002 2004 2006 2008 2010 2012 2014
+
+  4 or more
+  3
+  2 or less
+
+Figure 10.  Number of Covenants
+
+    Note:  Key identifies bar segments from top to bottom for each
+period. Includes loans which are not covenant-lite.
+    Source:  Standard & Poor’s Leveraged Commentary and Data.*
+
+  0
+
+ 50
+
+100
+
+150
+
+200
+Billions of dollars
+
+2001 2003 2005 2007 2009 2011 2013 2014
+
+   Assets under management (left scale)
+
+  0
+
+ 25
+
+ 50
+
+ 75
+
+100
+Percent
+
+Q1Q2
+Q3
+
+Q4
+
+     Annual
+
+Figure 11.  Loan Fund Assets under Management
+
+Percent of total outstanding
+loans (right scale)
+
+    Source:  Standard & Poor’s Leveraged Commentary and Data.*
+
+-60
+
+-40
+
+-20
+
+  0
+
+ 20
+
+ 40
+
+ 60
+
+ 80
+Billions of dollars
+
+2004 2006 2008 2010 2012 2014
+
+  Q1
+
+Q2 Q3 Q4
+
+     Annual rate
+
+Figure 12.  Loan Mutual Fund Flows
+
+    Source:  Standard & Poor’s Leveraged Commentary and Data.*
+
+Financial Institutions, Financial Markets, and Financial Stability
+
+   * Disclaimer: S&P and its third-party information providers expressly disclaim the accuracy and completeness of the information provided to the Board, as well as
+any errors or omissions arising from the use of such information. Further, the information provided herein does not constitute, and should not be used as,
+advice regarding the suitability of securities for investment purposes or any other type of investment advice.
+
+
+2004 2006 2008 2010 2012 2014
+
+   0
+
+  50
+
+ 100
+
+ 150
+
+ 200
+
+ 250
+ Billions of dollars
+
+     Weekly
+
+Figure 13.  Leveraged Loan Forward Calendar
+
+    Source:  Standard & Poor’s Leveraged Commentary and Data.*
+
+Financial Institutions, Financial Markets, and Financial Stability
+
+   * Disclaimer: S&P and its third-party information providers expressly disclaim the accuracy and completeness of the information provided to the Board, as well as
+any errors or omissions arising from the use of such information. Further, the information provided herein does not constitute, and should not be used as,
+advice regarding the suitability of securities for investment purposes or any other type of investment advice.
+

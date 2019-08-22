@@ -1,0 +1,837 @@
+
+For release on delivery 
+12:25 p.m. EDT   
+April 16, 2014 
+ 
+
+
+Monetary Policy and the Economic Recovery 
+ 
+ 
+ 
+
+Remarks by 
+ 
+
+Janet L. Yellen 
+ 
+
+Chair 
+ 
+
+Board of Governors of the Federal Reserve System 
+ 
+
+at 
+ 
+
+Economic Club of New York 
+ 
+
+New York, New York 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+April 16, 2014 
+
+
+
+Nearly five years into the expansion that began after the financial crisis and the 
+
+Great Recession, the recovery has come a long way.  More than 8 million jobs have been 
+
+added to nonfarm payrolls since 2009, almost the same number lost as a result of the 
+
+recession.  Led by a resurgent auto industry, manufacturing output has also nearly 
+
+returned to its pre-recession peak.  While the housing market still has far to go, it seems 
+
+to have turned a corner.   
+
+It is a sign of how far the economy has come that a return to full employment is, 
+
+for the first time since the crisis, in the medium-term outlooks of many forecasters.  It is a 
+
+reminder of how far we have to go, however, that this long-awaited outcome is projected 
+
+to be more than two years away.  
+
+Today I will discuss how my colleagues on the Federal Open Market Committee 
+
+(FOMC) and I view the state of the economy and how this view is likely to shape our 
+
+efforts to promote a return to maximum employment in a context of price stability.  I will 
+
+start with the FOMC’s outlook, which foresees a gradual return over the next two to three 
+
+years of economic conditions consistent with its mandate.  
+
+While monetary policy discussions naturally begin with a baseline outlook, the 
+
+path of the economy is uncertain, and effective policy must respond to significant 
+
+unexpected twists and turns the economy may take.  My primary focus today will be on 
+
+how the FOMC’s monetary policy framework has evolved to best support the recovery 
+
+through those twists and turns, and what this framework is likely to imply as the recovery 
+
+progresses.  
+
+
+ - 2 - 
+
+The Current Economic Outlook 
+
+The FOMC’s current outlook for continued, moderate growth is little changed 
+
+from last fall.  In recent months, some indicators have been notably weak, requiring us to 
+
+judge whether the data are signaling a material change in the outlook.  The unusually 
+
+harsh winter weather in much of the nation has complicated this judgment, but my 
+
+FOMC colleagues and I generally believe that a significant part of the recent softness was 
+
+weather related.  
+
+The continued improvement in labor market conditions has been important in this 
+
+judgment.  The unemployment rate, at 6.7 percent, has fallen three-tenths of 1 percentage 
+
+point since late last year.  Broader measures of unemployment that include workers 
+
+marginally attached to the labor force and those working part time for economic reasons 
+
+have fallen a bit more than the headline unemployment rate, and labor force participation, 
+
+which had been falling, has ticked up this year.   
+
+Inflation, as measured by the price index for personal consumption expenditures, 
+
+has slowed from an annual rate of about 2-1/2 percent in early 2012 to less than 1 percent 
+
+in February of this year.1  This rate is well below the Committee’s 2 percent longer-run 
+
+objective.  Many advanced economies are observing a similar softness in inflation.  
+
+To some extent, the low rate of inflation seems due to influences that are likely to 
+
+be temporary, including a deceleration in consumer energy prices and outright declines in 
+
+core import prices in recent quarters.  Longer-run inflation expectations have remained 
+
+remarkably steady, however.  We anticipate that, as the effects of transitory factors 
+
+subside and as labor market gains continue, inflation will gradually move back toward 
+
+2 percent.  
+                                                 
+1 These inflation rates are based on 12-month changes. 
+
+
+ - 3 - 
+
+In sum, the central tendency of FOMC participant projections for the 
+
+unemployment rate at the end of 2016 is 5.2 to 5.6 percent, and for inflation the central 
+
+tendency is 1.7 to 2 percent. 2  If this forecast was to become reality, the economy would 
+
+be approaching what my colleagues and I view as maximum employment and price 
+
+stability for the first time in nearly a decade.  I find this baseline outlook quite plausible.  
+
+Of course, if the economy obediently followed our forecasts, the job of central 
+
+bankers would be a lot easier and their speeches would be a lot shorter.  Alas, the 
+
+economy is often not so compliant, so I will ask your indulgence for a few more minutes.  
+
+Three Big Questions for the FOMC 
+
+Because the course of the economy is uncertain, monetary policymakers need to 
+
+carefully watch for signs that it is diverging from the baseline outlook and then respond 
+
+in a systematic way.  Let me turn first to monitoring and discuss three questions I believe 
+
+are likely to loom large in the FOMC’s ongoing assessment of where we are on the path 
+
+back to maximum employment and price stability. 
+
+Is there still significant slack in the labor market? 
+
+The first question concerns the extent of slack in the labor market.  One of the 
+
+FOMC’s objectives is to promote a return to maximum employment, but exactly what 
+
+conditions are consistent with maximum employment can be difficult to assess.  Thus far 
+
+in the recovery and to this day, there is little question that the economy has remained far 
+
+from maximum employment, so measurement difficulties were not our focus.  But as the 
+
+attainment of our maximum employment goal draws nearer, it will be necessary for the 
+
+                                                 
+2 These figures are based on the Summary of Economic Projections (SEP) submitted in conjunction with 
+the March 2014 FOMC meeting.  The SEP is an addendum to the FOMC minutes and is available at Board 
+of Governors of the Federal Reserve System (2014), “Minutes of the Federal Open Market Committee, 
+March 18-19, 2014,” press release, April 9, 
+www.federalreserve.gov/newsevents/press/monetary/20140409a.htm. 
+
+
+ - 4 - 
+
+FOMC to form a more nuanced judgment about when the recovery of the labor market 
+
+will be materially complete.  As the FOMC’s statement on longer-term goals and policy 
+
+strategy emphasizes, these judgments are inherently uncertain and must be based on a 
+
+wide range of indicators.3   
+
+I will refer to the shortfall in employment relative to its mandate-consistent level 
+
+as labor market slack, and there are a number of different indicators of this slack.  
+
+Probably the best single indicator is the unemployment rate.  At 6.7 percent, it is now 
+
+slightly more than 1 percentage point above the 5.2 to 5.6 percent central tendency of the 
+
+Committee’s projections for the longer-run normal unemployment rate.  This shortfall 
+
+remains significant, and in our baseline outlook, it will take more than two years to 
+
+close.4   
+
+Other data suggest that there may be more slack in labor markets than indicated 
+
+by the unemployment rate.  For example, the share of the workforce that is working part 
+
+time but would prefer to work full time remains quite high by historical standards.  
+
+Similarly, while the share of workers in the labor force who are unemployed and have 
+
+been looking for work for more than six months has fallen from its peak in 2010, it 
+
+remains as high as any time prior to the Great Recession.5  There is ongoing debate about 
+
+why long-term unemployment remains so high and the degree to which it might decline 
+
+                                                 
+3 See the FOMC’s Statement on Longer-Run Goals and Monetary Policy Strategy, as amended effective 
+January 28, 2014, which is available on the Board’s website at 
+http://federalreserve.gov/monetarypolicy/files/FOMC_LongerRunGoals.pdf. 
+4 See the SEP in Board of Governors, “Minutes of the Federal Open Market Committee, March 18-19, 
+2014,” in note 2. 
+5 The share in CPS employment of persons working part time for economic reasons rose from 3 percent 
+prior to the recession to 6.5 percent in November 2009, and it has since then declined only to 5 
+percent.  The share in the labor force of those unemployed for more than 26 weeks rose from less than 1 
+percent prior to the recession to 4.5 percent, and it has since declined to just below 2.5 percent; the previous 
+peak for this series was 2.5 percent in 1983.  The records for long-term unemployed begin in 1948. 
+
+
+ - 5 - 
+
+in a more robust economy.  As I argued more fully in a recent speech, I believe that long-
+
+term unemployment might fall appreciably if economic conditions were stronger.6  
+
+The low level of labor force participation may also signal additional slack that is 
+
+not reflected in the headline unemployment rate.  Participation would be expected to fall 
+
+because of the aging of the population, but the decline steepened in the recovery.  
+
+Although economists differ over what share of those currently outside the labor market 
+
+might join or rejoin the labor force in a stronger economy, my own view is that some 
+
+portion of the decline in participation likely represents labor market slack.7   
+
+Lastly, economists also look to wage pressures to signal a tightening labor market.  
+
+At present, wage gains continue to proceed at a historically slow pace in this recovery, 
+
+with few signs of a broad-based acceleration.  As the extent of slack we see today 
+
+diminishes, however, the FOMC will need to monitor these and other labor market 
+
+indicators closely to judge how much slack remains and, therefore, how accommodative 
+
+monetary policy should be. 
+
+Is inflation moving back toward 2 percent? 
+
+A second question that is likely to figure heavily in our assessment of the 
+
+recovery is whether inflation is moving back toward the FOMC’s 2 percent longer-run 
+
+objective, as envisioned in our baseline outlook.  As the most recent FOMC statement 
+
+                                                 
+6 See Janet L. Yellen (2014), “What the Federal Reserve Is Doing to Promote a Stronger Job Market,” 
+speech delivered at the 2014 National Interagency Community Reinvestment Conference, Chicago, March 
+31, www.federalreserve.gov/newsevents/speech/yellen20140331a.htm. 
+7 For the view that most of the recent decline in labor force participation reflects retirement, see Shigeru 
+Fujita (2014), “On the Causes of Declines in the Labor Force Participation Rate,” Federal Reserve Bank of 
+Philadelphia, special report, Research Rap, February 6, available at www.philadelphiafed.org/research-and-
+data/publications/research-rap.  The view that a larger share of the recent decline reflects cyclical factors is 
+expressed by Christopher J. Erceg and Andrew T. Levin (2013), “Labor Force Participation and Monetary 
+Policy in the Wake of the Great Recession,” paper presented at “Fulfilling the Full Employment Mandate--
+Monetary Policy and the Labor Market,” 57th Economic Conference of the Federal Reserve Bank of 
+Boston, April 12, available at www.bostonfed.org/employment2013/agenda.htm. 
+
+
+ - 6 - 
+
+emphasizes, inflation persistently below 2 percent could pose risks to economic 
+
+performance.  
+
+The FOMC strives to avoid inflation slipping too far below its 2 percent objective 
+
+because, at very low inflation rates, adverse economic developments could more easily 
+
+push the economy into deflation.  The limited historical experience with deflation shows 
+
+that, once it starts, deflation can become entrenched and associated with prolonged 
+
+periods of very weak economic performance.8 
+
+A persistent bout of very low inflation carries other risks as well.  With the federal 
+
+funds rate currently near its lower limit, lower inflation translates into a higher real value 
+
+for the federal funds rate, limiting the capacity of monetary policy to support the 
+
+economy.9  Further, with longer-term inflation expectations anchored near 2 percent in 
+
+recent years, persistent inflation well below this expected value increases the real burden 
+
+of debt for households and firms, which may put a drag on economic activity.   
+
+I will mention two considerations that will be important in assessing whether 
+
+inflation is likely to move back to 2 percent as the economy recovers.  First, we anticipate 
+
+that, as labor market slack diminishes, it will exert less of a drag on inflation.  However, 
+
+during the recovery, very high levels of slack have seemingly not generated strong 
+
+downward pressure on inflation.  We must therefore watch carefully to see whether 
+
+                                                 
+8 See Ben S. Bernanke (2002), “Deflation:  Making Sure ‘It’ Doesn’t Happen Here,” speech delivered at the 
+National Economists Club, Washington, November 21, 
+www.federalreserve.gov/boarddocs/speeches/2002/20021121/default.htm. 
+9 If firms’ and households’ spending decisions depended only on longer-term interest rates, temporarily 
+higher short-term real interest rates due to low inflation at a time that nominal interest rates are constrained 
+by the zero lower bound would have little economic effects, provided that these higher short-term real 
+interest rates would be expected to be compensated by lower short-term real interest rates later on.  
+However, to the extent that these spending decisions depend in part on shorter-term real interest rates, low 
+inflation can induce meaningful economic costs.  
+
+
+ - 7 - 
+
+diminishing slack is helping return inflation to our objective.10  Second, our baseline 
+
+projection rests on the view that inflation expectations will remain well anchored near 2 
+
+percent and provide a natural pull back to that level.  But the strength of that pull in the 
+
+unprecedented conditions we continue to face is something we must continue to assess. 
+
+Finally, the FOMC is well aware that inflation could also threaten to rise 
+
+substantially above 2 percent.  At present, I rate the chances of this happening as 
+
+significantly below the chances of inflation persisting below 2 percent, but we must 
+
+always be prepared to respond to such unexpected outcomes, which leads us to my third 
+
+question. 
+
+What factors may push the recovery off track? 
+
+Myriad factors continuously buffet the economy, so the Committee must always 
+
+be asking, “What factors may be pushing the recovery off track?”  For example, over the 
+
+nearly 5 years of the recovery, the economy has been affected by greater-than-expected 
+
+fiscal drag in the United States and by spillovers from the sovereign debt and banking 
+
+problems of some euro-area countries.  Further, our baseline outlook has changed as we 
+
+have learned about the degree of structural damage to the economy wrought by the crisis 
+
+and the subsequent pace of healing.   
+
+Let me offer an example of how these issues shape policy.  Four years ago, in 
+
+April 2010, the outlook appeared fairly bright.  The emergency lending programs that the 
+
+                                                 
+10 The uncertainty surrounding the empirical relationship between slack and inflation is discussed in 
+James H. Stock and Mark W. Watson (2009), “Phillips Curve Inflation Forecasts,” in Jeff Fuhrer, 
+Yolanda K. Kodrzycki, Jane Sneddon Little, and Giovanni P. Olivei, eds., Understanding Inflation and the 
+Implications for Monetary Policy:  A Phillips Curve Retrospective (Cambridge, Mass.:  MIT Press).  
+Moreover, with the share of long-term unemployed in total unemployment unusually elevated in recent 
+years, there is an ongoing discussion about whether short- and long-term unemployment have differential 
+effects on inflation.  See Robert J. Gordon (2013), “The Phillips Curve Is Alive and Well:  Inflation and the 
+NAIRU during the Slow Recovery,” NBER Working Paper Series 19390 (Cambridge, Mass.:  National 
+Bureau of Economic Research, August), available at www.nber.org/papers/w19390; and Mark W. Watson 
+(forthcoming), “Inflation Persistence, the NAIRU, and the Great Recession,” American Economic Review. 
+
+
+ - 8 - 
+
+Federal Reserve implemented at the height of the crisis had been largely wound down, 
+
+and the Fed was soon to complete its first large-scale asset purchase program. Private-
+
+sector forecasters polled in the April 2010 Blue Chip survey were predicting that the 
+
+unemployment rate would fall steadily to 8.6 percent in the final quarter of 2011.11   
+
+This forecast proved quite accurate--the unemployment rate averaged 8.6 percent 
+
+in the fourth quarter of 2011.  But this was not the whole story.  In April 2010, Blue Chip 
+
+forecasters not only expected falling unemployment, they also expected the FOMC to 
+
+soon begin raising the federal funds rate.  Indeed, they expected the federal funds rate to 
+
+reach 1.3 percent by the second quarter of 2011.12  By July 2010, however, with growth 
+
+disappointing and the FOMC expressing concerns about softening in both growth and 
+
+inflation, the Blue Chip forecast of the federal funds rate in mid-2011 had fallen to 
+
+0.8 percent, and by October the forecasters expected that the rate would remain in the 
+
+range of 0 to 25 basis points throughout 2011, as turned out to be the case.13  Not only 
+
+did expectations of policy tightening recede, the FOMC also initiated a new $600 billion 
+
+asset purchase program in November 2010. 
+
+                                                 
+11 See Aspen Publishers (2010), Blue Chip Economic Indicators, vol. 35, no. 4 (April 10).  These forecasts 
+were similar to the central tendency of FOMC participants’ projections for the unemployment rate at the 
+end of 2011 submitted in conjunction with the April 2010 FOMC meeting, which ranged from 8.1 to 
+8.5 percent.  See Board of Governors of the Federal Reserve System (2010), “Minutes of the Federal Open 
+Market Committee, April 27-28, 2010,” press release, May 19, 
+www.federalreserve.gov/newsevents/press/monetary/20100519a.htm. 
+12 See Aspen Publishers (2010), Blue Chip Financial Forecasts, vol. 29, no. 4 (April 1). 
+13 See, respectively, Aspen Publishers (2010), Blue Chip Financial Forecasts, vol. 29, no. 7 (July 1); and 
+Aspen Publishers (2010), vol. 29, no. 10 (October 1).  In the statement following its August 10, 2010, 
+meeting, the FOMC noted that “the pace of recovery in output and employment has slowed in recent 
+months.”  See Board of Governors of the Federal Reserve System (2010), “FOMC Statement,” press 
+release, August 10, www.federalreserve.gov/newsevents/press/monetary/20100810a.htm.  See also the 
+discussion in the minutes of that meeting:  Board of Governors of the Federal Reserve System (2010), 
+“Minutes of the Federal Open Market Committee, August 10, 2010,” press release, August 31, 
+www.federalreserve.gov/newsevents/press/monetary/20100831a.htm. 
+
+
+ - 9 - 
+
+Thus, while the reductions in the unemployment rate through 2011 were roughly 
+
+as forecast in early 2010, this improvement only came about with the FOMC providing a 
+
+considerably higher level of accommodation than originally anticipated.   
+
+This experience was essentially repeated the following year.  In April 2011, Blue 
+
+Chip forecasters expected the unemployment rate to fall to 7.9 percent by the fourth 
+
+quarter of 2012, with the FOMC expected to have already raised the federal funds rate to 
+
+near 1 percent by mid-2012.14   
+
+As it turned out, the unemployment rate forecast was once more remarkably 
+
+accurate, but again this was associated with considerably more accommodation than 
+
+anticipated.  In response to signs of slowing economic activity, in August 2011 the 
+
+FOMC for the first time expressed its forward guidance in terms of the calendar, stating 
+
+that conditions would likely warrant exceptionally low levels for the federal funds rate at 
+
+least through mid-2013. The following month, the Committee added to accommodation 
+
+by adopting a new balance sheet policy known as the maturity extension program. 15  
+
+Thus, in both 2011 and 2012, the unemployment rate actually declined by about 
+
+as much as had been forecast the previous year, but only after unexpected weakness 
+
+prompted additional accommodative steps by the Federal Reserve.  In both cases, I 
+
+believe that the FOMC’s decision to respond to signs of weakness with significant 
+
+additional accommodation played an important role in helping to keep the projected labor 
+
+                                                 
+14 See, respectively, Aspen Publishers (2011), Blue Chip Economic Indicators, vol. 36, no. 4 (April 10); 
+and Aspen Publishers (2011), Blue Chip Financial Forecasts, vol. 30, no. 4 (April 1). 
+15 For the FOMC’s calendar-based forward guidance as communicated in its August 2011 statement, see 
+Board of Governors of the Federal Reserve System (2011), “FOMC Statement,” press release, August 9, 
+www.federalreserve.gov/newsevents/press/monetary/20110809a.htm.  For the description of the FOMC’s 
+maturity extension program that appeared in its September 2011 statement, see Board of Governors of the 
+Federal Reserve System (2011), “Federal Reserve Issues FOMC Statement,” press release, September 21, 
+www.federalreserve.gov/newsevents/press/monetary/20110921a.htm. 
+
+
+ - 10 - 
+
+market recovery on track.16  These episodes illustrate what I described earlier as a vital 
+
+aspect of effective monetary policymaking:  monitor the economy for signs that events 
+
+are unfolding in a materially different manner than expected and adjust policy in response 
+
+in a systematic manner.  Now I will turn from the task of monitoring to the policy 
+
+response. 
+
+Policy Challenges in an Unprecedented Recovery 
+
+Fundamental to modern thinking on central banking is the idea that monetary 
+
+policy is more effective when the public better understands and anticipates how the 
+
+central bank will respond to evolving economic conditions.  Specifically, it is important 
+
+for the central bank to make clear how it will adjust its policy stance in response to 
+
+unforeseen economic developments in a manner that reduces or blunts potentially 
+
+harmful consequences.  If the public understands and expects policymakers to behave in 
+
+this systematically stabilizing manner, it will tend to respond less to such developments.  
+
+Monetary policy will thus have an “automatic stabilizer” effect that operates through 
+
+private-sector expectations.  It is important to note that tying the response of policy to the 
+
+economy necessarily makes the future course of the federal funds rate uncertain.  But by 
+
+responding to changing circumstances, policy can be most effective at reducing 
+
+uncertainty about the course of inflation and employment. 
+
+Recall how this worked during the couple of decades before the crisis--a period 
+
+sometimes known as the Great Moderation.  The FOMC’s main policy tool, the federal 
+
+funds rate, was well above zero, leaving ample scope to respond to the modest shocks 
+
+                                                 
+16 There are a range of estimates on the effectiveness of these policies.  A review is provided in Ben S. 
+Bernanke (2012), “Monetary Policy since the Onset of the Crisis,” speech delivered at “The Changing 
+Policy Landscape,” a symposium sponsored by the Federal Reserve Bank of Kansas City, held in Jackson 
+Hole, Wyo., August 30-September 1, 
+www.federalreserve.gov/newsevents/speech/bernanke20120831a.htm. 
+
+
+ - 11 - 
+
+that buffeted the economy during that period.  Many studies confirmed that the 
+
+appropriate response of policy to those shocks could be described with a fair degree of 
+
+accuracy by a simple rule linking the federal funds rate to the shortfall or excess of 
+
+employment and inflation relative to their desired values.17  The famous Taylor rule 
+
+provides one such formula.18   
+
+The idea that monetary policy should react in a systematic manner in order to 
+
+blunt the effects of shocks has remained central in the FOMC’s policymaking during this 
+
+recovery.  However, the application of this idea has been more challenging.  With the 
+
+federal funds rate pinned near zero, the FOMC has been forced to rely on two less 
+
+familiar policy tools--the first one being forward guidance regarding the future setting of 
+
+the federal funds rate and the second being large-scale asset purchases.  There are no 
+
+time-tested guidelines for how these tools should be adjusted in response to changes in 
+
+the outlook.  As the episodes recounted earlier illustrate, the FOMC has continued to try 
+
+to adjust its policy tools in a systematic manner in response to new information about the 
+
+economy.  But because both the tools and the economic conditions have been unfamiliar, 
+
+it has also been critical that the FOMC communicate how it expects to deploy its tools in 
+
+response to material changes in the outlook.   
+
+Let me review some important elements in the evolution of the FOMC’s 
+
+communication framework.  When the FOMC initially began using its unconventional 
+
+tools, policy communication was relatively simple.  In December 2008, for example, the 
+
+                                                 
+17 See the discussion in John B. Taylor and John C. Williams (2011), “Simple and Robust Rules for 
+Monetary Policy,” chap. 15 in Benjamin M. Friedman and Michael Woodford, eds., Handbook of Monetary 
+Economics, vol. 3B (San Diego:  North-Holland), pp. 829-59.  (An April 2010 working paper version of 
+this chapter is available on the Federal Reserve Bank of San Francisco’s website at 
+www.frbsf.org/economic-research/files/wp10-10bk.pdf.) 
+18 See John B. Taylor (1993), “Discretion versus Policy Rules in Practice,” Carnegie-Rochester Conference 
+Series on Public Policy, vol. 39 (December), pp. 195-214. 
+
+
+ - 12 - 
+
+FOMC said it expected that conditions would warrant keeping the federal funds rate near 
+
+zero for “some time.”  This period before the “liftoff” in the federal funds rate was 
+
+described in increasingly specific, and (as it turned out) longer, periods over time--“some 
+
+time” became “an extended period,” which was later changed to “mid-2013,” then “late 
+
+2014,” then “mid-2015.”19  This fixed, calendar-based guidance had the virtue of 
+
+simplicity, but it lacked the automatic stabilizer property of communication that would 
+
+signal how and why the stance of policy and forward guidance might change as 
+
+developments unfolded, and as we learned about the extent of the need for 
+
+accommodation.   
+
+More recently, the Federal Reserve, and I might add, other central banks around 
+
+the world, have sought to incorporate this automatic stabilizer feature in their 
+
+communications.20  In December 2012, the Committee reformulated its forward 
+
+guidance, stating that it anticipated that the federal funds rate would remain near zero at 
+
+least as long as the unemployment rate remained above 6-1/2 percent, inflation over the 
+
+period between one and two years ahead was projected to be no more than half a 
+                                                 
+19 The references to “some time,” “an extended period,” “mid-2013,” “late 2014,” and “mid-2015” 
+appeared in the FOMC statements of, respectively, December 2008, March 2009, August 2011, January 
+2012, and September 2012.  See Board of Governors of the Federal Reserve System (2008), “FOMC 
+Statement and Board Approval of Discount Rate Requests of the Federal Reserve Banks of New York, 
+Cleveland, Richmond, Atlanta, Minneapolis, and San Francisco,” press release, December 16, 
+www.federalreserve.gov/newsevents/press/monetary/20081216b.htm; Board of Governors (2009), “FOMC 
+Statement,” press release, March 18, www.federalreserve.gov/newsevents/press/monetary/20090318a.htm; 
+Board of Governors (2011), “FOMC Statement,” press release, August 9, 
+www.federalreserve.gov/newsevents/press/monetary/20110809a.htm; Board of Governors (2012), “Federal 
+Reserve Issues FOMC Statement,” press release, January 25, 
+www.federalreserve.gov/newsevents/press/monetary/20120125a.htm; and Board of Governors (2012), 
+“Federal Reserve Issues FOMC Statement,” press release, September 13, 
+www.federalreserve.gov/newsevents/press/monetary/20120913a.htm. 
+20 The Bank of England introduced threshold-based forward guidance in August 2013 and adopted more-
+qualitative forward guidance in February 2014; see Bank of England, “Forward Guidance,” webpage, 
+www.bankofengland.co.uk/monetarypolicy/Pages/forwardguidance.aspx.  The European Central Bank 
+recently linked its forward guidance more explicitly to its assessment of economic slack, as discussed in 
+President Mario Draghi’s press conference on March 6, 2014; see Mario Draghi (2014), “Introductory 
+Statement to the Press Conference (with Q&A),” European Central Bank, Frankfurt, March 6, 
+www.ecb.europa.eu/press/pressconf/2014/html/is140306.en.html. 
+
+
+ - 13 - 
+
+percentage point above the Committee’s objective, and longer-term inflation expectations 
+
+continued to be well anchored.  This guidance emphasized to the public that it could 
+
+count on a near-zero federal funds rate at least until substantial progress in the recovery 
+
+had been achieved, however long that might take.  When these thresholds were 
+
+announced, the unemployment rate was reported to be 7.7 percent, and the Committee 
+
+projected that the 6-1/2 percent threshold would not be reached for another 2-1/2 years--
+
+in mid-2015.  The Committee emphasized that these numerical criteria were not triggers 
+
+for raising the federal funds rate, and Chairman Bernanke stated that, ultimately, any 
+
+decision to begin removing accommodation would be based on a wide range of 
+
+indicators.21   
+
+Our communications about asset purchases have undergone a similar 
+
+transformation. The initial asset purchase programs had fixed time and quantity limits, 
+
+although those limits came with a proviso that they might be adjusted.  In the fall of 
+
+2012, the FOMC launched its current purchase program, this time explicitly tying the 
+
+course of the program to evolving economic conditions.  When the program began, the 
+
+rate of purchases was $85 billion per month, and the Committee indicated that purchases 
+
+would continue, providing that inflation remained well behaved, until there was a 
+
+substantial improvement in the outlook for the labor market.22 
+
+Based on the cumulative progress toward maximum employment since the 
+
+initiation of the program and the improvement in the outlook for the labor market, the 
+
+FOMC began reducing the pace of asset purchases last December, stating that “[i]f 
+
+                                                 
+21 See Board of Governors of the Federal Reserve System (2012), “Transcript of Chairman Bernanke’s 
+Press Conference, December 12, 2012,” 
+www.federalreserve.gov/mediacenter/files/FOMCpresconf20121212.pdf. 
+22 See Board of Governors, “Federal Reserve Issues FOMC Statement,” September 13, 2012, in note 19. 
+
+
+ - 14 - 
+
+incoming information broadly supports the Committee’s expectation of ongoing 
+
+improvement in labor market conditions and inflation moving back toward its longer-
+
+term objective, the Committee will likely reduce the pace of asset purchases in further 
+
+measured steps at future meetings.”23  Purchases are currently proceeding at a pace of 
+
+$55 billion per month.  Consistent with my theme today, however, the FOMC statement 
+
+underscores that purchases are not on a preset course--the FOMC stands ready to adjust 
+
+the pace of purchases as warranted should the outlook change materially.   
+
+Recent Changes to the Forward Guidance 
+
+At our most recent meeting in March, the FOMC reformulated its forward 
+
+guidance for the federal funds rate.  While one of the main motivations for this change 
+
+was that the unemployment rate might soon cross the 6-1/2 percent threshold, the new 
+
+formulation is also well suited to help the FOMC explain policy adjustments that may 
+
+arise in response to changes in the outlook.  I should note that the change in the forward 
+
+guidance did not indicate a change in the Committee’s policy intentions, but instead was 
+
+made to clarify the Committee’s thinking about policy as the economy continues to 
+
+recover.  The new guidance provides a general description of the framework that the 
+
+FOMC will apply in making decisions about the timing of liftoff.  Specifically, in 
+
+determining how long to maintain the current target range of 0 to 25 basis points for the 
+
+federal funds rate, “the Committee will assess progress, both realized and expected, 
+
+toward its objectives of maximum employment and 2 percent inflation.”24  In other 
+
+words, the larger the shortfall of employment or inflation from their respective objectives, 
+
+                                                 
+23 See Board of Governors of the Federal Reserve System (2013), “Federal Reserve Issues FOMC 
+Statement,” press release, December 18, 
+www.federalreserve.gov/newsevents/press/monetary/20131218a.htm. 
+24 See Board of Governors of the Federal Reserve System (2014), “Federal Reserve Issues FOMC 
+Statement,” press release, March 19, www.federalreserve.gov/newsevents/press/monetary/20140319a.htm. 
+
+
+ - 15 - 
+
+and the slower the projected progress toward those objectives, the longer the current 
+
+target range for the federal funds rate is likely to be maintained.  This approach 
+
+underscores the continuing commitment of the FOMC to maintain the appropriate degree 
+
+of accommodation to support the recovery.  The new guidance also reaffirms the 
+
+FOMC’s view that decisions about liftoff should not be based on any one indicator, but 
+
+that it will take into account a wide range of information on the labor market, inflation, 
+
+and financial developments.  
+
+Along with this general framework, the FOMC provided an assessment of what 
+
+that framework implies for the likely path of policy under the baseline outlook.  At 
+
+present, the Committee anticipates that economic and financial conditions will likely 
+
+warrant maintaining the current range “for the federal funds rate for a considerable time 
+
+after the asset purchase program ends, especially if projected inflation continues to run 
+
+below the Committee’s 2 percent longer-run goal, and provided that longer-term inflation 
+
+expectations remain well anchored.”25   
+
+Finally, the Committee began explaining more fully how policy may operate in 
+
+the period after liftoff, indicating its expectation that economic conditions may, for some 
+
+time, warrant keeping short-term interest rates below levels the Committee views as 
+
+likely to prove normal in the longer run.  FOMC participants have cited different reasons 
+
+for this view, but many of the reasons involve persistent effects of the financial crisis and 
+
+the possibility that the productive capacity of the economy will grow more slowly, at 
+
+least for a time, than it did, on average, before the crisis.  The expectation that the 
+
+achievement of our economic objectives will likely require low real interest rates for 
+
+some time is again not confined to the United States but is shared broadly across many 
+                                                 
+25 See Board of Governors, “Federal Reserve Issues FOMC Statement,” March 19, 2014, in note 24. 
+
+
+ - 16 - 
+
+advanced economies.26  Of course, this guidance is a forecast and will evolve as we gain 
+
+further evidence about how the economy is operating in the wake of the crisis and 
+
+ensuing recession. 
+
+Conclusion 
+
+In summary, the policy framework I have described reflects the FOMC’s 
+
+commitment to systematically respond to unforeseen economic developments in order to 
+
+promote a return to maximum employment in a context of price stability.   
+
+ It is very welcome news that a return to these conditions has finally appeared in 
+
+the medium-term outlook of many forecasters.  But it will be much better news when this 
+
+objective is reached.  My colleagues on the FOMC and I will stay focused on doing the 
+
+Federal Reserve’s part to promote this goal.   
+
+                                                 
+26 See the discussion in International Monetary Fund (2014), “Perspectives on Global Real Interest Rates,” 
+chap. 3 in World Economic Outlook:  Recovery Strengthens, Remains Uneven (Washington:  IMF, April), 
+www.imf.org/external/pubs/ft/weo/2014/01/pdf/c3.pdf.  
+

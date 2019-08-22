@@ -1,0 +1,1042 @@
+
+For release on delivery 
+10:00 a.m. EDT 
+October 11, 2012 
+ 
+
+
+Evaluating Large-Scale Asset Purchases 
+ 
+ 
+ 
+
+Remarks by 
+ 
+
+Jeremy C. Stein 
+ 
+
+Member 
+ 
+
+Board of Governors of the Federal Reserve System 
+ 
+
+at 
+ 
+
+The Brookings Institution 
+ 
+
+Washington, D.C. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+October 11, 2012 
+
+
+
+
+It’s a pleasure to be here at Brookings.  And it’s a special thrill and honor for me 
+
+to be here alongside Don Kohn.  One of my only regrets about coming to the Fed is my 
+
+timing.  I wish I had had the good fortune to arrive a few years earlier, so I could have 
+
+had the privilege of being Don’s colleague, and of learning from him.  Now I can only do 
+
+so indirectly.  Several of the best bits of advice I’ve gotten since joining the Board have 
+
+been preceded by words like:  “Here’s what Don Kohn would have done in this 
+
+situation….”  So Don, thank you, and I look forward to our discussion. 
+
+I’d like to take this opportunity to describe the framework I have been using to 
+
+think about monetary policy in the current environment, focusing primarily on the role of 
+
+large-scale asset purchases (LSAPs).  But before doing so, please note the usual 
+
+disclaimer:  The thoughts that follow are my own, and do not necessarily reflect the 
+
+views of other members of the Federal Open Market Committee (FOMC). 
+
+There is a considerable diversity of views within the FOMC, and among 
+
+economists more generally, about the use of LSAPs and other nonconventional policy 
+
+tools.  This diversity is both inevitable and healthy given the unprecedented 
+
+circumstances in which we find ourselves.  To be clear on where I stand, I support the 
+
+Committee’s decision of last month--namely, to initiate purchases of mortgage-backed 
+
+securities (MBS) at a rate of $40 billion per month, in tandem with the ongoing maturity 
+
+extension program (MEP) in Treasury securities, and to plan to continue with asset 
+
+purchases if the Committee does not observe a substantial improvement in the outlook for 
+
+the labor market.  Given where we are, and what we know, I firmly believe that this 
+
+decision was the right one.   
+
+
+- 2 - 
+ 
+
+
+In my comments today, I will only briefly review the case for taking action, as 
+
+that ground has been well covered in a number of other places, most notably in Chairman 
+
+Bernanke’s recent Jackson Hole speech.1  Instead, I will explore in more detail the factors 
+
+that make decisions about LSAPs so challenging.  The Chairman discussed these 
+
+challenges in his recent speech, saying:  “Estimates of the effects of nontraditional 
+
+policies on economic activity and inflation are uncertain, and the use of nontraditional 
+
+policies involves costs beyond those generally associated with more-standard policies.  
+
+Consequently, the bar for the use of nontraditional policies is higher than for traditional 
+
+policies.”2 
+
+With this principle in mind, my aim is to lay out the thought process that I am 
+
+bringing to bear in an effort to decide just how high the bar should be, and whether a 
+
+proposed action clears that bar.  Along the way I also hope to highlight some gaps in 
+
+economists’ collective understanding about LSAPs, and perhaps to provoke some further 
+
+thought and research on these questions. 
+
+However, let me begin by setting the context.  The point of departure for any 
+
+analysis of monetary policy is our dual mandate--to foster maximum employment and 
+
+price stability.  The first pass here is pretty clear.  Unemployment remains painfully high, 
+
+and in my opinion, well above the long-run structural rate of unemployment.  Moreover, 
+
+smoothing through the ups and downs of incoming data, it appears that the economy is 
+
+growing at a pace such that, absent policy action, progress on reducing unemployment 
+
+will likely be slow for some time.  Meanwhile, inflation is subdued, running at or below 
+
+our long-run objective of 2 percent, while inflation expectations remain well anchored.  If 
+
+                                                 
+1 See Bernanke (2012). 
+2 See Bernanke (2012). 
+
+
+- 3 - 
+ 
+
+
+the federal funds rate were at, say, 3 percent, we would have, in my view, an open-and-
+
+shut case for reducing it. 
+
+The complication, of course, is that the federal funds rate is essentially at its lower 
+
+bound, which means that we cannot do more simply by turning that dial further.  Instead, 
+
+we have to use unconventional tools, such as LSAPs and guidance about the future path 
+
+of the federal funds rate. 
+
+With respect to LSAPs, my belief--which echoes the views expressed by 
+
+Chairman Bernanke at Jackson Hole--is that past rounds of LSAPs have played a 
+
+significant role in supporting economic activity and in preventing a worrisome 
+
+undershoot of the Committee’s inflation objective.  The case is especially strong with 
+
+respect to the first round of LSAPs, which was a very potent policy action that helped to 
+
+bring the economy back from the brink in 2009. 
+
+ However, we now face a harder set of questions--not about the value of past 
+
+LSAPs, but about the marginal benefits and costs of further LSAPs.  A number of 
+
+observers have raised concerns about diminishing returns, or escalating costs.  I think 
+
+that, at least in the limit, these concerns must be right; we could in principle push this tool 
+
+to the point that the hurdle for additional usage would become very high.  As 
+
+policymakers, it is our responsibility to be as clear as possible about the nature of the 
+
+costs and benefits, and how they might evolve.  In that spirit, I will try in what follows to 
+
+outline the mechanisms that can give rise to decreasing marginal efficacy of LSAPs, or to 
+
+increasing marginal costs.  
+
+While much of my discussion will focus on the direct hydraulic effects of LSAPs 
+
+on the economy, it should be emphasized that their overall impact may be augmented via 
+
+
+- 4 - 
+ 
+
+
+a signaling or confidence channel.  Another important tool in the Committee’s arsenal 
+
+these days is its use of forward guidance about the expected path of the federal funds rate.  
+
+And a change in this guidance was a key part of the September FOMC statement, with 
+
+the Committee stating that “a highly accommodative stance of monetary policy will 
+
+remain appropriate for a considerable time after the economic recovery strengthens.”  I 
+
+believe that the LSAP component of the statement helped bolster the credibility of the 
+
+forward guidance component by pairing a declaration about future intentions with an 
+
+immediate and concrete set of actions.  And I suspect that this complementarity helps 
+
+explain the strong positive reaction of the stock market to the release of the statement.   
+
+   In addition to this signaling channel, LSAPs of course also have a variety of 
+
+direct effects on the economy, as I just noted.  To understand these effects, it is useful to 
+
+compare them with those that make monetary policy work in normal times.  Away from 
+
+the zero lower bound, conventional monetary policy is thought to work via an 
+
+expectations channel; when the Fed cuts the federal funds rate, long-term rates also fall, 
+
+primarily because expectations regarding future short-term rates shift down.  By contrast, 
+
+a principal motive for doing LSAPs is to influence interest rates not just through 
+
+expectations, but via supply-and-demand effects in the long-term bond market.  As the 
+
+Fed buys more long-term bonds, their price goes up, and their yield falls, even if 
+
+expectations of future short rates are unchanged.  Said differently, the so-called term 
+
+premium on long-term bonds declines, which means that post-LSAP, long-term bonds are 
+
+expected to perform less well as an investment relative to short-term bills.   
+
+
+- 5 - 
+ 
+
+
+There is a large body of evidence that suggests that LSAPs do in fact exert 
+
+significant pressure on long-term Treasury yields.3  Estimates of the cumulative effect of 
+
+past LSAPs on 10-year yields range from 80 to 120 basis points.4  And these past actions 
+
+are one reason why Treasury term premiums are now near historic lows, on the order of 
+
+minus 80 basis points, according to a well-known model used by the Board staff.5   
+
+A central theme of my talk today is this:  When policy works by moving term 
+
+premiums, as opposed to moving expectations about the path of short rates, the 
+
+transmission to the real economy may be altered in subtle yet important ways that can 
+
+have implications for the benefits of a policy action, its costs, and even its consequences 
+
+for financial stability.  Moreover, to address these issues, we need to understand not only 
+
+by how much an LSAP moves term premiums, but also why it does so.  It should be noted 
+
+that many standard macro models completely set aside the distinction I am emphasizing 
+
+here.  For example, in the Board staff’s main model, FRB/US, a fall in the long rate is 
+
+assumed to have the same effect on economic activity irrespective of whether this fall 
+
+comes from the term premium or from expectations of future short rates. 
+
+ For the sake of concreteness in what follows, let’s think in terms of a 
+
+hypothetical $500 billion LSAP, conducted entirely by buying longer-term Treasury 
+
+securities; later I will speak to the differences that arise when the program is carried out 
+
+with MBS purchases.  A reasonable estimate based on the literature would be that such a 
+
+program reduces the term premium, and thus the 10-year Treasury yield, by 15 to 
+
+20 basis points.  In my mind, this step is the least controversial piece of the transmission 
+
+                                                 
+3 Papers include Gagnon and others (2011), Krishnamurthy and Vissing-Jørgensen (2011), Swanson 
+(2011), Meaning and Zhu (2011), D’Amico and King (forthcoming), D’Amico and others (forthcoming), Li 
+and Wei (2012), and Wright (2011). 
+4 See Li and Wei (2012), Pandl (2012), and Meyer and Bomfim (2012). 
+5 The model is due to Kim and Wright (2005). 
+
+
+- 6 - 
+ 
+
+
+mechanism.6  Moreover, I have no reason to expect any diminishing efficacy on this 
+
+market-impact dimension, so in this instance the past evidence seems like a good guide to 
+
+future outcomes.   
+
+However, the evidence on Treasury-market impact is just a starting point.  To 
+
+fully evaluate an LSAP, one needs to take several further steps, some of which are more 
+
+open to debate.  In so doing, it is helpful to clarify the specifics of the supply-demand 
+
+story.  One version of this story works through the market price of duration risk, which is 
+
+the interest rate risk borne by an investor in long-term bonds.  In this case, all bonds--
+
+including Treasury securities, corporate bonds, and MBS--can be thought of as close 
+
+substitutes for one another, and an LSAP, by reducing the total quantity of duration in 
+
+private hands, lowers the price of duration risk and so reduces the yields on all long-term 
+
+bonds by an amount proportional to their duration.  Going further, this story might also 
+
+suggest that, to the extent that equities embed duration risk, the return investors require to 
+
+hold them should fall commensurately, thus giving a significant boost to stock prices. 
+
+In other versions of the story, markets are more segmented, and Treasury 
+
+securities and other bonds are not such close substitutes, so an LSAP has differential 
+
+effects on various securities.  In this case, an LSAP that absorbs Treasury supply would 
+
+be expected to lower the yields on Treasury securities relative to those on corporate 
+
+bonds, or alternatively, to increase the corporate-Treasury spread.7  And by a similar 
+
+logic, an LSAP might have only a modest effect on stock prices. 
+
+With this backdrop, let’s start with the efficacy side of the question.  Take our 
+
+$500 billion LSAP and, as mentioned earlier, stipulate that it reduces the 10-year 
+
+                                                 
+6 See Woodford (2012) for an opposing view. 
+7 See Krishnamurthy and Vissing-Jørgensen (2011) for an articulation of this view. 
+
+
+- 7 - 
+ 
+
+
+Treasury rate by 20 basis points.  A simple way to proceed would be to plug this 20 basis 
+
+point change into one of our econometric models and ask what the consequences are for 
+
+gross domestic product growth and unemployment.  As a concrete case, if you did this 
+
+exercise  with the Fed’s workhorse FRB/US model, it would tell you that the $500 billion 
+
+LSAP should bring down the unemployment rate by approximately two-tenths of a 
+
+percentage point at a two-year horizon.8  This effect is economically meaningful. 
+
+Naturally, all models rely on a host of assumptions, so the true effect could be 
+
+larger or smaller than what comes out of the FRB/US model.  But I will focus on two 
+
+sources of uncertainty in particular.  A first uncertainty relates to a point raised earlier--
+
+that a given impact on Treasury bonds may not pass through fully to other rates that are 
+
+more relevant for consumption and investment decisions, such as corporate bond rates or 
+
+primary mortgage market rates.  The recent academic literature seems divided on this 
+
+point, as some papers argue that the pass-through is near 100 percent while others claim 
+
+that it is quite low.9  My own reading of the evidence is that, thus far, there has been 
+
+substantial pass-through from LSAPs to corporate bonds and mortgages, and some, but 
+
+considerably less, to other, more distant asset categories like equities.   
+
+Leaving aside this set of complications--so that we suppose our $500 billion 
+
+LSAP has an impact of 20 basis points on corporate bond rates as well as on Treasury 
+
+rates--there is a second, perhaps more fundamental, issue.  How should one expect a 
+
+company to respond when its long-term borrowing costs fall not because of a change in 
+
+                                                 
+8 See Chung and others (2012). 
+9 Papers that examine the pass-through issue include Gagnon and others (2011), Wright (2011), 
+Krishnamurthy and Vissing-Jørgensen (2011), Swanson (2011), and Hancock and Passmore (2011).  
+Primary mortgage rates, of course, are distinct from secondary-market rates for assets traded in centralized 
+markets.  A variety of factors affect the wedge between the secondary MBS rate and the primary mortgage 
+rate, and these factors, and hence the degree of pass-through, may vary over time. 
+
+
+- 8 - 
+ 
+
+
+the expected future path of short-term rates, but because of a change in the term 
+
+premium?  As noted earlier, many macro models--like the Fed’s FRB/US model--treat 
+
+the two sorts of shocks as having similar effects.  But is there any reason to believe that, 
+
+in reality, the response to the two might differ? 
+
+A basic corporate-finance analysis suggests the answer may be yes.  To see why, 
+
+consider the following example.  A risk-neutral firm faces a rate on its 10-year bonds of 
+
+2 percent.  At the same time, it expects that the sequence of rolled-over short-term rates 
+
+over the next 10 years will average 3 percent.  Hence, there is a term premium of minus 
+
+1 percent.  What should the firm do?  Clearly, it should take advantage of the cheap 
+
+long-term debt by issuing bonds.  But it is less obvious that the bargain 2 percent rate on 
+
+these bonds should exert any influence on its capital spending plans.  After all, it can take 
+
+the proceeds of the bond issue and use these to pay down short-term debt, repurchase 
+
+stock, or buy short-term securities.  These capital-structure adjustments all yield an 
+
+effective return of 3 percent.  As a result, the hurdle rate for new investment should 
+
+remain pinned at 3 percent.  In other words, the negative term premium matters a lot for 
+
+financing behavior, but in this stylized world, investment spending is decoupled from the 
+
+term premium and is determined instead by the expected future path of short rates.10   
+
+This reasoning suggests why one might expect future rounds of LSAPs to have 
+
+diminishing returns.  As noted earlier, the data make clear that past rounds of LSAPs 
+
+have pushed down interest rates and term premiums.  But the further the term premium is 
+
+driven into negative territory, the more the previous logic comes into play, and hence the 
+
+                                                 
+10 See Kiley (2012) for a recent model that predicts a differential reaction of spending to changes in term 
+premiums versus changes in the future path of short rates.  A similar set of issues arises in thinking about 
+how firms should respond to “nonfundamental” movements in their stock prices--movements that are not 
+driven by changes in expected future cash flows.  See, for example, Baker, Stein, and Wurgler (2003). 
+
+
+- 9 - 
+ 
+
+
+weaker is likely to be the response of aggregate spending to further downward pressure 
+
+on long-term rates.11  
+
+The corporate-finance example is also consistent with what we have observed in 
+
+markets in recent months.  Issuance of both investment-grade and high-yield bonds has 
+
+been robust.  Indeed, domestic nonfinancial corporate bond issuance is on pace to set a 
+
+record in 2012, and the speculative-grade segment may also register a new high for the 
+
+year.  At the same time, a large fraction of issuance has been devoted to refinancing--
+
+either to retiring existing debt or to payouts to equity holders via dividends and share 
+
+buybacks.  These uses of proceeds have accounted for about two-thirds of all issuance by 
+
+speculative-grade firms so far this year.  Such patterns are what one would expect in a 
+
+world of segmented markets and negative term premiums.12 
+
+This caveat about the diminishing effectiveness of LSAPs can be thought of as a 
+
+specific version of Goodhart’s law.13  It may be that under normal circumstances, 
+
+changes in 10-year rates have significant explanatory power for economic activity, 
+
+perhaps because they are a proxy for the expected future path of short rates or other 
+
+aspects of financial conditions.  But it doesn’t follow that when one sets out to influence 
+
+                                                 
+11 If the term premium starts out significantly positive, so that long-term rates are well above expected 
+future short rates, an initial reduction may indeed spur further investment among financially constrained 
+firms who need to issue long-term bonds to fund new investment.  However, once the term premium 
+becomes negative, we hit a corner where the financial constraint no longer binds and the relevant 
+opportunity cost becomes the option to invest in short-term securities or repurchase shares.  Baker, Stein, 
+and Wurgler (2003) model an analogous diminishing-returns effect for stock prices and corporate 
+investment. 
+12 As borrowing costs have fallen, Federal Reserve staff estimates of the expected return on the stock 
+market (using a model based on analysts’ earnings expectations) remain near historic highs.  It is this 
+divergence in the costs of debt and equity that is likely to make debt-financed repurchases of equity 
+attractive.   
+13 Goodhart’s original formulation is that “Any observed statistical regularity will tend to collapse once 
+pressure is placed on it for control purposes.”  See Goodhart (1975).   
+ 
+
+
+- 10 - 
+ 
+
+
+the 10-year rate directly, via asset purchases--without changing the future path of short 
+
+rates--the usual historical relationships will continue to apply.   
+
+While we should acknowledge these doubts, it is important to keep them in 
+
+perspective.  In addition to lowering interest rates, LSAPs also boost equity prices and 
+
+other asset values.  Taken together, these effects of LSAPs seem likely to be meaningful, 
+
+even if the benefits of an impetus to rates are less than in the baseline scenario sketched 
+
+earlier.  And to be sure, there is a wide confidence interval around any estimate we might 
+
+make of the benefits.   
+
+Moreover, it is worth repeating a point made earlier: whatever direct hydraulic 
+
+effects LSAPs create by pushing down term premiums and discount rates, their overall 
+
+impact may be reinforced via a signaling effect, whereby they enhance the credibility of 
+
+our forward guidance about the future path of the federal funds rate.  Indeed, this 
+
+signaling benefit strikes me as an important part of the argument in favor of LSAPs in the 
+
+current environment. 
+
+Let me turn now to the cost side of the equation.  Several potential costs of 
+
+LSAPs have been discussed.  One is the exit problem--that a large balance sheet may 
+
+make it harder for the FOMC to raise rates when the time comes.  Between the ability to 
+
+pay interest on reserves, as well as various reserve-draining methods that the Fed has 
+
+been methodically testing, I am confident that we have the tools to raise rates.  If the 
+
+FOMC needs to act in the face of an emerging threat to price stability, there is little doubt 
+
+in my mind that we can.  As to whether we will, the Federal Reserve has repeatedly made 
+
+clear its commitment to both sides of its mandate--to price stability as well as to 
+
+maximum employment.   
+
+
+- 11 - 
+ 
+
+
+A second set of costs has to do with the possible effects of further asset purchases 
+
+on various aspects of market functioning, including bid-ask spreads and market depth.  
+
+And it would indeed be a concern if large Fed ownership of some segments of the 
+
+Treasury or MBS market were to cause market liquidity to deteriorate significantly.  We 
+
+have seen little evidence of such problems so far, and we continue to closely monitor 
+
+market conditions.  If problems do begin to crop up, we will know it, and we will be able 
+
+to adjust. 
+
+A final notion of cost relates to the currently low yields and term premiums on 
+
+Treasury bonds.  At an intuitive level, one might think that, for the Fed, as for any other 
+
+buyer contemplating a large asset purchase, information on prices and expected returns 
+
+should be a relevant factor in the decision.  Said differently, the case for an LSAP might 
+
+seem more appealing if the term premium on Treasury bonds were at plus 200 basis 
+
+points instead of its current level of roughly minus 80 basis points.   
+
+However, to make sense of this intuition, we have to return to the question of why 
+
+LSAPs move term premiums.  One interesting possibility is that, in a world where other 
+
+sovereign debt has come into question, long-term Treasury securities are uniquely able to 
+
+provide a money-like safe-haven service to certain investors.  By analogy, think of 
+
+currency, which investors are willing to hold even at a zero yield, because of the flow of 
+
+convenience services it provides.  Similarly, the negative term premium on long-term 
+
+Treasury securities may in part reflect the relative scarcity of this money-like asset.  If so, 
+
+it would be economically costly to remove Treasury securities from the system.14  This 
+
+logic is an application of the so-called Friedman rule.15   
+
+                                                 
+14 To be clear, this argument relies on there being multiple distinct monetary assets.  That is, the case needs 
+to be that, for some investors, long-term Treasury securities provide a type of service that is not provided as 
+
+
+- 12 - 
+ 
+
+
+So a key question is to what extent removing long-term Treasury securities is like 
+
+removing currency.  This question is hard to answer precisely and depends on the details 
+
+of how you tell the story.  If you believe that only nominal Treasury securities--but not 
+
+something similar, such as agency securities or AAA-rated corporate bonds--provide 
+
+money-like services to investors, you can try to measure the value of these services by 
+
+looking at the spread on Treasury securities relative to something else that is very safe 
+
+but not literally a Treasury bond--for example, corporate bonds coupled with credit 
+
+default swap protection to minimize the credit risk.  Arvind Krishnamurthy and Annette 
+
+Vissing-Jørgensen of Northwestern University take this approach and conclude that 
+
+between 24 and 70 basis points of the yield premium on Treasury securities is attributable 
+
+to a “money-ness” effect.16  Numbers in this ballpark suggest that the costs of further 
+
+LSAPs on this dimension are likely to be modest relative to even a conservative estimate 
+
+of their potential benefits.   
+
+However, a couple of caveats are worth noting.  First, this methodology may only 
+
+provide a lower bound on the welfare costs of an LSAP, as it is plausible that not just 
+
+Treasury securities, but also agency securities and perhaps highly rated corporate bonds, 
+
+also have some degree of money-ness to them in terms of being useful in satisfying safe-
+
+haven demands.  In this case, a spread of the sort just described may underestimate the 
+
+value of monetary services provided by safe and near-safe assets.  This area is one where 
+
+                                                                                                                                                 
+effectively by short-term bills or reserves.  If all safe assets provide the same kind of monetary services, 
+then an LSAP that swaps reserves for long-term bonds has no effect on the net supply of monetary assets.  
+See also Woodford (2012) and Krishnamurthy and Vissing-Jørgensen (2012). 
+15 Friedman (1969) famously argued that a socially efficient outcome involves setting the opportunity cost 
+to investors of holding money equal to the marginal cost to the government of creating additional money. 
+16 Krishnamurthy and Vissing-Jørgensen’s (2012) analysis is based on market quotes from July 20, 2012. 
+One obtains similar estimates if their methodology is updated to the present.  However, it is important to 
+emphasize that spreads of the sort they study can be subject to a variety of other idiosyncratic influences, so 
+care must be taken not to over-interpret any one of them. 
+
+
+- 13 - 
+ 
+
+
+both our conceptual understanding and our measurement techniques remain 
+
+underdeveloped and where more work would be of great value in informing policy. 
+
+Second, things can change over time.  One episode of interest is the Clinton-era 
+
+debt buyback program, which was in many ways analogous to an LSAP.  Between 
+
+March 2000 and December 2001, the Treasury repurchased long-term bonds with a face 
+
+value of $63.5 billion, about 10 percent of the value of long-term government debt then 
+
+outstanding.  Much as with an LSAP, this program appears to have had a powerful 
+
+negative effect on the term premium, with long-term rates falling sharply relative to 
+
+short-term rates.17  But in contrast to what we have seen with LSAPs thus far, it was also 
+
+associated with a pronounced increase in Treasury-specific scarcity.  One way this 
+
+scarcity manifested in the data available at the time was in a widening of the Treasury-
+
+swap spread, which rose rapidly after the announcement of the buybacks, and hovered in 
+
+a range of 120 to 130 basis points in the spring and summer of 2000.18  The lesson to be 
+
+drawn is that we should continue to develop and monitor a variety of metrics of this 
+
+scarcity phenomenon because they may provide an early warning if LSAP costs begin to 
+
+rise relative to benefits.   
+
+For the sake of concreteness, I have couched the discussion in terms of a 
+
+hypothetical all-Treasury LSAP.  In light of our recent initiation of an MBS purchase 
+
+program, it is natural to ask what the salient differences are between buying Treasury 
+
+securities and buying MBS.  In my view there are two, both of which suggest that MBS 
+
+purchases may offer a better cost-benefit profile than Treasury purchases in the current 
+
+                                                 
+17 See Greenwood and Vayanos (2010) for an analysis of the Clinton buyback program and its effect on the 
+Treasury yield curve. 
+18 One important distinction is that in the case of the Clinton-era buybacks, bond prices were likely 
+influenced not simply by the bond purchases themselves, but by the prospect of future surpluses over a 
+longer horizon. 
+
+
+- 14 - 
+ 
+
+
+environment.  First, on the cost side, I have just alluded to the idea that Treasury 
+
+securities may provide money-like services to certain investors, such that removing them 
+
+from the system may entail a welfare cost.  Presumably, MBS are less money-like than 
+
+Treasury securities, so this element of cost could be reduced when buying MBS.19  
+
+Second, if the efficacy of Treasury purchases is diminished by the fact that many 
+
+corporate borrowers already have plentiful access to low-cost funds, it is natural to focus 
+
+on a sector that is more sensitive to financing costs.  The housing market would seem to 
+
+fit this bill.  To the extent that markets are segmented and MBS purchases therefore have 
+
+a more powerful effect on primary mortgage rates than do Treasury purchases, this 
+
+possibility may be another appeal of going the MBS route.   
+
+Finally, let me touch on the implications of LSAPs for financial stability.  Some 
+
+observers have argued that a long period of low rates can create incentives among market 
+
+participants (such as banks, insurance companies, and pension funds) to reach for yield 
+
+by taking on higher levels of risk with adverse consequences for stability.  These 
+
+concerns should be taken very seriously, and a lot of work at the Fed is devoted to 
+
+monitoring such risks.  A short summary would be that there is some qualitative evidence 
+
+of reaching-for-yield behavior in certain segments of the market, but that we are not 
+
+seeing anything quantitatively alarming at this point.  Of course, the worry is that one 
+
+often sees only the tip of the iceberg in these kinds of situations, so one needs to be 
+
+cautious in interpreting the data. 
+
+Taking as a given that reaching for yield could be a problem, what are the 
+
+implications at the margin for monetary policy, and for LSAPs in particular?  First, it is 
+
+                                                 
+19 This argument is made by Krishnamurthy and Vissing-Jørgensen (2012).  One natural reason why MBS 
+may be less money-like than Treasury securities is their exposure to prepayment risk.  
+ 
+
+
+- 15 - 
+ 
+
+
+just a fact of life that we are likely to be in a low-rate environment for a considerable 
+
+period of time, in light of the economic outlook.  It is not a choice at the margin.  While 
+
+we are going to have to pay careful attention to the attendant financial stability issues and 
+
+be prepared to intervene with supervisory and regulatory tools as needed, I would find it 
+
+hard to accept the proposition that we should preemptively resolve them by, say, starting 
+
+to raise the federal funds rate today.  The potential damage that could be caused by 
+
+choking off the recovery is too great. 
+
+Second, one can argue that, by reducing term premiums, LSAPs in particular have 
+
+potentially significant benefits in terms of financial stability.  A major source of problems 
+
+during the recent crisis was the excessive maturity transformation undertaken by financial 
+
+firms.  Put simply, these firms were relying too much on short-term debt.  One of the 
+
+thrusts of regulatory reform has been to attack this problem--for example, via the 
+
+constructs of the Liquidity Coverage Ratio and the Net Stable Funding Ratio that are a 
+
+part of Basel III.  However, a complementary way to deal with the problem is to 
+
+influence the underlying incentives for short-term debt issuance.  And these incentives 
+
+are in turn shaped by the structure of rates and term premiums in the market.   
+
+As I noted earlier, a natural response for any firm facing an unusually low term 
+
+premium is to adjust its capital structure by issuing cheap long-term debt to replace its 
+
+shorter-term debt.  It is therefore not surprising that the average debt maturity of large 
+
+nonfinancial firms has increased notably over the past few years.  Moreover, the same 
+
+pattern shows up among large financial firms--they too have been significantly 
+
+lengthening their average debt maturity.20   
+
+                                                 
+20 These statements are based on an analysis of Compustat data, updating the results of Custódio, Ferreira, 
+and Laureano (forthcoming).  Greenwood, Hanson, and Stein (2010) show that the following is a general 
+
+
+- 16 - 
+ 
+
+
+The current cheapness of long-term debt contrasts with the pre-crisis 
+
+configuration, where there was frequently a pronounced premium favoring issuers not at 
+
+the long end of the yield curve, but at the very short end.  In other words, the fact that the 
+
+yield curve often tended to be steeply upwards sloping at the front end gave financial 
+
+firms a strong incentive to issue overnight paper.  The bottom line is that I suspect that 
+
+LSAPs have, by changing the structure of term premiums in the market, helped 
+
+encourage an extension of debt maturity by both financial and nonfinancial firms.  All 
+
+else being equal, this development is a good thing from a financial stability perspective.21 
+
+To conclude, I believe that our recently announced policy of MBS purchases, 
+
+coupled with the change in our forward guidance, are strong positive steps.  I am hopeful 
+
+that these actions by the Federal Reserve will help to give economic growth a much 
+
+needed boost.  At the same time, I am keenly aware of the many uncertainties we still 
+
+have about the workings of nonconventional policies, and of LSAPs in particular.  As I 
+
+have tried to explain, LSAPs really are a different animal, and it is important for us to try 
+
+to better understand these differences, and to do our best to take them into account when 
+
+making policy judgments.  In short, there is a lot left for us to learn.  Thank you very 
+
+much. 
+
+
+                                                                                                                                                 
+tendency in historical U.S. data:  When government debt maturity is low, expected returns (that is, term 
+premiums) on long-term bonds are low as well, and private firms fill in the gaps by lengthening their own 
+debt maturity. 
+21 Greenwood, Hanson, and Stein (2012) make a similar argument in the context of Treasury debt maturity, 
+and its potential effect on financial stability goals. 
+ 
+
+
+- 17 - 
+ 
+
+
+References 
+ 
+
+Baker, Malcolm, Jeremy C. Stein, and Jeffrey Wurgler (2003).  “When Does the Market 
+Matter?  Stock Prices and the Investment of Equity-Dependent Firms,” Quarterly 
+Journal of Economics, vol. 118 (August), pp. 969-1005, 
+www.economics.harvard.edu/faculty/stein/files/QJE-2003.pdf. 
+
+ 
+Bernanke, Ben S. (2012).  “Monetary Policy since the Onset of the Crisis,” speech 
+
+delivered at the Federal Reserve Bank of Kansas City Economic Symposium, held 
+in Jackson Hole, Wyo., August 30-September 1, 
+www.federalreserve.gov/newsevents/speech/bernanke20120831a.htm. 
+
+ 
+Chung, Hess, Jean-Philippe Laforte, David Reifschneider, and John C. Williams (2012).  
+
+“Have We Underestimated the Likelihood and Severity of Zero Lower Bound 
+Events?” Journal of Money, Credit and Banking, vol. 44 supplement (February), 
+pp. 47-82. 
+
+ 
+Custódio, Cláudia, Miguel A. Ferreira, and Luís Laureano (forthcoming).  “Why Are 
+
+U.S. Firms Using More Short-Term Debt?” Journal of Financial Economics, draft 
+available at http://docentes.fe.unl.pt/~mferreira/index_files/mat.pdf. 
+
+ 
+D’Amico, Stefania, William English, David López-Salido, and Edward Nelson 
+
+(forthcoming).  “The Federal Reserve’s Large-Scale Asset Purchase Programs:  
+Rationale and Effects,” Economic Journal.   
+
+ 
+D’Amico, Stefania, and Thomas B. King (forthcoming).  “Flow and Stock Effects of 
+
+Large-Scale Treasury Purchases:  Evidence on the Importance of Local Supply,” 
+Journal of Financial Economics. 
+
+ 
+Friedman, Milton (1969).  The Optimum Quantity of Money and Other Essays.  Chicago:  
+
+Aldine Publishing Company. 
+ 
+Gagnon, Joseph, Mathew Raskin, Julie Remache, and Brian Sack (2011).  “The Financial 
+
+Market Effects of the Federal Reserve’s Large-Scale Asset Purchases,” 
+International Journal of Central Banking, vol. 7 (March), pp. 3-43. 
+
+ 
+Goodhart, C.A.E. (1975).  “Problems of Monetary Management:  The U.K. Experience,” 
+
+in Reserve Bank of Australia, ed., Papers in Monetary Economics, vol. 1.  
+Sydney:  RBA.  
+
+ 
+Greenwood, Robin, Samuel Hanson, and Jeremy C. Stein (2010).  “A Gap-Filling Theory 
+
+of Corporate Debt Maturity Choice,” Journal of Finance, vol. 65 (June), pp. 993-
+1028, www.people.hbs.edu/shanson/gap_filling_jofi_2010.pdf. 
+
+
+
+
+- 18 - 
+ 
+
+
+-------- (2012).  “A Comparative-Advantage Approach to Government Debt Maturity,” 
+Mimeo.  Cambridge, Mass.:  Harvard Business School, January, 
+www.people.hbs.edu/shanson/Comparative_Advantage_20120128_FinalSGHRG
+JS.pdf. 
+
+ 
+Greenwood, Robin, and Dimitri Vayanos (2010).  “Price Pressure in the Government 
+
+Bond Market,” American Economic Review Papers and Proceedings, vol. 100 
+(May), pp. 585-90. 
+
+ 
+Hancock, Diana, and Wayne Passmore (2011).  “Did the Federal Reserve’s MBS 
+
+Purchase Program Lower Mortgage Rates?” Journal of Monetary Economics, 
+vol. 58 (July), pp. 498-514. 
+
+ 
+Kiley, Michael (2012).  “The Aggregate Demand Effects of Short- and Long-Term 
+
+Interest Rates,” Finance and Economics Discussion Series 2012-54.  Washington:  
+Board of Governors of the Federal Reserve System, August, 
+www.federalreserve.gov/pubs/feds/2012/201254/201254abs.html. 
+
+ 
+Kim, Don H., and Jonathan H. Wright (2005).  “An Arbitrage-Free Three-Factor Term 
+
+Structure Model and the Recent Behavior of Long-Term Yields and Distant-
+Horizon Forward Rates,” Finance and Economics Discussion Series 2005-33.  
+Washington:  Board of Governors of the Federal Reserve System, August, 
+
+ www.federalreserve.gov/pubs/feds/2005/200533/200533pap.pdf. 
+ 
+Krishnamurthy, Arvind, and Annette Vissing-Jørgensen (2011).  “The Effects of 
+
+Quantitative Easing on Interest Rates:  Channels and Implications for Policy,” 
+Brookings Papers on Economic Activity, Fall, pp. 215-65. 
+
+ 
+-------- (2012).  “Why an MBS-Treasury Swap Is Better Policy than the Treasury Twist,” 
+
+Kellogg Insight.  Evanston, Ill.:  Kellogg School of Management, July,  
+ www.kellogg.northwestern.edu/faculty/krisharvind/papers/mbs-treasury.pdf. 
+ 
+Li, Canlin, and Min Wei (2012).  “Term Structure Modelling with Supply Factors and the 
+
+Federal Reserve’s Large Scale Asset Purchase Programs,” Finance and 
+Economics Discussion Series 2012-37.  Washington:  Board of Governors of the 
+Federal Reserve System, May, 
+www.federalreserve.gov/pubs/feds/2012/201237/201237abs.html. 
+
+ 
+Meaning, Jack, and Feng Zhu (2011).  “The Impact of Recent Central Bank Asset 
+
+Purchase Programmes,” Bank of International Settlements Quarterly Review, 
+December, pp. 73-83.   
+
+ 
+Meyer, Laurence H., and Antulio N. Bomfim (2012).  “Not Your Father’s Yield Curve:  
+
+Modeling the Impact of QE on Treasury Yields,” Macroeconomic Advisers, 
+Monetary Policy Insights, May 7. 
+
+
+
+
+- 19 - 
+ 
+
+
+Pandl, Zach (2012).  “Talking Down the Term Premium,” Goldman Sachs ECS Research, 
+US Economics Analyst, no. 12/19. 
+
+ 
+Swanson, Eric T. (2011).  “Let’s Twist Again:  A High-Frequency Event-Study Analysis 
+
+of Operation Twist and Its Implications for QE2,” Brookings Papers on Economic 
+Activity, Spring, pp. 151-88. 
+
+ 
+Woodford, Michael (2012).  “Methods of Policy Accommodation at the Interest-Rate 
+
+Lower Bound,” speech delivered at the Federal Reserve Bank of Kansas City 
+Economic Symposium, held in Jackson Hole, Wyo., August 30-September 1, 
+www.kc.frb.org/publicat/sympos/2012/mw.pdf?sm=jh083112-4. 
+
+ 
+Wright, Jonathan H. (2011).  “What Does Monetary Policy Do to Long-Term Interest 
+
+Rates at the Zero Lower Bound?”  NBER Working Paper Series 17154.  
+Cambridge, Mass.:  National Bureau of Economic Research, June, 
+www.nber.org/papers/w17154.pdf. 
+
+
+
+

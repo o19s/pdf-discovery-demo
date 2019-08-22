@@ -1,0 +1,1109 @@
+
+For release on delivery 
+4:30 p.m. EDT 
+September 24, 2010 
+ 
+
+
+On the Implications of the Financial Crisis for Economics 
+
+
+Remarks by 
+ 
+
+Ben S. Bernanke 
+ 
+
+Chairman 
+ 
+
+Board of Governors of the Federal Reserve System 
+ 
+
+at the 
+ 
+
+Conference co-sponsored by 
+ 
+
+the Bendheim Center for Finance and the Center for Economic Policy Studies 
+ 
+
+Princeton, New Jersey 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+September 24, 2010 
+
+
+
+ Thank you for giving me this opportunity to return to Princeton.  It is good to be 
+
+able to catch up with old friends and colleagues and to see both the changes and the 
+
+continuities on campus.  I am particularly pleased to see that the Bendheim Center for 
+
+Finance is thriving.  When my colleagues and I founded the center a decade ago, we 
+
+intended it to be a place where students would learn about not only the technicalities of 
+
+modern financial theory and practice but also about the broader economic context of 
+
+financial activities.  Recent events have made clear that understanding the role of 
+
+financial markets and institutions in the economy, and of the effects of economic 
+
+developments on finance, is more important than ever. 
+
+The financial crisis that began more than three years ago has indeed proved to be 
+
+among the most difficult challenges for economic policymakers since the Great 
+
+Depression.  The policy response to this challenge has included important successes, 
+
+most notably the concerted international effort to stabilize the global financial system 
+
+after the crisis reached its worst point in the fall of 2008.  For its part, the Federal Reserve 
+
+worked closely with other policymakers, both domestically and internationally, to help 
+
+develop the collective response to the crisis, and it played a key role in that response by 
+
+providing backstop liquidity to a range of financial institutions as needed to stem the 
+
+panic.  The Fed also developed special lending facilities that helped to restore normal 
+
+functioning to critical financial markets, including the commercial paper market and the 
+
+market for asset-backed securities; led the bank stress tests in the spring of 2009 that 
+
+significantly improved confidence in the U.S. banking system; and, in the area of 
+
+monetary policy, took aggressive and innovative actions that helped to stabilize the 
+
+economy and lay the groundwork for recovery. 
+
+
+-2- 
+ 
+
+Despite these and other policy successes, the episode as a whole has not been kind 
+
+to the reputation of economic and economists, and understandably so.  Almost 
+
+universally, economists failed to predict the nature, timing, or severity of the crisis; and 
+
+those few who issued early warnings generally identified only isolated weaknesses in the 
+
+system, not anything approaching the full set of complex linkages and mechanisms that 
+
+amplified the initial shocks and ultimately resulted in a devastating global crisis and 
+
+recession.  Moreover, although financial markets are for the most part functioning 
+
+normally now, a concerted policy effort has so far not produced an economic recovery of 
+
+sufficient vigor to significantly reduce the high level of unemployment.  As a result of 
+
+these developments, some observers have suggested the need for an overhaul of 
+
+economics as a discipline, arguing that much of the research in macroeconomics and 
+
+finance in recent decades has been of little value or even counterproductive.   
+
+Although economists have much to learn from this crisis, as I will discuss, I think 
+
+that calls for a radical reworking of the field go too far.  In particular, it seems to me that 
+
+current critiques of economics sometimes conflate three overlapping yet separate 
+
+enterprises, which, for the purposes of my remarks today, I will call economic science, 
+
+economic engineering, and economic management.  Economic science concerns itself 
+
+primarily with theoretical and empirical generalizations about the behavior of individuals, 
+
+institutions, markets, and national economies.  Most academic research falls in this 
+
+category.  Economic engineering is about the design and analysis of frameworks for 
+
+achieving specific economic objectives.  Examples of such frameworks are the risk-
+
+management systems of financial institutions and the financial regulatory systems of the 
+
+United States and other countries.  Economic management involves the operation of 
+
+
+-3- 
+ 
+
+economic frameworks in real time--for example, in the private sector, the management of 
+
+complex financial institutions or, in the public sector, the day-to-day supervision of those 
+
+institutions.   
+
+As you may have already guessed, my terminology is intended to invoke a loose 
+
+analogy with science and engineering.  Underpinning any practical scientific or 
+
+engineering endeavor, such as a moon shot, a heart transplant, or the construction of a 
+
+skyscraper are:  first, fundamental scientific knowledge; second, principles of design and 
+
+engineering, derived from experience and the application of fundamental knowledge; and 
+
+third, the management of the particular endeavor, often including the coordination of the 
+
+efforts of many people in a complex enterprise while dealing with myriad uncertainties.  
+
+Success in any practical undertaking requires all three components.  For example, the 
+
+fight to control AIDS requires scientific knowledge about the causes and mechanisms of 
+
+the disease (the scientific component), the development of medical technologies and 
+
+public health strategies (the engineering applications), and the implementation of those 
+
+technologies and strategies in specific communities and for individual patients (the 
+
+management aspect).  Twenty years ago, AIDS mortality rates mostly reflected gaps in 
+
+scientific understanding and in the design of drugs and treatment technologies; today, the 
+
+problem is more likely to be a lack of funding or trained personnel to carry out programs 
+
+or to apply treatments. 
+
+With that taxonomy in hand, I would argue that the recent financial crisis was 
+
+more a failure of economic engineering and economic management than of what I have 
+
+called economic science.  The economic engineering problems were reflected in a 
+
+number of structural weaknesses in our financial system.  In the private sector, these 
+
+
+-4- 
+ 
+
+weaknesses included inadequate risk-measurement and risk-management systems at 
+
+many financial firms as well as shortcomings in some firms’ business models, such as 
+
+overreliance on unstable short-term funding and excessive leverage.  In the public sector, 
+
+gaps and blind spots in the financial regulatory structures of the United States and most 
+
+other countries proved particularly damaging.  These regulatory structures were designed 
+
+for earlier eras and did not adequately adapt to rapid change and innovation in the 
+
+financial sector, such as the increasing financial intermediation taking place outside of 
+
+regulated depository institutions through the so-called shadow banking system.  In the 
+
+realm of economic management, the leaders of financial firms, market participants, and 
+
+government policymakers either did not recognize important structural problems and 
+
+emerging risks or, when they identified them, did not respond sufficiently quickly or 
+
+forcefully to address them.  Shortcomings of what I have called economic science, in 
+
+contrast, were for the most part less central to the crisis; indeed, although the great 
+
+majority of economists did not foresee the near-collapse of the financial system, 
+
+economic analysis has proven and will continue to prove critical in understanding the 
+
+crisis, in developing policies to contain it, and in designing longer-term solutions to 
+
+prevent its recurrence. 
+
+I don’t want to push this analogy too far.  Economics as a discipline differs in 
+
+important ways from science and engineering; the latter, dealing as they do with 
+
+inanimate objects rather than willful human beings, can often be far more precise in their 
+
+predictions.  Also, the distinction between economic science and economic engineering 
+
+can be less sharp than my analogy may suggest, as much economic research has direct 
+
+policy implications.  And although I don’t think the crisis by any means requires us to 
+
+
+-5- 
+ 
+
+rethink economics and finance from the ground up, it did reveal important shortcomings 
+
+in our understanding of certain aspects of the interaction of financial markets, institutions, 
+
+and the economy as a whole, as I will discuss.  Certainly, the crisis should lead--indeed, it 
+
+is already leading--to a greater focus on research related to financial instability and its 
+
+implications for the broader economy. 
+
+In the remainder of my remarks, I will focus on the implications of the crisis for 
+
+what I have been calling economic science, that is, basic economic research and analysis.  
+
+I will first provide a few examples of how economic principles and economic research, 
+
+rather than having misled us, have significantly enhanced our understanding of the crisis 
+
+and are informing the regulatory response.  However, the crisis did reveal some gaps in 
+
+economists’ knowledge that should be remedied.  I will discuss some of these gaps and 
+
+suggest possible directions for future research that could ultimately help us achieve 
+
+greater financial and macroeconomic stability. 
+
+How Economics Helped Us Understand and Respond to the Crisis 
+
+ The financial crisis represented an enormously complex set of interactions--
+
+indeed, a discussion of the triggers that touched off the crisis and the vulnerabilities in the 
+
+financial system and in financial regulation that allowed the crisis to have such 
+
+devastating effects could more than fill my time this afternoon.1
+
+                                                 
+1 For a more comprehensive discussion of vulnerabilities and triggers during the financial crisis, see Ben S. 
+Bernanke (2010), “Causes of the Recent Financial and Economic Crisis,” testimony before the Financial 
+Crisis Inquiry Commission, September 2, 
+www.federalreserve.gov/newsevents/testimony/bernanke20100902a.htm. 
+
+  The complexity of our 
+
+financial system, and the resulting difficulty of predicting how developments in one 
+
+financial market or institution may affect the system as a whole, presented formidable 
+
+challenges.  But, at least in retrospect, economic principles and research were quite useful 
+
+
+-6- 
+ 
+
+for understanding key aspects of the crisis and for designing appropriate policy 
+
+responses.  
+
+For example, the excessive dependence of some financial firms on unstable short-
+
+term funding led to runs on key institutions, with highly adverse implications for the 
+
+functioning of the system as a whole.  The fact that dependence on unstable short-term 
+
+funding could lead to runs is hardly news to economists; it has been a central issue in 
+
+monetary economics since Henry Thornton and Walter Bagehot wrote about the question 
+
+in the 19th century.2
+
+                                                 
+2 See Henry Thornton ([1802] 1962), An Enquiry into the Nature and Effects of the Paper Credit of Great 
+Britain (New York:  A. M. Kelley); and Walter Bagehot ([1873] 1897), Lombard Street:  A Description of 
+the Money Market (New York:  Charles Scribner’s Sons).  A discussion relating the Federal Reserve's 
+policy actions during the financial crisis to the ideas of Bagehot is contained in Brian F. Madigan (2009), 
+“Bagehot’s Dictum in Practice:  Formulating and Implementing Policies to Combat the Financial Crisis,” 
+speech delivered at “Financial Stability and Macroeconomic Policy,” a symposium sponsored by the 
+Federal Reserve Bank of Kansas City, held in Jackson Hole, Wyo., August 20-22, available at 
+www.federalreserve.gov/newsevents/speech/madigan20090821a.htm.  See also Ben S. Bernanke (2008), 
+“Liquidity Provision by the Federal Reserve,” speech delivered at the Federal Reserve Bank of Atlanta 
+Financial Markets Conference (via satellite), held in Sea Island, Ga., May 13, 
+www.federalreserve.gov/newsevents/speech/bernanke20080513.htm. 
+
+  Indeed, the recent crisis bore a striking resemblance to the bank 
+
+runs that figured so prominently in Thornton’s and Bagehot’s eras; but in this case, the 
+
+run occurred outside the traditional banking system, in the shadow banking system--
+
+consisting of financial institutions other than regulated depository institutions, such as 
+
+securitization vehicles, money market funds, and investment banks.  Prior to the crisis, 
+
+these institutions had become increasingly dependent on various forms of short-term 
+
+wholesale funding, as had some globally active commercial banks.  Examples of such 
+
+funding include commercial paper, repurchase agreements (repos), and securities lending.  
+
+In the years immediately before the crisis, some of these forms of funding grew 
+
+especially rapidly; for example, repo liabilities of U.S. broker-dealers increased by a 
+
+
+-7- 
+ 
+
+factor of 2-1/2 in the four years before the crisis, and a good deal of this expansion 
+
+reportedly funded holdings of relatively less liquid securities. 
+
+In the historically familiar bank run during the era before deposit insurance, retail 
+
+depositors who heard rumors about the health of their bank--whether true or untrue--
+
+would line up to withdraw their funds.  If the run continued, then, absent intervention by 
+
+the central bank or some other provider of liquidity, the bank would run out of the cash 
+
+necessary to pay off depositors and then fail as a result.  Often, the panic would spread as 
+
+other banks with similar characteristics to, or having a financial relationship with, the one 
+
+that had failed came under suspicion.  In the recent crisis, money market mutual funds 
+
+and their investors, as well as other providers of short-term funding, were the economic 
+
+equivalent of early-1930s retail depositors.  Shadow banks relied on these providers to 
+
+fund longer-term credit instruments, including securities backed by subprime mortgages.  
+
+After house prices began to decline, concerns began to build about the quality of 
+
+subprime mortgage loans and, consequently, about the quality of the securities into which 
+
+these and other forms of credit had been packaged.  Although many shadow banks had 
+
+limited exposure to subprime loans and other questionable credits, the complexity of the 
+
+securities involved and the opaqueness of many of the financial arrangements made it 
+
+difficult for investors to distinguish relative risks.  In an environment of heightened 
+
+uncertainty, many investors concluded that simply withdrawing funds was the easier and 
+
+more prudent alternative.  In turn, financial institutions, knowing the risks posed by a run, 
+
+began to hoard cash, which dried up liquidity and significantly limited their willingness 
+
+to extend new credit.3
+
+                                                 
+3 See Gary B. Gorton (2008), “The Panic of 2007,” paper presented at “Maintaining Stability in a Changing 
+Financial System,” a symposium sponsored by the Federal Reserve Bank of Kansas City, held in Jackson 
+
+
+
+
+-8- 
+ 
+
+Because the runs on the shadow banking system occurred in a historically 
+
+unfamiliar context, outside the commercial banking system, both the private sector and 
+
+the regulators insufficiently anticipated the risk that such runs might occur.  However, 
+
+once the threat became apparent, two centuries of economic thinking on runs and panics 
+
+were available to inform the diagnosis and the policy response.  In particular, in the 
+
+recent episode, central banks around the world followed the dictum set forth by Bagehot 
+
+in 1873:  To avert or contain panics, central banks should lend freely to solvent 
+
+institutions, against good collateral.4
+
+                                                                                                                                                 
+Hole, Wyo., August 21-23; the paper is available at 
+www.kansascityfed.org/publications/research/escp/escp-2008.cfm.  Also see Markus K. Brunnermeier 
+(2009), “Deciphering the Liquidity and Credit Crunch 2007-2008,” Journal of Economic Perspectives, 
+vol. 23 (Winter), pp. 77-100. 
+
+  The Federal Reserve indeed acted quickly to 
+
+provide liquidity to the banking system, for example, by easing lending terms at the 
+
+discount window and establishing regular auctions in which banks could bid for term 
+
+central bank credit.  Invoking emergency powers not used since the 1930s, the Federal 
+
+Reserve also found ways to provide liquidity to critical parts of the shadow banking 
+
+system, including securities dealers, the commercial paper market, money market mutual 
+
+funds, and the asset-backed securities market.  For today’s purposes, my point is not to 
+
+review this history but instead to point out that, in its policy response, the Fed was relying 
+
+4 Bagehot also suggested that “these loans should only be made at a very high rate of interest” (Lombard 
+Street, p. 99; see note 2).  Some modern commentators have rationalized Bagehot’s dictum to lend at a high 
+or “penalty” rate as a way to mitigate moral hazard--that is, to help maintain incentives for private-sector 
+banks to provide for adequate liquidity in advance of any crisis.  However, the risk of moral hazard did not 
+appear to be Bagehot’s principal motivation for recommending a high rate; rather, he saw it as a tool to 
+dissuade unnecessary borrowing and thus help protect the Bank of England’s own finite store of liquid 
+assets.  See Bernanke, “Liquidity Provision,” in note 2 for further documentation.  Today, potential 
+limitations on the central bank’s lending capacity are not nearly so pressing an issue as in Bagehot’s time, 
+when the central bank’s ability to provide liquidity was far more tenuous.  Generally, the Federal Reserve 
+lent at rates above the “normal” rate for the market but lower than the rate prevailing in distressed and 
+illiquid markets.  This strategy provided needed liquidity while encouraging borrowers to return to private 
+markets when conditions normalized. 
+
+
+-9- 
+ 
+
+on well-developed economic ideas that have deep historical roots.5
+
+Economic research and analysis have proved useful in understanding many other 
+
+aspects of the crisis as well.  For example, one of the most important developments in 
+
+economics over recent decades has been the flowering of information economics, which 
+
+studies how incomplete information or differences in information among economic 
+
+agents affect market outcomes.
+
+  The problem in this 
+
+case was not a lack of professional understanding of how runs come about or how central 
+
+banks and other authorities should respond to them.  Rather, the problem was the failure 
+
+of both private- and public-sector actors to recognize the potential for runs in an 
+
+institutional context quite different than the circumstances that had given rise to such 
+
+events in the past.  These failures in turn were partly the result of a regulatory structure 
+
+that had not adapted adequately to the rise of shadow banking and that placed insufficient 
+
+emphasis on the detection of systemic risks, as opposed to risks to individual institutions 
+
+and markets. 
+
+6
+
+                                                 
+5 A substantial modern literature has updated and formalized many of the insights of Bagehot and 
+Thornton.  A classic example is Douglas W. Diamond and Philip H. Dybvig (1983), “Bank Runs, Deposit 
+Insurance, and Liquidity” Journal of Political Economy, vol. 91 (3), pp. 401-19. 
+
+  An important branch of information economics, 
+
+principal-agent theory, considers the implications of differences in information between 
+
+the principals in a relationship (say, the shareholders of a firm) and the agents who work 
+
+for the principals (say, the firm’s managers).  Because the agent typically has more 
+
+information than the principal--managers tend to know more about the firm’s 
+
+opportunities and problems than do the shareholders, for example--and because the 
+
+financial interests of the principal and the agent are not perfectly aligned, much depends 
+
+6 George Akerlof, A. Michael Spence, and Joseph Stiglitz shared the 2001 Nobel Prize in Economics for 
+their leadership in the development of information economics. 
+
+
+-10- 
+ 
+
+on the contract (whether explicit or implicit) between the principal and the agent, and, in 
+
+particular, on the incentives that the contract provides the agent.  
+
+Poorly structured incentives were pervasive in the crisis.  For example, 
+
+compensation practices at financial institutions, which often tied bonuses to short-term 
+
+results and made insufficient adjustments for risk, contributed to an environment in 
+
+which both top managers and lower-level employees, such as traders and loan officers, 
+
+took excessive risks.  Serious problems with the structure of incentives also emerged in 
+
+the application of the so-called originate-to-distribute model to subprime mortgages.  To 
+
+satisfy the strong demand for securitized products, both mortgage lenders and those who 
+
+packaged the loans for sale to investors were compensated primarily on the quantity of 
+
+“product” they moved through the system.  As a result, they paid less attention to credit 
+
+quality and many loans were made without sufficient documentation or care in 
+
+underwriting.  Conflicts of interest at credit agencies, which were supposed to serve 
+
+investors but had incentives to help issuers of securities obtain high credit ratings, are 
+
+another example.   
+
+Consistent with key aspects of research in information economics, the public 
+
+policy responses to these problems have focused on improving market participants’ 
+
+incentives.  For example, to address problems with compensation practices, the Federal 
+
+Reserve, in conjunction with other supervisory agencies, has subjected compensation 
+
+practices of banking institutions to supervisory review.  The interagency supervisory 
+
+guidance supports compensation practices that induce employees to take a longer-term 
+
+perspective, such as paying part of employees’ compensation in stock that vests based on 
+
+sustained strong performance.  To ameliorate the problems with the originate-to-
+
+
+-11- 
+ 
+
+distribute model, recent legislation requires regulatory agencies, including the Federal 
+
+Reserve, to develop new standards applicable to securitization activities that would better 
+
+align the incentives faced by market participants involved in the various stages of the 
+
+securitization process.7
+
+Information economics and principal-agent theory are also essential to 
+
+understanding the problems created by so-called too-big-to-fail financial institutions.  
+
+Prior to the crisis, market participants believed that large, complex, and interconnected 
+
+financial firms would not be allowed to fail during a financial crisis.  And, as you know, 
+
+authorities both in the United States and abroad did in fact intervene on a number of 
+
+occasions to prevent the failure of such firms--not out of any special consideration for the 
+
+owners, managers, or creditors of these firms, but because of legitimate concerns about 
+
+potential damage to the financial system and the broader economy.  However, although 
+
+the instability caused by the failure or near-failure of some large firms did indeed prove 
+
+very costly, in some sense the real damage was done before the crisis.  If creditors in 
+
+  And the Securities and Exchange Commission has been charged 
+
+with developing new rules to reduce conflicts of interest at credit rating agencies. 
+
+                                                 
+7 The requirements related to credit risk were contained in section 941 of the Dodd-Frank Wall Street 
+Reform and Consumer Protection Act, Pub. L. No. 111-203 (July 2010); with regard to compensation 
+practices, see Board of Governors of the Federal Reserve System (2009), “Federal Reserve Issues Proposed 
+Guidance on Incentive Compensation,” press release, October 22, 
+www.federalreserve.gov/newsevents/press/bcreg/20091022a.htm; also see Board of Governors of the 
+Federal Reserve System (2010), “Federal Reserve, OCC, OTS, FDIC Issue Final Guidance on Incentive 
+Compensation,” joint press release, June 21, 
+www.federalreserve.gov/newsevents/press/bcreg/20100621a.htm. 
+ Why might government intervention be needed to improve private-sector incentives, when incentives 
+presumably exist for the private-sector principals and agents to work out the best incentive structure for 
+themselves?  The possibility of problems arising regarding collective action when a firm has many 
+shareholders is one rationale.  The standard reason for intervening in banks’ risk-taking practices is the 
+existence of deposit insurance, which itself distorts private risk-taking incentives by eliminating any 
+incentive of depositors to monitor the activities of their bank; for an early discussion, see John Kareken and 
+Neil Wallace (1978), “Deposit Insurance and Bank Regulation:  A Partial-Equilibrium Exposition,” 
+Journal of Business, vol. 51 (July), pp. 413-38.  Indeed, the Federal Reserve invoked a “safety and 
+soundness” rationale for its guidance on incentive compensation practices.  More generally, as the crisis 
+revealed, bad incentives can lead to problems that affect not just the individuals involved but the broader 
+financial system as well; such spillovers suggest that regulation can help improve outcomes. 
+ 
+
+
+-12- 
+ 
+
+good times believe that certain firms will not be allowed to fail, they will demand 
+
+relatively little compensation for risk, thus weakening market discipline; in addition, 
+
+creditors will not have much incentive to monitor the firms’ risk-taking.  As a result, as 
+
+predicted by principal-agent theory, firms thought to be too big to fail tended to take on 
+
+more risk, as they faced little pressure from investors and expected to receive assistance 
+
+if their bets went bad.  This problem is an example of what economists refer to as moral 
+
+hazard.  The resulting buildup of risk in too-big-to-fail firms increased the likelihood that 
+
+a financial crisis would occur and worsened the crisis when it did occur. 
+
+One response to excessive risk-taking is stronger oversight by regulators, and the 
+
+recent legislation and the rules and procedures being developed by the Federal Reserve 
+
+and other agencies will subject systemically critical firms to tougher regulatory 
+
+requirements and stricter supervision.  The Federal Reserve has also been involved in 
+
+international negotiations to raise the capital and liquidity that banks are required to hold.   
+
+However, the problem of too-big-to-fail can only be eliminated when market participants 
+
+believe authorities’ statements that they will not intervene to prevent failures.  If creditors 
+
+believe that the government will not rescue firms when their bets go bad, then creditors 
+
+will have more-appropriate incentives to price, monitor, and limit the risk-taking of the 
+
+firms to which they lend.  The best way to achieve such credibility is to create 
+
+institutional arrangements under which a failure can be allowed to occur without 
+
+widespread collateral damage; if failures can take place more safely, the authorities will 
+
+no longer have an incentive to try to avoid them.  The financial reform legislation took an 
+
+important step in this direction by creating a resolution regime under which large, 
+
+complex financial firms can be placed in receivership, but which also gives the 
+
+
+-13- 
+ 
+
+government the flexibility to take the actions needed to safeguard systemic stability.  This 
+
+new regime should help restore market discipline by putting a greater burden on creditors 
+
+and counterparties to monitor the risk-taking of large financial firms. 
+
+The insights of economists proved valuable to policymakers in many other 
+
+contexts as well:  in the setting and oversight of bank capital standards, in the decision to 
+
+provide the market with extensive information gleaned during the bank stress tests in the 
+
+spring of 2009, in the design of the Fed’s liquidity facilities for nondepository 
+
+institutions, in the analysis of the collapse of the securitization market, and in the 
+
+measures taken to protect consumers from deceptive or inappropriate lending, to name a 
+
+few.  Many of the key ideas, like those of Thornton and Bagehot, were quite old, but 
+
+some reflected relatively recent research.  For example, recent work on monetary policy 
+
+helped the Federal Reserve provide further policy accommodation despite the constraints 
+
+imposed by the zero lower bound on interest rates.8
+
+Economics and Economic Research in the Wake of the Crisis 
+
+
+Economic principles and research have been central to understanding and reacting 
+
+to the crisis.  That said, the crisis and its lead up also challenged some important 
+
+economic principles and research agendas.  I will briefly indicate some areas that, I 
+
+believe, would benefit from more attention from the economics profession. 
+
+                                                 
+8The Federal Reserve did so by, for example, (1) acting rapidly when confronted with the zero lower 
+bound, as discussed in David Reifschneider and John C. Williams (2000), “Three Lessons for Monetary 
+Policy in a Low-Inflation Era,” Journal of Money, Credit and Banking, vol. 32 (November), pp. 936-66; (2) 
+providing forward guidance regarding short-term interest rates, as discussed in Gauti Eggertsson and 
+Michael Woodford (2003), “The Zero Bound on Interest-Rates and Optimal Monetary Policy,” Brookings 
+Papers on Economic Activity, vol. 2003 (1), pp. 139-211; and (3) expanding the Federal Reserve’s balance 
+sheet through purchases of longer-term securities, as discussed in Ben S. Bernanke, Vincent R. Reinhart, 
+and Brian P. Sack (2004), “Monetary Policy Alternatives at the Zero Bound:  An Empirical Assessment,” 
+Brookings Papers on Economic Activity, vol. 2004 (2), pp. 1-78.  
+
+
+-14- 
+ 
+
+Most fundamentally, and perhaps most challenging for researchers, the crisis 
+
+should motivate economists to think further about their modeling of human behavior.  
+
+Most economic researchers continue to work within the classical paradigm that assumes 
+
+rational, self-interested behavior and the maximization of “expected utility”--a 
+
+framework based on a formal description of risky situations and a theory of individual 
+
+choice that has been very useful through its integration of economics, statistics, and 
+
+decision theory.9
+
+The idea that, at certain times, decisionmakers simply cannot assign meaningful 
+
+probabilities to alternative outcomes--indeed, cannot even think of all the possible 
+
+outcomes--is known as Knightian uncertainty, after the economist Frank Knight who 
+
+  An important assumption of that framework is that, in making 
+
+decisions under uncertainty, economic agents can assign meaningful probabilities to 
+
+alternative outcomes.  However, during the worst phase of the financial crisis, many 
+
+economic actors--including investors, employers, and consumers--metaphorically threw 
+
+up their hands and admitted that, given the extreme and, in some ways, unprecedented 
+
+nature of the crisis, they did not know what they did not know.  Or, as Donald Rumsfeld 
+
+might have put it, there were too many “unknown unknowns.”  The profound uncertainty 
+
+associated with the “unknown unknowns” during the crisis resulted in panicky selling by 
+
+investors, sharp cuts in payrolls by employers, and significant increases in households’ 
+
+precautionary saving. 
+
+                                                 
+9 Herein I use the extension of Von Neumann-Morgenstern expected utility, which focused on objective 
+probabilities over risks, to situations in which individuals assign subjective probabilities over risks.  For a 
+review of some classic contributions in this area, see Jacques H. Drèze (1974), “Axiomatic Theories of 
+Choice, Cardinal Utility and Subjective Probability:  A Review,” in Jacques H. Drèze, ed., Allocation under 
+Uncertainty:  Equilibrium and Optimality (London:  Macmillan), pp. 3-23.  Some authors have used risk to 
+refer to a situation of objective probabilities and uncertainty to refer to a situation of subjective 
+probabilities (see, for example, David M. Kreps (1990), A Course in Microeconomic Theory (Princeton, 
+N.J.:  Princeton University Press)).  As highlighted below, others refer to uncertainty as a situation in which 
+subjective probabilities cannot be assessed.  As this discussion makes clear, it is probably best to focus on 
+the context in which the terms risk and uncertainty are used. 
+
+
+-15- 
+ 
+
+discussed the idea in the 1920s.  Although economists and psychologists have long 
+
+recognized the challenges such ambiguity presents and have analyzed the distinction 
+
+between risk aversion and ambiguity aversion, much of this work has been abstract and 
+
+relatively little progress has been made in describing and predicting the behavior of 
+
+human beings under circumstances in which their knowledge and experience provide 
+
+little useful information.10
+
+Another issue that clearly needs more attention is the formation and propagation 
+
+of asset price bubbles.  Scholars did a great deal of work on bubbles after the collapse of 
+
+the dot-com bubble a decade ago, much of it quite interesting, but the profession seems 
+
+still quite far from consensus and from being able to provide useful advice to 
+
+policymakers.  Much of the literature at this point addresses how bubbles persist and 
+
+expand in circumstances where we would generally think they should not, such as when 
+
+all agents know of the existence of a bubble or when sophisticated arbitrageurs operate in 
+
+a market.  As it was put by my former colleague, Markus Brunnermeier, a scholar 
+
+affiliated with the Bendheim center who has done important research on bubbles, “We do 
+
+not have many convincing models that explain when and why bubbles start.”
+
+  Research in this area could aid our understanding of crises 
+
+and other extreme situations.  I suspect that progress will require careful empirical 
+
+research with attention to psychological as well as economic factors. 
+
+11
+
+                                                 
+10 The classic reference on ambiguity aversion is due to Daniel Ellsberg (1961), “Risk, Ambiguity, and the 
+Savage Axioms,” The Quarterly Journal of Economics, vol. 75 (4), pp. 643-69; for a more recent, and 
+abstract, theoretical treatment, see Larry G. Epstein (1999), “A Definition of Uncertainty Aversion,” 
+Review of Economic Studies, vol. 66 (July), pp. 579-608.   
+
+  I would 
+
+add that we also don’t know very much about how bubbles stop either, and better 
+
+11 See Markus K. Brunnermeier (2008), “Bubbles,” in Steven N. Durlauf and Lawrence E. Blume, eds., The 
+New Palgrave Dictionary of Economics, 2nd ed.  (New York:  Palgrave Macmillan). 
+
+
+-16- 
+ 
+
+understanding this process--and its implications for the household, business, and financial 
+
+sectors--would be very helpful in the design of monetary and regulatory policies. 
+
+Another issue brought to the fore by the crisis is the need to better understand the 
+
+determinants of liquidity in financial markets.  The notion that financial assets can always 
+
+be sold at prices close to their fundamental values is built into most economic analysis, 
+
+and before the crisis, the liquidity of major markets was often taken for granted by 
+
+financial market participants and regulators alike.  The crisis showed, however, that risk 
+
+aversion, imperfect information, and market dynamics can scare away buyers and badly 
+
+impair price discovery.  Market illiquidity also interacted with financial panic in 
+
+dangerous ways.  Notably, a vicious circle sometimes developed in which investor 
+
+concerns about the solvency of financial firms led to runs:  To obtain critically needed 
+
+liquidity, firms were forced to sell assets quickly, but these “fire sales” drove down asset 
+
+prices and reinforced investor concerns about the solvency of the firms.  Importantly, this 
+
+dynamic contributed to the profound blurring of the distinction between illiquidity and 
+
+insolvency during the crisis.  Studying liquidity and illiquidity is difficult because it 
+
+requires going beyond standard models of market clearing to examine the motivations 
+
+and interactions of buyers and sellers over time.12
+
+I have been discussing needed research in microeconomics and financial 
+
+economics but have not yet touched on macroeconomics.  Standard macroeconomic 
+
+  However, with regulators prepared to 
+
+impose new liquidity requirements on financial institutions and to require changes in the 
+
+operations of key markets to ensure normal functioning in times of stress, new policy-
+
+relevant research in this area would be most welcome. 
+
+                                                 
+12 Good work has been done in this area; see, for example, Franklin Allen, Elena Carletti, Jan P. Krahnen, 
+and Marcel Tyrell, eds. (forthcoming), Liquidity and Crises (New York:  Oxford University Press). 
+. 
+
+
+-17- 
+ 
+
+models, such as the workhorse new-Keynesian model, did not predict the crisis, nor did 
+
+they incorporate very easily the effects of financial instability. Do these failures of 
+
+standard macroeconomic models mean that they are irrelevant or at least significantly 
+
+flawed?  I think the answer is a qualified no.  Economic models are useful only in the 
+
+context for which they are designed.  Most of the time, including during recessions, 
+
+serious financial instability is not an issue.  The standard models were designed for these 
+
+non-crisis periods, and they have proven quite useful in that context.  Notably, they were 
+
+part of the intellectual framework that helped deliver low inflation and macroeconomic 
+
+stability in most industrial countries during the two decades that began in the mid-1980s. 
+
+That said, understanding the relationship between financial and economic stability 
+
+in a macroeconomic context is a critical unfinished task for researchers.  Earlier work that 
+
+attempted to incorporate credit and financial intermediation into the study of economic 
+
+fluctuations and the transmission of monetary policy represents one possible starting 
+
+point.  To give an example that I know particularly well, much of my own research as an 
+
+academic (with coauthors such as Mark Gertler and Simon Gilchrist) focused on the role 
+
+of financial factors in propagating and amplifying business cycles.  Gertler and Nobuhiro 
+
+Kiyotaki have further developed that basic framework to look at the macroeconomic 
+
+effects of financial crises.13
+
+                                                 
+13 See Mark Gertler and Nobuhiro Kiyotaki (forthcoming), Handbook of Monetary Economics; the paper is 
+available at www.econ.nyu.edu/user/gertlerm/gertlerkiyotakiapril6d.pdf. 
+
+  More generally, I am encouraged to see the large number of 
+
+recent studies that have incorporated banking and credit creation in standard 
+
+macroeconomic models, though most of this work is still some distance from capturing 
+
+
+-18- 
+ 
+
+the complex interactions of risk-taking, liquidity, and capital in our financial system and 
+
+the implications of these factors for economic growth and stability.14
+
+It would also be fruitful, I think, if “closed-economy” macroeconomists would 
+
+look more carefully at the work of international economists on financial crises.  Drawing 
+
+on the substantial experience in emerging market economies, international economists 
+
+have examined the origins and economic effects of banking and currency crises in some 
+
+detail.  They have also devoted considerable research to the international contagion of 
+
+financial crises, a related topic that is of obvious relevance to our recent experience.   
+
+
+Finally, macroeconomic modeling must accommodate the possibility of 
+
+unconventional monetary policies, a number of which have been used during the crisis.  
+
+Earlier work on this topic relied primarily on the example of Japan; now, a number of 
+
+data points can be used.  For example, the experience of the United States and the United 
+
+Kingdom with large-scale asset purchases could be explored to improve our 
+
+understanding of the effects of such transactions on longer-term yields and how such 
+
+effects can be incorporated into modern models of the term structure of interest rates.15
+
+
+
+
+                                                 
+14 See, for example, Marvin Goodfriend and Bennett T. McCallum (2007), “Banking and Interest Rates in 
+Monetary Policy Analysis: A Quantitative Exploration,” Journal of Monetary Economics, vol. 54 (5), 
+pp.1480-1507; and Lawrence J. Christiano, Roberto Motto, and Massimo Rostagno (2009), “Financial 
+Factors in Economic Fluctuations,” paper presented at “Financial Markets and Monetary Policy,” a 
+conference sponsored by the Federal Reserve Board and the Journal of Money, Credit and Banking, held in 
+Washington, June 4-5.  For examples of studies that emphasize bank capital as a constraint on financial 
+intermediation, see Skander J. Van den Heuvel (2008), “The Welfare Cost of Bank Capital Requirements,” 
+Journal of Monetary Economics, vol. 55 (March), pp. 298-320; Césaire A. Meh and Kevin Moran (2008), 
+“The Role of Bank Capital in the Propagation of Shocks,” Bank of Canada Working Paper 2008-36 
+(Ottawa, Ontario, Canada:  Bank of Canada, October); and Mark Gertler and Peter Karadi (2009), “A 
+Model of Unconventional Monetary Policy,” manuscript, New York University, June. 
+15 An example of recent research on this subject is:  Joseph Gagnon, Matthew Raskin, Julie Remache, and 
+Brian Sack (2010), “Large-Scale Asset Purchases by the Federal Reserve:  Did They Work?” Staff Report 
+no. 441 (New York:  Federal Reserve Bank of New York, March), available at 
+www.newyorkfed.org/research/staff_reports/sr441.html.  See also Gertler and Karadi (2009), footnote 14. 
+
+
+-19- 
+ 
+
+Conclusion 
+
+I began my remarks by drawing the distinction between the scientific, 
+
+engineering, and management aspects of economics.  For the most part, in my view, the 
+
+financial crisis reflected problems in what I referred to as economic engineering and 
+
+economic management.  Both private-sector arrangements (for example, for risk 
+
+management and funding) and the financial regulatory framework were flawed in design 
+
+and execution, and these weaknesses were the primary reasons that the financial crisis 
+
+and its economic effects were so severe. 
+
+Disasters require urgent action to prevent repetition.  Engineers seek to enhance 
+
+the reliability of a complex machine through improvements in basic design; more-
+
+rigorous testing and quality assurance; and increases in the resilience of the machine 
+
+through means such as stronger materials, greater redundancy, and better backup systems.  
+
+Economic policymakers’ efforts to avoid, or at least mitigate, future financial crises are 
+
+proceeding along analogous lines.  First, the recent reform legislation has improved the 
+
+design of the regulatory framework, closing important gaps such as the lack of oversight 
+
+of the shadow banking system.  Likewise, in the private sector, firms have taken 
+
+significant steps to improve their systems for managing risk and liquidity.  Second, to 
+
+reduce the probability and severity of future crises, policymakers will monitor the system 
+
+more intensively.  For example, the recent legislation creates a Financial Stability 
+
+Oversight Council, made up of the heads of the financial regulatory agencies, which will 
+
+assess potential risks to the financial system, identify regulatory gaps, and coordinate the 
+
+efforts of the various agencies.  Enhanced market discipline, the result of a new 
+
+resolution regime for systemically critical firms and a number of measures to increase 
+
+
+-20- 
+ 
+
+transparency, will complement regulatory oversight.  Finally, numerous steps, both 
+
+prescribed in the legislation and taken independently by regulators, will work to make our 
+
+financial system more resilient to shocks.  Examples include rules that will strengthen 
+
+key financial utilities, toughen bank capital and liquidity standards, and require that more 
+
+derivatives instruments be standardized and traded on exchanges rather than over the 
+
+counter. 
+
+Economic engineering is effective only in combination with good economic 
+
+management.  For its part, the Federal Reserve has revamped its supervisory operations 
+
+to provide more effective and comprehensive oversight.  In particular, we are taking an 
+
+approach that is both more multi-disciplinary--making greater use of the Federal 
+
+Reserve’s wide expertise in macroeconomics, finance, and other fields to complement the 
+
+work of bank supervisors; and more macroprudential--that is, focused on risks to the 
+
+system as a whole as well as those to individual institutions.  Together, better design of 
+
+private- and public-sector frameworks for managing risk, better monitoring and 
+
+supervision, and a more resilient financial system do not by any means guarantee that 
+
+financial crises will not recur, but they should both reduce the risk of crises and mitigate 
+
+the effects of any that do happen. 
+
+  In short, the financial crisis did not discredit the usefulness of economic research 
+
+and analysis by any means; indeed, both older and more recent ideas drawn from 
+
+economic research have proved invaluable to policymakers attempting to diagnose and 
+
+respond to the financial crisis.  However, the crisis has raised some important questions 
+
+that are already occupying researchers and should continue to do so.  As I have discussed 
+
+today, more work is needed on the behavior of economic agents in times of profound 
+
+
+-21- 
+ 
+
+uncertainty; on asset price bubbles and the determinants of market liquidity; and on the 
+
+implications of financial factors, including financial instability, for macroeconomics and 
+
+monetary policy.  Much of that work is already under way at the Bendheim center and in 
+
+the Department of Economics here at Princeton. 
+

@@ -1,0 +1,669 @@
+
+For release on delivery 
+12:05 p.m. EDT 
+March 29, 2019 
+ 
+
+
+Frameworks for the Countercyclical Capital Buffer  
+ 
+ 
+ 
+
+Remarks by 
+ 
+
+Randal K. Quarles 
+ 
+
+Vice Chair for Supervision 
+ 
+
+Board of Governors of the Federal Reserve System 
+ 
+
+at 
+ 
+
+“Strategic Approaches to the Fed’s Balance Sheet and Communications” 
+Spring 2019 Meeting of the Manhattan Institute’s Shadow Open Market Committee 
+
+ 
+New York, New York 
+
+
+March 29, 2019 
+ 
+
+
+
+It is a pleasure to address the Manhattan Institute’s Shadow Open Market 
+
+Committee (SOMC) today.1  The SOMC has long served as an important forum for 
+
+debate regarding the appropriate stance of monetary policy--debates that have often 
+
+brought alternative perspectives to the challenges facing the Federal Open Market 
+
+Committee (FOMC) in the pursuit of its dual mandate of maximum employment and 
+
+stable prices.  As Allan Meltzer wrote about his and Karl Brunner’s founding of the 
+
+SOMC, “Our objective at the time and after was not just to complain about the results of 
+
+policy actions. . . .  We hoped also to improve policy discussion.”2 
+
+This afternoon, I will briefly remark on the economic outlook and the current 
+
+stance of monetary policy, and I would then like to devote some time to a discussion of 
+
+the approach the Federal Reserve has taken on the setting of the countercyclical capital 
+
+buffer (CCyB) and why I see a setting of 0 percent, as recently affirmed by the Board, as 
+
+the current appropriate setting for the CCyB.  Also, I will review some of the 
+
+international experience with the CCyB.  Given that the CCyB is a relatively new 
+
+element of our regulatory toolkit, the international experience has the potential to provide 
+
+useful information on how the CCyB can be made most effective.   
+
+The Economic Outlook 
+
+But first, let me turn to the economic outlook.  At last week’s meeting, the FOMC 
+
+left the policy rate unchanged and reiterated its patient approach toward future policy 
+
+adjustments.3  I supported this decision.  It is prudent at this point to watch the evolution 
+
+                                                 
+1 These remarks represent my own views, which do not necessarily represent those of the Federal Reserve 
+Board or the Federal Open Market Committee. 
+2 See Allan H. Meltzer (2000), “The Shadow Open Market Committee:  Origins and Operations,” Journal 
+of Financial Services Research, vol. 18 (December), pp. 119-28 (quoted text on p. 120).  
+3 See Board of Governors of the Federal Reserve System (2019), “Federal Reserve Issues FOMC 
+Statement,” press release, March 20, 
+https://www.federalreserve.gov/newsevents/pressreleases/monetary20190320a.htm.  
+
+
+ - 2 - 
+
+of the incoming data in determining the appropriate stance of policy, particularly given 
+
+some indication that growth has slowed, at least temporarily, in the most recent data.  
+
+That said, I remain optimistic about the outlook for the U.S. economy, and I think that we 
+
+have the potential to maintain growth at a healthy pace in the years ahead.   
+
+With regard to the recent data, a sharp falloff in some retail sales measures in 
+
+December suggested a slowing of consumption, the mainstay component of aggregate 
+
+demand.  While I would not suggest ignoring this decline, it does seem rather inconsistent 
+
+with a number of other indicators, including the continued strength of the labor market 
+
+and wage gains in recent months.   
+
+And the labor market does remain strong.  Even with a weak reading in February, 
+
+the three-month average gain in payrolls, at 186,000, remains above most estimates of the 
+
+pace of job gains needed to maintain downward pressure on an already historically low 
+
+unemployment rate.  As with retail sales, the February payroll number seems a bit odd, 
+
+especially when measured against the continued strength of the household survey for the 
+
+same month.  That said, weak February payrolls are another reason to continue patiently 
+
+watching the data to see how economic conditions evolve.   
+
+Looking past the near-term data, I see many reasons to expect relatively strong 
+
+growth in the coming years, supported by gains in the productive capacity of the 
+
+economy.  Regarding the inputs of production, I have been encouraged by the increase in 
+
+labor force participation over the past year.  After a period of subdued growth, investment 
+
+was also strong last year, with spending on equipment and intangibles rising 7½ percent, 
+
+increasing the capital stock and adding to the productive potential of the economy.  
+
+Though some recent investment indicators have been less robust, these data are volatile, 
+
+
+ - 3 - 
+
+and I expect continued gains supported by profit growth, continuing impetus from 
+
+incentives in the tax bill, and a generally favorable business environment.     
+
+Most important, I have been encouraged by the recent step-up in labor 
+
+productivity growth.  Last year’s increase of almost 2 percent marked the strongest 
+
+growth since the immediate aftermath of the financial crisis and was well above the 
+
+1 percent pace that prevailed in the preceding five years.  I think there are many reasons 
+
+to believe that this faster productivity growth could be persistent.  My expectation for 
+
+further increases in capital spending is one.  For another, it could be that tight labor 
+
+markets have played a role in boosting labor productivity growth as employers work to 
+
+increase efficiency as new workers become harder to find.   
+
+Turning to inflation, given the volatility and idiosyncrasies of the data, I view the 
+
+current reading on core PCE (personal consumption expenditures) inflation, at 
+
+1.8 percent, as being roughly consistent with our 2 percent objective.  Overall, inflation 
+
+pressures are muted.  But I do not believe that the seeming unresponsiveness of inflation 
+
+to the apparent tightness of the labor market and other aspects of the economy tells the 
+
+whole story in evaluating slack versus constraint in the economy.  Of the many 
+
+explanations for this phenomenon that have been offered, one possibility that we have to 
+
+keep in mind is that inflation has remained stable precisely because of the public’s 
+
+confidence that the Fed will maintain a framework that keeps the economy from 
+
+overheating and inflation from rising significantly above the 2 percent benchmark.  
+
+Inflation could then for some time remain quite stable in the face of an economy running 
+
+hot.  But if public confidence began to erode because of Fed inaction, a possible 
+
+consequence could be the de-anchoring of inflation expectations, rather than a gradual 
+
+
+ - 4 - 
+
+and controlled move to an inflation rate sustainably around our 2 percent goal.  Of 
+
+course, there are a variety of alternative explanations for the current surprising 
+
+relationship between inflation and unemployment, and perhaps all of them are part of a 
+
+full account.  We should also be wary of a material and durable downward drift in 
+
+inflation expectations below our objective, were we to see that develop, perhaps due to 
+
+secular changes in the formation of prices or perceived constraints on the ability of 
+
+monetary policy to react to future downturns.  Either way, as a matter of prudent risk 
+
+management, we must conduct policy in a manner consistent with keeping inflation near 
+
+target, validating the public’s trust in our commitment to our inflation objective and 
+
+keeping inflation expectations anchored. 
+
+In regard to policy, I am very comfortable remaining patient at this point and 
+
+monitoring the incoming data.  That said, my sense is that further increases in the policy 
+
+rate may be necessary at some point, a stance I believe is consistent with my optimistic 
+
+view of the economy’s growth potential and momentum.  In the language of central 
+
+banking, my estimate of the neutral policy rate remains somewhat north of where we are 
+
+now. 
+
+Communicating a data-dependent policy framework can be challenging, 
+
+especially if we do not want to appear to be overly discretionary.  It would probably be 
+
+clearest if we defined what data we are dependent on and how we depended on those 
+
+data--that is to say, if we adopted a monetary policy rule.  Strict rules, however--to 
+
+achieve their valuable heuristic benefit--are as much about ignoring some data as they are 
+
+about paying attention to other specific data.  Indeed, while rules provide useful and 
+
+important benchmarks, the complexity and evolving nature of the economy at the current 
+
+
+ - 5 - 
+
+juncture argue for the consideration of a wide range of indicators in assessing the state of 
+
+that economy.  This, in turn, can complicate the communication of data dependence:  
+
+How can we adopt and convey a clear strategic stance on policy while maintaining our 
+
+credibility if evolution of the data requires an evolution of that strategy?     
+
+I prefer a framework where we make it clear that we are focused on broad trends--
+
+elsewhere I have used the aviation analogy that we should not “chase the needles” on the 
+
+instrument panel.  We should be clear that, while we will respond to clear and durable 
+
+evolution in these broad trends, we are not reacting to every piece of volatile data.4   
+
+The Countercyclical Capital Buffer and Financial Stability 
+
+Let me now shift gears and return to the CCyB, beginning with how it fits within 
+
+our broad set of efforts to promote financial stability.  The core of that approach has been 
+
+to establish a set of structural, through-the-cycle regulatory and supervisory standards to 
+
+ensure resilience against a broad range of shocks.  In contrast to the pre-crisis framework, 
+
+banks, especially the largest and most systemic banks, are now required to maintain 
+
+substantially higher and higher-quality loss-absorbing capital and other cushions; stress 
+
+testing examines the resilience of large banks to severely adverse economic conditions; 
+
+liquidity requirements and regulatory incentives to limit reliance on short-term wholesale 
+
+funding have reduced funding risk among large banks and their affiliated broker-dealers; 
+
+and resolution planning requirements reduce the risks that the failure of a large firm 
+
+would spill into the broader economy.  Outside of the banking system, money market 
+
+mutual fund reform has reduced this sector’s susceptibility to destabilizing runs by 
+
+                                                 
+4 See Randal K. Quarles (2018), “Don’t Chase the Needles:  An Optimistic Assessment of the Economic 
+Outlook and Monetary Policy,” speech delivered at the Economic Club of New York Luncheon, New 
+York, October 18, https://www.federalreserve.gov/newsevents/speech/quarles20181018a.htm.   
+
+
+ - 6 - 
+
+investors, and requirements that many derivatives be centrally cleared have decreased the 
+
+opacity and interconnectedness that contributed to the chaos of 2008. 
+
+In addition to these through-the-cycle measures, the Federal Reserve actively 
+
+monitors for the buildup of financial stability vulnerabilities and can require large banks 
+
+to increase their loss-absorbing capacity through increases in the CCyB when systemic 
+
+vulnerabilities are sufficiently large.  While such countercyclical tools are new, their goal 
+
+is to mitigate the buildup of vulnerabilities during buoyant periods, since experience has 
+
+proven time and again that vulnerabilities can build during good times as risk appetite 
+
+grows and memories of earlier instability fade. 
+
+Effectively mitigating the buildup of risk through the CCyB requires a systematic 
+
+framework for analyzing vulnerabilities and a mapping of such changes in financial-
+
+sector risks into the appropriate level for the CCyB.  The Board developed its framework 
+
+outlining the objectives of the tool and the factors that would influence the determination 
+
+of its appropriate level through a process of public consultation.5  
+
+Under our policy, the primary objective for activating the CCyB is to build 
+
+financial-sector resilience during periods when the risks to financial stability have risen to 
+
+meaningfully above normal levels and there is an elevated possibility of potential losses 
+
+within the banking sector that could place strains on the supply of credit or otherwise 
+
+substantially impede economic and financial activity.  A secondary objective for using 
+
+                                                 
+5 In December 2015, the Board invited public comment on a proposed policy statement describing the 
+framework that the Board would use to set the amount of the U.S. CCyB.  See Regulation Q--Capital 
+Adequacy of Bank Holding Companies, Savings and Loan Holding Companies, and State Member Banks, 
+12 C.F.R. pt. 217, app. A (2018).  See also Federal Reserve System (2016), “Regulatory Capital Rules:  
+The Federal Reserve Board’s Framework for Implementing the U.S. Basel III Countercyclical Capital 
+Buffer,” proposed policy statement with request for public comment (Docket No. R-1529), Federal 
+Register, vol. 81 (February 3), pp. 5661-66.See 12 CFR part 217, Appendix A. See also 81 FR 5661 
+(February 3, 2016). 
+
+
+ - 7 - 
+
+the CCyB is its potential to limit the buildup of financial vulnerabilities by slowing the 
+
+rate of credit expansion--that is, the possibility that the CCyB may “lean against the 
+
+wind” of credit fluctuations.  This secondary objective, both in the original Basel 
+
+discussions and in the Federal Reserve’s framework, is less central.   
+
+A notable feature of the Board’s current framework is the decision to maintain a 0 
+
+percent CCyB when vulnerabilities are within their normal range.  Because we set high, 
+
+through-the-cycle capital requirements in the United States that provide substantial 
+
+resilience to normal fluctuations in economic and financial conditions, it is appropriate to 
+
+set the CCyB at zero in a normal risk environment.  Thus, our presumption has been that 
+
+the CCyB would be zero most of the time. 
+
+Current Assessment of Financial Vulnerabilities 
+
+When, then, would it be appropriate--given this framework--to activate the 
+
+CCyB?  That is, how do we know when financial vulnerabilities are elevated?  The 
+
+Federal Reserve continuously monitors vulnerabilities, as highlighted in our recent 
+
+Financial Stability Report.6  Our approach is organized around tracking four broad 
+
+vulnerabilities that academic research and practical experience have shown can amplify 
+
+negative shocks and result in outsized losses in the real economy.  These are asset 
+
+valuation pressures, household and business debt, funding risk, and financial-sector 
+
+leverage.  As part of this process, the Board considers a number of quantitative 
+
+indicators--one of which is the credit-to-GDP (gross domestic product) gap proposed in 
+
+the Basel Committee guidance--that are indicative of potential vulnerabilities.  
+
+                                                 
+6 See Board of Governors of the Federal Reserve System (2018), Financial Stability Report (Washington:  
+Board of Governors, November), https://www.federalreserve.gov/publications/files/financial-stability-
+report-201811.pdf.  
+
+
+ - 8 - 
+
+Nonetheless, judgment must play an important role in this process, especially in assessing 
+
+how interactions between vulnerabilities may serve to mute or amplify the transmission 
+
+of different kinds of shocks.  The framework requires further judgment as to whether the 
+
+CCyB is the most appropriate tool to address the particular areas of concern, which will 
+
+depend on, among other things, the extent to which banks subject to the CCyB are 
+
+exposed to vulnerabilities or contributing to them. 
+
+Assessing the current state of financial vulnerabilities is thus a critical part of the 
+
+decision on whether to activate the CCyB.  Let me briefly give you my view of each of 
+
+the four categories in turn. 
+
+Asset valuations increased to the high end of their historical ranges in many 
+
+markets over 2017 and the first half of 2018, supported by the solid economic expansion 
+
+and an apparent increase in investors’ appetite for risk.  The market volatility and 
+
+subsequent rebound have muddied the picture somewhat; however, it does seem that 
+
+valuation pressures have eased to some extent in a particular locus of concern, the market 
+
+for leveraged loans--that is, syndicated loans to lower-rated or unrated borrowers with 
+
+already significant debt loads. 
+
+Now, regarding debt outstanding, borrowing by businesses has reached a 
+
+historically high level relative to the size of the economy or business assets and there are 
+
+also signs of deteriorating underwriting standards.  Of course, this has happened at a time 
+
+when corporate profits relative to the size of the economy are also quite high, mitigating 
+
+some of the concern this might suggest--but the riskiest forms of business debt have 
+
+increased the most amid such signs.  These developments could potentially leave the 
+
+corporate sector vulnerable to a sharp slowing in economic growth, although we think the 
+
+
+ - 9 - 
+
+banking sector has only limited direct exposures to such borrowers and, to the extent they 
+
+can be measured, indirect exposures are also limited.  
+
+The notable levels of vulnerability in asset valuation pressures and business 
+
+borrowing must be considered alongside modest vulnerabilities associated with 
+
+household borrowing and the historically low levels of financial-sector leverage and 
+
+funding risk.  Household debt relative to GDP has fallen substantially from the level of a 
+
+decade ago, and the credit quality of household borrowing remains relatively solid, 
+
+despite pockets of weakness evident in some areas of auto lending.  Even more important, 
+
+banks now have substantially higher-quality capital and more of it than in the 2000s, 
+
+owing importantly to the structural reform of capital requirements and stress testing.  In 
+
+fact, under last year’s stress tests, capital levels at the largest U.S. banks after a 
+
+hypothetical severe global recession would have been higher than the actual capital levels 
+
+of large banks in the years before the crisis.  Moreover, around 20 percent of the assets of 
+
+the most systemically important financial institutions are highly liquid assets that can be 
+
+sold quickly in the event of stress.  And, following reforms to money market mutual 
+
+funds and other steps, the volume of short-term uninsured funding, most prone to runs, is 
+
+well below pre-crisis levels.  
+
+Taken as a whole, financial system vulnerabilities strike me as being not outside 
+
+their normal range, which is consistent with a zero CCyB under the Board’s framework 
+
+and is why I supported the Board’s decision to keep the CCyB at zero earlier this month.   
+
+International Experience with the Countercyclical Capital Buffer 
+
+While policymakers in the United States have maintained the CCyB at zero since 
+
+2016, other countries have adjusted their countercyclical buffers in response to 
+
+
+ - 10 - 
+
+vulnerabilities within their financial sectors.  Currently, 13 countries have announced a 
+
+CCyB above zero, ranging from 0.25 percent in Luxembourg to 2.5 percent in Hong 
+
+Kong, Norway, and Sweden.7  The CCyB is a novel approach to financial regulation, and 
+
+I think it is important that we, as regulators, learn from other countries’ experiences with 
+
+the CCyB.  I see three important explanations for differences in the CCyB across 
+
+countries.   
+
+Perhaps the most important and direct reason for different CCyB levels among 
+
+different countries is that they face different vulnerabilities.  According to national 
+
+authorities’ announcements, the decisions to activate the buffers were generally 
+
+motivated by credit growth, household debt, and housing prices; in this regard, it is 
+
+notable that mortgage credit or house prices have expanded rapidly in several countries 
+
+deploying the CCyB, including Hong Kong and the Nordic countries that have set their 
+
+CCyB at 2.5 percent.  For example, the Hong Kong Monetary Authority’s decision to 
+
+increase the CCyB level to 2.5 percent in January 2018 was importantly linked to housing 
+
+developments.   
+
+Another explanation for the differences in observed CCyB levels across countries 
+
+is the range of available macroprudential tools to stem the buildup in financial 
+
+vulnerabilities in different countries and the degree to which such tools have been the 
+
+preferred means for addressing identified vulnerabilities.8  For example, housing market 
+
+                                                 
+7 This figure includes countries that have announced a positive CCyB that will become effective at some 
+point within the next year. 
+8 See International Monetary Fund, Financial Stability Board, and Bank for International Settlements 
+(2016), IMF-FSB-BIS, Elements of Effective Macroprudential Policies: , Lessons from International 
+Experience (Basel, Switzerland:  IMF, FSB, and BIS, , (August 2016), http://www.fsb.org/wp-
+content/uploads/Elements-of-Effective-Macroprudential-Policies1.pdf.  
+
+
+ - 11 - 
+
+booms, as noted above for Hong Kong, have been a concern in several countries in recent 
+
+years.9  Accordingly, some national authorities have used macroprudential tools focused 
+
+on housing, such as caps on loan-to-value ratios, to try to increase the resilience of 
+
+borrowers and to indirectly strengthen the resilience of the banks and the financial system 
+
+should their housing booms turn to busts.  For example, policymakers in Canada have not 
+
+activated the CCyB in response to concerns about housing market risks, but they have 
+
+lowered the maximum loan-to-value ratio for various mortgage products and capped 
+
+debt-service-to-income ratios.10  The availability of such alternative tools for limiting 
+
+systemic risk may be among the factors influencing the decision to adjust, or not adjust, 
+
+the CCyB in a number of countries.  In this regard, it is notable that the set of 
+
+macroprudential tools in the United States is limited relative to that in many other 
+
+countries.11 
+
+Finally, another difference, one that is particular to the United Kingdom, is the 
+
+framework adopted by the U.K. Financial Policy Committee (FPC) to integrate the CCyB 
+
+with its structural capital requirements.  Specifically, under the FPC’s framework, the 
+
+CCyB would equal 1 percent in standard risk conditions--but to avoid having this be a 
+
+                                                 
+9 Such booms have raised concern in Australia, Canada, and the Nordic countries.  See International 
+Monetary Fund (2018), Source: IMF, Global Financial Stability Report, (Washington:  IMF, October 
+2018), https://www.imf.org/en/Publications/GFSR/Issues/2018/09/25/Global-Financial-Stability-Report-
+October-2018. 
+10 See Bank of Canada (2017),, Financial System Review, (Ottawa:  BOCBank of Canada, November 
+2017), https://www.bankofcanada.ca/wp-content/uploads/2017/11/fsr-november2017.pdf. 
+    Another example of a macroprudential tool used in some countries is a sector-specific version of the 
+CCyB.  Switzerland, for example, has activated a housing-sector CCyB to address imbalances related to 
+residential mortgage and real estate markets.  See Swiss National Bank (2013), “Countercyclical Capital 
+Buffer:  Proposal of the Swiss National Bank and Decision of the Federal Council,” press release, 
+February 13, https://www.snb.ch/en/mmr/reference/pre_20130213/source/pre_20130213.en.pdf.  
+11 See Douglas J. Elliott, Greg Feldberg, and Andreas Lehnert (2013),, “The History of Cyclical 
+Macroprudential Policy in the United States,” Finance and Economics Discussion Series 2013-29 
+(Washington:  Board of Governors of the Federal Reserve System, May 2013), 
+https://www.federalreserve.gov/pubs/feds/2013/201329/201329pap.pdf.     
+
+
+ - 12 - 
+
+significant increase to already very high levels of capital, the FPC undertook a one-time 
+
+adjustment to its other capital buffers in order to offset part of this increase.  The effect of 
+
+the policy is that the buffer can be varied--both up and down--in line with the changing 
+
+risks that the banking system faces over time.  This approach is an interesting deviation 
+
+from the idea in the original Basel discussions and the framework adopted in many other 
+
+jurisdictions, in which structural capital requirements are set at levels aimed to deliver the 
+
+desired level of resilience, with the CCyB raised to positive values only at times when 
+
+vulnerabilities are above normal. 
+
+In practice, the U.K. framework appears to have provided the FPC with additional 
+
+flexibility, as it has adjusted the CCyB with evolving financial risks associated with, for 
+
+example, Brexit.  As I examine this experience, systems similar to the United Kingdom’s, 
+
+where the CCyB is positive during normal times, may allow policymakers to react more 
+
+quickly to economic, financial, or even geopolitical shocks that occur amid otherwise 
+
+normal conditions, without relying on the slow-moving credit aggregates contemplated in 
+
+the original Basel proposal.  Moreover, this setting of the CCyB permits more gradual 
+
+adjustments in the CCyB, especially in periods with a high degree of uncertainty about 
+
+the level of financial vulnerabilities.  Another possible benefit of a system that has 
+
+additional flexibility is the ability to coordinate the setting of the CCyB with the setting 
+
+of monetary policy in situations where such coordination is valuable.  At the same time, I 
+
+would not expect such situations to be the norm, as the objectives and governance of 
+
+monetary policy and macroprudential policies are separate for good reasons.   
+
+
+ - 13 - 
+
+Conclusion 
+
+In the United States, we have built a substantially safer financial system by 
+
+focusing on using structural tools that confer through-the-cycle resilience.  With that 
+
+construction work largely behind us, attention naturally turns to the set of time-varying 
+
+financial regulations--particularly the CCyB. 
+
+The overall capital framework in the United States has been designed to ensure 
+
+high capital levels without having to activate the CCyB, with the implication being that 
+
+the bar for activation would be a high one; but, as a result, much of the time there would 
+
+not be any buffer to reduce if conditions were to precipitously deteriorate.  The United 
+
+Kingdom’s approach to setting the CCyB also relies on having a high overall level of 
+
+capital during normal times, but, by “swapping” some portion of static capital for CCyB 
+
+in reaching that high capital level during normal times, and thus making some of that 
+
+capital part of a releasable buffer, U.K. policymakers have built in more flexibility to 
+
+move buffers down in times of stress.  Other countries provide additional “data points” in 
+
+terms of possible ways of approaching the CCyB. 
+
+With the CCyB in active use around the world, I am confident that the academic 
+
+and policy communities will learn a great deal about how best to use this new tool to 
+
+build a more resilient financial system. 
+

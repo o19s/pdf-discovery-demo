@@ -1,0 +1,1275 @@
+
+For release on delivery 
+2:30 p.m. EST 
+January 3, 2014 
+ 
+
+
+The Federal Reserve:  Looking Back, Looking Forward 
+ 
+ 
+ 
+
+Remarks by 
+ 
+
+Ben S. Bernanke 
+ 
+
+Chairman 
+ 
+
+Board of Governors of the Federal Reserve System 
+ 
+
+at 
+ 
+
+Annual Meeting of the American Economic Association  
+ 
+
+Philadelphia, Pennsylvania 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+January 3, 2014 
+ 
+ 
+ 
+ 
+
+
+
+
+
+In less than a month my term as Fed Chairman will end.  Needless to say, my 
+
+tenure has been eventful--for the Federal Reserve, for the country, and for me personally.  
+
+I thought it appropriate today to reflect on some accomplishments of the past eight years, 
+
+as well as some uncompleted tasks.  I will briefly cover three areas in my remarks:  
+
+(1) the Federal Reserve’s commitment to transparency and accountability, (2) financial 
+
+stability and financial reform, and (3) monetary policy.  I will close by discussing the 
+
+prospects for the U.S. and global economies. 
+
+Transparency and Accountability 
+
+Fostering transparency and accountability at the Federal Reserve was one of my 
+
+principal objectives when I became Chairman in February 2006.  I had long advocated 
+
+increased transparency and, in particular, a more explicit policy framework as ways to 
+
+make monetary policy more predictable and more effective.  Our efforts to enhance 
+
+transparency and communication have indeed made monetary policy more effective, but, 
+
+as I’ll discuss, these steps have proved important in other spheres as well. 
+
+When I began my term I expected to build on the monetary policy framework I 
+
+had inherited from Paul Volcker and Alan Greenspan.  My predecessors had solidified 
+
+the Fed’s commitment to low and stable inflation as a foundation of broader economic 
+
+stability, and they gradually increased the transparency of monetary policy deliberations 
+
+and plans.  For example, Chairman Volcker introduced a money-targeting framework to 
+
+help guide the Fed’s attack on high inflation in the early 1980s, and the practice of 
+
+issuing a statement after each meeting of the Federal Open Market Committee (FOMC) 
+
+began under Chairman Greenspan.  I believed that a still more transparent approach 
+
+would make monetary policy even more effective and further strengthen the Fed’s 
+
+
+ - 2 - 
+
+institutional credibility.  In particular, as an academic I had written favorably about the 
+
+flexible inflation-targeting approach used by the Bank of England and a number of other 
+
+central banks.  By making public considerable information about policy goals and 
+
+strategies, together with their economic forecasts, these central banks provided a clear 
+
+framework to help the public and market participants understand and anticipate policy 
+
+actions.  The provision of numerical goals and policy plans also helped make these 
+
+central banks more accountable for achieving their stated objectives.  I was confident that 
+
+we could adapt this type of framework to the Federal Reserve’s dual mandate to promote 
+
+both maximum employment and price stability.  Indeed, central banks using this 
+
+framework were already, in practice, often pursuing economic objectives in addition to 
+
+low and stable inflation--hence the term, “flexible” inflation targeting.  
+
+Because the financial crisis and its aftermath naturally occupied so much of 
+
+policymakers’ attention, progress toward a more explicit policy framework at the Federal 
+
+Reserve was slower than I had hoped.  Nevertheless, progress was made.  In the minutes 
+
+of its October 2007 meeting, the FOMC introduced its quarterly Summary of Economic 
+
+Projections (SEP), which included FOMC participants’ projections of key 
+
+macroeconomic variables such as inflation, gross domestic product (GDP) growth, and 
+
+the unemployment rate.1  Over time, we added long-run projections of inflation, growth, 
+
+                                                 
+1 Prior to October 2007, FOMC participants provided semiannual projections of nominal and real GDP, 
+unemployment, and core inflation, which were reported in the meeting minutes and in the Monetary Policy 
+Report to the Congress.  The innovations associated with the introduction of the SEP included (1) the 
+switch from semiannual to quarterly frequency, (2) the addition of projections for overall inflation 
+(projections of nominal GDP growth were dropped), (3) the extension by two years of the projection 
+horizon, (4) the inclusion of participants’ views about the risks to and the uncertainty surrounding the 
+outlook for each projected variable, (5) the inclusion of the full distribution of participants’ projections, not 
+just the range and central tendency, and 6) a write-up of the rationales provided by participants for their 
+projections.  As noted in the text, further innovations, including interest rate projections and long-run 
+projections of economic growth, unemployment, inflation, and the federal funds rate were added over 
+time.  The role of the projections in policy communication was also significantly increased after October 
+
+
+ - 3 - 
+
+and unemployment, as well as projections of the path of the target federal funds rate 
+
+consistent with each individual’s views of appropriate monetary policy.  These additions 
+
+have better informed the public about participants’ views on both the long-run objectives 
+
+of policy and the path of interest rates most consistent with achieving those objectives.   
+
+We took another important step in January 2012, when the FOMC issued a 
+
+statement laying out its longer-run goals and policy strategy.2  The statement established, 
+
+for the first time, an explicit longer-run goal for inflation of 2 percent, and it pointed to 
+
+the SEP to provide information about Committee participants’ assessments of the longer-
+
+run normal unemployment rate, currently between 5.2 and 6 percent.  The statement also 
+
+indicated that the Committee would take a balanced approach to its price stability and 
+
+employment objectives.  We adopted additional measures aimed at clarifying the 
+
+rationales for our decisions, including my quarterly postmeeting press conference.  The 
+
+increases in policy transparency that were achieved proved valuable during a very 
+
+difficult period for monetary policy. 
+
+As it happened, during the crisis and its aftermath the Federal Reserve’s 
+
+transparency and accountability proved critical in a quite different sphere--namely, in 
+
+supporting the institution’s democratic legitimacy.  The Federal Reserve, like other 
+
+central banks, wields powerful tools; democratic accountability requires that the public be 
+
+able to see how and for what purposes those tools are being used.  Transparency is 
+
+particularly important in a period like the recent one in which the Federal Reserve has 
+
+been compelled to take unusual and dramatic actions--including the provision of liquidity 
+
+                                                                                                                                                 
+2007; for example, they were regularly referenced in the Chairman’s semiannual Humphrey-Hawkins 
+testimony before the Congress (see Board of Governors, 2007a, 2007b). 
+2 See Board of Governors (2012b). 
+
+
+ - 4 - 
+
+to a wide range of financial institutions and markets that did not normally have access to 
+
+the Fed’s discount window--to help stabilize the financial system and the economy. 
+
+What types of transparency are needed to preserve public confidence?  At the 
+
+most basic level, a central bank must be clear and open about its actions and operations, 
+
+particularly when they involve the deployment of public funds.  The Federal Reserve 
+
+routinely makes public extensive information on all aspects of its activities, and since the 
+
+crisis it has greatly increased the quantity and detail of its regular reports to the Congress 
+
+and the public.3  Importantly, contrary to what is sometimes asserted, all of the Fed’s 
+
+financial transactions and operations are subject to regular, intensive audits--by the 
+
+Government Accountability Office, an independent Inspector General, and a private 
+
+accounting firm, as well as by our own internal auditors.4  It is a testament to the 
+
+dedication of the Federal Reserve’s management team that these thorough audits have 
+
+consistently produced assessments of the Fed’s accounting and financial controls that 
+
+most public companies would envy. 
+
+                                                 
+3 For example, the Board has regularly published detailed information about the Federal Reserve’s balance 
+sheet and the special liquidity facilities that were introduced during the crisis.  We created a section on our 
+website devoted to these issues and initiated a regular public report as well.  (See the webpage “Credit and 
+Liquidity Programs and the Balance Sheet” at www.federalreserve.gov/monetarypolicy/bst.htm.) 
+4 While the Government Accountability Office (GAO) has access to all aspects of the Fed’s operations and 
+is free to criticize or make recommendations, there is one important exception:  monetary policymaking.  In 
+the 1970s, the Congress deliberately excluded monetary policy deliberations, decisions, and actions from 
+the scope of GAO reviews.  In doing so, the Congress carefully balanced the need for democratic 
+accountability with the benefits that flow from keeping monetary policy free from short-term political 
+pressures. 
+
+However, there have been recent proposals (so-called Audit the Fed measures) to expand the 
+authority of the GAO over the Federal Reserve to include reviews of monetary policy decisions.  Because 
+the GAO is the investigative arm of the Congress and GAO reviews may be initiated at the request of 
+members of the Congress, these reviews (or the prospect of reviews) of individual policy decisions could be 
+seen, with good reason, as efforts to bring political pressure to bear on monetary policymakers.  A 
+perceived politicization of monetary policy would reduce public confidence in the ability of the Federal 
+Reserve to make its policy decisions based strictly on what is good for the economy in the longer 
+term.  Balancing the need for accountability against the goal of insulating monetary policy from short-term 
+political pressures is very important, and I believe that the Congress had it right in the 1970s when it 
+explicitly chose to protect monetary policy decisionmaking from the possibility of politically motivated 
+reviews. 
+ 
+
+
+ - 5 - 
+
+Transparency and accountability are about more than just opening up the books, 
+
+however; they also require thoughtful explanations of what we are doing and why.  In this 
+
+regard, our first responsibility is to the Congress, which established the Federal Reserve 
+
+almost exactly a century ago and determined its structure, objectives, and powers.  
+
+Federal Reserve Board members, including the Chairman, of course, as well as senior 
+
+staff, testify frequently before congressional committees on a wide range of topics.  
+
+When I became Chairman, I anticipated the obligation to appear regularly before the 
+
+Congress.  I had not entirely anticipated, though, that I would spend so much time 
+
+meeting with legislators outside of hearings--individually and in groups.  But I quickly 
+
+came to realize the importance of these relationships with legislators in keeping open the 
+
+channels of communication.  As part of the Fed’s interaction with the Congress, we have 
+
+also routinely provided staff briefings on request and conducted programs at the Board 
+
+for the benefit of congressional staff interested in Federal Reserve issues.  I likewise 
+
+maintained regular contact with both the Bush and Obama Administrations, principally 
+
+through meetings with the Secretary of the Treasury and other economic officials. 
+
+The crisis and its aftermath, however, raised the need for communication and 
+
+explanation by the Federal Reserve to a new level.  We took extraordinary measures to 
+
+meet extraordinary economic challenges, and we had to explain those measures to earn 
+
+the public’s support and confidence.  Talking only to the Congress and to market 
+
+participants would not have been enough.  The effort to inform the public engaged the 
+
+whole institution, including both Board members and the staff.  As Chairman, I did my 
+
+part, by appearing on television programs, holding town halls, taking student questions at 
+
+universities, and visiting a military base to talk to soldiers and their families.  The Federal 
+
+
+ - 6 - 
+
+Reserve Banks also played key roles in providing public information in their Districts, 
+
+through programs, publications, speeches, and other media.  
+
+The crisis has passed, but I think the Fed’s need to educate and explain will only 
+
+grow.  When Paul Volcker first sat in the Chairman’s office in 1979, there were no 
+
+financial news channels on cable TV, no Bloomberg screens, no blogs, no Twitter.  
+
+Today, news, ideas, and rumors circulate almost instantaneously.  The Fed must continue 
+
+to find ways to navigate this changing environment while providing clear, objective, and 
+
+reliable information to the public. 
+
+Financial Stability  
+
+For the U.S. and global economies, the most important event of the past eight 
+
+years was, of course, the global financial crisis and the deep recession that it triggered.  
+
+As I have observed on other occasions, the crisis bore a strong family resemblance to a 
+
+classic financial panic, except that it took place in the complex environment of the 21st 
+
+century global financial system.5  Likewise, the tools used to fight the panic, though 
+
+adapted to the modern context, were analogous to those that would have been used a 
+
+century ago, including liquidity provision by the central bank, liability guarantees, 
+
+recapitalization, and the provision of assurances and information to the public. 
+
+The immediate trigger of the crisis, as you know, was a sharp decline in house 
+
+prices, which reversed a previous run-up that had been fueled by irresponsible mortgage 
+
+lending and securitization practices.  Policymakers at the time, including myself, 
+
+certainly appreciated that house prices might decline, although we disagreed about how 
+
+much decline was likely; indeed, prices were already moving down when I took office in 
+
+2006.  However, to a significant extent, our expectations about the possible 
+                                                 
+5 For more on the recent financial crisis as a classic financial panic, see Bernanke (2013). 
+
+
+ - 7 - 
+
+macroeconomic effects of house price declines were shaped by the apparent analogy to 
+
+the bursting of the dot-com bubble a few years earlier.  That earlier bust also involved a 
+
+large reduction in paper wealth but was followed by only a mild recession.  In the event, 
+
+of course, the bursting of the housing bubble helped trigger the most severe financial 
+
+crisis since the Great Depression.  It did so because, unlike the earlier decline in equity 
+
+prices, it interacted with critical vulnerabilities in the financial system and in government 
+
+regulation that allowed what were initially moderate aggregate losses to subprime 
+
+mortgage holders to cascade through the financial system.  In the private sector, key 
+
+vulnerabilities included high levels of leverage, excessive dependence on unstable short-
+
+term funding, deficiencies in risk measurement and management, and the use of exotic 
+
+financial instruments that redistributed risk in nontransparent ways.  In the public sector, 
+
+vulnerabilities included gaps in the regulatory structure that allowed some systemically 
+
+important firms and markets to escape comprehensive supervision, failures of supervisors 
+
+to effectively use their existing powers, and insufficient attention to threats to the stability 
+
+of the system as a whole.   
+
+The Federal Reserve responded forcefully to the liquidity pressures during the 
+
+crisis in a manner consistent with the lessons that central banks had learned from 
+
+financial panics over more than 150 years and summarized in the writings of the 19th 
+
+century British journalist Walter Bagehot:  Lend early and freely to solvent institutions.6  
+
+However, the institutional context had changed substantially since Bagehot wrote.  The 
+
+panics of the 19th and early 20th centuries typically involved runs on commercial banks 
+
+and other depository institutions.  Prior to the recent crisis, in contrast, credit extension 
+
+                                                 
+6 As noted in Lombard Street, by Bagehot ([1873] 1897).  For a more extensive discussion of the manner in 
+which the Federal Reserve’s actions during the crisis followed traditional prescriptions regarding the proper 
+response to liquidity strains, see Madigan (2009). 
+
+
+ - 8 - 
+
+had progressively migrated outside of traditional banking to so-called shadow banking 
+
+entities, which relied heavily on short-term wholesale funding that proved vulnerable to 
+
+runs.7  Accordingly, to help calm the panic, the Federal Reserve provided liquidity not 
+
+only to commercial banks, but also to other types of financial institutions such as 
+
+investment banks and money market funds, as well as to key financial markets such as 
+
+those for commercial paper and asset-backed securities.8  Because funding markets are 
+
+global in scope and U.S. borrowers depend importantly on foreign lenders, the Federal 
+
+Reserve also approved currency swap agreements with 14 foreign central banks. 
+
+Providing liquidity represented only the first step in stabilizing the financial 
+
+system.  Subsequent efforts focused on rebuilding the public’s confidence, notably 
+
+including public guarantees of bank debt by the Federal Deposit Insurance Corporation 
+
+and of money market funds by the Treasury Department, as well as the injection of public 
+
+capital into banking institutions.  The bank stress test that the Federal Reserve led in the 
+
+spring of 2009, which included detailed public disclosure of information regarding the 
+
+solvency of our largest banks, further buttressed confidence in the banking system.  The 
+
+success of the stress-test disclosures, by the way, was yet another example of the benefits 
+
+of transparency. 
+
+                                                 
+7 Shadow banking, as usually defined, comprises a diverse set of institutions and markets that, collectively, 
+carry out traditional banking functions--but do so outside, or in ways only loosely linked to, the traditional 
+system of regulated depository institutions.  Examples of important components of the shadow banking 
+system include securitization vehicles, asset-backed commercial paper conduits, money market funds, 
+markets for repurchase agreements, investment banks, and nonbank mortgage companies. 
+8 Liquidity tools employed by the Federal Reserve that were closely tied to the central bank’s traditional 
+role as lender of last resort involved the provision of short-term liquidity to depository and other financial 
+institutions and included the traditional discount window, the Term Auction Facility (TAF), the Primary 
+Dealer Credit Facility (PDCF), and the Term Securities Lending Facility (TSLF).  A second set of tools 
+involved the provision of liquidity directly to borrowers and investors in those credit markets key to 
+households and businesses where the expanding crisis threatened to materially impede the availability of 
+financing.  The Asset-Backed Commercial Paper Money Market Mutual Fund Liquidity Facility (AMLF), 
+the Commercial Paper Funding Facility (CPFF), the Money Market Investor Funding Facility (MMIFF), 
+and the Term Asset-Backed Securities Loan Facility (TALF) fall into this category. 
+
+
+ - 9 - 
+
+The subsequent efforts to reform our regulatory framework have been focused on 
+
+limiting the reemergence of the vulnerabilities that precipitated and exacerbated the 
+
+crisis.  Changes in bank capital regulation under Basel III have significantly increased 
+
+requirements for loss-absorbing capital at global banking firms--including a surcharge for 
+
+systemically important institutions and a ceiling on leverage.  The Federal Reserve’s 
+
+Comprehensive Capital Analysis and Review, or CCAR, process, a descendant of the 
+
+2009 stress test, requires that large financial institutions maintain sufficient capital to 
+
+weather extreme shocks, and that they demonstrate that their internal planning processes 
+
+are effective; in addition, public disclosure of the results facilitates market discipline.  
+
+The Basel III framework also includes liquidity requirements designed to mitigate 
+
+excessive reliance by global banks on short-term wholesale funding and to otherwise 
+
+constrain risks at those banks.  Further steps are under way to toughen the oversight of 
+
+large institutions and to strengthen the financial infrastructure, for example, by requiring 
+
+central clearing with greater transparency for the trading of most standardized 
+
+derivatives. 
+
+ Oversight of the shadow banking system also has been strengthened.  For 
+
+example, the new Financial Stability Oversight Council has designated some nonbank 
+
+firms as systemically important financial institutions, or SIFIs, subject to consolidated 
+
+supervision by the Federal Reserve.  In addition, measures are being undertaken to 
+
+address the potential instability of short-term wholesale funding markets, including 
+
+reforms to money market funds and the triparty repo market.9   
+
+Of course, in a highly integrated global financial system, no country can 
+
+effectively implement the financial reforms I have described in isolation.  The good news 
+                                                 
+9 For a more comprehensive discussion of changes in the regulatory framework, see Tarullo (2013). 
+
+
+ - 10 - 
+
+is that similar reforms are being pursued throughout the world, with the full support of 
+
+the United States and with international bodies such as the Basel Committee and the 
+
+Financial Stability Board providing coordination. 
+
+More broadly, the approach to regulation and supervision at the Federal Reserve 
+
+has evolved to include a substantial macroprudential, or systemic, orientation in addition 
+
+to the traditional focus on individual institutions.  For example, the Federal Reserve 
+
+created the Office of Financial Stability Policy and Research, which coordinates System 
+
+efforts to monitor the interaction of financial institutions, financial markets, and 
+
+economic developments to identify emerging vulnerabilities and systemic risks.10  
+
+Enhanced monitoring of this type is especially important as the changes in regulatory 
+
+structure and financial innovation may lead risks to manifest in new ways or to migrate 
+
+outside the perimeter of the current regulatory structure. 
+
+Much progress has been made, but more remains to be done.  In addition to 
+
+completing the efforts I have already mentioned, including the full implementation of 
+
+new rules and supervisory responsibilities, the agenda still includes further domestic and 
+
+international cooperation to ensure the effectiveness of mechanisms to allow the orderly 
+
+resolution of insolvent institutions and thereby increase market discipline on large 
+
+institutions.11  The evaluation of potential macroprudential tools that might be used to 
+
+address emerging financial imbalances is another high priority.  For example, the new 
+
+Basel III regulatory capital framework includes a countercyclical capital buffer, which 
+
+may help build additional resilience within the financial sector during periods of buoyant 
+
+                                                 
+10 This monitoring framework is discussed in, for example, Adrian, Covitz, and Liang (2013). 
+11 The Dodd-Frank Act, under the orderly liquidation authority in Title II, created an alternative resolution 
+mechanism for SIFIs that takes into account both the need, for moral hazard reasons, to impose costs on the 
+creditors of failing firms and the need to protect financial stability; the Federal Deposit Insurance 
+Corporation, with the cooperation of the Federal Reserve, has been hard at work fleshing out this authority. 
+
+
+ - 11 - 
+
+credit creation.  Staff members are investigating the potential of this and other regulatory 
+
+tools, such as cyclically sensitive loan-to-value requirements for mortgages, to improve 
+
+financial stability.  A number of countries, including both advanced and emerging-market 
+
+economies, have already deployed such measures, and their experiences should be 
+
+instructive.  Although, in principle, monetary policy can be used to address financial 
+
+imbalances, the presumption remains that macroprudential tools, together with well-
+
+focused traditional regulation and supervision, should serve as the first line of defense 
+
+against emerging threats to financial stability.  However, more remains to be done to 
+
+better understand how to design and implement more effective macroprudential tools and 
+
+how these tools interact with monetary policy. 
+
+Monetary Policy  
+
+While liquidity provision and other emergency steps were critical to stemming the 
+
+financial panic, a rapid shift in the stance of monetary policy was necessary to counteract 
+
+the massive economic blow delivered by the crisis.  The FOMC reduced the target federal 
+
+funds rate from 5-1/4 percent in the summer of 2007 to a range of 0 to 1/4 percent by the 
+
+end of 2008, a very rapid easing.  The federal funds rate has been at its effective lower 
+
+bound since then.   
+
+To provide additional monetary policy accommodation despite the constraint 
+
+imposed by the effective lower bound on interest rates, the Federal Reserve turned to two 
+
+alternative tools:  enhanced forward guidance regarding the likely path of the federal 
+
+funds rate and large-scale purchases of longer-term securities for the Federal Reserve’s 
+
+portfolio.  Other major central banks have responded to developments since 2008 in 
+
+roughly similar ways.  For example, the Bank of England and the Bank of Japan have 
+
+
+ - 12 - 
+
+employed detailed forward guidance and conducted large-scale asset purchases, while the 
+
+European Central Bank has moved to reduce the perceived risk of sovereign debt, 
+
+provided banks with substantial liquidity, and offered qualitative guidance regarding the 
+
+future path of interest rates. 
+
+With short-term rates near zero, expanded guidance about intentions for future 
+
+policy has helped to shape market expectations, which in turn has eased financial 
+
+conditions by putting downward pressure on longer-term interest rates and helped support 
+
+economic activity.  Forward guidance about the short-term interest rate supplements the 
+
+broader policy framework I described earlier, by providing information about how the 
+
+Committee expects to achieve its stated policy objectives despite the complications 
+
+created by the zero lower bound on the policy interest rate and uncertainties about the 
+
+costs and efficacy of the available policy tools.  Beginning with qualitative guidance, the 
+
+Committee’s communication about its anticipated future policy has evolved through 
+
+several stages.  In December 2012, the Committee introduced state-contingent guidance, 
+
+announcing for the first time that no increase in the federal funds rate target should be 
+
+anticipated so long as unemployment remained above 6-1/2 percent, inflation between 
+
+one and two years ahead was projected to be no more than a half percentage point above 
+
+the Committee’s 2 percent longer-run goal, and longer-term inflation expectations 
+
+continued to be well anchored.12  My colleagues and I emphasized that the conditions 
+
+stated in that guidance were thresholds, not triggers.  That is, crossing one of the 
+
+thresholds would not automatically give rise to an increase in the federal funds rate 
+
+target; instead, it would signal only that it would be appropriate for the Committee to 
+
+                                                 
+12 See Board of Governors (2012a) for the statement that introduced the state-contingent guidance. 
+
+
+ - 13 - 
+
+begin considering, based on a wider range of indicators, whether and when an increase in 
+
+the target might be warranted. 
+
+Large-scale asset purchases also provide monetary accommodation by lowering 
+
+long-term interest rates.  Working through the portfolio-balance channel, asset purchases 
+
+reduce the supply of long-duration assets in the hands of the public, depressing term 
+
+premiums and thus reducing longer-term yields.  At times, the decision to begin or extend 
+
+an asset-purchase program may also have a signaling effect, to the extent that market 
+
+participants see that decision as indicative of policymakers’ commitment to an 
+
+accommodative policy stance.  However, it is important to recognize that the potential 
+
+signaling aspect of asset purchases depends on the broader economic and policy context.  
+
+In particular, the FOMC’s decision to modestly reduce the pace of asset purchases at its 
+
+December meeting did not indicate any diminution of its commitment to maintain a 
+
+highly accommodative monetary policy for as long as needed; rather, it reflected the 
+
+progress we have made toward our goal of substantial improvement in the labor market 
+
+outlook that we set out when we began the current purchase program in September 2012.  
+
+At its most recent meeting, the Committee reaffirmed and clarified its guidance on rates, 
+
+stating that it expects to maintain the current target range for the federal funds rate well 
+
+past the time that the unemployment threshold of 6-1/2 percent is crossed, especially if 
+
+projected inflation continues to run below the Committee’s 2 percent longer-run goal.13 
+
+Have these unconventional tools been effective?  Skeptics have pointed out that 
+
+the pace of recovery has been disappointingly slow, with inflation-adjusted GDP growth 
+
+averaging only slightly higher than a 2 percent annual rate over the past few years and 
+
+inflation below the Committee’s 2 percent longer-term target.  However, as I will discuss, 
+                                                 
+13 For the most recent FOMC statement, see Board of Governors (2013). 
+
+
+ - 14 - 
+
+the recovery has faced powerful headwinds, suggesting that economic growth might well 
+
+have been considerably weaker, or even negative, without substantial monetary policy 
+
+support.  For the most part, research supports the conclusion that the combination of 
+
+forward guidance and large-scale asset purchases has helped promote the recovery.  For 
+
+example, changes in guidance appear to shift interest rate expectations, and the 
+
+preponderance of studies show that asset purchases push down longer-term interest rates 
+
+and boost asset prices.14  These changes in financial conditions in turn appear to have 
+
+provided material support to the economy.15 
+
+Once the economy improves sufficiently so that unconventional tools are no 
+
+longer needed, the Committee will face issues of policy implementation and, ultimately, 
+
+the design of the policy framework.  Large-scale asset purchases have increased the size 
+
+of our balance sheet and created substantial excess reserves in the banking system.  
+
+Under the operating procedures used prior to the crisis, the presence of large quantities of 
+
+excess reserves likely would have impeded the FOMC’s ability to raise short-term 
+
+nominal interest rates when appropriate.  However, the Federal Reserve now has effective 
+
+tools to normalize the stance of policy when conditions warrant, without reliance on asset 
+
+sales.  The interest rate on excess reserves can be raised, which will put upward pressure 
+
+on short-term rates; in addition, the Federal Reserve will be able to employ other tools, 
+
+such as fixed-rate overnight reverse repurchase agreements, term deposits, or term 
+
+                                                 
+14 There is a substantial recent research literature that has tried to quantify the effects of balance sheet 
+policies on asset pricing. For example, see D’Amico and King (2013) and Krishnamurthy and Vissing-
+Jorgenson (2011).  Research on the effects on mortgage rates includes Hancock and Passmore (2011).  
+Research on the effects on corporate bond yields includes Gilchrist and Zakrajšek (2013) and Kiley (2013); 
+Kiley (forthcoming b) examines the effects on U.S. equity prices.  For a recent study of the effectiveness of 
+forward guidance, see Femia, Friedman, and Sack (2013).  
+15 The range of macroeconomic frameworks used to judge the effects of these policy actions reflects the 
+diversity of views within the profession of how to model the relevant empirical links, for example, Chung 
+and others (2012); Fuhrer and Olivei (2011); Chen, Cúrdia, and Ferrero (2012); and Kiley (forthcoming a). 
+ 
+
+
+ - 15 - 
+
+repurchase agreements, to drain bank reserves and tighten its control over money market 
+
+rates if this proves necessary.  As a result, at the appropriate time, the FOMC will be able 
+
+to return to conducting monetary policy primarily through adjustments in the short-term 
+
+policy rate.  It is possible, however, that some specific aspects of the Federal Reserve’s 
+
+operating framework will change; the Committee will be considering this question in the 
+
+future, taking into account what it learned from its experience with an expanded balance 
+
+sheet and new tools for managing interest rates. 
+
+Economic Prospects 
+
+In the remainder of my remarks, I will reflect on the state of the U.S. economic 
+
+recovery and its prospects. 
+
+The economy has made considerable progress since the recovery officially began 
+
+some four and a half years ago.  Payroll employment has risen by 7-1/2 million jobs from 
+
+its trough.  Real GDP has grown in 16 of 17 quarters, and the level of real GDP in the 
+
+third quarter of 2013 was 5-1/2 percent above its pre-recession peak.  The unemployment 
+
+rate has fallen from 10 percent in the fall of 2009 to 7 percent recently.  Industrial 
+
+production and equipment investment have matched or exceeded pre-recession peaks.  
+
+The banking system has been recapitalized, and the financial system is safer.  When the 
+
+economy was in free fall in late 2008 and early 2009, such improvement was far from 
+
+certain, as indicated at the time by stock prices that were nearly 60 percent below current 
+
+levels and very wide credit spreads.  
+
+Despite this progress, the recovery clearly remains incomplete.  At 7 percent, the 
+
+unemployment rate still is elevated.  The number of long-term unemployed remains 
+
+unusually high, and other measures of labor underutilization, such as the number of 
+
+
+ - 16 - 
+
+people who are working part time for economic reasons, have improved less than the 
+
+unemployment rate.  Labor force participation has continued to decline, and, although 
+
+some of this decline reflects longer-term trends that were in place prior to the crisis, some 
+
+of it likely reflects potential workers’ discouragement about job prospects. 
+
+In retrospect, at least, many of the factors that held back the recovery can be 
+
+identified.  Some of these factors were difficult or impossible to anticipate, such as the 
+
+resurgence in financial volatility associated with the European sovereign debt and 
+
+banking crisis and the economic effects of natural disasters in Japan and elsewhere.  
+
+Other factors were more predictable; in particular, we appreciated early on, though 
+
+perhaps to a lesser extent than we might have, that the boom and bust left severe 
+
+imbalances that would take time to work off.  As Carmen Reinhart and Ken Rogoff noted 
+
+in their prescient research, economic activity following financial crises tends to be 
+
+anemic, especially when the preceding economic expansion was accompanied by rapid 
+
+growth in credit and real estate prices.16  Weak recoveries from financial crises reflect, in 
+
+part, the process of deleveraging and balance sheet repair:  Households pull back on 
+
+spending to recoup lost wealth and reduce debt burdens, while financial institutions 
+
+restrict credit to restore capital ratios and reduce the riskiness of their portfolios.  In 
+
+addition to these financial factors, the weakness of the recovery reflects the overbuilding 
+
+of housing (and, to some extent, commercial real estate) prior to the crisis, together with 
+
+tight mortgage credit; indeed, recent activity in these areas is especially tepid in 
+
+comparison to the rapid gains in construction more typically seen in recoveries. 
+
+Although the Federal Reserve, like other forecasters, has tended to be 
+
+overoptimistic in its forecasts of real GDP during this recovery, we have also, at times, 
+                                                 
+16 For example, see Reinhart and Rogoff (2009).  See also Howard, Martin, and Wilson (2011). 
+
+
+ - 17 - 
+
+been too pessimistic in our forecasts of the unemployment rate.  For example, over the 
+
+past year unemployment has declined notably more quickly than we or other forecasters 
+
+expected, even as GDP growth was moderately lower than expected a year ago.  This 
+
+discrepancy reflects a number of factors, including declines in participation, but an 
+
+important reason is the slow growth of productivity during this recovery; intuitively, 
+
+when productivity gains are limited, firms need more workers even if demand is growing 
+
+slowly.  Disappointing productivity growth accordingly must be added to the list of 
+
+reasons that economic growth has been slower than hoped.17  (Incidentally, the slow pace 
+
+of productivity gains early in the recovery was not evident until well after the fact 
+
+because of large data revisions--an illustration of the frustrations of real-time 
+
+policymaking.)  The reasons for weak productivity growth are not entirely clear:  It may 
+
+be a result of the severity of the financial crisis, for example, if tight credit conditions 
+
+have inhibited innovation, productivity-improving investments, and the formation of new 
+
+firms; or it may simply reflect slow growth in sales, which have led firms to use capital 
+
+and labor less intensively, or even mismeasurement.  Notably, productivity growth has 
+
+also flagged in a number of foreign economies that were hard-hit by the financial crisis.  
+
+Yet another possibility is weak productivity growth reflects longer-term trends largely 
+
+unrelated to the recession.  Obviously, the resolution of the productivity puzzle will be 
+
+important in shaping our expectations for longer-term growth. 
+
+To this list of reasons for the slow recovery--the effects of the financial crisis, 
+
+problems in the housing and mortgage markets, weaker-than-expected productivity 
+
+growth, and events in Europe and elsewhere--I would add one more significant factor--
+
+                                                 
+17 For a review of some of this recent literature, see Reifschneider, Wascher, and Wilcox (2013).  Other 
+recent research on potential growth includes De Michelis, Estevão, and Wilson (2013) and Haltmaier 
+(2012). 
+
+
+ - 18 - 
+
+namely, fiscal policy.  Federal fiscal policy was expansionary in 2009 and 2010.18  Since 
+
+that time, however, federal fiscal policy has turned quite restrictive; according to the 
+
+Congressional Budget Office, tax increases and spending cuts likely lowered output 
+
+growth in 2013 by as much as 1-1/2 percentage points.  In addition, throughout much of 
+
+the recovery, state and local government budgets have been highly contractionary, 
+
+reflecting their adjustment to sharply declining tax revenues.  To illustrate the extent of 
+
+fiscal tightness, at the current point in the recovery from the 2001 recession, employment 
+
+at all levels of government had increased by nearly 600,000 workers; in contrast, in the 
+
+current recovery, government employment has declined by more than 700,000 jobs, a net 
+
+difference of more than 1.3 million jobs.  There have been corresponding cuts in 
+
+government investment, in infrastructure for example, as well as increases in taxes and 
+
+reductions in transfers. 
+
+Although long-term fiscal sustainability is a critical objective, excessively tight 
+
+near-term fiscal policies have likely been counterproductive.  Most importantly, with 
+
+fiscal and monetary policy working in opposite directions, the recovery is weaker than it 
+
+otherwise would be.  But the current policy mix is particularly problematic when interest 
+
+rates are very low, as is the case today.  Monetary policy has less room to maneuver 
+
+when interest rates are close to zero, while expansionary fiscal policy is likely both more 
+
+effective and less costly in terms of increased debt burden when interest rates are pinned 
+
+at low levels.  A more balanced policy mix might also avoid some of the costs of very 
+
+low interest rates, such as potential risks to financial stability, without sacrificing jobs 
+
+and growth. 
+
+                                                 
+18 For analysis of fiscal effects, see Congressional Budget Office (2013). 
+
+
+ - 19 - 
+
+I have discussed the factors that have held back the recovery, not only to better 
+
+understand the recent past but also to think about the economy’s prospects.  The 
+
+encouraging news is that the headwinds I have mentioned may now be abating.  Near-
+
+term fiscal policy at the federal level remains restrictive, but the degree of restraint on 
+
+economic growth seems likely to lessen somewhat in 2014 and even more so in 2015; 
+
+meanwhile, the budgetary situations of state and local governments have improved, 
+
+reducing the need for further sharp cuts.  The aftereffects of the housing bust also appear 
+
+to have waned.  For example, notwithstanding the effects of somewhat higher mortgage 
+
+rates, house prices have rebounded, with one consequence being that the number of 
+
+homeowners with “underwater” mortgages has dropped significantly, as have 
+
+foreclosures and mortgage delinquencies.  Household balance sheets have strengthened 
+
+considerably, with wealth and income rising and the household debt-service burden at its 
+
+lowest level in decades.  Partly as a result of households’ improved finances, lending 
+
+standards to households are showing signs of easing, though potential mortgage 
+
+borrowers still face impediments.  Businesses, especially larger ones, are also in good 
+
+financial shape.  The combination of financial healing, greater balance in the housing 
+
+market, less fiscal restraint, and, of course, continued monetary policy accommodation 
+
+bodes well for U.S. economic growth in coming quarters.  But, of course, if the 
+
+experience of the past few years teaches us anything, it is that we should be cautious in 
+
+our forecasts. 
+
+What about the rest of the world?  The U.S. recovery appears to be somewhat 
+
+ahead of those of most other advanced industrial economies; for example, real GDP is 
+
+still slightly below its pre-recession peak in Japan and remains 2 percent and 3 percent 
+
+
+ - 20 - 
+
+below pre-recession peaks in the United Kingdom and the euro area, respectively.  
+
+Nevertheless, I see some grounds for cautious optimism abroad as well.  As in the United 
+
+States, central banks in other advanced economies have taken significant steps to 
+
+strengthen financial systems and to provide policy accommodation.  Financial-sector 
+
+reform is proceeding, and the contractionary effects of tight fiscal policies are waning.  
+
+Although difficult reforms--such as banking and fiscal reform in Europe and structural 
+
+reform in Japan--are still in early stages, we have also seen indications of better growth in 
+
+the advanced economies, which should have positive implications for the United States.  
+
+Emerging market economies have also grown somewhat more quickly lately after a 
+
+slowing in the first half of 2013.  Although growth prospects for the emerging markets 
+
+continue to be good, here too the extent and effectiveness of structural reforms, like those 
+
+currently under way in China and Mexico, will be critical factors. 
+
+Conclusion 
+
+Last month we had a ceremony at the Board to commemorate the centennial of 
+
+the signing of the Federal Reserve Act by President Woodrow Wilson.  Over its 
+
+100 years of existence, the Fed has faced numerous economic and financial challenges.  
+
+Certainly the past few years will rank among some of the more difficult for the U.S. 
+
+economy and for the Fed.  The experience has led to important changes at our institution, 
+
+including new monetary policy tools, enhanced policy communication, a substantial 
+
+increase in the institutional focus on financial stability and macroprudential policy, and 
+
+increased transparency. 
+
+We often speak of the Federal Reserve or other institutions as if they were 
+
+autonomous actors.  Of course, they are not.  The Fed is made up of people, working 
+
+
+ - 21 - 
+
+within an organizational structure and with an institutional culture and set of values.  I am 
+
+very proud of my colleagues at the Fed for the hard work and creativity they have 
+
+brought to bear in addressing the financial and economic crisis, and I think we and they 
+
+have been well served by a culture that emphasizes objective, expert analysis; 
+
+professionalism; dedication; and independence from political influence.  Whatever the 
+
+Fed may have achieved in recent years reflects the efforts of many people who are 
+
+committed, individually and collectively, to pursuing the public interest.  Although the 
+
+Fed undoubtedly will face some difficult challenges in the years ahead, our people and 
+
+our values make me confident that our institution will meet those challenges successfully. 
+
+
+
+
+ - 22 - 
+
+References 
+
+Adrian, Tobias, Daniel Covitz, and Nellie Liang (2013).  “Financial Stability 
+Monitoring,” Finance and Economics Discussion Series 2013-21.  Washington:  
+Board of Governors of the Federal Reserve System, October, available at 
+www.federalreserve.gov/pubs/feds/2013/index.html. 
+
+ 
+Bagehot, Walter ([1873] 1897).  Lombard Street:  A Description of the Money Market.  
+
+New York:  Charles Scribner’s Sons. 
+ 
+Bernanke, Ben S. (2013).  “The Crisis as a Classic Financial Panic,” speech delivered at 
+
+the Fourteenth Jacques Polak Annual Research Conference sponsored by the 
+International Monetary Fund, Washington, November 8, 
+www.federalreserve.gov/newsevents/speech/bernanke20131108a.htm. 
+
+ 
+Board of Governors of the Federal Reserve System (2007a).  “FOMC Announces It Will 
+
+Increase the Frequency and Expand the Content of Economic Projections 
+Released to the Public,” press release, November 14, 
+www.federalreserve.gov/newsevents/press/monetary/20071114a.htm. 
+
+ 
+------ (2007b).  “Minutes of Federal Open Market Committee, October 30-31, 2007,” 
+
+press release, November 20, 
+www.federalreserve.gov/newsevents/press/monetary/20071120a.htm. 
+
+ 
+------ (2012a).  “Federal Reserve Issues FOMC Statement,” press release, December 12, 
+
+www.federalreserve.gov/newsevents/press/monetary/20121212a.htm. 
+ 
+------ (2012b).  “Federal Reserve Issues FOMC Statement of Longer-Run Goals and 
+
+Policy Strategy,” press release, January 25, 
+www.federalreserve.gov/newsevents/press/monetary/20120125c.htm. 
+
+ 
+------ (2013).  “Federal Reserve Issues FOMC Statement,” press release, December 18, 
+
+www.federalreserve.gov/newsevents/press/monetary/20131218a.htm. 
+ 
+Chen, Han, Vasco Cúrdia, and Andrea Ferrero (2011).  “The Macroeconomic Effects of 
+
+Large-Scale Asset Purchase Programs,” Federal Reserve Bank of New York Staff 
+Reports 527.  New York:  Federal Reserve Bank of New York, December, 
+available at www.newyorkfed.org/research/staff_reports/2011.html. 
+
+ 
+Chung, Hess, Jean-Philippe Laforte, David Reifschneider, and John C. Williams (2012).  
+
+“Have We Underestimated the Likelihood and Severity of Zero Lower Bound 
+Events?” Journal of Money, Credit and Banking, vol. 44 (February supplement), 
+pp. 47-82.  
+
+ 
+Congressional Budget Office (2013).  Estimated Impact of the American Recovery and 
+
+Reinvestment Act on Employment and Economic Output from October 2012 
+
+
+ - 23 - 
+
+Through December 2012.  Washington:  CBO, February, available at 
+www.cbo.gov/publication/43945. 
+
+ 
+D’Amico, Stefania, and Thomas B. King (2013).  “Flow and Stock Effects of Large-
+
+Scale Treasury Purchases:  Evidence on the Importance of Local Supply,” Journal 
+of Financial Economics, vol. 108 (May), pp. 425-48. 
+
+ 
+De Michelis, Andrea, Marcello Estevão, and Beth Anne Wilson (2013).  “Productivity or 
+
+Employment:  Is It a Choice?” Centre for the Study of Living Standards, 
+International Productivity Monitor, vol. 25 (Spring), pp. 41-60. 
+
+ 
+Femia, Katherine, Steven Friedman, and Brian Sack (2013).  “The Effects of Policy 
+
+Guidance on Perceptions of the Fed’s Reaction Function,” Federal Reserve Bank 
+of New York Staff Report 652. 
+
+ 
+Fuhrer, Jeffrey C., and Giovanni P. Olivei (2011).  “The Estimated Macroeconomic 
+
+Effects of the Federal Reserve’s Large-Scale Treasury Purchase Program,” Public 
+Policy Brief 11-2.  Boston:  Federal Reserve Bank of Boston, April, available at 
+www.bostonfed.org/economic/ppb/2011/ppb112.htm.  
+
+ 
+Gilchrist, Simon, and Egon Zakrajšek (2013).  “The Impact of the Federal Reserve’s 
+
+Large-Scale Asset Purchase Programs on Corporate Credit Risk,” Finance and 
+Economics Discussion Series 2013-56.  Washington:  Board of Governors of the 
+Federal Reserve System, August, available at 
+www.federalreserve.gov/pubs/feds/2013/index.html.   
+
+ 
+Haltmaier, Jane (2012).  “Do Recessions Affect Potential Output?” International Finance 
+
+Discussion Paper 2012-1066.  Washington:  Board of Governors of the Federal 
+Reserve System, December, available at 
+www.federalreserve.gov/pubs/ifdp/2012/1066/default.htm. 
+
+ 
+Hancock, Diana, and Wayne Passmore (2011).  “Did the Federal Reserve’s MBS 
+
+Purchase Program Lower Mortgage Rates?”  Journal of Monetary Economics, 
+vol. 58 (July), pp. 498-514. 
+
+ 
+Howard, Greg, Robert Martin, and Beth Anne Wilson (2011).  “Are Recoveries from 
+
+Banking and Financial Crises Really So Different?” International Finance 
+Discussion Papers 2011-1037.  Washington:  Board of Governors of the Federal 
+Reserve System, November, available at 
+www.federalreserve.gov/pubs/ifdp/2011/1037/default.htm. 
+
+ 
+Kiley, Michael T. (2013).  “Monetary Policy Statements, Treasury Yields, and Private 
+
+Yields:  Before and after the Zero Lower Bound,” Finance and Economics 
+Discussion Series 2013-16.  Washington:  Board of Governors of the Federal 
+Reserve System, January, available at 
+www.federalreserve.gov/pubs/feds/2013/index.html.  
+
+
+ - 24 - 
+
+ 
+------ (forthcoming a).  “The Aggregate Demand Effects of Short- and Long-Term 
+
+Interest Rates,” International Journal of Central Banking. 
+ 
+------ (forthcoming b).  “The Response of Equity Prices to Movements in Long-Term 
+
+Interest Rates Associated with Monetary Policy Statements:  Before and after the 
+Zero Lower Bound,” Journal of Money, Credit and Banking. 
+
+ 
+Krishnamurthy, Arvind, and Annette Vissing-Jorgensen (2011).  “The Effects of 
+
+Quantitative Easing on Interest Rates:  Channels and Implications for Policy,” 
+Brookings Papers on Economic Activity, Fall, available at 
+www.brookings.edu/about/projects/bpea/papers/2011/effects-quantitative-easing-
+interest-rates-krishnamurthy.  
+
+ 
+Madigan, Brian F. (2009).  “Bagehot’s Dictum in Practice:  Formulating and 
+
+Implementing Policies to Combat the Financial Crisis,” speech delivered at 
+“Financial Stability and Macroeconomic Policy,” a symposium sponsored by the 
+Federal Reserve Bank of Kansas City, held in Jackson Hole, Wyo., August 20-22, 
+www.federalreserve.gov/newsevents/speech/madigan20090821a.htm. 
+
+ 
+Reifschneider, Dave, William Wascher, and David Wilcox (2013).  “Aggregate Supply in 
+
+the United States:  Recent Developments and Implications for the Conduct of 
+Monetary Policy,” Finance and Economics Discussion Series 2013-77.  
+Washington:  Board of Governors of the Federal Reserve System, November, 
+available at www.federalreserve.gov/pubs/feds/2013/index.html.  
+
+ 
+Reinhart, Carmen M., and Kenneth S. Rogoff (2009).  “The Aftermath of Financial 
+
+Crises,” NBER Working Paper Series 14656.  Cambridge, Mass.:  National 
+Bureau of Economic Research, January, available at 
+www.nber.org/papers/w14656. 
+
+ 
+Tarullo, Daniel K. (2013).  “Evaluating Progress in Regulatory Reforms to Promote 
+
+Financial Stability,” speech delivered at the Peterson Institute for International 
+Economics, Washington, May 3, 
+www.federalreserve.gov/newsevents/speech/tarullo20130503a.htm. 
+
+
+

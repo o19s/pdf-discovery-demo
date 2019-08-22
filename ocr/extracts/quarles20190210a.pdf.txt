@@ -1,0 +1,431 @@
+
+
+For release on delivery 
+6:00 a.m. EST (7:00 p.m. HKT) 
+February 10, 2019 
+
+
+Ideas of Order: 
+Charting a Course for the Financial Stability Board 
+
+
+
+Remarks by 
+ 
+
+Randal K. Quarles 
+
+Vice Chairman for Supervision 
+
+Board of Governors of the Federal Reserve System 
+ 
+
+Chair 
+ 
+
+Financial Stability Board 
+ 
+
+at 
+ 
+
+Bank for International Settlements  
+Special Governors Meeting 
+
+ 
+Hong Kong 
+
+
+February 10, 2019 
+ 
+
+
+
+Let me begin by thanking the Bank for International Settlements and Agustín Carstens 
+
+for the invitation to join you today.  In considering venues for my inaugural speech as chair of 
+
+the Financial Stability Board (FSB), I found this particular opportunity quite fitting.  It is an 
+
+honor to be here, in Hong Kong, with colleagues from around the world, representing central 
+
+banks who are committed to advancing financial stability not only in their home countries but 
+
+also globally. 
+
+I would like to discuss with you tonight my view of how the work of the FSB must 
+
+evolve, and some key principles that I think should inform that work.  My predecessor, Bank of 
+
+England Governor Mark Carney, guided the FSB for the last seven years along a path that was 
+
+formidably challenging.  The Global Financial Crisis had exposed fault lines in the financial 
+
+system that had to be addressed immediately, comprehensively, and vigorously.  The body of 
+
+post-crisis regulation that has resulted, though it involved the energy and efforts of a 
+
+kaleidoscopically varied host of standard setters, regulators, and central banks--including all the 
+
+institutions in this room--was nonetheless accomplished under the aegis and at the instigation of 
+
+the FSB.  It was a tour de force of orchestration, and it has unquestionably made the financial 
+
+system safer and more resilient. 
+
+Today, however, the post-crisis reform agenda has been largely completed.  Basel III is 
+
+final, the largest global banks have substantially more capital and liquidity, over-the-counter 
+
+derivatives markets are safer, and steps have been taken to address the risks of too-big-to-to fail 
+
+institutions.  Through greater monitoring and policy measures, the FSB is addressing risks from 
+
+non-bank financial intermediation.  And there has been remarkable progress on the difficult and 
+
+unsung task of establishing workable resolution regimes that are consistent with the FSB’s 
+
+clearly defined principles.  
+
+
+- 2 - 
+ 
+
+Yes, we all have work to do to ensure full, timely, and consitent implementation of the 
+
+agreed reforms, and, yes, we will do that work, but, it is time for the FSB to turn more of its 
+
+energy and attention to the future.  Tonight I would like to outline a few core principles that 
+
+should guide this pivot forward.  First, engagement:  to maintain the legitimacy of our work, to 
+
+increase understanding of it, and to enhance its effectiveness, we must improve our outreach and 
+
+transparency--including to our membership, other global authorities, the public, and key 
+
+stakeholders.  Second, rigor:  as we devote more attention to evaluation of new and evolving 
+
+risks in the financial sector, we must ensure that our assessment of vulnerabilities is based on 
+
+cutting-edge thinking and a disciplined methodology.  And third, analysis:  regulation has 
+
+evolved rapidly in the last decade, and--if we are doing our jobs right--will continue to evolve 
+
+with rapid developments in the financial sector.  An important part of our work must be 
+
+continual, critical analysis of the effects of regulaton with an eye to making useful improvements 
+
+where possible. 
+
+Engagement:  Outreach and Transparency 
+
+Let me begin with the principle of engagement, and let me lay the groundwork for this 
+
+discussion by reviewing the way the FSB was established and its mandate, to see how we can 
+
+continue to fulfill that mandate going forward.  As we all know, the FSB was born out of the 
+
+crucible of the 2007-09 Global Financial Crisis--a crisis that demonstrated in the starkest 
+
+possible way the importance of global financial stability to the well-being of families and 
+
+businesses around the world.  In the months following the peak of the crisis, the world was 
+
+struggling with financial market turmoil, and the resultant macroeconomic effects were felt by 
+
+people everywhere around the world.  It was clear that the response to this crisis needed to be 
+
+global, and the G7 and G10, without any emerging market representation, were not the right 
+
+
+- 3 - 
+ 
+
+bodies to organize a global response.  As such, the Heads of State and Government of the G20 
+
+called for the Financial Stability Forum (FSF), a relatively small and unmuscular group, to 
+
+expand its membership and to strengthen its institutional framework.  The result was the 
+
+Financial Stability Board, which was designed as a mechanism for national authorities, global 
+
+standards-setting bodies, and international authorities to identify and address vulnerabilities in 
+
+the global financial system and to develop stronger regulatory and supervisory policies to create 
+
+a more resilient global financial system.  This new group is more representative of the 
+
+interconnected global economy and financial system and can more effectively mobilize to 
+
+promote global financial stability than anything that existed before.  Whereas the FSF included 
+
+only 11 jurisdictions (all of which were advanced economies), the FSB includes 24 jurisdictions 
+
+and 73 representatives, which include all the members of the G20 and of which 10 are emerging 
+
+market economies. 
+
+In fostering global financial stability, the actions of the FSB have the potential to affect 
+
+the global economy and financial system in important ways.  Success in promoting global 
+
+financial stability should benefit everybody, through more sustainable and stronger economic 
+
+growth.  At the same time, financial stability policy will also affect institutions and markets 
+
+beyond the FSB’s membership.  Recognizing the wide-reaching effects of its work, the FSB 
+
+must seek input from a broad range of stakeholders, each of whom brings a different perspective 
+
+to the issues under consideration.  While we are directly accountable to the G20, we are, through 
+
+the G20, accountable to all of the people affected by our actions.  In my view, that means we 
+
+must engage in genuine, substantial dialogue with all of these stakeholders, to a greater and more 
+
+effective degree than we have in the past. 
+
+
+- 4 - 
+ 
+
+Let me take an example that may be of particular relevance to many of you here tonight:  
+
+our Regional Consultative Groups or RCGs.  These are six groups around the globe--the 
+
+Americas, Europe, the Middle East and North Africa, Sub-Saharan Africa, the Commonwealth of 
+
+Independent States, and Asia--that bring together FSB members with about 70 additional 
+
+jurisdictions.  These groups help the FSB get broader input into its policy development and 
+
+improve our outreach efforts.  Each RCG meets once or twice a year to discuss policy 
+
+development, regional and global financial vulnerabilities, and other current topics of particular 
+
+interest to the respective region.  For instance, topics discussed at the last meeting in Asia 
+
+included capital flow volatility, cyber resilience of financial institutions, and fintech.  
+
+These RCGs are great in concept, but they have struggled in practice.  We have already 
+
+begun a study to look back at how the RCGs have operated since their creation in 2011, how 
+
+they interact with the FSB, and what best practices have been learned.  Even while that study is 
+
+underway, I am committed to improving our mechanisms for reaching out to countries outside 
+
+the FSB for genuine learning about the effects of FSB actions.  I plan to attend a number of RCG 
+
+meetings each year because of the importance I place on making sure these groups are truly 
+
+useful tools, and we will improve these vital conduits of two-way information in order to 
+
+improve our effectiveness and our transparency. 
+
+While the RCGs may be of particular interest to some here tonight, they are just the tip of 
+
+the iceberg for what we have to do to improve our engagement and outreach.  Because the FSB’s 
+
+authority is ultimately derived from the people and from the political power given to authorities 
+
+in their countries, we have a responsibility to seek input from and to provide information about 
+
+our deliberations and actions to the broader public.  To that end, for the first time in the FSB’s 
+
+
+- 5 - 
+ 
+
+history, we will shortly publish our work program to the public to provide people with a full 
+
+picture of the issues we are investigating over the coming year. 
+
+Finally, there are the businesses, institutions, and market participants that are directly 
+
+affected by the policy recommendations of the FSB.  We currently engage with those entities to 
+
+gather information as we consider recommendations to the G20.  For example, we have in the 
+
+past conducted public consultations on FSB policy recommendations--but often on a very short 
+
+timetable, which limits the ability for true exchange.  We have now established an expectation 
+
+that the public consultation period will be at least 60 days.  The key point is that when it comes 
+
+to outreach to inform our work and transparency in the communication of it, we must do more, 
+
+and more eagerly. 
+
+This discussion of engagement, outreach and transparency may seem like an odd place to 
+
+begin a “vision” speech, but I think it is foundational.  The FSB must maintain its legitimacy in 
+
+order to be effective, and to do that we have to work hard to hear from all relevant parties when 
+
+deliberating.  What’s more, we have to do so publicly and methodically.  Everyone around the 
+
+world should understand that we only make recommendations once we have gathered and 
+
+considered all points of view.  Process is important, and good process leads to good substance. 
+
+Assessing Financial Stability 
+
+With that said, let me turn to the core piece of the FSB’s mission--assessing and 
+
+mitigating vulnerabilities, especially in the nonbank sector.  The FSB’s work has a natural flow.  
+
+We strive to identify vulnerabilities in the financial system that could threaten financial stability 
+
+when a shock hits.  When a vulnerability has been identified, we examine possible policy 
+
+responses.  If a policy is recommended to the G20 and adopted, we then monitor the 
+
+
+- 6 - 
+ 
+
+implementation of that recommendation globally.  Finally, when enough time has passed for the 
+
+enacted policies to have had measurable effects, we study those effects. 
+
+For much of the post-crisis period, our focus was on developing policy recommendations 
+
+to address vulnerabilities made apparent by the crisis.  Now, however, with nearly all of the post-
+
+crisis reform agenda complete, the FSB needs to put more of our resources into identifying new 
+
+vulnerabilities in a financial sector that continues to evolve and to studying the effects of the 
+
+many reforms that have been enacted.  Let me start by discussing vulnerability assessment. 
+
+The reforms that have been implemented over the past decade have changed the financial 
+
+system for the better.  However, that does not mean we are immune from future financial crises.  
+
+It means that we have boosted the financial system’s resilience to some of the types of shocks 
+
+and vulnerabilities that precipitated the crisis.  To be sure, some of these measures, like higher 
+
+bank capital and liquidity requirements, after effective against a wide range of shocks.  However, 
+
+we cannot be complacent and assume that we are safe from all shocks.  As a result, the FSB has 
+
+decided to undertake a review of its framework for assessing vulnerabilities to ensure that we are 
+
+at the cutting edge of financial stability vulnerability assessment. 
+
+This work will be undertaken by our committee charged with assessing vulnerabilities 
+
+under the leadership of FSB Vice Chair Klaas Knot of the Dutch National Bank (De 
+
+Nederlandsche Bank).  This should be a framework that starts from first principles and benefits 
+
+from substantial dialogue with nonbanks as well as banks, regulators, and other relevant official 
+
+bodies.  There is a lot that we can draw on.  The crisis led to an explosion of work in this area 
+
+aimed at improving the ability of authorities to identify financial vulnerabilities in order to be 
+
+able to take appropriate action in a timely fashion.  I trust that the framework will harness the 
+
+strength of the broad and diverse membership of the FSB, that it will be forward looking, and 
+
+
+- 7 - 
+ 
+
+that it will be flexible enough to handle a financial system that will continue to evolve over time.  
+
+This will not be easy--developments like the emergence of crypto-assets may challenge any 
+
+framework--but that makes the goal of a robust framework all the more important.  
+
+Evaluating the Effects of Reform 
+
+Finally, let me turn to the FSB’s evaluation of the effects of reforms that have been 
+
+implemented.  In the past few years, we have reached a point where many of the reforms have 
+
+been in place for long enough to have effects that we can measure and analyze.  For those 
+
+reforms, we need to ask several key questions.  First, to what extent are those reforms having the 
+
+intended effects and building a more resilient financial system?  Second, have those reforms had 
+
+any unintended, adverse effects that we can address?  These first two questions are, perhaps, 
+
+apparent.  We should also ask a third question, however, that is equally important:  can we 
+
+achieve a strong level of financial resilience with reforms that are more efficient, simple, 
+
+transparent, and tailored?  If so, we owe it to everyone affected by the policies recommended by 
+
+the FSB to try, because there is a strong public interest in the efficiency of the financial sector, 
+
+just as there is in its safety and soundness.  If reforms are unnecessarily burdensome and we can 
+
+achieve strong resiliency more efficiently and simply, we should be able to boost sustainable 
+
+financial and economic activity, thus benefitting everyone.  
+
+Evaluating reforms in light of these questions requires rigor--in terms of the selection of 
+
+evaluation topics, the choice of analytical methods, the assessment of effects, and the 
+
+development of policy conclusions.  This rigor is critical for the quality and credibility of the 
+
+evaluation work.  For this reason, the FSB developed a clear Evaluation Framework, under 
+
+which the evaluations are based, as much as possible, on quantitative data to measure the costs 
+
+and benefits of reforms.  Equally critical to a successful review is a truly open mindset with 
+
+
+- 8 - 
+ 
+
+which to evaluate the relevant data.  One public measure of whether we are doing this review 
+
+process well will be whether we recommend any improvements or revisions on the basis of it.  In 
+
+any system as complex and consequential as the body of post-crisis financial regulations, there 
+
+will always be aspects--and sometimes material aspects--that can be improved on the basis of 
+
+experience and analysis.  A credible review process that is both rigorous and dispassionate will 
+
+find a few. 
+
+Last year, the FSB completed the first two evaluations under its framework, of the effects 
+
+of reform on infrastructure fin ance and the clearing of derivative contracts.  We are currently 
+
+engaged in work examining the effects of reforms on the financing of small and medium 
+
+enterprises, which are the lifeblood of many of the world’s economies.  We will consult publicly 
+
+on the findings of this evaluation in June, ahead of the G20 Summit in Osaka.  And we are in the 
+
+process of launching an important study on the effects of reforms aimed at ending too big to fail. 
+
+This evaluation is being led by Claudia Buch, vice president of the Deutsche Bundesbank.  
+
+Conclusion 
+
+ This is an important time for the FSB.  We are nearing completion of the post-crisis 
+
+reform agenda, a major accomplishment.  With that comes the opportunity to turn our focus to 
+
+ways in which we can improve the FSB and prepare it for the next phase of its existence.  We 
+
+will work diligently to enhance our transparency and to expand our efforts to reach out to as 
+
+many stakeholders as possible.  We will prepare for the next crisis by making sure that our 
+
+framework to assess vulnerabilities to financial stability is state of the art and remains so going 
+
+forward.  And, we will work hard to maintain the important reforms in place, ensure they are 
+
+working as intended, and, where possible, improve them. 
+

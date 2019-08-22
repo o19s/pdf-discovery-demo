@@ -1,0 +1,1574 @@
+
+2008–2009
+
+Government Performance and Results Act
+
+Biennial Performance Report
+
+Board of Governors of the Federal Reserve System
+
+
+Contents
+
+INTRODUCTION ............................................................................................................................... 1
+About This Biennial Performance Report ............................................................................. 1
+Overview of the Federal Reserve System ............................................................................... 1
+System Role in the Government ............................................................................................ 2
+Structure of the System ......................................................................................................... 2
+Board of Governors ................................................................................................................ 2
+
+MISSION, VALUES, AND GOALS OF THE BOARD OF GOVERNORS ................................................... 3
+Mission ...................................................................................................................................... 3
+Values ........................................................................................................................................ 3
+Goals ......................................................................................................................................... 3
+Role of Strategic Planning ....................................................................................................... 3
+
+MONETARY POLICY FUNCTION ..................................................................................................... 4
+Goal ........................................................................................................................................... 4
+Objectives .................................................................................................................................. 4
+Performance Measures ............................................................................................................ 4
+Resources .................................................................................................................................. 4
+
+SUPERVISION AND REGULATION FUNCTION .................................................................................. 5
+Goals ......................................................................................................................................... 5
+Objectives .................................................................................................................................. 5
+Performance Measures ............................................................................................................ 5
+Resources .................................................................................................................................. 5
+
+PAYMENT SYSTEM POLICY AND OVERSIGHT FUNCTION .............................................................. 8
+Goals ......................................................................................................................................... 8
+Objectives .................................................................................................................................. 8
+Performance Measures ............................................................................................................ 8
+Resources .................................................................................................................................. 8
+
+INTERNAL BOARD SUPPORT .......................................................................................................... 9
+Goal ........................................................................................................................................... 9
+Objectives .................................................................................................................................. 9
+Performance Measures ............................................................................................................ 9
+Resources .................................................................................................................................. 9
+
+i
+
+
+Government Performance and Results Act
+Biennial Performance Report
+2008–2009
+
+INTRODUCTION
+
+About This Biennial Performance Report
+
+The Government Performance and Results Act
+
+(GPRA) of 1993 requires that federal agencies, in con-
+
+sultation with the Congress and outside stakeholders,
+
+prepare a strategic plan covering a multiyear period
+
+and submit an annual performance plan and perfor-
+
+mance report. Although the Board of Governors of the
+
+Federal Reserve System (Board) is not covered by
+
+GPRA, the Board of Governors voluntarily complies
+
+with the spirit of GPRA and, like federal agencies, pre-
+
+pares these regular plans and reports.
+
+Consistent with the requirements of GPRA, this Per-
+
+formance Report is based on two earlier Board docu-
+
+ments covering the same period—the Government Per-
+
+formance and Results Act Strategic Planning Document,
+
+2008–2011 and the Government Performance and
+
+Results Act Biennial Performance Plan, 2008–2009,
+
+both published in 2008.1 This report covers two years
+
+rather than just one because the Board operates under
+
+a biennial budget.
+
+Like the Biennial Performance Plan 2008–2009, this
+
+report focuses on four areas: the Board’s monetary
+
+policy function, its bank supervision and regulation
+
+function, its operations in overseeing Federal Reserve
+
+System (the System) activities, and its management
+
+activities to improve e�ectiveness and e�ciency.
+
+Although a discussion of the Federal Reserve System
+
+and its structure is provided below to help explain the
+
+performance measures used by the Board, this perfor-
+
+mance report focuses solely on Board operations.
+
+As required by GPRA, this report is issued indepen-
+
+dently of other Board documents submitted to the
+
+Congress. However, considering the report in conjunc-
+
+tion with other Board documents gives a more detailed
+
+understanding of Board planning, budgeting, opera-
+
+tions, and performance. As required by the Federal
+
+Reserve Act, the Board annually submits a report to the
+
+Congress describing in detail the operations of the Sys-
+
+tem for the previous year. Since 1985, the Board has
+
+also provided the Congress with a supplement, the
+
+Annual Report: Budget Review, which describes in
+
+detail the plans and resources discussed in the approved
+
+budgets of the Board and the Reserve Banks. The most
+
+recent versions of these two documents were provided
+
+to the Congress in 2010.2
+
+Overview of the Federal Reserve System
+
+The Federal Reserve System is the central bank of the
+
+United States, established by the Congress to provide
+
+the nation with a safer, more �exible, and more stable
+
+monetary and �nancial system. Over the years, its role
+
+in banking and the economy has expanded, and today
+
+the Federal Reserve’s duties fall into �ve general areas:
+
+1. conducting the nation’s monetary policy by in�u-
+
+encing money and credit conditions in the economy
+
+in pursuit of maximum employment and stable
+
+prices
+
+2. supervising and regulating banking institutions to
+
+ensure the safety and soundness of the nation’s
+
+banking system, maintaining the stability of the
+
+�nancial system, and containing systemic risk that
+
+may arise in �nancial markets
+
+3. protecting the credit rights of consumers and
+
+encouraging banks to meet the credit needs of con-
+
+sumers, including those in low- and moderate-
+
+income neighborhoods
+
+4. playing a major role in operating the nation’s pay-
+
+ment systems
+
+1. These documents are available on the Board’s website, respec-
+tively, at www.federalreserve.gov/boarddocs/RptCongress/gpra/
+gpra2008-2011.pdf and www.federalreserve.gov/BoardDocs/
+RptCongress/gpra/gpra2008-2009biennial.pdf.
+
+2. Refer to the Board’s 96th Annual Report, 2009 at www
+.federalreserve.gov/boarddocs/rptcongress/annual09/default.htm and
+the Annual Report: Budget Review for 2010 at www.federalreserve.gov
+/boarddocs/rptcongress/budgetrev/br10.pdf.
+
+1
+
+
+5. providing certain �nancial services to the U.S. gov-
+
+ernment, the public, �nancial institutions, and for-
+
+eign o�cial institutions
+
+The System was created by passage of the Federal
+
+Reserve Act (the act), which President Woodrow Wil-
+
+son signed into law on December 23, 1913. The act
+
+stated that the System was created “to provide for the
+
+establishment of Federal reserve banks, to furnish an
+
+elastic currency, to a�ord means of rediscounting com-
+
+mercial paper, to establish a more e�ective supervision
+
+of banking in the United States, and for other pur-
+
+poses.”
+
+Soon after the creation of the Federal Reserve, it
+
+became clear that the act had broader implications for
+
+national economic and �nancial policy. As time has
+
+passed, further legislation has clari�ed and supple-
+
+mented the System’s original purposes. Key laws a�ect-
+
+ing the Federal Reserve include the Bank Holding
+
+Company Act of 1956 and its amendments; the Finan-
+
+cial Institutions Reform, Recovery, and Enforcement
+
+Act of 1989; the Federal Deposit Insurance Corpora-
+
+tion Improvement Act of 1991; the Gramm-Leach-
+
+Bliley Act (GLBA) of 1999; and the Check Clearing for
+
+the 21st Century Act of 2004. In a 1977 amendment to
+
+the Federal Reserve Act, the Congress de�ned the pri-
+
+mary objectives of national economic policy. These
+
+objectives include economic growth in line with the
+
+economy’s potential to expand; a high level of employ-
+
+ment; stable prices (that is, stability in the purchasing
+
+power of the dollar); and moderate long-term interest
+
+rates. Major �nancial services reform legislation, incor-
+
+porated in the GLBA, re�ects changes in the nature of
+
+the industry and in the economy generally. GLBA and
+
+the changes it ushered in for the United States �nancial
+
+services industry continues to a�ect signi�cantly the
+
+operations and workload of the Federal Reserve.
+
+Since the late 1960s, several federal laws were created
+
+that were designed to protect consumers when secur-
+
+ing credit or in making other �nancial transactions has
+
+grown. The Congress has assigned to the Federal
+
+Reserve the duty of implementing the provisions of
+
+these laws to ensure that consumers receive comprehen-
+
+sive information and fair treatment from �nancial insti-
+
+tutions when they engage in these transactions. Con-
+
+sumer protection laws such as the 1968 Truth in
+
+Lending Act, the Community Reinvestment Act of
+
+1977 (CRA), the Expedited Funds Availability Act of
+
+1987, the Truth in Savings Act of 1991, and the Fair
+
+and Accurate Credit Transactions Act of 2003 have
+
+given the Federal Reserve rule-writing, compliance, and
+
+consumer education responsibilities. As a result of the
+
+recent �nancial crisis, the federal government is consid-
+
+ering additional legislation designed to update the
+
+�nancial regulatory system and increase consumer pro-
+
+tection. Although the outcome of current legislative
+
+e�orts is still uncertain, several of the proposals could
+
+signi�cantly impact the Board’s organization, opera-
+
+tions, and resource requirements.
+
+System Role in the Government
+
+The Federal Reserve System is considered to be an
+
+independent central bank because its decisions do not
+
+have to be rati�ed by the President or anyone else in the
+
+executive branch of government. The System is, how-
+
+ever, subject to oversight by the U.S. Congress. The
+
+Federal Reserve must work within the framework of
+
+the overall objectives of economic and �nancial policy
+
+established by the government; therefore, the descrip-
+
+tion of the System as “independent within the govern-
+
+ment” is more accurate.
+
+Structure of the System
+
+Congress designed the structure of the Federal Reserve
+
+System to give it a broad perspective on the economy
+
+and on economic activity in all parts of the nation. It is
+
+a federal system, composed of a central, governmental
+
+agency—the Board of Governors—in Washington,
+
+D.C., and 12 regional Federal Reserve Banks. The
+
+Board and the Reserve Banks share responsibility for
+
+supervising and regulating certain �nancial institutions
+
+and activities, for providing banking services to deposi-
+
+tory institutions and the federal government, and for
+
+ensuring that consumers receive adequate information
+
+and fair treatment in their business with the banking
+
+system.
+
+A major component of the System is the Federal
+
+Open Market Committee (FOMC), which is made up
+
+of the members of the Board of Governors, the presi-
+
+dent of the Federal Reserve Bank of New York, and
+
+presidents of four other Federal Reserve Banks, who
+
+serve on a rotating basis. The FOMC oversees open
+
+market operations, which is the main tool used by the
+
+Federal Reserve to in�uence overall monetary and
+
+credit conditions.
+
+Board of Governors
+
+The Board of Governors of the Federal Reserve Sys-
+
+tem is a federal government agency. The Board is com-
+
+posed of seven members, who are appointed by the
+
+President of the United States and con�rmed by the
+
+U.S. Senate. The full term of a Board member is 14
+
+years, and the appointments are staggered so that one
+
+2 Government Performance and Results Act Biennial Performance Report □ 2008–2009
+
+
+term expires on January 31 of each even-numbered
+
+year. After serving a full term, a Board member may
+
+not be reappointed. If a member leaves the Board
+
+before his or her term expires, however, the person
+
+appointed and con�rmed to serve the remainder of the
+
+term may later be reappointed to a full term.
+
+The Chairman and the Vice Chairman of the Board
+
+are also appointed by the President and con�rmed by
+
+the Senate. The nominees to these posts must already be
+
+members of the Board or must be simultaneously
+
+appointed to the Board. The terms for these positions
+
+are four years.
+
+MISSION, VALUES, AND GOALS
+OF THE BOARD OF GOVERNORS
+
+Mission
+
+The mission of the Board is to foster the stability, integ-
+
+rity, and e�ciency of the nation’s monetary, �nancial,
+
+and payment systems so as to promote optimal macro-
+
+economic performance.
+
+Values
+
+The following values of the Board guide its organiza-
+
+tional decisions and its employees’ actions.
+
+• Public interest. In its actions and policies, the Board
+
+seeks to promote the public interest. It is accountable
+
+and responsive to the general public, the U.S. govern-
+
+ment, and the �nancial community.
+
+• Integrity. The Board adheres to the highest standards
+
+of integrity in its dealings with the public, the �nan-
+
+cial community, and its employees.
+
+• Excellence. The conduct of monetary policy, respon-
+
+sibility for bank supervision, and maintenance of the
+
+payment system demand high-quality analysis, high
+
+performance standards, and a secure, robust infra-
+
+structure. The pursuit of excellence drives the
+
+Board’s policies concerning recruitment, selection,
+
+and retention for Board employees.
+
+• E�ciency and e�ectiveness. In carrying out its func-
+
+tions, the Board is continually aware that its opera-
+
+tions are supported primarily by public funds, and it
+
+recognizes its obligation to manage resources e�-
+
+ciently and e�ectively.
+
+• Independence of views. The Board values the diversity
+
+of its employees; input from a variety of sources; and
+
+the independent professional judgment that is fos-
+
+tered by the System’s highly valued regional struc-
+
+ture. It relies on strong teamwork to mold indepen-
+
+dent viewpoints into coherent, e�ective policies.
+
+Goals
+
+The Board has six primary goals with interrelated and
+
+mutually reinforcing elements:
+
+1. conducting monetary policy that promotes the
+
+achievement of the statutory objectives of maxi-
+
+mum sustainable longterm growth and the price sta-
+
+bility that fosters that goal
+
+2. promoting a safe, sound, competitive, and accessible
+
+banking system and stable �nancial markets
+
+3. developing regulations, policies, and programs
+
+designed to inform and protect consumers, to
+
+enforce federal consumer protection laws, to
+
+strengthen market competition, and to promote
+
+access to banking services in historically under-
+
+served markets
+
+4. providing high-quality professional oversight of the
+
+Reserve Banks
+
+5. fostering the integrity, e�ciency, and accessibility of
+
+U.S. payment and settlement systems
+
+6. fostering the integrity, e�ciency, and e�ectiveness of
+
+Board programs
+
+Role of Strategic Planning
+
+Unlike most other government agencies, the Board’s
+
+budget is not subject to the Congressional appropria-
+
+tions process or to review by the administration
+
+through the O�ce of Management and Budget. Rather,
+
+the Board establishes its own budget formulation pro-
+
+cedures, conducts strategic planning to identify changes
+
+to its critical activities and the proper amount and allo-
+
+cation of resources to support its mission, and provides
+
+various reports and budget testimony to the Congress.
+
+The Board, like the framers of the Federal Reserve
+
+Act, considers its budgetary independence directly rel-
+
+evant to independence in managing monetary policy.
+
+That said, the Board believes that to maintain budget-
+
+ary independence, it must demonstrate e�ective and
+
+e�cient use of its �nancial resources. Resource man-
+
+agement begins with a clear mission statement, identi�-
+
+cation of goals, a review of factors that might a�ect the
+
+long-term attainment of these goals, and consideration
+
+of possible responses to those factors. By establishing
+
+objectives to attain its goals and by identifying the
+
+resources needed to accomplish them, the Board devel-
+
+ops a budget necessary to implement its strategic plan.
+
+Strategic planning is a critical factor in ensuring the
+
+long-term e�ectiveness of Board operations and in
+
+minimizing its costs. E�ectiveness is improved through
+
+timely identi�cation of threats and through e�orts to
+
+improve operational e�ciency. E�ciency is increased
+
+Board of Governors of the Federal Reserve System 3
+
+
+by early identi�cation of issues and timely responses.
+
+Major factors a�ecting the current strategic plan
+
+include the following:
+
+1. The desire to develop better performance metrics for
+
+each division and major Board function, and pro-
+
+vide comparative Boardwide management data to
+
+senior sta�
+
+2. Continuing advances in automation and telecom-
+
+munication technologies that will
+
+• foster the e�ciency associated with greater stan-
+
+dardization of System supervision and regulation
+
+automation tools and databases, and help ensure
+
+better coordination of plans, strategies, actions,
+
+and information sharing with other domestic and
+
+foreign regulators;
+
+• reduce reaction time to address systemic issues;
+
+• require and make possible enhanced systems for
+
+identifying, measuring, and pricing risk;
+
+• improve the capabilities for gathering, analyzing,
+
+and sharing data; and
+
+• provide signi�cant opportunities for improving
+
+communication with the public
+
+3. The need for actions and policies that attract and
+
+retain a highly motivated, properly trained, and
+
+fairly compensated professional workforce
+
+4. The need for contingency plans related to the safety
+
+of personnel, disaster recovery, and information
+
+5. The current state of the U.S. and foreign economies
+
+As technological and other changes evolve and accel-
+
+erate, planning is essential to the e�ective and e�cient
+
+conduct of Board operations. A continuing challenge
+
+to government agencies in this regard is identifying the
+
+appropriate measures of performance. The Board’s
+
+strategic planning e�ort recognizes the key distinctions
+
+between government and private-sector strategic plan-
+
+ning e�orts and measurement of those e�orts. Private-
+
+sector planning often relies on measures of cost and
+
+revenue derived from prices determined in competitive
+
+markets; the results of that planning are re�ected in the
+
+ability of the private entity to prosper over time. The
+
+government does not have direct competition in certain
+
+areas, and has a monopoly in others (conducting mon-
+
+etary policy, for example); establishing a comparable
+
+metric to costs and prices is therefore extraordinarily
+
+di�cult. Moreover, the results are judged relative to
+
+public policy objectives embodied in law, which often
+
+are not readily measurable. The Board seeks to accom-
+
+plish its mission e�ectively while creating the e�cien-
+
+cies that come from strategic planning, recognizing that
+
+analogies to the private sector are just that. The Board’s
+
+central planning objective is oriented toward achieving
+
+e�ectiveness and e�ciency speci�c to the functions it
+
+serves.
+
+MONETARY POLICY FUNCTION
+
+Goal
+
+Conduct monetary policy that promotes the achieve-
+
+ment of the statutory objectives of maximum sustain-
+
+able long-term growth and the price stability that fos-
+
+ters that goal.
+
+Objectives
+
+1. Informed monetary policy: Staying abreast of recent
+
+developments and prospects in the U.S. economy
+
+and �nancial markets, and in those abroad, so that
+
+monetary policy decisions will be well informed
+
+2. Understanding of macroeconomics and markets:
+
+Enhancing our knowledge of the structural and
+
+behavioral relationships in the macroeconomic and
+
+�nancial markets, and improving the quality of data
+
+used to gauge economic performance, through
+
+developmental research activities
+
+3. E�ective implementation of monetary policy: Imple-
+
+menting monetary policy e�ectively in rapidly
+
+changing economic circumstances and in an evolv-
+
+ing �nancial market structure
+
+4. Contribution to international e�orts: Contributing to
+
+the development of U.S. international policies and
+
+procedures in cooperation with the U.S. Department
+
+of the Treasury and other agencies
+
+5. Expanded public awareness of monetary policy: Pro-
+
+moting understanding of Federal Reserve policy
+
+among other government policy o�cials and
+
+the general public
+
+Performance Measures
+
+The e�ectiveness of the Board’s monetary policy in
+
+relation to evolving economic and �nancial cir-
+
+cumstances continues to be reviewed by the Congress
+
+in the context of the Board’s semiannual monetary
+
+policy report and the accompanying testimony. It is rec-
+
+ognized that monetary policy has only a partial and
+
+indirect in�uence on performance of the U.S. economy.
+
+Resources
+
+The majority of the resources utilized to achieve this
+
+goal are reported in the Board’s three research divi-
+
+sions, the O�ce of Board Members, the O�ce of the
+
+4 Government Performance and Results Act Biennial Performance Report □ 2008–2009
+
+
+Secretary, and the O�ce of the Sta� Director for Man-
+
+agement. The combined expenses for the 2008–09 bien-
+
+nium for these divisions and o�ces totaled approxi-
+
+mately $230 million.
+
+SUPERVISION AND REGULATION FUNCTION
+
+Goals
+
+Safety and Soundness: Promote a safe, sound, competi-
+
+tive, and accessible banking system and stable �nancial
+
+markets
+
+Consumer Protection: Develop regulations, policies,
+
+and programs designed to inform and protect consum-
+
+ers, to enforce federal consumer protection laws, to
+
+strengthen market competition, and to promote access
+
+to banking services in historically underserved markets
+
+Objectives
+
+1. Financial stability and risk containment: Promoting
+
+overall �nancial stability, managing and containing
+
+systemic risk, and identifying emerging �nancial
+
+problems early so that crises can be averted
+
+2. Accessibility of the banking system: Providing a safe,
+
+sound, competitive, and accessible banking system
+
+through comprehensive and e�ective supervision of
+
+U.S. banks, bank and �nancial holding companies,
+
+foreign banking organizations, and related entities
+
+(at the same time, remaining sensitive to the burden
+
+on supervised institutions)
+
+3. Financial system e�ciency: Enhancing e�ciency and
+
+e�ectiveness by addressing the supervision func-
+
+tion’s procedures, technology, resource allocation,
+
+and sta�ng issues
+
+4. E�ective oversight of �nancial institutions: Promot-
+
+ing the compliance by domestic and foreign bank-
+
+ing organizations supervised by the Federal Reserve
+
+with applicable laws, rules, regulations, policies, and
+
+guidelines through a comprehensive and e�ective
+
+supervision program
+
+5. Consumer protection: Serving as a leader in, and
+
+helping shape the national dialogue on, consumer
+
+protection in �nancial services
+
+6. Relationship building: Promoting, developing, and
+
+strengthening e�ective communications and col-
+
+laborations within the Board, the Federal Reserve
+
+Banks, and other agencies and organizations
+
+Performance Measures
+
+See table below for the 11 metrics, targets, and results
+
+for the two-year period.
+
+Resources
+
+The majority of the resources utilized to achieve this
+
+goal are reported in the divisions of Banking Supervi-
+
+sion and Regulation and Consumer and Community
+
+A�airs, whose combined expenses for the 2008–09
+
+biennium were approximately $159 million.
+
+Supervision and Regulation Function 2008–09 Performance Measures
+
+Measure Target Results
+
+Identify and resolve supervisory
+and �nancial problems in a timely
+manner, working alone or in coop-
+eration with other authorities, to
+minimize disruptions to the �nan-
+cial and payment systems and the
+economy more generally
+
+No speci�c target The Federal Reserve is actively reviewing current
+prudential standards and supervisory approaches
+to incorporate the lessons learned from the recent
+�nancial crisis. On the supervisory front, the Fed-
+eral Reserve is taking steps to strengthen oversight
+and enforcement, including augmenting tradi-
+tional microprudential methods of oversight with
+a more macroprudential approach that should bet-
+ter anticipate and mitigate broader threats to
+�nancial stability.
+
+Board of Governors of the Federal Reserve System 5
+
+
+Measure Target Results
+
+Minimize net losses to the Deposit
+Insurance Fund (DIF) associated
+with state member banks (consis-
+tent with trend data associated
+with prevailing economic condi-
+tions)
+
+DIF losses from state member
+banks not to exceed premiums
+paid into the DIF by state
+member banks. [The Federal
+Deposit Insurance Corpora-
+tion (FDIC) assesses a pre-
+mium against only those banks
+with a less-than-satisfactory
+rating or banks that are not
+well capitalized.]
+
+2008: The DIF incurred no net loss.
+
+2009: The approximate net loss to the DIF was
+$2.5 billion. Estimated losses of $3.8 billion
+exceeded state member bank premiums of $1.3 bil-
+lion, resulting in a net loss to the DIF of $2.5 bil-
+lion.
+
+Complete �nancial institution
+examinations as required by stat-
+ute and as dictated by review of
+supervisory data, experience, and
+an assessment of current risks to
+the �nancial industry
+
+98 percent of examinations
+conducted in accordance with
+12- or 18-month statutory
+requirements; subsequent
+supervisory follow-up per-
+formed on institutions rated
+CAMELS1 3, 4, or 5, as
+required by Federal Reserve
+guidelines
+
+2008: 99 percent of examinations were conducted
+in accordance with the requirements
+
+2009: 99 percent of examinations were conducted
+in accordance with the requirements
+
+Complete reports of examinations
+within established time frames
+
+Issue at least 90 percent of
+reports within 60 days of the
+examination-closeout meeting
+
+2008: 98 percent of regulatory examination
+reports and 95 percent of consumer protection
+examination reports were issued within the estab-
+lished time frames
+
+2009: 94 percent of regulatory examination
+reports and 96 percent of consumer protection
+examination reports were issued within the estab-
+lished time frames
+
+To the extent to which they are
+received by the Board, process
+applications within established
+time frames
+
+Process at least 90 percent of
+applications within statutory
+or Board guidelines
+
+2008: 91 percent of applications were processed
+within statutory or Board guidelines
+
+2009: 93 percent of applications were processed
+within statutory or Board guidelines
+
+Conduct consumer compliance
+and CRA examinations in accor-
+dance with Board and statutory
+requirements
+
+Complete 99 percent of com-
+pliance and CRA exams within
+Board-established time frames
+
+2008: 100 percent of compliance and CRA exams
+were completed within Board-established time
+frames
+
+2009: 100 percent of compliance and CRA exams
+were completed within Board-established time
+frames
+
+To the extent to which they are
+received by the Board, process
+consumer complaints in accor-
+dance with established time
+frames
+
+Process 80 percent of con-
+sumer complaints within
+Board guidelines
+
+2008: 93 percent of consumer complaints were
+processed within Board guidelines
+
+2009: 86 percent of consumer complaints were
+processed within Board guidelines
+
+6 Government Performance and Results Act Biennial Performance Report □ 2008–2009
+
+Supervision and Regulation—continued
+
+
+Measure Target Results
+
+Review and update various con-
+sumer regulations for which the
+Board has rule-writing authority
+
+Complete Regulation Z/Home
+Ownership & Equity Protec-
+tion Act (HOEPA), Regulation
+Z/Open-End, and remaining
+Fair and Accurate Credit
+Reporting Act of 2003 (FACT)
+Act rulemaking
+
+2008:
+Regulation Z
+Issued proposed and �nal rules for credit cards
+Issued proposed rules for mortgage timing
+(MDIA) and risk-based pricing
+
+Regulation DD
+Issued proposed and �nal rules for overdrafts
+Unfair & Deceptive Acts or Practices
+Issued proposed rules for credit cards and over-
+drafts
+
+Regulation E
+Proposed changes to cover overdrafts at point of
+sale and automated teller machines
+
+2009:
+Regulation Z
+Issued �nal rules for MDIA, student loans, risk-
+based pricing, and overdrafts
+
+Issued proposed and interim �nal rules for credit
+cards
+
+Issued proposed rules for open-end and closed-
+end mortgages, including yield spread premiums
+
+FACT Act
+Adopted �nal interagency “Furnisher” rules
+Regulation E
+Issued proposed gift card rules
+
+Improve the accessibility of con-
+sumer information on banking
+products and services available in
+the market
+
+Begin work on a new market-
+ing, outreach, and communica-
+tion strategy
+
+2008: Board representatives served on the Finan-
+cial Literacy & Education Commission (FLEC)
+and its subcommittee for the MyMoney.gov web-
+site. The Board also distributed consumer news
+stories through a contract with the North
+America Precis Syndicate (NAPS).
+
+2009: Continued use of NAPS for outreach; con-
+tinued work with FLEC on the redesign of the
+MyMoney.gov website; and sponsored a series of
+advertisements on foreclosure scams and wise use
+of credit cards
+
+Provide advisory services; conduct
+outreach; sponsor conferences to
+promote community development
+in underserved areas; and provide
+technical assistance that supports
+an ongoing dialogue with �nancial
+institutions, government agencies,
+and communities to address barri-
+ers and challenges to credit and
+capital access
+
+Conduct a research conference
+in 2009
+
+Conducted a research conference focusing on
+innovative �nancial services for the underserved in
+April 2009
+
+Improve understanding of e�ec-
+tive practices in �nancial and con-
+sumer education through research
+into and development of con-
+sumer education materials
+
+Collect data and conduct
+analysis for �nancial education
+research study
+
+2008: Finalized data collection and conducted ini-
+tial analysis for �nancial education research study
+
+2009: Based on data analysis, published research
+reports; evaluated programs; and updated and
+expanded consumer education resources
+
+1. The acronym CAMELS refers to the six components of a bank’s condition that are assessed: capital adequacy, asset quality, manage-
+
+ment, earnings, liquidity and sensitivity to market risk.
+
+Board of Governors of the Federal Reserve System 7
+
+Supervision and Regulation—continued
+
+
+PAYMENT SYSTEM POLICY
+AND OVERSIGHT FUNCTION
+
+Goals
+
+Oversight: Provide high-quality professional oversight
+
+of Reserve Banks
+
+Policy: Foster the integrity, e�ciency, and accessibility
+
+of U.S. payment and settlement systems
+
+Objectives
+
+1. E�ective System strategies, projects, and operations:
+
+Producing high-quality assessments and oversight
+
+of Federal Reserve System strategies, projects, and
+
+operations, including adoption of technology to
+
+meet the business and operational needs of the Fed-
+
+eral Reserve. The oversight process and related out-
+
+puts should help Federal Reserve management fos-
+
+ter and strengthen sound internal control systems,
+
+e�cient and reliable operations, e�ective perfor-
+
+mance, and sound project management, and should
+
+assist the Board in the e�ective discharge of its over-
+
+sight responsibilities.
+
+2. E�cient, accessible payment systems: Developing
+
+sound, e�ective policies and regulations that foster
+
+payment system integrity, e�ciency, and accessibil-
+
+ity; supporting and assisting the Board in overseeing
+
+U.S. dollar payment and securities settlement sys-
+
+tems by assessing risks and risk-management
+
+approaches against relevant policy objectives and
+
+standards
+
+3. Analysis of system dynamics and risks: Conducting
+
+research and analysis that contributes to policy
+
+development and increases understanding of pay-
+
+ment system dynamics and risk
+
+Performance Measures
+
+See table below for the 10 metrics, targets, and results
+
+for the two-year period.
+
+Resources
+
+The majority of the resources utilized to achieve this
+
+goal are reported in the Division of Reserve Bank
+
+Operations and Payment Systems, whose expenses for
+
+the 2008–09 biennium were approximately $59 million.
+
+Payment System Policy and Oversight Function 2008–09 Performance Measures
+
+Measure Target Results
+
+Complete all scheduled Reserve
+Bank on-site reviews and annual
+Reserve Bank examinations and
+oversee the external audit of
+Reserve Bank �nancial statements
+each year, as required by the Fed-
+eral Reserve Act
+
+Complete all scheduled reviews All scheduled reviews were completed.
+
+E�ect positive change within the
+Reserve Banks by raising issues
+regarding Reserve Bank opera-
+tions, internal audits, or proposed
+or ongoing initiatives
+
+No speci�c target The Reserve Banks addressed the majority of
+issues the Board raised, and they are addressing
+remaining open issues.
+
+Monitor and ensure the full collat-
+eralization of Federal Reserve
+notes, as de�ned by the Federal
+Reserve Act
+
+Ensure 100 percent collateral-
+ization
+
+100 percent collateralization was achieved.
+
+Inform the Board (through its
+oversight committees) of impor-
+tant developments and issues in a
+timely and e�ectively manner
+
+No target Board oversight committees were informed in a
+timely and e�ective manner.
+
+Review thoroughly the proposed
+Reserve Bank budgets
+
+Thoroughly review budgets
+proposed by the Reserve Banks
+
+All budgets were reviewed thoroughly and timely.
+
+8 Government Performance and Results Act Biennial Performance Report □ 2008–2009
+
+
+Measure Target Results
+
+Assess the implications for the
+�nancial services, accounting, and
+related programs of speci�c mon-
+etary policy options and develop
+proposals for these programs that
+help to address issues raised by
+potential changes in policy
+
+Identify and analyze key issues
+raised by payment of interest
+on reserves for the Reserve
+Banks’ �nancial services and
+accounting function, and pro-
+pose ways to address these
+issues
+
+Implemented interest on reserves, which included
+changes to existing applications and new account-
+ing procedures, within one week of congressional
+action to accelerate the e�ective date of the Fed-
+eral Reserve’s authority; the �rst payments were
+made in October 20081
+
+Analyze comments received on
+proposed payments system risk
+policy changes
+
+Analyze comments received Based on an analysis of the comments received,
+the Board adopted a revised policy in December
+2008.
+
+Finalize regulations, jointly with
+the U.S. Department of the Trea-
+sury, on the implementation of the
+Unlawful Internet Gambling
+Enforcement Act (UIGEA) sub-
+mitted to the Congress
+
+Issue �nal rule to implement
+the UIGEA
+
+The Board and the U.S. Department of the Trea-
+sury issued a joint �nal rule in November 2008.
+
+Publish the analyses on the use of
+retail payments in a Federal
+Reserve Bulletin article
+
+Publish analyses in a Federal
+Reserve Bulletin article in 2008
+
+Published “Recent Payment Trends in the United
+States” in October 2008
+
+Respond in a timely manner to
+requests for policy interpretations,
+deviations, and exception requests
+from the Reserve Banks
+
+Respond in a timely manner to
+requests from the Reserve
+Banks
+
+All requests were responded to in a timely man-
+ner.
+
+1. Refer to the board’s public website at www.federalreserve.gov/pubs/bulletin/2008/pdf/payments08.pdf.
+
+INTERNAL BOARD SUPPORT
+
+Goal
+
+Foster the integrity, e�ciency, and e�ectiveness of
+
+Board programs
+
+Objectives
+
+1. High-caliber sta�: Developing appropriate policies,
+
+oversight mechanisms, and measurement criteria to
+
+ensure that the recruiting, training, and retention of
+
+sta� meet Board needs
+
+2. Fair, equal treatment of employees: Establishing,
+
+encouraging, and enforcing a climate of fair and
+
+equitable treatment for all employees regardless of
+
+race, creed, color, national origin, age, or sex
+
+3. E�ective planning and management: Providing stra-
+
+tegic planning and �nancial management support
+
+needed for sound business decisions
+
+4. Security of information: Providing cost-e�ective and
+
+secure information resource management services to
+
+Board divisions, supporting divisional distributed-
+
+processing requirements, and providing analysis on
+
+information technology issues to the Board, the
+
+Reserve Banks, other �nancial regulatory institu-
+
+tions, and other central banks
+
+5. Safe, secure work environment: E�ciently providing
+
+safe, modern, secure facilities and necessary support
+
+for activities conducive to e�cient and e�ective
+
+Board operations
+
+Performance Measures
+
+See table below for the eight metrics, targets, and results
+
+for the two-year period.
+
+Resources
+
+The majority of the resources utilized to achieve this
+
+goal are reported in the Information Technology, Legal,
+
+and Management divisions and in the O�ce of Inspec-
+
+tor General, whose combined expenses for the 2006–07
+
+biennium were approximately $300 million.
+
+Board of Governors of the Federal Reserve System 9
+
+Payment System Policy and Oversight—continued
+
+
+Internal Board Support 2008–09 Performance Measures
+
+Measure Target Results
+
+Continually review the Board’s
+compensation program and imple-
+ment any desired changes
+
+Perform review, analyze results,
+communicate with sta�, and
+make changes as needed
+
+As a result of the compensation study conducted
+in 2007, the Board increased base and variable pay
+for certain job groups, insurance subsidies and sti-
+pends for subscribers, and thrift plan contribution
+and match for all employees in 2008 and 2009.
+
+Develop quali�ed and diverse
+pools of internal and external can-
+didates for all position postings
+
+Increase the number of quali-
+�ed and diverse candidates at
+the Board
+
+Positions were �lled with quali�ed and diverse
+candidates from varied candidate pools. Continu-
+ous e�orts are underway to expand diversity
+recruitment strategies by increased use of niche
+career sites, participation with Federal Reserve
+Banks on Systemwide recruitment e�orts at
+national career fairs, and attendance at college
+career fairs.
+
+Enhance management account-
+ability for EEO, diversity, and
+inclusion strategy execution
+
+Enhance management account-
+ability for EEO, diversity, and
+inclusion strategy execution
+
+A workgroup was formed to research a methodol-
+ogy and tools appropriate for evaluation of results
+and e�ectiveness of diversity and inclusion initia-
+tives and practices.
+
+Provide appropriate feedback to
+division directors and oversight
+committees via periodic manage-
+ment reports
+
+No speci�c target Quarterly reports regarding �nancial performance
+and compliance status were submitted to the divi-
+sion directors and the Committee on Board
+A�airs.
+
+Maintain budgetary independence Maintain budgetary indepen-
+dence
+
+Budgetary independence was maintained.
+
+Receive an unquali�ed opinion for
+the Board’s annual �nancial audit
+and the accompanying reviews of
+internal controls and compliance
+with laws and regulations
+
+Receive an unquali�ed opinion
+each year on the Board’s �nan-
+cial statements
+
+2008: The Board received an unquali�ed opinion
+on its �nancial statements from the outside audi-
+tors.
+
+2009: The Board received an unquali�ed opinion
+on its �nancial statements and clean report on
+internal control over �nancial reporting from the
+outside auditors
+
+Enhance Boardwide physical secu-
+rity to protect Board resources
+
+Continue updating perimeter
+security to better control
+pedestrian/vehicle tra�c on or
+around the facilities
+
+Completed the installation of security barriers
+and kiosks, which control the ingress and egress of
+vehicles using the facilities, and replaced visitor-
+screening equipment with updated technology
+
+Strengthen the personnel secu-
+rity functions such that sta�-
+ing, training, and processes
+comply with federal mandates
+and ensure su�cient vetting of
+Board employees by security
+sta�
+
+Conducted a review of internal processes and sub-
+sequently enhanced the system used to track
+employee background checks; developed addi-
+tional procedures that further reduced turnaround
+time for clearances and ensured accuracy of
+employee information for case adjudication
+
+Reduce the threat of disruption to
+operations, and improve our
+capacity for disaster recovery to
+reduce the time needed to resume
+normal operations
+
+Complete implementation of
+minimum Contingency of
+Operations Program communi-
+cation requirements (NCS
+Directive 3-10) and new Board-
+wide Test, Training & Exercise
+Program based on Federal
+Continuity Directive-1
+
+The Federal Emergency Management Agency-
+mandated Test, Training & Exercise Database was
+created and populated with Board information in
+September 2009. Division test, training, and exer-
+cise participant information is now updated
+monthly.
+
+10 Government Performance and Results Act Biennial Performance Report □ 2008–2009
+
+
+Board of Governors of the
+Federal Reserve System
+www.federalreserve.gov
+
+0910
+

@@ -1,0 +1,596 @@
+
+For release on delivery 
+9:55 a.m. EDT (8:55 a.m. CDT) 
+June 4, 2019 
+ 
+
+
+Opening Remarks 
+ 
+ 
+ 
+
+by 
+ 
+
+Jerome H. Powell 
+ 
+
+Chair 
+ 
+
+Board of Governors of the Federal Reserve System 
+ 
+
+at 
+ 
+
+ “Conference on Monetary Policy Strategy, Tools, and Communications Practices” 
+sponsored by the Federal Reserve 
+
+ 
+Federal Reserve Bank of Chicago 
+
+Chicago, Illinois 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+June 4, 2019 
+ 
+
+
+
+Good morning.  I am very pleased to welcome you here today.  This conference is 
+
+part of a first-ever public review by the Federal Open Market Committee of our monetary 
+
+policy strategy, tools, and communications.  We have a distinguished group of experts 
+
+from academics and other walks of life here to share perspectives on how monetary 
+
+policy can best serve the public.  
+
+I’d like first to say a word about recent developments involving trade negotiations 
+
+and other matters.  We do not know how or when these issues will be resolved.  We are 
+
+closely monitoring the implications of these developments for the U.S. economic outlook 
+
+and, as always, we will act as appropriate to sustain the expansion, with a strong labor 
+
+market and inflation near our symmetric 2 percent objective.  My comments today, like 
+
+this conference, will focus on longer-run issues that will remain even as the issues of the 
+
+moment evolve.  
+
+While central banks face a challenging environment today, those challenges are 
+
+not entirely new.  In fact, in 1999 the Federal Reserve System hosted a conference titled 
+
+“Monetary Policy in a Low Inflation Environment.”  Conference participants discussed 
+
+new challenges that were emerging after the then-recent victory over the Great Inflation.1  
+
+They focused on many questions posed by low inflation and, in particular, on what 
+
+unconventional tools a central bank might use to support the economy if interest rates fell 
+
+to what we now call the effective lower bound (ELB).  Even though the Bank of Japan 
+
+was grappling with the ELB as the conference met, the issue seemed remote for the 
+
+United States.  The conference received little coverage in the financial press, but a 
+
+                                                 
+1 The proceedings of the conference were published in the November 2000 issue of Journal of Money, 
+Credit and Banking.  
+
+
+ - 2 - 
+
+Reuters wire service story titled “Fed Conference Timing on Inflation Odd, but Useful” 
+
+emphasized the remoteness of the risk.2  Participants at the conference could not have 
+
+anticipated that only 10 years later, the world would be engulfed in a deep financial 
+
+crisis, with unemployment soaring and central banks around the world making extensive 
+
+use of new strategies, tools, and ways to communicate. 
+
+ The next time policy rates hit the ELB—and there will be a next time—it will not 
+
+be a surprise.  We are now well aware of the challenges the ELB presents, and we have 
+
+the painful experience of the Global Financial Crisis and its aftermath to guide us.  Our 
+
+obligation to the public we serve is to take those measures now that will put us in the best 
+
+position deal with our next encounter with the ELB.  And with the economy growing, 
+
+unemployment low, and inflation low and stable, this is the right time to engage the 
+
+public broadly on these topics.   
+
+The review has several parts, all of which are intended to open our monetary 
+
+policy to critical examination.  We are holding a series of Fed Listens events around the 
+
+country to help us understand the perspectives of people from diverse backgrounds and 
+
+with varied interests.  This conference and many other engagements will help us bring to 
+
+bear the best thinking from policymakers and experts.  Beginning later this year, the 
+
+FOMC will devote time at a series of our regular meetings to assess lessons from these 
+
+events, supported by staff analysis performed throughout the Federal Reserve System.  
+
+We will publicly report the outcome of our discussions.  In the meantime, anyone who is 
+
+                                                 
+2 Herbst-Bayliss (1999).  
+
+
+ - 3 - 
+
+interested in participating or learning more can find information on the Federal Reserve 
+
+Board’s website.3 
+
+Before turning to the specifics of the review, I want to focus a little more closely 
+
+on the challenges we face today.  For a reference point, at the time of the 1999 
+
+conference, the United States was eight years into an expansion; core inflation was 
+
+1.4 percent, and the unemployment rate was 4.1 percent—not so different from today.4  
+
+Macroeconomists were puzzling over the flatness of the Phillips curve, the level of the 
+
+natural rate of unemployment, and a possible acceleration in productivity growth—
+
+questions that are also with us today.5 
+
+The big difference between then and now is that the federal funds rate was 
+
+5.2 percent—which, to underscore the point, put the rate 20 quarter-point rate cuts away 
+
+from the ELB.  Since then, standard estimates of the longer-run normal or neutral rate of 
+
+interest have declined between 2 and 3 percentage points, and some argue that the 
+
+effective decline is even larger.6  The combination of lower real interest rates and low 
+
+inflation translates into lower nominal rates and a much higher likelihood that rates will 
+
+fall to the ELB in a downturn.  
+
+As the experience of the past decade showed, extended ELB episodes can be 
+
+associated with painfully high unemployment and slow growth or recession.  Economic 
+
+                                                 
+3 More on Fed Listens events and related information is available on the Board’s website at 
+https://www.federalreserve.gov/monetarypolicy/review-of-monetary-policy-strategy-tools-and-
+communications-fed-listens-events.htm.  
+4 The inflation rate referenced is the October 12-month percent change in the price index for personal 
+consumption expenditures excluding food and energy. 
+5 The discussion of all these issues was centered on Fed Chair Alan Greenspan’s (1998) “New Economy” 
+hypothesis that the United States had undergone fundamental changes for the better, leading to the 
+otherwise puzzling outcomes. 
+6 See, for example, the estimates of the neutral rate reported on the New York Fed’s website at 
+https://www.newyorkfed.org/research/policy/rstar.  Rachel and Summers (2019) give reasons why the 
+effective change may be larger. 
+
+
+ - 4 - 
+
+weakness puts downward pressure on inflation, which can raise real interest rates and 
+
+reinforce the challenge of supporting needed job growth.  In addition, over time, inflation 
+
+has become much less sensitive to tightness in resource utilization.  This insensitivity can 
+
+be a blessing in avoiding deflation when unemployment is high, but it means that much 
+
+greater labor market tightness may ultimately be required to bring inflation back to target 
+
+in a recovery.  Using monetary policy to push sufficiently hard on labor markets to lift 
+
+inflation could pose risks of destabilizing excesses in financial markets or elsewhere.   
+
+In short, the proximity of interest rates to the ELB has become the preeminent 
+
+monetary policy challenge of our time, tainting all manner of issues with ELB risk and 
+
+imbuing many old challenges with greater significance.  For example, the behavior of 
+
+inflation7 now draws much sharper focus.  When nominal interest rates were around 4 or 
+
+5 percent, a low-side surprise of a few tenths on inflation did not raise the specter of the 
+
+ELB.  But the world has changed.  Core inflation is currently running a bit below 
+
+2 percent on a trailing 12-month basis.  In this setting, a similar low-side surprise, if it 
+
+were to persist, would bring us uncomfortably closer to the ELB.  My FOMC colleagues 
+
+and I must—and do—take seriously the risk that inflation shortfalls that persist even in a 
+
+robust economy could precipitate a difficult-to-arrest downward drift in inflation 
+
+expectations.  At the heart of the review is the evaluation of potential changes to our 
+
+strategy designed to strengthen the credibility of our symmetric 2 percent inflation 
+
+objective.   
+
+                                                 
+7 For example, based on the Federal Reserve staff’s Greenbook forecast, across forecasts prepared for 
+59 FOMC meetings between 1997 and 2004, one-third of the year ahead, four-quarter inflation forecast 
+errors were 0.5 percentage point or greater in absolute value.  Error tended to be on the low side, and 
+45 percent of low-side misses were greater than 0.5 percentage point in absolute value.   
+
+
+ - 5 - 
+
+The ELB problem also complicates the FOMC’s efforts to achieve transparency 
+
+and accountability.  The Fed, like most major central banks, is insulated from short-term 
+
+political pressures.  In our democracy, that insulation carries with it an obligation for us 
+
+to be transparent and publicly accountable.  When policy rates reached the ELB during 
+
+the crisis, central banks resorted to what were then new, untested tools to pursue their 
+
+mandated goals.  These tools are no longer new, but their efficacy, costs, and risks remain 
+
+less well understood than the traditional approaches to central banking.  My FOMC 
+
+colleagues and I are committed to explaining why the use of these tools in the wake of 
+
+the crisis was a prudent and effective approach to pursuing our congressional mandate 
+
+and why tools like these are likely to be needed again.  Our review is but one part of our 
+
+efforts to engage with the public on these matters.   
+
+Let me turn to the specifics of the review, which is focused on three questions: 
+
+1. Can the Federal Reserve best meet its statutory objectives with its 
+
+existing monetary policy strategy, or should it consider strategies that 
+
+aim to reverse past misses of the inflation objective?  
+
+2. Are the existing monetary policy tools adequate to achieve and 
+
+maintain maximum employment and price stability, or should the 
+
+toolkit be expanded? 
+
+3. How can the FOMC's communication of its policy framework and 
+
+implementation be improved? 
+
+These questions are quite broad, and my colleagues and I come to them with open 
+
+minds.  We believe our current policy framework is working well, and we have made no 
+
+decisions about particular changes.  In fact, the review is still in its early stages.   
+
+
+ - 6 - 
+
+The first question raises the issue of whether the FOMC should use makeup 
+
+strategies in response to ELB risks.  By the time of the 1999 conference, research was 
+
+beginning to show that—in models, at least—such strategies could substantially reduce 
+
+the unemployment and other costs of ELB spells.8  The simplest version goes like this:  
+
+Suppose that a spell with interest rates near the ELB leads to a persistent shortfall of 
+
+inflation relative to the central bank’s goal.  But what if the central bank promised 
+
+credibly that it would deliberately make up for any lost inflation by stimulating the 
+
+economy and temporarily pushing inflation modestly above the target?  In the models, the 
+
+prospect of future stimulus promotes anticipatory consumption and investment that could 
+
+greatly reduce the pain of being at the ELB.9  Policymakers discussed this reasoning in 
+
+the wake of the crisis, but neither the Fed nor any other major central bank chose to 
+
+pursue such a policy.10  Why?  For makeup strategies to work, households and businesses 
+
+must go out on a limb, so to speak, raising spending in the midst of a downturn.  In 
+
+theory, they would do this based on their confidence that the central bank will deliver the 
+
+makeup stimulus at some point—perhaps years in the future.  In models, great confidence 
+
+in central bankers is achieved by assumption.  Despite the flattering nature of this 
+
+                                                 
+8 See Reifschneider and Williams (2000) and references therein.  For a more recent review of this subject, 
+see Bernanke, Kiley, and Roberts (2019) and Mertens and Williams (2019). 
+9 Eggertsson and Woodford (2003), for example, show that optimal policy at the ELB entails a commitment 
+to reflate the price level during subsequent economic expansions.  See also Wolman (2005) for a discussion 
+of the effectiveness of price-level targeting at the ELB.  For a discussion of the relationship between price-
+level targeting and average-inflation targeting, see Nessén and Vestin (2005).  The strategy in 
+Reifschneider and Williams (2000), for instance, involves a central bank following a Taylor rule modified 
+to make up for shortfalls in policy accommodation during ELB episodes.  Kiley and Roberts (2017) study a 
+strategy in which policymakers aim for inflation higher than 2 percent during normal times to compensate 
+for below-target inflation during ELB episodes.  Also see Bernanke (2017) for a strategy in which low 
+inflation is made up if it occurs when the federal funds rate is at or near the ELB.  See also Bernanke, 
+Kiley, and Roberts (2019) and Mertens and Williams (2019). 
+10 The Bank of Japan (2016) came closest, announcing in September 2016 an “inflation-overshooting 
+commitment” (p. 1).  The commitment did not, however, come with any explicit goal for a degree or 
+duration of overshoot. 
+
+
+ - 7 - 
+
+assumption, crisis-era policymakers had major questions about whether their promise of 
+
+good times to come would really have moved the hearts, minds, and pocketbooks of the 
+
+public.  Part of the problem was that the groundwork had not been laid in advance of the 
+
+downturn—a problem we could hope to fix well before next time.  Policymakers also had 
+
+deeper concerns about the legitimacy and effectiveness of attempting to bind some future 
+
+FOMC to take actions that could be objectionable from a short-term perspective when the 
+
+time came to deliver.11 
+
+Research on makeup strategies has begun to grapple more seriously with the 
+
+credibility questions.12  But important questions remain.  To achieve buy-in by 
+
+households and businesses, a comprehensible, credible, and actionable makeup strategy 
+
+will need to be followed by years of central bank policy consistent with that strategy.   
+
+The second question asks about the adequacy of the Fed’s toolkit for providing 
+
+stimulus when facing the ELB.  In the United States, we used several different 
+
+formulations of both forward guidance and large-scale purchases of longer-term 
+
+securities.13  While views differ on the effectiveness of these policies, with their use, the 
+
+unemployment rate fell steadily and inflation expectations remained well anchored, 
+
+outcomes that were favorable overall when viewed against the recoveries of many other 
+
+advanced economies.  My own view is that these policies provided meaningful support 
+
+for demand, but that they should not be thought of as a perfect substitute for our 
+
+                                                 
+11 These issues were discussed by the FOMC at several points, especially during 2011 (see the 2011 FOMC 
+transcripts, available on the Board’s website at 
+https://www.federalreserve.gov/monetarypolicy/fomchistorical2011.htm). 
+12 See, for example, English, López-Salido, and Tetlow (2015); Hebden and López-Salido (2018); 
+Bernanke, Kiley, and Roberts (2019); and Mertens and Williams (2019). 
+13 For details on formulations used by the United States for forward guidance and large-scale purchases of 
+longer-term securities as well as other references, see, for example, 
+https://www.federalreserve.gov/monetarypolicy/bst_openmarketops.htm and 
+https://www.federalreserve.gov/monetarypolicy/expiredtools.htm. 
+
+
+ - 8 - 
+
+traditional interest rate tool.  In any case, we have a responsibility to thoroughly evaluate 
+
+what mix of these tools is likely to work best when the next ELB episode arrives.  
+
+Perhaps it is time to retire the term “unconventional” when referring to tools that 
+
+were used in the crisis.  We know that tools like these are likely to be needed in some 
+
+form in future ELB spells, which we hope will be rare.  We now have a significant body 
+
+of evidence regarding the effectiveness, costs, and risks of these tools, including those 
+
+used by the FOMC and others tried elsewhere.  Our plans must take advantage of this 
+
+growing understanding as assessments are refined.  
+
+The third question concerns improving communication, which I discussed earlier 
+
+from the standpoint of governance and accountability.  But transparency also plays a 
+
+central role in policy effectiveness through its effects on the expectations of households 
+
+and businesses.  Of course, this was the major insight behind the transparency revolution 
+
+in central banking over the past few decades.  Today, central banks publicly share a large 
+
+and ever-increasing amount of information about policy.  But policymakers and 
+
+commentators inside and outside central banks sometimes question whether all of the 
+
+transparency adds up to effective communication.14   
+
+The FOMC’s famous dot plot is one example.  A focus on the median forecast 
+
+amounts to emphasizing what the typical FOMC participant would do if things go as 
+
+expected.  But we have been living in times characterized by large, frequent, unexpected 
+
+changes in the underlying structure of the economy.15  In this environment, the most 
+
+                                                 
+14 A 2016 Brookings conference titled “Understanding Fedspeak” (see 
+https://www.brookings.edu/events/understanding-fedspeak) raised several aspects of this issue.  For 
+example, Olson and Wessel (2016a) presented results of a survey of those who follow the Fed closely; in an 
+op-ed (2016b), they noted that “Some 73 percent of academics said Fed communications helps the markets; 
+only 44 percent of private-sector Fed watchers agreed.”  
+15 For more on changes in the underlying structure of the economy, see Powell (2018). 
+
+
+ - 9 - 
+
+important policy message may be about how the central bank will respond to the 
+
+unexpected rather than what it will do if there are no surprises.  Unfortunately, at times 
+
+the dot plot has distracted attention from the more important topic of how the FOMC will 
+
+react to unexpected economic developments.  In times of high uncertainty, the median 
+
+dot might best be thought of as the least unlikely outcome.  
+
+Let me conclude by saying that I look forward to our discussions here and to the 
+
+ongoing work of the review that lies ahead.  We need the best tools and strategies 
+
+possible for dealing with the challenges we now face, and we must communicate them in 
+
+a clear and credible way.  My colleagues and I welcome your best thinking on these 
+
+issues.  
+
+
+
+
+ - 10 - 
+
+References 
+ 
+Bank of Japan (2016).  “New Framework for Strengthening Monetary Easing:  
+
+‘Quantitative and Qualitative Monetary Easing with Yield Curve Control,’ ” 
+announcement, September 21, 
+https://www.boj.or.jp/en/announcements/release_2016/k160921a.pdf.  
+
+ 
+Bernanke, Ben S. (2017).  “Monetary Policy in a New Era,” paper presented at 
+
+“Rethinking Macroeconomic Policy,” a conference held at the Peterson Institute 
+of International Economics, Washington, October 12–13, 
+https://www.brookings.edu/wp-
+content/uploads/2017/10/bernanke_rethinking_macro_final.pdf. 
+
+ 
+Bernanke, Ben S., Michael T. Kiley, and John M. Roberts (2019).  “Monetary Policy 
+
+Strategies for a Low-Rate Environment,” Finance and Economics Discussion 
+Series 2019-009.  Washington:  Board of Governors of the Federal Reserve 
+System, February, https://doi.org/10.17016/FEDS.2019.009. 
+
+ 
+Eggertsson, Gauti B., and Michael Woodford (2003).  “The Zero Bound on Interest Rates 
+
+and Optimal Monetary Policy,” Brookings Papers on Economic Activity, no. 1, 
+pp. 139–211, https://www.brookings.edu/wp-
+content/uploads/2003/01/2003a_bpea_eggertsson.pdf. 
+
+ 
+English, William B., J. David López-Salido, and Robert J. Tetlow (2015).  “The Federal 
+
+Reserve’s Framework for Monetary Policy:  Recent Changes and New 
+Questions,” IMF Economic Review, vol. 63 (April), pp. 22–70. 
+
+ 
+Greenspan, Alan (1998).  “Question:  Is There a New Economy?” speech delivered at the 
+
+Haas Annual Business Faculty Research Dialogue, University of California, 
+Berkeley, September 4, 
+https://www.federalreserve.gov/boarddocs/speeches/1998/19980904.htm.  
+
+ 
+Hebden, James, and J. David López-Salido (2018).  “From Taylor’s Rule to Bernanke’s 
+
+Temporary Price Level Targeting,” Finance and Economics Discussion Series 
+2018-051.  Washington:  Board of Governors of the Federal Reserve System, 
+July, https://doi.org/10.17016/FEDS.2018.051. 
+
+ 
+Herbst-Bayliss, Svea (1999).  “Fed Conference Timing on Inflation Odd, but Useful,” 
+
+Reuters News, October 20. 
+ 
+Kiley, Michael T., and John M. Roberts (2017), “Monetary Policy in a Low Interest Rate 
+
+World,” Brookings Papers on Economic Activity, Spring, pp. 317–72, 
+https://www.brookings.edu/wp-content/uploads/2017/08/kileytextsp17bpea.pdf. 
+
+ 
+Mertens, Thomas M., and John C. Williams (2019).  Monetary Policy Frameworks and 
+
+the Effective Lower Bound on Interest Rates, Staff Report 877.  New York:  
+
+
+ - 11 - 
+
+Federal Reserve Bank of New York, January, 
+https://www.newyorkfed.org/medialibrary/media/research/staff_reports/sr877.pdf. 
+
+ 
+Nessén, Marianne, and David Vestin (2005).  “Average Inflation Targeting,” Journal of 
+
+Money, Credit and Banking, vol. 37 (October), pp. 837–63. 
+ 
+Olson, Peter, and David Wessel (2016a).  “Federal Reserve Communications:  Survey 
+
+Results.”  Washington:  Hutchins Center on Fiscal and Monetary Policy at 
+Brookings, November, https://www.brookings.edu/wp-
+content/uploads/2016/11/fed-communications-survey-results.pdf.   
+
+ 
+——— (2016b).  “Survey Finds Mixed Feelings on Fed Communication,” Wall Street 
+
+Journal, November 21.  (Also reprinted and available on the Brookings Institution 
+site at https://www.brookings.edu/opinions/survey-finds-mixed-feelings-on-fed-
+communication.)  
+
+ 
+Powell, Jerome H. (2018).  “Monetary Policy in a Changing Economy,” speech delivered 
+
+at “Changing Market Structure and Implications for Monetary Policy,” a 
+symposium sponsored by the Federal Reserve Bank of Kansas City, held in 
+Jackson Hole, Wyo., August 23–25, 
+https://www.federalreserve.gov/newsevents/speech/powell20180824a.htm. 
+
+ 
+Rachel, Lukasz, and Lawrence H. Summers (2019).  “On Falling Neutral Real Rates, 
+
+Fiscal Policy, and the Risk of Secular Stagnation,” paper presented at the 
+Brookings Papers on Economic Activity Conference, Spring, held at the 
+Brookings Institution, Washington, March 7–8, https://www.brookings.edu/wp-
+content/uploads/2019/03/On-Falling-Neutral-Real-Rates-Fiscal-Policy-and-the-
+Risk-of-Secular-Stagnation.pdf.   
+
+ 
+Reifschneider, David, and John C. Williams (2000), “Three Lessons for Monetary Policy 
+
+in a Low Inflation Era,” Journal of Money, Credit and Banking, vol. 32 
+(November), pp. 936–66. 
+
+ 
+Wiley-Blackwell (2000).  Journal of Money, Credit and Banking, vol. 32 (November), 
+
+pp. 707–1109.  
+ 
+Wolman, Alexander L. (2005).  “Real Implications of the Zero Bound on Nominal 
+
+Interest Rates,” Journal of Money, Credit and Banking, vol. 37 (March),  
+pp. 273–96. 
+
+
+

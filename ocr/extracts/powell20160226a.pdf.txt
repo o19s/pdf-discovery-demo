@@ -1,0 +1,734 @@
+
+For release on delivery 
+10:15 a.m. EST 
+February 26, 2016 
+ 
+
+
+Discussion of the paper “Language after Liftoff:   
+Fed Communication Away from the Zero Lower Bound” 
+
+
+Remarks by 
+ 
+
+Jerome H. Powell 
+ 
+
+Member 
+ 
+
+Board of Governors of the Federal Reserve System 
+ 
+
+at  
+ 
+
+“2016 U.S. Monetary Policy Forum” 
+An annual conference sponsored by  
+
+University of Chicago Booth School of Business  
+ 
+
+New York, New York 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+February 26, 2016 
+ 
+
+
+
+This paper reviews Federal Open Market Committee (FOMC) communications 
+
+from the time the Committee began issuing regular postmeeting statements in 1999 to the 
+
+present.1  The authors provide an extended and insightful discussion of the theory and 
+
+practice of providing forward guidance about monetary policy.  They offer one central 
+
+lesson:  Data-based forward guidance is mostly good, while time-based forward guidance 
+
+is mostly bad.   
+
+The authors show that data-based guidance has desirable characteristics and can 
+
+make monetary policy more effective.  When clearly articulated and well understood, it 
+
+allows markets to react appropriately to incoming data, doing the heavy lifting for the 
+
+central bank.   
+
+Time-based guidance is found to have certain bad characteristics and should be 
+
+avoided, except at the zero lower bound and when other options are not available or not 
+
+working.  Time-based guidance may reduce the sensitivity of rates to incoming 
+
+macroeconomic data, suppress volatility, encourage risk-taking and increased leverage, 
+
+and threaten financial stability.  It may also put policymakers in a box when changes in 
+
+the economy make it optimal to deviate from previously expressed guidance, but the 
+
+Committee cannot do so without losing credibility.   
+
+The authors blame time-based guidance for several episodes in which the 
+
+Committee zigged when the market looked for it to zag, leaving market participants 
+
+unhappy and, in the authors’ view, the FOMC’s credibility damaged.  They argue that the 
+
+                                                   
+1 The views expressed here are my own, and not those of the FOMC. 
+      See Michael Feroli, David Greenlaw, Peter Hooper, Frederic Mishkin, and Amir Sufi (2016), 
+“Language after Liftoff:  Fed Communication Away from the Zero Lower Bound,” paper presented at the 
+2016 U.S. Monetary Policy Forum, a conference sponsored by the University of Chicago Booth School of 
+Business, held in New York, February 26; see 
+https://research.chicagobooth.edu/igm/events/conferences/2016-usmonetaryforum.aspx. 
+
+
+ - 2 - 
+
+Committee has relied too much on time-based guidance in recent years and should use it 
+
+only parsimoniously in the future. 
+
+I commend the authors for undertaking this enormously challenging and useful 
+
+exercise.  The paper forces us to reconsider the Committee’s evolving understanding of 
+
+the macroeconomic environment before, during, and after the Great Recession; its 
+
+decisions and its communications; and the market’s understanding of those decisions, 
+
+which have sometimes deviated from what the Committee actually said. 
+
+The distinction between time-based and data-based guidance is an important one, 
+
+and the potential problems with time-based guidance are real and well described in the 
+
+paper.  That said, I am not convinced that this distinction has played a central role in 
+
+determining the successes and challenges of FOMC communications in this remarkable 
+
+era, or that it helps us improve in the future.  The authors are, in their words, 
+
+“unabashedly judgmental” in labeling specific communications to be either time- or data-
+
+based.2  My own judgments differ in significant respects from those described in the 
+
+paper. 
+
+Discussion of Forward Guidance 
+
+I will start in December 2008, when the Committee said that “weak economic 
+
+conditions are likely to warrant exceptionally low levels of the federal funds rate for 
+
+some time.”3  This relatively weak time-based guidance was strengthened in a series of 
+
+steps until August 2011, when the time-based language became “at least through mid-
+
+                                                   
+2 See Feroli and others, “Language after Liftoff,” in note 1, p. 20. 
+3 Board of Governors of the Federal Reserve System (2008), “FOMC Statement and Board Approval of 
+Discount Rate Requests of the Federal Reserve Banks of New York, Cleveland, Richmond, Atlanta, 
+Minneapolis, and San Francisco,” press release, December 16, paragraph 4, 
+www.federalreserve.gov/newsevents/press/monetary/20081216b.htm. 
+
+
+ - 3 - 
+
+2013.”4  The calendar reference was later extended in a couple of steps to “at least 
+
+through mid-2015.”5  This guidance was explicitly time-based, and the authors seem to 
+
+agree that, through this point, the guidance served its intended purpose at the zero lower 
+
+bound by pushing down medium- and longer-term rates.6 
+
+At the December 2012 meeting, the Committee ended this calendar-based 
+
+guidance.  The Committee instead adopted thresholds, saying that it did not intend to 
+
+raise rates at least as long as unemployment remained above 6½ percent, inflation one to 
+
+two years ahead was projected to be no higher than 2½ percent, and longer-term inflation 
+
+expectations remained well anchored.7  The adoption of thresholds was a clear change to 
+
+data-based guidance, as its principal sponsors had frequently urged.8  The point was not 
+
+                                                   
+4 Board of Governors of the Federal Reserve System (2011), “FOMC Statement,” press release, August 9, 
+paragraph 3, www.federalreserve.gov/newsevents/press/monetary/20110809a.htm. 
+5 Board of Governors of the Federal Reserve System (2012), “Federal Reserve Issues FOMC Statement,” 
+press release, September 13, paragraph 5, 
+www.federalreserve.gov/newsevents/press/monetary/20120913a.htm. 
+6 Some viewed this guidance as merely a forecast of Committee action, designed to better inform the 
+market and reduce uncertainty.  Others have argued that such guidance is understood as a promise to which 
+the Committee will be held irrespective of future macroeconomic developments.  The Committee never 
+offered a single explanation, and participants may have had different views.  Engen, Laubach, and 
+Reifschneider (2015) argue that the Federal Reserve’s time-based guidance initiated in August 2011 was 
+highly effective in inducing market participants to change their beliefs about the Committee’s reaction 
+function and to regard monetary policy as more accommodative.  Using Blue Chip survey data, the authors 
+estimate that the perceived weight on resource slack roughly doubled between March 2011 and March 
+2012.  In an August 2011 speech, Chairman Bernanke indicated that the guidance about the federal funds 
+rate path was highly conditional on the outlook, saying, “in what the Committee judges to be the most 
+likely scenarios for resource utilization and inflation in the medium term, the target for the federal funds 
+rate would be held at its current low levels for at least two more years.”  (Ben S. Bernanke (2011), “The 
+Near- and Longer-Term Prospects for the U.S. Economy,” a speech delivered at “Achieving Maximum 
+Long-Run Growth,” a symposium sponsored by the Federal Reserve Bank of Kansas City, held in Jackson 
+Hole, Wyo., August 26, p. 7, www.federalreserve.gov/newsevents/speech/bernanke20110826a.pdf.) 
+7 Board of Governors of the Federal Reserve System (2012), “Federal Reserve Issues FOMC Statement,” 
+press release, December 12, paragraph 5, 
+www.federalreserve.gov/newsevents/press/monetary/20121212a.htm. 
+8 For example, see Charles L. Evans (2012), “Macroeconomic Effects of FOMC Forward Guidance,” 
+speech delivered at the Spring Panel on Economic Activity, Brookings Institution, Washington, March 22, 
+https://www.chicagofed.org/publications/speeches/2012/03-22-12-brookings; and Alejandro Justiniano, 
+Charles L. Evans, Jeffrey R. Campbell, and Jonas D.M. Fisher (2012), “Macroeconomic Effects of FOMC 
+Forward Guidance,” Brookings Papers on Economic Activity, Spring, pp. 1-54, 
+www.brookings.edu/~/media/projects/bpea/spring-2012/2012a_evans.pdf.   
+
+
+ - 4 - 
+
+to provide additional stimulus at the time of adoption, but rather to allow market 
+
+participants to adjust their expectations about future monetary policy in response to 
+
+incoming data--exactly what the authors advocate.9 
+
+The Committee also used balance sheet policy through most of this period.  The 
+
+first two programs of large-scale asset purchases (LSAPs), popularly known as QE1 and 
+
+QE2, and the maturity extension program were announced in terms of time and quantity--
+
+that is, a certain quantity of assets would be purchased over a certain time.  In adopting 
+
+QE3, by contrast, the Committee committed to continuing purchases until there was a 
+
+substantial improvement in the outlook for the labor market.10  QE3 was fully data-
+
+contingent. 
+
+Former Chairman Bernanke recounts in his recent book that he saw QE3 as akin 
+
+to Mario Draghi’s statement that the European Central Bank would do “whatever it 
+
+takes.”11  He also notes that FOMC participants held divergent views on the potential 
+
+costs and benefits of the program.  Minutes of the relevant meetings described the 
+
+complex discussions and differing views.  Contemporaneous reports by Wall Street 
+
+analysts show frustration and confusion about the Committee’s intentions. 
+
+When various FOMC communications suggested that the time to begin reducing 
+
+purchases was nearing, long-term rates rose sharply--the so-called taper tantrum.  The 
+
+                                                   
+9 The thresholds’ useful life was fairly short because the unemployment rate fell sharply, from 8.0 percent 
+in December 2012 to 6.2 percent in April 2014, while inflation remained below 2.0 percent.   
+10 The December 2012 FOMC statement indicated that, “If the outlook for the labor market does not 
+improve substantially, the Committee will continue its purchases of Treasury and agency mortgage-backed 
+securities, and employ its other policy tools as appropriate, until such improvement is achieved in a context 
+of price stability.  In determining the size, pace, and composition of its asset purchases, the Committee will, 
+as always, take appropriate account of the likely efficacy and costs of such purchases.”  (Board of 
+Governors of the Federal Reserve System (2012), “Federal Reserve Issues FOMC Statement,” press 
+release, December 12, paragraph 4, www.federalreserve.gov/newsevents/press/monetary/20121212a.htm.) 
+11 Ben S. Bernanke (2015), The Courage to Act:  A Memoir of a Crisis and Its Aftermath (New York:  
+W.W. Norton), p. 532. 
+
+
+ - 5 - 
+
+contention of this paper is that time-based guidance was responsible.  But as the paper 
+
+acknowledges, the open-ended, data-contingent nature of the QE3 program created a 
+
+strong sense that the Fed was “all in” and that the purchases might go on for a long time.  
+
+That powerful commitment “would set things up for some fireworks” when the time 
+
+came to provide more precise guidance as to the timing of tapering, whether that was 
+
+done through time- or data-based guidance.12  While Committee communications are 
+
+subject to fair criticism, I don’t see an important role in this narrative for time-based 
+
+guidance. 
+
+Let’s turn briefly to 2015 and the run-up to last December’s increase in the federal 
+
+funds rate--also an important focus of the paper.  The authors and many market 
+
+participants are critical of communication around the September meeting.  With the June 
+
+2015 Summary of Economic Projections (SEP) showing that 15 of 17 FOMC participants 
+
+judged that appropriate policy would entail an initial increase in the federal funds rate by 
+
+the end of 2015, markets saw about a 50 percent chance that the first increase would 
+
+occur in September.  This probability fell to about 30 percent after global markets 
+
+experienced a sudden bout of volatility following China’s surprise devaluation of its 
+
+currency in August.  At the September meeting, the FOMC decided to wait to see how 
+
+global markets and the economy evolved, noting in its statement that “Recent global 
+
+economic and financial developments may restrain economic activity somewhat and are 
+
+likely to put further downward pressure on inflation in the near term.”13 
+
+                                                   
+12 See Feroli and others, “Language after Liftoff,” in note 1, p. 29.   
+13 Board of Governors of the Federal Reserve System (2015), “Federal Reserve Issues FOMC Statement,” 
+press release, September 17, paragraph 2, 
+www.federalreserve.gov/newsevents/press/monetary/20150917a.htm.  
+
+
+ - 6 - 
+
+A data-driven Committee, making decisions meeting by meeting, is likely to 
+
+surprise markets from time to time.  The authors join many others in criticizing the 
+
+“measured pace” period of 2004 through 2006, during which the Committee increased 
+
+rates by 25 basis points at 17 consecutive FOMC meetings.  A common criticism has 
+
+been that this high level of predictability made investors complacent, encouraging a 
+
+buildup of leverage and helping set the stage for the Global Financial Crisis.  That 
+
+criticism may well overstate the importance of the Committee’s communications; 
+
+nonetheless, a number of FOMC participants have said that the Committee intends to be 
+
+“data driven” and not fall into an excessively predictable, data-insensitive path.  Lower 
+
+predictability implies more surprises. 
+
+In the statement released after its October 2015 meeting, the Committee 
+
+reemphasized data dependence and focused on the importance of incoming data for the 
+
+Committee’s decision “at its next meeting,” which led the market to increase its estimated 
+
+probability of a December rate increase from 38 percent to 50 percent.14  The October 
+
+and November non-farm payroll reports came in strong and above expectations, raising 
+
+that probability by the time of the December meeting to about 90 percent.  In other 
+
+words, the Committee used modest time-based guidance to set the stage and then let 
+
+incoming data do the heavy lifting.  In the statement released after the FOMC’s most 
+
+recent meeting in January, the Committee said that, in evaluating future adjustments to 
+
+the target range for the federal funds rate, it would “assess realized and expected 
+
+economic conditions relative to its objectives of maximum employment and 2 percent 
+
+                                                   
+14 Board of Governors of the Federal Reserve System (2015), “Federal Reserve Issues FOMC Statement,” 
+press release, October 28, paragraph 3, 
+www.federalreserve.gov/newsevents/press/monetary/20151028a.htm.   
+
+
+ - 7 - 
+
+inflation.”15  This language shows that the Committee has moved away from the time-
+
+based guidance of the crisis years. 
+
+Although time-based guidance can create communications challenges, I see other 
+
+factors as having been more important in recent years.  In particular, the challenge of 
+
+deciding when and how to use unconventional tools--and ultimately when and how to 
+
+reduce that usage--is a great one.  The task of communicating clearly about those 
+
+decisions is equally great.  And the reality of the FOMC’s size and diversity, not to 
+
+mention uncertainty about the evolving structure of the economy and the effects of 
+
+monetary policy actions, means that we are still far from the ideal world of a fully 
+
+worked out, clearly specified and transparent consensus on what economists call a 
+
+“reaction function”--a complete description of how policy will respond to changes in 
+
+economic conditions. 
+
+Often when communicating about the path of policy, it will be hard to avoid a 
+
+combination of the two forms of guidance.  For example, the Committee has embraced 
+
+the view that the equilibrium level of the federal funds rate is currently below its pre-
+
+crisis level and expects the funds rate to return only gradually to its longer-run value.16  
+
+This view is a key aspect of many Committee participants’ reaction functions, including 
+
+mine.  Try saying that without referring to time. 
+
+                                                   
+15 Board of Governors of the Federal Reserve System (2016), “Federal Reserve Issues FOMC Statement,” 
+press release, January 27, paragraph 4, 
+www.federalreserve.gov/newsevents/press/monetary/20160127a.htm.  
+16 For example, the January 2016 FOMC statement says, “The Committee expects that economic conditions 
+will evolve in a manner that will warrant only gradual increases in the federal funds rate; the federal funds 
+rate is likely to remain, for some time, below levels that are expected to prevail in the longer run.”  (Board 
+of Governors of the Federal Reserve System (2016), “Federal Reserve Issues FOMC Statement,” press 
+release, January 27, paragraph 4, www.federalreserve.gov/newsevents/press/monetary/20160127a.htm.) 
+
+
+ - 8 - 
+
+The authors acknowledge that the distinction between rules and discretion is too 
+
+simple to capture the problems that monetary policymakers face.17  I would say the same 
+
+of the distinction between time-based and data-based forward guidance. 
+
+Lessons Learned and Suggested Improvements 
+
+Before turning to the paper’s conclusions, I would like to put the Federal 
+
+Reserve’s communications into a broader context.  In recent years, the FOMC has 
+
+adopted many new and significant communications tools.  Since the fall of 2007, 
+
+policymakers have submitted projections in conjunction with four FOMC meetings each 
+
+year; in 2012, those projections were augmented to include each participant’s path for 
+
+appropriate monetary policy.  In 2011, the Chairman began holding quarterly press 
+
+conferences.  In 2012, the Committee first released its statement on Longer-run Goals 
+
+and Monetary Policy Strategy, which formalized the FOMC’s 2 percent inflation 
+
+objective and is reaffirmed each year at the January meeting.  These and other changes 
+
+have kept the Federal Reserve among the world’s most transparent central banks in its 
+
+communications with the public. 
+
+With that as background, I find significant grounds for agreement and further 
+
+analysis in the paper’s concluding section, which lays out lessons learned and suggested 
+
+improvements.  The discussion of what is colloquially known as the “dot plot” included 
+
+in the SEP is particularly interesting.  The dot plot represents each FOMC participant’s 
+
+                                                   
+17 Feroli and others, “Language after Liftoff,” in note 1, p. 11; and Ben S. Bernanke and Frederic S. 
+Mishkin (1997), “Inflation Targeting:  A New Framework for Monetary Policy?” Journal of Economic 
+Perspectives, vol. 11 (Spring), pp. 97-116. 
+
+
+ - 9 - 
+
+individual assessment of the path of the federal funds rate over the next three years that is 
+
+most likely to promote maximum employment and stable prices.18 
+
+The dot plot presents a number of challenges.  The individual dots are not tied to 
+
+the individual macroeconomic forecasts presented in the SEP, and no information is 
+
+provided on the identity of the forecaster--for example, voting members of the 
+
+Committee are not distinguished from non-voting participants.  There is no easy path to 
+
+the identification of a Committee reaction function.  The dots speak as of their date of 
+
+publication after the FOMC meetings held in March, June, September, and December.  
+
+Three months pass between SEPs.  The economic outlook can change quite significantly, 
+
+making the reigning dots look out of touch.  On occasion, the dot plot and the 
+
+postmeeting statement have seemed to send conflicting signals.  The dot plot reflects 
+
+individual views of appropriate policy, while the postmeeting statement reflects the 
+
+consensus of the Committee. 
+
+The authors weigh these challenges and ponder whether to eliminate the dot plot; 
+
+some appear to favor that idea.19  I doubt that most market participants would welcome 
+
+the elimination of this chart.  The SEP provides a number of benefits.  It requires FOMC 
+
+participants to write down their forecasts for inflation, unemployment, and growth, as 
+
+                                                   
+18 In the SEP collected prior to the March and June FOMC meetings, participants submit projections for the 
+current calendar year and two subsequent years; in the September SEP, the forecast horizon is extended out 
+an additional calendar year.  Thus, the forecast window does not remain constant for the different SEPs in a 
+given year; Wrightson commentary has suggested that a rolling forecast horizon might be an improvement 
+over the current calendar-year focus (Wrightson ICAP (2016), “January 26-27 FOMC Minutes Recap,” 
+February 18). 
+19 For instance, Michael Feroli (as quoted in a recent article) said, “I think they have outlived their 
+usefulness and they risk sending a signal that (Fed officials) have a ‘plan’ rather than that they are data 
+dependent” (see Ann Saphir (2016), “Fed’s ‘Dot Plot’ Looks Increasingly out of Touch on Rates,” Markets, 
+Reuters, February 14, paragraph 8, http://in.reuters.com/article/us-usa-fed-path-analysis-
+idINKCN0VN0PU); and in a 2012 speech, former Governor of the Bank of Canada Mark Carney stated, 
+“Overall research has not generally found that publishing a path leads to better outcomes.”  (Mark Carney 
+(2012), “Guidance,” a speech delivered to the CFA Society Toronto, Toronto, Canada, December 11, 
+paragraph 24, www.bankofcanada.ca/2012/12/guidance.  
+
+
+ - 10 - 
+
+well as their assessments of appropriate monetary policy.  This exercise helps 
+
+policymakers to be more systematic.  In addition, by observing how the SEP changes 
+
+over time, the public can better understand how Committee members react to changes in 
+
+the economy.  My view is that the dot plot, on balance, is helpful to market participants 
+
+and hence to the Committee.  As the dot plot enters its fifth year of existence, my hope is 
+
+that we will be able to capture those benefits while avoiding its shortcomings. 
+
+I agree with the paper’s suggestion of greater emphasis on the degree of 
+
+uncertainty around the projections, which is much larger than the dispersion of the 
+
+individual forecasts.  As you know, at its January meeting, the Committee discussed 
+
+adding fan charts to the SEP.  Fan charts could help emphasize that the economic outlook 
+
+is uncertain, and that consequently there is considerable uncertainty around the path of 
+
+policy. 
+
+
+Discussion of “Language after Liftoff: 
+Fed Communication Away from 
+
+the Zero Lower Bound”
+
+U.S. Monetary Policy Forum
+
+February 26, 2016
+
+Governor Jerome H. Powell
+
+Board of Governors of the Federal Reserve System
+
+
+Overview
+
+• The paper
+
+• Provides extended and insightful discussion of forward guidance
+
+• Makes important distinction between time-based and data-based guidance
+
+• Reviews forward guidance in Federal Reserve communications
+
+• There are limits to usefulness of distinction
+
+1
+
+
+Forward Guidance:  Time based 
+
+Meeting Guidance Language
+
+December 2008 “weak economic conditions are likely to 
+warrant exceptionally low levels of the 
+federal funds rate for some time”
+
+March 2009 “for an extended period”
+
+August 2011 “at least through mid-2013”
+
+January 2012 “at least through late 2014”
+
+September 2012 “at least through mid-2015”
+
+2
+
+
+Forward Guidance:  Thresholds
+
+• December 2012 meeting—exceptionally low fed funds rate 
+at least as long as
+
+– Unemployment remains above 6½ percent
+
+– Inflation between 1 and 2 years ahead is projected to be no 
+greater than 2½ percent
+
+– Longer-term inflation expectations remain well anchored
+
+• Decisive switch to data-based guidance
+
+3
+
+
+Large-Scale Asset Purchases
+
+Program
+Date 
+Announced Description Time
+
+QE1 Nov. 25, 2008 &
+Mar. 18, 2009
+
+Agency debt:  up to $200 billion
+Agency MBS:  up to $1,250 billion
+
+Longer-term Treasuries:  $300 billion
+
+Over several quarters
+By year-end
+
+Over next 6 months
+
+QE2 Nov. 3, 2010 Longer-term Treasuries:  $600 billion By end-June 2011
+
+MEP Sept. 21, 2011 &
+
+June 20, 2012
+
+Longer-term Treasuries:  $400 billion
+(Sell equal amount of short-term 
+Treasuries)
+
+By end-June 2012
+
+Continue MEP at current 
+pace through end-2012
+
+4
+
+
+Flow-Based Asset Purchase Program (QE3)
+
+• Sept. 13, 2012:  Purchase agency MBS at pace of $40 billion per 
+month (continue MEP)
+
+• Dec. 12, 2012:  Purchase longer-term Treasuries at pace of $45 billion 
+per month after MEP ends; continue agency MBS purchases
+
+• Economic conditionality
+
+• Continue purchases until substantial improvement in outlook for labor market 
+in context of price stability
+
+• Take appropriate account of efficacy and costs of purchases
+
+5
+
+
+September 2015
+
+• June SEP:  15 of 17 FOMC participants with liftoff by end-2015; markets 
+
+saw 50 percent probability of a September liftoff
+
+• Unexpected devaluation of China’s currency on August 11 caused market 
+
+volatility
+
+• September decision was “data driven”
+
+6
+
+
+Probability of 2015 Liftoff (percent)
+
+38.7
+
+50.2
+
+68
+78
+
+90
+
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+Before Oct FOMC
+Meeting
+
+Oct FOMC
+Statement
+
+After Oct NFP After Nov NFP Before Dec FOMC
+Meeting
+
+7
+
+* Data taken from Bloomberg WIRP function; NFP = non-farm payroll employment.
+
+
+Federal Reserve Communications since 2007
+• Summary of Economic Projections, four times each year, starting fall 
+
+2007
+• Path for appropriate monetary policy included since 2012
+
+• Chairman’s quarterly press conferences since 2011
+
+• Longer-Run Goals and Monetary Policy Strategy statement since 2012
+• Formalized FOMC’s inflation objective of 2 percent
+
+• Reaffirmed every January
+
+• Federal Reserve among the world’s most transparent central banks
+
+8
+
+
+Lessons Learned and Suggested Improvements
+• “Dot plot” shows individual views on appropriate monetary policy
+
+– Dots not tied to macroeconomic projections
+
+– No information provided on identity of forecaster
+
+– Dots do not provide obvious means to identify Committee reaction 
+function
+
+– Economic outlook can change significantly between SEPs
+
+– SEP submitted before meeting; statement reflects Committee 
+consensus
+
+• Emphasize uncertainty surrounding projections—fan charts?
+
+9
+

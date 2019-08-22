@@ -1,0 +1,747 @@
+
+For release on delivery 
+8:00 p.m. EST (5:00 p.m. local time) 
+December 1, 2015 
+ 
+
+
+Normalizing Monetary Policy When the Neutral Interest Rate Is Low 
+ 
+ 
+ 
+
+Remarks by 
+ 
+
+Lael Brainard 
+ 
+
+Member 
+ 
+
+Board of Governors of the Federal Reserve System 
+ 
+
+at 
+ 
+
+Stanford Institute for Economic Policy Research 
+ 
+
+Stanford, California 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+December 1, 2015 
+ 
+
+
+
+Let me begin by noting that my comments today will not address the timing of 
+
+liftoff for the federal funds rate.1 
+
+Recent months have seen increased anticipation of the normalization of monetary 
+
+policy in the United States.  Many observers interpret normalization to mean a tightening 
+
+cycle similar in pace to previous cycles, such as those from 1994 to 1995 and from 2004 
+
+to 2007, with the effect of returning interest rates to the level viewed as normal in the 
+
+decades before the crisis.  The Federal Reserve describes normalization as “steps to raise 
+
+the federal funds rate and other short-term interest rates to more normal levels.”2  But 
+
+what do we mean by “more normal levels”?  A broad deterioration in foreign growth 
+
+prospects, together with greater risk sensitivity in the wake of the crisis and changes in 
+
+the rate of potential output growth, may be contributing to a “new normal.”  The new 
+
+normal is likely to be characterized by a lower level of interest rates than in the decades 
+
+preceding the crisis, which counsels a cautious and gradual approach to adjusting 
+
+monetary policy.  
+
+The Benchmark Neutral Rate 
+
+The appropriate pace and target for normalizing monetary policy depend centrally 
+
+on understanding the neutral rate of interest.  The nominal neutral interest rate is the level 
+
+of the federal funds rate that is consistent with output growing close to its potential rate 
+
+with full employment and stable inflation.3  The appropriate benchmark for assessing the 
+
+stance of monetary policy is the gap between the policy rate and the nominal neutral rate 
+
+                                                 
+I am grateful to Jim Clouse and Andrew Figura for their assistance in preparing this text. 
+ 
+1 These remarks represent my own views, which do not necessarily represent those of the Federal Reserve 
+Board or the Federal Open Market Committee. 
+2 For example, see Board of Governors (2014, paragraph 2). 
+3 The closely related concept of the natural rate of interest--the rate of interest at which investment and 
+savings are equilibrated at full employment--is originally attributed to Swedish economist Knut Wicksell.  
+
+
+ - 2 - 
+
+of interest:  When the federal funds rate is below the nominal neutral rate, monetary 
+
+policy is accommodative, and, when it is above the neutral rate, policy is contractionary.  
+
+For this reason, many monetary policy rules, such as the well-known Taylor rule, 
+
+incorporate an estimate of the neutral real interest rate as a critical parameter along with 
+
+the target rate of inflation.4 
+
+Although the neutral rate is a critical benchmark for monetary policy, it changes 
+
+over time in response to important changes in economic conditions, necessitating 
+
+corresponding adjustments in monetary policy in order to restore the economy to full 
+
+employment.  For instance, when there are modest adverse shocks to demand that lead to 
+
+modest reductions in the shorter-run neutral rate, monetary policy can provide enough 
+
+support to keep the economy at full employment simply by reducing the policy rate 
+
+commensurate with the decline in the nominal neutral rate.  However, when the adverse 
+
+shocks to demand are sufficiently severe to push the nominal neutral interest rate 
+
+substantially below zero, as they were during the Great Recession, monetary policy 
+
+confronts the zero-lower-bound constraint, at which point the federal funds rate cannot 
+
+fall low enough to provide the necessary degree of accommodation without becoming 
+
+negative.  This was the case in the United States for several years following the crisis and 
+
+remains true today in a number of advanced foreign economies.  That is why monetary 
+
+policymakers in the United States and several other major economies have been 
+
+compelled to use additional unconventional tools to promote full employment and target 
+
+inflation, such as forward guidance and asset purchases. 
+
+                                                 
+4 See Taylor (1993) and Taylor (1999). 
+
+
+ - 3 - 
+
+The neutral rate of interest is not directly observable, but we can back out an 
+
+estimate of the neutral rate by relying on the observation that output should grow faster 
+
+relative to potential growth the lower the federal funds rate is relative to the nominal 
+
+neutral rate.  In today’s circumstances, the fact that the U.S. economy is growing at a 
+
+pace only modestly above potential while core inflation remains restrained suggests that 
+
+the nominal neutral rate may not be far above the nominal federal funds rate, even now.  
+
+In fact, various econometric estimates of the level of the neutral rate, or similar concepts, 
+
+are consistent with the low levels suggested by this simple heuristic approach.5   
+
+The Past and Future Neutral Rate 
+
+In assessing the policy path ahead, the critical question is whether a low neutral 
+
+rate is likely to be a “new normal” in the longer run or whether the neutral rate is soon 
+
+likely to increase back to levels considered normal in the decades before the crisis.  To 
+
+answer this question, it is helpful to use economic forecasts, market-implied expectations, 
+
+and econometric models to assess where real interest rates are expected to be in the 
+
+longer run, and compare them with the levels that prevailed in the decades before the 
+
+crisis.  In doing so, it is important to abstract from shocks that are transitory or cyclical 
+
+and thus likely to fade away over a year or two.6 
+
+Starting with economic forecasts, Blue Chip Forecasts publishes projections of 
+
+the federal funds rate and consumer price index (CPI) inflation 6 to 10 years into the 
+
+future, when the economy is typically expected to be near full employment.  The implied 
+
+Blue Chip consensus longer-run real federal funds rate averaged around 2.2 percent in the 
+
+                                                 
+5 See, for example, Cúrdia (2015) and Del Negro and others (2015). 
+6 Hamilton and others (2015) use moving averages of real rates as their measure of the equilibrium real 
+rate.  Using a similar measure, in the United States, the 11-year moving average of the short-term real 
+interest rate is now at its lowest level since the beginning of the series in the late 1950s. 
+
+
+ - 4 - 
+
+two decades preceding the crisis, which is close to the level of the intercept term in the 
+
+Taylor (1993) rule, which in turn is based on empirical analysis of the period from the 
+
+mid-1980s to the early 1990s.  In contrast, the Blue Chip consensus longer-run rate is 
+
+currently around 1.1 percent, about 1 percentage point lower than the pre-crisis average.7   
+
+Similarly, although the Federal Open Market Committee (FOMC) has not 
+
+explicitly defined “normal,” the central tendency or the median of the longer-run level of 
+
+the federal funds rate in the Summary of Economic Projections (SEP) might reasonably 
+
+be considered a rough proxy.  By this proxy, forecasts of the neutral rate have moved 
+
+down noticeably over the past several years. The median projection of the longer-run 
+
+level of the real federal funds rate was 2-1/4 percent in January 2012, when projections of 
+
+the longer-run federal funds rate were first included in the SEP.  By comparison, the 
+
+median projection for the longer-run real federal funds rate had fallen by 3/4 percentage 
+
+point to 1-1/2 percent in the most recent SEP.8 
+
+Market measures of expected forward rates evidence a similar decline.  For 
+
+example, we can back out an implied 1-year real rate 10 years from now from the 
+
+Treasury inflation-protected securities, or TIPS, yield curve.  The most recent readings 
+
+are around 1.3 percent, close to 2 percentage points below the average rate from 1999 
+
+through 2007.  Swaps prices tell a similar story.  The implied expected 1-year real rate 10 
+
+years from now is currently close to 1 percent, again well below levels prior to the 
+
+financial crisis. 
+
+                                                 
+7 Here the longer-run real rate is defined as the consensus longer-run nominal federal funds rate minus the 
+consensus longer-run rate of CPI inflation.  Because most forecasts of economic conditions far into the 
+future are predicated on the economy being at full employment, forecasts of relatively low actual real rates 
+are consistent with forecasts of relatively low neutral rates. 
+8 In the SEP, longer-run projections represent each participant’s assessment of the rate to which each 
+variable would be expected to converge under appropriate monetary policy and in the absence of further 
+shocks to the economy. 
+
+
+ - 5 - 
+
+Finally, some of the econometric models used to estimate the current neutral rate, 
+
+or closely related concepts, can also be used to assess whether low neutral rates are likely 
+
+to persist.  While estimates will depend on the model specification, several models 
+
+estimate that the neutral rate will remain low for some time to come.  Laubach and 
+
+Williams, for example, estimate that the natural rate, a concept closely related to the 
+
+neutral rate, likely will remain near zero for the foreseeable future.9 
+
+Why Is the Neutral Rate Low? 
+
+With a variety of estimates suggesting that the neutral rate of interest is likely to 
+
+remain low relative to historical norms for some time, it is important to assess the 
+
+underlying causes and their likely persistence.  There are a host of factors that could lead 
+
+the neutral rate to remain depressed in the longer run--ranging from the low level of 
+
+world real interest rates, which affects the United States via the exchange rate and 
+
+financial market channels, to slow-moving secular trends in the labor force and 
+
+productivity, to persistent changes in risk perceptions stemming from the crisis. 
+
+Although tight domestic credit conditions and concerns about downside risks to 
+
+asset prices and domestic demand were the dominant drivers early in the recovery, the 
+
+foreign outlook has become increasingly important as a source of downward pressure on 
+
+the neutral rate in the past few years.  In addition to concerns about weak demand in 
+
+Japan and the euro area, more recently foreign growth concerns have broadened to 
+
+include China, which is navigating difficult structural as well as cyclical adjustments.  
+
+The financial reverberations from China are adversely affecting commodity exporters and 
+
+                                                 
+9 Laubach and Williams define the natural rate as “the real short-term interest rate consistent with the 
+economy operating at its full potential once transitory shocks to aggregate supply or demand have abated” 
+(2015, p. 2). 
+
+
+ - 6 - 
+
+emerging markets more broadly, and weak growth trajectories are now the norm in much 
+
+of the world, pushing down interest rates globally.   
+
+The broad-based reduction in interest rates in the rest of the world, by increasing 
+
+demand for U.S. assets, puts upward pressure on the dollar, which in turn implies 
+
+downward pressure on the U.S. neutral rate.  One way to think about the spillover from 
+
+abroad is how much adjustment in the federal funds rate might be necessary to insulate 
+
+domestic employment from an appreciation in the dollar that is expected to persist.  Let’s 
+
+take the roughly 15 percent real appreciation of the dollar that we have seen since June 
+
+2014.  According to the Board’s FRB/US model, it would require lowering the path of 
+
+the federal funds rate by roughly 1 percentage point over the medium term to insulate 
+
+domestic employment from the 15 percent stronger exchange rate in inflation adjusted 
+
+terms.  In the neighborhood of the zero lower bound, this shift down implies a delay in 
+
+the date of liftoff and a shallower path for the federal funds rate over several years.  In 
+
+effect, this spillover from abroad implies some limitations on the extent to which U.S. 
+
+monetary conditions can diverge from global conditions. 
+
+Going forward, many observers expect global growth to stabilize and eventually 
+
+move higher, easing pressure on the dollar and on commodity prices and leading to a 
+
+higher neutral interest rate globally.10  However, as foreign economies face structural as 
+
+well as cyclical adjustments, the speed at which the stabilization and recovery of foreign 
+
+growth takes place is highly uncertain, and there is a risk that this influence on the neutral 
+
+rate could fade very slowly.  Moreover, there are downside risks to the foreign outlook. 
+
+                                                 
+10 See, for example, chapter 1 of the IMF World Economic Outlook (2015). 
+
+
+ - 7 - 
+
+Other factors likely pushing down the current neutral rate may prove even more 
+
+persistent.  Importantly, expectations that the economy’s growth potential has fallen 
+
+could contribute to a persistent decline in the neutral rate.  Indeed, there is evidence that 
+
+growth in the labor force, and perhaps productivity, have slowed persistently in recent 
+
+years.  After increasing noticeably over much of the post-World War II period, the labor 
+
+force participation rate flattened out over the 1990s and began to decline in the early 
+
+2000s as the baby boom generation approached retirement.  Most recently, the pace of 
+
+decline has quickened, with the participation rate declining 1/2 percent per year, on 
+
+average, over the recovery.11  Productivity growth has also slowed, averaging just 
+
+1 percent per year over the recovery, about half the pace over the 50 years prior to the 
+
+financial crisis.12  Given this data, the Congressional Budget Office now estimates that 
+
+the growth rate of potential output is only 1.7 percent currently, less than half the rate 
+
+during the 50 years before 2008.  Nevertheless, although there is evidence of a 
+
+connection between low potential output growth and a low neutral rate, as pointed out by 
+
+Hamilton and others, the relationship is not precisely estimated, which leaves 
+
+considerable uncertainty about the magnitude of the effect.13 
+
+Finally, investors’ risk sensitivity appears to have been altered by the experience 
+
+of tail risks during the crisis, which could have a persistent depressing effect on the 
+
+                                                 
+11 Population growth has also moved gradually lower in the United States, though the effect has not been as 
+large as in some foreign economies, where the size of the population is now stagnant or falling.   
+12 It is unclear how persistent recent low rates of measured productivity growth will be.  While weak 
+investment levels, particularly early on in the recovery, likely contributed to lower productivity gains, 
+investment levels going forward could be closer to historical norms.  Also, recent technological gains may 
+eventually contribute strongly to productivity growth; see, for example, Baily, Manyika, and Gupta (2013).  
+In addition, there is evidence that some of the contribution of technology gains to productivity growth is 
+being understated; see, for example, Byrne and Pinto (2015), Byrne and Corrado (2015), and Byrne, Oliner 
+and Sichel (2015).  
+13 See Hamilton and others (2015). 
+
+
+ - 8 - 
+
+neutral rate.  To the extent that investors or firms are more attuned to the risks associated 
+
+with capital investments than before the financial crisis, it increases the premium for 
+
+risky investments, or the difference in return between a risk-free investment, such as 
+
+overnight reserves, and somewhat riskier investment opportunities.  A higher risk 
+
+premium necessitates a lower risk-free rate to encourage the same amount of riskier 
+
+investments as previously.  Consistent with this explanation, there is evidence that the 
+
+gap between the return to capital investment and the risk free rate has risen.  For example, 
+
+according to dynamic stochastic general equilibrium models estimated by the Federal 
+
+Reserve Board and the Federal Reserve Bank of New York, the natural rate of interest 
+
+has been held down during the recovery by shocks that increase the difference between 
+
+the marginal product of capital and the risk free rate, pushing down investment and 
+
+reducing the level of capital.14  In addition, a simple measure of the marginal product of 
+
+capital suggests that the return to capital investment has not changed very much, or 
+
+perhaps has even increased, over the past decade despite the decline in risk free rates.15 
+
+Implications for the Path of Monetary Policy 
+
+Before addressing what a persistently low neutral interest rate might mean for the 
+
+normalization of monetary policy, it is helpful to review inflation developments.  Because 
+
+the federal funds rate is the real rate plus the expected rate of inflation and because it is 
+
+the real rate that influences economic activity, the amount of monetary accommodation 
+
+represented by a given nominal level of the federal funds rate decreases as expected 
+
+inflation declines.  In a low neutral rate environment, it is especially important to guard 
+
+                                                 
+14 See Del Negro and others (2015).  In these models, the natural rate of interest is defined as the “rate of 
+interest that would obtain if all prices and wages had adjusted so as to bring the level of economic activity 
+to its full-employment rate.” 
+15 See Gomme, Ravikumar, and Rupert (2015). 
+
+
+ - 9 - 
+
+against extended periods of below-target inflation, which may lead inflation expectations 
+
+to drift lower. 
+
+ It is thus notable that inflation has been below our 2 percent target for 3 years.   
+
+Current below-target levels of inflation in part reflect disinflationary pressures from 
+
+abroad, including lower import prices and lower commodity prices, which are likely to 
+
+fade over time.  However, inflation has been stubbornly low, even excluding energy 
+
+prices.  Over the 12 months ending in October, core personal consumption expenditures, 
+
+or PCE, prices, which exclude the often volatile categories of food and energy, increased 
+
+1.3 percent, and the 12-month change in core prices has been around 1-1/4 to 1-1/2 
+
+percent since the beginning of 2013.  The persistent weakness in core price inflation 
+
+deserves continued vigilance.  
+
+In determining the outlook for inflation, the gravitational force of long-term 
+
+inflation expectations is especially important.  Some survey measures of inflation 
+
+expectations have declined recently.  For example, the University of Michigan Surveys of 
+
+Consumers median measure of inflation expectations at a 5-to-10 year horizon was 2.6 
+
+percent in November and has averaged 2.7 percent over the past year, slightly below the 
+
+average reading over the past decade of 2.9 percent.  Projections from the Survey of 
+
+Professional Forecasters also suggest that 10-year-ahead inflation expectations edged 
+
+lower this quarter, although they have remained at or very near 2 percent since the end of 
+
+2012.   
+
+Market-based measures of inflation compensation at longer-term horizons, such 
+
+as inflation swaps and the difference between nominal and inflation-indexed Treasury 
+
+bond yields, have declined more noticeably over the past year and a half.  Although it is 
+
+
+ - 10 - 
+
+difficult to precisely disentangle the contribution of changes in inflation expectations, 
+
+liquidity premiums, and inflation risk premiums to this downward shift, some 
+
+decompositions suggest that, while expected inflation may not have declined much, 
+
+market participants may be placing a somewhat greater likelihood than previously on 
+
+episodes of below-potential growth being accompanied by below-target inflation.  Thus, 
+
+the decline in measures of inflation expectations warrants close monitoring.   
+
+The slow progress on inflation, together with the likely low level of the longer-
+
+term neutral real rate and the slow pace at which the very low shorter-term rate may 
+
+move to the longer-term rate, suggest that the federal funds rate is likely to adjust more 
+
+gradually and to a lower level than in previous expansions.  In short, “gradual and low” is 
+
+likely to be the new normal.   
+
+In addition, the combination of a low neutral real rate with slow progress on 
+
+inflation suggests a greater likelihood of hitting the zero lower bound than in previous 
+
+decades, when the neutral rate was probably much higher.  The lower the longer-term 
+
+nominal neutral rate is, the smaller in magnitude an adverse economic shock must be to 
+
+push growth sufficiently below potential to necessitate a nominal federal funds rate below 
+
+zero to provide accommodation.  Assuming there has not been a material reduction in the 
+
+frequency and severity of negative shocks since the pre-crisis period, the implication is 
+
+that the probability of being constrained by the zero lower bound is greater than prior to 
+
+the crisis.   
+
+Although empirical analysis suggests that unconventional tools affect the 
+
+economy through the same channels as the federal funds rate, even so, there are greater 
+
+costs and uncertainties associated with unconventional policies relative to changes in the 
+
+
+ - 11 - 
+
+federal funds rate. 16  As a result, policy is likely to remain more constrained at the zero 
+
+lower bound than above it.  As the probability of hitting the zero lower bound increases, 
+
+the asymmetry in policy flexibility becomes more pronounced.  Because we have more 
+
+space to respond by raising rates if inflationary forces accelerate than by cutting rates if 
+
+disinflationary forces emerge, when nominal neutral rates are likely to be lower on 
+
+average, we should be cautious about raising rates, do so gradually, and carefully assess 
+
+the effects on economic and financial conditions as we go.  Moreover, because the 
+
+Federal Reserve’s asset holdings help maintain accommodative financial conditions, it 
+
+would be prudent to maintain reinvestments until the normalization of the federal funds 
+
+rate is sufficiently far along to allow room to cut nominal rates if economic conditions 
+
+deteriorate. 
+
+The asymmetry of policy flexibility at the zero lower bound also arises when 
+
+there is uncertainty about the level of the neutral real rate.  As discussed in recent papers, 
+
+if there is significant uncertainty about the level of the neutral real rate, risk management 
+
+considerations suggest that policymakers should respond cautiously to signs that the 
+
+neutral real rate may be rising, particularly when the policy rate is close to the zero lower 
+
+bound.17  In the presence of uncertainty, there is a risk that the actual neutral real rate is 
+
+either higher or lower than current estimates of the neutral real rate, and the stance of 
+
+policy will therefore be either more accommodative or more restrictive than intended.  If 
+
+the actual neutral rate is higher than estimated, and policy is more accommodative than 
+
+intended, the stance of policy can be readily tightened later to restrain any buildup in 
+
+inflationary pressures.  But, if the actual neutral real rate is lower than estimated, and the 
+
+                                                 
+16 See Engen, Laubach and Reifschneider (2015), for example. 
+17 See the recent papers by Gust, Johannsen and López-Salido (2015) and Evans and others (2015). 
+
+
+ - 12 - 
+
+stance of monetary policy is tighter than intended, unexpected policy restraint may prove 
+
+difficult to offset later with more accommodative policy because the policy rate is already 
+
+close to the zero lower bound. 
+
+Finally, there is a risk that with persistently lower neutral rates, there may be 
+
+greater pressures for investors to reach for yield, increasing the demand for risky assets.  
+
+As a result, macroprudential policy may take on greater importance to guard against 
+
+financial stability risks.  Since the crisis, the Federal Reserve and other regulatory 
+
+agencies have implemented a number of new rules to strengthen capital, liquidity, and 
+
+risk management at the largest financial institutions.  Many of these rules are “through 
+
+the cycle” safeguards, meaning that they impose structurally higher standards.  In 
+
+addition, when the risks to financial stability increase, the Federal Reserve, in 
+
+consultation with the other banking agencies, can temporarily increase the amount of 
+
+capital that large banks are required to hold in order to build resilience at these 
+
+institutions and to restrain undue risk-taking on a cyclical basis.   
+
+Conclusion 
+
+A variety of evidence suggests that the longer-run neutral rate is lower now than it 
+
+has been historically, and that the very low shorter-run neutral rate may adjust to it very 
+
+slowly, due to a combination of weaker foreign demand growth, greater risk sensitivity as 
+
+a result of the crisis, higher risk premiums for productive investment, and lower growth 
+
+in potential output.  The lower neutral rate means the normalization of the federal funds 
+
+rate is likely to follow a more gradual and shallower path than in previous cycles, 
+
+although the actual path will be determined by economic conditions.  It also implies that 
+
+the likelihood of the federal funds rate hitting the zero lower bound will be persistently 
+
+
+ - 13 - 
+
+greater than it has been previously, which could make it more difficult to achieve our 
+
+objectives of full employment and 2 percent inflation.  With the nominal neutral interest 
+
+rate lower than in the past, and with policy options being more limited if conditions 
+
+deteriorate than if inflationary pressures accelerate, the asymmetry in risk-management 
+
+considerations counsels a cautious and gradual approach. 
+
+
+
+
+ - 14 - 
+
+References 
+
+Baily, Martin Neil, James Manyika, and Shalabh Gupta (2013).  “U.S. Productivity 
+Growth:  An Optimistic Perspective,” International Productivity Monitor, vol. 25 
+(Spring), pp. 3-12, www.csls.ca/ipm/25/IPM-25-Baily-Manyika-Gupta.pdf. 
+
+Board of Governors of the Federal Reserve (2014).  “Federal Reserve Issues FOMC 
+Statement on Policy Normalization Principles and Plans,” press release, 
+September 17, 
+www.federalreserve.gov/newsevents/press/monetary/20140917c.htm. 
+
+Byrne, David, and Carol Corrado (2015).  “Recent Trends in Communications Equipment 
+Prices,” FEDS Notes.  Washington:  Board of Governors of the Federal Reserve 
+System, September 29, www.federalreserve.gov/econresdata/notes/feds-
+notes/2015/recent-trends-in-communications-equipment-pricing-20150929.htm. 
+
+Byrne, David M., Stephen D. Oliner, and Daniel E. Sichel (2015).  “How Fast Are 
+Semiconductor Prices Falling?” NBER Working Paper Series 21074.  Cambridge, 
+Mass.:  National Bureau of Economic Research, April, 
+http://dx.doi.org/10.3386/w21074  
+
+Byrne, David, and Eugenio Pinto (2015).  “The Recent Slowdown in High-Tech 
+Equipment Price Declines and Some Implications for Business Investment and 
+Labor Productivity,” FEDS Notes.  Washington:  Board of Governors of the 
+Federal Reserve System, March 26, 
+www.federalreserve.gov/econresdata/notes/feds-notes/2015/recent-slowdown-in-
+high-tech-equipment-price-declines-some-implications-for-business-investment-
+labor-productivity-20150326.html. 
+
+Cúrdia, Vasco (2015).  “Why So Slow?  A Gradual Return for Interest Rates,” FRBSF 
+Economic Letter 2015-32.  San Francisco:  Federal Reserve Bank of San 
+Francisco, October 12, www.frbsf.org/economic-research/publications/economic-
+letter/2015/october/gradual-return-to-normal-natural-rate-of-interest. 
+
+Del Negro, Marco, Marc Giannoni, Matthew Cocci, Sara Shahanaghi, and Micah Smith 
+(2015).  “Why Are Interest Rates So Low?” Federal Reserve Bank of New York, 
+Liberty Street Economics (blog), May 20, 
+http://libertystreeteconomics.newyorkfed.org/2015/05/why-are-interest-rates-so-
+low.html#.VlR1ACvYj2g. 
+
+Engen, Eric M., Thomas T. Laubach, and David Reifschneider (2015).  “The 
+Macroeconomic Effects of the Federal Reserve’s Unconventional Monetary 
+Policies,” Finance and Economics Discussion Series 2015-005.  Washington:  
+Board of Governors of the Federal Reserve System, January, 
+http://dx.doi.org/10.17016/FEDS.2015.005. 
+
+
+
+
+ - 15 - 
+
+Evans, Charles, Jonas Fisher, Francois Gourio, and Spencer Krane (2015).  “Risk 
+Management for Monetary Policy Near the Zero Lower Bound,” Brookings 
+Papers on Economic Activity, Spring, 
+www.brookings.edu/~/media/projects/bpea/spring-2015/2015a_evans.pdf. 
+
+Gomme, Paul, B. Ravikumar, and Peter Rupert (2015).  “Secular Stagnation and Returns 
+on Capital,” Federal Reserve Bank of St. Louis, Economic Synopses, no. 19, 
+August 18, https://research.stlouisfed.org/publications/economic-
+synopses/2015/08/18/secular-stagnation-and-returns-on-capital. 
+
+Gust, Christopher J., Benjamin K. Johannsen, and David López-Salido (2015).  
+“Monetary Policy, Incomplete Information, and the Zero Lower Bound,” Finance 
+and Economics Discussion Series 2015-099.  Washington:  Board of Governors of 
+the Federal Reserve System, November, 
+http://dx.doi.org/10.17016/FEDS.2015.099. 
+
+Hamilton, James D., Ethan S. Harris, Jan Hatzius, and Kenneth D. West (2015).  “The 
+Equilibrium Real Funds Rate:  Past, Present, and Future,” NBER Working Paper 
+Series 21476.  Cambridge, Mass.:  National Bureau of Economic Research, 
+August, http://dx.doi.org/10.3386/w21476 
+
+International Monetary Fund (2015).  World Economic Outlook:  Adjusting to Lower 
+Commodity Prices.  Washington:  IMF, October, 
+www.imf.org/external/pubs/ft/weo/2015/02. 
+
+Laubach, Thomas, and John C. Williams (2015).  “Measuring the Natural Rate of Interest 
+Redux,” Working Paper Series 2015-16.  San Francisco:  Federal Reserve Bank of 
+San Francisco, October, www.frbsf.org/economic-research/files/wp2015-16.pdf. 
+
+Taylor, John B. (1993).  “Discretion versus Policy Rules in Practice,” Carnegie-
+Rochester Conference Series on Public Policy, vol. 39 (December), pp. 195-214. 
+
+Taylor, John B. (1999).  “A Historical Analysis of Monetary Policy Rules,” in John B. 
+Taylor, ed., Monetary Policy Rules.  Chicago:  University of Chicago Press, 
+pp. 319-41. 
+

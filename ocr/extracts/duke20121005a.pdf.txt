@@ -1,0 +1,771 @@
+
+For release on delivery 
+1:00 p.m. EDT  
+October 5, 2012 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Addressing Long-Term Vacant Properties to Support Neighborhood Stabilization 
+ 
+ 
+ 
+
+Remarks by 
+
+Elizabeth A. Duke 
+
+Member 
+
+Board of Governors of the Federal Reserve System 
+
+at the 
+
+Conference on Distressed Residential Real Estate:  Dimensions, Impacts, and Remedies 
+ 
+
+New York, New York 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+October 5, 2012
+
+
+
+
+Good afternoon.  I want to thank the Federal Reserve Bank of New York and the 
+
+Rockefeller Institute for inviting me to participate in this important discussion of distressed 
+
+residential real estate.   
+
+The boom and bust in housing that is a hallmark of the recent economic cycle has 
+
+resulted in an unprecedented volume of foreclosures that has, in turn, left us with an 
+
+extraordinary level of vacant and distressed properties.  Even after the official end of the 
+
+recession, home sales and house prices continued to decline for several years, and residential 
+
+investment languished.1 All of this has resulted in a slow recovery in housing, which is one of 
+
+the primary reasons why our overall economic recovery has been so sluggish.  In order to see the 
+
+robust economic recovery we all want, we need to deal effectively with the large volume of 
+
+vacant and distressed properties throughout the country. 
+
+Our housing crisis has many dimensions and will require a full spectrum of policy actions 
+
+to restore health to the housing market, our economy, and most importantly, to neighborhoods 
+
+and communities across the country.  The Federal Reserve System has been active in studying 
+
+various aspects of the crisis, bringing together community leaders and market participants to 
+
+share experiences in forums such as this, and using data to identify areas of particular need.  I 
+
+have spoken in the past about credit availability, preventing foreclosures, converting foreclosed 
+
+properties to rental properties, and strategies for neighborhood stabilization.  Today, I would like 
+
+to focus on the problems posed by an elevated level of vacant properties.  I plan to draw on 
+
+research conducted by Federal Reserve Board staff and would especially like to thank Raven 
+
+Molloy, an economist in our macroeconomic analysis group, for her work in this area.
+
+                                                 
+1 In the two years after the end of the most recent recession (Q2:2009), existing home sales rose only 4 percent, 
+house prices fell by 4 percent, according to the CoreLogic price index, and residential investment averaged only 2½ 
+percent of gross domestic product (GDP)--half of the average GDP between 1949 and 2006.  
+ 
+
+
+- 2 - 
+ 
+
+
+As I will discuss later in my remarks, the effective use of data is a common theme among 
+
+success stories in neighborhood stabilization.  In the hope that the census tract data referenced in 
+
+this speech might be helpful to others working to address vacancy problems, I plan to post our 
+
+data on the Federal Reserve website along with this speech.2 
+
+Level and Distribution of Vacant Housing   
+
+Since the beginning of this year, there have been signs of improvement in aggregate 
+
+housing market conditions nationally.  Sales of new and existing homes have risen and home 
+
+prices have turned upward.  So far this year, house prices have risen sufficiently to move a 
+
+noticeable number of underwater households--that is, those who owe more on their mortgages 
+
+than the market value of their homes--from negative equity to positive equity.  However, housing 
+
+markets differ greatly both across regions and within metropolitan areas, and the positive signs in 
+
+the aggregate data do not apply to all neighborhoods equally.  For example, even within those 
+
+metropolitan areas that have experienced rising average prices over the past year, one-fourth of 
+
+ZIP codes saw a decrease in prices over the same period.3  Moreover, those ZIP codes with 
+
+falling prices have also experienced rising vacancy rates more often than in other ZIP codes.4  
+
+These struggling high-vacancy areas provide evidence of the hard work that remains even as 
+
+housing markets show signs of improvement.  Although many of these areas share a high level of 
+
+vacancy, they differ significantly in other characteristics:  the concentration of vacancies, age of 
+
+the housing stock, cause of the problem, and even the demographics of the residents.  By looking 
+
+                                                 
+2 A Summary of Long-Term Vacant Typologies, Background on Analysis, and Data by Metropolitan Statistical Area 
+(MSA) is available on the Federal Reserve Board website at 
+www.federalreserve.gov/newsevents/speech/duke20121005a.htm 
+3 Staff calculations based on house price indexes from CoreLogic. 
+4 Staff calculations based on house price indexes from CoreLogic and vacancy rates from the U.S. Postal Service 
+(USPS).  
+
+
+- 3 - 
+ 
+
+
+more closely at the differences, we will gain a better understanding of these markets and of the 
+
+policies or program solutions that will address their vacancy issues most effectively. 
+
+One measure that is frequently cited when describing recent improvements in the national 
+
+housing market is the inventory of vacant homes for sale.  This measure had fallen to 1.6 million 
+
+units in the second quarter of 2012, substantially below its peak of about 2 million units in 2010 
+
+and the first half of 2011.5  However, many vacant homes are not on the market at all.  These 
+
+vacant units include properties that are in the foreclosure process, bank-owned properties that are 
+
+not yet for sale, as well as properties for which the cause of vacancy has no connection to the 
+
+foreclosure process.  Indeed, the stock of non-seasonal homes held off market is nearly two and a 
+
+half times as large as the for-sale vacant stock. 6  But unlike the inventory of vacant homes for 
+
+sale, this stock remains stubbornly elevated relative to pre-crisis numbers, and has not gone 
+
+down at all over the past year.    
+
+Moreover, vacant units are not evenly distributed throughout the United States.  Some 
+
+neighborhoods suffer disproportionate numbers of them.  Specifically, one-tenth of all census 
+
+tracts account for nearly 40 percent of the entire vacant housing stock.  By comparison, the 
+
+overall housing market is only half as concentrated with only 20 percent of the aggregate 
+
+housing stock found in the 10 percent of census tracts with the largest total number of housing 
+
+units.7  
+
+Problems Posed by Vacant Properties 
+
+Why focus on vacant homes?  Vacant homes can be more than just an eye sore; they can 
+
+have substantial negative impacts on the surrounding community, impacts that are felt most 
+
+                                                 
+5 Data from the Census Bureau’s Housing Vacancy Survey.  
+6 Data from the Census Bureau’s Housing Vacancy Survey.  This measure of vacant homes held off market excludes 
+properties that are held for occasional use or temporarily occupied by individuals with a usual residence elsewhere. 
+7 Staff calculations based on USPS vacancy data. 
+
+
+- 4 - 
+ 
+
+
+acutely by the neighbors and communities that must cope with the dangers and costs of vacant 
+
+buildings.  Since vacant properties tend to be concentrated in a relatively few number of 
+
+neighborhoods, some communities are adversely affected much more than others.  
+
+ Homes that have been vacant for a long time tend to fall into severe disrepair.  Such 
+
+physical blight can invite more property crime, as vacant houses are an appealing hide-out and 
+
+target for criminals, and the absence of residents can mean fewer eyes in the neighborhood to 
+
+look out for suspicious activity.  In fact, counties that experience a large increase in the number 
+
+of long-term vacant homes tend to see an increase in burglary in the following year.  This 
+
+correlation holds even after controlling for other county characteristics, such as changes in 
+
+unemployment, changes in population, and changes in violent crime.8    
+
+In turn, blight and crime make these neighborhoods less attractive to potential buyers, 
+
+renters, and businesses.  Calculations by Board staff indicate that ZIP codes with a larger 
+
+increase in long-term vacancy experience smaller increases--or larger decreases--in house prices 
+
+in the next year.9  Falling home prices can harm both neighboring homeowners as well as local 
+
+municipalities that are dependent on property tax revenue.   
+
+Research conducted by the Federal Reserve Bank of Cleveland has shown that a home 
+
+that is simply foreclosed, but not vacant, lowers neighboring property values by up to 3.9 
+
+percent.  However, if a home is foreclosed, tax delinquent, and vacant, it can lower neighboring 
+
+property values by nearly two and a half times that amount.10  Moreover, properties that have 
+
+been vacant for a substantial period of time can impose even larger costs on the community, and 
+
+                                                 
+8 Staff calculations based on crime data from the Federal Bureau of Investigation’s Uniform Crime Reports. 
+9 Staff calculations using USPS vacancy data and house values by ZIP code from Zillow. 
+10 Stephen Whitaker and Thomas J. Fitzpatrick IV (2011), “The Impact of Vacant, Tax-Delinquent and Foreclosed 
+Property on Sales Prices of Neighboring Homes,” Working Paper 11-23 (Cleveland: Federal Reserve Bank of 
+Cleveland, October),  www.clevelandfed.org/research/workpaper/2011/wp1123r.pdf. 
+
+
+- 5 - 
+ 
+
+
+all too often, the private market is not likely to solve the problem on its own.  In such cases, 
+
+government authorities and public resources may be required.   
+
+Of course, not all vacant properties pose a problem for the local community, as some 
+
+homes become briefly vacant during the usual process of changes in ownership.  But the longer a 
+
+home stands vacant, the greater likelihood that poor maintenance and the associated problems 
+
+that result can become serious issues for the surrounding community.  Statistics from the 
+
+American Housing Survey show that properties that have been vacant for longer than two years 
+
+are much more likely to have severe problems, such as cracked floors or walls, broken or 
+
+boarded up windows, and a roof or foundation in disrepair, that make these properties harder to 
+
+rehabilitate and less appealing to prospective buyers. 
+
+Segmenting the Inventory of Long-Term Vacancies  
+
+Analysis by Federal Reserve Board staff has calculated the fraction of housing units in 
+
+each census tract that has been vacant for at least two years--which I will refer to as “long-term” 
+
+vacancy--and categorized tracts that appear in the top 10 percent of this distribution into three 
+
+types.11 
+
+The first category of high long-term vacancy census tract is an area where a large 
+
+percentage of housing units were built post-2000, and that therefore can be thought of as 
+
+“housing boom” tracts.  These locations also have a higher median income, higher median house 
+
+value, and a larger fraction of residents with at least a college degree than other high long-term 
+
+vacancy census tracts.  Examples of metropolitan areas with a large number of tracts in this 
+
+category are Denver, Colorado; Orlando, Florida; Las Vegas, Nevada; and Phoenix, Arizona.   
+
+                                                 
+11 The vacancy data are from the USPS and the tract characteristics are from the five-year sample of the 2010 
+American Community Survey. 
+
+
+- 6 - 
+ 
+
+
+The second category of high long-term vacancy census tract has a large share of older 
+
+housing stock built before 1960, low median income, a high poverty rate, a high unemployment 
+
+rate, and a large share of residents with less than a high school degree.  These tracts can be called 
+
+“low demand” locations because these characteristics are frequently associated with areas 
+
+suffering from persistent job loss and a decline in housing demand.  Metropolitan areas with a 
+
+large number of tracts in this category include Detroit, Michigan; Cleveland, Ohio; St. Louis, 
+
+Missouri; and Baltimore, Maryland.   
+
+The third and final category of high long-term vacancy census tract has a low density of 
+
+housing units per square mile, high shares of owner-occupied and single-family housing units, 
+
+and a high fraction of white non-Hispanic residents.  We can think of these neighborhoods as 
+
+“traditional suburban” areas.  Examples of metropolitan areas with a large number of tracts in 
+
+this category are Charleston, West Virginia; Des Moines, Iowa; Peoria, Illinois; and Oklahoma 
+
+City, Oklahoma-- locations not often mentioned in national media coverage about the housing 
+
+crisis.                          
+
+Matching Solutions to Neighborhood Characteristics 
+
+As I mentioned earlier, we should endeavor to achieve full recovery in all of the many 
+
+diverse housing markets around the country.  The private market will likely drive recovery in 
+
+many locations and, in those locations, the appropriate role of government may be to monitor 
+
+local activity and ensure that the actions of the private markets improve neighborhoods and 
+
+provide opportunity for all families, regardless of income, race, ethnicity, or housing tenure.   
+
+However, some neighborhoods likely will not recover without the assistance of 
+
+government, and in this time of scarce resources, it is critical that the public sector has the 
+
+information and tools necessary to ensure that any assistance that is provided is effective and 
+
+
+- 7 - 
+ 
+
+
+efficient. Doubtless there will be costs associated with solving these problems, but it is important 
+
+to also consider the costs of doing nothing.  For example, it costs local taxpayers to let vacant 
+
+buildings decline, it costs money to tear them down, and it costs money to convert them to a 
+
+better use. Ultimately, a policy of neglect will be just as--or even more--costly than finding and 
+
+implementing constructive solutions to the vacancy issue.  We must ask ourselves, can we create 
+
+policies that fairly distribute those costs?  What are the limitations?  What innovations can create 
+
+more effective, scalable solutions?  With funding scarce, how can we identify solutions that will 
+
+ultimately be most cost effective?  
+
+To begin to answer some of these questions, I return to the typology of vacant properties 
+
+introduced earlier.   
+
+“Housing Boom” Locations 
+
+The first type, “housing boom” areas, has relatively high median incomes and new 
+
+housing stock.  These characteristics are attractive to investors, and many investors are 
+
+reportedly purchasing vacant homes and converting them to rental.  Given the recent tightening 
+
+of the rental market, such a strategy could be a win-win scenario for communities that need more 
+
+affordable rental homes and suffer from an excess of single-family vacant units.  In fact, in 
+
+January, the Federal Reserve released a staff paper on housing issues12 that went into some detail 
+
+about the potential benefits of converting foreclosed properties to rental, and in April, the Board 
+
+released a policy statement that outlines supervisory expectations for residential rental activities 
+
+for certain banking organizations.13  
+
+                                                 
+12 “The U.S. Housing Market: Current Conditions and Policy Considerations,” white paper (Washington: Board of 
+Governors of the Federal Reserve System, January 2012), www.federalreserve.gov/publications/other-
+reports/files/housing-white-paper-20120104.pdf. 
+13 Federal Reserve Board Policy Statement on Rental of Residential Other Real Estate Owned Properties.  April 5, 
+2012. www.federalreserve.gov/newsevents/press/bcreg/bcreg20120405a1.pdf. 
+
+
+- 8 - 
+ 
+
+
+ Phoenix, Arizona, is a good example of an area with many census tracts that fit into the 
+
+“housing boom” typology.  Phoenix was one of the areas hit hard during the housing bust, with a 
+
+peak-to-trough decline in prices of more than 50 percent.14  More recently, however, prices in 
+
+Phoenix have rebounded with a double-digit increase over the 12 months ending in July.15  
+
+Reportedly, much of this demand is driven by investors who are converting vacant homes into 
+
+rental properties.  Direct statistical evidence on investor activity at the local level is not available. 
+
+However, since investors tend to finance their purchases with cash or other non-mortgage 
+
+financing, the level of cash purchases can provide an indicator of investor activity.  In the past 
+
+two years, the fraction of home purchases financed with cash in the Phoenix area was much 
+
+higher than the national average.16  This is an example of the private market stepping in to 
+
+purchase vacant units and in turn increasing housing values.   
+
+As encouraging as this trend may be, it is not a panacea. For example, it is possible that 
+
+aggressive investor activity could crowd out potential homeowners, especially low- to moderate-
+
+income households.  In addition, investors are not interested in all markets; therefore, there will 
+
+still be some areas where private investment will not step in to curb the problems associated with 
+
+vacant properties.   
+
+The problem of investors crowding out local homebuyers could be addressed through 
+
+“first look” programs that provide a window, usually 15 days, during which time only 
+
+prospective homebuyers and nonprofits may bid on a property.  In Phoenix, non-profit 
+
+organizations and local government officials used Neighborhood Stabilization Program (NSP) 
+
+funding and enlisted local real estate professionals to match vacant homes with eligible 
+
+                                                 
+14 Data from CoreLogic.   
+15 Data from CoreLogic.   
+16 The number of transactions financed with cash are calculated by subtracting the number of mortgage originations 
+by ZIP code (based on data gathered under the Home Mortgage Disclosure Act) from the number of home sales by 
+ZIP code reported by CoreLogic. 
+
+
+- 9 - 
+ 
+
+
+homebuyers.  These are important programs.  Community leaders, banks, and real estate 
+
+professionals should continue to collaborate to ensure that prospective homeowners are given a 
+
+fair chance to bid on available properties.   
+
+However, most prospective homebuyers and local nonprofits cannot bid on a property if 
+
+they cannot access mortgage credit.  Results from the Federal Reserve’s Senior Loan Officer 
+
+Opinion Survey suggest that banks are less willing to provide mortgage credit now than in 2006 
+
+to borrowers with lower credit scores or smaller down payments.17  We hear much the same 
+
+story from community groups and housing counselors who report that low- and moderate- 
+
+income and first-time homebuyers, especially, are finding it increasingly difficult to meet the 
+
+requirements for a home purchase loan due to limited funds for a down payment or weaker credit 
+
+scores.  While prudent lending may warrant tighter underwriting standards relative to pre-crisis 
+
+levels, it is also important to ensure that tight credit does not unnecessarily dampen the housing 
+
+recovery and disproportionately affect creditworthy low-income and minority homebuyers.  And 
+
+without the participation of owner-occupants, it will be difficult for many housing markets to 
+
+recover. 
+
+ Like Phoenix, Oakland, California is also reportedly experiencing a significant amount of 
+
+investor activity that may be crowding out purchases by prospective homebuyers and nonprofits.  
+
+We hear complaints that many of these investors are not based in Oakland, causing residents to 
+
+express concern about external ownership of their neighborhoods and the long-term implications 
+
+of absentee landlords.  In an attempt to address these concerns and provide more homeownership 
+
+opportunities to low- and moderate-income Oakland residents, a national nonprofit, Enterprise 
+
+                                                 
+17 Federal Reserve Board.  April 2012 Senior Loan Officer Opinion Survey on Bank Lending Practices. 
+(www.federalreserve.gov/boarddocs/snloansurvey/201205/fullreport.pdf)  In response to a special set of questions 
+on residential real estate lending practices, banks reported that they were less likely than in 2006, to varying degrees, 
+to originate mortgages to any borrowers apart from those with the strongest credit profiles. 
+
+
+- 10 - 
+ 
+
+
+Community Partners, is working with a private real estate fund to direct some of the private 
+
+dollars seeking investment properties in Oakland.  The nonprofit partnership is using a complex 
+
+data-driven platform to identify targeted low- and moderate-income neighborhoods in the city, 
+
+purchasing vacant properties, rehabilitating them through a local workforce development 
+
+program, and converting them to rental.  The ultimate goal is to ensure that the properties remain 
+
+local neighborhood assets.  To achieve this, the partnership is prioritizing rentals and sales to 
+
+qualified local residents or nonprofits.  Such an innovative strategy seeks to complement local 
+
+government and investor activity so that residents can share in the benefits of a housing recovery.         
+
+“Low Demand” Locations 
+
+Not all markets are equally attractive to private investors, so some governments are 
+
+developing programs to attract private capital to “low demand,” high-vacancy neighborhoods.  
+
+The city of Baltimore, Maryland provides a good example of such a program.  Baltimore is 
+
+burdened with approximately 16,000 vacant and abandoned buildings, about a quarter of which 
+
+are owned by the city.  Much of this vacancy has been caused by population loss and suburban 
+
+flight--Baltimore City has lost nearly one-third of its population over the last 50 years.18  
+
+However, not all parts of Baltimore have a significant number of vacant properties.  In fact, only 
+
+5 percent of census tracts in the Baltimore metropolitan area have a long-term vacancy rate in the 
+
+top decile of the national distribution.19 The city of Baltimore has recognized these micro-market 
+
+distinctions and initiated an innovative data-driven program to identify areas with a high 
+
+concentration of vacant properties and turn these properties into valuable assets.   
+
+                                                 
+18 Ellen Janes and Sandra Davis (2011), “Vacants to Value: Baltimore’s Market-Based Approach to Vacant Property 
+Redevelopment,” Putting Data to Work: Data-Driven Approaches to Strengthening Neighborhoods (Washington: 
+Board of Governors of the Federal Reserve System, December). 
+19 Staff calculations based on USPS vacancy data. 
+
+
+- 11 - 
+ 
+
+
+This initiative, called “Vacants to Value,” uses data and targeted housing code 
+
+enforcement to foster redevelopment in areas where there is modest private investment interest.  
+
+Using a variety of real-time data sources, this program has developed market typologies down to 
+
+the census block-group level so that it can accurately determine the needs of specific 
+
+neighborhoods and apply targeted programs to best meet those needs.  For example, the city is 
+
+targeting approximately 700 vacant properties in weak market areas where large-scale 
+
+investment--encompassing at least a city block--is necessary to catalyze private investment.  In 
+
+healthier neighborhoods, the city believes that increased code enforcement and homebuyer or 
+
+developer incentives should be enough to reduce vacancy and stabilize neighborhoods.  Lastly, 
+
+in Baltimore’s hardest hit neighborhoods, the city is demolishing, holding, or maintaining 
+
+properties that are unlikely to attract any private investment in the near future.20   
+
+ Unfortunately, in some cases, vacant homes are beyond repair and will never be habitable 
+
+again.  In these instances, demolition is often the best solution, and land banks can be a good 
+
+way to hold the property until it can be converted to a better use.  A land bank is a governmental 
+
+or nongovernmental nonprofit entity established, at least in part, to assemble, temporarily 
+
+manage, and dispose of vacant land for the purpose of stabilizing neighborhoods and 
+
+encouraging re-use or redevelopment of urban property.  Land banks have been around since the 
+
+early 1970s, but the recent foreclosure crisis has stimulated the creation of several new land 
+
+banking programs, including in New York State and Kansas City, Missouri.  A key characteristic 
+
+of the new generation of land banks is that they often include mechanisms to self-finance over 
+
+time, including the ability to recapture a portion of the property taxes for a fixed period of time 
+
+after the property is put back to productive use.   
+
+                                                 
+20 Ibid 18. 
+
+
+- 12 - 
+ 
+
+
+As encouraging as these new self-financing features are, land banks and municipalities 
+
+are still struggling with the high costs of demolition.  For example, in Cuyahoga County, home 
+
+to Cleveland, Ohio, about 80 percent of the approximately 100 properties per month that the land 
+
+bank acquires need demolition, but at $10,000 in average costs per demolition, the Cuyahoga 
+
+Land Bank is struggling to find the resources to fund this activity.21  The state of Ohio recently 
+
+dedicated $75 million of its direct payments from the Attorneys’ General (AG) National 
+
+Mortgage Settlement to fund a new grant program for demolition of abandoned and vacant 
+
+properties statewide.22  This $75 million still will not solve all of Ohio’s demolition needs, but 
+
+leveraging public and private funds like the AG settlement or developing new national sources of 
+
+bond financing could help address this local problem.23   
+
+“Traditional Suburban” Locations 
+
+The last category of high-vacancy areas in the typology that I discussed earlier is 
+
+“traditional suburban” neighborhoods.  In contrast to the other two types of high-vacancy census 
+
+tracts, these neighborhoods are more evenly spread across many metropolitan areas, illustrating 
+
+that vacancy can be a problem in any community.  Furthermore, ZIP codes in the “traditional 
+
+suburban” tracts do not tend to have a higher share of property vacancies resulting from 
+
+foreclosure than other ZIP codes, which demonstrates that some neighborhoods are struggling 
+
+with long-term vacancy issues even though they did not experience large numbers of 
+
+foreclosures.  While the vacancies faced by these suburban areas might not have been caused by 
+
+foreclosure problems, the costs to neighborhoods are every bit as real.  Such areas represent 
+
+                                                 
+21 Tom Fitzpatrick. (2012). Connecting Communities [Webinar]. Retrieved from 
+https://www.stlouisfed.org/bsr/connectingcommunities/index.cfm?proc=call&act=view&sid=12 
+22 Ohio Attorney General (2012) “Attorney General Launches Moving Ohio Forward Demolition Grant Program To 
+Remove Blighted Residential Structures,” press release, April 13, www.ohioattorneygeneral.gov/foreclosure. 
+23 For example, the “Restore Our Neighborhoods Act” (H.R. 4210), sponsored in 2012 by Representative Steven 
+LaTourette (R-OH) would authorize creation of “Qualified Urban Demolition Bonds” to support demolition costs. 
+
+
+- 13 - 
+ 
+
+
+additional opportunities to use the lessons of the recent crisis as local leaders strive to better 
+
+understand the root cause of high vacancy levels and to target limited resources.  Consider the 
+
+situation faced by Oklahoma City. 
+
+ Oklahoma City estimates that 8,000 urban properties have been vacant for more than 
+
+three years, and that the number of vacancies is increasing.24  The city’s historically high housing 
+
+vacancies mostly stem from cultural and demographic changes that have occurred over decades, 
+
+as well as inadequate building code laws and enforcement.  Interestingly, the area did not 
+
+experience the housing boom and bust that occurred in much of the nation.  Whereas national 
+
+house prices rose by 89 percent between 2000 and 2006, prices in Oklahoma City rose by only 
+
+35 percent.  In addition, house prices in Oklahoma City have been flat since 2006, a sharp 
+
+contrast to the large drop in national home prices.   
+
+But even though the vacancy rates in Oklahoma City are not a direct result of the housing 
+
+boom and bust, it may be that newer solutions developed for “housing boom” and “low demand” 
+
+areas can be combined with traditional community development policy tools to help solve a 
+
+problem that developed over decades.  Indeed, city planners recently concluded that the city 
+
+could not tackle neighborhood revitalization without addressing vacancies.  Increasing costs for 
+
+needed city services, reduced revenues, and barriers to growth resulting from deteriorating 
+
+infrastructure all combined to lend urgency to these efforts.  As has been the case in other cities, 
+
+officials in Oklahoma City realized that gathering data was a necessary first step.  Starting earlier 
+
+this year, they embarked on an ambitious study to determine the total cost resulting from 
+
+vacancies.  The city will then use the findings from the study to support enactment of tougher 
+
+code enforcement to recover lost revenue, including assessment of fines against owners who fail 
+
+                                                 
+24 Russell Claus, Director, Planning Department, city of Oklahoma City. Interview by Paul Wenske, Senior 
+Community Development Advisor, Federal Reserve Bank of Kansas City. August 2012. 
+
+
+- 14 - 
+ 
+
+
+to maintain their properties.  This combination of new measurements and old tools to develop 
+
+solutions should serve as an example to many “traditional suburban” areas around the country 
+
+that have experienced, and will continue to experience, vacancy issues.   
+
+Conclusion 
+
+The potential fallout of high rates of vacancy--blight, crime, lowered home values, and 
+
+decreased property tax revenue--is the same for every neighborhood and community.  But there 
+
+is no one-size-fits-all solution to the vacancy problem.  I’ve used some examples of communities 
+
+around the country that are facing high vacancy rates in order to illustrate their different 
+
+characteristics and the different origins of their vacancy problems.  Taking account of such 
+
+differences will be important in crafting solutions to the problems caused by those vacancies.  
+
+Hopefully, these examples and other ideas that have been shared throughout this conference will 
+
+inspire new and creative solutions to the difficult issues faced by communities.  Certainly, 
+
+different housing markets will recover in different ways and at different paces.  In some areas, 
+
+the private market will lead the way, while in others, government will have to use precious 
+
+resources wisely to catalyze recovery.   
+
+The examples I’ve discussed also illustrate the value of using data to understand vacancy 
+
+issues, to determine which neighborhoods are experiencing which challenges, and to design 
+
+appropriate policy solutions.  Solving the problems of long-term vacancies will require the best 
+
+efforts of public, private, and non-profit leaders locally and across the country.  I can assure you 
+
+the Federal Reserve System will continue to support recovery through the use of all its policy 
+
+tools and research capacity. 
+
+Thank you. 
+

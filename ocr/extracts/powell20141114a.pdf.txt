@@ -1,0 +1,567 @@
+
+For release on delivery 
+4:00 p.m. EST 
+November 14, 2014 
+ 
+
+
+Monetary Policy Accommodation, Risk-Taking, and Spillovers 
+ 
+ 
+ 
+ 
+
+Remarks by 
+ 
+
+Jerome H. Powell 
+ 
+
+Member 
+ 
+
+Board of Governors of the Federal Reserve System 
+ 
+
+at  
+ 
+
+“Global Research Forum on International Macroeconomics and Finance” 
+ 
+
+Sponsored by the European Central Bank, the Federal Reserve Board, 
+and the Federal Reserve Bank of New York 
+
+ 
+Washington, D.C. 
+
+
+November 14, 2014 
+ 
+
+
+
+Our panel’s topic--“Monetary Policy Spillovers and Cooperation in a Global 
+
+Economy”--is surely a timely one.  I will offer brief introductory thoughts and then 
+
+discuss some recent research by Federal Reserve Board economists that has bearing on 
+
+these matters.1   
+
+The Federal Reserve’s monetary policy is motivated by the dual mandate, which 
+
+calls upon us to achieve stable prices and maximum sustainable employment.  While 
+
+these objectives are stated as domestic concerns, as a practical matter, economic and 
+
+financial developments around the world can have significant effects on our own 
+
+economy and vice versa.  Thus, the pursuit of our mandate requires that we understand 
+
+and incorporate into our policy decision-making the anticipated effects of these 
+
+interconnections.  And the dollar’s role as the world’s primary reserve, transaction, and 
+
+funding currency requires us to consider global developments to help ensure our own 
+
+financial stability. 
+
+Since the financial crisis, the Federal Reserve has pursued a highly 
+
+accommodative monetary policy, which has had important effects on asset prices and 
+
+global investment flows.  With unconventional tools, the scale and scope of these effects 
+
+were difficult to predict ex ante.  Nor is it possible to predict with confidence how 
+
+markets will react day to day as policy returns to normal.  The Federal Open Market 
+
+Committee (FOMC) has gone to great lengths to provide transparency about its policy 
+
+intentions.  Yet, since Chairman Bernanke first discussed the end of the asset purchase 
+
+program in mid-2013, volatility has surprised both on the upside (the “taper tantrum”) 
+
+and on the downside (the actual taper and the low volatility throughout most of 2014).  In 
+
+1 The views expressed herein are my own and not necessarily those of other FOMC participants. 
+                                                 
+
+
+ - 2 - 
+
+my view, while market volatility will continue to ebb and flow, these fluctuations are not 
+
+likely to have important implications for policy.  The path of policy will depend on the 
+
+progress of the economy toward fulfilment of the dual mandate. 
+
+Overall, accommodative monetary policy seems to have provided significant 
+
+support for U.S. growth.  And, of course, a strong U.S. economy contributes to strong 
+
+growth around the globe, particularly in the emerging market economies (EMEs).  But 
+
+what of the so-called spillovers in the form of flows into, and out of, EMEs, whose 
+
+financial sectors are small compared with global investment flows?  Such spillovers 
+
+could merely reflect investor responses to changing differentials between rates of return 
+
+abroad and in the United States.  But these spillovers could also reflect shifts in investor 
+
+preferences for risk.  
+
+By design, accommodative monetary policy--whether conventional or 
+
+unconventional--supports economic activity in part by creating incentives for investors to 
+
+take more risk.  Such risk-taking can show up in domestic financial markets, in the 
+
+international investments of U.S. investors, and even, ultimately, in general risk attitudes 
+
+toward foreign financial markets.  Distinguishing between appropriate and excessive risk-
+
+taking is difficult, however. 
+
+I now turn to some recent research on whether there has been an increase in the 
+
+riskiness of our investments abroad and whether such increases might be traced to the 
+
+current low-interest rate environment.  Many studies of the pre-crisis period document 
+
+the pro-cyclical nature of bank lending and leverage, and the buildup of risk-taking and 
+
+
+ - 3 - 
+
+leverage by banks.2  It is much harder to find evidence that low interest rates have led to 
+
+increased post-crisis risk-taking by U.S. banks.  Growth in overall lending by U.S. banks 
+
+has been modest at best.  However, some pockets of increased risk-taking by banks and 
+
+other investors are observable in domestic markets, such as leveraged loans.  And on the 
+
+international front, there has been a notable increase in syndicated loan originations.   
+
+Recent research by Board staff, using a database of loans primarily to U.S. 
+
+borrowers but also to some foreign borrowers, suggests that lenders have indeed 
+
+originated an increased number of risky syndicated loans post-crisis, based on the 
+
+assessed probability of default as reported to bank supervisors (figure 1).3  Regression 
+
+results confirm that the average probability of default is significantly inversely related to 
+
+U.S. long-term interest rates.  This increase in riskiness of syndicated loans post-crisis 
+
+has been accompanied by a shift in the composition of loan holders:  An increasing share 
+
+is now held not by banks but by hedge, pension, and other investment funds (figure 2).  
+
+These nonbank investors also tend to hold loans with higher average credit risk (figure 3).  
+
+These data suggest that a tougher regulatory environment may have made U.S.-based 
+
+bank originators unable or unwilling to hold risky loans on their balance sheets.  Related 
+
+work by the same researchers, using a database with more-extensive coverage of loans to 
+
+2 See Tobias Adrian and Hyun Song Shin (2010), “Liquidity and Leverage,” Journal of Financial 
+Intermediation, vol. 19 (July), pp. 418-37; Valentina Bruno and Hyun Song Shin (2013), “Capital Flows, 
+Cross-Border Banking, and Global Liquidity,” NBER Working Paper Series 19038 (Cambridge, Mass.:  
+National Bureau of Economic Research, May); and Valentina Bruno and Hyun Song Shin (2013), “Capital 
+Flows and the Risk-Taking Channel of Monetary Policy,” NBER Working Paper Series 18942 (Cambridge, 
+Mass.:  National Bureau of Economic Research, April). 
+3 See Sirio Aramonte, Seung Jung Lee, and Viktors Stebunovs (2014), “Risk-Taking and Low Longer-
+Term Interest Rates:  Evidence from the U.S. Syndicated Loan Market,” paper presented at the 14th Annual 
+Bank Research Conference sponsored by the Federal Deposit Insurance Corporation’s Center for Financial 
+Research and the Journal of Financial Services Research, held in Arlington, Va., September 18-19, 
+www.fdic.gov/bank/analytical/cfr/STEBUNOVS%20DAY1_AM.PDF and Seung Jung Lee, Lucy Qian 
+Liu, and Viktors Stebunovs (2014), “Risk-Taking and Interest Rates:  Evidence from Decades in the Global 
+Syndicated Loan Market,” unpublished paper, Board of Governors of the Federal Reserve System. 
+
+
+
+
+ - 4 - 
+
+foreign borrowers, shows a similar pattern of increased risky loan underwriting by 
+
+international lenders, an increase that is also significantly inversely related to U.S. 
+
+interest rates.  Together, these results suggest a potential spillover from accommodative 
+
+U.S. monetary policy through increased risk-taking in syndicated loans globally, although 
+
+preliminary results also indicate that investors still require extra return for this extra risk.   
+
+Another area in which to look for links between low interest rates and risk-taking 
+
+is in cross-border securities purchases.  The role of low interest rates in advanced 
+
+economies in encouraging capital flows to EMEs where returns are higher has been a 
+
+familiar theme.4  And recent studies have found that asset prices in EMEs do respond 
+
+systematically to U.S. monetary policy shocks.5   
+
+For evidence of increased risk-taking in cross-border investment, let’s look at the 
+
+composition of U.S. investors’ foreign bond portfolios.  Although emerging market bonds 
+
+remain a relatively small proportion of the aggregate U.S. cross-border bond portfolio 
+
+(figure 4), within foreign government bonds, U.S. investors have modestly shifted their 
+
+portfolio shares toward higher-yielding bonds of emerging market sovereigns (figure 5).  
+
+Ex post, these portfolio reallocations delivered a higher return to U.S. investors on this 
+
+part of their portfolio relative to what they would have received if they had left portfolio 
+
+4 See Jerome H. Powell (2013), “Advanced Economy Monetary Policy and Emerging Market Economies,” 
+speech delivered at the Federal Reserve Bank of San Francisco 2013 Asia Economic Policy Conference, 
+San Francisco, November 4, www.federalreserve.gov/newsevents/speech/powell20131104a.htm. 
+5 See Shaghil Ahmed and Andrei Zlate (2013), “Capital Flows to Emerging Market Economies:  A Brave 
+New World?”  International Finance Discussion Papers 1081 (Washington:  Board of Governors of the 
+Federal Reserve System, June), www.federalreserve.gov/PubS/ifdp/2013/1081/default.htm; David 
+Bowman, Juan M. Londono, and Horacio Sapriza (2014), “U.S. Unconventional Monetary Policy and 
+Transmission to Emerging Market Economies,” International Finance Discussion Papers 1109 
+(Washington:  Board of Governors of the Federal Reserve System, June), 
+www.federalreserve.gov/pubs/ifdp/2014/1109/default.htm; and Marcel Fratzscher, Marco Lo Duca, and 
+Roland Straub (2013), “On the International Spillovers of U.S. Quantitative Easing,” ECB Working Paper 
+Series 1557 (Frankfurt, Germany:  European Central Bank, June), 
+www.ecb.europa.eu/pub/pdf/scpwps/ecbwp1557.pdf.  
+ 
+
+
+
+
+ - 5 - 
+
+compositions unchanged at the average shares in 2008 and 2009, but at a cost to the 
+
+portfolio’s credit quality (figure 6).  Regression results confirm that in choosing among 
+
+foreign government bonds, U.S. investors have put more weight on returns since the 
+
+crisis.6 
+
+But search for higher returns has not been the only motivation for international 
+
+investors post-crisis:  Demand for liquid high-grade “safe” or money-like assets has also 
+
+increased from foreign official investors for investment of foreign exchange reserves, 
+
+from pension funds and other institutions who face portfolio allocation constraints or 
+
+regulatory requirements, and from investment strategies requiring cash-like assets for 
+
+margining and other collateral purposes.  Some shift to safe assets is also seen in U.S. 
+
+portfolios:  U.S. investors actively rebalanced their holdings of foreign financial sector 
+
+bonds toward those with higher credit ratings, but at some cost in returns (figure 7; figure 
+
+8).7   
+
+Taken together, developments in U.S. bond portfolios do not indicate a worrisome 
+
+pickup in risk-taking in external investments.  But it is important to recognize that 
+
+portfolio reallocations that seem relatively small for U.S. investors can loom large from 
+
+the perspective of the foreign recipients of these flows.  At roughly $400 billion at the 
+
+end of 2012, emerging market bonds accounted for a tiny fraction of the roughly 
+
+$25 trillion in bonds held by U.S. investors.  But to the recipient countries, these holdings 
+
+can account for a large fraction of their bond markets.  Even relatively small changes in 
+
+6 See Carol Bertaut and Alexandra Tabova (2014), “Reach for Yield versus Search for Safety,” unpublished 
+paper, Board of Governors of the Federal Reserve System. 
+7 See Carol Bertaut, Alexandra Tabova, and Vivian Wong (2014), “The Replacement of Safe Assets:  
+Evidence from the U.S. Bond Portfolio,” International Finance Discussion Papers 1123 (Washington:  
+Board of Governors of the Federal Reserve System, October), 
+www.federalreserve.gov/econresdata/ifdp/2014/files/ifdp1123.pdf. 
+
+
+
+
+ - 6 - 
+
+these U.S. holdings can generate large asset price responses, as was certainly the case in 
+
+the summer of 2013.  Likewise, a reassessment of risk-return tradeoffs could disrupt 
+
+financing for projects that are dependent on the willingness of investors to participate in 
+
+global syndicated loan markets.  
+
+We take the consequences of such spillovers seriously, and the Federal Reserve is 
+
+intent on communicating its policy intentions as clearly as possible in order to reduce the 
+
+likelihood of future disruptions to markets.  We will continue to monitor investor 
+
+behavior closely, both domestically and internationally. 
+
+
+Exhibit Chart 1 11-05-2014
+
+  0
+
+  50
+
+  100
+
+  150
+
+  200
+
+  250
+
+  300
+
+  350
+
+  400
+
+2010 2011 2012 2013
+
+Term Loan Originations by Probability of Default (PD)
+$ billions
+
+PD < 1%
+1% < PD < 5%
+5% < PD < 10%
+PD > 10%
+
+Figure 1
+
+Note. Only loans with PDs available are shown. Estimates are based on Aramonte, Lee, and Stebunovs (2014) using Shared National Credit Program data.
+
+
+Exhibit Chart 2 11-05-2014
+
+2010 2011 2012 2013
+
+Syndicated Loan Originations in U.S. Market by Type of Holder
+Percent of originations
+
+Banks and bank holding companies
+Investment banks
+Finance companies
+
+Investment funds
+Other
+
+Figure 2
+
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+Note. Estimates are based on Aramonte, Lee, and Stebunovs (2014) using Shared National Credit Program data.
+Types of lenders identified by primary activity of parent organization.
+
+
+Exhibit Chart 3 11-05-2014
+
+  0
+
+  1
+
+  2
+
+  3
+
+  4
+
+  5
+
+  6
+
+2010 2011 2012 2013
+
+Credit Risk Proxy by Type of Lender
+Average probability of default (percent)
+
+Finance companies
+
+Banks and bank holding companies
+
+Investment funds
+
+Investment banks
+
+Figure 3
+
+Note. Estimates are based on Aramonte, Lee, and Stebunovs (2014) using Shared National Credit Program data.
+
+
+Exhibit 10-31-2014
+
+  0
+
+  500
+
+  1000
+
+  1500
+
+  2000
+
+  2500
+
+  3000
+
+2003 2006 2009 2012
+
+U.S. Holdings of Foreign Debt Securities
+$ billion**
+
+Other
+
+Advanced foreign economy
+
+Emerging market economy
+
+Figure 4
+
+Source: Treasury International Capital Data.
+** All values are as of year-end.
+
+
+Exhibit 10-31-2014
+
+  0
+
+  100
+
+  200
+
+  300
+
+  400
+
+  500
+
+  600
+
+  700
+
+2003 2006 2009 2012
+0.0  
+
+0.1  
+
+0.2  
+
+0.3  
+
+0.4  
+
+U.S. Holdings of Foreign Government Bonds
+$ billion**Share
+
+Advanced foreign economy
+
+Emerging market economy
+
+Emerging market economy share
+
+Figure 5
+
+Source: Bertaut and Tabova (2014); Estimates are based on Treasury International Capital Data.
+** All values are as of year-end.
+
+
+Actual Fixed weight** Actual Fixed weight**
+
+2009 8.6 8.6 70.1 70.1
+
+2010 7.7 7.7 65.8 68.9
+
+2011 8.5 8.3 58.7 62.5
+
+2012 10.1 9.2 57.1 61.6
+
+Source: Bertaut and Tabova (2014).
+
+* AA- or higher.
+
+** at average 2008-09 shares.
+
+Government Bond Portfolio
+
+Yearly returns (%) High credit quality* (%)
+
+Figure 6
+
+
+Exhibit 10-31-2014
+
+  0.0
+
+  0.1
+
+  0.2
+
+  0.3
+
+  0.4
+
+  0.5
+
+2006 2008 2010 2012
+
+High-Grade* Share in U.S. Holdings of Foreign Financial Bonds
+Share
+
+Counterfactual
+high-grade share,
+assuming constant
+2008-09 risk portfolio
+
+Figure 7
+
+Source: Bertaut and Tabova (2014); Bertaut, Tabova, and Wong (2014).
+* AA- or higher.
+
+
+Actual Fixed weight** Actual Fixed weight**
+
+2009 20.9 20.9 44.5 44.5
+
+2010 7.2 9.5 49.5 30.9
+
+2011 2.5 0.7 48.9 20.1
+
+2012 11.7 15.1 43.3 29.5
+
+Source: Bertaut and Tabova (2014); Bertaut, Tabova, and Wong (2014).
+
+* AA- or higher.
+
+** at average 2008-09 shares.
+
+Financial Bond Portfolio
+
+Yearly returns (%) High credit quality* (%)
+
+Figure 8
+

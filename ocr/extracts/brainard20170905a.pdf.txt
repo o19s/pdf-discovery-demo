@@ -1,0 +1,693 @@
+
+For release on delivery 
+8:00 a.m. EDT 
+September 5, 2017 
+ 
+
+
+Understanding the Disconnect between Employment and Inflation 
+
+with a Low Neutral Rate 
+
+
+Remarks by 
+ 
+
+Lael Brainard 
+ 
+
+Member 
+ 
+
+Board of Governors of the Federal Reserve System 
+ 
+
+at  
+ 
+
+The Economic Club of New York 
+ 
+
+New York, New York 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+September 5, 2017 
+ 
+
+
+
+Overall, the U.S. economy remains on solid footing, against the backdrop of the 
+
+first synchronized global economic growth we have seen in many years and 
+
+accommodative financial conditions.  This benign outlook is clouded somewhat by 
+
+uncertainty about government funding and the fiscal outlook, and geostrategic risk has 
+
+risen.  While the heartbreaking human toll exacted by Hurricane Harvey is already all too 
+
+clear, it will take some time to assess the macroeconomic impact.   
+
+The labor market continues to bring more Americans off the sidelines and into 
+
+productive employment, which is a very welcome development.  Nonetheless, there is a 
+
+notable disconnect between signs that the economy is in the neighborhood of full 
+
+employment and a string of lower-than-projected inflation readings, especially since 
+
+inflation has come in stubbornly below target for five years.  With normalization of the 
+
+federal funds rate under way and the start of gradual balance sheet normalization widely 
+
+anticipated, I will want to take some time to assess the path of the federal funds rate that 
+
+will best support a sustainable move in inflation to our 2 percent goal.1  Sustainably 
+
+achieving our inflation objective is especially important, given the apparent persistently 
+
+low level of the neutral rate and the resulting limited room for maneuver above the 
+
+effective lower bound. 
+
+Let me start by reviewing the economic outlook.  There has been a noteworthy 
+
+pickup in business investment this year compared with last year.  Investment in the 
+
+equipment and intellectual property category has risen at an annual rate of 6 percent so 
+
+far this year after remaining roughly flat last year.  The latest data on orders and 
+
+                                                 
+1 I am grateful to John Roberts for his assistance in preparing this text. The remarks represent my own 
+views, which do not necessarily represent those of the Federal Reserve Board or the Federal Open Market 
+Committee. 
+
+
+ - 2 - 
+
+shipments of capital equipment suggest that solid growth will likely continue in the 
+
+second half of the year.  In addition, oil drilling had rebounded this year after dropping 
+
+sharply last year, although Hurricane Harvey creates uncertainty about drilling in coming 
+
+months.  While lackluster consumer spending was one of the key reasons for the weak 
+
+increase in first-quarter gross domestic product (GDP), growth in personal consumption 
+
+expenditures (PCE) bounced back strongly in the second quarter, and recent readings on 
+
+retail sales suggest another solid increase in consumer spending this quarter. 
+
+Of course, the likely economic effects of Hurricane Harvey raise uncertainties 
+
+about the economic outlook for the remainder of the year.  Based on past experience, it 
+
+appears likely that the hurricane will have a notable effect on GDP in the current quarter, 
+
+although output is likely to rebound by the end of the year.  According to the U.S. 
+
+Department of Energy, between 20 and 30 percent of the nation’s oil refining capacity 
+
+was shut down at the peak last week, and it is estimated that about 50 percent of 
+
+petrochemical production was similarly shut down.  Some oil production has also been 
+
+disrupted.  These developments have put upward pressure on gasoline prices.  Based on 
+
+previous hurricane events, the increase in gasoline prices should be short lived, but this 
+
+outcome is uncertain and will depend on the extent of damage to refining capacity.   
+
+Improvements in the labor market have continued.  According to last Friday’s 
+
+labor market report, nonfarm payrolls have increased around 185,000 per month over the 
+
+three months through August, about the same as the average monthly gains last year.  The 
+
+unemployment rate has been roughly flat for the past several months at 4.4 percent, 
+
+which is 1/2 percentage point lower than at the same time last year.  The employment-to-
+
+
+ - 3 - 
+
+population ratio for prime-age workers has also improved over the past year, although it 
+
+is still 2 percentage points lower than its pre-crisis peak in 2007.   
+
+Earlier this year, many observers saw the prospect of fiscal stimulus as presenting 
+
+the possibility of a substantial boost to domestic demand.  Since then, however, many 
+
+commentators have downgraded their assessments of the extent and timing of fiscal 
+
+stimulus, and I have revised my outlook as well. 
+
+That said, we are seeing synchronized global economic growth for the first time in 
+
+many years.  Foreign economies--including Canada, the euro area, and China--have 
+
+posted robust GDP growth so far this year.  This improvement has been reflected here at 
+
+home in dollar depreciation; higher earnings and stock prices; tighter risk spreads; and an 
+
+increase in net exports, which made a small positive contribution in the first half of this 
+
+year after holding down GDP growth over the past several years.  In addition, there are 
+
+indications that, before too long, central banks in several major economies could begin 
+
+normalizing monetary policy, in many cases through adjustments to their balance sheets 
+
+as well as their policy rates.  Those changes in foreign monetary policies could have 
+
+important implications for term premiums and, in turn, longer-term Treasury rates, 
+
+depending on the timing and approach.2  
+
+Despite this benign picture for the U.S. economy and continued increases in 
+
+resource utilization, core inflation, as measured by changes in the PCE price index for 
+
+items other than food and energy, slowed by almost 1/2 percentage point relative to the 
+
+pace a year ago.  Indeed, both overall and core inflation were only 1.4 percent for the 
+
+                                                 
+2 See Brainard (2017) for a fuller discussion of this topic. 
+
+
+ - 4 - 
+
+year through July, well short of the Federal Open Market Committee’s (FOMC) 
+
+objective.   
+
+To what extent does it make sense to look through the recent low inflation 
+
+readings on the grounds they are transitory?  It appears that temporary factors, such as 
+
+discounted cell phone plans, are pushing down inflation to some extent this year.  By the 
+
+same token, it is likely that other temporary factors--for example, prescription drug 
+
+prices--boosted inflation last year.  Going forward, we should see a temporary boost to 
+
+headline inflation due to Hurricane Harvey’s effect on gasoline prices that I mentioned 
+
+earlier.  Temporary factors, by their nature, have little implication for the underlying 
+
+trend in inflation.   
+
+In contrast, what is troubling is five straight years in which inflation fell short of 
+
+our target despite a sharp improvement in resource utilization.  It is instructive to put the 
+
+shortfall in inflation in recent years in perspective by comparing inflation in the past few 
+
+years with the last time the economy was in the neighborhood of full employment--
+
+namely, just before the financial crisis.  In particular, over the past three years, 
+
+unemployment has averaged roughly 5 percent.  Similarly, over the three years ending in 
+
+early 2007--before the unemployment rate started rising--the unemployment rate also 
+
+averaged 5 percent.  Despite a similar degree of resource utilization, core inflation 
+
+averaged 2.2 percent from 2004 to 2007, notably higher than the comparable three-year 
+
+average inflation rate today of 1.5 percent.  Why is inflation so much lower now than it 
+
+was previously?  The fact that the period from 2004 to 2007 had inflation around target 
+
+with similar unemployment rates casts some doubt on the likelihood that resource 
+
+
+ - 5 - 
+
+utilization is the primary explanation.3  Similarly, a 12-quarter average is typically long 
+
+enough that temporary factors should not be the dominant concern. 
+
+One key factor that may have played a role in the past three years is the decline in 
+
+import prices, reflecting the dollar’s surge, especially in 2015.  By contrast, in the 
+
+2004-07 period, non-oil import prices increased at roughly a 2 percent annual rate and 
+
+had a more neutral effect on inflation.  Nonetheless, while the decline in non-oil import 
+
+prices likely accounts for some of the weakness in inflation over the past few years, these 
+
+prices have begun rising again in the past year at a time when inflation remains relatively 
+
+low.   
+
+So if import prices, resource utilization, and transitory factors together do not 
+
+provide a complete account, why has inflation been so much lower in the past few years 
+
+than it was previously?  In many of the models economists use to analyze inflation, a key 
+
+feature is “underlying,” or trend, inflation, which is believed to anchor the rate of 
+
+inflation over a fairly long horizon.  Underlying inflation can be thought of as the slow-
+
+moving trend that exerts a strong pull on wage and price setting and is often viewed as 
+
+related to some notion of longer-run inflation expectations.   
+
+There is no single highly reliable measure of that underlying trend or the closely 
+
+associated notion of longer-run inflation expectations.  Nonetheless, a variety of 
+
+measures suggest underlying trend inflation may currently be lower than it was before the 
+
+crisis, contributing to the ongoing shortfall of inflation from our objective.  That 
+
+conclusion is suggested by estimates based on time-series models, longer-run 
+
+                                                 
+3 According to Congressional Budget Office estimates, the natural rate of unemployment was about the 
+same in the two periods:  It was 4.8 percent in the 2014-17 period and 5.0 percent a decade earlier. 
+
+
+ - 6 - 
+
+expectations from the University of Michigan Surveys of Consumers and Survey of 
+
+Professional Forecasters, and market-based measures of inflation compensation.   
+
+Starting with time-series models, one model that has been used by a variety of 
+
+researchers suggests that underlying trend inflation may have moved down by perhaps as 
+
+much as 1/2 percentage point over the past decade.4 Market-based measures of inflation 
+
+compensation provide another read on inflation expectations.  Comparing the three-year 
+
+period ending in the second quarter of this year with the three-year period ended just 
+
+before the financial crisis, 10-year-ahead inflation compensation based on TIPS 
+
+(Treasury Inflation-Protected Securities) yields is 3/4 percentage point lower.5  Survey-
+
+based measures of inflation expectations are also lower.  The Michigan survey measure 
+
+of median household expectations of inflation over the next five to 10 years suggests a 
+
+1/4 percentage point downward shift over the most recent three-year period compared 
+
+with the pre-crisis years, similar to the five-year, five-year forward forecast for the 
+
+consumer price index from the Survey of Professional Forecasters.   
+
+Why might underlying inflation expectations have moved down since the 
+
+financial crisis?  One simple explanation may be the experience of persistently low 
+
+inflation:  Households and firms have experienced a prolonged period of inflation below 
+
+our objective, and that may be affecting their perception of underlying inflation.  A 
+
+related explanation may be the greater proximity of the federal funds rate to its effective 
+
+lower bound due to a lower neutral rate of interest.6  By constraining the amount of 
+
+                                                 
+4 Stock and Watson (2007) introduced an estimate of trend inflation that assumed time-varying volatility.  
+Cecchetti and others (2017) provided a recent update of that model; their estimate of trend inflation for core 
+PCE prices has been about 1-1/2 percent in the past few years, compared with readings above 2 percent in 
+the 2006-08 period (see figure 4.1, p. 23). 
+5 Of course, inflation compensation isn’t a straight read on inflation expectations, as liquidity and term 
+premiums can affect it.  Still, inflation suggests a notable downward shift in expectations.   
+6 See Brainard (2016) for a fuller discussion of this topic. 
+
+
+ - 7 - 
+
+policy space available to offset adverse developments using our more effective 
+
+conventional tools, the low neutral rate could increase the likely frequency of periods of 
+
+below-trend inflation.  In short, frequent or extended periods of low inflation run the risk 
+
+of pulling down private-sector inflation expectations.7   
+
+Given today’s circumstances, with the economy near full employment and 
+
+inflation below target, how should the FOMC achieve its dual-mandate goals?  Some 
+
+might determine that preemptive tightening is appropriate on the grounds that monetary 
+
+policy operates with long lags, and inflation will inevitably accelerate as the labor market 
+
+continues to tighten because of the Phillips curve.  However, in today’s economy, there 
+
+are reasons to worry that the Phillips curve will not prove very reliable in boosting 
+
+inflation as resource utilization tightens.  Since 2012, inflation has tended to change 
+
+relatively little as the unemployment rate has fallen considerably, from 8.2 percent to 4.4 
+
+percent.8  In short, the Phillips curve appears to be flatter today than it was previously.9  
+
+This is also apparent in a number of advanced foreign economies, where declines in their 
+
+unemployment rates to relatively low levels have failed to generate significant upward 
+
+pressures on inflation.10  Given the flatness of the Phillips curve, it could take a 
+
+considerable undershooting of the natural rate of unemployment to achieve our inflation 
+
+objective if we were to rely on resource utilization alone.   
+
+For all these reasons, achieving our inflation target on a sustainable basis is likely 
+
+to require a firming in longer-run inflation expectations--that is, the underlying trend.  
+
+                                                 
+7 See, for example, Kiley and Roberts (2017) and Nakata and Schmidt (2016).   
+8 The inflation information refers to core PCE inflation measured on a 12-month average basis. 
+9 Similarly, inflation did not fall very much as the unemployment rate climbed to 10 percent during the 
+Great Recession.  See Blanchard (2016), Kiley (2015), and Brainard (2015).   
+10 See IMF (2013). 
+
+
+ - 8 - 
+
+The key question in my mind is how to achieve an improvement in longer-run inflation 
+
+expectations to a level that will allow us to achieve our inflation objective.  The persistent 
+
+failure to meet our inflation objective should push us to think broadly about diagnoses 
+
+and solutions.   
+
+The academic literature on monetary policy suggests a variety of prescriptions for 
+
+preventing a lower neutral rate of interest from eroding longer-run inflation 
+
+expectations.11  One feature that is common to many proposals is that the persistence of 
+
+the shortfall in inflation from our objective should be one of the considerations in setting 
+
+monetary policy.  Most immediately, we should assess inflation developments closely 
+
+before making a determination on further adjustments to the federal funds rate.   
+
+Monetary Policy 
+
+This brings me to the implications for monetary policy.  A key upcoming decision 
+
+for the Committee is when to commence balance sheet normalization.  I consider 
+
+normalization of the federal funds rate to be well under way, the criterion for 
+
+commencing balance sheet normalization.  The approaching change to our reinvestment 
+
+policy has been clearly communicated and is well anticipated.   
+
+In principle, the FOMC could use both the balance sheet and the federal funds 
+
+rate as active tools for setting monetary policy.  However, I view the federal funds rate as 
+
+the preferred active tool, because its effect on financial conditions and the economy has 
+
+been more extensively tested and therefore is better understood than changes to the 
+
+balance sheet.  As a result, once we set in motion the change in balance sheet policy, as 
+
+long as the economy evolves broadly as expected, we should allow the balance sheet to 
+
+                                                 
+11 See, for example, Kiley and Roberts (2017). 
+
+
+ - 9 - 
+
+run off in the background at the gradual pace that was announced.  We would primarily 
+
+look to ongoing adjustments in the federal funds rate to calibrate the stance of monetary 
+
+policy as economic conditions evolve. 
+
+Once balance sheet normalization is under way, I will be looking closely at the 
+
+evolution of inflation before making a determination about further adjustments to the 
+
+federal funds rate.  We have been falling short of our inflation objective not just in the 
+
+past year, but over a longer period as well.  My own view is that we should be cautious 
+
+about tightening policy further until we are confident inflation is on track to achieve our 
+
+target.   
+
+Unless we expect inflation to move quickly back toward target--or there are 
+
+indications that the short-run neutral rate has moved up further--a variety of empirical 
+
+estimates suggest we could approach neutral without too many additional rate increases.  
+
+Many forecasters assume that the neutral rate of interest is very low currently, and that it 
+
+is likely to be low relative to historical norms in the longer run.12  For example, the well-
+
+known Laubach-Williams model currently suggests an estimate of the longer-run neutral 
+
+federal funds rate that is actually slightly below zero.13  And in the most recent Summary 
+
+of Economic Projections (SEP), the median longer-run nominal federal funds rate was 
+
+3 percent, which implies the long-run real federal funds rate would only be 1 percent, 
+
+lower than its average in the decades before then of around 2½ percent.14   
+
+                                                 
+12 See, for example, the July 2017 Survey of Market Participants from the Federal Reserve Bank of New 
+York (https://www.newyorkfed.org/medialibrary/media/markets/survey/2017/jul-2017-smp-results.pdf). 
+13 Latest estimates from the Laubach-Williams model are available at http://www.frbsf.org/economic-
+research/files/Laubach_Williams_updated_estimates.xlsx.  
+14 Over the 1960-2007 period, the real federal funds rate--measured as the nominal federal funds rate less 
+trailing four-quarter core PCE inflation--averaged 2-1/2 percent. 
+
+
+ - 10 - 
+
+These estimates suggest that the neutral rate of interest is likely to rise only 
+
+modestly in the medium term.  It is worth remembering, in addition, that the Federal 
+
+Reserve’s balance sheet policy may be reinforcing this tendency over the next several 
+
+years.  A recent study suggests balance sheet runoff could boost the level of the term 
+
+premium on the 10-year Treasury yield by about 40 basis points over the first few years.15  
+
+Typical rules of thumb suggest that such an increase in term premiums would imply a 
+
+decrease in the short-run neutral rate of interest.   
+
+Although the FOMC expects to begin normalizing its balance sheet relatively 
+
+soon, several foreign central banks are continuing their purchases of longer-term assets in 
+
+their own currencies.16  Because longer-term government securities in the major 
+
+economies are close substitutes, the ongoing balance sheet programs of some foreign 
+
+central banks will likely continue to hold down U.S. longer-term interest rates.  But with 
+
+economies abroad strengthening, it may not be too long before some foreign central 
+
+banks will end their net purchases and, eventually, begin reducing their balance sheets.  
+
+As that happens, the current downward pressure on longer-term interest rates from 
+
+foreign spillovers will abate. 
+
+For these reasons, my current expectation is that the short-run neutral rate of 
+
+interest may not rise much over the medium term.  But this is an open question and bears 
+
+close monitoring.  Of course, it is entirely possible that other factors will be working to 
+
+offset this downward pressure on the equilibrium funds rate--as could be the case, for 
+
+instance, if fiscal stimulus is greater than many observers currently expect.   
+
+                                                 
+15 Bonis, Ihrig, and Wei (2017). 
+16 For more information, see Board of Governors of the Federal Reserve System (2017), “Federal Reserve 
+Issues FOMC statement,” press release, July 26, 
+https://www.federalreserve.gov/newsevents/pressreleases/monetary20170726a.htm. 
+
+
+ - 11 - 
+
+To the extent that the neutral rate remains low relative to its historical value, there 
+
+is a high premium on guiding inflation back up to target so as to retain space to buffer 
+
+adverse shocks with conventional policy.  In this regard, I believe it is important to be 
+
+clear that we would be comfortable with inflation moving modestly above our target for a 
+
+time.  In my view, this is the clear implication of the symmetric language in the 
+
+Committee’s Statement on Longer-Run Goals and Monetary Policy Strategy. 
+
+Before concluding, it is worth considering the possible implications of a sustained 
+
+period of low neutral rates and low unemployment for financial imbalances.  Historically, 
+
+extended periods with very low unemployment rates tend to be associated with below-
+
+average spreads of expected returns on risky assets over safe interest rates--low bond risk 
+
+premiums, for example, or low equity premiums.  Although, to some extent, low risk 
+
+premiums and rising asset valuations may be consistent with strong economic 
+
+fundamentals, such as low default rates and strong corporate earnings, there have also 
+
+been episodes when a very strong economy and low unemployment rate have led to 
+
+overvaluation of asset prices, underpricing of risk, and growing financial imbalances.   
+
+Thus, in today’s environment, it is important to be vigilant to the signs that asset 
+
+valuations appear to be elevated, especially in areas such as commercial real estate and 
+
+corporate bonds, as well as the exceptionally low levels of expected volatility.  
+
+Nonetheless, there are few signs of a dangerous buildup of leverage or of maturity 
+
+transformation, which have traditionally been important contributors to financial 
+
+instability.  This is due, in no small measure, to the improvements in capital, liquidity, 
+
+and risk management made by the financial institutions at the core of the system, which 
+
+
+ - 12 - 
+
+are associated with post-crisis financial reforms, as well as money market reform and the 
+
+greater transparency in the derivatives markets. 
+
+To conclude, much depends on the evolution of inflation.  If, as many forecasters 
+
+assume, the current shortfall of inflation from our 2 percent objective indeed proves 
+
+transitory, further gradual increases in the federal funds rate would be warranted, perhaps 
+
+along the lines of the median projection from the most recent SEP.  But, as I noted 
+
+earlier, I am concerned that the recent low readings for inflation may be driven by 
+
+depressed underlying inflation, which would imply a more persistent shortfall in inflation 
+
+from our objective.  In that case, it would be prudent to raise the federal funds rate more 
+
+gradually.  We should have substantially more data in hand in the coming months that 
+
+will help us make that assessment. 
+
+
+
+
+ - 13 - 
+
+References 
+
+Blanchard, Olivier (2016).  “The U.S. Phillips Curve:  Back to the 60s?” Policy Brief 
+PB16-1.  Washington:  Peterson Institute for International Economics, January, 
+https://piie.com/publications/pb/pb16-1.pdf . 
+
+ 
+Bonis, Brian, Jane Ihrig, and Min Wei (2017). “The Effect of the Federal Reserve’s 
+
+Securities Holdings on Longer-Term Interest Rates,” FEDS Notes.  Washington:  
+Board of Governors of the Federal Reserve System, April 20, 
+https://doi.org/10.17016/2380-7172.1977. 
+
+ 
+Brainard, Lael (2015).  “Normalizing Monetary Policy When the Neutral Interest Rate Is 
+
+Low,” speech delivered at the Stanford Institute for Economic Policy Research, 
+Stanford, California, Dec. 1, 
+https://www.federalreserve.gov/newsevents/speech/brainard20151201a.htm. 
+
+ 
+-------- (2016).  “The “New Normal” and What it Means for Monetary Policy,” speech 
+
+delivered at the Chicago Council on Foreign Affairs, Chicago, Ill., September 12, 
+https://www.federalreserve.gov/newsevents/speech/brainard20160912a.htm. 
+
+ 
+-------- (2017).  “Cross-Border Spillovers of Balance Sheet Normalization,” speech 
+
+delivered at the National Bureau of Economic Research’s Monetary Economics 
+Summer Institute, Cambridge, Mass., July 13, 
+https://www.federalreserve.gov/newsevents/speech/brainard20170713a.htm. 
+
+ 
+Cecchetti, Stephen G., Michael E. Feroli, Peter Hooper, Anil K. Kashyap, and Kermit L. 
+
+Schoenholtz (2017).  Deflating Inflation Expectations:  The Implications of 
+Inflation’s Simple Dynamics, report prepared for the 2017 U.S. Monetary Policy 
+Forum, sponsored by the Initiative on Global Markets at the University of 
+Chicago’s Booth School of Business, held in New York, N.Y., on March 3, 
+https://research.chicagobooth.edu/~/media/806fc2ded9644b5da99518d2b07cc637
+.pdf. 
+
+ 
+International Monetary Fund (IMF, 2013).  “The Dog that Didn’t Bark:  Has Inflation 
+
+Been Muzzled or Is It Just Sleeping,” in World Economic Outlook April 2013:  
+Hopes Realities, and Risks.  Washington: International Monetary Fund.  
+
+ https://www.imf.org/external/pubs/ft/weo/2013/01/pdf/c3.pdf 
+  
+Kiley, Michael T. (2015).  “Low Inflation in the United States:  A Summary of Recent 
+
+Research,” FEDS Notes.  Washington:  Board of Governors of the Federal 
+Reserve System, November 23, 
+https://www.federalreserve.gov/econresdata/notes/feds-notes/2015/low-inflation-
+in-the-united-states-a-summary-of-recent-research-20151123.html. 
+
+
+
+
+ - 14 - 
+
+Kiley, Michael T., and John M. Roberts (2017). “Monetary Policy in a Low Interest 
+Rate World,” Finance and Economics Discussion Series 2017-080.  Washington:  
+Board of Governors of the Federal Reserve System, August, 
+https://doi.org/10.17016/FEDS.2017.080. 
+
+ 
+Nakata, Taisuke, and Sebastian Schmidt (2016).  “The Risk-Adjusted Monetary Policy 
+
+Rule,” Finance and Economics Discussion Series 2016-061.  Washington:  Board 
+of Governors of the Federal Reserve System, July, 
+https://dx.doi.org/10.17016/FEDS.2016.061. 
+
+ 
+Stock, James H., and Mark W. Watson (2007).  “Why Has U.S. Inflation Become Harder 
+
+to Forecast?” Journal of Money, Credit and Banking, vol. 39 (s1, February), 
+pp. 3-33, available at https://scholar.harvard.edu/stock/publications/why-has-
+inflation-become-harder-forecast. 
+

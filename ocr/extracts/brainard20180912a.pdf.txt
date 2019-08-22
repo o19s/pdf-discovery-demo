@@ -1,0 +1,757 @@
+
+For release on delivery 
+12:45 p.m. EDT  
+September 12, 2018 
+ 
+
+
+What Do We Mean by Neutral and What Role Does It Play in Monetary Policy? 
+ 
+ 
+ 
+
+Remarks by 
+ 
+
+Lael Brainard 
+ 
+
+Member 
+ 
+
+Board of Governors of the Federal Reserve System 
+ 
+
+at the 
+ 
+
+Detroit Economic Club 
+ 
+
+ Detroit, Michigan 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+September 12, 2018 
+ 
+
+
+
+It is a pleasure to be in Detroit.  I started my career working here in the Motor 
+
+City, and I have followed the fortunes of this area with interest ever since.  A few years 
+
+ago, I visited some of Detroit’s neighborhoods with our local officials at a time when 
+
+damage from the crisis was still pervasive.  While challenges remain in many of the city’s 
+
+neighborhoods, since that time the metropolitan area overall has seen signs of a rebound 
+
+in business activity and investment, and the unemployment rate has continued to trend 
+
+downward, recently falling to 4.3 percent.1 
+
+This is similar to the nation’s economy more broadly.  While challenges remain 
+
+for many, aggregate growth is strong, and the economy is meeting our full employment 
+
+and inflation objectives.  Given the outlook, it comes as no surprise that the Federal Open 
+
+Market Committee (FOMC) has been gradually raising interest rates from crisis-era lows 
+
+and sees further gradual increases as likely to be appropriate in its most recent statement.2  
+
+Before discussing the outlook, it might be useful to first explore some concepts that are 
+
+important in informing the path of rates.    
+
+What Is the Neutral Rate of Interest? 
+
+In thinking about how we should set the federal funds rate, many policymakers 
+
+and economists find the concept of the neutral rate of interest to be a useful frame of 
+
+reference.  So, what does the neutral rate mean?  Intuitively, I think of the nominal 
+
+neutral interest rate as the level of the federal funds rate that keeps output growing around 
+
+its potential rate in an environment of full employment and stable inflation.3   
+
+                                                   
+1 I am grateful to John Roberts of the Federal Reserve Board for his assistance in preparing this text.  These 
+remarks represent my own views, which do not necessarily represent those of the Federal Reserve Board or 
+the Federal Open Market Committee. 
+2 See Board of Governors (2018a). 
+3 The closely related concept of the natural rate of interest--the rate of interest at which investment and 
+savings are equilibrated at full employment--is originally attributed to Swedish economist Knut Wicksell. 
+
+
+ - 2 - 
+
+Focusing first on the “shorter-run” neutral rate, this does not stay fixed, but rather 
+
+fluctuates along with important changes in economic conditions.  For instance, legislation 
+
+that increases the budget deficit through tax cuts and spending increases can be expected 
+
+to generate tailwinds to domestic demand and thus to push up the shorter-run neutral 
+
+interest rate.  Heightened risk appetite among investors similarly can be expected to push 
+
+up the shorter-run neutral rate.  Conversely, many of the forces that contributed to the 
+
+financial crisis--such as fear and uncertainty on the part of businesses and households--
+
+can be expected to lower the neutral rate of interest, as can declines in foreign demand for 
+
+U.S. exports. 
+
+In many circumstances, monetary policy can help keep the economy on its 
+
+sustainable path at full employment by adjusting the policy rate to reflect movements in 
+
+the shorter-run neutral rate.  In this context, the appropriate reference for assessing the 
+
+stance of monetary policy is the gap between the policy rate and the nominal shorter-run 
+
+neutral rate.   
+
+So far, I have been focusing on the shorter-run neutral rate of interest that is 
+
+responsive to headwinds or tailwinds to demand.  The longer-run equilibrium rate is a 
+
+related concept.  The underlying concept of the “longer run” generally refers to the output 
+
+growing at its longer-run trend, after transitory forces reflecting headwinds or tailwinds 
+
+have played out, in an environment of full employment and inflation running at the 
+
+FOMC objective.4   
+
+                                                   
+The natural rate and the neutral rate are closely related concepts whose technical differences matter for 
+economic theory and estimation, but less for the intuitive discussion here. 
+4 See Brainard (2015). 
+
+
+ - 3 - 
+
+The longer-run federal funds rate estimated by FOMC participants in their 
+
+Summary of Economic Projections (SEP) meets the definition of a longer-run 
+
+equilibrium rate of interest.5  It is worth highlighting that the longer-run federal funds 
+
+rate is the only neutral interest rate reported in the FOMC projections.  But the shorter-
+
+run neutral rate, rather than the longer-run federal funds rate, is the relevant benchmark 
+
+for assessing the near-term path of monetary policy in the presence of headwinds or 
+
+tailwinds.   
+
+Estimating the Neutral Rate of Interest 
+
+Similar to other equilibrium macroeconomic concepts such as potential gross 
+
+domestic product (GDP) and the natural rate of unemployment, the shorter- and longer-
+
+run levels of the neutral rate are not directly observable, so they must be estimated or 
+
+inferred from the movements of variables that are observed, such as market interest rates, 
+
+inflation, the unemployment rate, and GDP.6  In recent years, considerable work has 
+
+derived estimates of the longer-run equilibrium rate, in some cases using statistical 
+
+techniques that can be thought of as capturing the highly persistent component of the 
+
+neutral rate.  The central tendency of those estimates suggests that the longer-run trend 
+
+rate is in the range of 2.5 to 3.5 percent in nominal terms.7  This range lines up well with 
+
+the most recent median estimate of the longer-run federal funds rate in the FOMC SEP, 
+
+                                                   
+5 As defined in the FOMC SEP, “Longer-run projections represent each participant’s assessment of the rate 
+to which each variable would be expected to converge under appropriate monetary policy and in the 
+absence of further shocks to the economy.”  See the most recent SEP, an addendum to the minutes of the 
+June 2018 FOMC meeting, available in a July 5, 2018, press release on the Board’s website at 
+https://www.federalreserve.gov/newsevents/pressreleases/monetary20180705a.htm. 
+6 See Powell (2018). 
+7 See Kiley (2015); Johannsen and Mertens (2016); Holston, Laubach, and Williams (2017); Laubach and 
+Williams (2003) (current estimates available on the Federal Reserve Bank of New York’s website at 
+https://www.newyorkfed.org/medialibrary/media/research/economists/williams/data/Laubach_Williams_cu
+rrent_estimates.xlsx); Lewis and Vazquez-Grande (2017); and Lubik and Matthes (2015). 
+
+
+ - 4 - 
+
+which is just below 3 percent.  By these estimates, the longer-run neutral rate has fallen 
+
+considerably from the estimated range in earlier decades of 4 to 5 percent.8  
+
+Turning to the shorter-run neutral rate, although the estimates are model 
+
+dependent and uncertain, we can make some general inferences about its recent evolution 
+
+that are largely independent of the details of specific models.9  Estimates suggest the 
+
+shorter-run neutral rate tends to be cyclical, falling in recessions and rising during 
+
+expansions, and our current expansion appears to be no exception.10   
+
+Last year, the unemployment rate returned to pre-crisis levels, which required real 
+
+interest rates that were below zero for nearly 10 years.11  This year, the unemployment 
+
+rate has fallen further, and job market gains have gathered strength, at the same time that 
+
+the federal funds rate has increased.  This combination suggests that the short-run neutral 
+
+interest rate likely has also increased.  If, instead, the neutral rate had remained constant 
+
+as the federal funds rate increased, we would have expected to see labor market gains 
+
+slow.  That inference is consistent with the formal model estimates, which indicate that 
+
+the shorter-run neutral rate has gone up as the expansion has advanced.  This is also 
+
+suggested by the observation that overall financial conditions, as measured by a variety of 
+
+indexes, have remained quite accommodative during a period when the federal funds rate 
+
+has been moving higher.   
+
+In the latest FOMC SEP median path, by the end of next year, the federal funds 
+
+rate is projected to rise to a level that exceeds the longer-run federal funds rate during a 
+
+                                                   
+8 A variety of hypotheses have been advanced to explain this decline, including slower labor force growth, 
+slower productivity growth, and an increase in savings propensities.  See Kiley (2015) and Brainard (2015). 
+9 Estimates of real natural rates of interest based on dynamic stochastic general equilibrium models include 
+Del Negro and others (2015) and Edge, Kiley, and Laforte (2008). 
+10 See, for example, Cúrdia (2015) and Del Negro and others (2015). 
+11 See Yellen (2015, 2016, 2017).   
+
+
+ - 5 - 
+
+time when real GDP growth is projected to exceed its longer-run pace and unemployment 
+
+continues to fall. The shift from headwinds to tailwinds may be expected to push the 
+
+shorter-run neutral rate above its longer-run trend in the next year or two, just as it fell 
+
+below the longer-run equilibrium rate following the financial crisis.  Notably, the sizable 
+
+fiscal stimulus in the pipeline is likely to continue to bolster the short-run neutral rate 
+
+over the next two years.  The relatively rich level of current asset valuations relative to 
+
+historical levels is another factor that could push the short-run neutral rate above its 
+
+longer-run value.  As was noted in the recent FOMC minutes, corporate credit spreads are 
+
+very narrow, and equity valuations are elevated relative to historical patterns, even after 
+
+taking into account the low level of interest rates.12  Business and consumer confidence is 
+
+high, which is also consistent with a higher shorter-run neutral rate of interest. 
+
+The Outlook 
+
+Having provided some context for how we might assess policy, I will turn to 
+
+some observations on the outlook.  By any measure, overall growth in the second quarter 
+
+was strong.  Real GDP increased at a 4-1/4 percent annual rate, a very rapid pace nine 
+
+years into the expansion.  Looking ahead, it seems likely that growth will remain solid.  
+
+Confidence is high, private domestic demand momentum is solid, and recent fiscal 
+
+stimulus will continue to work its way through the economy, at least for the next year or 
+
+so. 
+
+The labor market is also strong.  So far this year, payroll gains have averaged 
+
+more than 200,000 per month, a step-up from the 2017 pace and well above estimates of 
+
+the pace necessary to absorb new entrants into the labor force.  Among prime-age 
+
+                                                   
+12 See Board of Governors (2018b).  
+
+
+ - 6 - 
+
+workers, the employment-to-population ratio is 79.3 percent, up almost 1 percentage 
+
+point over the past year.  These developments are heartening, suggesting the tight labor 
+
+market is providing employment opportunities to more Americans.  Nonetheless, this is 
+
+still about 1 percentage point below its previous cyclical peak, suggesting there may be 
+
+some room for further gains.   
+
+In another encouraging development, wage gains in the August report reached 
+
+their highest level since the depth of the financial crisis, although wage growth remains 
+
+moderate by historical standards.  While a variety of wage measures have accelerated 
+
+over the past year and there is anecdotal evidence of worker shortages in some sectors 
+
+and regions, there is no evidence of rapid acceleration in the aggregate wage indicators.  
+
+At 3.9 percent, the August unemployment rate was about 1/2 percentage point 
+
+lower than the previous year.  If unemployment continues to decline at the same rate as 
+
+we have seen over the past year, we will soon see unemployment rates not seen since the 
+
+1960s.  Historically, the few periods when resource utilization has been at similarly tight 
+
+levels have tended to see elevated risks of either accelerating inflation or financial 
+
+imbalances.13  For instance, the inflation process may change in unexpected ways.   
+
+So far, the data on inflation remain encouraging, providing little signal of an 
+
+outbreak of inflation to the upside, on the one hand, and some reassurance that underlying 
+
+trend inflation may be moving closer to 2 percent, on the other.  Core personal 
+
+consumption expenditures (PCE) prices have increased 2 percent over the past 
+
+12 months, consistent with the FOMC’s objective.  Survey measures of inflation 
+
+expectations remain stable in the lower end of the historical ranges, while market-based 
+
+                                                   
+13 See Brainard (2018). 
+
+
+ - 7 - 
+
+measures of inflation compensation remain stable at levels above the lows seen in 2016. 
+
+With various measures of underlying trend inflation having come in below our 2 percent 
+
+objective over a sustained period, it is important to sustainably achieve inflation around 
+
+2 percent to prevent an erosion of underlying trend inflation the next time the economy 
+
+faces a downturn and the federal funds rate hits its lower limit.14   
+
+The past few times unemployment fell to levels as low as those projected over the 
+
+next year, signs of overheating showed up in financial-sector imbalances rather than in 
+
+accelerating inflation.  The Federal Reserve’s assessment suggests that financial 
+
+vulnerabilities are building, which might be expected after a long period of economic 
+
+expansion and very low interest rates.  Rising risks are notable in the corporate sector, 
+
+where low spreads and loosening credit terms are mirrored by rising indebtedness among 
+
+corporations that could be vulnerable to downgrades in the event of unexpected adverse 
+
+developments.  Leveraged lending is again on the rise; spreads on leveraged loans and the 
+
+securitized products backed by those loans are low, and the Board’s Senior Loan Officer 
+
+Opinion Survey on Bank Lending Practices suggests that underwriting standards for 
+
+leveraged loans may be declining to levels not seen since 2005. 
+
+While tightening resource utilization and loose financial conditions present upside 
+
+risks, recent foreign developments present downside risks.  Trade policy has introduced 
+
+uncertainty.  Growth in Europe and Japan has moderated from its strong pace of last year, 
+
+and political risks have reemerged in countries such as Italy.  China is contending with 
+
+deleveraging and deceleration as well as a challenging trade environment.  As U.S. 
+
+growth has pulled away from foreign growth, in part reflecting fiscal policy divergence, 
+
+                                                   
+14 See Brainard (2017). 
+
+
+ - 8 - 
+
+expectations of monetary policy divergence strengthened, contributing to upward 
+
+pressure on the dollar earlier this year.  The resulting currency adjustments are 
+
+compounding challenges faced by some emerging market economies, along with a 
+
+complicated and unpredictable trade environment and gradually increasing interest rates. 
+
+Although capital flow reversals have been contained to several notably vulnerable 
+
+countries so far, I am attentive to the risk that a pullback from emerging markets could 
+
+broaden.   
+
+The Path of Policy 
+
+What are the implications for policy?  Over the next year or two, barring 
+
+unexpected developments, continued gradual increases in the federal funds rate are likely 
+
+to be appropriate to sustain full employment and inflation near its objective.  With 
+
+government stimulus in the pipeline providing tailwinds to demand over the next two 
+
+years, it appears reasonable to expect the shorter-run neutral rate to rise somewhat higher 
+
+than the longer-run neutral rate.  Further out, the policy path will depend on how the 
+
+economy evolves. 
+
+These developments raise the prospect that, at some point, the Committee’s 
+
+setting of the federal funds rate will exceed current estimates of the longer-run federal 
+
+funds rate.  Indeed, the median projection in the SEP has this property.  This raises the 
+
+possibility of a flattening or inversion of the yield curve in the event that term premiums 
+
+do not rise from their currently very low levels.15   
+
+                                                   
+15 The standard expectations hypothesis model decomposes longer-term interest rates into a component that 
+represents the influence of expectations of future short-term interest rates and a “term premium.”  Most 
+estimates of the term premium, which are model-based, suggest that term premiums have been very low 
+recently, and some suggest that term premiums are roughly zero across the yield curve.  If term premiums 
+remain low and stable, the component associated with expectations of future short-term interest rates will 
+dominate movements in long-term interest rates. 
+
+
+ - 9 - 
+
+Like many of you, I am attentive to the historical observation that inversions of 
+
+the yield curve between the 3-month and 10-year Treasury rates have had a relatively 
+
+reliable track record of preceding recessions in the United States.16  But unlike these 
+
+historical episodes, today the current 10-year yield is very low at around 3 percent, which 
+
+is well below the average of 6-1/4 percent during the decades before the crisis.   
+
+Part of the reason the 10-year Treasury yield is unusually low is that market 
+
+expectations of interest rates in the longer run are themselves quite low, as discussed 
+
+earlier.  Another important reason the 10-year Treasury yield is very low is that the term 
+
+premium has fallen to levels that are very low by historical standards.  According to one 
+
+estimate from Federal Reserve staff, the term premium has been slightly negative until 
+
+very recently and remains very low.17  By contrast, it was close to 100 basis points when 
+
+the spread between the 3-month and 10-year Treasury yields was at its peak of 325 basis 
+
+points in early 2010.  This may temper somewhat the conclusions that we can draw from 
+
+historical yield curve relationships characterized by a substantially higher term premium.  
+
+If the term premium remains very low, any given amount of monetary policy tightening 
+
+will lead to an inversion sooner so that even a modest tightening that might not have led 
+
+to an inversion historically could do so today. 
+
+One reason the term premium may be lower than in the past is the changed 
+
+correlation between stock and bond returns, likely associated with changes in expected 
+
+inflation outcomes.18  The other driver of the low level of the term premium globally is 
+
+                                                   
+16 See Estrella and Mishkin (1997); Johansson and Meldrum (2018); and Favara and others (2016) for more 
+recent analysis. 
+17 See Kim and Wright (2005).  The latest update is available on the Board’s website at 
+https://www.federalreserve.gov/econresdata/researchdata/feds200533.xls. 
+18 See Chen, Engstrom, and Grishchenko (2016). 
+
+
+ - 10 - 
+
+the asset purchases of central banks in several major economies.19  In this case, if the 
+
+term premium rises as the effect of asset purchase programs diminishes, the effect may be 
+
+to forestall an inversion of the long-dated yield curve.   
+
+It is worth highlighting that the flattening yield curve suggested by the SEP 
+
+median is associated with a policy path calibrated to sustain full employment and 
+
+inflation around target.  So, while I will keep a close watch on the yield curve as an 
+
+important signal on financial conditions, I will want to interpret yield curve movements 
+
+as one of several considerations informing appropriate policy. 
+
+Indeed, the possibility that the projected policy path may have unintended 
+
+consequences is one of the compelling reasons for raising interest rates gradually.  The 
+
+gradual pace of interest rate increases anticipated in the SEP median path should give us 
+
+some time to assess the effects of our policies as we proceed.   
+
+While the information available to us today suggests that a gradual path is 
+
+appropriate, we would not hesitate to act decisively if circumstances were to change.  If, 
+
+for example, underlying inflation were to move abruptly and unexpectedly higher, it 
+
+might be appropriate to depart from the gradual path.  Stable inflation expectations is one 
+
+of the key achievements of central banks in the past several decades, and we would 
+
+defend it vigorously. 
+
+Conclusion 
+
+Our challenge is to sustain full employment and inflation at 2 percent, which is 
+
+likely to warrant continued gradual increases in the federal funds rate.  With fiscal 
+
+stimulus in the pipeline and financial conditions supportive of growth, the shorter-run 
+
+                                                   
+19 See, for example, Li and Wei (2013); Curcuru, De Pooter, and Eckerd (2018); and Curcuru and others 
+(2018). 
+
+
+ - 11 - 
+
+neutral interest rate is likely to move up somewhat further, and it may well surpass the 
+
+longer-run equilibrium rate for some period.  Beyond the near term, how much the 
+
+neutral rate is likely to rise and whether it flattens or moderates further out will depend on 
+
+a variety of developments--such as whether fiscal stimulus is extended or expires, 
+
+whether foreign and trade risks grow or recede, and whether financial system 
+
+vulnerabilities extend.  As such, the gradual pace of rate increases implicit in the SEP’s 
+
+median policy path incorporates a degree of caution, which is appropriate, in my view. 
+
+
+ - 12 - 
+
+References 
+
+Board of Governors of the Federal Reserve System (2018a).  “Federal Reserve Issues 
+FOMC Statement,” press release, August 1, 
+https://www.federalreserve.gov/newsevents/pressreleases/monetary20180801a.htm. 
+
+ 
+-------- (2018b).  “Minutes of the Federal Open Market Committee, July 31-August 1, 
+
+2018,” press release, August 22, 
+https://www.federalreserve.gov/newsevents/pressreleases/monetary20180822a.htm. 
+
+ 
+Brainard, Lael (2015).  “Normalizing Monetary Policy When the Neutral Interest Rate Is 
+
+Low,” speech delivered at the Stanford Institute for Economic Policy Research, 
+Stanford, Calif., December 1, 
+https://www.federalreserve.gov/newsevents/speech/brainard20151201a.htm.  
+
+ 
+-------- (2017).  “Understanding the Disconnect between Employment and Inflation with a 
+
+Low Neutral Rate,” speech delivered at the Economic Club of New York, New 
+York, September 5, 
+https://www.federalreserve.gov/newsevents/speech/brainard20170905a.htm. 
+
+ 
+-------- (2018).  “Navigating Monetary Policy as Headwinds Shift to Tailwinds,” speech 
+
+delivered at the Money Marketeers of New York University, New York, March 6, 
+https://www.federalreserve.gov/newsevents/speech/brainard20180306a.htm. 
+
+ 
+Chen, Andrew, Eric Engstrom, and Olesya Grishchenko (2016).  “Has the Inflation Risk 
+
+Premium Fallen?  Is It Now Negative?” FEDS Notes.  Washington:  Board of 
+Governors of the Federal Reserve System, April 4, 
+https://www.federalreserve.gov/econresdata/notes/feds-notes/2016/has-the-
+inflation-risk-premium-fallen-is-it-now-negative-20160404.html. 
+
+ 
+Curcuru, Stephanie E., Michiel De Pooter, and George Eckerd (2018).  “Measuring 
+
+Monetary Policy Spillovers between U.S. and German Bond Yields,” 
+International Finance Discussion Papers 1226.  Washington:  Board of Governors 
+of the Federal Reserve System, April, 
+https://www.federalreserve.gov/econres/ifdp/files/ifdp1226.pdf. 
+
+ 
+Curcuru, Stephanie E., Steven B. Kamin, Canlin Li, and Marius Rodriguez (2018). 
+
+“International Spillovers of Monetary Policy:  Conventional Policy vs. 
+Quantitative Easing,” International Finance Discussion Papers 1234.  
+Washington:  Board of Governors of the Federal Reserve System, August, 
+https://www.federalreserve.gov/econres/ifdp/files/ifdp1234.pdf. 
+
+ 
+Cúrdia, Vasco (2015).  “Why So Slow?  A Gradual Return for Interest Rates,” FRBSF 
+
+Economic Letter 2015-32.  San Francisco:  Federal Reserve Bank of San 
+Francisco, October, https://www.frbsf.org/economic-
+
+
+ - 13 - 
+
+research/publications/economic-letter/2015/october/gradual-return-to-normal-
+natural-rate-of-interest. 
+
+ 
+Del Negro, Marco, Marc Giannoni, Matthew Cocci, Sara Shahanaghi, and Micah Smith. 
+
+(2015). “Why Are Interest Rates So Low?” Liberty Street Economics, Federal 
+Reserve Bank of New York, May 20, 
+http://libertystreeteconomics.newyorkfed.org/2015/05/why-are-interest-rates-so-
+low.html/ 
+
+ 
+Edge, Rochelle M., Michael T. Kiley, and Jean-Philippe Laforte (2008).  “Natural Rate 
+
+Measures in an Estimated DSGE Model of the U.S. Economy,” Journal of 
+Economic Dynamics and Control, vol. 32 (August), pp. 2515-35. 
+
+ 
+Estrella, Arturo, and Frederic S. Mishkin (1997).  “The Predictive Power of the Term 
+
+Structure of Interest Rates in Europe and the United States:  Implications for the 
+European Central Bank,” European Economic Review, vol. 41 (July), 
+pp. 1375-401. 
+
+ 
+Favara, Giovanni, Simon Gilchrist, Kurt F. Lewis, and Egon Zakrajšek (2016). 
+
+“Recession Risk and the Excess Bond Premium,” FEDS Notes.  Washington:  
+Board of Governors of the Federal Reserve System, April 8, 
+https://www.federalreserve.gov/econresdata/notes/feds-notes/2016/recession-risk-
+and-the-excess-bond-premium-20160408.html. 
+
+ 
+Holston, Kathryn, Thomas Laubach, and John C. Williams (2017).  “Measuring the Natural 
+
+Rate of Interest:  International Trends and Determinants,” Journal of International 
+Economics, vol. 108 (May), pp. S59-75. 
+
+ 
+Johannsen, Benjamin K., and Elmar Mertens (2016).  “The Expected Real Interest Rate in 
+
+the Long Run:  Time Series Evidence with the Effective Lower Bound,” FEDS 
+Notes.  Washington:  Board of Governors of the Federal Reserve System, 
+February 9, https://www.federalreserve.gov/econresdata/notes/feds-notes/2016/the-
+expected-real-interest-rate-in-the-long-run-time-series-evidence-with-the-effective-
+lower-bound-20160209.html. 
+
+ 
+Johansson, Peter, and Andrew Meldrum (2018).  “Predicting Recession Probabilities 
+
+Using the Slope of the Yield Curve,” FEDS Notes.  Washington:  Board of 
+Governors of the Federal Reserve System, March 1, 
+https://www.federalreserve.gov/econres/notes/feds-notes/predicting-recession-
+probabilities-using-the-slope-of-the-yield-curve-20180301.htm. 
+
+ 
+Kiley, Michael T. (2015).  “What Can the Data Tell Us about the Equilibrium Real 
+
+Interest Rate?” Finance and Economics Discussion Series 2015-077.  
+Washington:  Board of Governors of the Federal Reserve System, September, 
+https://www.federalreserve.gov/econresdata/feds/2015/files/2015077pap.pdf. 
+
+
+
+
+ - 14 - 
+
+Kim, Don H., and Jonathan H. Wright (2005).  “An Arbitrage-Free Three-Factor Term 
+Structure Model and the Recent Behavior of Long-Term Yields and Distant-
+Horizon Forward Rates,” Finance and Economics Discussion Series 2005-33.  
+Washington:  Board of Governors of the Federal Reserve System, September 
+(revised December 2011), 
+https://www.federalreserve.gov/pubs/feds/2005/200533/200533pap.pdf. 
+
+ 
+Laubach, Thomas and John C. Williams (2003). “Measuring the Natural Rate of 
+
+Interest,” Review of Economics and Statistics 85(4), 1063-1070. 
+ 
+Lewis, Kurt F., and Francisco Vazquez-Grande (2017). “Measuring the Natural Rate of 
+
+Interest: A Note on Transitory Shocks,” Finance and Economics Discussion 
+Series 2017-059. Washington: Board of Governors of the Federal Reserve 
+System, https://dx.doi.org/10.17016/FEDS.2017.059r1. 
+
+ 
+Li, Canlin, and Min Wei (2013).  “Term Structure Modeling with Supply Factors and the 
+
+Federal Reserve’s Large-Scale Asset Purchase Programs,” International Journal 
+of Central Banking, vol. 9 (March), pp. 3-39, 
+https://www.ijcb.org/journal/ijcb13q1a1.pdf. 
+
+ 
+Lubik, Thomas A. and Christian Matthes (2015). "Calculating the Natural Rate of 
+
+Interest: A Comparison of Two Alternative Approaches," Richmond Fed 
+Economic Brief, Federal Reserve Bank of Richmond, Oct, pages 1-6. 
+
+ 
+Powell, Jerome H. (2018).  “Monetary Policy in a Changing Economy,” speech delivered 
+
+at “Changing Market Structure and Implications for Monetary Policy,” a 
+symposium sponsored by the Federal Reserve Bank of Kansas City, held in 
+Jackson Hole, Wyo., August 24, 
+https://www.federalreserve.gov/newsevents/speech/powell20180824a.htm. 
+
+ 
+Wolters Kluwer (2018).  Blue Chip Economic Indicators, vol. 43 (September 10). 
+ 
+Yellen, Janet L. (2015).  “The Outlook for the Economy,” speech delivered to Providence 
+
+Chamber of Commerce, Providence, Rhode Island, May 22, 
+https://www.federalreserve.gov/newsevents/speech/files/yellen20150522a.pdf. 
+
+ 
+-------- (2016).  “The Outlook, Uncertainty, and Monetary Policy,” speech delivered to 
+
+The Economic Club of New York, March 29, 
+https://www.federalreserve.gov/newsevents/speech/yellen20160329a.htm. 
+
+ 
+-------- (2017).  “Statement,” testimony before the Committee on Banking, Housing, and 
+
+Urban Affairs, February 14, 
+https://www.federalreserve.gov/newsevents/testimony/files/yellen20170214a.pdf. 
+
+
+

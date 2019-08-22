@@ -1,0 +1,862 @@
+
+For release on delivery 
+
+8:15 p.m. EDT (7:15 p.m. CDT) 
+
+September 30, 2015 
+
+
+
+
+
+
+
+
+
+Community Banks, Small Business Credit, and Online Lending 
+
+
+
+
+Remarks by 
+
+
+Lael Brainard 
+
+
+Member 
+
+
+Board of Governors of the Federal Reserve System 
+
+
+at 
+
+
+“Community Banking in the 21st Century” 
+
+The Third Annual Community Banking Research and Policy Conference 
+
+Cosponsored by the Federal Reserve System and Conference of State Bank Supervisors 
+
+
+Federal Reserve Bank of St. Louis 
+
+St. Louis, Missouri 
+
+
+
+
+
+
+
+
+September 30, 2015 
+
+
+
+
+
+I would like to thank the event organizers for inviting me to participate in this 
+
+year’s Community Banking Research and Policy Conference.  Supporting the health and 
+
+vitality of America’s community banks is an important priority for me.  Community 
+
+banks have long been a central provider of finance to Main Street America.  Despite the 
+
+challenging environment of the past several years, community banks have continued to 
+
+play a significant role in a number of key market segments.   
+
+Today I want to focus on one of the most important of those segments--the 
+
+provision of credit to small businesses--and to explore how the traditional role of 
+
+community banks may be affected by the growing role of online lenders.  Some view the 
+
+growth of online platforms as a challenge to community banks in their traditional core 
+
+businesses.  But it is also possible that the very different strengths of community banks 
+
+and online lenders could lead to complementarity and collaboration in the provision of 
+
+credit to small business while recognizing there are important risks that must be managed 
+
+by banks and borrowers.  By working together, lenders, borrowers, and regulators can 
+
+help support an outcome whereby credit channels are strengthened and the possible risks 
+
+are being proactively managed. 
+
+Small Businesses, Small Business Credit, and the U.S. Economy 
+
+Small businesses make up a large and vitally important segment of the U.S. 
+
+economy.  And their vitality hinges centrally on their access to credit. 
+
+More than three-fourths of American businesses have fewer than 10 employees 
+
+and another nearly one-fourth have between 10 and 500 employees.1  In addition to 
+
+                                                 
+I am grateful to Robin Prager for her assistance in preparing this text. 
+1 See Bureau of Labor Statistics, “Table G, Distribution of Private Sector Firms by Size Class:  1993/Q1 
+
+through 2014/Q1, Not Seasonally Adjusted,” www.bls.gov/web/cewbd/table_g.txt. 
+
+
+ - 2 - 
+
+constituting the vast majority of firms in the United States, small businesses account for 
+
+about one-half of private-sector employment.2  And small firms, especially new small 
+
+firms, are an even greater source of net new jobs in our economy.3  Thus, ensuring that 
+
+creditworthy small businesses have access to credit is vitally important. 
+
+Discussions of small businesses, along with their credit needs, often fail to 
+
+appreciate the tremendous heterogeneity that exists among these firms and, consequently, 
+
+the variation in their credit needs.  Small businesses include plumbers and electricians, 
+
+medical and dental offices, dry cleaners and hair salons, restaurants and bodegas, as well 
+
+as growth-oriented tech start-ups and small manufacturers.  They range in size from 
+
+having zero employees--which accounts for a very large share of small businesses--to the 
+
+much smaller share of small businesses with a few hundred employees.  Although some 
+
+small businesses aspire to grow quickly, many others are unlikely to grow much at all.  
+
+While some have audited financial statements, most small businesses do not.  Some have 
+
+assets that can be pledged as collateral, but many do not.  Some have a long history of 
+
+solid, profitable performance, while others have short histories or a mixed track record 
+
+with regard to profitability.   
+
+Not surprisingly, there is also considerable variation in the credit needs of small 
+
+businesses.  Some small businesses, particularly very small firms in knowledge or service 
+
+industries, may have little or no need for credit.  Larger small businesses, and those that 
+
+require a substantial amount of equipment or need to hold sizeable inventories, tend to 
+
+have greater credit needs.  Among small businesses that do need credit, funds may be 
+
+                                                 
+2 See Bureau of Labor Statistics, “Table F, Distribution of Private Sector Employment by Firm Size Class:  
+
+1993/Q1 through 2014/Q1, Not Seasonally Adjusted,” www.bls.gov/web/cewbd/table_f.txt. 
+3 For more on small firms and net new jobs, see Haltiwanger (2013). 
+
+
+ - 3 - 
+
+required for managing cash flow, for purchasing or maintaining property or equipment, 
+
+for building inventory, or for expanding operations.  Depending on the needs, firms may 
+
+be interested in term loans, capital leases, lines of credit, or credit card loans.  The 
+
+characteristics of a small business and the nature of its credit needs influence the type of 
+
+lender that is best suited to meeting those needs. 
+
+Community Banks and Small Business Lending 
+
+Community banks have long been a primary source of credit for small businesses 
+
+and today may continue to have the best business model for fulfilling many small 
+
+business credit needs.4  But changing technology has led to increased competition in this 
+
+product space from both larger banks and, in recent years, alternative lenders.   
+
+Large banking organizations ramped up their small business lending between 
+
+2003 and 2008.  Although they pulled back from this market segment in the wake of the 
+
+financial crisis, their small loans to businesses have been gradually rising since 2011.  
+
+Meanwhile, community banks experienced very modest growth in small loans to 
+
+businesses during the pre-crisis period, followed by a decline from 2009 through 2013 
+
+and a subsequent leveling-off.  Consequently, community banks’ share of the dollar 
+
+volume of outstanding small loans to businesses at commercial banks has declined over 
+
+the past decade.5  Despite this decline, community banks continue to hold about 
+
+50 percent of outstanding small business loans at commercial banks, far in excess of 
+
+their 20 percent share of commercial banking assets and deposits.6   
+
+                                                 
+4 For purposes of this talk, I define a community bank as a bank with less than $10 billion in assets, which 
+
+is either independent or part of a banking organization that also has less than $10 billion in assets. 
+5 Small loans to businesses are loans to businesses with initial principal amounts of less than $1 million. 
+6 Data on bank assets, deposits, and small loans to businesses were compiled from Consolidated Reports of 
+
+Condition and Income, also known as Call Reports, that banks file with the Federal Financial Institutions 
+
+
+ - 4 - 
+
+To understand the continued strong role played by community banks, it is helpful 
+
+to look at the differences in small business lending between large and small banks.  
+
+Although large banks and small banks now provide about equal dollar volumes of small 
+
+loans to businesses, they tend to provide different types of loans to different types of 
+
+borrowers, using different underwriting methods.  On the one hand, large banks generally 
+
+have some advantages in the provision of transaction-based lending--that is, lending that 
+
+relies on hard or quantitative information such as financial ratios, collateral, or credit 
+
+scores.  Small banks, on the other hand, have advantages in the provision of relationship-
+
+based lending--lending based on context-specific or qualitative information, such as the 
+
+owner’s character and reliability and the needs of the community.  
+
+When we use Call Report data to break down commercial banks’ loans to 
+
+businesses by loan size, it is striking that most of the erosion in community banks’ share 
+
+over the past decade has been concentrated among the very smallest loans--those with 
+
+initial principal amounts less than $100,000.  Among these so-called micro loans, the 
+
+share held by large banks grew from 42 percent in 2005 to 67 percent in 2015.  In 
+
+contrast, large banks’ share of larger outstanding small loans to businesses--those with 
+
+initial principal amounts between $100,000 and $1 million--grew much more modestly, 
+
+from 39 percent to 43 percent, over the same time period.  Business micro loans are 
+
+typically underwritten based, primarily or exclusively, on credit scores because the small 
+
+loan size makes it unprofitable to produce such loans using more costly traditional 
+
+underwriting methods.  Thus, the growth in large banks’ share of micro business loans is 
+
+                                                 
+Examination Council.  Data on banks’ small loans to businesses are widely used to proxy for bank loans to 
+
+small businesses because data on the latter are not collected.   
+
+
+ - 5 - 
+
+likely attributable to their ability to benefit from economies of scale in credit-score-based 
+
+lending.   
+
+Business loans with principal amounts between $100,000 and $1 million are 
+
+generally not underwritten solely on the basis of credit scores--probably because lenders 
+
+are not willing to incur the risk associated with larger loan amounts without the benefit of 
+
+a traditional underwriting approach.  For these larger loans--and for smaller loans where 
+
+the borrower does not qualify based on credit score alone--community banks are often the 
+
+lender of choice.  Their local knowledge and close ties to the communities they serve 
+
+enable community bankers to establish a deep understanding of local businesses that 
+
+allows them to prudently provide credit to borrowers who might not otherwise be 
+
+considered creditworthy.  A number of empirical studies confirm that relationships are 
+
+important factors influencing both the availability and the terms of loans to small 
+
+businesses.7   
+
+Similarly, when we slice the Call Report data to separate commercial and 
+
+industrial (C&I) loans from commercial real estate loans, we see that while community 
+
+banks’ share of outstanding small C&I loans dwindled from about 54 percent in 2005 to 
+
+40 percent in 2015, their share of small commercial real estate loans has remained 
+
+relatively stable, moving marginally from 66 percent to 63 percent.  Community bankers’ 
+
+intimate knowledge of their communities and their familiarity with local economic 
+
+conditions provide an advantage relative to large, geographically dispersed banks in 
+
+underwriting commercial real estate loans.   
+
+                                                 
+7 Examples of such studies include Petersen and Rajan (1994), Berger and Udell (1995), Cole (1998), 
+
+Berger and others (2005), and Cole and others (2004).   
+
+
+ - 6 - 
+
+Since large banks are unlikely to become as knowledgeable about local economic 
+
+conditions or as adept at small business relationship lending as community banks, there 
+
+may be some limits to their expansion in this segment of lending. 
+
+Online Alternative Lenders 
+
+In recent years, online alternative lenders have also made inroads into small 
+
+business lending.  There has been a lot of speculation about the effect of this sector on 
+
+traditional banks:  Will it disrupt their activities, broaden their reach, or maybe a little of 
+
+both?   
+
+Focusing specifically on nonbank alternative online lenders or online marketplace 
+
+lenders, it is important to underscore that the online space is highly dynamic, with a 
+
+number of business models emerging and evolving.  I will touch on two business models 
+
+in particular, recognizing that as these business models are tested, it is likely that some 
+
+will prove more successful than others, and that some may adapt in ways that will cause 
+
+us to revise our segmentation of online alternative lending.8  First, online balance sheet 
+
+lenders generally use their own capital to fund small business credit products that are 
+
+originated either directly on their platforms or indirectly through brokers or referral 
+
+                                                 
+8 As the industry has evolved, alternative online lenders have increasingly been referred to as marketplace 
+
+lenders, a term that helps emphasize the growing institutional investor base of the sector.  So while peer-to-
+
+peer lenders initially allowed individual borrowers to connect with individual lenders, individual lenders 
+
+increasingly are being replaced by institutional investors who are turning to online marketplace lenders for 
+
+investment opportunities.  Because some balance sheet lenders are now originating small business loans for 
+
+institutional investors to purchase, balance sheet lenders are also often referred to as marketplace lenders. 
+
+In the Treasury Department’s recent Request for Information, they defined online marketplace lending as 
+
+“the segment of the financial services industry that uses investment capital and data-driven online platforms 
+
+to lend either directly or indirectly to small businesses and consumers.” (See U.S. Treasury, 2015, p. 6.) 
+
+
+ - 7 - 
+
+partnerships.9  Credit products offered by these lenders are usually short term and include 
+
+loans, lines of credit, or cash advances.10   
+
+Second, peer-to-peer lending platforms, by contrast, act as intermediaries to 
+
+connect borrowers with lenders and to assist investors in identifying and purchasing loans 
+
+that meet their investment criteria.  These lenders can be individuals, banks, or 
+
+institutional investors.11   
+
+Although data are limited on this sector, the data that are available suggest that 
+
+the various types of online alternative lenders have captured a small but rapidly growing 
+
+share of lending since the financial crisis.  In aggregate, the outstanding portfolio 
+
+balances of these lenders have doubled every year since the mid-2000s.12  It is estimated 
+
+that online alternative lenders originated $12 billion in 2014, with unsecured consumer 
+
+loans representing $7 billion and small business loans accounting for approximately 
+
+$5 billion.13  While this amount represents only a small fraction of U.S. unsecured 
+
+consumer and small business lending overall, the rate of growth is notable.  
+
+Much of the growth in online alternative lending has been supported by 
+
+innovative uses of technology that allow lending platforms to streamline and automate 
+
+loan applications, expedite underwriting and quickly price risk, and provide loan 
+
+applicants with quick loan decisions and access to funds.  Online alternative lenders use 
+
+algorithms to provide rapid decisions on loan applications, often taking into account 
+
+                                                 
+9 Online balance sheet lenders include companies such as OnDeck, Square Capital, Fundation, 
+
+CAN Capital, Kabbage, and PayPal Credit. 
+10 Cash advances, sometimes known as merchant cash advances, capital advances, or business cash 
+
+advances, are credit products that allow businesses to convert future credit card or payment account 
+
+receivables into capital (Lipman and Wiersch, 2015).  
+11 Peer-to-peer lending platforms include companies such as Prosper, Lending Club, and Funding Circle. 
+12 See Mills and McCarthy (2014, p. 42). 
+13 For information on online alternative lenders, see U.S. Treasury (2015, p. 6); for more on unsecured 
+
+consumer loans and small business loans, see Morgan Stanley Research (2015). 
+
+
+ - 8 - 
+
+information from a wide range of sources that are not typically involved in bank 
+
+underwriting of loans.  For example, aggregated information for small business 
+
+underwriting may include data on online banking, accounting, bookkeeping, credit card, 
+
+shipping, supplier, and social media.  So, while traditional banks often focus on personal 
+
+credit scores for underwriting consumer loans and the majority of small dollar, small 
+
+business loans, online alternative lenders may analyze a broader variety of data to 
+
+develop different metrics to measure and price loan risk.  Currently, the largest platforms 
+
+typically offer online or mobile applications that allow consumers and small business 
+
+owners to easily submit information and aggregate vast amounts of data to complete loan 
+
+applications. 
+
+Although rates vary by platform and borrower characteristics, when taking into 
+
+account origination fees and repayment periods, the average annual cost of borrowing,   
+
+or APR, associated with loans and credit products offered by online alternative small 
+
+business lenders tend to be higher than those associated with traditional bank products.14  
+
+Reports suggest that some borrowers are willing to pay a higher price in exchange for an 
+
+easy application process, a quick decision, and rapid availability of funds.15   
+
+While some see online alternative lenders as a disruptive threat to traditional 
+
+lenders, banks increasingly are finding ways to partner with online alternative lenders, 
+
+including through loan purchases and referral agreements.  Loan purchases by 
+
+community banks of loans originated by online alternative lenders have been focused on 
+
+                                                 
+14 For example, Mills and McCarthy (2014, p. 44) note that many alternative lending platforms charge 
+
+yields ranging from 30 to 120 percent of the loan value, depending on the size, term duration, and risk 
+
+profile of the loan.  Several alternative online lenders advertise lower rates, but industry sources note that 
+
+lending is rarely done at those rates.   
+15  For example, see Clark (2014), Cortese (2014), Crowley (2015), and Mills and McCarthy (2014, p. 46).   
+
+
+ - 9 - 
+
+unsecured consumer debt.  As the percentage of unsecured consumer debt outstanding 
+
+held by community banks has been declining in recent years, several banks have 
+
+partnered with online alternative lenders to grow and diversify their portfolios of 
+
+unsecured consumer debt.16 
+
+In contrast to the consumer loan activity, the small business partnerships that have 
+
+developed so far are largely fee-based referral partnerships.  In these partnerships, banks 
+
+refer to online alternative lenders some of their small business customers who are usually 
+
+seeking loan amounts that the referring banks may see as too costly to underwrite and 
+
+service, particularly in the size range below $100,000.17  For example, in 2014, OnDeck 
+
+announced small business loan referral partnerships with BBVA Compass and with the 
+
+ProfitStars Lending Network, part of the Independent Community Bankers of America 
+
+Preferred Service Provider program.  
+
+Another type of partnership that has been announced recently involves alternative 
+
+online lenders and Community Development Financial Institutions (CDFIs) that seek to 
+
+provide loans to low-income and underserved borrowers and neighborhoods.  These 
+
+partnerships may enable the CDFI to use the online lender’s technology platform at no 
+
+                                                 
+16 In 1994, banks and thrifts with less than $10 billion in assets held about 69 percent of U.S. consumer 
+
+loans, according to an analysis of regulatory filings by SNL Financial.  That share dropped to 19 percent in 
+
+2004 and 9 percent in 2014 (Tracy, 2015).  Recently, BancAlliance, a consortium of approximately 200 
+
+community banks, has partnered with Lending Club to purchase consumer loans originated on Lending 
+
+Club’s platform and the Western Independent Bankers, a consortium of more than 160 independent and 
+
+community banks, have entered into a partnership with Prosper to encourage member banks to use 
+
+Prosper’s platform to facilitate consumer loans for their customers.  Also, Lending Club and Citi 
+
+Community Capital, the community development lending and investing division of CitiGroup, recently 
+
+announced a partnership to facilitate up to $150 million in consumer loans designed to provide more 
+
+affordable credit to underserved, lower-income borrowers in low- and moderate-income communities.  
+17 As an indication of the demand for small dollar loans on the part of small businesses, the Joint Small 
+
+Business Credit Survey conducted in 2014 by the Federal Reserve Banks of New York, Atlanta, Cleveland, 
+
+and Philadelphia found that more than one-half of small business loan applicants sought $100,000 or less in 
+
+credit.  (For more information, the survey report is available at www.newyorkfed.org/smallbusiness/SBCS-
+
+2014-Report.pdf.) 
+
+
+ - 10 - 
+
+cost or for a reduced cost in order to make underwriting decisions faster and more cost 
+
+effective.18  These partnerships are still in the early stages. 
+
+Risks and Opportunities 
+
+Across the Federal Reserve System, we are actively following developments in 
+
+the alternative online lending space and have engaged with several alternative online 
+
+lenders over the past few years to learn more about the industry, the technology, and the 
+
+business models as well as engaging with bankers to understand how these developments 
+
+are affecting their markets.19  Most recently, several alternative lenders have participated 
+
+in events where we have joined with community development finance experts to discuss 
+
+ways to adopt platform lending technology to better serve low- and moderate-income 
+
+borrowers and small business owners.20   
+
+We want to better understand the opportunities presented by technological 
+
+advances that may bring new data to bear and help lenders make available credit to a 
+
+                                                 
+18 For example, in June 2015, Lending Club and the Opportunity Fund, a California-based CDFI 
+
+microenterprise lender, announced a partnership intended to provide $10 million in loans over a period of 
+
+five months to 400 small businesses in underserved areas of California (for more information, see  
+
+www.opportunityfund.org/media/blog/clinton-announces-partnership-between-opportunity-fund-and-
+
+lending-club).  In 2012, the Association for Enterprise Opportunities (AEO) launched the TILT Forward 
+
+platform, an online lending platform that is powered by OnDeck’s technology and can be used by AEO’s 
+
+network of nonprofit community lenders and other community-based organizations to reach underserved 
+
+entrepreneurs (more information is available at www.tiltforward.com). 
+19 In April 2014, the Federal Reserve Bank of New York hosted “Filling the Gaps:  Summit on Small 
+
+Business Credit Innovations.” and the Federal Reserve Bank of San Francisco will be hosting the 
+
+Consumer Financial Services Revolution in November 2015. 
+20 For example, in March 2014, the Board and the Federal Reserve Banks of New York and San Francisco 
+
+convened a small group of thought leaders for a discussion on the challenges and opportunities presented 
+
+by crowdfunding investments as a significant source of capital for the community development industry; 
+
+and in March 2015, we cohosted the Financial Innovations Roundtable with the University of New 
+
+Hampshire’s Carsey School of Public Policy and brought together representatives from banks, CDFIs, 
+
+mission-driven lenders, and small business online alternative lenders to talk about opportunities for 
+
+collaboration, the challenges of scaling up small business lending, and potential consumer and safety and 
+
+soundness regulatory issues facing partnerships between regulated financial institutions and alternative 
+
+online lenders. As the sector grows and evolves, we will continue to monitor the development of online 
+
+alternative lenders and the risks and opportunities that they may have for a range of stakeholders. 
+
+
+
+
+ - 11 - 
+
+more diverse set of small business borrowers.  In some cases, partnerships between 
+
+community banks and online platforms may help expand access to credit for consumers 
+
+and small businesses, and help banks retain and grow their customer base.   
+
+As regulators, we also want to help the various stakeholders anticipate and 
+
+carefully manage the associated risks.  Of course, third-party and vendor risks are factors 
+
+that banks should always take into account when introducing new products and services.  
+
+Taking the time to identify and mitigate risks is a prudent step that banks can take to 
+
+avoid unintended consequences when entering into partnership agreements with 
+
+alternative online lenders.  In addition, banks should consider whether the partnerships 
+
+provide new opportunities to diversify their portfolios if they are purchasing loans, and 
+
+whether the partnerships provide opportunities to offer new products that are a good 
+
+strategic fit for their bank and their customers.21   
+
+It is also important for banks to carefully consider regulatory compliance.  When 
+
+purchasing consumer loans originated by online alternative lenders, banks should 
+
+examine whether fair lending or unfair or deceptive acts or practices issues result from 
+
+the origination and underwriting methods used by online alternative lenders.22  To the 
+
+extent that the underlying algorithms used for credit decisionmaking use nontraditional 
+
+                                                 
+21 If a bank is considering a referral partnership, the following questions could help identify potential risks:  
+
+Do existing customers have a need for the product or are there less expensive products that would better 
+
+serve borrower’s needs?  Are the features, risks, and terms of the products offered through the referral 
+
+program explained clearly and conspicuously, or are they buried in a lengthy document full of “legalese” 
+
+that makes it difficult for borrowers to make a truly informed choice?  Finally, are the products offered 
+
+through the referral partnership consistent with what would be recommended to a family member?  (See 
+
+Curran, 2013.) 
+22 There are several regulatory compliance-related questions that banks should consider.  For example, have 
+
+the loans offered or the lending platform to be partnered with been reviewed for compliance with 
+
+applicable federal and state laws?  Have the loans originated by the partnering lending platform been 
+
+reviewed from a consumer fairness standpoint?  When assessing referral partnerships, have any issues been 
+
+identified that would lead to disparate treatment of customers if banks selectively refer customers to online 
+
+alternative lending partners?  (See Federal Reserve System Community Banking Connections Advisory 
+
+Board, 2014). 
+
+
+ - 12 - 
+
+data sources, it will be important to ensure that this does not lead to disparate treatment or 
+
+have a disparate impact on a prohibited basis. 
+
+Aside from these risks, banks should consider a variety of others, including the 
+
+implications of credit risk stemming from the purchase of loans and reputational risk if 
+
+referrals to online alternative lending platforms end badly. 
+
+The risks I have described so far have primarily been from the perspective of 
+
+banks considering partnerships with online alternative lenders.  Another important set of 
+
+concerns are focused on the small business borrowers who may be considering online 
+
+alternative loans.  Some have raised concerns about the high APRs associated with some 
+
+online alternative lending products.  Others have raised concerns about the risk that some 
+
+small business borrowers may have difficulty fully understanding the terms of the various 
+
+loan products or the risk of becoming trapped in layered debt that poses risks to the 
+
+survival of their businesses.  Some industry participants have recently proposed that 
+
+online lenders follow a voluntary set of guidelines designed to standardize best practices 
+
+and mitigate these risks.23  It is too soon to determine whether such efforts of industry 
+
+participants to self-police will be sufficient.  Even with these efforts, some have 
+
+suggested a need for regulators to take a more active role in defining and enforcing 
+
+standards that apply more broadly in this sector. 
+
+No doubt, ongoing technological advances and the evolving competitive lending 
+
+landscape will continue to present both challenges and opportunities for community 
+
+bankers who are deeply committed to the provision of credit to small businesses.  I 
+
+remain confident that community bankers will continue to play a vital role in the small 
+
+                                                 
+23 For example, see www.responsiblebusinesslending.org. 
+
+
+ - 13 - 
+
+business lending landscape as the respective business models of online platforms and 
+
+community banks evolve.  The advantage that comes from close relationships with their 
+
+customers and intimate knowledge of their communities that lie at the heart of 
+
+community banking will continue to provide a powerful advantage in serving the vital 
+
+banking needs of small businesses, even as the use of nontraditional sources of data and 
+
+electronic processing platforms may permit faster loan decisions, especially for smaller 
+
+loan amounts, to a broader set of borrowers. 
+
+Thank you, again, to the conference organizers for inviting me to this important 
+
+event and for the opportunity to speak to you today. 
+
+
+
+
+ - 14 - 
+
+References 
+
+Berger, Allen N., and Gregory F. Udell (1995).  “Relationship Lending and Lines of 
+
+Credit in Small Firm Finance,” Journal of Business, vol. 68 (July), pp. 351-81. 
+
+Berger, Allen N., Nathan H. Miller, Mitchell A. Petersen, Raghuram G. Rajan, and 
+
+Jeremy C. Stein (2005).  “Does Function Follow Organizational Form?  Evidence 
+
+from the Lending Practices of Large and Small Banks,” Journal of Financial 
+
+Economics, vol. 76 (May), pp. 237-69. 
+
+Clark, Patrick (2014).  “How Much Is Too Much to Pay for a Small Business Loan?” 
+
+Bloomberg Businessweek, May 16, www.bloomberg.com/bw/articles/2014-05-
+
+16/how-much-is-too-much-to-pay-for-a-small-business-loan. 
+
+Cole, Rebel A. (1998).  “The Importance of Relationships to the Availability of Credit,” 
+
+Journal of Banking and Finance, vol. 22 (August), pp. 959-77. 
+
+Cole, Rebel A., Lawrence G. Goldberg, and Lawrence J. White (2004).  “Cookie Cutter 
+
+Versus Character:  The Micro Structure of Small Business Lending by Large and 
+
+Small Banks,” Journal of Financial and Quantitative Analysis, vol. 39 (June), 
+
+pp. 227-51. 
+
+Cortese, Amy (2014).  “Can’t Get a Bank Loan?  The Alternatives Are Expanding,” New 
+
+York Times, March 5. 
+
+Cowley, Stacy (2015).  “Online Lenders Offer a Faster Lifeline for Small Businesses,” 
+
+New York Times, April 8. 
+
+Curran, Teresa (2013).  “Consideration When Introducing a New Product or Service at a 
+
+Community Bank,” Community Banking Connections, First Quarter, 
+
+https://www.communitybankingconnections.org/articles/2013/Q1/Considerations-
+
+When-Introducing-A-New-Product. 
+
+Federal Reserve System Community Banking Connections Advisory Board (2014).  
+
+“Introducing a New Product or Service,” FedLinks, September, 
+
+https://www.communitybankingconnections.org/assets/fedlinks/2014/september2
+
+014b.pdf. 
+
+Haltiwanger, John, Ron S. Jarmin, and Javier Miranda (2013).  “Who Creates Jobs?  
+
+Small Versus Large Versus Young,” The Review of Economics and Statistics, 
+
+vol. 95 (May), pp. 347-61. 
+
+Lipman, Barbara J., and Ann Marie Wiersch (2015).  Alternative Lending through the 
+
+Eyes of “Mom-and-Pop” Small-Business Owners:  Findings from Online Focus 
+
+Groups.  Cleveland:  Federal Reserve Bank of Cleveland, August, 
+
+https://www.clevelandfed.org/Newsroom%20and%20Events/Publications/Special
+
+%20Reports/sr%2020150825%20alternative%20lending%20through%20the%20e
+
+yes%20of%20mom%20and%20pop%20small%20business%20owners.aspx. 
+
+
+ - 15 - 
+
+Mills, Karen G., and Brayden McCarthy (2014).  “The State of Small Business Lending:  
+
+Credit Access During the Recovery and How Technology May Change the 
+
+Game,” Working paper 15-004.  Cambridge, Mass.:  Harvard Business School, 
+
+July, www.hbs.edu/faculty/Publication%20Files/15-004_09b1bf8b-eb2a-4e63-
+
+9c4e-0374f770856f.pdf. 
+
+Morgan Stanley Research (2015).  Global Marketplace Lending: Disruptive Innovation 
+
+in Financials.  Morgan Stanley, Global Research, May. 
+
+Petersen, Mitchell A., and Raghuram G. Rajan (1994).  “The Benefits of Lending 
+
+Relationships:  Evidence from Small Business Data,” Journal of Finance, vol. 49 
+
+(March), pp. 3-37. 
+
+Tracy, Ryan (2015).  “Lending Club, Small U.S. Banks Plan New Consumer-Loan 
+
+Program,” Wall Street Journal, February 9. 
+
+U.S. Department of Treasury (2015).  “Public Input on Expanding Access to Credit 
+
+through Online Marketplace Lending,” notice submitted to the Office of the 
+
+Federal Register.  Washington:  Department of Treasury, 
+
+www.treasury.gov/connect/blog/Documents/RFI%20Online%20Marketplace%20
+
+Lending.pdf. 
+

@@ -1,0 +1,567 @@
+
+For release on delivery 
+6:40 p.m. EDT 
+March 18, 2010 
+ 
+
+
+Toward an Effective Resolution Regime for Large Financial Institutions 
+ 
+ 
+ 
+
+Remarks by 
+ 
+
+Daniel K. Tarullo 
+ 
+
+Member 
+ 
+
+Board of Governors of the Federal Reserve System 
+ 
+
+at 
+ 
+
+Symposium on Building the Financial System of the 21st Century:  
+
+An Agenda for Europe and the United States 
+
+ 
+Armonk, New York 
+
+
+March 18, 2010 
+
+
+Two years ago this week, Bear Stearns succumbed to severe liquidity stress. It 
+
+was rescued, and eventually absorbed by JPMorgan Chase, with financing assistance 
+
+provided by the Federal Reserve.  Although it would take another six months before the 
+
+accumulating stress and uncertainty posed an immediate threat to nearly all of our major 
+
+financial institutions, it is clear in retrospect that this arranged marriage, and its 
+
+accompanying dowry of government financing, set off an expansion of the universe of 
+
+firms perceived as too big to fail.   
+
+During the financial crisis, government authorities in the United States and 
+
+elsewhere believed they had only two realistic options in the face of serious distress at a 
+
+large financial firm.  First, they could try to contain systemic risk by stabilizing the firm 
+
+through capital injections, extraordinary liquidity assistance, a subsidized acquisition by a 
+
+less vulnerable firm, or some combination of these supports.  Second, they could allow 
+
+the firm to fail and enter generally applicable bankruptcy processes, risking in those times 
+
+of fear and uncertainty a run on similarly situated firms.  
+
+The Bear Stearns deal was an example of the first policy option.  Lehman 
+
+Brothers  was an example of the second.  When its bankruptcy set off a firestorm in the 
+
+exceedingly dry tinder of financial markets in the fall of 2008, the U.S. government 
+
+decided that further failures of large, interconnected financial institutions risked bringing 
+
+down the entire financial system.  It responded to the situation with the Troubled Asset 
+
+Relief Program to provide capital, and the Temporary Liquidity Guarantee Program to 
+
+extend debt guarantees, to large financial firms.   
+
+Indeed, faced with the possibility of a cascading financial crisis, most 
+
+governments around the world selected the bailout option in most cases.  But if the costs 
+
+
+- 2 - 
+ 
+
+of this approach are less dramatic during a crisis, they are no less significant afterward.  
+
+Entrenching too-big-to-fail status obviously risks imposing significant costs on the 
+
+taxpayer.  It undermines market discipline, competitive equality among financial 
+
+institutions of different sizes, and normal regulatory and supervisory expectations.  
+
+The desirability of a third alternative to the Hobson’s choice of bailout or 
+
+disorderly bankruptcy is obvious--hence the prominence during the regulatory reform 
+
+debate of proposals for a special resolution process that would allow the government to 
+
+wind down a systemically important firm in an orderly way while still imposing losses on 
+
+shareholders and creditors.  The crisis has also focused attention on the special problems 
+
+created by the failure of a large, internationally active financial firm.  In my remarks I 
+
+will elaborate on the relationship between resolution regimes and an effective overall 
+
+system of financial regulation and supervision, both in the international and domestic 
+
+spheres.1  
+
+At the risk of some oversimplification, I would state that relationship as follows:  
+
+First, an effective domestic resolution process is a necessary complement to supervision 
+
+that would bring more market discipline into the decisionmaking of large financial firms, 
+
+their counterparties, and investors.  At the same time, even a well-designed resolution 
+
+mechanism is no substitute for reformed regulatory rules and strengthened supervisory 
+
+oversight. 
+
+Second, the high legal and political hurdles to harmonized cross-border resolution 
+
+processes suggest that, for the foreseeable future, the effectiveness of those processes will 
+
+largely depend on supervisory requirements and cooperation undertaken before distress 
+
+appears on the horizon.  I would further suggest that the importance of proposed 
+                                                       
+1 The views expressed are my own and not necessarily those of other members of the Board of Governors. 
+
+
+- 3 - 
+ 
+
+requirements that each large financial firm produce a so-called living will is that this 
+
+device could better tie the supervisory and resolution processes together.  
+
+A Resolution Regime for Large, Interconnected Firms 
+
+As compelling as the case for such a process is, the debate around resolution 
+
+proposals has highlighted the challenge of crafting a workable resolution regime for 
+
+large, interconnected firms.  The basic design problem is that such a regime must advance 
+
+the goals of both financial stability and market discipline.  While these goals are usually 
+
+complementary, they can at times be competing--especially in periods of high financial 
+
+stress, when time consistency problems can loom large.  In the midst of a crisis, 
+
+governments fearful of financial upheaval can be tempted to provide assistance to 
+
+supposedly uninsured creditors, even at the cost of increasing moral hazard in the post-
+
+crisis period.  Despite the consequent design difficulties, I think there are certain essential 
+
+features of any special resolution process.  
+
+First, any new regime should be used only in those rare circumstances where a 
+
+firm’s failure would have serious adverse effects on financial stability.  That is, the 
+
+presumption should be that generally applicable bankruptcy law applies to nonbank 
+
+financial firms--even large, interconnected ones.  One way to help ensure that the regime 
+
+is invoked only when necessary to protect the public’s interest in systemic stability is to 
+
+use a “multi-key” approach--that is, one that requires the approval of multiple agencies 
+
+and a determination by each that the high standards governing the use of the special 
+
+regime have been met.  
+
+Second, once invoked, the government should have broad authority to wind down 
+
+the company in an orderly way.  This authority should include--among other things--
+
+
+- 4 - 
+ 
+
+selling assets, liabilities, or business units of the firm; transferring the systemically 
+
+significant or viable operations of the firm to a new bridge entity that can continue these 
+
+operations; and repudiating burdensome contracts of the firm, subject to appropriate 
+
+conditions and compensation. 
+
+Third, there should be a clear expectation that the shareholders and creditors of 
+
+the failing firm will bear losses to the fullest extent consistent with preserving financial 
+
+stability.  Shareholders of the firm ultimately are responsible for the organization’s 
+
+management (or, more likely, mismanagement) and are supposed to be in a first-loss 
+
+position upon failure of the firm.  Shareholders, therefore, should pay the price for the 
+
+firm’s failure and should not benefit from a government-managed resolution process.  
+
+To promote market discipline on the part of the creditors of large, interconnected 
+
+firms, unsecured creditors of the firms must also bear losses.  Here is where the potential 
+
+conflict of policy goals is obvious.  While losses imposed on creditors will increase 
+
+market discipline in the longer term, the immediate effect could be to provoke a run on 
+
+other firms with broadly similar positions or business strategies.  Thus the extent of these 
+
+losses and the manner in which they are applied may need to depend on the facts of the 
+
+individual case.  At the very least, however, subordinated debt, or other financial interests 
+
+that can qualify as regulatory capital, should be fully exposed to losses. 
+
+Fourth, the ultimate cost of any government assistance provided in the course of 
+
+the resolution process to prevent severe disruptions to the financial system should be 
+
+borne by the firm or the financial services industry, not by taxpayers.  The scope of 
+
+financial institutions assessed for these purposes should be appropriately broad, reflecting 
+
+that a wide range of financial institutions likely would benefit, directly or indirectly, from 
+
+
+- 5 - 
+ 
+
+actions that avoid or mitigate threats to financial stability.  However, because the largest 
+
+and most interconnected firms likely would benefit the most, it seems appropriate that 
+
+these firms should bear a proportionally larger share of any costs that cannot be recouped 
+
+from the failing firm itself.  To avoid pro-cyclical effects, such assessments should be 
+
+collected over time. 
+
+Establishing a resolution regime with these characteristics is, I would suggest, one 
+
+of the most important financial regulatory reforms for every country that does not already 
+
+have such a mechanism in place.  It would lend substance to the idea that market 
+
+discipline can be a solid third pillar of financial regulation, along with stronger prudential 
+
+requirements and improved supervisory oversight.  Still, as is implicit in the foregoing 
+
+discussion, an untested regime will probably not acquire complete credibility until it is 
+
+actually applied successfully.  For this reason, among others, it is important to ensure that 
+
+other regulatory tools will help compensate for the uncertainties associated with an 
+
+essentially untested mechanism. 
+
+International Efforts on Resolution Issues 
+
+The looming or actual failure of a large, internationally active financial firm 
+
+inevitably complicates the already challenging process of resolution.  Mismatches in the 
+
+amounts and maturities of assets and liabilities held by the firm in the various countries in 
+
+which it operates can lead host governments to take special action to protect the interests 
+
+of depositors and creditors.  And different insolvency regimes apply to separately 
+
+incorporated subsidiaries across the world.  Some of those regimes may be substantively 
+
+inconsistent with one another, or may not account for the special characteristics of a large 
+
+international firm. 
+
+
+- 6 - 
+ 
+
+A natural response, which one can find peppered through various law journals 
+
+over the years, is to propose an international treaty that would establish and harmonize 
+
+appropriate insolvency regimes throughout the world.  Just to state the proposition is to 
+
+see the enormous hurdles to its realization.  The task of harmonizing divergent legal 
+
+regimes, and reconciling the principles underlying many of these regimes, would be 
+
+challenge enough.  But an effective international regime would also likely require 
+
+agreement on how to share the losses and possible special assistance associated with a 
+
+global firm’s insolvency. 
+
+Despite the good and thorough work being undertaken in both the Basel 
+
+Committee on Banking Supervision (Basel Committee) and the Financial Stability Board, 
+
+we must acknowledge that satisfyingly clean and comprehensive solutions to the 
+
+international difficulties occasioned by such insolvencies are not within sight.2  It would 
+
+certainly be useful if jurisdictions could at least broadly synchronize both standard 
+
+bankruptcy and any special resolution procedures applicable to a failing financial firm.   
+
+But even this significant advance would not settle many of the nettlesome problems 
+
+raised by a cross-border insolvency. 
+
+It thus seems reasonably clear that effective management of these problems will, 
+
+at least for the foreseeable future, require regulatory coordination and supervisory 
+
+cooperation before a large firm’s failure becomes a real possibility.  In one sense, this 
+
+                                                       
+2 See Basel Committee on Banking Supervision, Cross-Border Bank Resolution Group (2009), Report and 
+Recommendations of the Cross-Border Bank Resolution Group (Basel, Switzerland:  Basel Committee, 
+September), available at www.bis.org/publ/bcbs162.pdf?noframes=1; and Financial Stability Forum 
+(2009), FSF Principles for Cross-Border Cooperation on Crisis Management (Basel, Switzerland:  FSF, 
+April), available at www.financialstabilityboard.org/publications/r_0904c.pdf.  (The Financial Stability 
+Forum subsequently was renamed the Financial Stability Board.)   The Basel Committee's Cross-border 
+Resolution Group released its report and recommendations today, and the FSB will present a final report 
+and recommendations to the G-20 in October. 
+
+
+
+
+- 7 - 
+ 
+
+observation reinforces the importance of the international agenda for strengthening 
+
+capital and liquidity standards.  It also counsels continued attention to efforts to ensure 
+
+that globally active institutions are subject to effective consolidated supervision, and that 
+
+information-sharing arrangements among home and host country supervisors are well 
+
+designed and implemented.  To this end, the key supervisors and central banks for each 
+
+of the largest global banks will begin to meet regularly to discuss crisis planning, with 
+
+particular attention to contingency liquidity planning. 
+
+The crisis demonstrated that issues around cross-border liquidity support are 
+
+difficult.  Liquidity pressures may arise in unexpected places, time for coordination will 
+
+be short, and failures in one jurisdiction likely will spread quickly to other jurisdictions.  
+
+The Basel Committee and the Committee of European Banking Supervisors are each 
+
+working on definitions of liquid assets, common stress-testing metrics, and structural 
+
+balance sheet measures.  We are actively discussing the appropriate division of 
+
+responsibility between home and host authorities to provide liquidity support and the 
+
+related issue of how to approach cross-border branch operations.  Some have called into 
+
+question the traditional assumption that home country authorities will be willing and able 
+
+to support all of the worldwide operations of a banking group headquartered in its 
+
+jurisdiction.  It is not clear what approach might work better, but there is an obvious need 
+
+for broad international consistency and careful calibration with other prudential 
+
+requirements. 
+
+One of the key issues identified by the Basel Committee’s Cross-Border Bank 
+
+Resolution Group is the complexity and interconnectedness of the largest organizations.  
+
+Often the complexity is motivated by tax or regulatory factors, rather than a clear 
+
+
+- 8 - 
+ 
+
+business purpose.  Given the way these firms are structured and their linkages to key 
+
+systems and other institutions, resolution of such an organization will carry significant 
+
+risk of spillovers to other key markets, payments systems, or systemically important 
+
+institutions.  The Cross-Border Bank Resolution Group consequently recommended 
+
+developing initiatives that would result in simpler, less interconnected organizational 
+
+structures.  
+
+Living Wills  
+
+This point leads us to one much-discussed idea, that of firm-specific resolution 
+
+plans--sometimes referred to more colorfully, though not wholly accurately, as living 
+
+wills.  This proposal provides a good opportunity to advance the aim of linking resolution 
+
+mechanisms to other regulatory tools, both domestically and internationally. 
+
+In one variant of the idea, each internationally active bank would be required to 
+
+develop, and potentially to execute, its own resolution plan--literally, to plan for its own 
+
+demise.  Such a requirement could doubtless be helpful to some degree, but it has notable 
+
+limitations.  
+
+Most obviously, it is very difficult to predict in advance of a crisis which parts of 
+
+the firm will be under greatest stress, what geographical regions may be affected most 
+
+severely, and what the condition in various markets and economies will be, as well as the 
+
+stability of counterparties and similarly situated institutions.  Furthermore, governments 
+
+may be understandably reluctant to rely too much upon a wind-down plan developed by 
+
+an internationally active financial firm that so mismanaged itself that it is on the brink of 
+
+failure, placing other institutions at peril.  Finally, management of an institution can be 
+
+expected to seek to preserve as much value for shareholders as possible in its planning, 
+
+
+- 9 - 
+ 
+
+whereas the supervisors’ objective in a crisis is to achieve an orderly resolution, which 
+
+will often entail winding down or restructuring the insolvent firm in ways that effectively 
+
+wipe out shareholder interests.  
+
+The living will requirement could be broadened so as to make it into a potentially 
+
+very useful supervisory tool for healthy firms, as well as a resource in the event that 
+
+resolution became necessary.  Under this approach, the firm would, in addition to 
+
+developing a resolution plan, be required to draw up a contingency plan to rescue itself 
+
+short of failure, identify obstacles to an orderly resolution, and show it can quickly 
+
+produce the information needed for the supervisor to orchestrate an orderly resolution 
+
+should the need arise.  These plans will need to evolve as the organization’s business and 
+
+economic conditions evolve, and accordingly, the plans will need to become a regular 
+
+part of normal supervisory processes. 
+
+A living will of this type could remove some of the uncertainty around a possible 
+
+resolution.  It would force firms and their supervisors to review contingency plans 
+
+regularly.  As part of their ongoing oversight, supervisors could target the areas where a 
+
+firm’s planning falls short of best practices.  Focusing on the legal, contractual, and 
+
+business relationships among the firm’s subsidiaries could yield significant benefits for 
+
+prudential supervision in normal, as well as stressed, times. The various elements of the 
+
+regulatory system could thus be better integrated by identifying mechanisms and 
+
+connections for the transmission of risk and liability between affiliates and by identifying 
+
+relationships that may present an obstacle to the ready sales of businesses, the proceeds 
+
+from which might allow the firm to avoid failure. 
+
+
+- 10 - 
+ 
+
+Central to the success of a living will as a supervisory tool is the quality of 
+
+information it would make available in a crisis.  Some of the information would be 
+
+relatively static.  A firm would have to inventory all of its legal entities, along with the 
+
+legal regimes applicable to each one, and map its business lines into legal entities.  A firm 
+
+also would have to document interaffiliate guarantees, funding, hedging, and provision of 
+
+information technology and other key services.  This information would be needed to 
+
+deal with any crisis, no matter what its specific form.  
+
+Once the centrality of accurate, comprehensive information is understood, it 
+
+becomes apparent that a very significant upgrade of management information systems 
+
+(MIS) may be the only way for the firm to satisfy living will requirements, just as we at 
+
+the Federal Reserve found when we led the Supervisory Capital Assessment Program--
+
+popularly known as the bank stress tests--that improved MIS are needed for ongoing risk 
+
+management at the institution.  
+
+Supervisory demands for improved MIS could have another benefit.  Just as a 
+
+homeowner has an incentive to shed belongings to reduce the expense of moving, so a 
+
+financial firm may have a powerful incentive to simplify its organizational structure and 
+
+rationalize relationships among its corporate entities to reduce the cost of developing 
+
+comprehensive MIS that enable an organization to retrieve information in multiple 
+
+formats across jurisdictions, business lines, and legal entities.  Simpler structures can also 
+
+be encouraged by reemphasizing existing supervisory guidance requiring banking 
+
+organizations to measure and manage their risks not only on the global, consolidated 
+
+level, but also on a legal entity basis.  Together, the information requirements of living 
+
+wills and the need to measure and manage risks at the legal entity level can help create 
+
+
+- 11 - 
+ 
+
+the right incentives for firms to simplify their structures without necessarily requiring a 
+
+supervisor to delve into the details of a banking group’s structure.  
+
+Conclusion 
+
+All of this work on resolution, both domestic and international, is important and 
+
+necessary.  But we must be realistic about what it can accomplish.  In light of what has 
+
+happened over the past two years, it is imperative that governments convince markets that 
+
+they can and will put large financial firms into a resolution process rather than bail out  
+
+creditors and shareholders.  Yet no one can guarantee that future resolutions of 
+
+systemically important firms will proceed smoothly or predictably.  Resolution 
+
+mechanisms must be understood not as silver bullets, but as critical pieces of a broader 
+
+agenda directed at systemic risk and the too-big-to-fail problem.  
+
+
+ 
+

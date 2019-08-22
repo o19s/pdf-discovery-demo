@@ -1,0 +1,603 @@
+
+For release on delivery 
+2:00 p.m. EDT   
+July 9, 2019 
+ 
+
+
+Stress Testing: A Decade of Continuity and Change 
+ 
+ 
+ 
+
+Remarks by 
+ 
+
+Randal K. Quarles 
+ 
+
+Vice Chair for Supervision  
+ 
+
+Board of Governors of the Federal Reserve System 
+ 
+
+at 
+ 
+
+“Stress Testing: A Discussion and Review,” a research conference sponsored by  
+the Federal Reserve Bank of Boston 
+
+
+Boston, Massachusetts  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+July 9, 2019 
+
+
+
+Thank you Eric, and thank you to everyone at the Boston Fed and throughout the 
+
+system who have contributed to this conference.  This gathering comes a few weeks after 
+
+the announcement of this year’s stress test results, so let me begin by recounting the 
+
+highlights of those results.  They show that our financial system remains resilient and that 
+
+capital planning by banks continues to improve.  The largest and most complex banks 
+
+were tested against a severe hypothetical recession and retained strong capital levels, well 
+
+above their minimum requirements.  They demonstrated the ability to withstand a severe 
+
+and lasting economic downturn and still be able to lend to households and businesses.  
+
+Additionally, most firms are now meeting the high expectations we have set to make sure 
+
+capital planning takes into account their specific risks and vulnerabilities.  This is an 
+
+improvement from last year.  Overall, these results are good news that confirm our 
+
+financial system is significantly stronger than before the crisis. 
+
+Now let me turn to the purpose of this conference, which is to sharpen our 
+
+understanding of the experience gained from stress testing and apply these lessons to 
+
+think about the future.  And let me begin by acknowledging that—notwithstanding our 
+
+openness to learning from the collective experience of all of us in this room—the future 
+
+of stress testing will, in a number of important ways, necessarily resemble the past.  For 
+
+example, we’re still going to have them.  Over the course of the last 18 months, I have 
+
+heard overwhelmingly—from academics, from think tanks of every stripe, from banks of 
+
+every size, from regulatory colleagues both domestic and foreign—that stress tests should 
+
+continue to be a key element of the Federal Reserve’s supervision of systemically 
+
+important banks and a key aspect of the Fed’s efforts to promote financial stability.  
+
+Stress tests should be regular, rigorous, and dynamic.  And the banks’ performance on 
+
+
+ - 2 - 
+
+these tests will continue to be the most risk sensitive and consequential assessment of the 
+
+affected banks’ capital requirements.   
+
+ Transparency around the stress testing process and results was a fundamental 
+
+principle of the first stress test and every one that has followed, and it will remain a 
+
+primary goal.  Stress tests, as ever, will provide the public with essential information to 
+
+assess the health of banks and the overall financial system.  To be credible, stress tests 
+
+will also continue to provide significant information about how the Fed does its work, so 
+
+the public can understand the rigor and independence of our assessment process and how 
+
+we come to our judgment of the firms we test.   
+
+Fidelity to these principles, embraced in the depths of the crisis by the first stress 
+
+test a decade ago, does not mean that stress testing should never change or that it hasn’t 
+
+changed over the years.  We have learned from our experiences with the early tests and 
+
+added useful features and adjustments.  These include a counterparty default scenario, as 
+
+well as a number of policy statements that more explicitly convey the principles we find 
+
+important in a sensible stress testing program.    
+
+Stress testing has evolved, and must continue to evolve, to take on what we as 
+
+supervisors learn from our work and what we can learn from others.  Each year, we have 
+
+refined both the substance and the process of the stress tests, guided by our own 
+
+experience and by critiques and suggestions from others.  This feedback comes from a 
+
+variety sources, including conferences such as this one, and I am confident that the 
+
+presentations today will provide insights that result in improvements in our stress tests.    
+
+If stress tests are to continue to be relevant and effective, I strongly believe that 
+
+they must continue to change:  they must respond to changes in the economy, the 
+
+
+ - 3 - 
+
+financial system, and the risk-management capabilities of firms.  Evolutionary change 
+
+has been a consistent principle of stress testing since the beginning, embraced by my 
+
+predecessors at the Board of Governors and our supervisory staff and reflected in each 
+
+cycle of tests.  Without such adjustments, regulators, banks, and the broader public 
+
+cannot get a clear and dynamic view of the capital positions of the largest banks.   
+
+Stress tests each year have upheld the original principle of transparency around 
+
+the capital adequacy of our largest banks.  Stress tests results should allow investors, 
+
+counterparties, analysts and markets to make more informed judgments about the 
+
+condition of banks.  Along with other regulatory measures, this transparency increases 
+
+market discipline and it subjects the Federal Reserve to greater outside scrutiny and 
+
+analysis.  Accountability is important not only for the usual reasons that apply in a 
+
+democracy but also, in this case, because stress tests can only be effective when the 
+
+public has confidence in the Fed’s evaluation of the capital adequacy of banks.  In effect, 
+
+stress tests are also a test of the Fed’s supervision of large banks.  
+
+In these remarks, I will first sketch out how changes in regulation, risk 
+
+management, the economy, and overall financial stability have prompted alterations to 
+
+stress tests over the past decade.  Much of that change has enhanced transparency, which 
+
+is a founding principle for stress tests.  I will then suggest some ways in which the 
+
+effectiveness of stress testing can be further enhanced with greater transparency.    
+
+Ten years ago, in May of 2009, the Fed and the Treasury Department released the 
+
+first stress test results under the Supervisory Capital Assessment Program (SCAP).  At 
+
+that moment, the U.S. economy was in free fall. The United States had lost an astonishing 
+
+three million jobs in the previous four months.  One significant reason for these losses 
+
+
+ - 4 - 
+
+was that many businesses were severely constrained in their access to funding and found 
+
+it impossible to predict when that access might improve.  The goal of the first test was 
+
+urgent and simple:  to restore confidence in the 19 large banks that then accounted for 
+
+two-thirds of the assets in the banking system.  In fact, simply announcing in March that 
+
+there would be tests helped stabilize bank finances.  That improvement continued after 
+
+the results in May outlined the quite feasible steps for raising additional capital that the 
+
+banks would need to take, and did take, to be able to continue lending if adverse 
+
+conditions continued.  Challenging conditions did continue, but the stress tests and other 
+
+actions taken in the first half of 2009 marked a turning point.  The recovery from the 
+
+Great Recession began in July, as the financial system came back to life, and then 
+
+steadily strengthened. 
+
+The principles that made that first test so effective were independence and 
+
+transparency.  For the first time, an independent authority, the Federal Reserve, would 
+
+seek to independently assess risks.1  Just as important, the details of that assessment 
+
+would be shared with the public, an extent of transparency that until then wasn’t 
+
+characteristic of bank supervision but would become the hallmark of the regulatory 
+
+framework erected in response to the crisis.  The first tests relied heavily on banks’ 
+
+internal risk models, but they still represented a huge step in independence in providing 
+
+the public with an assessment of the health and resiliency of large banks.  Transparency 
+
+facilitated both market discipline and accountability.  The information provided to the 
+
+public under the SCAP stress test reinforced the entire enterprise of estimating the capital 
+
+                                                 
+1On May 7, 2009, the results of the Supervisory Capital Assessment Program were announced by the 
+Federal Reserve Board, the Federal Deposit Insurance Corporation and the Office of the Comptroller of the 
+Currency, https://www.federalreserve.gov/newsevents/pressreleases/bcreg20090507a.htm 
+
+
+ - 5 - 
+
+shortfall faced by major banks.  It held the banks accountable for information on their 
+
+capital adequacy and required them to fill the capital hole.   
+
+The next big step for stress testing came with its integration with the Federal 
+
+Reserve’s Comprehensive Capital Analysis and Review (CCAR), beginning in 2011.  
+
+One big change from the initial SCAP test was that stress tests were no longer a one-time 
+
+emergency measure intended to restore confidence in major financial institutions.  
+
+Instead, they became a recurring, ongoing process intended to maintain confidence in 
+
+major institutions.  Second, stress tests were no longer a discretionary exercise by 
+
+supervisors—under Dodd-Frank, they became the law of the land.  And third, when they 
+
+were integrated into CCAR, stress tests became part of a comprehensive—it’s the first C 
+
+in CCAR—framework for capital planning that more closely connected capital regulation 
+
+to risk management of banks and overall supervision. 
+
+These were changes, but with the effect of reinforcing the founding principles of 
+
+the SCAP test.  Transparency was enhanced when stress tests became mandatory, 
+
+recurring events and the public could depend on continuing to have access to information 
+
+about banks’ capital adequacy.  Also, the independence of those judgments was enhanced 
+
+when Congress made them a statutory responsibility for the Fed and when they were 
+
+integrated into our CCAR framework. 
+
+Further changes to stress testing have likewise reinforced the original goals.  
+
+Stress testing scenarios have become richer and more challenging, providing more 
+
+information about how banks would deal with a range of adverse developments and, for 
+
+example, exploring the effects of more differentiated risks that are not tied to the business 
+
+cycle.  Large trading banks now face an instantaneous shock to their trading assets, and 
+
+
+ - 6 - 
+
+many participants in the stress tests now must address how they would respond to the 
+
+failure of their largest counterparty. 
+
+Our stress tests demonstrate that banks have now built enough capital to withstand 
+
+a severe recession.  The capital-building phase of the post-crisis era is now complete, but 
+
+as part of CCAR, stress testing continues to contribute to the significant and ongoing 
+
+improvement since 2009 in risk management by banks.  The original reason for the 
+
+qualitative objection aspect of stress testing was to provide incentives for banks to 
+
+address the risk-management shortcomings that the Federal Reserve had observed during 
+
+the financial crisis.  For example, many firms supervised by the Federal Reserve had 
+
+substantial deficiencies in their ability to measure, monitor, and manage their risks.  
+
+These shortcomings made it difficult for banks to accurately report their risk exposures to 
+
+the Board, and consequently, threatened to undermine the credibility of the stress tests, 
+
+which were, and remain, dependent on data from the banks.   
+
+Since the beginning of CCAR in 2011, large banks have significantly improved 
+
+their risk-management and capital-planning processes. The qualitative assessment 
+
+conducted as part of the 2018 and 2019 CCAR cycles found that most firms either meet 
+
+or are very close to meeting the Federal Reserve’s supervisory expectations for capital 
+
+planning.  Large banks have improved the methods they use to identify their unique risks, 
+
+now use sound practices for identifying and addressing model weaknesses, and have 
+
+strong processes in place to evaluate their capital positions on a forward-looking basis.  
+
+While we continue to perform a qualitative assessment and ensure that progress is 
+
+retained, the improvements led the Federal Reserve to conclude that for most banks this 
+
+assessment can be incorporated into our regular supervisory practices.  The evolution of 
+
+
+ - 7 - 
+
+our qualitative assessment reflects the experience of the past 10 years of stress testing, 
+
+and in particular, the great improvement in risk management by large banks and the 
+
+cumulative effect of the Fed’s improved supervision of large institutions.  As I said 
+
+earlier, for stress testing to remain effective, it must respond to changes in the economy, 
+
+the financial system, and risk-management capabilities. 
+
+The changes to CCAR have occurred in the context of a similarly dramatic 
+
+improvement in the strength and resilience of the financial system.  The firms have more 
+
+than doubled their capital since the first round of stress tests in 2009.  Since that time, the 
+
+common equity of the largest 18 firms has increased by more than $650 billion. 
+
+Let me now turn to the most recent changes to CCAR and stress testing and put 
+
+them in the context of the history I have just related.  Congress revisited large bank 
+
+supervision last year in S. 2155, yet the legislation it passed reaffirmed the important role 
+
+of stress testing.  This shouldn’t be surprising, because the experience of stress testing 
+
+over the last 10 years has demonstrated that it is a highly useful element of large bank 
+
+supervision and the promotion of financial stability. 
+
+Something else that shouldn’t be surprising is that this experience has revealed 
+
+that periodic stress testing has turned out to be a less useful supervisory tool to evaluate 
+
+the risks of smaller and less complex financial institutions.  Congress made use of this 
+
+experience by raising the threshold for stress testing to $100 billion in assets and 
+
+providing more flexibility for the Fed to tailor stress testing for all firms.  This step has, 
+
+once again, advanced the principles demonstrated in the first stress test and ever since.  It 
+
+has increased transparency because incorporating and disclosing what we have learned 
+
+about the varying effectiveness of stress testing at different types of institutions is making 
+
+
+ - 8 - 
+
+stress testing more effective.  The accountability of the Fed is enhanced when we are seen 
+
+taking on board what we have learned through successive cycles of stress tests, and this 
+
+strengthens the independence and credibility of our judgments.  For those of us who 
+
+believe stress testing should remain central to supervision and promoting financial 
+
+stability, it is vital that an adjustment such as this takes place as appropriate. 
+
+With that in mind, let me review recent changes and proposed changes to the 
+
+Federal Reserve’s stress testing.  These changes are designed to make CCAR more 
+
+transparent and simple and to feature less unnecessary volatility. 
+
+The first principle is transparency.  We have taken a number of recent steps to 
+
+enhance the transparency around our models and the stress testing process more 
+
+generally.  Earlier this year, the Board published enhanced disclosures on two of the key 
+
+models that we use in stress testing.  In addition, the Board published estimated loss rates 
+
+for groups of loans with distinct characteristics, to show how supervisory models treat 
+
+specific assets under stress.  We will publish disclosures about two additional models in 
+
+2020 and each year thereafter until we have provided transparency about all our stress 
+
+test models.  At the same time, we published a new policy statement on our approach to 
+
+supervisory stress testing.  Among other things, the statement emphasizes the importance 
+
+of independence and stability to the credibility of our stress tests. 
+
+We are currently considering options to provide additional transparency regarding 
+
+scenarios and scenario design and I expect that the Board will seek comment on the 
+
+advisability of, and possible approaches to, gathering the public's input on scenarios and 
+
+salient risks facing the banking system each year. Such a proposal may also provide 
+
+
+ - 9 - 
+
+additional details about the scenario design features that underpins each year's scenarios, 
+
+and a range of other enhancements. 
+
+Some argue that the greater transparency and disclosure promoted by recent 
+
+changes and proposed changes to stress testing amounts to providing banks with the 
+
+answers to the tests.2  This both overstates the extent of disclosure involved and 
+
+misunderstands what we are trying to accomplish in stress testing—goals that haven’t 
+
+changed since the spring of 2009.   
+
+If the goal were only to conduct a test that was difficult to pass—like the 
+
+qualifying exams for some of the more esoteric and restrictive high-IQ societies—then 
+
+trying to explain principles, scenario design, and how models work would be 
+
+inappropriate.  If the measure of success for the Fed in administering a stress test was 
+
+simply how many banks failed, then greater transparency would indeed be a mistake.  But 
+
+that is not the purpose of stress testing, and it never has been. 
+
+The vitally important goal is to improve and sustain good risk management and 
+
+capital planning at the individual institutions we supervise and to promote the stability of 
+
+the financial system.  Like a teacher, we don’t want banks to fail, we want them to learn. 
+
+In this case, we want them to learn good risk management in the context of forward-
+
+looking capital planning.  This will provide the public with more information about the 
+
+capital planning of major banks, and about how the Federal Reserve views good capital 
+
+planning and risk management, bolstering our credibility.  
+
+                                                 
+2  Mark J. Flannery, Simon H. Kwan, and Mahendrarajah Nimalendran, “Market 
+evidence on the opaqueness of banking firms’ assets,” Journal of Financial Economics 
+71, no.3 (2004):  419–60, 
+https://www.sciencedirect.com/science/article/pii/S0304405X03001855.  
+
+
+ - 10 - 
+
+The second principle reflected in recent changes to stress testing is simplicity.  
+
+One important proposal—what we are calling the stress capital buffer—would simplify 
+
+the Fed’s large bank capital rule by integrating the stress testing process with our 
+
+traditional regulatory capital rules.  Our regulatory capital rule includes both minimum 
+
+capital requirements and a buffer that sits on top of those minimum requirements.  The 
+
+buffer serves as an early warning to a firm and to supervisors, and it requires the firm to 
+
+reduce its capital distributions as the firm approaches the minimum requirements. 
+
+Integrating these two standards is a natural evolution of CCAR away from its origins 
+
+during the crisis, when such tailoring was impractical and policy makers had not yet 
+
+considered the approach of a regulatory capital buffer on top of a regulatory capital 
+
+minimum.  The stress capital buffer would result in a more transparent and simplified 
+
+system of regulatory capital requirements because a firm will be held to a single, 
+
+integrated capital regime. 
+
+The stress capital buffer would not reduce the stringency of the regulatory capital 
+
+framework for large banks, but it would effect a substantial simplification of that 
+
+framework.  By my math, the number of different capital requirements applicable to large 
+
+banks would fall from 18 to eight and the number of different total loss absorbing 
+
+capacity requirements for large banks would fall from 24 to 14.  I expect that we will 
+
+move forward with a revised stress capital buffer proposal in the near future, reflecting 
+
+many of the comments received on our original proposal. 
+
+The third principle addressed by the recent changes is volatility.  When I think 
+
+about volatility in stress testing, I want to distinguish what I consider to be useful 
+
+variation in the tests, in the form of exploration of salient risks, from what I consider to 
+
+
+ - 11 - 
+
+be less useful variation, in the form of unexpected swings in capital requirements that 
+
+don’t have any particular relationship to changing risks at individual firms.  In addition, 
+
+one source of volatility in the tests comes from the fact that banks are forced to do their 
+
+capital planning before they get the results of our tests.  I will address each of these 
+
+concerns in turn. 
+
+In distinguishing useful from less useful volatility, one option to address the year-
+
+over-year volatility of the tests would be to average the results of the tests from the 
+
+previous year or years.  This would not affect the overall stringency of the tests but, 
+
+mathematically, would mean that no single year could have an outsized influence on the 
+
+amount of capital that a bank is required to maintain.  The potential downsides to this 
+
+approach include the reduced risk sensitivity that a bank may experience to a particular 
+
+test and potential technical challenges associated with changes to a bank’s balance sheet 
+
+and earnings.  Bearing in mind these potential challenges, I believe more thinking and 
+
+discussion of this issue would be fruitful. 
+
+With respect to the second concern, as I have said before, I believe it more 
+
+rational and logical for firms to be able to plan for their capital needs with the benefit of 
+
+the results of our tests.  Given the huge strides that the banks have made in their capital 
+
+planning and in meeting our expectations, I view the risk of banks backsliding in this 
+
+regard to be minimal because it would be evident in the next test.  Our capital-planning 
+
+expectations will not decline, and we will continue to use the supervisory process to 
+
+enforce these expectations.  It is my hope that greater transparency can play a role in 
+
+other parts of our supervisory process—for example, by allowing other aspects of bank 
+
+supervision to benefit from public input.  Greater transparency for supervision is in 
+
+
+ - 12 - 
+
+keeping with one of the biggest improvements to the regulatory framework and to stress 
+
+testing since the financial crisis.  I believe the changes and proposed changes to stress 
+
+testing that I have discussed today reinforce the founding principles of the first test, 
+
+administered in the challenging and uncertain spring of 2009, and reflect what we have 
+
+learned each year over the decade since then.  That process of learning and refining 
+
+should and must continue in order to keep stress tests as relevant and effective as they 
+
+have been in helping to reduce the chances of another severe crisis.  
+
+
+
+
+

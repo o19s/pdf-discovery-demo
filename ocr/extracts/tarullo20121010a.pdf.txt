@@ -1,0 +1,1558 @@
+
+For release on delivery 
+4:30 p.m. EDT 
+October 10, 2012 
+
+
+
+
+
+Financial Stability Regulation 
+ 
+ 
+ 
+
+Remarks by 
+ 
+
+Daniel K. Tarullo 
+ 
+ 
+
+Member 
+ 
+
+Board of Governors of the Federal Reserve System 
+ 
+ 
+ 
+ 
+ 
+
+University of Pennsylvania Law School 
+ 
+
+Distinguished Jurist Lecture 
+ 
+
+Philadelphia, Pa. 
+
+
+
+
+
+October 10, 2012 
+
+
+
+
+
+ As one would expect of a piece of legislation that has sixteen titles and runs 849 pages in 
+
+the Statutes at Large, the Dodd-Frank Wall Street Reform and Consumer Protection Act ranges 
+
+widely in addressing problems both directly and indirectly associated with the financial crisis.  
+
+Taken as a whole, though, the primary aim of those 849 pages can fairly be read as a 
+
+reorientation of financial regulation towards safeguarding “financial stability” through the 
+
+containment of “systemic risk,” phrases that both recur dozens of times throughout the statute.  
+
+The law, explicitly in many provisions and implicitly in many others, directs the bank regulatory 
+
+agencies to broaden their focus beyond the soundness of individual banking institutions, and the 
+
+market regulatory agencies to move beyond their traditional focus on transaction-based investor 
+
+protection.   
+
+ This emphasis on financial stability and systemic risk is hardly surprising in light of the 
+
+damage done by the financial crisis and the ensuing Great Recession, from which we continue to 
+
+recover only slowly.  Indeed, concern about financial stability and systemic risk has at times 
+
+been a crucial impetus for financial reform in the United States.  Much of the New Deal 
+
+legislation that defined the financial regulatory structure for more than 40 years was in direct 
+
+response to what we would today call systemic concerns, including banking panics and excessive 
+
+leverage in equity markets.  Twenty years before the New Deal, the creation of the Federal 
+
+Reserve had been intended at least as much as a financial stability measure as an instrument of 
+
+monetary policy.   
+
+But seen in the light of more recent history, Dodd-Frank represents something of an 
+
+about-face for financial regulation, which had largely neglected systemic concerns in the decades 
+
+preceding the crisis.  Even the Sarbanes-Oxley Act of 2002, while far-reaching in many respects, 
+
+was very much a traditional piece of securities legislation insofar as it focused on investor 
+
+
+- 2 - 
+ 
+
+protection.  Banking law reforms enacted after the 1980s savings and loan debacle had traces of 
+
+concern with financial stability, but the emphasis was still on the regulation of individual 
+
+depository institutions.  Most other banking law changes of the 1980s and 1990s, culminating in 
+
+the Gramm-Leach-Bliley Act in 1999, were essentially deregulatory.1  These laws, along with 
+
+the administrative actions that both preceded and implemented them, removed many restrictions 
+
+on activities, affiliations, and the geographic reach of commercial banks without substituting new 
+
+regulatory mechanisms to control the institution-specific risks that could arise from the growth of 
+
+financial services conglomerates, much less the systemic risks created by the rapid integration of 
+
+capital markets and traditional lending activities.2  The major regulatory initiative of this period 
+
+was the Basel II package of changes to capital requirements, an exercise whose shortcomings 
+
+included an enhancement, rather than diminution, of regulatory incentive for procyclicality in 
+
+bank lending, and thus could arguably increase systemic risk.   
+
+ By the time financial stress began rising rapidly in the second half of 2007, systemic risk 
+
+and financial instability had come to seem more theoretical than real to many regulators, 
+
+academics, and financial market participants.  There had been little in the way of Congressional 
+
+discussion of systemic risk issues, and little in the way of well-developed recommendations.  To 
+
+be sure, some academics – mostly finance professors – and a few intrepid, heterodox voices 
+
+among central bank research staffs identified risks that might be building and, in general terms, 
+
+the need for macroprudential regulation to complement traditional microprudential oversight.  
+
+But even they tended more to diagnosis and warning than to prescription.  Thus, although major 
+
+regulatory legislation is often preceded by long periods during which key ideas and proposals are 
+
+circulated and discussed, Congress was writing on a mostly blank slate in crafting an immediate 
+
+legislative response to the financial crisis.  
+
+
+- 3 - 
+ 
+
+ The necessarily somewhat extemporized character of Dodd-Frank has had several 
+
+consequences for the development of financial stability regulation.  First, many of the new 
+
+authorities and requirements of Dodd-Frank require extensive elaboration through administrative 
+
+rulemaking, often coordinated or agreed among three or more agencies.  Second, as I will explain 
+
+in a moment, the provisions of the law that use the concept of risk to financial stability as a 
+
+directly applicable legal standard provide only general guidance for regulators in applying that 
+
+standard.  This is not unusual for statutes in new areas of regulation, but it still poses a challenge 
+
+for regulators, particularly in the early stages of implementation or enforcement.  Third, broad as 
+
+Dodd-Frank is in some respects, it does not grant direct regulatory authority in some areas that 
+
+academic and agency analysis suggests may pose systemic risk.  Finally, the law made important 
+
+institutional changes, creating novel governmental entities specifically designed to address 
+
+financial stability, and binding existing agencies more closely together in their rulemaking and 
+
+supervisory activities.  The relationships among existing agencies and the evolving practice of 
+
+these new entities may in turn pose some novel practical and administrative law issues. 
+
+ My remarks this afternoon address some aspects of the job of creating a financial stability 
+
+regulatory system in light of these features of Dodd-Frank and of the fact that theories of 
+
+financial stability that might inform the fashioning of this system are in many respects still 
+
+undeveloped or, at the least, contested.  I will begin with a brief survey of Dodd-Frank’s 
+
+financial stability provisions before turning to a few examples. 
+
+Dodd-Frank as a Statutory Framework for Financial Stability Regulation 
+
+Dodd-Frank creates a legal and institutional framework within which financial stability 
+
+regulation is to be developed but, with a couple of notable exceptions, it does not delineate the 
+
+steps that should actually be taken to promote financial stability.  A useful point of comparison is 
+
+
+- 4 - 
+ 
+
+the Banking Act of 1933, which did not use the terms “financial stability” or “systemic risk,” but 
+
+which specified the Glass-Steagall rule separating commercial from investment banking, limited 
+
+transactions of banks with their affiliates, and established the federal deposit insurance system to 
+
+prevent banking runs and panics.  While statutory modifications and considerable administrative 
+
+implementation of course followed over the years, the key elements of the regulatory scheme for 
+
+financial stability were contained within the original legislation itself.   
+
+ In contrast, there are relatively few Dodd-Frank provisions that more or less directly 
+
+effect the policy changes intended to reduce risks to financial stability.  Even the so-called 
+
+Volcker Rule, which prohibits proprietary trading by banks, bank holding companies, and their 
+
+affiliates,3 will require considerable regulatory build-out before its constraints will be clear. 
+
+Provisions that require only modest administrative interpretation, such as the limit on 
+
+acquisitions that would bring a financial firm’s consolidated liabilities to more than 10 percent of 
+
+the aggregate consolidated liabilities of all financial companies,4 are not central elements of the 
+
+legislation.  At the risk of some oversimplification, one can classify most uses of the financial 
+
+stability concept in Dodd-Frank into four categories: (1) as a goal for a new regulatory authority, 
+
+(2) as an instruction for ongoing analysis and monitoring, (3) as a direct legal standard, and (4) 
+
+as a factor for consideration in decisions on applications for various proposed actions subject to 
+
+regulatory approval.    
+
+First, financial stability is used as a stated goal motivating a new regulatory or 
+
+supervisory authority without itself being the standard used in the realization of that authority.  
+
+For example, Dodd-Frank reverses the restrictions that Gramm-Leach-Bliley placed on the 
+
+powers of the Federal Reserve Board to examine subsidiaries of bank holding companies 
+
+regulated by other agencies by referring explicitly to the Board’s need to be informed of risks 
+
+
+- 5 - 
+ 
+
+within the subsidiaries that may “pose a threat to . . . the stability of the financial system of the 
+
+United States.”5  Another example is section 165, which requires that the Federal Reserve 
+
+establish a special set of prudential requirements for bank holding companies with more than $50 
+
+billion in assets in order to “prevent or mitigate risks to the financial stability of the United States 
+
+that could arise from the material financial distress or failure, or ongoing activities of large, 
+
+international financial institutions.”  Similarly, the far-reaching requirement in Title VII that five 
+
+federal financial regulators establish margin requirements for uncleared swaps written by swap 
+
+dealers and other major market participants is intended to “offset the greater risk to the [dealers] 
+
+and the financial system arising from the use of [uncleared] swaps.”6   
+
+ Second, Dodd-Frank takes a number of steps to enhance the capacity of the government 
+
+to monitor and analyze threats to financial stability.  Most prominent among these are the 
+
+creation of the Financial Stability Oversight Council (FSOC) and the Office of Financial 
+
+Research (OFR).7  The FSOC is composed of ten voting and five nonvoting members – the heads 
+
+of relevant federal offices and regulatory agencies, and three representatives of state financial 
+
+regulators.8  As I will discuss in a moment, the FSOC as a collective entity has a limited, though 
+
+important, direct regulatory role.  Much of its time, however, will be spent fulfilling its mandate 
+
+from Congress to assess risks to financial stability, including – where appropriate – making 
+
+recommendations for action to agencies under existing regulatory authority or to Congress to fill 
+
+gaps in existing authority in response to identified systemic risks.9  The stated purpose of OFR is 
+
+to support the FSOC and its member agencies through research, the collection and 
+
+standardization of data, the development of tools for measuring and monitoring risk, and related 
+
+activities.10  FSOC and OFR are each also required to make an annual report to Congress on 
+
+financial stability.11  
+
+
+- 6 - 
+ 
+
+ The third use of financial stability in Dodd-Frank is as a direct legal standard for the 
+
+exercise of a regulatory authority, as opposed to my first category of Dodd-Frank provisions, 
+
+which simply cite financial stability concerns as a motivation for a regulatory or supervisory 
+
+program.  To date, the most conspicuous of this type of provision have been the authorities 
+
+granted the FSOC to designate nonbank financial companies and financial market utilities as 
+
+“systemically important.”  The first of these authorities is directed at financial firms that are not 
+
+bank holding companies, and thus not subject to capital requirements and other parts of the 
+
+holding company regulatory regime.  This authority is a direct response to experience in the 
+
+financial crisis.  During 2008, serious problems at AIG and the five so-called “free-standing” 
+
+investment banks – that is, firms not part of a bank holding company – contributed substantially 
+
+to the severe stress in the financial system, with the failure of Lehman Brothers in September 
+
+igniting the most acute phase of the crisis. 
+
+The standard to be applied by the FSOC is whether “material financial distress at the U.S. 
+
+nonbank financial company, or the nature, scope, size, scale, concentration, interconnectedness, 
+
+or mix of the activities of the U.S. nonbank financial company, could pose a threat to the 
+
+financial stability of the United States.”12  There follows a lengthy list of “considerations” to be 
+
+taken into account by the FSOC.  However, particularly insofar as the last of these is “any other 
+
+risk-related factors that the Council deems appropriate,”13 the list does not provide extensive 
+
+guidance for the FSOC in applying the basic standard.  Any companies so designated by the 
+
+FSOC will be subject to supervision by the Federal Reserve, as well as to the special Section 165 
+
+prudential standards I mentioned earlier.  To date, no firms have been designated, though the 
+
+FSOC is actively considering possible designees.  Of course, the five previously free-standing 
+
+investment banks have either been dismantled (Lehman), converted into bank holding companies 
+
+
+- 7 - 
+ 
+
+(Goldman Sachs and Morgan Stanley), or absorbed into a bank holding company (Bear Stearns 
+
+and Merrill Lynch).   
+
+ The other designation authority granted the FSOC is for financial market utilities, defined 
+
+as multilateral transfer, clearing, or settlement systems for payments, securities, or other financial 
+
+transactions among financial institutions.14  Once designated as systemically important,15 
+
+financial market utilities are subject to prudential standards established by the Federal Reserve, 
+
+the Securities and Exchange Commission, and the Commodities Futures Trading Commission 
+
+for the purpose of reducing systemic risk and supporting financial stability.16  Here, in addition 
+
+to providing considerations for the FSOC in making its determination,  the statute elaborates the 
+
+standard of “systemically important” a bit, defining that term to mean a situation “where the 
+
+failure of or a disruption to the functioning of a financial market utility or the conduct of a 
+
+payment, clearing or settlement activity could create, or increase, the risk of significant liquidity 
+
+or credit problems spreading among financial institutions or markets and thereby threaten the 
+
+stability of the financial system of the United States.”17  In July, the FSOC designated eight 
+
+financial market utilities as systemically important and they are now subject to special risk-
+
+management standards.18 
+
+ In addition to these designation authorities, Dodd-Frank grants the FSOC very broad 
+
+scope for dealing with a large bank holding company or designated nonbank financial company 
+
+that “poses a grave threat to the financial stability of the United States.”19  Upon the 
+
+recommendation of the Board of Governors, the FSOC may limit mergers, products, or activities 
+
+of the firm.  If these actions are inadequate to mitigate the grave risk, the FSOC may require the 
+
+firm to divest assets or off-balance sheet items. 
+
+
+- 8 - 
+ 
+
+ The fourth use of financial stability in Dodd-Frank is as a factor to be taken into account 
+
+in various regulatory determinations.  So, for example, the list of considerations in the 
+
+International Banking Act for the Federal Reserve in determining whether to permit the 
+
+establishment of a foreign bank office, or to terminate an existing such office, was augmented 
+
+with a financial stability factor – specifically, whether the home country of a bank that presents a 
+
+risk to the stability of the U.S. financial system has taken, or is taking, appropriate regulatory 
+
+steps to mitigate that risk.20 
+
+ Similarly, Dodd-Frank added “risk to the stability of the U.S. banking or financial 
+
+system” to the non-exhaustive lists of factors set forth in the Bank Merger Act and the Bank 
+
+Holding Company Act for consideration by banking regulators in evaluating a proposed merger 
+
+or acquisition by a bank or bank holding company.  There are actually three statutory provisions 
+
+governing these transactions – Section 3(c) of the Bank Holding Company Act for bank 
+
+acquisitions by holding companies, Section 4(j) of the Bank Holding Company Act for nonbank 
+
+acquisitions by holding companies, and the Bank Merger Act for mergers by banks.  The 
+
+statutory standards, and thus the import of the factors, are somewhat different.21  In all three 
+
+instances, however, the financial stability factor is not in itself dispositive, in contrast to the 
+
+statutory provisions covering designation of systemically important institutions or special actions 
+
+to address grave threats to financial stability. 
+
+ This brief review shows how ubiquitous the concepts of financial stability and systemic 
+
+risk are in Dodd-Frank.  The law creates or strengthens numerous forms of regulatory authority 
+
+that can be used to control numerous practices or circumstances associated with financial 
+
+instability.  Yet the statute itself provides only limited guidance to regulators on how to 
+
+implement financial stability where it is established as a standard, or how to weigh it against 
+
+
+- 9 - 
+ 
+
+economic growth and other considerations where it is used as an informing concept for a 
+
+regulatory exercise or a factor to be considered in regulatory approvals.  Moreover, one does not 
+
+really find in the statute or in its legislative history an implicit theory of financial stability from 
+
+which to infer answers to the regulatory questions just noted.  Instead, Dodd-Frank directs 
+
+regulation at a number of perceived vulnerabilities created by large financial firms in particular, 
+
+and to some degree in the financial system as a whole.  To the extent one can fairly induce an 
+
+underlying principle, it is that the moral hazard associated with too-big-to-fail institutions should 
+
+be counteracted in a variety of ways. 
+
+ The emphasis on too-big-to-fail institutions is both understandable and appropriate in 
+
+light of the experiences of 2008, including the major injections of government capital to stabilize 
+
+some of the nation’s largest firms.  And the absence of an informing, grand unified theory of 
+
+financial stability is hardly surprising in light of the history to which I alluded earlier.  Indeed, 
+
+two years after passage of Dodd-Frank, there is not really an officially embraced consensus 
+
+theory of how financial stability is undermined.  The first report of the new Office of Financial 
+
+Research – one of the more useful analyses of financial stability issued by the official sector – 
+
+does not attempt a theory of financial stability.  It defines financial stability descriptively rather 
+
+than analytically, “that the financial system is operating sufficiently to provide its basic functions 
+
+for the economy even under stress,”22 and pragmatically tries to identify risks and vulnerabilities. 
+
+Yet much of the theoretical work on financial stability of the last several years has 
+
+suggested that financial instability is, in important ways, endogenous to the financial system, or 
+
+at least the kind of financial system that has developed in recent decades.  The Office of 
+
+Financial Research report just cited went on to note that the financial crisis had “served as a 
+
+painful reminder that the financial system is prone to internal instability.”23  Contributions to the 
+
+
+- 10 - 
+ 
+
+literature by academics such as Markus Brunnermeier, Gary Gorton, Perry Mehrling, Andrew 
+
+Metrick, Hyun Song Shin, Andrei Shleifer, and Jean Tirole,24 although differing in some 
+
+important specifics, all paint a picture of a financial system prone to instability for reasons in 
+
+addition to, and quite independent of, classic too-big-to-fail concerns.  Their various analyses 
+
+suggest the possibility of destabilization even in a financial world with no dominant firms, but 
+
+many medium-sized entities. 
+
+ This perspective focuses on one of the most important effects of the progressive 
+
+integration of capital markets and conventional lending activities, something now popularly 
+
+known as “shadow banking” – that is, credit intermediation involving maturity transformation, 
+
+and often significant leverage, that is wholly or partly outside the traditional banking system.  
+
+This intermediation depends critically on the creation of instruments that are thought to be safe 
+
+and liquid, and as such, “cash equivalents” similar in function to insured deposits in the 
+
+commercial banking system.  These instruments, much desired by certain kinds of investors, are 
+
+short-term liabilities of the shadow banking intermediary, which backs them with a portfolio of 
+
+longer-term assets that, because of some combination of high diversification and low-default 
+
+risk, are expected to perform very well under nearly all circumstances, but carry significant tail 
+
+risks that are not fully appreciated ex ante.     
+
+ A now notorious example of a shadow banking intermediary was a special investment 
+
+vehicle (SIV) sponsored by a financial firm.  A SIV bought tranches of securitized mortgages 
+
+with AAA credit ratings, which it financed through the issuance of short-term instruments that 
+
+were regarded by investors as essentially a cash equivalent.  But during the crisis, when tail risk 
+
+materialized, investors came to understand that even the upper tranches of subprime and other 
+
+mortgage securitizations might not be spared significant losses because of the dramatic fall in 
+
+
+- 11 - 
+ 
+
+housing prices and the equally dramatic rise in defaults.  At the same time, questions arose about 
+
+the continued willingness and ability of sponsors to provide support to the SIVs, despite a history 
+
+of their having done so on both contractual and discretionary bases.  A kind of run ensued, as 
+
+investors realized that their instruments were not truly “equivalent” to cash and refused to roll 
+
+over their short-term funding of the shadow banking intermediary.  Such SIVs are gone, but 
+
+other forms of shadow banking continue in such well-established forms as money market funds 
+
+and repo markets.    
+
+The vulnerability of shadow banking to runs, as investors rapidly withdraw funding, can 
+
+lead to systemic problems as consequential as those associated with classic runs on traditional 
+
+banks.  If shadow banking intermediaries must rapidly liquidate longer-term assets that they can 
+
+no longer fund, the impact extends across the financial system.  The resulting declines in asset 
+
+prices trigger margin calls on other investors, who may then need to delever by selling their own 
+
+holdings, accelerating the fire sale of these, and potentially other, assets.  In the worst case, the 
+
+result can be the kind of generalized asset price decline and liquidity freeze observed at the 
+
+height of the financial crisis.   
+
+Dodd-Frank does include some significant provisions that, when implemented, could 
+
+mitigate some of the risks associated with the shadow banking system and the potential for fire 
+
+sales more generally.  Among these are the requirements for margining of over-the-counter 
+
+derivatives, increased use of central clearing facilities for derivatives, and higher prudential 
+
+standards for systemically important financial market utilities.  But Dodd-Frank does not fashion 
+
+a far-reaching system of regulatory authority for the shadow banking system to parallel the one it 
+
+creates for systemically important institutions, or even to address fully the significant 
+
+connections - through implicit support and other channels - between the shadow banking system 
+
+
+- 12 - 
+ 
+
+and systemically important institutions.  This is particularly noteworthy, as there is clearly some 
+
+potential for enhanced capital, liquidity, and other prudential requirements for bank holding 
+
+companies to cause more activity to migrate to the shadow banking system. 
+
+With this background, I turn now to a closer look at a few instances of the challenges 
+
+both in elaborating the financial stability standards of Dodd-Frank with respect to systemically 
+
+important institutions and in addressing the shadow banking system.  
+
+Evaluating Financial Stability Concerns Associated with Large Institutions 
+  
+
+As a prelude to this discussion, let me acknowledge that this is hardly the first time 
+
+Congress has enacted intentionally protean statutory standards in response to a serious economic 
+
+problem, and then relied on some combination of administrative regulation, law enforcement, 
+
+and the courts to develop and adapt those standards as learning and experience grow.  The 
+
+antitrust laws provide a good example.  The clause “contract, combination, or conspiracy in 
+
+restraint of trade”25 that is so familiar to us today posed its own major challenge of interpretation 
+
+immediately after passage of the Sherman Act in 1890.  Indeed, in the first cases brought under 
+
+Section 1, both the Justice Department and the Supreme Court came close to reasoning that a 
+
+very broad range of contracts by definition restrained some trade and thus might be illegal.26  
+
+These interpretations were soon abandoned, but they stand as an admonition that early decisions 
+
+under a new law can, in retrospect, look to have been somewhat makeshift.  
+
+ Systemic Risk Capital Surcharges 
+
+My first example is drawn from the Federal Reserve Board's experience in developing 
+
+enhanced capital standards for bank holding companies with more than $50 billion in assets, as 
+
+required by Section 165 of Dodd-Frank.  As I noted a few moments ago, this is one of the Dodd-
+
+Frank provisions that establishes financial stability as its aim, but not as a direct statutory 
+
+
+- 13 - 
+ 
+
+standard.  Section 165 requires that the standards intended to prevent risks to financial stability 
+
+increase in stringency, based on the same non-exhaustive list of factors used for the designation 
+
+of nonbank systemically important financial firms,27 but provides no further guidance.   
+
+In undertaking this task, we began with the premise that a financial stability motivation 
+
+for capital requirements is necessarily somewhat different from the institution-centered approach 
+
+of traditional capital standards, as embodied in the various Basel capital frameworks.  Firm-
+
+centered requirements are informed by asking what level of capital would be necessary to allow 
+
+the firm to remain a viable financial intermediary even after absorbing losses that, within a fairly 
+
+high level of confidence, might be encountered over some relevant timeframe.  The financial 
+
+stability approach begins from the fact that there would be very large negative externalities 
+
+associated with the disorderly failure of any systemically important financial institution, distinct 
+
+from the costs incurred by the firm and its stakeholders.  
+
+The failure of such a firm, especially in a period of stress, significantly increases the 
+
+chances that other financial firms will themselves experience great stress, for two reasons.  First, 
+
+direct counterparty impacts can lead to a classic domino effect.  Second, because losses in a tail 
+
+event are much more likely to be correlated for firms deeply engaged in trading, structured 
+
+products, and other capital market instruments, all such firms are vulnerable to accelerating 
+
+losses as troubled firms sell their assets into a declining market.  Enhanced capital requirements 
+
+should take into account these costs that a systemically important firm’s failure will inflict on the 
+
+rest of the financial system, not the amount of loss its shareholders and creditors will incur.  
+
+Thus, the aim of financial stability capital standards is to reduce further the probability that the 
+
+firm might fail under stress through holding additional capital.  These additional capital 
+
+
+- 14 - 
+ 
+
+requirements can also help offset any funding advantage derived from the perceived status of 
+
+such institutions as too-big-to-fail.   
+
+In acting on this rationale for capital standards to mitigate risks to financial stability, we 
+
+first sought to ensure that there would be an international initiative to develop financial stability 
+
+capital standards for global systemically important financial institutions, since the severe distress 
+
+or failure of a foreign banking institution of broad scope and global reach could have effects on 
+
+the U.S. financial system comparable to those caused by failure of a similar domestic firm.  The 
+
+Basel Committee agreed to take up this agenda and is well on its way to completing a framework 
+
+covering more than two dozen large financial firms from around the world.  Our intention has 
+
+been to make our enhanced capital standards under Section 165 congruent with the Basel 
+
+Committee’s framework. 
+
+The task of determining how much additional capital is needed to reduce the probability 
+
+of a systemically important firm’s failure to more acceptable levels is not a straightforward one.  
+
+Conceptually, there is a good starting point, in what has been termed the "expected impact" 
+
+approach, which calls for additional capital to reduce the probability of the firm’s failure 
+
+sufficiently to equalize the expected impact on the financial system of the failure of a 
+
+systemically important firm and the failure of a banking firm just outside systemic status.28  But 
+
+implementing this concept is complicated by the fact that, despite some very useful metrics that 
+
+have been developed in the last few years for measuring the systemic risk associated with a 
+
+particular firm, there is certainly no generally accepted approach.29  Each has its shortcomings as 
+
+well as its strengths.  Thus it is not realistic to think that, at least in the foreseeable future, the 
+
+concept of a capital surcharge precisely offsetting the systemic risk actually created by that firm 
+
+can be achieved in practice.  Indeed, differences among reasonable assumptions in applying the 
+
+
+- 15 - 
+ 
+
+expected impact approach led to a fairly broad range of potential surcharges.  The 1-2 ½  percent 
+
+amounts negotiated within the Basel Committee are at the low end of that range, reflecting a 
+
+good deal of caution – frankly, a bit more caution than I think would have been desirable, even 
+
+given the uncertainties.  Moreover, the Basel Committee decided to use “buckets,” grouping 
+
+banks presenting roughly similar risks, rather than a customized calibration based on a single 
+
+score.  Even though the Basel Committee does have an algorithm that produces such a score, it 
+
+recognized that there is inevitably imprecision involved, and thus will look for obvious breaks in 
+
+these scores in order to assign the banks to a limited number of buckets carrying differing capital 
+
+surcharges.30 
+
+Financial Stability Analysis in Merger Applications 
+
+The second interpretive challenge, which I will address in more detail, arises from the 
+
+addition of a financial stability factor to the review conducted by the Federal Reserve Board of 
+
+proposed mergers and acquisitions involving banks and bank holding companies.31  In some 
+
+respects, this process resembles the pre-merger reviews conducted by the antitrust agencies 
+
+under the Hart-Scott-Rodino Act.  But the differences are also instructive.  One is that under the 
+
+Bank Holding Company Act, the impact of a transaction on financial stability is not itself 
+
+dispositive.  The Board could approve an acquisition even if it determined that there was some 
+
+adverse effect on financial stability if it also determined that the transaction would produce 
+
+benefits outweighing the financial stability concerns by, for example, increasing competition or 
+
+efficiencies or public convenience.  This balancing requirement contrasts with an antitrust pre-
+
+merger review, in which the focus is solely on whether the transaction would substantially lessen 
+
+competition.32  The statutory formulation appears to reflect a Congressional supposition that, like 
+
+many social desiderata, the pursuit of financial stability may at times require trade-offs with 
+
+
+- 16 - 
+ 
+
+other desirable aims.  This conclusion is reinforced by other parts of Dodd-Frank, such as the 
+
+earlier-mentioned provision permitting extraordinary measures to be imposed on a firm, but only 
+
+if it is found to pose a grave threat to financial stability.  
+
+Another salient point of difference is that Hart-Scott-Rodino was not enacted until 1976, 
+
+following more than 60 years of merger analysis by the antitrust agencies and merger 
+
+jurisprudence by the courts.  Indeed, the agencies had already published a set of merger 
+
+guidelines in 1968.  While the Antitrust Division or the Federal Trade Commission could, and 
+
+did, begin pre-merger reviews with a well-developed analytic framework, there is no legacy of 
+
+administrative or judicial analysis of the financial stability effects of mergers.  We literally have 
+
+had to start from scratch.  Let me describe just a few of the conceptual and practical issues that 
+
+have already arisen in discussions at the Board on some hypothetical situations that might arise 
+
+in implementing the required consideration of financial stability.33 
+
+One important issue is raised by the possibility that an acquisition may decrease the 
+
+chances of material distress at a financial firm while simultaneously increasing the potential 
+
+negative externality on the financial system as a whole should the firm nonetheless become 
+
+seriously compromised.  To borrow credit risk terminology, the probability of default (PD) may 
+
+be reduced, but the loss given default (LGD) may increase.  You can imagine this circumstance 
+
+where, for example, an acquisition would demonstrably reduce a firm’s dependence on short-
+
+term wholesale funding by providing more deposits or other reliable funding sources, but where 
+
+the firm's increased size and market connections would compound the damage to counterparties, 
+
+intermediation, and asset markets in the event of unmanageable stress.  In such a case, are risks 
+
+to financial stability increased, unaffected on balance, or actually decreased?   
+
+
+- 17 - 
+ 
+
+In theory, as is done in credit risk modeling to calculate capital needs, one could multiply 
+
+PD by LGD to yield a single “systemic financial risk” number for both the status quo and the 
+
+post-acquisition firm, in order to determine – or at least create a presumption of – which outcome 
+
+is preferable from a financial stability perspective.  This would be the financial stability 
+
+equivalent of the Herfindahl–Hirschman Index (HHI) in antitrust.34  But we are still in the 
+
+relatively early stages of exploring the utility of different approaches to measuring both these 
+
+variables, and we do not have a single well-established metric for either variable today.  As 
+
+already noted in my discussion of systemic risk surcharges, the quantification of a “systemic loss 
+
+given default” seems particularly challenging. 
+
+A second issue is time contingency.  Consider an acquisition that, in calm times, seems 
+
+pretty clearly to increase the systemic footprint of an already large, interconnected acquiring 
+
+institution without having a material positive effect on the resilience of that firm during a stress 
+
+period.  That starkly stated circumstance would seem a prototypical case in which a conclusion 
+
+of an adverse effect on financial stability would be reached.  But now suppose that the target firm 
+
+is already under substantial pressure in an increasingly stressed financial environment and that 
+
+the potential acquirer appears relatively strong.  A case could be made that allowing the 
+
+acquisition in that circumstance would support financial stability by relieving funding and other 
+
+counterparty pressures, and forestalling distressed asset sales and other problematic 
+
+developments.  Continuing my comparison to antitrust law, this outcome would be an analogue 
+
+to a failing firm defense.  
+
+ Of course, this was precisely the rationale in 2008 for the government not only 
+
+permitting, but encouraging, JP Morgan’s acquisition of Bear Stearns and Washington Mutual, 
+
+Bank of America’s acquisition of Merrill Lynch and, to some degree, Wells Fargo’s acquisition 
+
+
+- 18 - 
+ 
+
+of Wachovia.35  The result is that the concentration at the top of the U.S. financial services 
+
+industry is even greater than before the crisis.  Allowing the acquisition I have hypothesized here 
+
+could buy some immediate stabilization, but at the cost of arguably greater moral hazard and 
+
+risks to financial stability over the medium term.  The orderly liquidation authority for 
+
+systemically important institutions created by Dodd-Frank may provide a third alternative, but 
+
+even if implemented successfully and as intended, the new Title II would be most effective in 
+
+containing moral hazard by ensuring that shareholders and management of the failed firm bear 
+
+heavy costs.  It would not necessarily prevent all the damage to the financial system and the 
+
+broader economy that would attend failure of a large financial firm.    
+
+A third kind of issue arises specifically because of the transaction-driven nature of the 
+
+Bank Holding Company Act merger review provisions.  Some of these issues are procedural or 
+
+practical in nature.  For example, in evaluating the impact of a proposed acquisition on financial 
+
+stability, should a firm get “credit” for recent or planned actions to reduce its systemic footprint 
+
+through sales of subsidiaries or other assets?  This would be an analogue to the divestitures that 
+
+are often required as a condition of merger approvals by the antitrust agencies.  If a similar idea 
+
+were implemented in the financial stability context, should the package of asset acquisitions and 
+
+reductions be negotiated beforehand with supervisors and, if so, would that package itself have to 
+
+be subject to Board approval? 
+
+Other issues presented by the focus on specific transactions go deeper.  Suppose a large 
+
+regional bank and a broker-dealer proposed to merge.  Standing alone, that transaction might 
+
+well look to increase risks to financial stability, not only because of the initial combined size of 
+
+the firms, but because the broker-dealer operation would presumably grow when affiliated with a 
+
+larger commercial bank, since the merged firm could offer a greater range of services to clients.  
+
+
+- 19 - 
+ 
+
+But would prohibiting that transaction mean that the current small group of very large, integrated 
+
+financial firms would have their market positions essentially protected by the financial stability 
+
+considerations?  Such an outcome would be ironic indeed.  The Federal Reserve could, if it so 
+
+chose, avail itself of the discretion to balance different effects by allowing the merger on pro-
+
+competition grounds.  Such a decision would place the Fed in the position of effectively deciding 
+
+broader questions of industry structure in the context of a single case.  But, then again, a 
+
+prohibition of the merger would do the same, the only difference being the substantive structure 
+
+being chosen. 
+
+Yet even before this kind of balancing of positive and adverse effects was reached, there 
+
+would surely be an argument that ensconcing the existing large integrated firms would itself 
+
+increase risks to financial stability, since these firms that are each the product of prior mergers 
+
+might be the only ones capable of growing more in key parts of the financial services market.  
+
+Here again, the absence of a theory of financial stability that informs the law complicates the 
+
+problem, though it is not altogether clear that convergence around such a theory would solve it. 
+
+The foregoing questions underscore the difficulties entailed in anticipating the range of 
+
+financial issues that may be presented in merger cases and in trying to resolve the issues that 
+
+have been anticipated solely through consideration of hypotheticals.  This conclusion is one of 
+
+the reasons the Federal Reserve decided not to develop and issue a rule or detailed guidance on 
+
+the financial stability factor.  There simply isn’t the accumulation of experience and of 
+
+thoughtful evaluation of these issues by people both in and out of government to inform 
+
+something akin to the merger guidelines published by the antitrust agencies.   
+
+Accordingly, the Federal Reserve is very much taking a case-by-case approach to these 
+
+reviews.  As described in a recent order, “the Board expects that it will generally find a 
+
+
+- 20 - 
+ 
+
+significant adverse effect if the failure of the resulting firm, or its inability to conduct regular-
+
+course-of-business transactions, would likely impair financial intermediation or financial market 
+
+functioning so as to inflict damage on the broader economy.”36  The Board will consider a 
+
+variety of factors that could indicate the potential for damage, including the size of the resulting 
+
+firm, the availability of substitute providers for any critical products or services, the 
+
+interconnectedness of the firm with the banking and financial system, the contribution of the firm 
+
+to the complexity of the financial system, and the extent of cross-border activities of the firm.37  I 
+
+would expect that, over time, our discussion of these factors in the context of specific 
+
+transactions will provide firms, their attorneys, and other members of the public with more 
+
+guidance as to how a specific case is likely to be analyzed.  At some point, we and others in the 
+
+official sector may become comfortable enough with a particular measure of systemic risk that it 
+
+will be a starting point for analysis in these cases.  But I suspect it will be much longer, if ever, 
+
+before such a measure could provide the extent of presumptive sorting that HHI does in antitrust 
+
+analysis today.   
+
+While the absence of experience and a comprehensive informing theory make detailed 
+
+guidance infeasible in the foreseeable future, I do think we should be able to elaborate certain 
+
+categories of presumptive approvals and denials more quickly.  Before I suggest how, let me 
+
+emphasize that here I am speaking for myself only, since the full Board will address these issues 
+
+only in future orders.  We have already suggested a limited presumptive safe harbor where an 
+
+acquisition involves less than $2 billion in assets or results in a firm with less than $25 billion in 
+
+total assets.38  Personally, I would set the size of the resulting firm higher than $25 billion, but 
+
+somewhat lower than the $50 billion Dodd-Frank threshold over which a firm is subject to 
+
+special prudential standards.   
+
+
+- 21 - 
+ 
+
+At the other end of the spectrum, I would urge a strong, though not irrebuttable, 
+
+presumption of denial for any acquisition by any firm that falls in the higher end of the list of 
+
+global systemically important banks developed by the Basel Committee for purposes of assessing 
+
+capital surcharges.39 Firms at the lower end of the Basel Committee list, or that U.S. authorities 
+
+may later designate as domestic systemically important banks under a parallel Basel Committee 
+
+exercise,40 might have a slightly less robust, but still significant presumption against acquisitions.  
+
+I would not apply the presumption in the case of certain de minimis acquisitions or in cases 
+
+where asset dispositions were judged to offset any increase in systemic risk from the proposed 
+
+new acquisition.   
+
+It is reasonable to ask why these negative presumptions are appropriate, given my general 
+
+view that the absence of both experience and consensus theory make a case-by-case approach 
+
+necessary.  One answer is that, notwithstanding the fact that analytic tools for assessing a firm's 
+
+systemic footprint are in a relatively early stage of development, everything we do know 
+
+suggests that the firms on the Basel Committee list strongly implicate the kinds of systemic 
+
+considerations mentioned by Congress.  Second, it does seem incumbent on us to provide at least 
+
+some guidance to firms where we can, particularly to inform smaller, less connected firms of the 
+
+kinds of mergers that are unlikely to raise financial stability concerns and, conversely, to give 
+
+firms that are already of systemic importance a sense of which mergers will face very close 
+
+scrutiny. 
+
+A third answer is that, once an acquisition is consummated, Dodd-Frank provides only 
+
+narrow authority to order divestiture on financial stability grounds.  Though the Board can 
+
+recommend action by the FSOC, I have already noted that the test for such action is  "grave 
+
+threat to financial stability," presumably a significantly higher standard than the "risk to financial 
+
+
+- 22 - 
+ 
+
+stability" that can constitute an adverse effect for purposes of Sections 3 and 4 of the Bank 
+
+Holding Company Act.  Unlike Section 7 of the Clayton Act, which permits the antitrust 
+
+authorities either to restrain a merger beforehand or undo it thereafter, the Federal Reserve's 
+
+authority under the Bank Holding Company Act to disallow the merger on financial stability 
+
+grounds appears to lapse after the merger is completed, but for the narrow authority vested in the 
+
+FSOC.  Of course, one motivation for the passage of Hart-Scott-Rodino in 1976 was the 
+
+perceived reluctance of courts to order potentially disruptive divestitures once companies had 
+
+completed the merger.  In any case, the legal and practical impediments to such action counsel an 
+
+additional measure of caution by the Federal Reserve in considering acquisitions by firms that 
+
+can reasonably be expected to raise significant financial stability concerns.   
+
+For all the attention paid to financial stability analysis in the last few years, it is still – 
+
+relatively speaking – a fledgling enterprise.  Even if we hypothesize a viable working theory of 
+
+financial stability that commands a rough consensus, translating that theory into administrable 
+
+standards and processes is a task that will take years.41  But while the absence of well-established 
+
+systemic risk measures may counsel caution in approaching merger analysis, and while it has 
+
+surely already affected the formulation of capital surcharges in the Basel Committee, it may well 
+
+be leaving a gap in financial stability regulation.   One of the difficulties in building out a 
+
+financial stability analysis is the absence of an upper bound point of reference.  There is no 
+
+statutory basis for identifying a certain systemic footprint above which the risks to financial 
+
+stability are not worth bearing compared to whatever possible benefits may be associated with 
+
+the operation of the largest, most interconnected firms.   
+
+Similarly, the absence in the financial stability area of the equivalent of the 
+
+monopolization provision in Sherman Act Section 2 to complement the merger provisions in 
+
+
+- 23 - 
+ 
+
+Clayton Act Section 7 creates an anomalous regulatory feature.  It means that the current 
+
+structure for financial stability regulation permits substantial increases in systemic risk by an 
+
+institution, so long as it is generated from internal growth.  To the extent that a growing systemic 
+
+footprint increases perceptions of at least some residual too-big-to-fail quality in such a firm, 
+
+notwithstanding the panoply of measures in Dodd-Frank and our regulations, there may be 
+
+funding advantages for the firm, which reinforces the impulse to grow.  There is, then, a case to 
+
+be made for specifying an upper bound. 
+
+In these circumstances, however, with the potentially important consequences of such an 
+
+upper bound and of the need to balance different interests and social goals, it would be most 
+
+appropriate for Congress to legislate on the subject.  If it chooses to do so, there would be merit 
+
+in its adopting a simpler policy instrument, rather than relying on indirect, incomplete policy 
+
+measures such as administrative calculation of potentially complex financial stability footprints.  
+
+The idea along these lines that seems to have the most promise would limit the non-deposit 
+
+liabilities of financial firms to a specified percentage of U.S. gross domestic product, as 
+
+calculated on a lagged, averaged basis.  In addition to the virtue of simplicity, this approach has 
+
+the advantage of tying the limitation on growth of financial firms to the growth of the national 
+
+economy and its capacity to absorb losses, as well as to the extent of a firm’s dependence on 
+
+funding from sources other than the stable base of deposits.  While Section 622 of Dodd-Frank 
+
+contains a financial sector concentration limit, it is based on a somewhat awkward and 
+
+potentially shifting metric of the aggregated consolidated liabilities of all “financial companies.” 
+
+Of course, the difficult question would be the applicable percentage of GDP.  The answer 
+
+would depend on a judgment as to how much of an impact the economy could absorb.  It would 
+
+also entail a judgment as to how large and complex a firm needs to be in order to achieve 
+
+
+- 24 - 
+ 
+
+significant economies of scale and scope that carry social benefit.  Depending on the answers to 
+
+these questions, there may be a need to balance the relevant costs and benefits.  There would also 
+
+be important secondary questions such as whether to exclude from a firm’s calculated liabilities 
+
+only insured deposits and which asset base to use in calculating non-deposit liabilities.  And 
+
+depending on how Congress answered all these questions, there could well be need for defining 
+
+transition periods and compliance margins.  Even good answers to all these questions would 
+
+produce a policy instrument that could seem excessively blunt to some.  But this is a debate well 
+
+worth having. 
+
+Financial Stability and the Shadow Banking System 
+
+ Having just a few months ago devoted an entire speech to the shadow banking system,42 I 
+
+wanted to spend more time today on the interpretive issues just discussed.  However, to give a 
+
+sense of the complementary regulatory challenges in dealing with the shadow banking system, 
+
+let me describe one specific, current issue and just briefly mention a much broader concern. 
+
+ The specific issue is that of money market funds.  As many of us in the government have 
+
+pointed out, money market funds remain a major part of the shadow banking system and a key 
+
+potential systemic risk even in the post-crisis financial environment.  In fact, the industry’s 
+
+survival in its present form is likely due in no small part to the unprecedented interventions by 
+
+the Treasury and the Federal Reserve in providing insurance and liquidity support, respectively, 
+
+to the industry in response to the run prompted by the failure of the Reserve Primary Fund in 
+
+2008.  
+
+ The interesting point here is that a regulatory agency, the Securities Exchange 
+
+Commission (SEC), has ample regulatory authority to address the systemic risk problem.  
+
+Indeed, the legality of money market funds continuing to publish a fixed net asset value (NAV) 
+
+
+- 25 - 
+ 
+
+of one dollar per share, even as the actual value of the underlying assets varies within a modest 
+
+range, is itself the consequence of the SEC’s Rule 2a-7, which exempts money market mutual 
+
+funds from the requirement of a floating NAV generally applicable to open-end mutual funds.  In 
+
+amending its rules in 2010, the SEC took some good first steps to improve the resilience of 
+
+money market funds, but many – including Chairman Schapiro – do not believe these are 
+
+sufficient to mitigate the run potential in money market funds.   
+
+Unfortunately, a majority of the current SEC commissioners has to this point been 
+
+opposed to moving forward with the reform measures Chairman Schapiro has proposed.  The 
+
+FSOC, meanwhile, has endorsed further reform along these general lines.  The question, then, is 
+
+how the FSOC and its other member agencies should proceed given that the SEC has declined to 
+
+act.  I should note here that, during the debates preceding Dodd-Frank, some versions of 
+
+proposals for what eventually became the FSOC would have empowered the FSOC to override 
+
+agency action or inaction within its sphere of authority.  Others, including many who favored 
+
+strong reforms, opposed this power, which would have created a kind of super-agency with veto 
+
+authority over all the regulators.  Instead, the FSOC has the more limited authority to present an 
+
+agency with recommendations for action and the right to receive an explanation should the 
+
+agency not accept those recommendations. 
+
+As you may have seen, two weeks ago Treasury Secretary Geithner sent a letter to the 
+
+members of the FSOC in his capacity as its chair, in which he urged the Council to use its 
+
+authority under Section 120 of Dodd-Frank, and to consider alternative actions  to reduce the 
+
+structural vulnerabilities associate with money market funds  “in the event the SEC is unwilling 
+
+to act in a timely manner.”43  These alternatives could include FSOC designation of money 
+
+market funds as systemically important and thus subject to the prudential requirements 
+
+
+- 26 - 
+ 
+
+promulgated under Dodd-Frank.  They could also include action by FSOC member agencies, 
+
+such as the bank regulatory agencies imposing restrictions on regulated financial institutions’ 
+
+ability to sponsor, borrow from, invest in, or provide credit to money market funds that do not 
+
+have structural protections.  From my perspective, at least, each of the options open to the FSOC 
+
+and the rest of its constituent agencies is decidedly a second-best alternative as compared to a 
+
+change in SEC rules to remove the fixed net asset value exception, to require a capital buffer that 
+
+would staunch or buffer runs, or measures of similar effect.  And, when I say second-best here, I 
+
+mean to include the funds themselves.  The protective tools available to the rest of us do not fit 
+
+the problem precisely and thus will not regulate at the least cost to the funds while still 
+
+mitigating financial risk.  But that is the legal situation we all confront.  My hope, of course, is 
+
+that recent indications that other SEC commissioners are now willing to move forward with 
+
+reforms will lead to the SEC adopting first-best measures in the near-term. 
+
+The money market fund example is a noteworthy case study in substantial part because of 
+
+the interesting institutional issues it raises.  More generally, though, the capacity of private 
+
+financial market actors to create what are, at least in normal times, considered cash equivalents 
+
+raises broader financial stability questions.  Specifically, there may be a need for new 
+
+macroprudential instruments, such as comprehensive authority to impose margins on all cash-
+
+like instruments, regardless of whether a firm creating those instruments is a regulated entity 
+
+such as a bank holding company.  Such possibilities obviously carry significant consequences, 
+
+not just for the liquidity available to the financial system, but also for values such as the 
+
+concentration of governmental authority.  This is a topic on which much further thought is 
+
+needed. 
+
+
+
+
+- 27 - 
+ 
+
+Conclusion 
+
+     It may not always be the case that the most interesting time to be involved in a regulatory 
+
+area is at its early stages, but I am reasonably certain it applies to the formation of a system for 
+
+the regulation of systemic risk.  From the standpoint of a regulator, the key challenge in these 
+
+early stages is to be neither excessively self-confident about what we know about financial 
+
+stability so as to produce unfortunate unintended consequences, nor excessively tentative so as to 
+
+fail to take steps to counter the very real risks that do exist, in keeping with the aims stated by 
+
+Congress.  As I hope was apparent, that effort at balance informed my suggestions as to how we 
+
+should apply the financial stability factor in our pre-merger reviews under the Bank Holding 
+
+Company Act. 
+
+ Before concluding, I want to make one final reference to antitrust law.  As you know, the 
+
+evolution of antitrust in recent decades was heavily influenced by the work of academics – 
+
+specifically, law professors and industrial organization economists.  That was due in part, I think 
+
+to the practice of the Antitrust Division of the Justice Department and the Competition Bureau of 
+
+the Federal Trade Commission recruiting so many present and future academics to work in those 
+
+agencies for a few years.  Indeed, quite a few heads of the Antitrust Division and the FTC were 
+
+themselves academics, often law professors.  The result was a cross-pollination of theoretical 
+
+advances and institutionally grounded knowledge that is unusual, if not unique in regulatory 
+
+areas.  While it may be difficult to replicate this pattern in the nascent field of financial stability 
+
+regulation, there is ample room – and need – for some version of this cross-pollination.  Issues 
+
+such as those I have discussed today can only profit from an academic perspective, informed by 
+
+practical and institutional considerations.  Obviously, I am standing this afternoon in front of an 
+
+
+- 28 - 
+ 
+
+almost ideal audience to provide that perspective, and I look forward to hearing your lectures in 
+
+the future. 
+
+
+                                                            
+1 For example, the Garn-St. Germain Act of 1982, P.L. 97-320; 96 Stat. 1469, authorized banks to offer a deposit 
+account with deregulated interest rates, and the Riegle-Neal Interstate Banking & Branching Efficiency Act of 1994, 
+P.L. 103-328; 108 Stat. 2338, substantially liberalized restrictions on interstate banking. 
+2 Section 108 of Gramm-Leach-Bliley did mention financial stability, but in the context of requiring a study of 
+potential subordinated debt requirements for large insured depository institutions and bank holding companies 
+whose failure could adversely affect financial stability.   
+3 DFA § 619. 
+4 DFA § 622, adding Section 14 to the Bank Holding Company Act of 1956 (12 U.S.C. 1841 et seq.). 
+5 DFA §604(b), amending §5(c)(2) of the Banking Holding Company Act. 
+6 Section 731, amending Commodities Exchange Act by adding new Section 4s – this is §4s(e)(3)(A). 
+7 Others include the authority granted the SEC to require reporting of certain information by hedge funds (§ 404) 
+and the creation of a new Federal Insurance Office, which is charged with “identifying issues or gaps in the 
+regulation of insurance that could contribute to a systemic crisis in the insurance industry or the United States 
+financial system.”  31 USC 313 (c)(1)(A), as added by DFA §502. 
+8 There are ten voting members and five non-voting members.  The voting members are the Secretary of the 
+Treasury, who serves as the Chairperson of the FSOC; the Chairman of the Board of Governors of the Federal 
+Reserve System; the Comptroller of the Currency; the Director of the Consumer Financial Protection Bureau; the 
+Chairman of the Securities and Exchange Commission; the Chairperson of the Federal Deposit Insurance 
+Corporation; the Chairperson of the Commodity Futures Trading Commission; the Director of the Federal Housing 
+Finance Agency; the Chairman of the National Credit Union Administration Board; and an independent member 
+with insurance expertise.  The non-voting members are the Director of the OFR, the Director of the Federal 
+Insurance Office, a state insurance commissioner selected by the state insurance commissioners, a state banking 
+supervisor chosen by the state banking supervisors, and a state securities commissioner designated by the state 
+securities supervisors. 
+9 DFA §120.  The FSOC is also required to issue an annual report to Congress assessing the impact of market and 
+regulatory developments on, and threats to, the financial stability of the United States.  DFA§ 112(a)(2)(N). 
+10 DFA §153 (a). 
+11 DFA §111(2)(N) and §153(d). 
+12 DFA §113(C)(1).   
+13 DFA § 113(a)(2)(K). 
+14 DFA §803 (6). 
+15 For financial market utilities, unlike nonbank financial firms, the likelihood of becoming systemically important is 
+enough to authorize designation. DFA §804 (a)(1).  This same provision allows designation of “payment, clearing, 
+or settlement activities,” presumably regardless of who conducts those activities.   
+16 DFA §805. 
+17 DFA §803 (9). 
+18 U.S. Department of the Treasury (2012). “Financial Stability Oversight Council Makes First Designations in 
+Effort to Protect Against Future Financial Crises,” press release, July 18. (www.treasury.gov/press-center/press-
+releases/Pages/tg1645.aspx) 
+19 DFA §121(a). 
+20 DFA §173. 
+21 The two dealing with the acquisition of merger of banks simply require that each factor be “taken into 
+consideration,” whereas the provision for acquisition of nonbanks requires consideration of the factors in the context 
+of a determination of whether the proposed transaction “can reasonably be expected to produce benefits to the public 
+that outweigh possible adverse effects.”12 USC 1843(j)(2)(A).  Somewhat confusingly, and a bit unaccountably, the 
+wording of the financial stability factor also differs.  In the Bank Holding Company §4(j)(2)(A) and Bank Merger 
+ 
+
+
+- 29 - 
+ 
+
+                                                                                                                                                                                                
+Act lists, the new factor is simply “risk to the stability of the United States banking or financial system.”  In the 
+Bank Holding Company Act §3(c)list, the factor is “greater or more concentrated risks to the stability of the United 
+States banking or financial system.”  While the import of this different wording does not seem great, it is unclear 
+why it was chosen in this provision and not in the Bank Merger Act, which also covers bank acquisitions. 
+22 Office of Financial Research, U.S. Department of the Treasury, 2012 Annual Report (Washington: Office of 
+Financial Research), p. 1. 
+(www.treasury.gov/initiatives/wsr/ofr/Documents/OFR_Annual_Report_071912_Final.pdf) 
+23 Office of Financial Research, 2012 Annual Report, p. 16.  
+24 Some representative examples include: Markus Brunnermeir, Andrew Crocket, Charles Goodhart, Avinash D. 
+Persaud, and Hyun Shin (2009), “The Fundamental Principles of Financial Regulation,” Geneva Reports on the 
+World Economy 11 (Geneva, Switzerland: International Center for Monetary and Banking Studies, June); Gary 
+Gorton and Andrew Metrick (2010), “Regulating the Shadow Banking System,” Brookings Papers on Economic 
+Activity (Washington, DC: Brookings Institution, Fall), pp. 261-297; Nicola Gennaioli, Andrei Shleifer, and Robert 
+W. Vishny (2012), “Neglected Risks, Financial Innovation, and Financial Fragility,” Journal of Financial 
+Economics, vol. 104, issue 3, pp. 452-468; Perry Mehrling (2011), The New Lombard Street (Princeton, NJ: 
+Princeton University Press); Jean Tirole (2011), “Illiquidity and All Its Friends,” Journal of Economic Literature, 
+vol. 49, issue 2, pp. 287-325. 
+25 15 U.S.C. §1. 
+26 See, e.g., United States v. Trans-Missouri Freight Assn., 166 U.S. 290 (1897). 
+27 Section 165 (b)(3) adds two additional considerations: 1) whether the firm owns an insured depository institution 
+and 2) the nonfinancial activities and affiliations of the firm. 
+28 For example, if the loss to the financial system from the failure of a systemically important firm would be five 
+times that resulting from failure of the non-systemic firm, then the firm would have to hold additional capital 
+sufficient to make the expected probability of failure one-fifth that of the non-systemic institution.  
+29 Among the useful efforts along these lines are a measure of Conditional Value-at-Risk (CoVaR) (See Tobias 
+Adrian and Markus Brunnermeier (2011), CoVaR, Federal Reserve Bank of New York Staff Reports 348 (New 
+York: Federal Reserve Bank of New York, September) and a measure of systemic risk based on each firm’s 
+contribution to the expected capital shortfall of the entire financial system in a crisis (See Christian T. Brownlees 
+and Robert F. Engle (2011), “Volatility, Correlation and Tails for Systemic Risk Measurement,” New York 
+University Working Paper (New York: New York University, June).  The concept behind the latter measure is also 
+described in Viral V. Acharya, Christian Brownlees, Farhang Farazmand, and Matthew Richardson, “Measuring 
+Systemic Risk,,” in Regulating Wall Street: The Dodd-Frank Act and the New Architecture of Global Finance 
+(Wiley Publishers, 2011) , .,pp. 87-119.  Updated systemic risk rankings are maintained by the authors at 
+http://vlab.stern.ny.edu.  A helpful review of the efforts to measure systemic risk is Monica Billio, Mila Getmansky, 
+Andrew W. Lo, and Loriana Pelizzon (2010), “Measuring Systemic Risk in the Finance and Insurance Sectors,” 
+MIT Sloan School Working Paper 4774-10 (Cambridge, MA: MIT Sloan School of Management, March). 
+30 It is worth noting, in this regard, that in developing systemic risk capital requirements one early idea was to 
+construct a continuously varying function for calculating a systemic risk surcharge.  That is, a formula for 
+calculating a firm's "systemic footprint" based on relevant characteristics such as size of assets, liabilities, 
+counterparty exposures, and the like would yield a specific capital surcharge for each firm with more than $50 
+billion in assets.  While the difficulties with this approach went beyond the false precision that it would have given 
+the surcharge, that was certainly one consideration in declining to adopt this approach. 
+31 Another important provision requiring interpretation of financial stability as a legal standard is the designation of 
+systemically important nonbank institutions by the FSOC.  As noted earlier, this is an instance in which an 
+evaluation of financial stability effects is the direct test for action.  In implementing this authority the FSOC took a 
+methodical, comparative approach.  Details can be found in Financial Stability Oversight Council (2012), “Authority 
+to Require Supervision and Regulation of Certain Nonbank Financial Companies,” Federal Register, vol. 77 (April 
+11), pp. 21637.  In the first stage of the process it has established, the FSOC applies a purely quantitative screen in 
+order to identify nonbank financial companies that merit further consideration.  In Stage 2, the Council conducts an 
+in-depth analysis of each firm that has been identified through the Stage 1 screens, based on information that is 
+either publicly available or already in the possession of financial regulators.  After this analysis is complete, firms 
+that the Council believes merit further consideration will be moved into Stage 3, during which information will also 
+be collected directly from the firms.  On the basis of this review, the Council may vote by the necessary two-thirds 
+majority to designate the firm as systemically important.  The Council has also elaborated, in general terms, the 
+ 
+
+
+- 30 - 
+ 
+
+                                                                                                                                                                                                
+conditions under which it would determine that a "threat to financial stability" may exist and the transmission 
+channels through which distress at a firm could affect the broader economy.  What is noteworthy for my purposes 
+today – beyond the elaborate nature of this exercise – is that ultimately the FSOC will make each determination on a 
+very company-specific basis, with attention to the particular risks posed by each individual company.  Indeed, 
+recognizing that the assessment of different kinds of financial firms may require varying analytic frameworks, the 
+FSOC has segmented its work.  So, for example, it will consider asset managers and hedge funds separately from 
+other forms of financial intermediaries.   
+32 In fact, of course, the antitrust agencies and the courts have over the years given greater or lesser weight to 
+possible efficiencies resulting from a merger, thereby introducing a consideration other than competition as such. 
+33 As noted earlier, the two governing provisions in the Bank Holding Company Act differ somewhat.  For the 
+present purpose of discussing financial stability analysis, however, we need not dwell on these differences. 
+34 The HHI is calculated by squaring the market share of each firm in a particular market and then adding those 
+squared market shares.  The antitrust agencies have specified the relative level of scrutiny that can be expected from 
+particular combinations of changes in, and post-merger HHIs, although they are careful to point out that HHI is not a 
+"rigid screen."  U.S. Department of Justice, Horizontal Merger Guidelines §5.3 (Aug. 19, 2009).  
+35 In the Wells-Wachovia and JPMorgan-Washington Mutual cases, concerns about the impact of Wachovia’s 
+failure on the Deposit Insurance Fund may also have played a role. 
+36 Board of Governors of the Federal Reserve, Capital One Financial Corporation, McLean, Virginia, Order 
+Approving the Acquisition of a Savings Association and Nonbanking Subsidiaries, FRB Order No. 2012-2 (Feb. 14, 
+2012) at p. 28. 
+37 Board of Governors of the Federal Reserve, Order Approving Acquisition, pp. 28-29. 
+38 Board of Governors of the Federal Reserve, Order Approving Acquisition, p. 30. 
+39 There are eight U.S. banks on this list, as well as many foreign-based firms with significant U.S. operations.  
+However, the buckets to which they will be assigned will not be finalized under more up-to-date data is available 
+and analyzed next year.  Once final agreement has been reached by the Basel Committee, ordering  the systemically 
+important banks into categories with progressively increasing surcharges, the Federal Reserve Board intends to 
+propose matching provisions for covered U.S. banks under its Section 165 authority.  In conducting our annual 
+reviews of the capital levels and planning processes of major U.S. bank holding companies, we have already 
+instructed the eight firms on the Basel Committee list to include their estimated required surcharge in their plan for 
+reaching their ultimate capital requirement. 
+40 The Basel Committee has not yet completed its work on this initiative.  Its proposal has been published in Basel 
+Committee on Banking Supervision, Consultative Document on a Framework for Dealing with Domestic 
+Systemically Important Banks (June 2012).  The proposal is that national authorities would designate these 
+institutions (as compared to the global systemically important banks, which are to be designated by the Basel 
+Committee itself), and that the nature of the enhanced loss absorbency for any such institutions also be left to 
+national discretion (as compared to the global systemically important banks, for which capital surcharges are to be 
+required and their amounts specified by the Basel Committee). 
+41 A paper by Katharina Pistor explains how the regulatory implications of three different theories of financial 
+stability would differ.  Katharina Pistor (2012), “On the Theoretical Foundations for Regulating Financial Markets,” 
+Columbia Law School Public Law & Legal Theory Working Paper 12-304, June. 
+42 Daniel K. Tarullo (2012), “Shadow Banking After the Financial Crisis,” remarks delivered at the Federal Reserve 
+Bank of San Francisco Conference on Challenges in Global Finance, San Francisco, California, June 12, 
+www.federalreserve.gov/newsevents/speech/tarullo20120612a.htm. 
+43 Treasury Secretary Timothy F. Geithner (2012), letter to members of the Financial Stability Oversight Council, 
+September 27. 
+

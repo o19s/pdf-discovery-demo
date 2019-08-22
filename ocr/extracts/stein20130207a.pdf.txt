@@ -1,0 +1,1781 @@
+
+For release on delivery 
+
+9:30 a.m. EST (8:30 a.m. CST) 
+
+February 7, 2013 
+
+
+
+
+
+
+
+
+
+Overheating in Credit Markets:  Origins, Measurement, and Policy Responses 
+
+
+
+
+Remarks by 
+
+
+Jeremy C. Stein 
+
+
+Member 
+
+
+Board of Governors of the Federal Reserve System 
+
+
+at 
+
+
+“Restoring Household Financial Stability after the Great Recession:   
+
+Why Household Balance Sheets Matter” 
+
+
+A Research Symposium sponsored by the Federal Reserve Bank of St. Louis 
+
+
+
+St. Louis, Missouri 
+
+
+
+
+
+
+
+
+February 7, 2013 
+
+
+
+
+
+Thank you very much.  It’s a pleasure to be here.  The question I’d like to address 
+
+today is this:  What factors lead to overheating episodes in credit markets?
+1
+  In other 
+
+words, why do we periodically observe credit booms, times during which lending 
+
+standards appear to become lax and which tend to be followed by low returns on credit 
+
+instruments relative to other asset classes?
+2
+  We have seen how such episodes can 
+
+sometimes have adverse effects on the financial system and the broader economy, and the 
+
+hope would be that a better understanding of the causes can be helpful both in identifying 
+
+emerging problems on a timely basis and in thinking about appropriate policy responses. 
+
+Two Views of the Overheating Mechanism   
+
+I will start by sketching two views that might be invoked to explain variation in 
+
+the pricing of credit risk over time:  a “primitive preferences and beliefs” view and an 
+
+“institutions, agency, and incentives” view.  While the first view is a natural starting 
+
+point, I will argue that it must be augmented with the second view if one wants to fully 
+
+understand the dynamics of overheating episodes in credit markets. 
+
+According to the primitives view, changes in the pricing of credit over time reflect 
+
+fluctuations in the preferences and beliefs of end investors such as households, where 
+
+these beliefs may or may not be entirely rational.  Perhaps credit is cheap when 
+
+household risk tolerance is high--say, because of a recent run-up in wealth.
+3
+  Or maybe 
+
+                                                 
+1
+ The thoughts that follow are my own and do not necessarily reflect the views of my colleagues on the 
+
+Board of Governors or the Federal Open Market Committee.  I am grateful to Burcu Duygan-Bump, Matt 
+
+Eichner, Jon Faust, Michael Kiley, Nellie Liang, Fabio Natalucci, and Bill Nelson for numerous helpful 
+
+conversations and suggestions. 
+2
+ I am using the term “overheating” in an asset-pricing sense, so when I say that the market for a particular 
+
+class of credit instruments is overheated, I mean that forecasted returns on this class of instruments, in 
+
+excess of those on riskless Treasury bills, are abnormally low, or even negative, over some horizon.  This 
+
+usage contrasts with models in the genre pioneered by Bernanke and Gertler (1989), where time-variation 
+
+in collateral values can lead to large changes in the supply of certain types of credit but where expected 
+
+returns on credit are constant over time. 
+3
+ Habit-formation models have this property.  See, for example, Campbell and Cochrane (1999). 
+
+
+ - 2 - 
+
+credit is cheap when households extrapolate current good times into the future and 
+
+neglect low-probability risks.
+4
+ 
+
+The primitives view is helpful for understanding some aspects of the behavior of 
+
+the aggregate stock market, with the 1990s Internet bubble being one illustration.  It 
+
+seems clear that the sentiment of retail investors played a prominent role in inflating this 
+
+bubble.
+5
+  More generally, research using survey evidence has shown that when individual 
+
+investors are most optimistic about future stock market returns, the market tends to be 
+
+overvalued, in the sense that statistical forecasts of equity returns are abnormally low.
+6
+  
+
+This finding is consistent with the importance of primitive investor beliefs. 
+
+By contrast, I am skeptical that one can say much about time variation in the 
+
+pricing of credit--as opposed to equities--without focusing on the roles of institutions and 
+
+incentives.  The premise here is that since credit decisions are almost always delegated to 
+
+agents inside banks, mutual funds, insurance companies, pension funds, hedge funds, and 
+
+so forth, any effort to analyze the pricing of credit has to take into account not only 
+
+household preferences and beliefs, but also the incentives facing the agents actually 
+
+making the decisions.  And these incentives are in turn shaped by the rules of the game, 
+
+which include regulations, accounting standards, and a range of performance-
+
+measurement, governance, and compensation structures.  
+
+At an abstract level, one can think of the agents making credit decisions and the 
+
+rulemakers who shape their incentives as involved in an ongoing evolutionary process, in 
+
+which each adapts over time in response to changing conditions.  At any point, the agents 
+
+                                                 
+4
+ See Gennaioli, Shleifer, and Vishny (2012). 
+
+5
+ For example, Griffin and others (2011) document that during the run-up of the Internet bubble, from 
+
+January 1997 to March 2000, individual investors were substantial net buyers of tech stocks, via both direct 
+
+purchases as well as investments in tech-sector-specific mutual funds. 
+6
+ See Amromin and Sharpe (2012), and Greenwood and Shleifer (2012). 
+
+
+ - 3 - 
+
+try to maximize their own compensation, given the rules of the game.  Sometimes they 
+
+discover vulnerabilities in these rules, which they then exploit in a way that is not optimal 
+
+from the perspective of their own organizations or society.  If the damage caused is 
+
+significant enough, the rules themselves adapt, driven either by internal governance or by 
+
+political and regulatory forces.  Still, it is possible that at different times in this process, 
+
+the rules do a better or worse job of managing the incentives of the agents. 
+
+To be more specific, a fundamental challenge in delegated investment 
+
+management is that many quantitative rules are vulnerable to agents who act to boost 
+
+measured returns by selling insurance against unlikely events--that is, by writing deep 
+
+out-of-the-money puts.  An example is that if you hire an agent to manage your equity 
+
+portfolio, and compensate the agent based on performance relative to the S&P 500, the 
+
+agent can beat the benchmark simply by holding the S&P 500 and stealthily writing puts 
+
+against it, since this put-writing both raises the mean and lowers the measured variance 
+
+of the portfolio.
+7
+  Of course, put-writing also introduces low-probability risks that may 
+
+make you, as the end investor, worse off, but if your measurement system doesn’t capture 
+
+these risks adequately--which is often difficult to do unless one knows what to look for--
+
+then the put-writing strategy will create the appearance of outperformance.   
+
+Since credit risk by its nature involves an element of put-writing, it is always 
+
+going to be challenging in an agency context, especially to the extent that the risks 
+
+associated with the put-writing can be structured to partially evade the relevant 
+
+measurement scheme.  Think of the AAA-rated tranche of a subprime collateralized debt 
+
+obligation (CDO), where the measurement scheme is the credit risk model used by the 
+
+                                                 
+7
+ Jurek and Stafford (2012) argue that implicit put-writing of this sort accounts for much of the apparent 
+
+measured alpha in hedge funds. 
+
+
+ - 4 - 
+
+rating agency.  To the extent that this model is behind the curve and does not fully 
+
+recognize the additional structural leverage and correlational complexities embedded in a 
+
+second-generation securitization like the CDO, as opposed to a first-generation one, it 
+
+will be particularly vulnerable to the introduction of a second-generation product.
+8
+   
+
+These agency problems may be exacerbated by competitive pressures among 
+
+intermediaries and by the associated phenomenon of relative performance evaluation.  A 
+
+leading example here comes from the money market fund sector, where even small 
+
+increases in a money fund’s yield relative to its competitors can attract large inflows of 
+
+new assets under management.
+9
+  And if these yield differentials reflect not managerial 
+
+skill but rather additional risk-taking, then competition among funds to attract assets will 
+
+only make the underlying put-writing problem worse. 
+
+But it is not all that satisfying--either intellectually or from a policy perspective--
+
+to simply list all of the ways that the delegation of credit decisions to agents inside big, 
+
+complicated institutions can lead things astray.  It must be the case that, on average over 
+
+long periods of time, these agency problems are contained tolerably well by the rules of 
+
+the game--by some combination of private governance and public policy--or else our 
+
+credit markets would not be as large and as well developed as they are.  A more 
+
+interesting set of questions has to do with time-series dynamics:  Why is it that 
+
+sometimes, things get out of balance, and the existing set of rules is less successful in 
+
+                                                 
+8
+ To be clear on terminology:  A subprime CDO is a securitization where the collateral is composed of the 
+
+mezzanine tranches of residential mortgage-backed securities (RMBS), as opposed to a collection of the 
+
+underlying mortgages.  Thus, in this case, the RMBS is the first-generation securitization, and the CDO, 
+
+which takes as its input a specific tranche of the RMBS, is the second-generation product.  See Coval, 
+
+Jurek, and Stafford (2009) for an analysis of the relative risks and modeling uncertainties of first and 
+
+second-generation securitizations. 
+9
+ See Kacperczyk and Schnabl (2012). 
+
+
+ - 5 - 
+
+containing risk-taking?  In other words, what does the institutions view tell us about why 
+
+credit markets sometimes overheat? 
+
+Let me suggest three factors that can contribute to overheating.  The first is 
+
+financial innovation.  While financial innovation has provided important benefits to 
+
+society, the institutions perspective warns of a dark side, which is that innovation can 
+
+create new ways for agents to write puts that are not captured by existing rules.  For this 
+
+reason, policymakers should be on alert any time there is rapid growth in a new product 
+
+that is not yet fully understood.  Perhaps the best explanation for the existence of second-
+
+generation securitizations like subprime CDOs is that they evolved in response to flaws 
+
+in prevailing models and incentive schemes.
+10
+
+  Going back further, a similar story can be 
+
+told about the introduction of payment-in-kind (PIK) interest features in the high-yield 
+
+bonds used in the leveraged buyouts (LBOs) of the late 1980s.  I don’t think it was a 
+
+coincidence that among the buyers of such PIK bonds were savings and loan associations, 
+
+at a time when many were willing to take risks to boost their accounting incomes.   
+
+The second closely related factor on my list is changes in regulation.  New 
+
+regulation will tend to spur further innovation, as market participants attempt to minimize 
+
+the private costs created by new rules.  And it may also open up new loopholes, some of 
+
+which may be exploited by variants on already existing instruments.  
+
+The third factor that can lead to overheating is a change in the economic 
+
+environment that alters the risk-taking incentives of agents making credit decisions.  For 
+
+                                                 
+10
+
+ To be clear, I do not intend this critique to apply to first-generation securitizations, such as RMBS, asset-
+
+backed securities collateralized by auto and credit card loans, or collateralized loan obligations (where the 
+
+collateral pool is composed of bank loans).  As a number of academic studies have emphasized, the basic 
+
+pooling-and-tranching structure of these securitizations can help reduce adverse selection problems in 
+
+markets, and thereby increase liquidity and reduce financing costs.  See, for example, Gorton, and 
+
+Pennacchi (1990), DeMarzo and Duffie (1999), and DeMarzo (2005). 
+
+
+ - 6 - 
+
+example, a prolonged period of low interest rates, of the sort we are experiencing today, 
+
+can create incentives for agents to take on greater duration or credit risks, or to employ 
+
+additional financial leverage, in an effort to “reach for yield.”
+11
+
+  An insurance company 
+
+that has offered guaranteed minimum rates of return on some of its products might find 
+
+its solvency threatened by a long stretch of low rates and feel compelled to take on added 
+
+risk.
+12
+
+  A similar logic applies to a bank whose net interest margins are under pressure 
+
+because low rates erode the profitability of its deposit-taking franchise. 
+
+Moreover, these three factors may interact with one another.  For example, if low 
+
+interest rates increase the demand by agents to engage in below-the-radar forms of risk-
+
+taking, this demand may prompt innovations that facilitate this sort of risk-taking. 
+
+Why the Distinction Matters 
+
+To summarize the argument thus far, I have drawn a distinction between two 
+
+views of risk-taking in credit markets.  According to the primitives view, changes over 
+
+time in effective risk appetite reflect the underlying preferences and beliefs of end 
+
+investors.  According to the institutions view, such changes reflect the imperfectly 
+
+aligned incentives of the agents in large financial institutions who do the investing on 
+
+behalf of these end investors.  But why should anybody care about this distinction?  
+
+One reason is that your view of the underlying mechanism shapes how you think 
+
+about measurement.  Consider this question:  Is the high-yield bond market currently 
+
+overheated, in the sense that it might be expected to offer disappointing returns to 
+
+investors?  What variables might one look at to shape such a forecast?  In a primitives-
+
+driven world, it would be natural to focus on credit spreads, on the premise that more risk 
+
+                                                 
+11
+
+ See Rajan (2006) for an early exposition of the reach-for-yield phenomenon. 
+12
+
+ This mechanism is the classic risk-shifting effect described by Jensen and Meckling (1976). 
+
+
+ - 7 - 
+
+tolerance on the part of households would lead them to bid down credit spreads; these 
+
+lower spreads would then be the leading indicator of low expected returns.   
+
+On the other hand, in an institutions-driven world, where agents are trying to 
+
+exploit various incentive schemes, it is less obvious that increased risk appetite is as well 
+
+summarized by reduced credit spreads.  Rather, agents may prefer to accept their lowered 
+
+returns via various subtler nonprice terms and subordination features that allow them to 
+
+maintain a higher stated yield.  Again, the use of PIK bonds in LBOs is instructive.  A 
+
+long time ago, Steve Kaplan and I did a study of the capital structure of 1980s-era 
+
+LBOs.
+13
+
+  What was most noteworthy about the PIK bonds in those deals was not that they 
+
+had low credit spreads.  Rather, it was that they were subject to an extreme degree of 
+
+implicit subordination.  While these bonds were not due to get cash interest for several 
+
+years, they stood behind bank loans with very fast principal repayment schedules, which 
+
+in many cases required the newly leveraged firm to sell a large chunk of its assets just to 
+
+honor these bank loans.  Simply put, much of the action--and much of the explanatory 
+
+power for the eventual sorry returns on the PIK bonds--was in the nonprice terms. 
+
+It is interesting to think about recent work by Robin Greenwood and Sam Hanson 
+
+through this lens.
+14
+
+  They show that if one is interested in forecasting excess returns on 
+
+corporate bonds (relative to Treasury securities) over the next few years, credit spreads 
+
+are indeed helpful, but another powerful predictive variable is a nonprice measure:  the 
+
+high-yield share, defined as issuance by speculative-grade firms divided by total bond 
+
+issuance.  When the high-yield share is elevated, future returns on corporate credit tend to 
+
+be low, holding fixed the credit spread.  Exhibit 1 provides an illustration of their finding.  
+
+                                                 
+13
+
+ See Kaplan and Stein (1993). 
+14
+
+ See Greenwood and Hanson (2012). 
+
+
+ - 8 - 
+
+One possible interpretation is that the high-yield share acts as a summary statistic for a 
+
+variety of nonprice credit terms and structural features.  That is, when agents’ risk 
+
+appetite goes up, they agree to fewer covenants, accept more-implicit subordination, and 
+
+so forth, and high-yield issuance responds accordingly, hence its predictive power. 
+
+A second implication of the institutions view is what one might call the “tip of the 
+
+iceberg” caveat.  Quantifying risk-taking in credit markets is difficult in real time, 
+
+precisely because risks are often taken in opaque ways that escape conventional 
+
+measurement practices.  So we should be humble about our ability to see the whole 
+
+picture, and should interpret those clues that we do see accordingly.  For example, I have 
+
+mentioned the junk bond market several times, but not because this market is necessarily 
+
+the most important venue for the sort of risk-taking that is likely to raise systemic 
+
+concerns.  Rather, because it offers a relatively long history on price and nonprice terms, 
+
+it is arguably a useful barometer.  Thus, overheating in the junk bond market might not be 
+
+a major systemic concern in and of itself, but it might indicate that similar overheating 
+
+forces were at play in other parts of credit markets, out of our range of vision. 
+
+Recent Developments in Credit Markets 
+
+With these remarks as a prelude, what I’d like to do next is take you on a brief 
+
+tour of recent developments in a few selected areas of credit markets.  This tour draws 
+
+heavily on work conducted by the Federal Reserve staff as part of our ongoing 
+
+quantitative surveillance efforts, under the auspices of our Office of Financial Stability 
+
+Policy and Research.   
+
+The first stop on the tour is the market for leveraged finance, encompassing both 
+
+the public junk bond market and the syndicated leveraged loan market.  As can be seen in 
+
+
+ - 9 - 
+
+exhibit 2, issuance in both of these markets has been very robust of late, with junk bond 
+
+issuance setting a new record in 2012.  In terms of the variables that could be informative 
+
+about the extent of market overheating, the picture is mixed.  On the one hand, credit 
+
+spreads, though they have tightened in recent months, remain moderate by historical 
+
+standards.  For example, as exhibit 3 shows, the spread on nonfinancial junk bonds, 
+
+currently at about 400 basis points, is just above the median of the pre-financial-crisis 
+
+distribution, which would seem to imply that pricing is not particularly aggressive.
+15
+
+
+On the other hand, the high-yield share for 2012 was above its historical average, 
+
+suggesting--based on the results of Greenwood and Hanson--a somewhat more 
+
+pessimistic picture of prospective credit returns.
+16
+
+  This notion is supported by recent 
+
+trends in the sorts of nonprice terms I discussed earlier (exhibit 4).  The annualized rates 
+
+of PIK bond issuance and of covenant-lite loan issuance in the fourth quarter of 2012 
+
+were comparable to highs from 2007.  The past year also saw a new record in the use of 
+
+loan proceeds for dividend recapitalizations, which represents a case in which 
+
+bondholders move further to the back of the line while stockholders--often private equity 
+
+firms--cash out.
+17
+
+  Finally, leverage in large LBOs rose noticeably, though less 
+
+dramatically, in the third and fourth quarters of 2012. 
+
+Putting it all together, my reading of the evidence is that we are seeing a fairly 
+
+significant pattern of reaching-for-yield behavior emerging in corporate credit.  However, 
+
+even if this conjecture is correct, and even if it does not bode well for the expected 
+
+                                                 
+15
+
+ To be precise, the spread was at 397 basis points as of January 28, 2013, as compared to a median value 
+
+of 388 basis points over the period January 1997 to July 2007, and a mean of 447 basis points over the 
+
+same period. 
+16
+
+ See Greenwood and Hanson (2012). 
+17
+
+ One factor that complicates the interpretation is that, in late 2012, one might have expected an increase in 
+
+dividend-recap loans even absent any change in investor risk appetite, based on the anticipation of future 
+
+dividend tax increases.  
+
+
+ - 10 - 
+
+returns to junk bond and leveraged-loan investors, it need not follow that this risk-taking 
+
+has ominous systemic implications.  That is, even if at some point junk bond investors 
+
+suffer losses, without spillovers to other parts of the system, these losses may be confined 
+
+and therefore less of a policy concern. 
+
+In this regard, one lesson from the crisis is that it is not just bad credit decisions 
+
+that create systemic problems, but bad credit decisions combined with excessive maturity 
+
+transformation.  A badly underwritten subprime loan is one thing, and a badly 
+
+underwritten subprime loan that serves as the collateral for asset-backed commercial 
+
+paper (ABCP) held by a money market fund is something else--and more dangerous.  
+
+This observation suggests an idealized measurement construct.  In principle, what we’d 
+
+really like to know, for any given asset class--be it subprime mortgages, junk bonds, or 
+
+leveraged loans--is this:  What fraction of it is ultimately financed by short-term 
+
+demandable claims held by investors who are likely to pull back quickly when things 
+
+start to go bad?  It is this short-term financing share that creates the potential for systemic 
+
+spillovers in the form of deleveraging and marketwide fire sales of illiquid assets. 
+
+This short-term financing share is difficult to measure comprehensively, but 
+
+exhibit 5 presents one graph that gives some comfort.  The graph shows dealer financing 
+
+of corporate debt securities, much of which is done via short-term repurchase agreements 
+
+(repos).  This financing rose rapidly in the years prior to the crisis, then fell sharply, and 
+
+remains well below its pre-crisis levels today.  So, on this score, there appears to be only 
+
+modest short-term leverage behind corporate credit, which would seem to imply that even 
+
+if the underlying securities were aggressively priced, the potential for systemic harm 
+
+resulting from deleveraging and fire sales would be relatively limited. 
+
+
+ - 11 - 
+
+Nevertheless, I want to urge caution here and, again, stress how hard it is to 
+
+capture everything we’d like.  As I said, ideally we would total all of the ways in which a 
+
+given asset class is financed with short-term claims.  Repos constitute one example, but 
+
+there are others.  And, crucially, these short-term claims need not be debt claims.  If 
+
+relatively illiquid junk bonds or leveraged loans are held by open-end investment vehicles 
+
+such as mutual funds or by exchange-traded funds (ETFs), and if investors in these 
+
+vehicles seek to withdraw at the first sign of trouble, then this demandable equity will 
+
+have the same fire-sale-generating properties as short-term debt.
+18
+
+  One is naturally 
+
+inclined to look at data on short-term debt like repo, given its prominence in the recent 
+
+crisis.  But precisely because it is being more closely monitored, there is the risk that next 
+
+time around, the short-term claims may take another form. 
+
+With this caveat in mind, it is worth noting the pattern of inflows into mutual 
+
+funds and ETFs that hold high-yield bonds, shown in exhibit 6.  Interestingly, the picture 
+
+here is almost the reverse of that seen with dealer financing of corporate bonds.  Assets 
+
+under management in these vehicles were essentially flat in the years leading up to the 
+
+crisis, but they have increased sharply in the past couple of years.
+19
+
+  This observation 
+
+suggests, albeit only loosely, that there may be some substitutability between different 
+
+forms of demandable finance.  And it underscores the importance of not focusing too 
+
+narrowly on any one category.   
+
+                                                 
+18
+
+ Indeed, Shleifer and Vishny’s (1997) classic treatment of fire sales is based not on a leverage 
+
+mechanism, but on rapid performance-based flows out of open-end funds. 
+19
+
+ Some observers point to the significant increase in collateralized loan obligation (CLO) issuance in 2012 
+
+as a further symptom of “leverage” in the market.  While demand for leveraged loans from CLOs may play 
+
+a role in driving loan issuance, pricing and loan structure, it should be noted that CLO equity does not 
+
+represent a form of demandable short-term financing   and hence does not have the potential to contribute 
+
+to fire-sale dynamics in the same way as, say, repo financing.  
+
+
+ - 12 - 
+
+Continuing on with the theme of maturity transformation, the next brief stop on 
+
+the tour is the agency mortgage real estate investment trust (REIT) sector.  These agency 
+
+REITs buy agency mortgage-backed securities (MBS), fund them largely in the short-
+
+term repo market in what is essentially a levered carry trade, and are required to pass 
+
+through at least 90 percent of the net interest to their investors as dividends.  As shown in 
+
+exhibit 7, they have grown rapidly in the past few years, from $152 billion at year-end 
+
+2010 to $398 billion at the end of the third quarter of 2012.      
+
+One interesting aspect of this business model is that its economic viability is 
+
+sensitive to conditions in both the MBS market and the repo market.  If MBS yields 
+
+decline, or the repo rate rises, the ability of mortgage REITs to generate current income 
+
+based on the spread between the two is correspondingly reduced. 
+
+  Another place where the desire to generate yield can show up is in commercial 
+
+banks’ securities holdings.  In recent work, Sam Hanson and I documented that the 
+
+duration of banks’ non-trading-account securities holdings tends to increase significantly 
+
+when the short rate declines.
+20
+
+  We hypothesized that this pattern was due to a particular 
+
+form of agency behavior--namely, that given the conventions of generally accepted 
+
+accounting principles, a bank can boost its reported income by replacing low-yielding 
+
+short-duration securities with higher-yielding long-duration securities.  
+
+Something along these lines seems to be happening today:  The maturity of 
+
+securities in banks’ available-for-sale portfolios is near the upper end of its historical 
+
+range.  This finding is noteworthy on two counts.  First, the added interest rate exposure 
+
+may itself be a meaningful source of risk for the banking sector and should be monitored 
+
+carefully--especially since existing capital regulation does not explicitly address interest 
+
+                                                 
+20
+
+ See Hanson and Stein (2012). 
+
+
+ - 13 - 
+
+rate risk.  And, second, in the spirit of tips of icebergs, the possibility that banks may be 
+
+reaching for yield in this manner suggests that the same pressure to boost income could 
+
+be affecting behavior in other, less readily observable parts of their businesses. 
+
+The final stop on the tour is something called collateral transformation.  This 
+
+activity has been around in some form for quite a while and does not currently appear to 
+
+be of a scale that would raise serious concerns--though the available data on it are 
+
+sketchy at this point.  Nevertheless, it deserves to be highlighted because it is exactly the 
+
+kind of activity where new regulation could create the potential for rapid growth and 
+
+where we therefore need to be especially watchful. 
+
+Collateral transformation is best explained with an example.  Imagine an 
+
+insurance company that wants to engage in a derivatives transaction.  To do so, it is 
+
+required to post collateral with a clearinghouse, and, because the clearinghouse has high 
+
+standards, the collateral must be “pristine”--that is, it has to be in the form of Treasury 
+
+securities.  However, the insurance company doesn’t have any unencumbered Treasury 
+
+securities available--all it has in unencumbered form are some junk bonds.  Here is where 
+
+the collateral swap comes in.  The insurance company might approach a broker-dealer 
+
+and engage in what is effectively a two-way repo transaction, whereby it gives the dealer 
+
+its junk bonds as collateral, borrows the Treasury securities, and agrees to unwind the 
+
+transaction at some point in the future.  Now the insurance company can go ahead and 
+
+pledge the borrowed Treasury securities as collateral for its derivatives trade.   
+
+Of course, the dealer may not have the spare Treasury securities on hand, and so, 
+
+to obtain them, it may have to engage in the mirror-image transaction with a third party 
+
+that does--say, a pension fund.  Thus, the dealer would, in a second leg, use the junk 
+
+
+ - 14 - 
+
+bonds as collateral to borrow Treasury securities from the pension fund.  And why would 
+
+the pension fund see this transaction as beneficial?  Tying back to the theme of reaching 
+
+for yield, perhaps it is looking to goose its reported returns with the securities-lending 
+
+income without changing the holdings it reports on its balance sheet. 
+
+There are two points worth noting about these transactions.  First, they reproduce 
+
+some of the same unwind risks that would exist had the clearinghouse lowered its own 
+
+collateral standards in the first place.  To see this point, observe that if the junk bonds fall 
+
+in value, the insurance company will face a margin call on its collateral swap with the 
+
+dealer.  It will therefore have to scale back this swap, which in turn will force it to 
+
+partially unwind its derivatives trade--just as would happen if it had posted the junk 
+
+bonds directly to the clearinghouse.  Second, the transaction creates additional 
+
+counterparty exposures--the exposures between the insurance company and the dealer, 
+
+and between the dealer and the pension fund.  
+
+As I said, we don’t have evidence to suggest that the volume of such transactions 
+
+is currently large.  But with a variety of new regulatory and institutional initiatives on the 
+
+horizon that will likely increase the demand for pristine collateral--from the Basel III 
+
+Liquidity Coverage Ratio, to centralized clearing, to heightened margin requirements for 
+
+noncleared swaps--there appears to be the potential for rapid growth in this area.  Some 
+
+evidence suggestive of this growth potential is shown in exhibit 8, which is based on 
+
+responses by a range of dealer firms to the Federal Reserve’s Senior Credit Officer 
+
+Opinion Survey on Dealer Financing Terms.
+21
+
+  As can be seen, while only a modest 
+
+fraction of those surveyed reported that they were currently engaged in collateral 
+
+                                                 
+21
+
+ The Senior Credit Officer Opinion Survey on Dealer Financing Terms is available on the Federal 
+
+Reserve’s website at www.federalreserve.gov/econresdata/releases/scoos.htm. 
+
+
+ - 15 - 
+
+transformation transactions, a much larger share reported that they had been involved in 
+
+discussions of prospective transactions with their clients.   
+
+Policy Implications 
+
+Let me turn now to policy implications.  The question of how policymakers 
+
+should respond to different manifestations of credit market overheating is a big and 
+
+difficult one, and I won’t attempt to deliver a set of specific prescriptions here.  However, 
+
+I would like to provoke some discussion around one specific aspect of the question--
+
+namely, what are the respective roles of traditional supervisory and regulatory tools, on 
+
+the one hand, versus monetary policy, on the other, in addressing the sorts of market-
+
+overheating phenomena that we have been talking about?  To lend a little concreteness 
+
+and urgency to this issue, imagine that it is 18 months from now, and that with interest 
+
+rates still very low, each of the trends that I identified earlier has continued to build--to 
+
+the point where we believe that there could be meaningful systemic implications.  What, 
+
+if any, policy measures should be contemplated? 
+
+It is sometimes argued that in such circumstances, policymakers should follow 
+
+what might be called a decoupling approach.  That is, monetary policy should restrict its 
+
+attention to the dual mandate goals of price stability and maximum employment, while 
+
+the full battery of supervisory and regulatory tools should be used to safeguard financial 
+
+stability.  There are several arguments in favor of this approach.  First, monetary policy 
+
+can be a blunt tool for dealing with financial stability concerns.  Even if we stipulate that 
+
+low interest rates are part of the reason for, say, a worrisome boom in one segment of 
+
+credit markets, they are unlikely to be the whole story.  So, would one really want to raise 
+
+rates, and risk choking off economic activity, in an effort to rein in that one part of the 
+
+
+ - 16 - 
+
+market?  Wouldn’t it be better to use a more narrowly focused supervisory or regulatory 
+
+approach, with less potential for damage to the economy? 
+
+A related concern is that monetary policy already has its hands full with the dual 
+
+mandate, and that if it is also made partially responsible for financial stability, it will have 
+
+more objectives than instruments at its disposal and won’t do as well with any of its 
+
+tasks.
+22
+
+  These are important points to bear in mind.  In some cases, supervisory and 
+
+regulatory tools are clearly better targeted and more likely to be effective than monetary 
+
+policy could be.  For example, the Federal Reserve’s supervisory responsibilities for the 
+
+banking sector put it in the right position to carefully monitor duration risk in banks’ 
+
+securities portfolios and to take corrective action if necessary. 
+
+Nevertheless, as we move forward, I believe it will be important to keep an open 
+
+mind and avoid adhering to the decoupling philosophy too rigidly.  In spite of the caveats 
+
+I just described, I can imagine situations where it might make sense to enlist monetary 
+
+policy tools in the pursuit of financial stability.  Let me offer three observations in 
+
+support of this perspective.  First, despite much recent progress, supervisory and 
+
+regulatory tools remain imperfect in their ability to promptly address many sorts of 
+
+financial stability concerns.  If the underlying economic environment creates a strong 
+
+incentive for financial institutions to, say, take on more credit risk in a reach for yield, it 
+
+is unlikely that regulatory tools can completely contain this behavior.  This, of course, is 
+
+not to say that we should not try to do our best with these tools--we absolutely should.  
+
+But we should also be realistic about their limitations.  These limitations arise because of 
+
+                                                 
+22
+
+ This concern is sometimes related to the “Tinbergen principle” (Tinbergen (1952)), which states that if 
+
+the number of policy targets exceeds the number of instruments, then some targets may not be hit.  
+
+However in a world with multiple instruments, the Tinbergen principle does not imply anything about 
+
+decoupling.  That is, it does not imply that each instrument must be dedicated to a single target.    
+
+
+ - 17 - 
+
+the inherent fallibility of the tools in a world of regulatory arbitrage; because the scope of 
+
+our regulatory authority does not extend equally to all parts of the financial system; and 
+
+because risk-taking naturally tends to be structured in a nontransparent way that can 
+
+make it hard to recognize.  In some cases, regulatory tools may also be difficult to adjust 
+
+on a timely basis--if, for example, doing so requires extended interagency negotiation. 
+
+Second, while monetary policy may not be quite the right tool for the job, it has 
+
+one important advantage relative to supervision and regulation--namely that it gets in all 
+
+of the cracks.  The one thing that a commercial bank, a broker-dealer, an offshore hedge 
+
+fund, and a special purpose ABCP vehicle have in common is that they all face the same 
+
+set of market interest rates.  To the extent that market rates exert an influence on risk 
+
+appetite, or on the incentives to engage in maturity transformation, changes in rates may 
+
+reach into corners of the market that supervision and regulation cannot.
+23
+
+
+Third, in response to concerns about numbers of instruments, we have seen in 
+
+recent years that the monetary policy toolkit consists of more than just a single 
+
+instrument.  We can do more than adjust the federal funds rate.  By changing the 
+
+composition of our asset holdings, as in our recently completed maturity extension 
+
+program (MEP), we can influence not just the expected path of short rates, but also term 
+
+premiums and the shape of the yield curve.  Once we move away from the zero lower 
+
+bound, this second instrument might continue to be helpful, not simply in providing 
+
+accommodation, but also as a complement to other efforts on the financial stability front. 
+
+To see why, recall the central role that maturity transformation--the funding of 
+
+long-term assets with short-term, run-prone liabilities--can play in propagating systemic 
+
+                                                 
+23
+
+ A similar argument is made by Borio and Drehmann (2009), who write: “But in sophisticated and open 
+
+financial systems, in which the scope for regulatory arbitrage is high, the interest rate has the merit of 
+
+setting the universal price of leverage.  It reaches parts that other instruments cannot reach.” 
+
+
+ - 18 - 
+
+instabilities.   Moreover, as illustrated by the mortgage REIT sector that I described 
+
+earlier, the economic appeal of maturity transformation hinges on the shape of the yield 
+
+curve--in that particular case, on the spread between the yield on agency MBS and the so-
+
+called general collateral (GC) repo rate at which these securities can be funded on a 
+
+short-term basis.  And it would appear that our policies have at times put pressure on this 
+
+spread from both sides.  Our purchases of long-term Treasury securities and agency MBS 
+
+have clearly helped reduce long-term yields, and a number of observers have suggested 
+
+that an unintended byproduct of our MEP--and the associated sales of short-term 
+
+Treasury securities--was to exert an upward influence on GC repo rates.   
+
+This sort of compression of term spreads is the twist in Operation Twist.  And you 
+
+can see the financial stability angle as well as a possible response to concerns over 
+
+numbers of instruments.  Suppose that, at some point in the future, once we are away 
+
+from the zero lower bound, our dual mandate objectives call for an easing in policy.  Also 
+
+suppose that, at the same time, there is a general concern about excessive maturity 
+
+transformation in various parts of the financial system, and that we are having a hard time 
+
+reining in this activity with conventional regulatory tools.  It might be that the right 
+
+combination of policies would be to lower the path of the federal funds rate--thereby 
+
+effectuating the needed easing--while at the same time engaging in MEP-like asset swaps 
+
+to flatten the yield curve and reduce the appeal of maturity transformation.   
+
+Conclusion 
+
+I hope you will take this last example in the spirit in which it was intended--not as 
+
+a currently actionable policy proposal, but as an extended hypothetical meant to give 
+
+some tangible substance to a broader theme.  That broader theme is as follows:  One of 
+
+
+ - 19 - 
+
+the most difficult jobs that central banks face is in dealing with episodes of credit market 
+
+overheating that pose a potential threat to financial stability.  As compared with inflation 
+
+or unemployment, measurement is much harder, so even recognizing the extent of the 
+
+problem in real time is a major challenge.  Moreover, the supervisory and regulatory tools 
+
+that we have, while helpful, are far from perfect.   
+
+These observations suggest two principles.  First, decisions will inevitably have to 
+
+be made in an environment of significant uncertainty, and standards of evidence should 
+
+be calibrated accordingly.  Waiting for decisive proof of market overheating may amount 
+
+to an implicit policy of inaction on this dimension.  And, second, we ought to be open-
+
+minded in thinking about how to best use the full array of instruments at our disposal.  
+
+Indeed, in some cases, it may be that the only way to achieve a meaningfully 
+
+macroprudential approach to financial stability is by allowing for some greater overlap in 
+
+the goals of monetary policy and regulation. 
+
+Thank you very much. 
+
+
+
+
+ - 20 - 
+
+References 
+
+
+Amromin, Gene, and Steve Sharpe (2012). “From the Horse’s Mouth: How do Investor 
+
+Expectations of Risk and Return Vary with Economic Conditions?,” Federal 
+
+Reserve Bank of Chicago Working Paper 2012-08, 
+
+http://www.chicagofed.org/digital_assets/publications/working_papers/2012/wp2
+
+012_08.pdf 
+
+
+Bernanke, Ben S., and Mark Gertler (1989).  “Agency Costs, Net Worth, and Business 
+
+Fluctuations,” American Economic Review, vol. 79 (March), pp. 14-31. 
+
+
+Borio, Claudio, and Mathias Drehmann (2009).  “Financial Instability and 
+
+Macroeconomics:  Bridging the Gulf,” paper prepared for the Twelfth Annual 
+
+International Banking Conference, “The International Financial Crisis:  Have the 
+
+Rules of Finance Changed?” held at the Federal Reserve Bank of Chicago, 
+
+Chicago, September 24-25. 
+
+
+Campbell, John Y., and John H. Cochrane (1999).  “By Force of Habit:  A Consumption-
+
+Based Explanation of Aggregate Stock Market Behavior,” Journal of Political 
+
+Economy, vol. 107 (April), pp. 205-51. 
+
+
+Coval, Joshua, Jakub Jurek, and Erik Stafford (2009).  “The Economics of Structured 
+
+Finance,” Journal of Economic Perspectives, vol. 23 (Winter), pp. 3-25. 
+
+
+DeMarzo, Peter M. (2005).  “The Pooling and Tranching of Securities:  A Model of 
+
+Informed Intermediation,” Review of Financial Studies, vol. 18 (Spring), pp. 1-35. 
+
+
+DeMarzo, Peter, and Darrell Duffie (1999).  “A Liquidity-Based Model of Security 
+
+Design,” Econometrica, vol. 67 (January), pp. 65-99. 
+
+
+Gennaioli, Nicola, Andrei Shleifer, and Robert Vishny (2012).  “Neglected Risks, 
+
+Financial Innovation, and Financial Fragility,” Journal of Financial Economics, 
+
+vol. 104 (June), pp. 452-68. 
+
+
+Gorton, Gary, and George Pennacchi (1990).  “Financial Intermediaries and Liquidity 
+
+Creation,” Journal of Finance, vol. 45 (March), pp. 49-71.  
+
+
+Greenwood , Robin, and Samuel G. Hanson (2012).  “Issuer Quality and Corporate Bond 
+
+Returns,” unpublished paper, Harvard University, September, 
+
+www.people.hbs.edu/shanson/Issuer_Quality_20120905_FINAL.pdf. 
+
+
+Greenwood, Robin, and Andrei Shleifer (2012).  “Expectations of Returns and Expected 
+
+Returns,” unpublished paper, Harvard University, October, 
+
+www.economics.harvard.edu/faculty/shleifer/files/expectedreturns20121020.pdf. 
+
+
+
+
+ - 21 - 
+
+Griffin, John M., Jeffrey H. Harris, Tao Shu, and Selim Topaloglu (2011).  “Who Drove 
+
+and Burst the Tech Bubble?” Journal of Finance, vol. 66 (August), pp. 1251-90. 
+
+
+Hanson, Samuel G., and Jeremy C. Stein (2012).  “Monetary Policy and Long-Term Real 
+
+Rates,” Finance and Economics Discussion Series 2012-46.  Washington:  Board 
+
+of Governors of the Federal Reserve System, July, 
+
+www.federalreserve.gov/pubs/feds/2012/201246/201246abs.html. 
+
+
+Jensen, Michael C., and William H. Meckling (1976).  “Theory of the Firm:  Managerial 
+
+Behavior, Agency Costs and Ownership Structure,” Journal of Financial 
+
+Economics, vol. 3 (October), pp. 305-60.   
+
+
+Jurek, Jakub W., and Erik Stafford (2011).  “The Cost of Capital for Alternative 
+
+Investments,” Working Paper Series 12-013.  Cambridge, Mass.:  Harvard 
+
+Business School, September, www.hbs.edu/faculty/Publication%20Files/12-
+
+013.pdf. 
+
+
+Kacperczyk, Marcin, and Philipp Schnabl (2012).  “How Safe Are Money Market Funds?” 
+
+unpublished paper, New York University, June, 
+
+http://pages.stern.nyu.edu/~pschnabl/public_html/KacperczykSchnablDec2012.pdf. 
+
+
+Kaplan, Steven, and Jeremy C. Stein (1993).  “The Evolution of Buyout Pricing and 
+
+Financial Structure in the 1980s,” Quarterly Journal of Economics, vol. 108 
+
+(May), pp. 313-57.  
+
+
+Merton, Robert C. (1974).  “On the Pricing of Corporate Debt:  The Risk Structure of 
+
+Interest Rates,” Journal of Finance, vol. 29 (May), pp. 449-70. 
+
+
+Rajan, Raghuram G. (2006).  “Has Finance Made the World Riskier?” European 
+
+Financial Management, vol. 12 (September), pp. 499-533.  
+
+
+Shleifer, Andrei, and Robert W. Vishny (1997).  “The Limits of Arbitrage,” Journal of 
+
+Finance, vol. 52 (March), pp. 35-55. 
+
+
+Tinbergen, Jan (1952).  Contributions to Economic Analysis, vol. 1:  On the Theory of 
+
+Economic Policy (Amsterdam:  North-Holland). 
+
+
+
+
+1984 1986 1988 1990 1992 1994 1996 1998 2000 2002 2004 2006 2008 2010 2012
+ 0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+Percent Percent of issuance
+
+Excess return,   + 2 (left scale)
+High-yield share (right scale)
+
+High-Yield Share of Corporate Bond Issuance and Excess Returns
+
+t
+
+ 60
+
+ 40
+
+ 20
+
+0
+
+-20
+
+-40
+
+-60
+
+-80
+
+   Note: High-yield (HY) share is the ratio of speculative-grade issuance to total rated corporate bond issuance. Excess returns are calculated as the difference between the log return on the Barclays US HY Index and the
+Barclays US Treasury Intermediate Index. Excess returns are calculated between   and   + 2 and shown alongside the HY share at time   on an inverted scale, so that the negative correlation appears positive.
+   Source: Bloomberg for excess returns. Staff calculations from Mergent Fixed Income Securities Database, Thomson Financial, and Depository Trust & Clearing Corporation for HY share.
+
+t t t
+
+Exhibit 1
+
+
+  0
+
+100
+
+200
+
+300
+
+400
+Billions of dollars
+
+1994 1996 1998 2000 2002 2004 2006 2008 2010 2012
+
+Annual rate
+
+H1
+
+Q3 Q4
+
+High-Yield Corporate Bond Issuance
+
+   Source: Staff calculations from Thomson Financial and Depository Trust & Clearing Corporation.
+
+  0
+
+100
+
+200
+
+300
+
+400
+
+500
+
+600
+
+700
+Billions of dollars
+
+1998 2000 2002 2004 2006 2008 2010  2012
+
+  Bank
+  Institutional
+
+Annual rate
+
+Syndicated Leveraged Loan Issuance
+
+H1
+
+Q3
+
+Q4
+
+   Source: Thomson Reuters LPC LoanConnector.
+
+Exhibit 2
+
+
+1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013
+
+ 400
+
+ 600
+
+ 800
+
+1000
+
+1200
+
+1400
+
+1600
+Basis points
+
+Daily
+
+Credit Spread on High-Yield Corporate Bonds
+
+   Note: Spreads are measured relative to a smoothed off-the-run Treasury yield curve. Data are through January 28, 2013.
+   Source: Derived from smoothed corporate yield curves using Merrill Lynch bond data.
+
+Exhibit 3
+
+
+ 0
+
+ 5
+
+10
+
+15
+
+20
+Billions of dollars
+
+2005 2006 2007 2008 2009 2010 2011 2012
+
+Annual rate
+
+Payment-in-Kind Bond Issuance
+
+   Note: Data for 2012:Q4 through Nov. 2012.
+   Source: S&P Capital IQ Leveraged Commentary and Data (LCD).
+
+H1
+
+Q3
+
+Q4
+
+  0
+
+ 20
+
+ 40
+
+ 60
+
+ 80
+
+100
+
+120
+
+140
+
+160
+
+180
+
+200
+Billions of dollars
+
+2005 2006 2007 2008 2009 2010 2011 2012
+
+H1
+Q3
+
+Q4
+Annual rate
+
+Covenant-Lite Loan Issuance
+
+   Source: Thomson Reuters LPC LoanConnector.
+
+ 0
+
+ 5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+Billions of dollars
+
+2005 2006 2007 2008 2009 2010 2011 2012
+
+Dividend Recapitalization Loan Issuance
+
+   Source: Thomson Reuters LPC LoanConnector.
+
+Annual rate
+
+ 0
+
+ 2
+
+ 4
+
+ 6
+
+ 8
+
+10
+Multiple
+
+1998  2000  2002  2004  2006  2008  2010  2012
+
+  First lien/EBITDA
+  Second lien/EBITDA
+  Other senior debt/EBITDA
+  Subordinated debt/EBITDA
+
+H1
+
+Q3
+Q4
+
+Average Debt Multiples of Large Corporate LBO Loans
+
+   Source: S&P Capital IQ LCD.
+
+Exhibit 4
+
+          Note: S&P and its third-party information providers expressly disclaim the accuracy and completeness of the information provided to the Board, as well as any errors or omissions arising from the use of such
+          information. Further, the information provided herein does not constitute, and should not be used as, advice regarding the suitability of securities for investment purposes or any other type of investment advice.
+
+
+2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013
+  0
+
+100
+
+200
+
+300
+Billions of dollars
+
+Weekly
+
+Dealer Financing: Corporate Debt
+
+   Note: Dealer financing (securities in) in the Government Securities Dealers Reports (FR2004) terminology consists of dealer lending cash or other securities and receiving the reference securities. Data are
+through January 23, 2013.
+   Source: FR2004.
+
+Exhibit 5
+
+
+-10
+
+ -5
+
+  0
+
+  5
+
+ 10
+
+ 15
+
+ 20
+
+ 25
+
+ 30
+Billions of dollars  
+
+2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012
+
+  Positive flows (left scale)
+  Negative flows (left scale)
+
+  0
+
+ 50
+
+100
+
+150
+
+200
+
+250
+
+300
+
+350
+
+400
+Billions of dollars
+
+Total net assets (right scale)
+
+Inflows into High-Yield Mutual Funds
+
+Quarterly
+
+   Source: Morningstar.
+
+-2
+
+ 0
+
+ 2
+
+ 4
+
+ 6
+
+ 8
+Billions of dollars  
+
+2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012
+
+  Positive flows (left scale)
+  Negative flows (left scale)
+
+ 0
+
+ 8
+
+16
+
+24
+
+32
+
+40
+Billions of dollars
+
+Total net assets (right scale)
+
+Inflows into High-Yield ETFs
+
+Quarterly
+
+   Source: Morningstar.
+
+Exhibit 6
+
+
+2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012
+  0
+
+ 50
+
+100
+
+150
+
+200
+
+250
+
+300
+
+350
+
+400
+
+450
+Billions of dollars
+
+2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012
+  0
+
+ 50
+
+100
+
+150
+
+200
+
+250
+
+300
+
+350
+
+400
+
+450
+Billions of dollars
+
+Total Agency REIT Assets
+
+Quarterly
+
+   Note: Data are through 2012:Q3.
+   Source: Bloomberg.
+
+Exhibit 7
+
+
+  0
+
+ 10
+
+ 20
+
+ 30
+
+ 40
+
+ 50
+
+ 60
+
+ 70
+
+ 80
+
+ 90
+
+100
+Percentage of respondents
+
+  Providing pristine collateral:  Current activity
+  Providing pristine collateral:  Discussion of prospective transactions
+  
+  
+  Sourcing pristine collateral:  Current activity
+  Sourcing pristine collateral:  Discussion of prospective transactions
+  
+  
+
+                                Dealers                                                                 Hedge funds                                                           Trading REITs                                                      Mutual funds and ETFs
+
+  0
+
+ 10
+
+ 20
+
+ 30
+
+ 40
+
+ 50
+
+ 60
+
+ 70
+
+ 80
+
+ 90
+
+100
+Percentage of respondents
+
+                           Pension plans                                                                                              Insurance companies                                                                              Separately managed accounts
+                        and endowments
+
+Exhibit 8
+
+Collateral Transformation Transactions
+
+Source: Dec. 2012 Senior Credit Officer Opinion Survey on Dealer Financing Terms.
+

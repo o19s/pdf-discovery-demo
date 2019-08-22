@@ -1,0 +1,492 @@
+
+For release on delivery 
+1:30 p.m. EDT (12:30 p.m. CDT) 
+August 5, 2019 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Delivering Fast Payments for All 
+ 
+ 
+
+Remarks by 
+ 
+
+Lael Brainard 
+ 
+
+Member 
+ 
+
+Board of Governors of the Federal Reserve System 
+ 
+
+at a 
+ 
+
+Federal Reserve Bank of Kansas City Town Hall 
+ 
+
+Kansas City, Missouri 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+August 5, 2019
+
+
+
+It is a pleasure to be here in Kansas City with Federal Reserve Bank President Esther 
+
+George to talk about the future of America’s payment system.1    
+
+Our payment system is a vital part of America’s infrastructure that touches everyone. The 
+
+choices we make about our payment infrastructure today will affect all Americans many years 
+
+into the future. Today I am excited to announce the Federal Reserve will invest in a new service 
+
+to help ensure that real-time payments are available to everyone. The Federal Reserve will 
+
+develop the FedNow ServiceSM, a real-time payment and settlement service for the future.2 
+
+Everyone deserves the same ability to make and receive payments immediately and securely, and 
+
+every bank deserves the same opportunity to offer that service to its community. FedNow will 
+
+permit banks of every size in every community across the country to provide real-time payments 
+
+to their customers.  
+
+Today, whether you are relying on ACH, a debit card, or a check, it can take as much as a 
+
+few days to get access to your funds. With a Federal Reserve real-time retail payment 
+
+infrastructure, the funds would be available immediately—to pay utility bills or split the rent 
+
+with roommates, or for small business owners to pay their suppliers. Immediate access to funds 
+
+could be especially important for households on fixed incomes or living paycheck to paycheck, 
+
+when waiting days for the funds to be available to pay a bill can mean overdraft fees or late fees 
+
+that can compound. Similarly, getting immediate access to funds from a sale in order to pay for 
+
+                                                            
+1 I am grateful to Susan Foley and Anjana Ravi of the Federal Reserve Board for their assistance in preparing this 
+text. These remarks represent my own views, which do not necessarily represent those of the Federal Reserve Board 
+or the Federal Open Market Committee. 
+2 Federal Reserve Actions to Support Interbank Settlement of Faster Payments (August 5, 2019) 
+https://www.federalreserve.gov/newsevents/pressreleases/files/other20190805a1.pdf. 
+
+
+- 2 - 
+ 
+
+supplies can be a game changer for small businesses, potentially avoiding the need for costly 
+
+short-term financing.  
+
+Last November, we asked the public about possible actions the Federal Reserve could 
+
+take to support interbank settlement of faster payments.3 We received more than 350 comments 
+
+on a Federal Reserve faster payment service, representing nearly 800 organizations. Fully 90 
+
+percent of these comments called for the Federal Reserve to operate a real-time service for faster 
+
+payments. Support came from a wide range of stakeholders, including individuals, merchants, 
+
+fintech firms, and banks.4 Commenters noted that the Federal Reserve would ensure equitable 
+
+access to banks of all sizes nationwide by operating a real-time service for faster payments 
+
+alongside the private-sector system. Commenters highlighted the importance of safety in faster 
+
+payments and noted the Federal Reserve’s record of resiliency, especially during periods of 
+
+stress. Commenters observed that a Federal Reserve real-time retail payment service would 
+
+increase competition, decrease market concentration, and provide a neutral platform for 
+
+innovation.  
+
+This broad support echoes and expands on the conclusions of the Faster Payments Task 
+
+Force. Similarly, the U.S. Treasury Department recommended that “the Federal Reserve move 
+
+quickly to facilitate a faster retail payment system, such as through the development of a real-
+
+time settlement service that would also allow for more efficient and widespread access to 
+
+innovative payment capabilities.”5 
+
+                                                            
+3 Lael Brainard, “Supporting Fast Payments for All” (remarks at the Fed Payments Improvement Community 
+Forum, Chicago, October 3, 2018), https://www.federalreserve.gov/newsevents/speech/brainard20181003a.htm.  
+4 Potential Federal Reserve Actions to Support Interbank Settlement of Faster Payments, Request for Comments, 83 
+Fed. Reg. 57,351 (November 15, 2018), https://www.govinfo.gov/content/pkg/FR-2018-11-15/pdf/2018-24667.pdf. 
+5 Steven T. Mnuchin and Craig S. Phillips, A Financial System That Creates Economic Opportunity: Nonbank 
+Financials, Fintech, and Innovation (Washington: U.S. Department of the Treasury, July 2018), 156, 
+https://home.treasury.gov/sites/default/files/2018-07/A-Financial-System-that-Creates-Economic-Opportunities---
+Nonbank-Financi.pdf. 
+
+
+- 3 - 
+ 
+
+In determining the path forward, we are building on the Federal Reserve’s long history of 
+
+operating payment systems as a core part of the nation’s payment infrastructure. Since they 
+
+opened for business around the country in 1914, as directed by the Congress, the Federal Reserve 
+
+Banks have provided payment and settlement services—in healthy competition with private-
+
+sector providers—to achieve public benefits ranging from resiliency to innovation to equal 
+
+access. When you look across the current payment infrastructure, whether in check processing, 
+
+automated clearinghouse (ACH) services, or funds transfers, you will see a Federal Reserve 
+
+service operating alongside private-sector providers. The General Accountability Office has 
+
+concluded that the Federal Reserve’s provision of payment services has benefited the U.S. 
+
+payment system and its users.6  
+
+The Federal Reserve does not have regulatory authority over the pricing set by a private-
+
+sector system or to require a private-sector system to extend the service to banks of all sizes, 
+
+particularly the last mile. In some other countries, central banks have been assigned the 
+
+responsibility for regulating payment systems. However, this is not the approach that Congress 
+
+has taken. Instead, the Federal Reserve’s role as an operator has long been seen as an effective 
+
+approach to promote accessible, safe, and efficient payments in the United States.  
+
+Through the FedNow Service, we will provide a foundation for the future—a modern 
+
+payment infrastructure that allows innovation and competition to flourish and delivers faster 
+
+payments safely and securely for all. To ensure fast payments are available to everyone, FedNow 
+
+will be accessible to all banks, no matter the size. Given our long-standing service connections 
+
+                                                            
+6 See, e.g., U.S. Government Accountability Office, Federal Reserve’s Competition with Other Providers Benefits 
+Customers, but Additional Reviews Could Increase Assurance of Cost Accuracy, GAO-16-614 (Washington: 
+Government Accountability Office, August 2016), https://www.gao.gov/products/GAO-16-614. 
+
+
+- 4 - 
+ 
+
+with more than 10,000 banks across the country, the Federal Reserve is uniquely placed to 
+
+deliver this outcome.  
+
+The bar is high when we assess whether the Federal Reserve should provide a new 
+
+payment and settlement service, as it should be. We have carefully analyzed the criteria of the 
+
+Monetary Control Act and long-standing Federal Reserve policies, considered the comments 
+
+provided by a wide range of stakeholders, and studied the experiences of foreign central banks.7 
+
+We are not making this decision lightly. On balance, after carefully weighing important 
+
+considerations on both sides, we have concluded it is our responsibility to take action in support 
+
+of a real-time payment infrastructure accessible to all. While we will work hard to stand up the 
+
+FedNow Service in a timely manner, our most important goal is to achieve nationwide access for 
+
+all, reflecting our public mission. 
+
+Building a Modern Payment Infrastructure  
+
+A key foundation of the payment infrastructure is interbank clearing and settlement—the 
+
+movement of funds and the associated information between banks. Today, the U.S. retail 
+
+payment infrastructure lags behind many other countries. Europe, Mexico, and Australia have 
+
+already implemented real-time interbank clearing and settlement capabilities. In contrast, here in 
+
+the United States, the gap between the transaction capabilities in the digital economy and the 
+
+underlying payment and settlement capabilities continues to grow.8   
+
+Early adopters of fast payment services rely on a legacy infrastructure that was not 
+
+designed to support faster payments. For example, some services offer real-time funds 
+
+availability to certain consumers, but they conduct interbank settlement on a deferred basis using 
+
+                                                            
+7 Board of Governors of the Federal Reserve System, “The Federal Reserve in the Payments System” (Issued 1984; 
+revised 1990), https://www.federalreserve.gov/paymentsystems/pfs_frpaysys.htm. 
+8 FIS Global, “2018 Flavors of Fast,” https://www.fisglobal.com/flavors-of-fast.  
+
+
+- 5 - 
+ 
+
+legacy systems. This type of settlement entails a buildup of obligations—like IOUs between 
+
+banks—that could present real risks to the financial system in times of stress. These are not 
+
+resilient long-term solutions for our dynamic economy and the banks that support it.  
+
+We are seeing some companies looking to establish a payment system that bypasses our 
+
+banks and our currency. Facebook’s Libra project raises numerous concerns that will take time to 
+
+assess and address. But one thing is clear: consumers and businesses across the country want and 
+
+expect real-time payments, and the banks they trust should be able to provide this service 
+
+securely—whatever their size. To provide everyone with the ability to send and receive funds 
+
+securely on a 24x7x365 basis, banks need to embrace and invest in real-time innovations, and the 
+
+Federal Reserve needs to provide a safe and efficient real-time interbank clearing and settlement 
+
+service accessible to all banks. 
+
+We are proud of our strong record of cooperating with and supporting private-sector 
+
+services, while fostering competition for public benefit. We have provided vital support to the 
+
+sole private-sector provider of real-time settlement for faster payments, and we will continue to 
+
+do so. The Federal Reserve provided a joint account to enable the private-sector operator to offer 
+
+real-time payments. Moreover, today we are announcing our intent to explore the expansion of 
+
+Fedwire Funds Service and National Settlement Service operating hours to support the efficiency 
+
+of the joint account structure for the private-sector real-time gross settlement (RTGS) service and 
+
+provide broader benefits. That said, the joint account structure, with its requirement of 
+
+prefunding and settlement on a private ledger, is fundamentally different from the approach the 
+
+Federal Reserve will use to settle transactions directly between banks.  
+
+
+
+
+
+- 6 - 
+ 
+
+Fostering a Dynamic and Resilient Payment Infrastructure That Serves Everyone  
+
+The Federal Reserve is committed to fulfilling our public policy goals in a spirit of 
+
+cooperation and competitive fairness. We are pleased that the private-sector faster payment 
+
+service is in the market, and we see important benefits from the resilient and competitive market 
+
+that would result from the FedNow Service providing an alternative consistent with the 
+
+requirements of the Monetary Control Act. The requirement to consider the best way to make our 
+
+payment and settlement services accessible to banks across the country, along with long-standing 
+
+principles including cost recovery over the long run, guides our assessment of when the Federal 
+
+Reserve should engage in the payment system.9  In setting fees, the Federal Reserve is required 
+
+by statute to “give due regard to competitive factors and the provision of an adequate level of 
+
+such services nationwide.”10 I want to share with you some of the analysis—viewed through the 
+
+prism of our public policy goals of accessibility, safety, and efficiency—that we considered in 
+
+making today’s decision.  
+
+Accessibility means serving more than 10,000 banks of varying sizes and missions that 
+
+are in communities all around the country. It turns out no single private-sector provider of any 
+
+U.S. payment system has ever achieved nationwide reach on its own, whether it be checks, ACH, 
+
+cards, or wire transfers. Acting alone, a single private-sector RTGS service will face significant 
+
+challenges in establishing an accessible infrastructure for faster payments with nationwide reach. 
+
+In contrast, because of our experience with providing other services, the Federal Reserve already 
+
+                                                            
+9 Board of Governors of the Federal Reserve System, “Principles for the Pricing of Federal Reserve Bank Services” 
+(Issued 1980), https://www.federalreserve.gov/paymentsystems/pfs_principles.htm; and Board of Governors, “The 
+Federal Reserve in the Payments System.” 
+10 Depository Institutions Deregulation and Monetary Control Act of 1980, Pub. L. No. 96-221 (March 31, 1980), 
+https://fraser.stlouisfed.org/title/1032. 
+
+
+- 7 - 
+ 
+
+has invested in connections and customer service relationships with nearly every bank, small and 
+
+large, across the country.  
+
+Currently, we provide payment services to nearly all banks either directly or indirectly. 
+
+With our 12 regional Reserve Banks, we have the capacity to meet the needs of banks serving 
+
+different communities and with different needs and operating models. For that reason, 
+
+commenters stated that the Federal Reserve is uniquely positioned to offer nationwide access to a 
+
+new payment and settlement service for faster payments. FedNow will allow faster payments to 
+
+reach banks of all sizes and their customers across the country, which is especially important for 
+
+rural communities, who often struggle with access to financial services.  
+
+Guided by our public mission, the Federal Reserve serves the needs of all banks, no 
+
+matter how small or challenging to reach, and with competitive fairness. In response to our 
+
+request for feedback last November, several commenters emphasized how much they value the 
+
+Federal Reserve’s mission of providing nationwide access on fair, transparent terms and 
+
+expressed concern that a sole private-sector RTGS service provider may be less likely to exhibit 
+
+the same commitment over the long run.  
+
+Safety is also vital. If the Federal Reserve does not establish the FedNow Service, there 
+
+will be a single provider of real-time retail payment services. We are mindful of the serious 
+
+safety issues associated with a single point of failure, a risk that will rise as faster payments 
+
+grow. Stakeholders have noted the importance of having access to more than one real-time 
+
+payment service for back-up purposes in order to provide resiliency through redundancy. In fact, 
+
+many banks already take advantage of having connections to multiple operators today in check, 
+
+ACH, and wire services. The Federal Reserve has always had a vital role in promoting the safety 
+
+and stability of the U.S. payment system by providing liquidity and operational continuity 
+
+
+- 8 - 
+ 
+
+especially in times of stress. The FedNow Service would allow the Federal Reserve to extend 
+
+this role into the real-time retail payment market.    
+
+Finally, competition will promote efficiency and innovation. The U.S. real-time retail 
+
+payment infrastructure stands to gain from competition, including through higher service quality 
+
+and lower prices over the long run, which in turn should support wider adoption.  
+
+The FedNow Service will provide a neutral foundation for innovation and competition in 
+
+end-user faster payment services. In response to the request for feedback, merchants and fintech 
+
+companies commented that a Federal Reserve real-time retail payment service could broaden the 
+
+scope for innovation in faster payments. They noted that a single provider that is owned and 
+
+operated by one segment of the payment industry may focus on a narrow set of use cases that do 
+
+not reflect the full breadth of possible use cases for faster payments. Recognizing the vibrancy of 
+
+our payment industry, the addition of the FedNow Service could provide a springboard for 
+
+broader private-sector participation in the development of innovative end-user services. 
+
+Looking Forward  
+
+With the announcement of the Federal Reserve real-time payment service, we are 
+
+embracing a path that will bring transformative, rather than incremental, change to the retail 
+
+payment infrastructure in the United States. The FedNow Service will run continuously at all 
+
+times of the day, every day of the week, consistent with the needs of faster payments and will be 
+
+designed to process large volumes of payments rapidly.  
+
+In the months ahead, we intend to explore a variety of approaches to achieving a real-
+
+time retail payment infrastructure with nationwide reach. One such approach might be for 
+
+different payment services to interoperate by exchanging payments among the services directly.  
+
+Such interoperability is an important goal that we will pursue as standards, technology, and 
+
+
+- 9 - 
+ 
+
+industry practices change over time, although it is not yet clear whether it will be an initial 
+
+feature.  
+
+The Federal Reserve plans to devote the necessary resources to deliver the highest quality 
+
+FedNow Service in a timely manner. We are working to streamline our internal processes to 
+
+move quickly in the market. President George will play an integral role in this new process, and 
+
+the Conference of Reserve Bank Presidents has pledged its support.  
+
+It is important for the Federal Reserve, working with the payment industry, to act quickly 
+
+in finalizing the initial business requirements of the FedNow Service. We will need to hear the 
+
+views of payment system stakeholders on the features of the FedNow Service, as discussed in the 
+
+Federal Register notice announced today. We will engage with the industry through groups and 
+
+forums to finalize the design and features of the service. We hope that these conversations will 
+
+provide an opportunity for stakeholders to work together to shape the evolution of the U.S. 
+
+payment system.  
+
+Earlier this month, I joined my Reserve Bank colleagues for a visit with bankers and 
+
+community organizations in Scranton, Pennsylvania, to hear about the biggest challenges they 
+
+are facing. The head of a bank that has been serving the Scranton area for more than a century 
+
+told me that for his community bank to remain competitive in its payment offerings, it is vital to 
+
+be able to rely on the Federal Reserve for real-time payments just as he does for check, ACH, 
+
+and wire transfer. I appreciate the importance of community banks to the economic health of our 
+
+communities, and I recognize the role of the Federal Reserve in enabling community banks to 
+
+offer payment services on a competitive basis. I am confident that by working together with all 
+
+payment system stakeholders, we can collectively achieve widespread, safe, and efficient faster 
+
+payments that will benefit all.  
+

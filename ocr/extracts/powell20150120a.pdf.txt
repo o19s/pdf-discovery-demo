@@ -1,0 +1,313 @@
+
+For release on delivery 
+10:00 a.m. EST 
+January 20, 2015 
+ 
+
+
+“Comments on the Fair and Effective Markets Review” 
+ 
+ 
+ 
+
+Remarks by 
+ 
+
+Jerome H. Powell 
+ 
+
+Member 
+ 
+
+Board of Governors of the Federal Reserve System 
+ 
+
+at 
+ 
+
+“Making Markets Fair and Effective for All” 
+Sponsored by The Brookings Institution 
+
+ 
+Washington, D.C. 
+
+
+January 20, 2015 
+ 
+
+
+
+I want to thank the Brookings Institution for inviting me to comment today on 
+
+Martin Wheatley’s presentation on the Fair and Effective Markets Review (Review). 1 
+
+The Review is an ambitious and important initiative.  Although London is perhaps the 
+
+leading center for many fixed-income, currency, and commodities (FICC) markets, these 
+
+markets are global, and the United States and the largest U.S. firms play key roles in 
+
+them.  So the Review addresses issues that affect our markets as well.   
+
+The Review looks to identify further steps that should be taken to restore public 
+
+confidence in FICC markets in the wake of the depressingly numerous instances of 
+
+serious misconduct in these markets in recent years.  That misconduct has been, and will 
+
+continue to be, addressed through substantial fines and criminal prosecution of the firms 
+
+and individuals involved.  The Federal Reserve continues to take part in these 
+
+enforcement actions in cooperation with other U.S. agencies.    
+
+The design of the Review is not only to advance the enforcement process, but also 
+
+to look carefully at markets and firms and ask whether there are structural vulnerabilities 
+
+or incentives for bad conduct that have not been well addressed by reforms to date.  I will 
+
+offer comments on a few specific areas and discuss some of our parallel efforts here in 
+
+the United States.   
+
+First, as the Review notes, there is a perception that FICC markets and their 
+
+participants are highly sophisticated and do not need protection.  While that may be 
+
+generally true, the perspective is too narrow, because the importance of these markets 
+
+extends far beyond the largest participants in them.  The market mechanism allocates 
+
+credit and determines the borrowing costs of households, companies and governments.  
+
+1 The views expressed here are my own and are not necessarily shared by other members of the Federal 
+Reserve Board or the Federal Open Market Committee. 
+
+
+
+
+ - 2 - 
+
+Proper market functioning is really a public good that relies on confidence and trust 
+
+among market participants and the public.  Bad conduct, weak internal firm governance, 
+
+misaligned incentives, and flawed market structure can all place this trust at risk. 
+
+One of the ways we have to influence incentives is through compensation 
+
+practices at supervised institutions.  Many have argued that pre-crisis compensation 
+
+practices at the largest financial firms allowed or created misaligned incentives.  In 
+
+response, many firms have changed their compensation practices since the crisis to better 
+
+align incentives between individuals and firms, particularly through enhanced deferral of 
+
+incentive compensation, with delayed vesting and the possibility of more robust forfeiture 
+
+in a broader set of circumstances.  We have strongly encouraged these reforms in our 
+
+supervision of these institutions.  In my view, the reforms are both essential and generally 
+
+on target.  The U.S. financial regulators, including the Federal Reserve, are also preparing 
+
+for public comment a proposed new rule on incentive compensation that will codify and 
+
+strengthen these initiatives.  
+
+As the Review notes, greater transparency can also help curb market abuses and 
+
+strengthen competition.  In the United States, we have had over a decade of experience 
+
+with the Trade Reporting and Compliance Engine (TRACE) in over-the-counter 
+
+corporate bond, MBS and ABS markets.  The Municipal Securities Rulemaking Board 
+
+provides similar data for municipal bonds.  The Dodd-Frank Act also imposed rules 
+
+requiring greater transparency in over-the-counter derivatives markets through the use of 
+
+central clearing, trade repositories, and swap execution facilities.  Given the issues 
+
+around OTC derivatives during the recent crisis, these clearly are important initiatives.  
+
+But despite significant progress, there are still a number of impediments to sharing trade 
+
+
+ - 3 - 
+
+report data across regulatory agencies and jurisdictions, leaving us with only a piecemeal 
+
+picture of the overall market rather than the full transparency that we desire.  
+
+The issues around foreign exchange (FX) benchmarks serve to illustrate one of 
+
+the important challenges discussed in the Review--the difficulty of managing the 
+
+potential conflicts of interest associated with the traditional market-maker model.  In FX 
+
+markets, a wide range of end users seek to guarantee trade execution at the WM Reuters 
+
+fixing at 4:00 p.m. U.K. time each day.  This practice results in dealers having advance 
+
+information about flows, and at the same time places them at some risk, as they are 
+
+agreeing to execute these orders at an unknown future price.  This advance information 
+
+can create a perception that dealers are trading ahead of their clients, and it certainly 
+
+created incentives to attempt to influence the fixing price.  The recent Financial Stability 
+
+Board (FSB) report on foreign exchange benchmarks2 made a number of 
+
+recommendations designed to address these issues in this specific market, including use 
+
+of trading platforms to maximize the netting of fixing orders, encouraging dealers to 
+
+charge a transparent bid-asked spread or other fee to compensate them for the risk they 
+
+take, and strengthening dealers’ internal systems and controls to better manage potential 
+
+conflicts of interest.   
+
+Of course, similar challenges exist with market-making in other FICC markets.    
+
+Many firms have taken up these challenges with their own reforms, and their efforts serve 
+
+to emphasize how complicated these issues can be.  Dealers must communicate with 
+
+other firms, within their own firms and with their clients, and must execute their clients’ 
+
+2 http://www.financialstabilityboard.org/2014/09/r_140930/ 
+ 
+
+
+
+
+ - 4 - 
+
+trades.  The challenge is to identify and preserve the legitimate benefits of such 
+
+communication and trading while safeguarding against improper uses of information.    It 
+
+may be that these challenges can be addressed through coordinated private efforts; for 
+
+example, through such bodies as the Foreign Exchange Committee and the Treasury 
+
+Market Practices Group, sponsored by the Federal Reserve Bank of New York.  These 
+
+groups are actively working on industry best practices in their markets and have often 
+
+played a constructive role on market practices that enhance market functioning.  It may 
+
+also be that further supervisory or regulatory action is needed.   
+
+Turning to our work on interest rate benchmark reform, it is worth recalling that, 
+
+before the scandal broke, the London interbank offered rate (LIBOR) was not regulated.  
+
+U.K. authorities have now addressed this shortcoming by making both the submission 
+
+and administration of LIBOR regulated activities.  The process by which firms make their 
+
+LIBOR submissions is now subject to careful monitoring.  The new LIBOR 
+
+administrator, ICE Benchmark Administration, now regulated by the Financial Conduct 
+
+Authority, is evaluating changes to LIBOR so that it can be based as much as possible on 
+
+actual arm’s-length transactions from a broader base of funding transactions. 
+
+With surveillance and penalties in place, and a new administrator, one might be 
+
+excused for thinking that there is nothing more to be done.  In fact, some people do think 
+
+that.  That is emphatically not the view of the FSB Official Sector Steering Group that I 
+
+now co-chair with Martin, which concluded that it is essential to develop one or more risk 
+
+free (or near risk free) alternatives to LIBOR for use in financial contracts such as interest 
+
+rate derivatives.  The reasons are related to the structure of both LIBOR and the market 
+
+that underlies it.  Unsecured interbank borrowing has been in a secular decline for some 
+
+
+ - 5 - 
+
+time, and there is a scarcity, or outright absence in longer tenors, of actual transactions 
+
+that banks can use to estimate their daily submission to LIBOR or that can be used by 
+
+others to verify those submissions.   LIBOR is huge--there are roughly $300 trillion in 
+
+gross notional contracts that reference it--so the incentives to manipulate it still remain in 
+
+place.  And the structural problems go much further than the incentives for manipulation.  
+
+Markets need to be fair, effective, and also safe.  If the publication of LIBOR were to 
+
+become untenable because the number of transactions that underlie it declined further, 
+
+then untangling the outstanding LIBOR contracts would entail a legal mess that could 
+
+endanger our financial stability.   
+
+For these reasons, the Federal Reserve has convened a group of the largest global 
+
+dealers to form the Alternative Reference Rates Committee.  We have asked them to 
+
+work with us in promoting alternatives to U.S. dollar LIBOR that better reflect the 
+
+current structure of funding markets.  As the Review’s consultation document notes, 
+
+issues of this kind are really global in nature; U.S. dollar LIBOR contracts are traded 
+
+throughout the world, not simply in the United States. For this reason we are working in 
+
+close consultation with our foreign regulatory counterparts in this endeavor.  
+
+One of the reasons that I emphasize structural issues such as the market-maker 
+
+model or the secular decline in unsecured interbank borrowing is that FICC markets are 
+
+undergoing rapid changes that seem likely to have far-ranging consequences.  Issues that 
+
+a few years ago concerned equity markets now arise in FICC markets as well.  As the 
+
+consultation document notes, broker-dealers are curtailing some of their market-making 
+
+activities and their appetite for providing liquidity in response to regulatory changes and 
+
+their own assessment of the risks and returns of these activities.  At the same time, other 
+
+
+ - 6 - 
+
+players such as mutual funds, exchange traded funds, algorithmic and high-frequency 
+
+traders, and electronic exchanges are taking more prominent roles.  These changes will 
+
+affect market liquidity and functioning in ways that are difficult to foresee.  It is possible 
+
+that some of these factors played a role in the sharp swing in Treasury yields last October 
+
+15, and we are working with other regulators to understand exactly what happened that 
+
+day and to determine whether there are implications for regulatory or supervisory policy.   
+
+The Review raises the right questions in considering the troubling patterns of 
+
+market abuse, and also in considering the structural changes that we are now seeing.  It is 
+
+important that market participants, end users, and regulators collectively take a step back 
+
+and consider, as the Review invites us to do, whether the changing structure of FICC 
+
+markets will result in markets that are fair, effective, and safe.   
+
+
+
+

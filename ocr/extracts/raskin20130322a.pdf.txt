@@ -1,0 +1,772 @@
+
+ 
+For release on delivery  
+8:45 a.m. EDT  
+March 22, 2013  
+
+
+
+
+
+Focusing on Low- and Moderate-Income Working Americans 
+
+
+
+Remarks by 
+
+Sarah Bloom Raskin 
+
+Member 
+
+Board of Governors of the Federal Reserve System 
+
+at the 
+
+National Community Reinvestment Coalition Annual Conference 
+
+Washington, D.C. 
+
+
+
+March 22, 2013 
+
+
+I am delighted to be here at the National Community Reinvestment Coalition 
+
+(NCRC) Annual Conference today, and to be gathered with so many people who have 
+
+been working for decades to strengthen communities and the integrity of our nation’s 
+
+economic institutions and financial practices.  Those of you involved in community 
+
+development and community reinvestment know all too well the trauma and hardship 
+
+experienced by low-income communities over the last several years. You know it in a 
+
+way that is lost on people whose communities have not been so badly battered by these 
+
+economic storms.  That’s why I’m looking forward this morning to sharing with you my 
+
+perspective on the importance of focusing on the situation and prospects of low- and 
+
+moderate-income working Americans. 
+
+In my remarks, I will start by discussing the types of jobs being generated in the 
+
+current recovery.  Certainly, the pace of recovery in employment has improved, but it’s 
+
+important to look at the types of jobs that are being created because those jobs will 
+
+directly affect the fortunes and challenges of households and neighborhoods as well as 
+
+the course of the recovery.  I will then suggest that we think about how the absence of a 
+
+substantial number of new high-paying jobs, when combined with changes in the 
+
+landscape for financial services, affects access generally to affordable, sustainable credit.  
+
+Finally, I will explore some of the monetary, supervisory, and regulatory touchpoints in 
+
+which the situation and prospects of low- and moderate-income working Americans can 
+
+be addressed. 
+
+Challenges Posed by Labor Market Conditions  
+
+The Great Recession stands out for the magnitude of job losses we experienced 
+
+throughout the downturn.  These factors have hit low- and moderate-income Americans 
+
+
+ - 2 -
+
+the hardest.  The poverty rate has risen sharply since the onset of the recession, after a 
+
+decade of relative stability, and it now stands at 15 percent--significantly higher than the 
+
+average over the past three decades.1  And those who are fortunate enough to have held 
+
+onto their jobs have seen their hourly compensation barely keep pace with the cost of 
+
+living over the past three years.2    
+
+ While today’s 7.7 percent unemployment rate is a marked improvement from the 
+
+10 percent rate we reached in late 2009, it is still higher than the unemployment rate for 
+
+the 24 years before the Great Recession, a span of time over which the rate averaged 
+
+about 6 percent.  Moreover, the government's current estimate of 12 million unemployed 
+
+does not include nearly a million discouraged workers who say they have given up 
+
+looking for work and 8 million people who say that they are working part time even 
+
+though they would prefer a full-time job.  A broader measure of underemployment that 
+
+includes these and other potential workers stands at 14.3 percent.  
+
+About two-thirds of all job losses resulting from the recession were in moderate-
+
+wage occupations, such as manufacturing, skilled construction, and office administration 
+
+jobs.  However, these occupations have accounted for less than one-quarter of subsequent 
+
+job gains.  The declines in lower-wage occupations--such as retail sales and food service-
+
+-accounted for about one-fifth of job loss, but a bit more than one-half of subsequent job 
+
+gains.  Indeed, recent job gains have been largely concentrated in lower-wage 
+
+                                                       
+1 Mean annual poverty rate for all people. U.S. Bureau of the Census. 
+2 These dynamics have disproportionately hurt the young, the less-educated, and racial and ethnic minorities. The 
+unemployment rate for those without a high school diploma is 11.2 percent.  Among workers age 16 to 19, the 
+unemployment rate is 25.1 percent.  Compared with the 7.7 percent unemployment rate for all workers, the 
+unemployment rate among African Americans is 13.8 percent, and 9.6 percent among Latinos.  
+
+
+ - 3 -
+
+occupations such as retail sales, food preparation, manual labor, home health care, and 
+
+customer service.3   
+
+Furthermore, wage growth has remained more muted than is typical during an 
+
+economic recovery.  To some extent, the rebound is being driven by the low-paying 
+
+nature of the jobs that have been created.  The slow rebound also reflects the severe 
+
+nature of the crisis, as the slow wage growth especially affects those workers who have 
+
+become recently re-employed following long spells of unemployment.  In fact, while 
+
+average wages have continued to increase steadily for persons who have remained 
+
+employed all along, the average wage for new hires have actually declined since 2010.4   
+
+ The faces of low-wage Americans are diverse.  They include people of varying 
+
+employment status, race, gender, immigration status, and other characteristics.  Many 
+
+such Americans are attached to the workforce and are deeply committed to both personal 
+
+success and to making a contribution to society.  For purposes of reference, in 2011, low 
+
+wage was defined as $23,005 per year or $11.06 per hour.5   
+
+Today, about one-quarter of all workers are considered “low wage.” They are 
+
+sanitation workers, office receptionists, and nursing assistants; they are single mothers of 
+
+three who worry: How will I be able to send my children to college? What if my landlord 
+
+raises the rent this year?  Tens of millions of Americans are the people who ask 
+
+themselves these questions every day.   
+
+                                                       
+3 See National Employment Law Project (2012), “The Low-Wage Recovery and Growing Inequality,” Data Brief, 
+August,  www.nelp.org/page/-/Job_Creation/LowWageRecovery2012.pdf?nocdn=1.  These patterns were also 
+observed during the recessions of the early 1990s and early 2000’s—the so-called “jobless recoveries”—but not prior 
+to then. 
+4 On average, a person’s income remains depressed for decades following job loss, and income losses over one’s 
+working life are especially severe when the job loss occurs during a recession. See Steven J. Davis and Till von 
+Wachter (2011), “Recession and the Costs of Job Loss,” Brookings Papers on Economic Activity, September 12,  
+www.brookings.edu/~/media/research/files/blogs/2011/11/04%20jobs%20greenstone%20looney/2011_fall_bpea_confe
+rence_davis.pdf. 
+5 See Rebecca Thiess (2012).  “The Future of Work: Trends and Challenges for Low-Wage Workers,” EPI Briefing 
+Paper, April 27, www.epi.org/files/2012/bp341-future-of-work.pdf.  
+
+
+ - 4 -
+
+This diverse group of workers faces numerous barriers when trying to access the 
+
+labor market or advance in their current positions.  Many of these barriers were identified 
+
+in an initiative that the Federal Reserve’s Community Development function launched in 
+
+2011.  Over the course of a year, Reserve Banks across the country hosted a series of 32 
+
+regional discussions aimed at examining the complex factors creating chronic 
+
+unemployment conditions and identifying promising workforce development solutions.6  
+
+The kinds of problems faced by low-wage workers are familiar to all of you and have 
+
+long been part of the structural conditions of poverty and near-poverty in America. 
+
+  We know, for example, that location presents thorny challenges for many low-
+
+wage workers.  Within metropolitan areas, jobs are not spread out evenly and job creation 
+
+tends to be depressed in low-income communities.  As a result, many low-wage workers 
+
+face long commutes and serious commuting difficulties due to less reliable transportation 
+
+and an inadequate transportation infrastructure.  Moreover, a number of low-wage 
+
+employees work non-standard hours, exacerbating both transportation and childcare 
+
+issues, as well as personal health problems.7   
+
+Traditionally, many workers find jobs through social networks and through 
+
+personal connections that they have to the labor market.  But, because low-income 
+
+individuals are typically less mobile, more isolated, and less socially connected than other 
+
+people, they are often left out of the social networks that, in practice, lead to jobs for most 
+
+Americans.   
+
+
+                                                       
+6 See Board of Governors of the Federal Reserve System (2012), “A Perspective from Main Street: Long-Term 
+Unemployment and Workforce Development,” December, 
+www.federalreserve.gov/communitydev/pdfs/Workforce_errata_final2.pdf.  
+7  Ibid.  
+
+
+ - 5 -
+
+Addressing These Challenges 
+
+Among those responding to these challenges are innovative local practitioners 
+
+who are implementing programs designed to expand job opportunities for low-wage 
+
+workers.  Consider Impact Services in Philadelphia, an organization that builds 
+
+relationships with the local business community to better understand their hiring needs 
+
+and then devises programs that supply those firms with appropriately skilled workers 
+
+from the community.8   The National Fund for Workforce Solutions is another example.  
+
+This organization works with local communities to organize funding collaboratives to 
+
+support regional industries.9  
+
+More Recent Challenges for Low-Wage Workers 
+
+So progress is being made, thanks to coalitions like these across the country that 
+
+are working for practical changes at the community level.  But the 21st century labor 
+
+market is increasingly complex; it continues to generate new challenges. For example, 
+
+growth in sectors such as green industries and advanced manufacturing is creating jobs, 
+
+but these jobs may demand different skills.  Access to reliable information becomes 
+
+critical for workers who are considering a new job, and must carefully weigh the skills 
+
+and credentials required by potential employers with the cost of training and the 
+
+likelihood of gaining employment.  
+
+ And, more and more, employers are requiring post-secondary credentials.  
+
+Today, a high school diploma alone is less likely to qualify an individual for a job with a 
+
+                                                       
+8 For more information about Impact Services Corporation, go to www.impactservices.org/employment-and-training.   
+9 One of the National Fund’s collaboratives is the Southwest Alabama Workforce Development Council (SAWDC).  
+This collaborative is working to address a local skills gap by creating a comprehensive workforce development system 
+for the region.  This system includes formal feedback from the business community to the educational system about 
+skills that are in high demand.  Educators then develop a curriculum that prepares students to access the local job 
+market.  During the National Fund’s first five years of existence, it worked with more than 3,000 employers to serve 
+more than 42,000 job seekers and workers across 32 communities. For more information about the National Fund for 
+Workforce Solutions, go to www.nfwsolutions.org. 
+
+
+ - 6 -
+
+path toward meaningful advancement.  And, as demand for more credentials increases, 
+
+workers who lack those credentials will find it increasingly difficult to gain upward 
+
+mobility in the job market.  
+
+Contingent Work 
+
+Many employers are looking to make the employment relationship more flexible, 
+
+and so are increasingly relying on part-time work and a variety of arrangements popularly 
+
+known as "contingent work."  This trend toward a more flexible workforce will likely 
+
+continue.  For example, while temporary work accounted for 10 percent of job losses 
+
+during the recession, these jobs have accounted for more than 25 percent of net 
+
+employment gains since the recession ended.10 In fact, temporary help is rapidly 
+
+approaching a new record, and businesses’ use of staffing services continues to 
+
+increase.11 
+
+Contingent employment is arguably a sensible response to today's competitive 
+
+marketplace.  Contingent arrangements allow firms to maximize workforce flexibility in 
+
+the face of seasonal and cyclical forces.  The flexibility may be beneficial for workers 
+
+who want or need time to address their family needs.  However, workers in these jobs 
+
+often receive less pay and fewer benefits than traditional full-time or "permanent" 
+
+                                                       
+10 See P. Steven Berchem (2012), “Structural Shift?” Staffing Success. American Staffing 
+Association,www.americanstaffing.net/statistics/pdf/AmericanStaffingAnnualAnalysis_2012.pdf. 
+This article cites U.S. Department of Labor, Bureau of Labor Statistics (2012), “Employment, Hours, and Earnings 
+From the Current Employment Statistics Survey (National),” August 4. 
+11 In a 2011 McKinsey Global Institute U.S. Jobs Survey of 2,000 employers of all sizes and in all sectors, 34 percent 
+of employers indicated that they expect their companies to increase temporary and contract workers over the next five 
+years.  See James Manyika, Susan Lund, Byron Auguste, Lenny Mendonca, Tim Welsh, and Sreenivas Ramaswamy 
+(2011), “An Economy That Works: Job Creation and America’s Future,” McKinsey Global Institute, June, 
+www.mckinsey.com/insights/employment_and_growth/an_economy_that_works_for_us_job_creation. 
+
+
+ - 7 -
+
+workers, are much less likely to benefit from the protections of labor and employment 
+
+laws, and often have no real pathway to upward mobility in the workplace.12   
+
+Many workers who hold contingent positions do so involuntarily.   Department of 
+
+Labor statistics tell us that 8 million Americans say they are working part-time jobs but 
+
+would like full-time jobs.13  These are the people in our communities who are “part time 
+
+by necessity.”  As businesses increase their reliance on independent contractors and part-
+
+time, temporary, and seasonal positions, workers today bear far more of the responsibility 
+
+and risk for managing their careers and financial security.  Indeed, the expansion of 
+
+contingent work has contributed to the increasing gap between high- and low-wage 
+
+workers and to the increasing sense of insecurity among workers.14 
+
+Flexible and part-time arrangements can present great opportunities to some 
+
+workers, but the substantial increase in part-time workers does raise a number of 
+
+concerns.  Part-time workers are particularly vulnerable to personal shocks due to lower 
+
+levels of compensation, the absence of meaningful benefits, and even a lack of paid sick 
+
+or personal days.   Not surprisingly, turnover is high in these part-time jobs.    
+
+Access to Credit 
+
+The economic marginalization that comes with the growth of part-time and low-
+
+paying jobs is exacerbated by inadequate access to credit for many working Americans.  
+
+Ideally, people chronically short of cash would have access to safe and sound financial 
+
+institutions that could provide reliable and affordable access to credit as well as good 
+
+savings plans.  Unfortunately, many working Americans have no practical access to 
+
+                                                       
+12 See U.S. Department of Labor and U.S. Department of Commerce (1994), “Section Five: Contingent Workers,” in 
+the final report of the Dunlop Commission on the Future of Worker-Management Relations, 
+www.dol.gov/_sec/media/reports/dunlop/section5.htm. 
+13 See U.S. Department of Labor, Bureau of Labor Statistics 
+14 See U.S. Department of Labor and U.S. Department of Commerce (1994).  
+
+
+ - 8 -
+
+reasonably priced financial products with safe features, much less the kind of safe and 
+
+fair credit that is available to wealthier consumers.  
+
+Working Americans have several core financial needs.  They need a safe, 
+
+accessible, and affordable method to deposit or cash checks, receive deposits, pay bills, 
+
+and accrue savings.  They may also need access to credit to tide them over until their next 
+
+cash infusion arrives.  They may be coming up short on paying their rent, their mortgage, 
+
+an emergency medical expense, or an unexpected car repair.  They may want access to a 
+
+savings vehicle that, down the road, will help them pay for these items and for education 
+
+or further training, or start a business.  And many want some form of non-cash payment 
+
+method to conduct transactions that are difficult or impossible to conduct using cash.   
+
+Products and services that serve these core financial needs are not consistently 
+
+available at competitive rates to working Americans.  Those with low and moderate 
+
+incomes may have insufficient income or assets to meet the relatively high requirements 
+
+needed to establish a credit history.  Others may have problems in their credit history that 
+
+inhibit their ability to borrow on competitive terms.   
+
+Many workers simply may not have banks in their communities, or may not have 
+
+access to banks that actually compete with each other in terms of pricing or customer 
+
+service.  There is a growing trend toward greater concentration of financial assets at 
+
+fewer banks. In my mind, this raises doubts about whether banking services will continue 
+
+to be provided at competitive rates to all income levels of customers wherever they may 
+
+live. 
+
+According to a study of bank branch locations published by NCRC in 2007, there 
+
+are more persons per branch in low- and moderate-income census tracts than in 
+
+
+ - 9 -
+
+moderate- and upper-income census tracts.  While branch-building has been on the rise, 
+
+indications are that the increase in the number of bank offices has not occurred evenly 
+
+across neighborhoods of varying income.15 
+
+  In fact, a significant number of low- and moderate-income families have 
+
+become--or are at risk of becoming--financially marginalized.  The percentage of families 
+
+earning $15,000 per year or less who reported that they have no bank account increased 
+
+between 2007 and 2009 such that more than one in four families was unbanked.   
+
+Families slightly further up the income distribution, earning between $25,000 and 
+
+$30,000 per year, are also financially marginalized: 13 percent report being unbanked and 
+
+almost 24 percent report being underbanked.16  
+
+This combination of economic insecurity and financial marginalization has 
+
+incentivized more low- and moderate-income families to seek out alternative financial 
+
+service providers to meet their financial needs.  Some of the providers they find, such as 
+
+check-cashers and outfits furnishing advance loans on paychecks, can lead unwary 
+
+workers into very deep financial holes.    
+
+  In light of these challenges, I ask questions that have been asked before:  What 
+
+can economic policy do to reduce unemployment, economic marginalization, and the 
+
+financial vulnerability of millions of lower-income working Americans?  There is no 
+
+simple cure to these conditions, but government policymakers need to focus seriously on 
+
+                                                       
+15 See National Community Reinvestment Coalition (2007), “Are Banks on the Map? An Analysis of Bank Branch 
+Location in Working Class and Minority Neighborhoods,” March,  
+www.ncrc.org/images/stories/mediaCenter_reports/ncrc bank branch study.pdf. 
+16 See Federal Deposit Insurance Corporation (2012), “2011 FDIC National Survey of Unbanked and Underbanked 
+Households,” September, www.fdic.gov/householdsurvey; and Brian K. Bucks, Arthur B. Kennickell, Traci L. Mach, 
+and Kevin B. Moore (2009), “Changes in U.S. Family Finances from 2004 to 2007: Evidence from the Survey of 
+Consumer Finances,” Federal Reserve Bulletin, v. 95 (February), pp. A1–A55, 
+www.federalreserve.gov/pubs/bulletin/2009/pdf/scf09.pdf. 
+ 
+
+
+ - 10 -
+
+the problems, not simply because of notions of fairness and justice, but because the 
+
+economy’s ability to produce a stable quality of living for millions of people is at stake.  
+
+Our country cannot achieve prosperity without addressing the powerful undertow created 
+
+by flat wages and tenuous financial security for so many millions of Americans. 
+
+The Role of Monetary Policy 
+
+So how can the Federal Reserve address these challenges?  Let me start with 
+
+monetary policy.  Congress has directed the Federal Reserve to use monetary policy to 
+
+promote maximum employment and price stability.  The Federal Reserve’s primary 
+
+monetary policy tool is its ability to influence the level of interest rates.  Federal Reserve 
+
+policymakers pushed short-term interest rates down nearly to zero as the financial crisis 
+
+spread and the recession worsened in 2007 and 2008.  By late 2008, it was clear that still 
+
+more policy stimulus was necessary to turn the recession around.  The Federal Reserve 
+
+could not push short-term interest rates down further, but it could--and did--use the 
+
+unconventional policy tools to bring longer-term interest rates such as mortgage rates 
+
+down further.   
+
+Fed policymakers intend to keep interest rates low for a considerable time to 
+
+promote a stronger economic recovery, a substantial improvement in labor market 
+
+conditions, and greater progress toward maximum employment in a context of price 
+
+stability.  Both anecdotal evidence and a wide range of economic indicators show that 
+
+these attempts are working to strengthen the recovery and that the labor market is 
+
+improving.   
+
+Nonetheless, and again, the millions of people who would prefer to work full time 
+
+can find only part-time work.  While the Federal Reserve’s monetary policy tools can be 
+
+
+ - 11 -
+
+effective in promoting stronger economic recovery and job gains, they have little effect 
+
+on the types of jobs that are created, particularly over the longer term.  So, while 
+
+monetary policy can help, it does not address all of the challenges that low- and 
+
+moderate-income workers are confronting.  That said, the existing mandate regarding 
+
+maximum employment requires policymakers on the Federal Open Market Committee 
+
+(FOMC) to understand labor market dynamics, which obviously must include an 
+
+understanding of low- and moderate-income workers. 
+
+Regulatory and Supervisory Touchpoints 
+
+In addition to monetary policy, the Federal Reserve's regulatory and supervisory 
+
+policies have the potential to address some of the challenges faced by low-income 
+
+communities and consumers.  The Federal Reserve is required by law--by virtue of the 
+
+Bank Holding Company Act--to approve various applications, such as mergers, 
+
+acquisitions, and proposals to conduct new activities.  This statutory review requires an 
+
+explicit consideration of public benefits and the effects of the proposed transaction on the 
+
+convenience and needs of the communities to be served.  This assessment is, as many of 
+
+you know, a critical opportunity for community input and analysis. 
+
+Indeed, as people with their feet firmly planted on the ground in communities 
+
+across America, you probably remember James Q. Wilson’s theory of “broken windows” 
+
+in community policing:  Move in quickly when vandalism and disorder first start to 
+
+appear--even if it is only a broken window or graffiti on a stop sign--or else face losing 
+
+the whole neighborhood as disrespect for the law rapidly spreads.17  
+
+                                                       
+17 See George L. Kelling and James Q. Wilson (1982), “Broken Windows: The police and neighborhood safety”, The 
+Atlantic, March 1, www.theatlantic.com/magazine/archive/1982/03/broken-windows/304465. 
+
+
+ - 12 -
+
+The “broken windows” strategy is every bit as compelling when it comes to 
+
+addressing the disorder that comes from sloppy practices by financial institutions.  If 
+
+banking practices are undermining the ability of the economically marginalized to 
+
+become financially included and to access the credit they need in an affordable way, 
+
+regulators must move in quickly to stop the disorder and repair the broken windows of 
+
+financial intermediation.    
+
+Bank supervisors should be prepared to respond to the earliest signs of trouble by 
+
+requiring operationally challenged banks to address problems quickly and completely.   If 
+
+corrections are made, then the regulators can move on.  If not, then the regulators need to 
+
+escalate enforcement. 
+
+Swift and decisive corrective action is not always how federal bank regulators 
+
+have responded to broken windows in the past.   In my view, for example, regulators’ 
+
+response to the rampant, long-running problems in loan-servicing practices at large 
+
+financial institutions was not swift and was not decisive.  The point is that federal 
+
+regulators must listen carefully to community input and analysis in order to keep track of 
+
+where windows are breaking and how they are being broken.  And they must carefully 
+
+study and take responsibility for analyzing comments provided by organizations such as 
+
+the NCRC when considering the public benefit of an application.  Both the exam process 
+
+and the application process must be strengthened as key venues for federal regulators to 
+
+incorporate the voices of affected communities; I'd like to see us revise and strengthen 
+
+these processes to include the analysis in these voices.   
+
+
+
+
+
+ - 13 -
+
+The Role of Business 
+
+Now let’s shift back to the private sector. In particular, to the question of whether 
+
+businesses can be competitive in the current marketplace and still provide a pathway out 
+
+of poverty for their employees.  The Hitachi Foundation recently set out to answer this 
+
+question by identifying firms that provided upward job mobility for their employees.  
+
+They found that the identified employers showed noteworthy consistency in how they 
+
+train and educate workers, develop career ladders, and craft supportive human resources 
+
+policies and other motivators.  They also found some evidence to indicate that the 
+
+companies benefited from strategic and financial returns while their lower-wage workers 
+
+also benefited from increased earnings and career advancement.18,19 
+
+“Anchor institutions,” such as hospitals and universities, which are firmly rooted 
+
+in their locales, can also be powerful engines for job creation in their communities. 
+
+Anchors may include cultural institutions, health care facilities, community foundations, 
+
+faith-based institutions, public utilities, and municipal governments.  These institutions 
+
+have the potential to generate local jobs through targeted procurement purchases of food, 
+
+                                                       
+18 For  more information about The Hitachi Foundation, go to www.hitachifoundation.org/index.php. 
+19 While the common perception may be that businesses do not invest in employee training, a survey by the American 
+Society for Training and Development indicated that employers committed $172 billion in 2011 to employee training.  
+See American Society for Training and Development (2011), “2011 State of the Industry Report Shows Increased 
+Spending, Commitment for L&D,” December 20, www.astd.org/Publications/Blogs/ASTD-Blog/2011/12/2011-State-
+of-the-Industry-report-Shows-Increased-Spending-Commitment-for-LD. This investment, however, traditionally funds 
+the highest-educated and highest-paid employees. The Hitachi Foundation has suggested that considering a reallocation 
+of even a small portion of these funds toward frontline workers would offer benefits to both employers and employees.  
+As an example of these employer practices, right here in our backyard, the Community Foundation for the National 
+Capital Region piloted the “Career Navigators” program with three hospitals in Maryland’s Montgomery County and 
+one in the District of Columbia to help employees navigate a pathway to better jobs with their current employer.  These 
+hospitals concluded that investing in training and education for top-performing, entry-level staffers in positions such as 
+housekeeping, food service, and patient transport could provide a pipeline for the skilled employees that the hospitals 
+would rely upon in the future.  Employees receive support with literacy and college-readiness training, career coaching, 
+and scholarships.  The program also helps hospitals document internal career pathways and train the human resource 
+staff to serve as career coaches.  Throughout these efforts, the participating hospitals have reported enhanced employee 
+engagement, reduced errors, and improved performance. 
+
+
+ - 14 -
+
+energy, supplies, and services from local businesses. This can be a substantial, positive 
+
+development in the local economy. 20 
+
+The Evergreen Cooperative in Cleveland, Ohio, is an example of a network of 
+
+worker-owned businesses, launched in low-income neighborhoods, to support local 
+
+anchor institutions.  The cooperatives were initially established to provide services to 
+
+local hospitals and universities that had agreed to make their purchases locally.  This 
+
+model is effective because it capitalizes on local production, and because it forges a local 
+
+business development strategy that effectively meets many of the anchor institutions’ 
+
+own needs.21 
+
+Role for Community-Based Organizations 
+
+Clearly, the challenges facing low-wage workers are multi-faceted and complex.  
+
+In addition to the challenges that workforce development and community organizations 
+
+have addressed for years, structural changes in the economy heighten obstacles, make the 
+
+stakes higher if we fail to conquer them, and, therefore, require new levels of openness 
+
+and creativity by policymakers.  You are the ideal audience for this message because you 
+
+know how to link federal policymaking with economic empowerment. 
+
+NCRC has grown to an association of more than 600 community-based 
+
+organizations that promote access to basic banking services to create and sustain 
+
+affordable housing, jobs, and vibrant communities for America's working families.  
+
+Community-based organizations like many of those represented in this room will need to 
+
+                                                       
+20 See Ted Howard (2012), “Owning Your Own Job Is Beautiful Thing:  Community Wealth Building in Cleveland, 
+Ohio,” in Nancy O. Andrews and David J. Erickson, eds., Investing in What Works for America’s Communities (San 
+Francisco: Federal Reserve Bank of San Francisco and Low Income Investment Fund), 
+www.frbsf.org/publications/community/investing-in-what-works/howard.pdf.  See also Gar Alperovitz (forthcoming 
+April 2013, Chelsea Green), What Then Must We Do? 
+21 The success of the “Cleveland model” has spurred new efforts in places as diverse as Amarillo, Texas; Atlanta; 
+Pittsburgh; Richmond, California; and Washington, D.C.  See Ted Howard (2012). 
+
+
+ - 15 -
+
+consider how to work with low-wage workers to bridge information gaps by expanding 
+
+workers’ networks, providing legitimate information, and identifying new job 
+
+opportunities.    
+
+But finally, the pressure that community-based organizations exert on financial 
+
+regulators must continue.  Access to credit is an enduring challenge, and the obstacles 
+
+and problems--all the “broken windows” you see on the block--must be reported and 
+
+explained.  They must be understood by the federal policymakers who are responsible for 
+
+enforcing our country’s laws and regulations in the realm of access to credit; by the 
+
+federal policymakers who engage in the conduct of monetary policy; and by the federal 
+
+policymakers whose actions contribute to the shaping of the landscape for financial 
+
+services in this country.  Your voices--whether you are reporting, documenting, 
+
+monitoring, analyzing, proposing, or even protesting--must be heard. Your voices are 
+
+crucial to alerting policymakers to the significant developments and emerging trends in 
+
+the nation’s communities that must be confronted--and confronted in a swift and decisive 
+
+way--if we are to make prosperity a national agenda that touches every American.    
+
+Thank you. 
+
+
+

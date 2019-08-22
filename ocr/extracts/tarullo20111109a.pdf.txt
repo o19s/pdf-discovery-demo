@@ -1,0 +1,741 @@
+
+For release on delivery 
+12:15 p.m. EST 
+November 9, 2011 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The Evolution of Capital Regulation 
+
+
+
+
+
+Remarks by 
+
+Daniel K. Tarullo 
+
+Member 
+
+Board of Governors of the Federal Reserve System 
+
+to the 
+
+Clearing House Business Meeting and Conference 
+
+
+New York, N.Y. 
+
+November 9, 2011 
+
+ 
+
+
+A little over three years ago, Lehman Brothers ignited the dry tinder of a badly 
+
+overleveraged financial system that was too dependent on continuous, significant increases in 
+
+housing prices and too opaque for supervisors, investors, analysts, and often participants 
+
+themselves to understand.  As one would expect of a truly systemic crisis, there were many 
+
+contributing factors--the prevailing statutory framework for financial regulation, supervisory 
+
+practices, and the risk-management practices of financial actors.  And, as one would thus expect, 
+
+the reform agenda has itself also been multi-dimensional.   
+
+For all the regulatory changes that are in place, in process, or under consideration, 
+
+however, I believe that capital regulation remains the single most important element of 
+
+prudential financial regulation.  Let me immediately elaborate upon that statement in two ways.  
+
+First, capital regulation itself must be multi-dimensional and rigorous in each of its components.  
+
+Second, while strong capital regulation is necessary for a sound financial system, it is not, on its 
+
+own, sufficient.  In my remarks this afternoon, I will concentrate on the first of these points and 
+
+discuss how capital regulation reform is evolving in the wake of the crisis. 
+
+Evolution and Shortcomings of Capital Regulation 
+
+Although they had long used bank capital ratios as a supervisory instrument, U.S. bank 
+
+regulators did not impose explicit minimum capital requirements until the 1980s.  The proximate 
+
+reason for this change was regulatory concern over the decline in capital ratios of the largest 
+
+banks--a concern reinforced by Congress, as it saw some of those large banks facing enormous 
+
+losses on their loans to foreign sovereigns.  Within a few years this U.S. regulatory innovation 
+
+was effectively internationalized by the original Basel Accord.  
+
+At the same time, regulators came to regard capital requirements as a supple prudential 
+
+tool.  As activity and affiliation restrictions were loosened in the United States, capital 
+
+
+- 2 - 
+ 
+
+ 
+
+requirements seemed a promising way to protect the public's interest in the stability of financial 
+
+institutions that had access to the Federal Reserve's discount window and Federal Deposit 
+
+Insurance Corporation insurance.  Capital requirements promised to provide a buffer against 
+
+bank losses from any activities in which the bank or its affiliates might engage, a consideration 
+
+of equal or greater relevance in countries with universal banking models.  Some support also 
+
+developed for the proposition that minimum capital levels could, by maintaining a material 
+
+equity value for the bank, serve as a disincentive for excessive risk-taking by management and 
+
+shareholders.  
+
+In the ensuing quarter century, banking regulators around the world focused considerable 
+
+attention toward elaborating capital requirements to reflect more precisely the particular risks 
+
+faced by a financial institution.  Capital requirements had, to a considerable extent, become the 
+
+dominant prudential regulatory tool.  
+
+The financial crisis showed that this concentrated, almost all-consuming regulatory focus 
+
+on refining bank capital requirements in Basel II had come at the expense of attention to other 
+
+risks in the financial system.  In particular, banking regulators failed to appreciate fully the 
+
+implications of the growth--in size, leverage, and maturity transformation levels--of the shadow 
+
+banking system for the balance sheets of commercial banks and for overall financial stability. 
+
+The crisis showed that liquidity problems can be an independent source of severe stress, perhaps 
+
+even for firms that might otherwise have remained solvent.   
+
+But it was also evident that the specifics of pre-crisis capital regulation fell far short of 
+
+what this prudential instrument can achieve.  The Basel I and Basel II capital requirements relied 
+
+almost exclusively on capital ratios that were essentially snapshots of balance sheets and thus all 
+
+too often a lagging indicator of a bank's condition.   Declines in asset values--particularly of non-
+
+
+- 3 - 
+ 
+
+ 
+
+traded assets--were often not reflected in capital calculations for some time.  Though already 
+
+well-known before the crisis, this phenomenon was particularly problematic as asset values 
+
+declined rapidly, causing both markets and supervisors alike to regard regulatory capital ratios as 
+
+providing only limited information about a firm's current financial condition.   
+
+In addition, minimum capital levels had simply been set too low, in general and with 
+
+respect to particular assets.  One of the most obvious examples was the capital requirement for 
+
+asset-backed securities in the trading books of banks.  The requirement was based on returns 
+
+over a 10-day holding period, used a one-year observation period that had been characterized by 
+
+unusually low price volatility, and did not adequately account for the credit risks inherent in 
+
+these traded instruments. 
+
+Furthermore, at least some of the instruments that qualified as "Tier 1 capital" for 
+
+regulatory purposes were not reliable buffers against losses, at least not on a going concern basis.  
+
+It is instructive that during the height of the crisis, counterparties and other market actors looked 
+
+almost exclusively to the amount of tangible common equity held by financial institutions in 
+
+evaluating the creditworthiness and overall stability of those institutions.  They essentially 
+
+ignored the Tier 1 and total risk-based capital ratios in regulatory requirements.  In the fall of 
+
+2008, there was widespread doubt in markets that the common equity of some of our largest 
+
+institutions was sufficient to withstand the losses that those firms appeared to be facing.  This 
+
+doubt made investors and counterparties increasingly reluctant to deal with those firms, 
+
+contributing to the severe liquidity strains that characterized financial markets at the time.  
+
+Finally, the crisis validated the concerns expressed by some academics and by policy 
+
+staff at the Bank for International Settlements that the effectiveness of capital regulation was 
+
+limited by its exclusively microprudential focus.  Capital requirements had been set with 
+
+
+- 4 - 
+ 
+
+ 
+
+reference solely to the balance sheet of a specific firm.  The risk weights assigned to the firm's 
+
+assets were calculated with reference to ordinary times, whether through a supervisory 
+
+determination or a combination of supervisory formulas and a firm's own modeling.  This 
+
+microprudential focus did not take into account the potential impact of a shock to the value of 
+
+widely-held assets--whether exogenous, caused by the distress sales of such assets by a large 
+
+firm suffering particularly severe problems, or, as in the financial crisis, a lethal interaction 
+
+between these two factors.   
+
+The limits of the microprudential approach were particularly evident with respect to very 
+
+large, interconnected firms.  There would be very substantial negative externalities associated 
+
+with the disorderly failure of any such firm, distinct from the costs incurred by the firm and its 
+
+stakeholders.  The failure of one large firm, especially in a period of stress, significantly 
+
+increases the chances that other financial firms will fail, for two reasons.  First, direct 
+
+counterparty impacts can lead to a classic domino effect.  Second, because losses in a tail event 
+
+are much more likely to be correlated for firms deeply engaged in trading, structured products, 
+
+and other capital market instruments, all such firms are vulnerable to accelerating losses as 
+
+troubled firms sell their assets into a declining market. 
+
+Reform of Capital Regulation in the Post-Crisis Period 
+
+It is obvious that the post-crisis regulatory system will not be as dependent on capital 
+
+requirements as the pre-crisis regime.  Dodd-Frank itself is testimony to this fact, as are a 
+
+number of changes already made by the bank regulatory agencies.  There is now increased 
+
+emphasis on market discipline, liquidity regulation, activities restrictions, and more effective 
+
+supervision, in addition to capital requirements.  Reforms for money market funds and the 
+
+triparty repo market, as well as more general attention to wholesale funding models for financial 
+
+
+- 5 - 
+ 
+
+ 
+
+intermediation, are still needed.  But the crisis reinforces the point that robust capital 
+
+requirements should continue to be a central component of the financial regulatory system.  The 
+
+U.S. banking agencies made reform of the capital regime a high priority.  
+
+In response to the shortcomings of the pre-crisis capital regulatory regime, there have 
+
+been three complementary threads of reform.  First is improvement of the traditional, individual-
+
+firm approach to capital regulation.  This strand mostly originates in the work of the Basel 
+
+Committee.  Basel 2.5 revised and strengthened the market risk requirements of Basel II.  Basel 
+
+III upgraded the quality and increased the quantity of minimum capital requirements, created a 
+
+capital conservation buffer, and introduced an international leverage ratio requirement.   
+
+Second is the introduction of a macroprudential component of capital regulation.  
+
+Although Basel III does contain a few features responsive to macroprudential concerns, it 
+
+remains principally microprudential.  This second thread is linked both to the requirement in 
+
+section 165 of the Dodd-Frank Act for enhanced risk-based capital standards for large bank 
+
+holding companies and to the Basel Committee's effort to develop a framework for the 
+
+assessment of a capital surcharge based on the global systemic importance of the largest, most 
+
+interconnected banking organizations. 
+
+Third is establishment of regular stress testing and capital planning.  These 
+
+complementary supervisory tools serve two related functions.  First, they make capital regulation 
+
+more forward-looking by subtracting losses in asset values and earnings estimated to be 
+
+sustained in an adverse macroeconomic scenario, in order to determine whether firms would 
+
+have enough capital to remain viable financial intermediaries.  Second, they contribute to the 
+
+macroprudential dimension of capital regulation by examining simultaneously the risks of all 
+
+large financial institutions in the face of the adverse scenario.  This reform thread is sourced in 
+
+
+- 6 - 
+ 
+
+ 
+
+the Dodd-Frank requirement for stress testing at large banks, but more generally in the Federal 
+
+Reserve's establishment of a formal annual capital planning requirement for these firms. 
+
+The development and implementation of these three threads of capital reform are at 
+
+different stages, so it may be useful to review where each stands.  As to the first--improving the 
+
+traditional, individual-firm approach to capital regulation--Basel 2.5 and Basel III are important 
+
+steps forward, both internationally and domestically.  In addition, the so-called “Collins 
+
+amendment” in Dodd-Frank requires that banking organizations maintain capital at levels no 
+
+lower than those set by “generally applicable” requirements, which include a standardized 
+
+approach to risk-weighting.  In practice, the Collins amendment provides a safeguard against 
+
+declines in minimum capital requirements in a capital regime based on internal modeling. 
+
+The Basel Committee completed work on Basel 2.5 and Basel III in 2009 and 2010, 
+
+respectively.  Implementation of these two frameworks into national legislation or regulations is 
+
+underway in the jurisdictions represented on the committee.1    
+
+Two issues concerning implementation in the United States bear mentioning.  First, while 
+
+U.S. bank regulatory agencies have published a proposed regulation for the new market risk 
+
+capital requirements, we did not include the trading book securitization and resecuritization 
+
+portions of Basel 2.5, which are supposed to take effect in 2011.  The complication here, and 
+
+with part of Basel III implementation, lies in the use of agency credit ratings.  Dodd-Frank 
+
+requires the removal of agency credit ratings from all regulations throughout the government.  
+
+Thus, the banking agencies have had to develop substitutes for agency ratings in each of the 
+
+quite different contexts in which they are used within the capital standards.  This has not been the 
+
+easiest of tasks, but I believe we are now close to convergence on the approaches we will take in 
+
+                                                            
+1 Basel Committee on Banking Supervision (2011), Progress Report on Basel III Implementation (Bank for 
+International Settlements: Basel, Switzerland, October), www.bis.org/publ/bcbs203.pdf. 
+
+
+- 7 - 
+ 
+
+ 
+
+fashioning these substitutes.  We should soon be able to draft a proposed regulation for the rest 
+
+of Basel 2.5.  Work on the Basel III rule has had to compete for staff time with all the other 
+
+rulemakings currently underway at the banking agencies, but I would expect a proposed 
+
+regulation in the first quarter of 2012. 
+
+The second issue pertains to the six-year transition period for Basel III, which by its 
+
+terms phases in the requirements for both the improved quality and increased quantity of capital 
+
+in somewhat backloaded stages beginning in January 2013.  Questions have arisen as to 
+
+supervisory expectations for capital levels during this rather lengthy period.  Specifically, there 
+
+has been some uncertainty as to whether supervisors intend to “pull forward” the various 
+
+transition points outlined in Basel III.  While the Federal Reserve intends to ensure that firms are 
+
+on a steady path to full Basel III compliance, we do not intend to require firms to raise external 
+
+capital or to reduce their risk-weighted assets in order to meet any new requirement earlier than 
+
+at the time specified in the Basel III transition schedule.  However, because this issue is 
+
+complicated somewhat both by certain expectations stated in Basel III and by the relationship of 
+
+Basel III implementation to the Federal Reserve’s requirement for annual capital planning by 
+
+certain large bank holding companies, it may be useful to provide some further details on our 
+
+expectations.   
+
+In the first place, the Federal Reserve will require bank holding companies that are 
+
+subject to our proposed capital plan rule (generally companies with $50 billion or more in total 
+
+assets) to take affirmative steps to improve capital ratios, such as external capital raises, when 
+
+those steps would be needed to meet each Basel III transition target on time. 
+
+ Next, it is important to note a statement made by the Governors and Heads of Supervision 
+
+(GHOS)--the oversight body of the Basel Committee--in announcing agreement on Basel III in 
+
+
+- 8 - 
+ 
+
+ 
+
+September 2010.  The GHOS said that banks should “maintain prudent earnings retention 
+
+policies” so as to meet both the new minimum equity standard and the conservation buffer “as 
+
+soon as reasonably possible.”2  In the spirit of that statement, we will expect large bank holding 
+
+companies that have not yet met the fully phased-in Basel III requirements (including any 
+
+expected capital surcharge for globally systemically important banks) to improve their capital 
+
+ratios steadily during the transition period through prudent earnings retention policies, even if 
+
+they already meet any applicable intermediate targets.  In practical terms, we will monitor their 
+
+progress through the annual capital planning exercise, about which I shall have more to say a bit 
+
+later in these remarks.  We will be comfortable with proposed capital distributions only when we 
+
+are convinced they are consistent with a bank holding company readily and without difficulty 
+
+meeting the new capital requirements as they come into effect.   
+
+Turning now to the second thread of capital regulation reform, the introduction of a 
+
+capital requirement keyed to the systemic importance of financial firms, I am sure you are all 
+
+aware that last Friday the Basel Committee released its framework for calibrating capital 
+
+surcharges for banks of global systemic importance.  This initiative is consistent with the Federal 
+
+Reserve’s obligation under section 165 of the Dodd-Frank Act to impose more stringent capital 
+
+standards on systemically important financial institutions, including the requirement that these 
+
+additional standards be graduated based on the systemic importance of the bank.  Both the Dodd-
+
+Frank provision and the Basel framework are informed by the fact that the failure of a 
+
+systemically important firm would have substantially greater negative consequences on the 
+
+financial system than the failure of other firms, even quite sizeable ones.  Yet obviously such a 
+
+firm has no incentive to take account of these negative externalities.  An ancillary rationale is 
+
+                                                            
+2 See Bank for International Settlements (2010), “Group of Governors and Heads of Supervision Announces Higher 
+Global Minimum Capital Standards,” press release, September 12, www.bis.org/press/p100912.htm. 
+
+
+- 9 - 
+ 
+
+ 
+
+that additional capital requirements could help offset any funding advantage derived from the 
+
+perceived status of such institutions as too-big-to-fail. 
+
+The surcharge attempts to reduce the chances of a global systemically important bank’s 
+
+(G-SIB’s) failure so as to bring the expected impact of the failure of such a firm--that is, the 
+
+expected damage to the system upon its failure discounted by the possibility that it will, in fact, 
+
+fail--more in line with that of other sizeable firms.  Moreover, the metrics for determining G-SIB 
+
+status are heavily weighted toward the kind of interconnectedness features that pose 
+
+macroprudential risks.  The framework includes a range of surcharges in the 1.0–2.5 percent 
+
+range for what will likely be a global group of about 30 banks, to be phased in as an expansion of 
+
+the Basel III capital conservation buffer from 2016 to 2019.   
+
+For illustrative purposes, the Basel Committee used 2009 data to generate a list of banks 
+
+that were of global systemic importance and, based on the criteria developed from that data, a 
+
+hypothetical set of “buckets” associated with the different surcharge rates.  It is important to 
+
+note, however, that this list, which was published last week, will not be used to determine any 
+
+bank’s surcharge.  The list of banks to be covered and the surcharge buckets into which they will 
+
+be placed when the surcharge begins to take effect in 2016 will be based upon data collected in 
+
+2014.  This is as it should be, since the inclusion and ordering of the firms should be based upon 
+
+the characteristics of the banks as they have evolved closer to the effective date.  Some banks 
+
+have changed their profiles materially in the past couple of years, and the prospect of capital 
+
+surcharges may be an incentive for others to do so as well.  In this regard, I should also note that 
+
+the bucket allocation of each G-SIB will be recomputed in each year after 2016.  
+
+The use of more up-to-date data means that banks will not know for some time exactly 
+
+which buckets they will occupy when the surcharge first phases in.  However, the potential 
+
+
+- 10 - 
+ 
+
+ 
+
+uncertainty associated with this approach should be substantially reduced by the plan to publish 
+
+an updated list of the covered financial institutions each November, along with an indication of 
+
+the bucket to which each firm would have been allocated based on data from the preceding year.  
+
+The Basel Committee will release by the latter part of 2014 additional information relevant to the 
+
+surcharges that will be applied beginning in 2016 -- the thresholds for each surcharge “bucket” 
+
+and the denominator reflecting the universe of global banking institutions against which each G-
+
+SIB will be measured.  To further advance the goals of transparency and predictability, we will 
+
+continue to work within the Basel Committee to ensure that the indicators used to determine the 
+
+systemic-risk ranking of a firm are clear and based upon publicly available information sources.  
+
+If additional information is needed by firms to allow for effective capital planning, the Basel 
+
+Committee should be prepared to develop and release additional guidance. 
+
+Dodd-Frank requires the Federal Reserve to impose more stringent capital requirements 
+
+on all bank holding companies with assets of $50 billion or more, not just the U.S. firms that are 
+
+on the list of G-SIBs and will thus have capital surcharges.  No decision has yet been made as to 
+
+whether the more stringent capital requirement to be applied to firms other than those on the 
+
+eventual list of G-SIBs will be in the form of a surcharge.  However, analysis of the systemic 
+
+footprints of other U.S. bank holding companies suggests that even if surcharges were to apply, 
+
+their amounts would be quite modest, at least based on current characteristics of the other bank 
+
+holding companies.   
+
+The third thread of reform in capital regulation is the establishment of regular stress 
+
+testing and capital planning.  Unlike the first two threads, there is no international framework 
+
+that parallels our domestic changes, though stress testing is receiving increased attention in a 
+
+number of other jurisdictions.  These reforms build on the stress test we performed at the height 
+
+
+- 11 - 
+ 
+
+ 
+
+of the financial crisis in early 2009, which used an adverse macroeconomic scenario and 
+
+estimates of firm revenues and potential losses on a portfolio-specific basis to calculate the 
+
+amount of capital that each firm would need to remain a viable financial intermediary even were 
+
+the adverse scenario to materialize.  The test was thus both forward-looking and horizontal, 
+
+meaning that the 19 largest U.S. bank holding companies were assessed in a simultaneous, 
+
+consistent fashion. 
+
+Dodd-Frank creates two kinds of stress testing requirements.  First, it mandates that the 
+
+Federal Reserve Board conduct annual stress tests on all bank holding companies with $50 
+
+billion or more in assets to determine whether they have the capital needed to absorb losses in 
+
+baseline, adverse, and severely adverse economic conditions.  Second, it requires both these 
+
+companies and certain other regulated financial firms with between $10 billion and $50 billion in 
+
+assets to conduct internal stress tests.  The Board must both publish a summary of results of the 
+
+supervisory stress tests and issue regulations requiring firms to publish a summary of the 
+
+company-run stress tests. 
+
+Those who participated in the 2009 exercise, both at the banks and at regulatory agencies, 
+
+know that the resource demands associated with it were considerable.  Yet the value of that effort 
+
+was also considerable, a fact that doubtless informed the Congressional decision to make the 
+
+practice mandatory.  The exercise itself forces supervisors to focus on the nature and extent of 
+
+potential sources of loss for the largest bank holding companies as a group.  The disclosure of 
+
+stress test results allows investors and other counterparties to better understand the profiles of 
+
+each institution.  And, I believe, the demands of supervisors for well-specified data and 
+
+projections from firms has improved risk management at these institutions. 
+
+
+- 12 - 
+ 
+
+ 
+
+We will be implementing the specific stress testing requirements of Dodd-Frank over the 
+
+next year.  However, in the interim we are using a modified form of stress testing as part of the 
+
+annual capital planning process we have established for large bank holding companies.  This 
+
+process goes well beyond a stress testing exercise.  It requires firms to project their capital needs 
+
+and plans on a firm-specific basis, as well as with reference to more standardized stress 
+
+scenarios.  It also allows us to review the safety and soundness of the firm's capital position, 
+
+including any plans it has for distributions of capital.  As you will recall, in the absence of such a 
+
+capital review, some companies engaged in ill-advised, inappropriate capital distributions in the 
+
+period immediately preceding the financial crisis, leaving them less able to absorb the losses that 
+
+ensued.   
+
+We conducted a capital plan review early this year for the 19 firms that had been 
+
+involved in the 2009 stress test.  In just a few weeks, we will begin the 2012 review.  This 
+
+process integrates stress testing and decisions about capital adequacy and possible capital 
+
+distributions.  It also gives supervisors insight into the risk measurement and risk management 
+
+capabilities of the firms.  We are close to issuing a final regulation that will contain the basic 
+
+structure for this annual exercise.   
+
+The rule would extend this formal capital planning to all bank holding companies with 
+
+$50 billion or more in assets.  The comments received on the proposed regulation issued in June 
+
+have been useful in crafting the final rule.  I expect that the final rule would, among other things, 
+
+respond to the concern of some firms that the timing of the first capital planning process did not 
+
+provide for appropriate capital distributions in the first quarter of the succeeding calendar year.  
+
+Clarifications of some other issues that arose in the 2011 capital review will be addressed in the 
+
+documentation for the 2012 exercise--such as describing with more specificity what constitutes 
+
+
+- 13 - 
+ 
+
+ 
+
+the kind of material change in the risks faced by a firm, such that a supplemental capital plan 
+
+would be needed during the course of the year. 
+
+It is important to note that the capital planning process, including the stress testing 
+
+component, provides supervisors with the opportunity to determine whether banking 
+
+organizations need to maintain capital ratios above the minimum levels specified in the various 
+
+Basel frameworks as implemented into U.S. law.  Institution-specific capital measures of this 
+
+sort are explicitly contemplated in the Basel arrangements, in U.S. legislation, and in the 
+
+regulations of U.S. banking agencies.  During the financial crisis, we used our safety-and-
+
+soundness authority to require banks to hold sufficient capital to weather the impact of the crisis 
+
+and the serious recession that followed.  Similarly, our annual capital plan review is a forward-
+
+looking exercise that, in estimating losses and reduced revenues that would follow an adverse 
+
+economic scenario, may result in requiring banks to maintain more capital than would a static, 
+
+backward-looking snapshot of minimum capital levels. 
+
+Conclusion 
+
+On a number of previous occasions, I have noted that, for all the disagreement over the 
+
+right set of financial reform measures, on one point there is near unanimity: No one wants 
+
+another TARP program.  Not those who thought TARP was the best of a bad set of options in the 
+
+fall of 2008.  Certainly not those who opposed it.  Not the American people, many of whom saw 
+
+the injection of billions of dollars of government capital into financial firms as more a bail-out of 
+
+large banks than an imperative to stabilize the financial system.  And not even, I suspect, most of 
+
+the large financial firms that received the government capital. 
+
+Each of what I have characterized as the three threads of capital regulation reform is still 
+
+in development.  Domestically, there are notice-and-comment rulemakings still to be done in 
+
+
+- 14 - 
+ 
+
+ 
+
+each area.  Internationally, the Basel Committee will continue work on the indicators used in its 
+
+capital surcharge methodology and, of course, has yet to finalize the list of systemically 
+
+important banks and the assignment of those banks to the various surcharge buckets.  In both 
+
+arenas it is important to move as quickly as feasible to complete all this work, so as to provide 
+
+more clarity to banks, markets, and the public on the details of capital requirements, while still 
+
+ensuring that the final regulations and requirements are well-crafted.   
+
+But if details are still lacking, the direction of these reforms is now clear.  When fully 
+
+implemented, these reform strands together will increase significantly the safety and soundness 
+
+of the financial system and make much less likely the need for some future TARP.  At a time 
+
+when there is considerable disagreement over the best direction for many aspects of financial 
+
+regulation, that result is one I suspect commands broad support among policymakers, policy 
+
+analysts, and the public. 
+
+
+

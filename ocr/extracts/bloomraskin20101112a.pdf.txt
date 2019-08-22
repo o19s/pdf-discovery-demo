@@ -1,0 +1,614 @@
+
+For release on delivery 
+4:35 p.m. EST 
+November 12, 2010 
+ 
+
+
+Problems in the Mortgage Servicing Industry 
+ 
+ 
+ 
+
+Remarks by 
+ 
+
+Sarah Bloom Raskin 
+ 
+
+Member 
+ 
+
+Board of Governors of the Federal Reserve System 
+ 
+
+at the  
+ 
+
+National Consumer Law Center’s Consumer Rights Litigation Conference 
+ 
+
+Boston, Massachusetts 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+November 12, 2010 
+
+
+
+
+
+ Good afternoon.  I would like to thank the National Consumer Law Center 
+
+(NCLC) for inviting me to speak here at the Consumer Rights Litigation Conference.  
+
+I’m particularly pleased to share my thoughts with you in my first public speech since 
+
+joining the Federal Reserve Board of Governors last month.   
+
+ These are challenging times for policymakers because they are profoundly 
+
+challenging times for millions of Americans.  Many families have suffered significant 
+
+declines in their net worth over the past several years, especially as the value of their 
+
+homes and other assets has plummeted.  Many households have faced job losses or large 
+
+reductions in the number of hours worked, events that have reduced family income and 
+
+well-being.  Retirees are feeling heightened anxiety as companies and local and state 
+
+governments debate measures to restrict retiree pensions.  The ability of households to 
+
+borrow has also shrunk as underwriting standards have tightened, placing more weight on 
+
+existing debt obligations of consumers.  For households trying to navigate these 
+
+difficulties, the work that many of you do to directly help consumers deal with the legal 
+
+dimensions of their financial lives is of great importance.  I commend you for your 
+
+ongoing and persistent contributions to stabilizing family and community life in our 
+
+country. 
+
+ One aspect of the financial crisis that touches directly on your work is foreclosure.  
+
+As you well know--and in fact you were among the first to predict the problem--millions 
+
+of homeowners have gone through foreclosure in recent years; many more will go 
+
+through it in the near future; and countless others are struggling to keep their payments 
+
+current even as the housing market and the overall economy make it hard to do so.   
+
+
+ - 2 -
+
+The number of foreclosures initiated on residential properties has soared from 
+
+about one million in 2006, the year that house prices peaked, to 2.8 million last year. 
+
+There were 1.2 million foreclosure filings in just the first half of this year.  In addition, 
+
+right now nearly five million loans are somewhere in the foreclosure process, or are 90 
+
+days or more past due and hence at serious risk for a foreclosure filing.   
+
+Our projections remain very grim for the foreseeable future:  All told, we expect 
+
+about two and one-quarter million foreclosure filings this year and again next year, and 
+
+about two million more in 2012.  While these numbers are down from their peak in 2009, 
+
+they remain extremely high by historical standards and represent a trauma in the lives of 
+
+millions of people affected. 
+
+ The most recent alarming development in the foreclosure process that has caught 
+
+public attention involves improper activities by mortgage servicers.  But let’s remember 
+
+that, for years, housing counselors and advocates nationwide have documented patterns 
+
+of fraudulent and abusive mortgage servicing practices.  Current attention is focused on 
+
+so-called “robo-signers,” individuals who appear to have attested to the validity of 
+
+documents in a number of foreclosure filings so large as to suggest that something may 
+
+be amiss in the recording process.  This development is troubling on its own, but it also 
+
+shines a harsh spotlight on other longstanding procedural flaws in mortgage servicing.   
+
+ Many may view these procedural flaws as trivial, technical, or inconsequential, 
+
+but I consider them to be part of a deeper, systemic problem and am gravely concerned. 
+
+During my time as Commissioner of Financial Regulation for the State of Maryland, I 
+
+encountered a Pandora’s Box of predatory tactics that included: 
+
+
+ - 3 -
+
+ the padding of fees, such as late fees, broker-price opinions, inspection fees, 
+
+attorney’s fees, and other fees;   
+
+ the strategic misapplication of payments so that the homeowner’s payments for 
+
+principal and interest due on the loan were improperly applied to the servicer’s 
+
+fees, sometimes improperly causing the loan to be considered to be in default;  
+
+and  
+
+ the inappropriate assessment of force-placed  insurance, with premiums of two to 
+
+four times the cost of standard homeowners’ insurance, which in turn caused 
+
+servicers to collect these premiums before applying the payments to principal and 
+
+interest, precipitating foreclosure.   
+
+Theoretically, it is possible that the robo-signer controversy may turn out to be a short-
+
+term technical problem that can be addressed through additional verifications and, when 
+
+necessary, re-processing of critical documents.  Nevertheless, I believe that serious and 
+
+sustained reform is needed to address the larger problems in mortgage servicing.   
+
+ The mortgage servicing industry as we know it is a relatively recent invention, 
+
+and, undoubtedly, it has never before been tested in a national housing crisis of this 
+
+magnitude.  As the continuing surge in foreclosures suggests, mortgage servicers simply 
+
+are not doing enough to provide sustainable alternatives to foreclosure.  This may be due 
+
+to the fact that the vast bulk of loan servicing today is done by large servicers, which are 
+
+either subsidiaries of depository institutions, affiliates of depository institutions, or 
+
+independent companies focused primarily or exclusively on loan servicing.  
+
+Before securitization became commonplace, it was much more likely for a 
+
+mortgage to be serviced by the same entity that had originated the loan.  This simple 
+
+
+ - 4 -
+
+approach ensured that lenders knew immediately if a homeowner was having payment 
+
+problems, and could take action to mitigate possible losses.  A fair bit of this kind of 
+
+“portfolio servicing” still takes place, but as the residential real estate market shifted from 
+
+an originate-to-hold model to an originate-to-distribute model, an industry of independent 
+
+third-party entities emerged to service the loans on behalf of the securitization trusts.  
+
+These trusts, as a requirement for their tax-preferred status, were supposed to be passive, 
+
+with the management of individual loans left to the servicer.  These servicing 
+
+arrangements are now commonplace in the industry:  In fact, the system has matured 
+
+rapidly and experienced considerable consolidation over the past twenty years. 
+
+ The benefits to consolidation include significant economies of scale in the 
+
+collection and disbursal of routine payments.  But the kind of time-consuming, involved 
+
+work that is now needed in the loss mitigation area was not contemplated at anything like 
+
+this kind of scale, and the payment structures between the servicers and investors may not 
+
+always be sufficient to support large-scale loan workout activity.  Unfortunately, as we 
+
+are seeing now, there are also dramatically significant drawbacks to this model.  Third-
+
+party servicers earn money through annual servicing fees, a myriad of other fees, and on 
+
+float interest, and they maximize profits by keeping their costs down, streamlining 
+
+processes wherever possible, and by buying servicing rights on pools of loans that they 
+
+hope will require little hands-on work.  Again, for routine payment processing this all 
+
+leads to economies of scale, and the industry has consolidated significantly in recent 
+
+years as a result.   
+
+But the services needed in the current housing crisis are not one-size-fits-all.  
+
+Loan servicers likely never anticipated the drastic need for the kind of time-consuming, 
+
+
+ - 5 -
+
+detailed work that is now required in the loss mitigation area, and the payment structures 
+
+between the servicers and investors are not sufficient to support large-scale loan workout 
+
+activity.  As it turns out, the structural incentives that influence servicer actions, 
+
+especially when they are servicing loans for a third party, now run counter to the interests 
+
+of homeowners and investors.   
+
+ While an investor’s financial interests are tied more or less directly to the 
+
+performance of a loan, the interests of a third-party servicer are tied to it only indirectly, 
+
+at best.  The servicer makes money, to oversimplify a bit, by maximizing fees earned and 
+
+minimizing expenses while performing the actions spelled out in its contract with the 
+
+investor.   
+
+In the case, for instance, of a homeowner struggling to make payments, a 
+
+foreclosure almost always costs the investor money, but may actually earn money for the 
+
+servicer in the form of fees.  Proactive measures to avoid foreclosure and minimize cost 
+
+to the investor, on the other hand, may be good for the homeowner, but involve costs that 
+
+could very well lead to a net loss to the servicer.  In the case of a temporary forbearance 
+
+for a homeowner, for example, the investor and homeowner both could win--if the 
+
+forbearance allows the homeowner to get back on their feet and avoid foreclosure--but 
+
+the servicer could well lose money.  In the case of a permanent modification, the investor 
+
+and homeowner could both be considerably better off relative to foreclosure, but the 
+
+servicer could again lose money.  
+
+ Why might a servicer lose money in an instance that could be win-win for the 
+
+borrower and investor?  It’s because of the amount of work needed, the structure for 
+
+reimbursing costs to the servicer, and other costs incurred by the servicer on delinquent, 
+
+
+ - 6 -
+
+but not yet foreclosed upon, borrowers.  Loss mitigation options, such as forbearance and 
+
+loan modification, require individualized case work.  Thus, the servicer needs to invest in 
+
+additional resources, including trained personnel who can deal with often complex one-
+
+off transactions.  In the case of a private-label security, many of the costs of this work 
+
+may not be reimbursed by the trust.  Other costs result from even temporary forbearance, 
+
+such as the servicer’s requirement, in most cases, to advance principal and interest to the 
+
+investor every month, even though it has not received payment from the borrower.  Even 
+
+in the case of a servicer who has every best intention of doing “the right thing,” the 
+
+bottom-line incentives are largely misaligned with everyone else involved in the 
+
+transaction, and most certainly the homeowners themselves. 
+
+   We don’t know yet what the end results will be for homeowners.  But the best 
+
+third-party servicers would have to be diligent and willing to absorb relative losses when 
+
+the standard business model for the industry would seem to put a thumb on the scale in 
+
+favor of foreclosure.  The most urgent needs of the servicing world today require a 
+
+sufficient number of personnel with the adequate mix of training, tools, and judgment to 
+
+deal with problem loans on a large scale--in other words, activities with few economies 
+
+of scale.  The skill set of personnel hired and trained for routine work--efficiency and 
+
+accuracy in following rules, and little discretion in decisionmaking--is likely a poor 
+
+match for loss mitigation activities that require constant creativity and case-by-case 
+
+judgment.  Therefore, simply transferring work from one part of a company to another 
+
+does not achieve much without significant investments in training and retraining.  
+
+Servicers have been publicly pledging for several years to increase their servicing 
+
+capacity, and many have.  Unfortunately, there is plenty of evidence to suggest that many 
+
+
+ - 7 -
+
+servicers’ workforces lack the knowledge and capacity to deal with the immensity of the 
+
+mortgage crisis. 
+
+ In order to do their jobs well servicers need strong internal procedures and 
+
+controls.  Recent events suggest that servicers may be lacking in this regard, to the 
+
+detriment of consumers, and, quite possibly, to the detriment of the investors to whom 
+
+they are contractually obligated to maximize revenue.  I recognize that many servicers 
+
+have stepped up and diligently tried to improve their work; I applaud and encourage 
+
+them.  However, lingering problems remain and I suspect that these may be due to 
+
+deferred maintenance and investment on a significant scale.  In boom times, servicers had 
+
+the luxury of building out relatively lean systems that efficiently processed the more 
+
+routine aspects of the business, but they do not appear to have planned for the 
+
+infrastructure that would be needed during a serious down cycle.  As you know, 
+
+consumers hold the losing end of this stick.   
+
+  More seriously, recurring issues that have dogged some elements of the 
+
+servicing industry go beyond misaligned incentives to simple bad business practices.  
+
+One recurring problem that has triggered litigation involves the servicer’s handling of 
+
+fees.  When a servicer does not properly carry out its primary duty of collecting and 
+
+appropriately allocating mortgage payments, it can cost homeowners money and, in the 
+
+most extreme cases, cause a homeowner to be pushed into premature default.  Some 
+
+servicers obtain unwarranted or unauthorized fees from borrowers after engaging in 
+
+unfair collection practices, or through other conduct that causes borrower default, such as 
+
+misapplied payments, padded costs, erroneous charges, late fees, and so on.    
+
+
+ - 8 -
+
+ Too many accounts of shoddy operating procedures--lost paperwork, slow 
+
+response times, and sloppy recordkeeping--cast a dark shadow on this part of the industry 
+
+that links mortgage borrowers and lenders.  The broad grant of delegated authority that 
+
+servicers enjoy under pooling and servicing agreements (PSAs), combined with an 
+
+effective lack of choice on the part of consumers, creates an environment ripe for abuse.  
+
+Moreover, the inability of some servicers to maintain complete and accurate records, and 
+
+to transfer servicing rights cleanly, causes additional uncertainties and vulnerabilities.  
+
+ The impact of poor business practices can linger on even after the foreclosure 
+
+sale.  In managing foreclosed properties in lenders’ inventories, servicers may be 
+
+motivated by timeliness measures in PSAs to induce the former homeowner or bona fide 
+
+tenant to vacate before they are legally required to do so, sometimes under the threat of 
+
+eviction.  Once the properties are vacant, servicers exercise great discretion in deciding 
+
+whether or not to repair foreclosed property based on the likelihood that the servicer’s 
+
+advances are recoverable from the sale proceeds.  With real estate owned (REO) 
+
+inventories projected to reach one million by the end of 2010, servicer actions will 
+
+heavily influence the effectiveness of neighborhood stabilization efforts at a time of 
+
+persistent decline in home values and in fragile markets already weakened by a glut of 
+
+vacant and abandoned properties, particularly in low-wealth communities. 
+
+ Finally, we face a cluster of problems surrounding loan modification.  Servicers’ 
+
+significant concerns about the U.S. Treasury’s Home Affordable Modification Program 
+
+(HAMP) are well-known.  That said, we do not know enough about how well servicers 
+
+are complying with the requirements of that program, or whether all of the HAMP 
+
+modifications that should be made are indeed being made.  Many servicers, in fact, 
+
+
+ - 9 -
+
+currently report that the bulk of their loan modifications are being done outside of 
+
+HAMP.  Again, we do not know enough about what those modifications look like or how 
+
+they are being structured.   
+
+ Prior to HAMP, many servicers were creating modifications that themselves were 
+
+problematic.  For example, high percentages of the pre-HAMP modifications provided no 
+
+payment relief to borrowers and, not surprisingly, then exhibited high re-default rates.  
+
+Servicers may not be doing everything they can do to ensure that loss mitigation 
+
+activities, including HAMP and non-HAMP modifications, are responsible and 
+
+sustainable and subject to strong internal controls.  
+
+  So the problems that have been grabbing headlines in recent weeks are neither 
+
+new nor amenable to quick fixes.  While there may be some specific practices--“robo-
+
+signing” among them--that are possible to isolate and eliminate, chronic, uncured 
+
+problems continue to plague this industry.  There is a long track record of actions and 
+
+cases brought by attorneys general, which some of you in this room have no doubt 
+
+litigated, demonstrating the harm done to consumers by sloppy or unscrupulous practices. 
+
+Because consumers cannot choose to hire or fire their servicers (other than by paying off 
+
+the loan), the industry lacks the level of market discipline imposed in other industries by 
+
+the working of consumer choice.  For this reason, if servicers do not actively maintain 
+
+adequate and trained staff and do not establish and heed internal controls, if investors do 
+
+not monitor their servicers’ behavior, if regulators do not conduct meaningful 
+
+examinations, if courts do not stand guard against unfair practices, both substantive and 
+
+procedural, then it will be much less likely that a well-functioning housing market will 
+
+reemerge from this crisis.  Because the very structure of the loan servicing industry as it 
+
+
+ - 10 -
+
+currently operates inevitably leads to misaligned incentives and a propensity to defer 
+
+costly investments, a more significant re-thinking of the basic business model must also 
+
+be undertaken if we are to avoid repeating prior mistakes. 
+
+ I realize that I’m painting a rather gloomy picture.  But be assured that I do 
+
+believe that we can make real progress on the ground through coordinated public and 
+
+private action.  Let me conclude by talking a little bit about what the Federal Reserve and 
+
+others are doing to address these issues.   
+
+Although foreclosure practices have traditionally been--and rightfully should 
+
+remain--a domain of the states, the Federal Reserve has been expanding its expertise in 
+
+working with the industry--first, in a review of non-bank subsidiaries in conjunction with 
+
+other state and federal regulators, and, currently, with a review of loan modification 
+
+practices by certain servicers.  As the current servicing issues began to emerge more 
+
+clearly, the Federal Reserve and other federal banking agencies initiated an in-depth 
+
+review of practices at the largest mortgage servicing operations.  The review focuses on 
+
+foreclosure practices generally, but with a concentration on the breakdowns that seem to 
+
+have led to inaccurate affidavits and other questionable legal documents being used in the 
+
+foreclosure process.  When the interagency review is completed, we will have more 
+
+information about the extent and significance of these very troubling practices, as well as 
+
+an understanding of what must be done to prevent them in the future.  We have also 
+
+solicited information and input from other knowledgeable sources, including NCLC, to 
+
+help us better direct our actions to detect possible systematic problems at specific 
+
+servicers or within the industry at large. 
+
+
+ - 11 -
+
+ Preliminarily, we have directed certain firms to complete thorough self-
+
+assessments of the policies and procedures they use for determining whether to foreclose 
+
+on a residential mortgage loan, and, in those cases where foreclosure is authorized, an 
+
+examination of the processes they used to comply with relevant federal and state laws.  
+
+We have directed these firms not just to address their stated policies and procedures, but 
+
+to assess how they actually work in practice.  At the same time, examiners from the 
+
+banking agencies will be on-site to review individual loan files, evaluate controls over the 
+
+selection and management of third-party service providers, and carefully test the 
+
+assertions that the institutions make in their self-assessments.  Institutions will be directed 
+
+to correct any deficiencies that they discover in their self-assessments or that come to 
+
+light in the on-site examination process. 
+
+ As a general matter, the Federal Reserve reviews the compliance procedures of 
+
+the banking organizations that we supervise as part of the examination process.  
+
+However, federal examiners typically are not experts in the application of each state’s 
+
+laws, especially in an area as complex as mortgage foreclosure procedures.  So, federal 
+
+examiners need to coordinate with their state examiner counterparts who should have a 
+
+stronger understanding of their state foreclosure laws.  For federally chartered 
+
+institutions, the Federal Reserve requires that the banks we supervise have adequate 
+
+compliance risk management programs that are being followed.   
+
+ Given the potential ramifications for consumers, the housing market, and the 
+
+economy as a whole, I believe it’s fair to say that every relevant arm of the federal 
+
+government is taking the underlying dynamics of the mortgage foreclosure crisis very 
+
+seriously.  I also hold out hope that the multi-state work engaged in by the 50 state 
+
+
+ - 12 -
+
+attorneys general will prove to be a vehicle for resolving the underlying problems.  The 
+
+coordination and expertise at the state level in these matters is an essential corrective.  To 
+
+the extent that legal settlements are structured in such a way as to generate a broader 
+
+underlying reform of servicing processes, it will be more likely that we can assure 
+
+consumers that they will not encounter other mortgage harms moving forward.   
+
+ The complex challenges faced by the loan servicing industry right now are 
+
+emblematic of the problems that emerge in any industry when incentives are 
+
+fundamentally misaligned, and when the race for short-term profit overwhelms 
+
+sustainable, long-term goals and practices.  Responsible parties within the industry are no 
+
+doubt already scrambling to fix some of the problems that have surfaced.  However, 
+
+because so much is riding on getting these systems right, and because consumers have 
+
+such little measure of individual choice or recourse, reliance on pledges from market 
+
+participants will not be enough.  Many of you have been doing your part for years to 
+
+point out problems in the industry and to give consumers some protection and redress 
+
+when wronged.  The public sector too is stepping up its efforts to monitor firms’ actions 
+
+and systems.  Until a better business model is developed that eliminates the business 
+
+incentives that can potentially harm consumers, there will be a need for close regulatory 
+
+scrutiny of these issues and for appropriate enforcement action that addresses them.  
+
+ Thank you. 
+

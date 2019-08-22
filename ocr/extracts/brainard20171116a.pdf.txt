@@ -1,0 +1,1125 @@
+
+
+
+For release on delivery 
+
+3:45 p.m. EST  
+
+November 16, 2017 
+
+
+
+
+
+Where Do Consumers Fit in the Fintech Stack? 
+
+Remarks by 
+
+Lael Brainard 
+
+Member 
+
+Board of Governors of the Federal Reserve System  
+
+at  
+
+“FinTech Risks and Opportunities: An Interdisciplinary Approach” 
+
+a conference sponsored by the University of Michigan 
+
+
+
+Ann Arbor, Michigan  
+
+
+
+
+
+November 16, 2017 
+
+
+
+
+The new generation of fintech tools offers the potential to help consumers manage their 
+
+increasingly complicated financial lives, but also poses risks that will need to be managed as the 
+
+marketplace matures.1 
+
+In many ways, the new generation of fintech tools can be seen as the financial equivalent 
+
+of an autopilot.  The powerful new fintech tools represent the convergence of numerous 
+
+advances in research and technology--ranging from new insights into consumer decisionmaking 
+
+to a revolution in available data, cloud computing, and artificial intelligence (AI).  They operate 
+
+by guiding consumers through complex decisions by offering new ways of looking at a 
+
+consumer’s overall financial picture or simplifying choices, for example with behavioral nudges.  
+
+As consumers start to rely on financial autopilots, however, it is important that they 
+
+remain in the driver’s seat and have a good handle on what is happening under the hood. 
+
+Consumers need to know and decide who they are contracting with, what data of theirs is being 
+
+used by whom and for what purpose, how to revoke data access and delete stored data, and how 
+
+to seek relief if things go wrong.  In short, consumers should remain in control of the data they 
+
+provide. In addition, consumers should receive clear disclosure of the factors that are reflected in 
+
+the recommendations they receive.  If these issues can be appropriately addressed, the new 
+
+fintech capabilities have enormous potential to deliver analytically grounded financial services 
+
+and simplified choices, tailored to the consumers’ needs and preferences, and accessible via their 
+
+smartphones.2 
+
+                                                 
+1 I am grateful to Kelvin Chen for his assistance in preparing this text. The remarks represent my own views, which 
+
+do not necessarily represent those of the Federal Reserve Board or the Federal Open Market Committee. 
+2 See Lael Brainard, “The Opportunities and Challenges of Fintech,” (speech at the Conference on Financial 
+
+Innovation, Washington, D.C., December 2, 2016), 
+
+www.federalreserve.gov/newsevents/speech/brainard20161202a.pdf  
+
+
+- 2 - 
+
+
+Consumers Face Complex Financial Choices 
+
+When the first major “credit card,” the Diner’s Club Card, was introduced in 1949, 
+
+consumers could only use the cardboard card at restaurants and, importantly, only if they paid 
+
+the entire amount due each month.3  Today, the average cardholder has about four credit cards, 
+
+and the Federal Reserve Bank of New York estimates that American consumers collectively 
+
+carry $785 billion in credit card debt.4  
+
+When signing up for a credit card, consumers face a bewildering array of choices.  Half 
+
+of consumers report that they select new cards based on reward programs, weighing “cash back” 
+
+offers against “points” with their credit card provider that may convert into airline or hotel 
+
+“miles,” which may have varying values depending on how they are redeemed.5  In some cases, 
+
+rewards may apply to specific spending categories that rotate by quarter and require that 
+
+consumers re-register each term, and the rewards may expire or be forfeited under complicated 
+
+terms.6  
+
+In some cases, the choices may be confusing. Let’s take the example of zero percent 
+
+interest credit card promotions.  A consumer may choose a zero percent interest credit card 
+
+promotion and expect to pay no interest on balances during a promotional period, after which 
+
+any balances are assessed at a higher rate of interest going forward.  But if a consumer instead 
+
+                                                 
+3 See, e.g., Damaris Olaechea, “Who Issued the First Credit Card?” Nerd Wallet (February 12, 2014), 
+
+www.nerdwallet.com/blog/credit-cards/issued-first-credit-card/. 
+4 See, e.g., Consumer Financial Protection Bureau, The Consumer Credit Card Market, Executive Summary 
+
+December 2015, http://files.consumerfinance.gov/f/201512_cfpb_report-the-consumer-credit-card-market.pdf and 
+
+Federal Reserve Bank of New York, August 2017, 
+
+www.newyorkfed.org/medialibrary/interactives/householdcredit/data/pdf/HHDC_2017Q2.pdf. 
+5 See J.D. Power, “Attractive Rewards and Benefits Drive Credit Card Selection, Satisfaction and Spend,” press 
+
+release, August 20, 2015, www.jdpower.com/sites/default/files/2015137_U.S._Credit_Card_Study_PR_Final.pdf. 
+6 See, e.g., Jeanine Skowronski, “Why 5 Percent Cash Back Is an Overrated Selling Point,” American Banker, 
+
+November 6, 2013, www.americanbanker.com/opinion/why-5-cash-back-is-an-overrated-selling-point  Consumer 
+
+Financial Protection Bureau, The Consumer Credit Card Market, section 7, December 2015, 
+
+http://files.consumerfinance.gov/f/201512_cfpb_report-the-consumer-credit-card-market.pdf.   
+
+
+- 3 - 
+
+
+chooses a zero percent interest private-label credit card with deferred interest and has a positive 
+
+balance when the promotional period expires, interest could be retroactively assessed for the full 
+
+time they held a balance during the promotional period.7  Even sophisticated consumers could be 
+
+excused for confusing these products. 
+
+As it turns out, it is often the most vulnerable consumers who have to navigate the most 
+
+complicated products.  For instance, one recent study of the credit card market found that the 
+
+average length of agreements for products offered to subprime consumers was 70 percent longer 
+
+than agreements for other products.8  
+
+The complexity multiplies when we go beyond credit cards and consider other 
+
+dimensions of consumers’ financial lives.9  The Federal Deposit Insurance Corporation has 
+
+found that nearly a quarter of the Americans that don’t maintain bank accounts are concerned 
+
+that bank fees are too unpredictable.10  Even though mortgage debt is over two-thirds of 
+
+household debt, nearly half of consumers don’t comparison shop before taking out a mortgage.11 
+
+Student loans now make up 11 percent of total household debt, more than twice its share in 
+
+                                                 
+7 See, e.g., Consumer Financial Protection Bureau, The Consumer Credit Card Market, section 6, December 2015, 
+
+http://files.consumerfinance.gov/f/201512_cfpb_report-the-consumer-credit-card-market.pdf.   
+8 Id at section 5.1.2.  
+9 In 2007 researchers at Carnegie Mellon estimated that it would take the average consumer 244 hours a year just to 
+
+read the privacy policies of the websites that he viewed that year. Aleecia McDonald and Lorrie Faith Cranor, The 
+
+Cost of Reading Privacy Policies,” I/s: A Journal of Law and Policy for the Information Society (2008), pre-press 
+
+version available at http://lorrie.cranor.org/pubs/readingPolicyCost-authorDraft.pdf.  
+10 Federal Deposit Insurance Corporation, FDIC National Survey of Unbanked and Underbanked Households, 
+
+(2015), www.fdic.gov/householdsurvey/2015/2015report.pdf.  
+11 See, e.g., Michael Corkery and Stacy Cowley, “Household Debt Makes a Comeback in the U.S.,” New York 
+
+Times, May 17, 2017, www.nytimes.com/2017/05/17/business/dealbook/household-debt-united-states.html; See 
+
+Alexei Alexandrov and Sergei Koulayev, “No Shopping in the U.S. Mortgage Market: Direct and Strategic Effects 
+
+of Providing Information,” Consumer Financial Protection Bureau Office of Research Working Paper No. 2017-01 
+
+(Washington: CFPB, April 7, 2017), https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2948491. (“[M]any 
+
+consumers do not seem to realize that there is price dispersion. . . . In one of our counterfactuals, we show that 
+
+eliminating non-price preferences results in savings of about $9 billion dollars a year.”) 
+
+
+- 4 - 
+
+
+2008.12  Over 11 percent of student debt is more than 90 days delinquent or in default--and 
+
+researchers at the Federal Reserve Bank of New York estimate that this figure may understate 
+
+the problem by as much as half.13   
+
+Today, consumers navigate numerous weighty financial responsibilities for themselves 
+
+and their dependents.14  It seems fair to assume they could use some help managing this 
+
+complexity. In the Federal Reserve Board’s annual Survey of Household Economics and 
+
+Decisionmaking (SHED), more than half of respondents reported that their spending exceeded 
+
+their income in the prior year.15  Indeed, 44 percent of SHED respondents reported that they 
+
+could not cover an emergency expense costing $400 without selling something or borrowing 
+
+money.16 
+
+New Tools to Help Consumers Manage Their Finances 
+
+Given the complexity and importance of these decisions, it is encouraging to see the fast-
+
+growing development of advanced, technology-enabled tools to help consumers navigate the 
+
+                                                 
+12 See, e.g., Michael Corkery and Stacy Cowley, “Household Debt Makes a Comeback in the U.S.,” New York 
+
+Times, May 17, 2017, www.nytimes.com/2017/05/17/business/dealbook/household-debt-united-states.html. 
+
+(“Student borrowers today owe $1.3 trillion, more than double the $611 billion owed nearly nine years ago. About 
+
+one in 10 student borrowers is behind on repaying the loans, the highest delinquency rate of any type of loan tracked 
+
+by the New York Fed’s quarterly household debt report.”); Jesse Bricker, Lisa J. Dettling, Alice Henriques, Joanne 
+
+W. Hsu, Lindsay Jacobs, Kevin B. Moore, Sarah Pack, John Sabelhaus, Jeffrey Thompson, and Richard A.Windle, 
+
+“Changes in U.S. Family Finances from 2013 to 2016: Evidence from the Survey of Consumer Finances,” Federal 
+
+Reserve Bulletin vol. 103, no. 3 (September 2017), www.federalreserve.gov/publications/files/scf17.pdf.  
+13 Federal Reserve Bank of New York, Quarterly Report on Household Debt and Credit, August 2017, 
+
+www.newyorkfed.org/medialibrary/interactives/householdcredit/data/pdf/HHDC_2017Q2.pdf. ( “...[D]elinquency 
+
+rates for student loans are likely to understate effective delinquency rates because about half of these loans are 
+
+currently in deferment, in grace periods or in forbearance and therefore temporarily not in the repayment cycle. This 
+
+implies that among loans in the repayment cycle delinquency rates are roughly twice as high.” Id. n.2 ). 
+14 This can be particularly challenging for older consumers. See, e.g., AARP, “Financial Innovation Frontiers,” April 
+
+2017, www.aarp.org/content/dam/aarp/home-and-family/personal-technology/2017/04/Financial-Innovation-
+
+Frontiers-AARP.pdf. (“50+ Consumers Face Unprecedented Financial Complexity.”) 
+15 Board of Governors of the Federal Reserve System, Report on the Economic Well-Being of U.S. Households in 
+
+2016 (Washington: Board of Governors, May 2017), www.federalreserve.gov/publications/files/2016-report-
+
+economic-well-being-us-households-201705.pdf.  
+16 Id.    
+
+
+- 5 - 
+
+
+complex issues in their financial lives.  These tools build on important advances in our 
+
+understanding of consumer financial behavior and the applications, or “app,” ecosystem.  
+
+Researchers have invested decades of work exploring how consumers actually make 
+
+decisions.  We all tend to use shortcuts to simplify financial decisions, and it turns out many of 
+
+these can prove faulty, particularly when dealing with complex problems.17  For example, 
+
+empirical evidence consistently shows that consumers overvalue the present and undervalue the 
+
+future.18  Researchers have documented that consumers make better savings decisions when they 
+
+are presented with fewer options.19  They have shown the importance of “anchoring” bias--the 
+
+tendency to place disproportionate weight on the first piece of information presented. This bias 
+
+can lead consumers either to make poor financial choices or instead to tip the scales in favor of 
+
+beneficial choices, as with automatic savings defaults.20  Similarly, “nudges” can help consumers 
+
+                                                 
+17 See, e.g., Krista Tippett, On Being, radio interview with Daniel Kahneman, October 5, 2017, 
+
+https://onbeing.org/programs/daniel-kahneman-why-we-contradict-ourselves-and-confound-each-other-oct2017/. 
+
+(“…[It] is actually completely not possible for a finite human mind to be rational or to obey the axioms of 
+
+rationality. You’d have to know too much . . . [T]he cognitive rules are, to a large extent, simplifying rules. They are 
+
+shortcuts.”) 
+18 See, e.g., David Laibson, Andrea Repetto, and Jeremy Tobacman, “Estimating Discount Functions with 
+
+Consumption Choices over the Lifecycle,” National Bureau of Economic Research Working Paper 13314 
+
+(Cambridge, Mass.: NBER, August 2007), www.nber.org/papers/w13314.pdf.  
+19 See, e.g., John Beshears, James J. Choi, David Laibson, and Bridgitt C. Madrian, “Simplification and Saving,” 
+
+National Bureau of Economic Research Working Paper 12659 (Cambridge, Mass.: NBER, 2006), 
+
+https://sites.hks.harvard.edu/fs/bmadria/Documents/Madrian%20Papers/Simplification%20and%20Saving.pdf. 
+
+(“Many financial decisions that individuals face are complicated and daunting for those who are not financial 
+
+experts. .By collapsing a multidimensional set of options into a binary choice between the status quo and the pre-
+
+selected alternative, this intervention increases participation rates by 10 to 20 percentage points among affected 
+
+employees.”); Sheena S. Iyengar, Wei Jiang, and Gur Huberman, “How Much Choice is Too Much?: Contributions 
+
+to 401(k) Retirement Plans,” Pension Research Council Working Paper (Philadelphia: University of Pennsylvania, 
+
+The Wharton School, PRC, 2003), 
+
+https://pdfs.semanticscholar.org/04f0/7b37fc9deb167e56c729e1f35e052998ba4a.pdf. (“Using data from nearly 
+
+800,000 employees, …[our] results confirm that participation in 401(k) plans is higher in plans offering a handful of 
+
+funds, as compared to plans offering ten or more options.”) 
+20 See, e.g., Daniel Navarro-Martinez, et al., “Minimum Required Payment and Supplemental Information 
+
+Disclosure Effects on Consumer Debt Repayment Decisions,” Journal of Marketing Research, vol. 48 (November 
+
+2011), http://journals.ama.org/doi/pdf/10.1509/jmkr.48.SPL.S60?code=amma-site. (“They find that while presenting 
+
+minimum required payment information has a negative impact on repayment decisions, increasing the minimum 
+
+required level has a positive effect on repayment for most consumers.”) See, e.g., Bridgette C. Madrian, “Matching 
+
+Contributions and Savings Outcomes: A Behavioral Economics Perspective,” National Bureau of Economic 
+
+Research Working Paper 18220 (Cambridge, Mass.: NBER, July 2012), 
+
+https://sites.hks.harvard.edu/fs/bmadria/Documents/Madrian%20Papers/Matching%20Contributions%20and%20Sav
+
+
+- 6 - 
+
+
+in the right circumstances or instead backfire in surprising ways.21 
+
+These behavioral insights are especially powerful when paired with the remarkable 
+
+advances we have seen in the technological tools available to the average consumer, especially 
+
+through their smartphones.22  Smartphones are ubiquitous. The 2016 Federal Reserve Survey of 
+
+Consumer and Mobile Financial Services (SCMF) found that 87 percent of the U.S. adult 
+
+population had a mobile phone, the vast majority of which were smartphones. 23  Smartphone use 
+
+is prevalent even among the unbanked and underbanked populations. Survey evidence suggests 
+
+we are three times more likely to reach for our phone than our significant other when we first 
+
+wake up in the morning.24  
+
+Some evidence suggests that smartphones are already helping consumers make better 
+
+financial decisions.  The 2016 SCMF found that 62 percent of mobile banking users checked 
+
+their account balances on their phones before making a large purchase, and half of those that did 
+
+                                                 
+ings%20Outcomes.pdf. (“Indeed, automatic enrollment is an extreme form of simplification; individuals who want 
+
+to save need not do anything. Psychologists have long recognized that choice complexity can affect decision-making 
+
+outcomes. One result is procrastination--individuals put off decision making as choices become more complicated.”) 
+
+(Internal citations omitted.) 
+21 See, e.g., Dean S. Karlan, et al, “Getting to the Top of Mind: How Reminders Increase Savings,” National Bureau 
+
+of Economic Research Working Paper 16205, (Cambridge, Mass.: NBER, July 2010), 
+
+www.nber.org/papers/w16205. See, e.g., Jialan Wang and Benjamin J. Keys, “Perverse Nudges: Minimum 
+
+Payments and Debt Paydown in Consumer Credit Cards,” Penn Wharton Public Policy Initiative Issue Brief, vol. 2. 
+
+no. 4 (Philadelphia: University of Pennsylvania, April 2014), https://publicpolicy.wharton.upenn.edu/issue-
+
+brief/v2n4.php.  
+22 See, e.g., Lael Brainard, “Where Do Banks Fit in the Fintech Stack,” (speech at Northwestern Kellogg Public–
+
+Private Interface Conference on New Developments in Consumer Finance: Research and Practice), 
+
+www.federalreserve.gov/newsevents/speech/files/brainard20170428a.pdf.   
+23 Board of Governors of the Federal Reserve System, Consumers and Mobile Financial Services 2016, 
+
+www.federalreserve.gov/econresdata/consumers-and-mobile-financial-services-report-201603.pdf (Washington, 
+
+Board of Governors, March 2016). The survey found that 40 percent of the unbanked population and 70 percent of 
+
+the underbanked and banked populations had access to a smartphone. 
+24 See Bank of America, Trends in Consumer Mobility Report, 2015, 
+
+http://newsroom.bankofamerica.com/files/doc_library/additional/2015_BAC_Trends_in_Consumer_Mobility_Repo
+
+rt.pdf. (Finding that 35 percent of survey respondents reported that they reach for their mobile devices first thing, as 
+
+compared to 10 percent for their significant other.) 
+
+
+- 7 - 
+
+
+so decided not to purchase an item as a result.25  In addition, 41 percent of smartphone owners 
+
+checked product reviews or searched product information online while shopping in a retail store, 
+
+and 79 percent of those respondents reported changing their purchase decision based on the 
+
+information they accessed on their smartphone.26  
+
+And those use cases just scratch the surface of what is possible. First of all, the 
+
+smartphone platform has become a launch pad for a whole ecosystem of apps created by outside 
+
+developers for a wide variety of services, including helping consumers manage their financial 
+
+lives.  
+
+ Second, the smartphone ecosystem puts the enormous computing power of the cloud at 
+
+the fingertips of consumers. Interfacing with smartphone platforms and other apps, outside 
+
+developers can tap the computing power of the leading cloud computing providers in building 
+
+their apps.  Importantly, cloud computing offers not only the power to process and store data, but 
+
+also powerful algorithms to make sense of it.  Due to early commitment to open-source 
+
+principles, app developers have open access to many of the same machine-learning and artificial 
+
+intelligence tools that power the world’s largest internet companies.27  Further, the major cloud 
+
+computing providers have now taken these free building blocks and created different machine-
+
+learning and artificial intelligence stacks on their cloud platforms.  A developer that wants to 
+
+incorporate artificial intelligence into their financial management app can access off-the-shelf 
+
+                                                 
+25  Board of Governors of the Federal Reserve System, Consumers and Mobile Financial Services 2016, 
+
+www.federalreserve.gov/econresdata/consumers-and-mobile-financial-services-report-201603.pdf. 
+26 Id. 
+27 See, e.g., Blair Hanley Frank, “Meet Google’s Cool New Natural Language Tool, Parsey McParseface,” 
+
+Computerworld, May 12, 2016, www.computerworld.com/article/3070059/artificial-intelligence/meet-googles-cool-
+
+new-natural-language-tool-parsey-mcparseface.html. See also Google Research Blog, “TensorFlow--Google’s 
+
+Latest Machine Learning System, Open Sourced for Everyone,” November 9, 2015, 
+
+https://research.googleblog.com/2015/11/tensorflow-googles-latest-machine_9.html. Cf. Tom Simonite, “Facebook 
+
+Quietly Enters Starcraft War for AI Bots, and Loses,” Wired, October 9, 2017, www.wired.com/story/facebook-
+
+quietly-enters-starcraft-war-for-ai-bots-and-loses/.  
+
+
+- 8 - 
+
+
+models of cloud computing providers, potentially getting to market faster than by taking the 
+
+traditional route of finding training data and building out models in-house from scratch.  
+
+Third, fintech developers can also draw from enormous pools of data that were 
+
+previously unavailable outside of banking institutions.  Consumer financial data are increasingly 
+
+available to developers via a new breed of business-to-business suppliers, called data 
+
+aggregators.28  These companies enable outside developers to access consumer account and 
+
+transactional information typically stored by banks.  But aggregators do more than just provide 
+
+access to raw data.  They facilitate its use by developers, by cleaning the data, standardizing it 
+
+across institutions, and offering their own application programming interfaces for easy 
+
+integration.  Further, similar to cloud computing providers, data aggregators are also beginning 
+
+to provide off-the-shelf product stacks on their own platforms.29  This means that developers can 
+
+quickly and easily incorporate product features, such as predicting creditworthiness, determining 
+
+how much a consumer can save each month, or creating alerts for potential overdraft charges.  
+
+Researchers have documented the benefits of tailored one-on-one financial coaching.30  
+
+Until recently, though, it has been hard to deliver that kind of service affordably and at scale, due 
+
+to differences in consumers’ circumstances.  Let’s again consider the example of deferred 
+
+interest credit cards.  It turns out only a small minority of consumers miss the deadlines for 
+
+repaying promotional balances and are charged retroactive interest payments, and they typically 
+
+                                                 
+28 See, e.g., Lael Brainard, “Where Do Banks Fit in the Fintech Stack,” (speech at Northwestern Kellogg Public–
+
+Private Interface Conference on New Developments in Consumer Finance: Research and Practice), 
+
+www.federalreserve.gov/newsevents/speech/files/brainard20170428a.pdf. 
+29 See, e.g., Envestnet Yodlee, “Envestnet Yodlee Unveils Personal Financial Wellness Solution Powered by Data 
+
+Intelligence,” news release, June 12, 2017, www.prnewswire.com/news-releases/envestnet--yodlee-unveils-
+
+personal-financial-wellness-solution-powered-by-data-intelligence-300472018.html.   
+30 See, e.g., Brett Theodos, et al., An Evaluation of the Impacts and Implementation Approach of Financial 
+
+Coaching Programs (Washington: Urban Institute, October 2015), www.urban.org/research/publication/evaluation-
+
+impacts-and-implementation-approaches-financial-coaching-programs. 
+
+
+- 9 - 
+
+
+have deep subprime scores.31  Similarly, for consumers that opt into overdraft products on their 
+
+checking accounts, 8 percent of consumers pay 75 percent of the fees.32  Up until now, it has 
+
+been hard for consumers to understand those odds and objectively assess whether they are likely 
+
+to be in the group of customers that will face challenges with a particular financial product.  The 
+
+convergence of smartphone ubiquity, cloud computing, data aggregation, and off-the-shelf AI 
+
+products offer the potential to make tailored financial advice scalable.  For instance, a fintech 
+
+developer could pair historical data about how different types of consumers fare with a specific 
+
+product, on the one hand, with a consumer’s particular financial profile, on the other hand, to 
+
+make a prediction about how that consumer is likely to fare with the product.  
+
+The Evolution of Financial Autopilots  
+
+Since the early days of internet commerce, developers have tried to move beyond simple 
+
+price comparison tools to offer tailored “agents” for consumers that can recommend products 
+
+based on analyses of individual behavior and preferences.33  Today, a new generation of personal 
+
+financial management tools seems poised to make that leap.  When a consumer wishes to select a 
+
+new financial product, he or she can now solicit options from a number of websites and mobile 
+
+apps.  These new comparison sites can walk the consumer through a wide array of financial 
+
+products, offering to compare features like rewards, fees, and rates, or tailoring to a consumer’s 
+
+stated goals.  Some fintech advisors ask consumers to provide access to their bank accounts, 
+
+                                                 
+31 Consumer Financial Protection Bureau, The Consumer Credit Card Market (Washington: CFPB, December 
+
+2015), http://files.consumerfinance.gov/f/201512_cfpb_report-the-consumer-credit-card-market.pdf. 
+32 Trevor Bakker, Nicole Kelly, Jesse Leary, and Eva Nagypal, Data Point: Checking Account Overdraft, Consumer 
+
+Financial Protection Bureau report (Washington: CFPB, July 2014), 
+
+http://files.consumerfinance.gov/f/201407_cfpb_report_data-point_overdrafts.pdf. Likewise, one out of five new 
+
+payday loans are rolled over six times or more. Kathleen Burke, Jonathan Lanning, Jesse Leary, and Jialan Wang, 
+
+Data Point: Payday Lending, Consumer Financial Protection Bureau report (Washington: CFPB, March 2014), 
+
+http://files.consumerfinance.gov/f/201403_cfpb_report_payday-lending.pdf. 
+33 See, e.g., Phil Patton, “Buy Here, and We’ll Tell You What You Like,” New York Times, September 22, 1999, 
+
+https://partners.nytimes.com/library/tech/99/09/biztech/technology/22patt.html?mcubz=1.  
+
+
+- 10 - 
+
+
+retirement accounts, college savings accounts, and other investment platforms in order to enable 
+
+a fintech advisor to offer a consumer a single, near complete picture of his balances and cash 
+
+flows across different institutions.  
+
+In reviewing the advertising, terms and conditions, and apps of an array of fintech 
+
+advisors, it appears that many of these tools offer advanced data analysis, machine learning, and 
+
+even artificial intelligence to help consumers cut down on unnecessary spending, set aside 
+
+money for savings, and use healthy nudges to improve their financial decisions.  For instance, a 
+
+fintech advisor may help a consumer automate savings “rules,” like rounding up charges and 
+
+putting the difference into savings, enabling these small balances to accumulate over time or 
+
+setting a small amount of money aside every time a consumer spends money on little splurges. 
+
+The early stages of innovation inevitably feature a lot of learning from trial and error. 
+
+Fortunately, as the fintech ecosystem advances, there are useful experiences and good practices 
+
+to draw upon from the evolution of the commercial internet.  To begin with, one internet adage is 
+
+that if a product is free, “you are the product.”34  In this vein, fintech advisors frequently offer 
+
+free services to consumers and earn their revenue from the credit cards and other financial 
+
+products that they recommend through lead generation.  
+
+Of course, many fintech advisors are not lead generators.  Some companies offer fee-for-
+
+service models, with consumers paying a monthly fee for the product.  Other companies are paid 
+
+by employers, who then provide the products free of charge to their employees as an employee 
+
+benefit.  In these cases, they likely have quite different business models.  
+
+                                                 
+34 See, e.g., John Lanchester, “You Are the Product,” London Review of Books, vol. 39, no. 16-17, August 17, 2017, 
+
+www.lrb.co.uk/v39/n16/john-lanchester/you-are-the-product. Cf., Monica Anderson, “Key Takeaways on Mobile 
+
+Apps and Privacy,” Pew Research Center FactTank, November 10, 2015, www.pewresearch.org/fact-
+
+tank/2015/11/10/key-takeaways-mobile-apps/. 
+
+
+- 11 - 
+
+
+But for those services that do act as lead generators, there are important considerations 
+
+about whether and how best to communicate information to the consumer about the nature of the 
+
+recommendations being made.  For instance, according to some reports, fintech advisors can 
+
+make between $100 and $700 in lead generation fees for every customer that signs up for a credit 
+
+card they recommend.35  
+
+In many cases, a fintech advisor may describe their service as providing tailored advice 
+
+or making recommendations as they would to friends and family.  In such cases, a consumer 
+
+might not know whether the order in which products are presented by a fintech assistant is based 
+
+on the product’s alignment with his or her needs or different considerations.  Different fintech 
+
+advisors may order the lists they show consumers using different criteria.  A product may be at 
+
+the top of the advisor’s recommendations because the sponsoring company has paid the advisor 
+
+to list it at the top, or the sponsoring company may pay the fintech assistant a high fee, 
+
+contingent upon the consumer signing up for the product.  Alternatively, a fintech advisor may 
+
+change the order of the loan offers or credit cards based on the likelihood that the consumer will 
+
+be approved.  Moreover, in some cases, the absence of lead generation fees for a particular 
+
+product may impact whether that product is on the list shown to consumers at all.  
+
+There appears to be a wide variety of practices regarding the prominence and placement 
+
+of advertising and other disclosures relative to the advice and recommendations such firms 
+
+                                                 
+35 See, e.g., Nathaniel Popper, “Automated Assistants Will Soon Make a Bid for Your Finances,” New York Times, 
+
+December 7, 2016, www.nytimes.com/2016/12/07/business/dealbook/automated-assistants-will-soon-make-a-bid-
+
+for-your-finances.html. 
+
+
+- 12 - 
+
+
+provide.  Overall, fintech assistants have increasingly improved the disclosures that explain to 
+
+consumers how they get paid, but this is still a work in progress.  
+
+The good news is that these challenges are not new.  The experience with internet search 
+
+engines outside of financial products, such as Google, Bing, and Yahoo!, as well as with other 
+
+product comparison sites, such as Travelocity and Yelp, may provide useful guidance.  As 
+
+consumers and businesses have adapted to the internet, we have, collectively, adopted norms and 
+
+standards for how we can expect search and recommendation engines to operate.  In particular, 
+
+we generally expect that search results will be included and ranked based on what’s organically 
+
+most responsive to the search--unless it is clearly labeled otherwise.36  Accordingly, when we 
+
+search for a product, we now know to look for visual cues that identify paid search results, 
+
+usually in the form of a text label like “Sponsored” or “Ad”, different formatting, and 
+
+visually separating advertising from natural search results.37  Even when an endorsement is made 
+
+in a brief Twitter update, we now expect disclosures to be clear and conspicuous.38  
+
+As fintech advisors evolve to engage consumers in new ways, disclosure methodologies 
+
+will no doubt be expected to adapt as well.  For instance, some personal financial management 
+
+                                                 
+36 Cf., Federal Trade Commission, “Mary Engle Letter to Search Engine Providers,” n.4, June 24, 2013, 
+
+www.ftc.gov/sites/default/files/attachments/press-releases/ftc-consumer-protection-staff-updates-agencys-guidance-
+
+search-engine-industryon-need-distinguish/130625searchenginegeneralletter.pdf; Federal Trade Commission, “FTC 
+
+Consumer Protection Staff Update Agency’s Guidance to Search Engine Industry on the Need to Distinguish 
+
+Between Advertisements and Search Results,” press release, June 25, 2013, www.ftc.gov/news-events/press-
+
+releases/2013/06/ftc-consumer-protection-staff-updates-agencys-guidance-search; Federal Trade Commission, 
+
+“Commercial Alert Response Letter,” June 27, 2002, www.ftc.gov/enforcement/cases-proceedings/closing-
+
+letters/commercial-alert-response-letter. 
+37 Cf., Federal Trade Commission, “Mary Engle Letter to Search Engine Providers,” n.4, June 24, 2013, 
+
+www.ftc.gov/sites/default/files/attachments/press-releases/ftc-consumer-protection-staff-updates-agencys-guidance-
+
+search-engine-industryon-need-distinguish/130625searchenginegeneralletter.pdf.  
+38 Cf., Federal Trade Commission, “The FTC’s Endorsement Guides: What People Are Asking,” September 2017, 
+
+www.ftc.gov/tips-advice/business-center/guidance/ftcs-endorsement-guides-what-people-are-asking; Federal Trade 
+
+Commission, “.com Disclosures: How to Make Effective Disclosures in Digital Advertising,” March 2013, 
+
+www.ftc.gov/sites/default/files/attachments/press-releases/ftc-staff-revises-online-advertising-disclosure-
+
+guidelines/130312dotcomdisclosures.pdf. 
+
+
+- 13 - 
+
+
+tools now interact with consumers via text message.  If consumers move to a world in which 
+
+most of their interactions with their advisors occur via text-messaging “chatbots”--or voice 
+
+communication--I am hopeful that industry, regulators, consumers, and other stakeholders will 
+
+work together to adapt the norms to distinguish between advice and sponsored recommendations. 
+
+The Data Relationship   
+
+While the lead generation revenue model presents some familiar issues that are readily 
+
+apparent, under the hood, fintech relationships raise even more complex issues for consumers in 
+
+knowing who they are providing their data to, how their data will be used, for how long, and 
+
+what to expect in the case of a breach or fraud.  Let me briefly touch on each issue in turn.  
+
+Often, when a consumer signs up with a fintech advisor or other fintech app, they are 
+
+asked to log into their bank account in order to link the fintech app with their bank account data. 
+
+In reviewing apps’ enrollment processes, it appears that consumers are often shown log-in 
+
+screens featuring bank logos and branding, prompting consumers to enter their online banking 
+
+logins and passwords.  In many cases, the apps note that they do not store the consumers’ 
+
+banking credentials. 
+
+When the consumer logs on, he or she is often not interfacing with a banks’ computer 
+
+systems, but rather, providing the bank account login and password to a data aggregator that 
+
+provides services to the fintech app.  In many cases, the data aggregator may store the password 
+
+and login and then use those credentials to periodically log into the consumer’s bank account and 
+
+copy available data, ranging from transaction data, to account numbers, to personally identifiable 
+
+information.  In other cases, things work differently under the hood.  Some banks and data 
+
+aggregators have agreed to work together to facilitate the ability to share data with outside 
+
+
+- 14 - 
+
+
+developers in authorized ways.  These agreements may delineate what types of data will be 
+
+shared, and authorization credentials may be tokenized so that passwords are never stored by the 
+
+aggregator.39  
+
+It is often hard for the consumer to know what is actually happening under the hood of 
+
+the financial app they are accessing.  In most cases, the log in process does not do much to 
+
+educate the consumer on the precise nature of the data relationship.  Screen scraping usually 
+
+invokes the bank’s logo and branding but infrequently shows the logo or name of the data 
+
+aggregator.  In reviewing many apps, it appears that the name of the data aggregator is frequently 
+
+not disclosed in the fintech app’s terms and conditions, and a consumer generally would not 
+
+easily see what data is held by a data aggregator or how it is used.  The apps, websites, and terms 
+
+and conditions of fintech advisors and data aggregators often do not explain how frequently data 
+
+aggregators will access a consumer’s data or how long they will store that data.40 
+
+Recognizing this is a relatively young field, but one that is growing fast, there are a 
+
+myriad of questions about the consumer’s ability to opt out and control over data that will need 
+
+to be addressed appropriately.  In examining the terms and conditions for a number of fintech 
+
+apps, it appears that consumers are rarely provided information explaining how they can 
+
+                                                 
+39 See, e.g., Finicity, “Finicity and Wells Fargo Ink Data Exchange Deal,” press release, April 4, 2017, 
+
+www.finicity.com/press-release-finicity-wells-fargo-ink-data-exchange-deal/; Wells Fargo & Co., “Intuit Signs New 
+
+Data-Exchange Agreement with Wells Fargo,” press release, February 3, 2017, 
+
+www.wellsfargo.com/about/press/2017/intuit-agreement_0203/; Intuit, “Chase, Intuit to Give Customers Greater 
+
+Control of Their Information,” press release, January 25, 2017, www.intuit.com/company/press-room/press-
+
+releases/2017/Chase-Intuit-to-Give-Customers-Greater-Control-of-Their-Information/; Wells Fargo & Co., “Wells 
+
+Fargo, Xero Agree on New Data-Exchange Method,” press release, June 7, 2016, 
+
+www.wellsfargo.com/about/press/2016/new-dataexchange-method_0607/; Silicon Valley Bank, “Xero and Silicon 
+
+Valley Bank Partner to Offer Innovative Companies Next-Generation Financial Management,” press release, July 
+
+16, 2014, www.svb.com/News/Company-News/Xero-and-Silicon-Valley-Bank-Partner-to-Offer-Innovative-
+
+Companies-Next-Generation-Financial-Management/.  
+40 See, e.g., Penny Crosman, “Data-Sharing Debate Grows Contentious as Fintechs Vent Grievances,” American 
+
+Banker, August 15, 2017, www.americanbanker.com/news/data-sharing-debate-grows-contentious-as-fintechs-vent-
+
+grievances. 
+
+
+- 15 - 
+
+
+terminate the collection and storage of their data.  For instance, when a consumer deletes a 
+
+fintech app from his or her phone, it is not clear this would guarantee that a data aggregator 
+
+would delete the consumer’s bank login and password, nor discontinue accessing transaction 
+
+information.  If a consumer severs the data access, for instance by changing banks or bank 
+
+account passwords, it is also not clear how he or she can instruct the data aggregator to delete the 
+
+information that has already been collected.  Given that data aggregators often don’t have 
+
+consumer interfaces, consumers may be left to find an email address for the data aggregator, 
+
+send in a deletion request, and hope for the best. 
+
+If things go wrong, consumers may have limited remedies.  In reviewing terms, it appears 
+
+that many fintech advisors include contractual waivers that purport to limit consumers’ ability to 
+
+seek redress from the advisor or an underlying data aggregator.  In some cases, the terms and 
+
+conditions assert that the fintech developer and its third-party service providers will not be liable 
+
+to consumers for the performance of or inability to use the services.  It is not uncommon to see 
+
+terms and conditions that limit the fintech adviser’s liability to the consumer to $100. 
+
+Traditionally, under the Electronic Funds Transfer Act and its implementing Regulation 
+
+E, consumers have had protections to mitigate their losses in the event of erroneous or fraudulent 
+
+transactions that would otherwise impact their credit and debit cards, such as data breaches. 
+
+Those protections are not absolute, however.41  In particular, if a consumer gives another person 
+
+an “access device” to their account and grants them authority to make transfers, then the 
+
+consumer is “fully liable” for transfers made by that person, even if that person exceeds his or 
+
+                                                 
+41 See 12 CFR section 1005.2(m) (1). (Excluding from the definition of “unauthorized electronic fund transfer” any 
+
+“electronic fund transfer initiated… [by] a person who was furnished the access device to the consumer’s account by 
+
+the consumer…..”) 
+
+
+- 16 - 
+
+
+her authority, until the consumer notifies the bank.42  As the industry matures, the various 
+
+stakeholders will need to develop a shared understanding of who bears responsibility in the event 
+
+of a breach.43 
+
+Shared Responsibility and Shared Benefit Moving Forward 
+
+So what can be done to make sure consumers have the requisite information and control 
+
+to remain squarely in the driver’s seat?  Establishing and implementing new norms is in the 
+
+shared interest of all of the participants in the fintech stack.  For instance, in the case of credit 
+
+cards, mortgages, and many other products, it is often banks or parties closely affiliated with 
+
+banks that pay fees to fintech advisors to generate leads for their products, pursuant to a contract. 
+
+Through these contractual relationships with fintech advisors, banks have considerable influence 
+
+in the lead generation relationship, including through provisions describing how a sponsored 
+
+product should be described or displayed.  Banks have a stake in ensuring that their vendors and 
+
+third-party service providers act appropriately, that consumers are protected and treated fairly, 
+
+and that the banks’ reputations aren’t exposed to unnecessary risk.44  Likewise, some of the 
+
+leading speech-only financial products are currently credit card and bank products.45 
+
+                                                 
+42 Comment 2(m)-2 clarifies that if “a consumer furnishes an access device and grants authority to make transfers to 
+
+a person . . . who exceeds the authority given, the consumer is fully liable for the transfers unless the consumer has 
+
+notified the financial institution that transfers by that person are no longer authorized.” 
+43 See Kaitlin Asrow and Beth Brockland, Liability, Transparency and Consumer Control in Data Sharing 
+
+(Washington: Center for Financial Services Innovation, September 18, 2017), 
+
+http://cfsinnovation.org/research/liability-transparency-consumer-control-in-data-sharing/. (“There are differing 
+
+interpretations of how regulations, such as the OCC’s Third Party Risk Management guidance, the Gramm-Leach-
+
+Bliley Act’s privacy and safeguard rules, and Regulation E liability limits, should be applied to data sharing between 
+
+financial institutions and third parties like data aggregators and financial technology applications.”) 
+
+See also JPMorgan Chase, “How You Can Protect Yourself,” (last visited October 18, 2017), 
+
+www.chase.com/digital/resources/privacy-security/security/how-you-can-protect; Liz Weston, “Why Banks Want 
+
+You to Drop Mint, Other ‘Aggregators,’” Reuters, November 9, 2015, www.reuters.com/article/us-column-weston-
+
+banks/why-banks-want-you-to-drop-mint-other-aggregators-idUSKCN0SY2GC20151109.  
+44 See, e.g., Board of Governors of the Federal Reserve System, “Guidance on Managing Outsourcing Risk,” SR 
+
+letter 13-19/CA letter 13-21, December 5, 2013, www.federalreserve.gov/supervisionreg/srletters/sr1319a1.pdf.  
+45  See, e.g., American Express, “Introducing the Amex Skill for Amazon Alexa” (last visited October 18, 2017), 
+
+www.americanexpress.com/us/content/alexa/.; Leena Rao, “American Express Debuts Its First Amazon Alexa 
+
+
+- 17 - 
+
+
+Accordingly, banks have incentives to invest in innovating the way they disclose information to 
+
+consumers, as they also invest in new ways of interacting with them. 
+
+As for consumers’ relationships with data aggregators, there’s an increasing recognition 
+
+that consumers need better information about the terms of their relationships with aggregators, 
+
+more control over what is shared, and the ability to terminate the relationship.46  We have spoken 
+
+to data aggregators who recognize the importance of finding solutions to many of the complex 
+
+issues involved with the important work of unlocking the potential of the banking stack to 
+
+developers.  And while there are some difficult issues in this space, other issues seem relatively 
+
+straightforward.  It shouldn’t be hard for a consumer to be informed who they are providing their 
+
+credentials to.  Consumers should have relatively simple means of being able to consent to what 
+
+data are being shared and at what frequency.  And consumers should be able to stop data sharing 
+
+and request the deletion of data that have been stored.  
+
+Responsibility for establishing appropriate norms in the data aggregation space should be 
+
+shared, with banks, data aggregators, fintech developers, consumers, and regulators all having a 
+
+role.47  Banks and data aggregators are negotiating new relationships to determine how they can 
+
+work together to provide consumers access to their data, while also ensuring that the process is 
+
+                                                 
+Skill,” Fortune, May 11, 2017, http://fortune.com/2017/05/11/american-express-alexa-skill/; Capital One, 
+
+“CapitalOne is on Amazon Echo” (last visited October 18, 2017), www.capitalone.com/applications/alexa/. 
+46 See, e.g., Consumer Financial Protection Bureau, “Consumer Protection Principles: Consumer-Authorized 
+
+Financial Data Sharing and Aggregation,” October 18, 2017, 
+
+http://files.consumerfinance.gov/f/documents/cfpb_consumer-protection-principles_data-aggregation.pdf; Kaitlin 
+
+Asrow and Beth Brockland, Liability, Transparency and Consumer Control in Data Sharing, Center for Financial 
+
+Services Innovation, September 18, 2017, http://cfsinnovation.org/research/liability-transparency-consumer-control-
+
+in-data-sharing/. 
+47 Cf. Kaitlin Asrow and Beth Brockland, Liability, Transparency and Consumer Control in Data Sharing, Center 
+
+for Financial Services Innovation, September 18, 2017, http://cfsinnovation.org/research/liability-transparency-
+
+consumer-control-in-data-sharing/.  
+
+
+- 18 - 
+
+
+secure and leaves consumers in the driver’s seat.48  In many cases, banks themselves were often 
+
+the original customers of data aggregators, and many continue to use these services.  According 
+
+to public filings, more than half of the 20 largest banks are customers of data aggregators.49  The 
+
+banks have an opportunity as customers of data aggregation services to ensure that the terms of 
+
+data provision protect consumers’ data and handle it appropriately.  
+
+Regulators also recognize that there may be opportunities to provide more clarity about 
+
+how the expectations about third-party risk management would work in this sector, as well as 
+
+other areas experiencing significant technological change.  Through external outreach and 
+
+internal analysis, we are working to determine how best to encourage socially beneficial 
+
+innovation in the marketplace, while ensuring that consumers’ interests are protected.  We 
+
+recognize the importance of working together and the potential to draw upon existing policies, 
+
+norms, and principles from other spaces. Consumers may not fully understand the differences in 
+
+regulations across financial products or types of financial institutions, or whether the rules 
+
+change when they move from familiar search and e-commerce platforms to the fintech stack. 
+
+Consumers, as well as the market as a whole, will benefit if regulators coordinate to provide 
+
+more unified messages and support the development of standards that serve as a natural 
+
+extension of the common-sense norms that consumers have come to expect in other areas of the 
+
+commercial internet.  
+
+                                                 
+48 See, e.g., Penny Crosman, “Data-Sharing Debate Grows Contentious as Fintechs Vent Grievances,” American 
+
+Banker, August 15, 2017, www.americanbanker.com/news/data-sharing-debate-grows-contentious-as-fintechs-vent-
+
+grievances. 
+49 Envestnet, Inc., Form 10-K, March 17, 2017, www.envestnet.com/report/2016/download/Envestnet-
+
+2016AnnualReport-Form10-K.pdf.  
+
+
+- 19 - 
+
+
+Conclusion 
+
+The combination of technologies that put vast computing power, rich data sets, and 
+
+artificial intelligence onto simple smartphone apps together with important research into 
+
+consumer financial behaviors has great potential to help consumers navigate their complex 
+
+financial lives more effectively, but there are also important risks.  I am hopeful that fintech 
+
+developers, data aggregators, bank partners, consumers, and regulators will work together to 
+
+keep consumers in the driver’s seat as we move forward with these new technologies.  If we 
+
+work together effectively toward this goal, the fintech stack may be able to offer enormous 
+
+benefits to the consumers they aim to serve, while appropriately identifying and managing the 
+
+risks.  
+

@@ -1,0 +1,593 @@
+
+For release on delivery 
+
+6:20 p.m. EDT  
+
+October 18, 2017 
+
+
+
+
+
+
+
+
+
+Financial Innovation: A World in Transition 
+
+
+
+
+Remarks by 
+
+
+Jerome H. Powell 
+
+
+Member 
+
+
+Board of Governors of the Federal Reserve System 
+
+
+at the 
+
+
+41st Annual Central Banking Seminar, sponsored by  
+
+the Federal Reserve Bank of New York 
+
+
+New York, New York 
+
+
+
+
+
+
+
+
+October 18, 2017 
+
+
+
+
+
+We live in a world defined by the rapid pace of technological change.  Four of the 
+
+five largest U.S. companies by market capitalization are classified as “technology 
+
+companies,” where the term describes the products that these companies sell and how 
+
+they operate.  Thanks to decades of investment in information technology, especially in 
+
+electronic communication networks, consumers now expect services to be available 
+
+instantly at their fingertips.  This statement is true for almost every industry and every 
+
+aspect of daily life, including financial transactions. 
+
+This evening, I will consider how technology is changing the delivery of retail 
+
+banking and payments services.  I will discuss the roles of banks, fintech companies, and 
+
+other stakeholders in moving the United States forward to a better payment system.  I will 
+
+also review the Federal Reserve’s collaboration with these payment system stakeholders 
+
+in pursuing that goal.  I will argue that, for policymakers as well as the private sector, the 
+
+challenge is to embrace technology as a means of improving convenience and speed in 
+
+the delivery of financial services, while also assuring the security and privacy necessary 
+
+to sustain the public’s trust.    As always, the views I express here are my own.    
+
+Retail Banking Innovation 
+
+As with so many sectors of the economy, technology is transforming the retail 
+
+banking sector.  The banking industry has traditionally been characterized by physical 
+
+branches, privileged access to financial data, and distinct expertise in analyzing such 
+
+data.1  But in today’s world companies need not be bound by physical infrastructure and 
+
+related overhead expenses.  For example, companies can take advantage of an explosion 
+
+                                                 
+1 See, e.g., Miklos Dietz, Somesh Khanna, Tunde Olanrewaju, and Kausik Rajgopal, “Cutting Through the 
+
+Noise around Financial Technology,” McKinsey & Company, February, 2016, 
+
+www.mckinsey.com/industries/financialservices/our-insights/cutting-through-the-noise-around-financial-
+
+technology.  
+
+
+ - 2 - 
+
+in available data, and leverage advances in computing power, via cloud computing, 
+
+analytical tools, and off-the-shelf machine learning tools, to make sense of those data.  
+
+The banking industry is adjusting to this world, and facing significant challenges to 
+
+traditional banking business models.  
+
+For example, today financial technology can support access to credit through 
+
+innovative approaches to gathering and analyzing data.  Historically, a customer seeking 
+
+a loan has provided financial statements to a bank or other traditional lending institution.  
+
+More recently, the use of a fintech platform may allow a lender to quickly monitor and 
+
+analyze more up-to-date data from a broader range of sources, including those outside of 
+
+the traditional lending process, to verify an applicant’s identity and make inferences 
+
+about the applicant’s overall financial health.  For example, a business loan applicant 
+
+could submit information such as shipping data or customer reviews as additional input to 
+
+more traditional data sources.  With this additional information, the bank would have a 
+
+more complete picture of an applicant’s day-to-day activity and overall financial 
+
+capacity, and potentially a greater ability to provide credit to customers, including some 
+
+who might have been otherwise denied a loan based on traditional data.  
+
+Fintech firms are also finding ways to use banks’ data, in some cases without 
+
+entering into an explicit partnership with the bank.  With customers’ permission, fintech 
+
+firms have increasingly turned to data aggregators to “screen scrape” information from 
+
+financial accounts.  In such cases, data aggregators collect and store online banking 
+
+logins and passwords provided by the bank’s customers and use them to log directly into 
+
+the customer’s banking account.  This information can be used to provide consumers with 
+
+
+ - 3 - 
+
+convenient real-time snapshots of their financial information across multiple banks and 
+
+accounts.  
+
+These examples highlight that there is a balance that needs to be achieved in this 
+
+innovative environment.2  On the one hand, new technologies have enabled banks and 
+
+other firms to find different ways of meeting consumers’ demand for speed and 
+
+convenience.  On the other hand, these same technologies raise new considerations about 
+
+data security and safety, as well as consumer privacy and protection.  Policymakers and 
+
+the financial industry must assure that enhanced convenience and speed in financial 
+
+services do not undermine the safety, security, and reliability of those services.   
+
+Retail Payments Innovation 
+
+Technology is also shaping changes in retail payments.  As with retail banking, 
+
+retail payments will need to evolve to meet consumer expectations of constant 
+
+connectivity and instant access while assuring security and privacy.  
+
+It is not news that consumers’ lives, including the way they pay, are now 
+
+intertwined with mobile phone usage.  While the overall amount of time we spend on our 
+
+phones continues to grow, the duration of individual phone sessions is actually shrinking.  
+
+In late 2015, Google estimated that the average mobile session lasts only 70 seconds, and 
+
+may be repeated dozens of times per day.3  As a result, payment innovators have had to 
+
+create new ways to move money that are not only fast and mobile-focused, but also 
+
+                                                 
+2 See Lael Brainard, “Where Do Banks Fit in the Fintech Stack?” (speech delivered at the Northwestern 
+
+Kellogg Public-Private Interface Conference on “New Developments in Consumer Finance: Research & 
+
+Practice,” Evanston, Illinois, April 28, 2017), 
+
+https://www.federalreserve.gov/newsevents/speech/brainard20170428a.htm.   
+3 “Your Guide to Winning the Shift to Mobile,” Google, Micro-Moments, September 2015, 
+
+https://www.thinkwithgoogle.com/marketing-resources/micro-moments/micromoments-guide-pdf-
+
+download/. 
+
+
+ - 4 - 
+
+sufficiently “frictionless” that consumers can now fit commerce into these brief 
+
+interludes.  
+
+This development has ushered in a world of multiple smartphone apps that allow 
+
+for “instant” payments.  We can use a payments app to move funds instantly to anyone 
+
+who has that app.4  Some banks have similarly collaborated to build faster payments 
+
+applications that leverage their deposit account systems.  And we are already moving to a 
+
+world in which we need not open a special app or go to our bank’s website in order to 
+
+send money.  Many people here will have taken an Uber or Lyft, and then paid your 
+
+driver without relaunching the app, much less reaching for your wallet.  Similarly, 
+
+payment providers can now leverage the application programming interfaces (APIs)—
+
+essentially the protocols—of smartphone messaging services to integrate their payment 
+
+tools directly into messaging applications: Nowadays, consumers can simply “attach” 
+
+money while messaging a friend.  
+
+Innovation in retail payments can also offer tangible benefits to consumers 
+
+beyond convenience.  Improvements in security, such as our ability to authenticate 
+
+consumers and detect fraudulent transactions, are also possible through innovation.  For 
+
+instance, mobile payments introduce a wide array of ways to authenticate a consumer’s 
+
+identity, including  two-factor authentication codes sent via text message to the phone; 
+
+biometrics, like a fingerprint or face scan; device identification information; IP address; 
+
+and geolocation data.  Similarly, increased access to transaction data and cloud 
+
+computing resources means that we have smarter, faster computational processes—like 
+
+enhanced neural networks—to detect payments that do not match a consumer’s spending 
+
+                                                 
+4 Cashing the funds out of the app to use for other payments, however, has traditionally taken longer.  
+
+
+ - 5 - 
+
+patterns and help prevent fraudulent transactions.  Both security and convenience are 
+
+crucial elements for successful payments innovation.  Consumers will not store their 
+
+funds in a system that is not secure and will not want to transfer funds out of an otherwise 
+
+secure system if the process is cumbersome.  
+
+The Role of Banks in Payments Innovation 
+
+The examples I have highlighted so far illustrate payments innovations from 
+
+fintech firms and banks alike.  I want to spend a moment highlighting the special role of 
+
+banks in the payments process, and how banks are needed in order to create innovations 
+
+that can be used broadly across the economy.  
+
+The traditional role of banks in the payments process has been to hold deposits 
+
+and enable their transfer from one individual or business to another.  A depositor might 
+
+withdraw cash from the bank’s ATM to pay a friend or write a check to make a payment.  
+
+Over time, we have moved from ATMs and paper checks toward electronic payments and 
+
+online payments through banking platforms—payment methods for which banks are still 
+
+perceived as essential.  More recently, consumer-facing technology has become front and 
+
+center.  At times, the payments process is so seamlessly integrated that one can forget 
+
+that there is even a bank in the process, as with the Uber and Lyft example.  But despite 
+
+this shift in focus, payments innovation is still fundamentally about how, when, and 
+
+where an individual’s deposits can be held, transferred, and packaged with other 
+
+information.  And banks are still important players in making that happen.  Even where 
+
+this reality is obscured by several layers of technology, there is almost always a bank 
+
+involved in consumer transactions. 
+
+
+ - 6 - 
+
+Given their importance in holding and transferring funds, banks continue to have 
+
+a key role to play in the design and safety of more efficient retail payment systems.  
+
+Without bank participation, it would be difficult to change how funds are transferred in a 
+
+way that brings pervasive benefits to consumers.  For example, if the aim is to capture the 
+
+speed and continuous nature of today’s commerce in the payment system as a whole—as 
+
+has become a focus for many countries, including the United States—it would be difficult 
+
+to do so without banks allowing the transfer of their deposits on a 24x7 real-time basis.  
+
+Of course, individual payment systems are already doing this for consumers within their 
+
+own network.  But achieving these benefits on a broad scale would be challenging 
+
+without the banking system’s participation, because of the large role banks have in 
+
+holding and transferring funds. 
+
+All this is to say that we are at a critical juncture in the payment system’s 
+
+evolution, where technology is rapidly changing many facets of the payments process.  
+
+Fintech firms and banks are seizing these technological changes in their own ways.  But a 
+
+collective and collaborative effort by all payment stakeholders will also be important as 
+
+the United States works to achieve a payment system that has broad reach and can 
+
+seamlessly integrate with other systems to transfer funds in a reliable, secure, and 
+
+convenient manner.  When we pay with cash or write a check, we don’t spend a lot of 
+
+time worrying about who our recipient banks with; that universality seems an appropriate 
+
+standard for new payment options as well. 
+
+Strategies for Improving the U.S. Payment System 
+
+At the Federal Reserve, we believe it is important to embrace opportunities 
+
+provided by technological change to improve the convenience and safety of the U.S. 
+
+
+ - 7 - 
+
+payment system.  About five years ago, we launched our payment system improvement 
+
+initiative, which committed the Federal Reserve to working with the full range of 
+
+payments system stakeholders to achieve a faster, more secure payment system.  We saw 
+
+that technology was transforming the nature of commerce and end-user expectations for 
+
+payment services.  We saw some players coming to market with innovative product 
+
+offerings, but it was a fragmented approach.  Meanwhile, other countries were advancing 
+
+on initiatives to improve the speed and safety of their payment systems, creating a gap 
+
+between the U.S. payment system and those abroad.   
+
+While the Federal Reserve does not have plenary authority over payment systems, 
+
+as is the case in some other countries, we have often played an important role as a leader 
+
+and catalyst for change.  It was in this role that we issued a call to action asking 
+
+stakeholders to come together in pursuit of a better payment system for the future—
+
+focusing on speed, security, efficiency, international payments, and collaboration.5  I 
+
+believe a collaborative approach ensures that change is designed by those whose 
+
+commitment and expertise are needed to improve the payment system. 
+
+Stakeholders – including banks, fintech companies, consumer groups, regulators, 
+
+and others -- answered our call to action, signing up for two task forces convened by the 
+
+Federal Reserve.  More than 300 stakeholders joined the Faster Payments Task Force, 
+
+and around 200 joined the Secure Payments Task Force.  Let me first touch upon the 
+
+Faster Payments Task Force, which has recently completed its work.6  
+
+                                                 
+5 See Federal Reserve System, “Strategies for Improving the U.S. Payment System,” January 26, 2015, 
+https://fedpaymentsimprovement.org/wp-content/uploads/strategies-improving-us-payment-system.pdf. 
+6 See Faster Payments Task Force (2017), “The U.S. Path to Faster Payments, Final Report Part Two: A 
+
+Call to Action,” https://fasterpaymentstaskforce.org/.  
+
+
+ - 8 - 
+
+The Faster Payments Task Force’s mission was to identify and assess alternative 
+
+approaches for implementing a safe, ubiquitous, faster payments system in the United 
+
+States.  The task force began its work by developing a set of effectiveness criteria laying 
+
+out desirable attributes for faster payment solutions covering the broad categories of 
+
+ubiquity, efficiency, safety and security, speed, legal framework, and governance.  While 
+
+the task force was focused on improving speed and convenience, it also underscored the 
+
+importance of safety and security by establishing 11 criteria of a total of 36 focused on 
+
+those objectives.   
+
+The task force encouraged its members to submit proposals for faster payment 
+
+solutions that would meet the criteria that its members had agreed upon.  A diverse range 
+
+of task force members rose to the challenge by submitting 16 proposals to be vetted 
+
+against its criteria.7  These proposals represent a broad universe of creative and 
+
+innovative ways to deliver faster payments by embracing technology.  They range in 
+
+structure from solutions that use a centralized clearing and settlement mechanism to 
+
+others that focus on distributed networks.  Some are based on traditional assets held in 
+
+transaction accounts, and others depend on new asset forms like digital currencies.  The 
+
+role of the task force process was not to recommend or implement a faster payment 
+
+solution, but rather to offer a range of ideas to move the United States further along the 
+
+path to a better payment system.  We believe that the task force has successfully carried 
+
+out this role.  
+
+                                                 
+7 The task force recommended establishing an external Qualified Independent Assessment Team to conduct 
+
+objective proposal assessments. On behalf of the task force, the Federal Reserve selected McKinsey & 
+
+Company to conduct a comprehensive assessment of each faster payment solution proposal against the task 
+
+force’s set of criteria. 
+
+
+ - 9 - 
+
+We are very grateful to the members of the Faster Payment Task Force for all of 
+
+their work and for the collaborative spirit they brought to the job.  But there is more to be 
+
+done to advance our collective vision of a ubiquitous, real-time, secure future payment 
+
+system.  Last month, the Federal Reserve reaffirmed its commitment to that vision in the 
+
+paper, “Federal Reserve Next Steps in the Payments Improvement Journey,” which 
+
+outlines refreshed strategies and tactics that we, in collaboration with the payment 
+
+industry, will employ to make further progress. 8  I will mention just a few. 
+
+One of the recommendations from the Faster Payments Task Force work was to 
+
+establish an industry governance framework for collaboration and decision-making on 
+
+faster payments.  To move forward in creating this framework, the task force established 
+
+the Governance Framework Formation Team to develop, publish, and solicit public 
+
+comment on a proposal for a governance framework.  This work group will carry out 
+
+many of the task force recommendations and the Federal Reserve, at the request of the 
+
+task force, is chairing and facilitating this effort.  
+
+In addition, the Federal Reserve is considering providing settlement services—a 
+
+traditional core function of a central bank—to address the future needs of a ubiquitous 
+
+real-time retail payments environment.  We plan to actively engage with the industry and 
+
+other stakeholders to further understand gaps and requirements for real-time retail 
+
+payments settlement and assess alternative models that will support needs over the long 
+
+term.  We also plan to explore and assess the need, if any, for other related Federal 
+
+Reserve services or capabilities.  In carrying out this assessment, we will be guided by 
+
+                                                 
+8 See Federal Reserve System, “Federal Reserve Next Steps in the Payments Improvement Journey,” 
+
+September 6, 2017, https://fedpaymentsimprovement.org/wp-content/uploads/next-step-payments-
+
+journey.pdf.   
+
+
+ - 10 - 
+
+current and potential market developments and challenges, as well as our long-
+
+established criteria for offering new products and services.  These criteria include the 
+
+need to fully recover costs over the long term; the expectation that the new service will 
+
+yield clear public benefit; and the expectation that other providers alone cannot be 
+
+expected to provide the service with a reasonable effectiveness, scope, and equity.9 
+
+The Federal Reserve will also continue to support the ongoing work of the Secure 
+
+Payments Task Force.  This task force has been working to educate stakeholders on 
+
+payment security practices, risks, and actions that could enhance payment security.  
+
+These are challenging topics, because they require stakeholders to be open and 
+
+forthcoming about potential vulnerabilities if there is to be substantial progress.   
+
+The Federal Reserve will also pursue two new efforts focused on security.  Early 
+
+in 2018, we plan to launch a study analyzing payment security vulnerabilities.  This study 
+
+is similar to other research efforts that the Federal Reserve has pursued to build 
+
+foundational and collective understanding of the U.S. payment system.  We also plan to 
+
+build upon the contributions of the Secure Payments Task Force to establish work groups 
+
+focused on approaches for reducing the cost and prevalence of specific payment security 
+
+vulnerabilities.  In a world of ever-escalating threats to the integrity of our payment 
+
+system, this collective action is needed to sustain public confidence. 
+
+These were just a few of our new initiatives.  The package of next steps the 
+
+Federal Reserve outlined in its recent paper confirm that we remain steadfast in our 
+
+commitment to work with industry and other stakeholders to achieve a better payment 
+
+system through both leadership and action.     
+
+                                                 
+9 See Board of Governors of the Federal Reserve System, “Policies: The Federal Reserve in the Payments 
+
+System,” revised 1990, https://www.federalreserve.gov/paymentsystems/pfs_frpaysys.htm.  
+
+
+ - 11 - 
+
+Summary 
+
+Rapidly changing technology is providing a historic opportunity to transform our 
+
+daily lives, including the way we pay.  Fintech firms and banks are embracing this 
+
+change, as they strive to address consumer demands for more timely and convenient 
+
+payments.  A range of innovative products that seamlessly integrate with other services is 
+
+now available at our fingertips.  It is essential, however, that this innovation not come at 
+
+the cost of a safe and secure payment system that retains the confidence of its end users.  
+
+The examples I have drawn upon today highlight that fintech firms and banks must each 
+
+play a role in assuring that enhancements to convenience and speed do not undermine 
+
+safety and security.  More broadly, the Faster and Secure Payments Task Forces 
+
+demonstrate the importance of broad and diverse stakeholder input, which are essential if 
+
+the United States is to implement safe, ubiquitous real-time retail payments.  Working 
+
+together, we can achieve a safe and fast payments system that meets the evolving needs 
+
+of consumers and our dynamic economy.  
+
+
+

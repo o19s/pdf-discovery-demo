@@ -1,0 +1,1044 @@
+
+For release on delivery 
+
+12:15 p.m. EDT 
+
+November 28, 2012 
+
+
+
+
+
+Regulation of Foreign Banking Organizations 
+
+
+
+
+Remarks by 
+
+
+Daniel K. Tarullo 
+
+
+Member 
+
+
+Board of Governors of the Federal Reserve System 
+
+
+
+
+
+Yale School of Management Leaders Forum 
+
+
+New Haven, Conn. 
+
+
+
+
+
+November 28, 2012 
+
+
+
+
+
+In the aftermath of the financial crisis, regulators around the world continue to implement 
+
+reforms designed to limit the incidence and severity of future crises.  My subject today pertains 
+
+to an area in which reforms have yet to be made--the regulation of the U.S. operations of large 
+
+foreign banks.
+1
+  Applicable regulation has changed relatively little in the last decade, despite a 
+
+significant and rapid transformation of those operations, as foreign banks moved beyond their 
+
+traditional lending activities to engage in substantial, and often complex, capital market 
+
+activities.  The crisis revealed the resulting risks to U.S. financial stability.           
+
+In taking a fresh look at regulation of foreign banks in the United States, I by no means 
+
+want to imply that the United States should revoke its welcome to foreign banks.  On the 
+
+contrary, this reconsideration reflects the important role foreign banks have played.  The 
+
+presence of foreign banks can bring particular competitive and countercyclical benefits because 
+
+foreign banks often expand lending in the United States when U.S. banking firms labor under 
+
+common domestic strains.  But just as we are adapting our regulatory approach to U.S. banks, so 
+
+we need to incorporate important lessons learned from the crisis into our oversight program for 
+
+foreign banks.   
+
+The question of how best to regulate foreign banks is hardly a new one, either here or in 
+
+other countries.  Debates over the relative merits of territorial versus global or mutual 
+
+recognition approaches, the difficulties in achieving strictly equal terms of competition between 
+
+banks with different home regulatory systems, and the degree to which harmonization of 
+
+international standards and supervisory consultations can mitigate the resulting inconsistencies 
+
+and frictions are all familiar topics to academics, banking lawyers, and supervisory authorities.  
+
+                                                           
+1
+ Molly Mahar of the Board’s staff contributed substantially to these remarks. 
+
+
+- 2 - 
+ 
+
+- 2 - 
+ 
+
+While I do not aim to resolve this afternoon the complicated interaction among these 
+
+perspectives and considerations, I will try to outline a practical and reasonable way forward. 
+
+To be effective, a new approach must address the vulnerabilities that have been created 
+
+by the shift in foreign bank activities, in keeping with sound prudential policy and congressional 
+
+mandates in the Dodd-Frank Wall Street Reform and Consumer Protection Act.  At the same 
+
+time, a modified regulatory system should maintain the principle of national treatment and allow 
+
+foreign banks to continue to operate here on an equal competitive footing, to the benefit of the 
+
+U.S. banking system and the U.S. economy generally.
+2
+   
+
+Foreign Bank Regulation in the United States 
+
+Regulating the U.S. operations of foreign banks presents unique challenges.  Although 
+
+U.S. supervisors have full authority over the local operations of foreign banks, we see only a 
+
+portion of a foreign bank’s worldwide activities, and regular access to information on its global 
+
+activities can be limited.  Foreign banks operate under a wide variety of business models and 
+
+structures that reflect the legal, regulatory, and business climates in the home and host 
+
+jurisdictions in which they operate.   
+
+Despite these difficulties, the United States has traditionally accorded foreign banks the 
+
+same national treatment as domestic banks, and U.S. regulators generally have allowed foreign 
+
+banks to choose among structures that they believe promote maximum efficiency at the 
+
+consolidated level.  Under the statutory scheme established by Congress, permissible U.S. 
+
+structures include cross-border branching and direct and indirect subsidiaries, provided that they 
+
+                                                           
+2
+ The principle of “national treatment” in the context of financial and other services is that a host country should 
+
+treat a foreign-owned service provider no less favorably than like domestic service providers.  Of course, differences 
+
+in business organization, domestic regulatory systems, and other factors mean that there must sometimes be 
+
+determinations whether foreign and domestic firms are “like” one another in relevant respects. 
+
+
+- 3 - 
+ 
+
+- 3 - 
+ 
+
+operate in a safe and sound manner.
+3
+  U.S. law also allows well-managed and well-capitalized 
+
+foreign banks to conduct a wide range of bank and nonbank activities in the United States under 
+
+conditions comparable to those applied to U.S. banking organizations.   
+
+Still, it is worth noting that even as there has been continuity in this basic policy, U.S. 
+
+regulation of foreign banks has evolved over the years in response to changes in the extent and 
+
+nature of foreign bank activities.  Let me mention two examples. 
+
+Before 1978, foreign bank branches in the United States were licensed and regulated by 
+
+individual states, with little in the way of federal regulation or restrictions.  They were not 
+
+subject to the full panoply of limitations on interstate banking, equity investments, or affiliations 
+
+with securities firms that were applicable to domestic banks.  The rapid growth of foreign 
+
+banking in the 1970s, particularly branching, prompted an end to this lighter regulatory regime.
+4
+  
+
+The International Banking Act of 1978 gave the Federal Reserve Board regulatory authority over 
+
+the domestic operations of foreign banks and significantly equalized regulatory treatment of 
+
+foreign and domestic firms.
+5
+  Congress maintained this approach of basic competitive equality in 
+
+the 1999 Gramm-Leach-Bliley Act.
+6
+  That law substantially removed restrictions on affiliations 
+
+between commercial banks and other kinds of financial firms for both domestic and foreign 
+
+                                                           
+3
+ Cross-border branches of foreign banks operate in the United States as a direct branch of the foreign parent and are 
+
+not separately capitalized entities.  Federal foreign branches and agencies are authorized by 12 U.S.C. §3102, which 
+
+recognizes that states may also authorize branches of foreign banks to operate within their territory.  The Board of 
+
+Governors of the Federal Reserve System must approve all foreign branches and agencies, whether state or federal 
+
+(see 12 U.S.C.§3105(d)).  A good survey of the considerations for both firms and policymakers in the choice 
+
+between subsidiaries and branches for foreign banks is provided in Jonathan Fiechter, Inci Otker-Robe, Anna Ilyina, 
+
+Michael Hsu, Andre Santos, and Jay Surti (2011), “Subsidiaries or Branches: Does One Size Fit All?” Staff 
+
+Discussion Note 11/04 (Washington: International Monetary Fund, March 7), 
+
+www.imf.org/external/pubs/ft/sdn/2011/sdn1104.pdf. 
+4
+ Between 1972 and 1977, the number of foreign banking institutions in the United States roughly doubled, while 
+
+the total assets of those institutions roughly tripled in absolute terms and doubled as a proportion of all banking 
+
+assets in the United States, reaching nearly 13 percent.  Henry Terrell and Sydney Key (1977), “The Growth of 
+
+Foreign Banking in the United States: An Analytical Survey,” in Key Issues in International Banking, Conference 
+
+Series No. 18 (Boston: Federal Reserve Bank of Boston, October). 
+5
+ Pub. L. No. 95-369, 92 Stat. 607, codified at 12 U.S.C. 3101–3111. 
+
+6
+ Pub. L. No. 106-102, 113 Stat. 1338. 
+
+
+- 4 - 
+ 
+
+- 4 - 
+ 
+
+institutions operating in the United States.  Moreover, in light of provisions in Gramm-Leach-
+
+Bliley that permitted a foreign bank to be a financial holding company (FHC), the Federal 
+
+Reserve announced in 2001 that a bank holding company (BHC) in the United States that was 
+
+owned and controlled by a well-capitalized and well-managed foreign bank generally would not 
+
+be required to meet the Board’s capital requirements normally applicable to BHCs.
+7
+   
+
+My second example relates to the massive fraud uncovered at the Bank of Credit and 
+
+Commerce International (BCCI) and its subsequent collapse in 1991, which highlighted the need 
+
+for more effective supervision of banks operating in multiple countries.  The Foreign Bank 
+
+Supervision Enhancement Act of 1991 (FBSEA) required foreign banks to receive approval from 
+
+the Board before establishing a branch or agency in the United States.
+8
+  The law required the 
+
+Federal Reserve, in turn, to determine that the foreign bank is subject to “comprehensive 
+
+supervision or regulation on a consolidated basis” in its home country before approving an 
+
+application either to open a branch or to acquire a U.S. subsidiary bank.   
+
+It is further worth noting that changes in U.S. law and regulatory practice affecting 
+
+foreign banking organizations have often corresponded to changes in international regulatory 
+
+agreements.  For example, FBSEA was enacted at the same time as the Basel Committee on 
+
+Banking Supervision was working to address the problems revealed by BCCI--an effort that bore 
+
+fruit the next year in changes to the so-called Basel Concordat, which established minimum 
+
+standards for the supervision of international banking groups.
+9
+  Another instance was the 
+
+                                                           
+7
+ Board of Governors of the Federal Reserve System, Division of Banking Supervision and Regulation (2001), 
+
+“Application of the Board's Capital Adequacy Guidelines to Bank Holding Companies Owned by Foreign Banking 
+
+Organizations,” Supervision and Regulation Letter 01-01 (January 5), 
+
+www.federalreserve.gov/boarddocs/srletters/2001/sr0101.htm. 
+8
+ Pub. L. No. 102-242, 105 Stat. 2286, amending the International Banking Act of 1978, codified at 12 U.S.C. 3101–
+
+3111. 
+9
+ Basel Committee on Banking Supervision (1992), “Minimum Standards for the Supervision of International 
+
+Banking Groups and Their Cross-Border Establishments,” (Basel: BIS, July), www.bis.org/publ/bcbsc314.htm.  The 
+
+original Basel Concordat, concluded in 1975, was the first significant accomplishment of the Basel Committee. 
+
+
+- 5 - 
+ 
+
+- 5 - 
+ 
+
+substantial reduction or removal of remaining asset-pledge and asset-maintenance requirements 
+
+for most U.S. branches of foreign banks, prompted in part by implementation of the new 
+
+international capital standards included in the 1988 Basel Accord.    
+
+The Shift in Foreign Bank Activities 
+
+Although foreign banks expanded steadily in the United States during the 1970s, 1980s, 
+
+and 1990s, their activities here posed limited risks to overall U.S. financial stability.  Throughout 
+
+this period, the U.S. operations of foreign banks were largely net recipients of funding from their 
+
+parents and generally engaged in traditional lending to home-country and U.S. clients.
+10
+
+  U.S. 
+
+branches and agencies of foreign banks held large amounts of cash during the 1980s and ’90s, in 
+
+part to meet asset-maintenance and asset-pledge requirements put in place by regulators.  Their 
+
+cash-to-third-party liability ratio from the mid-1980s through the late 1990s generally ranged 
+
+between 25 percent and 30 percent. 
+
+The U.S. branches and agencies of foreign banks that borrowed from their parents and 
+
+lent those funds in the United States (“lending branches”) held roughly 60 percent of all foreign 
+
+bank branch and agency assets in the United States during the 1980s and ’90s.  Commercial and 
+
+industrial lending continued to account for a large part of foreign bank branch and agency 
+
+balance sheets through the 1990s.
+11
+
+
+This profile of foreign bank operations in the United States changed in the run-up to the 
+
+financial crisis.  Reliance on less stable, short-term wholesale funding increased significantly.  
+
+Many foreign banks shifted from the “lending branch” model to a “funding branch” model, in 
+
+which U.S. branches of foreign banks were borrowing large amounts of U.S. dollars to upstream 
+
+to their parents.  These “funding branches” went from holding 40 percent of foreign bank branch 
+
+                                                           
+10
+
+ FFIEC 002, various years. 
+11
+
+ FFIEC 002, various years. 
+
+
+- 6 - 
+ 
+
+- 6 - 
+ 
+
+assets in the mid-1990s to holding 75 percent of foreign bank branch assets by 2009.   Foreign 
+
+banks as a group moved from a position of receiving funding from their parents on a net basis in 
+
+1999 to providing significant funding to non-U.S. affiliates by the mid-2000s--more than $700 
+
+billion on a net basis by 2008.
+12
+
+
+A good bit of this short-term funding was used to finance long-term, U.S. dollar-
+
+denominated project and trade finance around the world.  There is also evidence that a significant 
+
+portion of the dollars raised by European banks in the pre-crisis period ultimately returned to the 
+
+United States in the form of investments in U.S. securities.  Indeed, the amount of U.S. dollar-
+
+denominated asset-backed securities and other securities held by Europeans increased 
+
+significantly between 2003 and 2007, much of it financed by the short-term, dollar-denominated 
+
+liabilities of European banks.
+13
+
+ Meanwhile, commercial and industrial lending originated by U.S. 
+
+branches and agencies as a share of their third-party liabilities fell significantly after 2003.
+14
+
+  In 
+
+contrast, U.S. broker-dealer assets of the top-10 foreign banks increased rapidly during the past 
+
+15 years, rising from 13 percent of all foreign bank third-party assets in 1995 to 50 percent in 
+
+2011.
+15
+
+
+Lessons from the Recent Financial Crisis 
+
+The 2007–2008 financial crisis and the continuing financial stress in Europe have 
+
+revealed financial stability risks associated with the foreign banking model as it has evolved in 
+
+the United States.  To some extent the concerns associated with foreign banking operations track 
+
+the more general shortcomings of pre-crisis financial regulation.  Internationally agreed 
+
+                                                           
+12
+
+ FFIEC 002, various years. 
+13
+
+ Ben S. Bernanke, Carol Bertaut, Laurie Pounder DeMarco, and Steven Kamin (2011), “International Capital 
+
+Flows and the Returns to Safe Assets in the United States, 2003–2007,” International Finance Discussion Papers 
+
+Number 1014 (Washington: Board of Governors of the Federal Reserve System, February), 
+
+www.federalreserve.gov/pubs/ifdp/2011/1014/ifdp1014.htm. 
+14
+
+ FFIEC 002, various years. 
+15
+
+ FR Y-9C, FFIEC 002, FR Y-7, FR 2886b, FFIEC 031/041, FR Y-7N/S, X-17A-5 Part II (SEC Form 1695), and 
+
+X-17A-5 Part IIA (SEC Form 1696). 
+
+
+- 7 - 
+ 
+
+- 7 - 
+ 
+
+minimum capital levels were too low, the quality standards for required capital were too weak, 
+
+the risk weights assigned to certain asset classes did not reflect their actual risk, and the potential 
+
+for liquidity strains was seriously underappreciated.    
+
+But some risks are more closely tied to the specifically international character of certain 
+
+global banks, both here and in some other parts of the world.  The location of capital and 
+
+liquidity proved critical in the resolution of some firms that failed during the financial crisis.  
+
+Capital and liquidity were in some cases trapped at the home entity, as in the case of the 
+
+Icelandic banks and, in our own country, Lehman Brothers.  Actions by home-country authorities 
+
+during this period showed that while a foreign bank regulatory regime designed to accommodate 
+
+centralized management of capital and liquidity can promote efficiency during good times, it also 
+
+increases the chances of ring-fencing by home and host jurisdictions at the moment of a crisis, as 
+
+local operations come under severe strain and repayment of local creditors is called into 
+
+question.  Resolution regimes and powers remain nationally based, complicating the resolution 
+
+of firms with large cross-border operations. 
+
+The large intra-firm, cross-border flows that grew rapidly in the years leading up to the 
+
+crisis also created vulnerabilities.  To be fair, the ability to move liquidity freely throughout a 
+
+banking group may have provided some financial stability benefits during the crisis by enabling 
+
+banks to respond to localized balance-sheet shocks and dysfunctional markets in some areas 
+
+(such as the interbank and foreign exchange swap markets) and by transferring resources from 
+
+healthier parts of the group.  Nevertheless, this model also created a degree of cross-currency 
+
+funding risk and heavy reliance on swap markets that proved destabilizing.
+16
+
+  Moreover, foreign 
+
+banks that relied heavily on short-term, U.S. dollar liabilities were forced to sell U.S. dollar 
+
+                                                           
+16
+
+ Bank for International Settlements (2010), “Funding Patterns and Liquidity Management of Internationally Active 
+
+Banks” (Basel: BIS, May), www.bis.org/publ/cgfs39.htm.  
+
+
+- 8 - 
+ 
+
+- 8 - 
+ 
+
+assets and reduce lending rapidly when that funding source evaporated, thereby compounding 
+
+risks to U.S. financial stability.     
+
+Although the United States did not suffer a destabilizing failure of foreign banks, many 
+
+rode out the crisis only with the help of extraordinary support from home- and host-country 
+
+regulators.  Following national treatment practice, the Federal Reserve itself provided substantial 
+
+discount window access to U.S. branches and the opportunity to participate in the Primary Dealer 
+
+Credit Facility to U.S. primary-dealer subsidiaries of foreign banks.  Moreover, the potential for 
+
+funding disruptions did not disappear with the waning of the global financial crisis.  In 2011, for 
+
+example, as concerns about the euro zone rose, U.S. money market funds suddenly pulled back 
+
+their lending to large euro area banks, reducing lending to these firms by roughly $200 billion 
+
+over just four months.
+17
+
+
+  While there has been some reduction in operations and some change in funding patterns 
+
+by foreign banking organizations in the United States since the crisis, particularly by European 
+
+firms reacting to euro zone financial stress, the basic circumstances have not changed.
+18
+
+  The 
+
+proportion of foreign banking assets to total U.S. banking assets has remained at about one-fifth 
+
+since the end of the 1990s.  But the concentration and complexity of those assets have changed 
+
+noticeably from earlier decades, and have not reversed in recent years despite the global financial 
+
+crisis and subsequent events.  Ten foreign banks now account for more than two-thirds of foreign 
+
+bank third-party assets held in the United States, up from 40 percent in 1995.
+19
+
+  And while the 
+
+                                                           
+17
+
+ SEC N-MFP Form. 
+18
+
+ The significant funding pressures experienced by a number of European firms in 2011, highlighted by a quiet run 
+
+by money market funds and other short-term funders, were mitigated by the liquidity-support measures undertaken 
+
+by the European Central Bank.  As a result, many of the U.S. operations of these firms are currently receiving net 
+
+funding from their parents.  A parallel development has been a shift in lending activity from a number of European 
+
+firms to non-European firms, even as the total proportion of U.S. lending accounted for by foreign banks has 
+
+remained roughly constant in the last few years. 
+19
+
+ FR Y-9C, FFIEC 002, FR 2886b, FFIEC 031/041, FR Y-7N/S, X-17A-5 Part II (SEC Form 1695), and X-17A-5 
+
+Part IIA (SEC Form 1696). 
+
+
+- 9 - 
+ 
+
+- 9 - 
+ 
+
+largest U.S. operations of foreign banks do not approach the size of our largest domestic 
+
+financial institutions, it is striking that there are 23 foreign banks with at least $50 billion in 
+
+assets in the United States--the threshold established by the Dodd-Frank Act for special 
+
+prudential measures for domestic firms--compared with 25 U.S. firms.
+20
+
+
+Most notably, perhaps, five of the top-10 U.S. broker-dealers are owned by foreign 
+
+banks.  Like their U.S.-owned counterparts, large foreign-owned U.S. broker-dealers were highly 
+
+leveraged in the years leading up to the crisis.  Their reliance on short-term funding also 
+
+increased, with much of the expansion of both U.S.-owned and foreign-owned U.S. broker-
+
+dealer activities attributable to the growth in secured funding markets during the past 15 years.
+21
+
+
+Finally, we should note that one of the fundamental elements of the current approach--our 
+
+ability, as host supervisors, to rely on the foreign bank to act as a source of strength to its U.S. 
+
+operations--has come into question in the wake of the crisis.  The likelihood that some home-
+
+country governments of significant international firms will backstop their banks’ foreign 
+
+operations in a crisis appears to have diminished.  It also appears that constraints have been 
+
+placed on the ability of the home offices of some large international banks to provide support to 
+
+their foreign operations.  The motivations behind these actions are not hard to understand and 
+
+appreciate, but they do affect the supervisory terrain for host countries such as the United States.  
+
+International and Domestic Regulatory Response 
+
+Since the crisis, important changes have been made to strengthen international regulatory 
+
+standards.  The Basel III capital and liquidity frameworks are big improvements, and the 
+
+                                                           
+20
+
+ Dodd-Frank Wall Street Reform and Consumer Protection Act, Pub. L. No. 111-203, 124 Stat. 1376 (2011). 
+
+Sections 165 and 166 apply to all foreign banks with $50 billion or more in global consolidated assets and a U.S. 
+
+banking presence of any size.  More than 100 foreign banks operating in the United States would meet this threshold 
+
+today (source:  FR Y-7Q).  Whether such a bank with relatively small U.S. operations should be subject to the same 
+
+prudential requirements as those with U.S. operations in excess of $50 billion is an open question.    
+21
+
+ SEC FOCUS reports. 
+
+
+- 10 - 
+ 
+
+- 10 - 
+ 
+
+proposed capital surcharges for systemically important firms will be another important step 
+
+forward.  But these reforms are primarily directed at the consolidated level, with little attention 
+
+to vulnerabilities posed by internationally active banks in host markets.  The risks associated 
+
+with large intra-group funding flows have remained largely unaddressed.  Managing 
+
+international regulatory initiatives also has become more difficult, as the number of complex 
+
+items on the agenda has increased.  And despite continued work by the Financial Stability Board, 
+
+challenges to cross-border resolution are likely to remain significant.  For the foreseeable future, 
+
+then, our regulatory system must recognize that while internationally active banks live globally, 
+
+they may well die locally.  
+
+Quite apart from the need to act pragmatically under the circumstances, it is not clear that 
+
+we should aim toward extensive harmonization of national regulatory practices related to foreign 
+
+banking organizations.  The nature and extent of foreign banking activities vary substantially 
+
+across national markets, suggesting that regulatory responses might best vary as well.  For 
+
+instance, the importance of the U.S. dollar in many international transactions can motivate 
+
+foreign banks to use their U.S. operations to raise dollar funding for their international 
+
+operations, potentially creating vulnerabilities.  Such a model is unlikely to prevail in most other 
+
+host financial markets around the world. 
+
+Indeed, in response to financial stability risks highlighted during the crisis, ongoing 
+
+challenges associated with the resolution of large cross-border firms, and the limitations of the 
+
+international reform agenda, several national authorities have already introduced their own 
+
+policies to fortify the resources of internationally active banks within their geographic 
+
+boundaries.  Regulators in the United Kingdom, for example, have recently increased 
+
+requirements for liquidity to cover local operations of domestic and foreign banks, set stricter 
+
+
+- 11 - 
+ 
+
+- 11 - 
+ 
+
+rules around intra-group exposures of U.K. banks to foreign subsidiaries, and moved to ring-
+
+fence home-country retail operations.
+22
+
+  Meanwhile, Swiss authorities have explicitly prioritized 
+
+the domestic systemically important operations of their large, internationally active firms in 
+
+resolution.
+23
+
+
+Here in the United States, Congress included in the Dodd-Frank Act a number of changes 
+
+directed at the financial stability risk posed by foreign banks.  Sections 165 and 166 instruct the 
+
+Federal Reserve to implement enhanced prudential standards for large foreign banks as well as 
+
+for large domestic BHCs and nonbank systemically important financial institutions.  Dodd-Frank 
+
+also bolstered capital requirements for FHCs, including foreign FHCs, by extending the well-
+
+capitalized and well-managed requirements beyond U.S. bank subsidiaries to the top-tier holding 
+
+company.   
+
+In addition, the so-called Collins Amendment in Dodd-Frank removed the exemption 
+
+from BHC capital requirements granted by the Federal Reserve’s Supervision and Regulation 
+
+Letter 01-01.
+24
+
+  The required phase-out of SR 01-01 was clearly intended to strengthen the 
+
+capital regime applied to the U.S. operations of foreign banks; however, the organizational 
+
+flexibility that the amendment gave to foreign banks in the United States has allowed some large 
+
+foreign banks to restructure their U.S. operations  to minimize the impact of this regulatory 
+
+change.  As a result, in the absence of additional structural requirements for foreign banks in the 
+
+United States, the effectiveness of our capital regime for large foreign banks with both bank and 
+
+nonbank operations in the United States depends on the foreign bank’s own organizational 
+
+choices.    
+
+                                                           
+22
+
+ See, for example, www.fsa.gov.uk/pubs/policy/ps09_16.pdf, www.fsa.gov.uk/pubs/other/turner_review.pdf, 
+
+www.fsa.gov.uk/pubs/discussion/dp09_02.pdf, and http://bankingcommission.s3.amazonaws.com/wp-
+
+content/uploads/2010/07/ICB-Final-Report.pdf. 
+23
+
+ See www.sif.admin.ch/dokumentation/00514/00519/00592/index.html?lang=en. 
+24
+
+ See www.federalreserve.gov/boarddocs/srletters/2001/sr0101.htm. 
+
+
+- 12 - 
+ 
+
+- 12 - 
+ 
+
+A Rebalanced Approach to Foreign Bank Regulation 
+
+As has been the case in the past, we need to adjust the regulatory requirements for foreign 
+
+banks in response to changes in the nature of their activities in the United States, the risks 
+
+attendant to those changes, and instructions from Congress in new statutory provisions.  The 
+
+modified regime should counteract the risks posed to U.S. financial stability by the activities of 
+
+foreign banking organizations, as manifested in the years leading up to, and through, the 
+
+financial crisis.  Special attention must be paid to the risk of runs associated with significant 
+
+reliance on short-term funding.  In addition, the regime should reduce the difficulties in 
+
+resolution of cross-border firms.  Finally, it should take steps to diminish the potential need for 
+
+ex-post ring-fencing when losses mount or runs develop during a crisis, since such actions may 
+
+well be unhelpfully procyclical. 
+
+At the same time, in modifying our regulatory regime for foreign banking organizations, 
+
+we must remain mindful of the benefits that foreign banks can bring to our economy and of the 
+
+important policies of national treatment and comparable competitive opportunity.  Thus, we 
+
+should chart a middle course, not moving to a fully territorial model of foreign bank regulation, 
+
+but instead making targeted adjustments to address the risks I have identified.  In basic terms, 
+
+three such adjustments are desirable. 
+
+First, a more uniform structure should be required for the largest U.S. operations of 
+
+foreign banks--specifically, that these firms establish a top-tier U.S. intermediate holding 
+
+company (IHC) over all U.S. bank and nonbank subsidiaries.  An IHC would make application 
+
+of enhanced prudential supervision more consistent across foreign banks and reduce the ability 
+
+of foreign banks to avoid U.S. consolidated-capital regulations.  Because U.S. branches and 
+
+agencies are part of the foreign parent bank, they would not be included in the IHC.  However, 
+
+
+- 13 - 
+ 
+
+- 13 - 
+ 
+
+they would be subject to the activity restrictions applicable to branches and agencies today as 
+
+well as to certain additional measures discussed below.   
+
+Second, the same capital rules applicable to U.S. BHCs should also apply to U.S. IHCs.  
+
+These rules have been reshaped to counteract the risks to the U.S. financial system revealed by 
+
+the crisis and should be implemented consistently across all firms that engage in similar 
+
+activities.  Similarly, other enhanced prudential standards required by the Dodd-Frank Act--
+
+including stress testing requirements, risk management requirements, single counterparty credit 
+
+limits, and early remediation requirements--should be applied to the U.S. operations of large 
+
+foreign banks in a manner consistent with the Board’s domestic proposal.
+25
+
+
+Third, there should be liquidity standards for large U.S. operations of foreign banks.  
+
+Standards are needed to increase the liquidity resiliency of these operations during times of stress 
+
+and to reduce the threat of destabilizing runs as dollar funding channels dry up and short-term 
+
+debt cannot be rolled over.  For IHCs, the standards should be broadly consistent with the 
+
+standards the Federal Reserve has proposed for large domestic BHCs, pending final adoption and 
+
+phase-in of quantitative liquidity requirements by the Basel Committee.
+26
+
+  That is, they should be 
+
+designed to ensure that, in stressed circumstances, the U.S. operations have enough high-quality 
+
+liquid assets to meet expected net outflows in the short term.  There should also be liquidity 
+
+standards for foreign bank branch and agency networks in the United States, although they may 
+
+be less stringent, in recognition of the integration of branches and agencies into the global bank 
+
+as a whole.    
+
+By imposing a more standardized regulatory structure on the U.S. operations of foreign 
+
+banks, we can ensure that enhanced prudential standards are applied consistently across foreign 
+
+                                                           
+25
+
+ See www.federalreserve.gov/newsevents/press/bcreg/20111220a.htm. 
+26
+
+ See www.gpo.gov/fdsys/pkg/FR-2012-01-05/pdf/2011-33364.pdf. 
+
+
+- 14 - 
+ 
+
+- 14 - 
+ 
+
+banks and in comparable ways between U.S. banking organizations and foreign banking 
+
+organizations.  As with domestic firms subject to enhanced prudential standards, the Federal 
+
+Reserve would work to ensure that the new regime is minimally disruptive, through transition 
+
+periods and other means.   
+
+An IHC structure would also provide the Federal Reserve, as umbrella supervisor of the 
+
+U.S. operations of foreign banks, with a uniform platform to implement a consistent supervisory 
+
+program across large foreign banks.  In the case of foreign banks with the largest U.S. 
+
+operations, the IHC would also help mitigate resolution difficulties by providing U.S. regulators 
+
+with one consolidated U.S. legal entity to place into receivership under title II of the Dodd-Frank 
+
+Act if the failure of the foreign bank would threaten U.S. financial stability.  Branches and 
+
+agencies would remain separate, but all other entities would be included.  Further, an IHC 
+
+structure would facilitate a consistent U.S. capital regime for bank and nonbank activities of 
+
+foreign banks under the IHC, similar to the approach taken in other jurisdictions, such as the 
+
+United Kingdom and some continental European countries.   
+
+Some observers will, I am sure, ask if it is necessary to depart from the prevailing firm-
+
+by-firm approach to foreign banking regulation and to adopt generally applicable requirements in 
+
+implementing the Dodd-Frank enhanced prudential standards for foreign banks.  It is difficult to 
+
+see how reliance on this approach can be effective in addressing risks to U.S. financial stability, 
+
+at least in the absence of extraterritorial application of our own standards and supervision, and 
+
+perhaps not even then.  We would, at a minimum, need to make regular and detailed assessments 
+
+of each firm’s home-country regulatory and resolution regimes, the financial stability risk posed 
+
+by each firm in the United States, and the financial condition of the consolidated banking 
+
+organization.  In fact, such an approach might result in the worst of both worlds--an ongoing 
+
+
+- 15 - 
+ 
+
+- 15 - 
+ 
+
+intrusiveness into the consolidated supervision of foreign banks by their home-country regulators 
+
+without the ultimate ability to evaluate those banks comprehensively or to direct changes in a 
+
+parent bank’s practices necessary to mitigate risks in the United States.  Although the Federal 
+
+Reserve will continue to cooperate with its foreign counterparts in overseeing large, 
+
+multinational banking operations, that supervisory tool cannot provide complete protection 
+
+against risks engendered by U.S operations as extensive as those of many large U.S. institutions. 
+
+It is also important to note that while the reforms I have described today contain some 
+
+elements that are more territorial than our current approach, including requiring some additional 
+
+capital and liquidity buffers to be held in the United States, they do not represent a complete 
+
+departure from prior practice.  This enhanced approach would allow foreign banks to continue to 
+
+operate branches in the United States and would generally allow branches to meet comparable 
+
+capital requirements at the consolidated level.  Similarly, this approach would not impose a cap 
+
+on intra-group flows, thereby allowing foreign banks in sound financial condition to continue to 
+
+obtain U.S. dollar funding for their global operations through their U.S. entities.  It would instead 
+
+provide an incentive to term out at least some of this funding in a way that reduces the risk of 
+
+runs.  
+
+ Requiring additional local capital and liquidity buffers, like any prudential regulation, 
+
+may incrementally increase cost and reduce flexibility of internationally active banks that 
+
+manage their capital and liquidity on a centralized basis.  However, managing liquidity and 
+
+capital on a local basis can have benefits not just for financial stability generally, but also for 
+
+firms themselves.  During the crisis, the more decentralized global banks relied somewhat less on 
+
+cross-currency funding and were less exposed to disruptions in international wholesale funding 
+
+
+- 16 - 
+ 
+
+- 16 - 
+ 
+
+and foreign exchange swap markets than the more centralized banks.
+27
+
+  Indeed, as noted earlier, 
+
+in the wake of the crisis and of subsequent stresses, many foreign banks have modified their 
+
+funding practices and business models.  In revamping our approach, we will both be guarding 
+
+against a return to pre-crisis practices and, more generally, ensuring that foreign banking 
+
+operations in the United States that pose potential risks to U.S. financial stability are regulated 
+
+similarly to domestic banking operations posing similar risks. 
+
+Conclusion 
+
+ The imperative for change in our foreign bank regulation is clear and, indeed, mandated 
+
+by Dodd-Frank.  Of course, I have provided only an outline of the three key measures that will 
+
+best navigate the middle course I have suggested.  The all-important details are under discussion 
+
+at the Board.  I anticipate that in the coming weeks we will complete our work and issue a notice 
+
+of proposed rulemaking that will elaborate the basic approach I have foreshadowed.  I look 
+
+forward to hearing your general reactions today and more specific feedback after the Board has 
+
+adopted a proposed rule. 
+
+                                                           
+27
+
+ Committee on the Global Financial System (2010), “Funding Patterns and Liquidity Management of 
+
+Internationally Active Banks,” CGFS Papers No 39 (Basel: BIS, May), www.bis.org/publ/cgfs39.pdf.  
+

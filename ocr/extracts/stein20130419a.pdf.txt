@@ -1,0 +1,829 @@
+
+For release on delivery 
+Noon EDT 
+April 19, 2013 
+ 
+
+
+Liquidity Regulation and Central Banking 
+ 
+ 
+ 
+ 
+
+Remarks by 
+ 
+
+Jeremy C. Stein 
+ 
+
+Member 
+ 
+
+Board of Governors of the Federal Reserve System 
+ 
+
+at 
+ 
+
+“Finding the Right Balance” 
+ 
+
+2013 Credit Markets Symposium 
+Sponsored by the Federal Reserve Bank of Richmond 
+
+ 
+Charlotte, North Carolina 
+
+
+April 19, 2013 
+ 
+
+
+
+I’d like to talk today about one important element of the international regulatory 
+
+reform agenda--namely, liquidity regulation.1  Liquidity regulation is a relatively new, 
+
+post-crisis addition to the financial stability toolkit.  Key elements include the Liquidity 
+
+Coverage Ratio (LCR), which was recently finalized by the Basel Committee on Banking 
+
+Supervision, and the Net Stable Funding Ratio, which is still a work in progress.  In what 
+
+follows, I will focus on the LCR. 
+
+The stated goal of the LCR is straightforward, even if some aspects of its design 
+
+are less so.  In the words of the Basel Committee, “The objective of the LCR is to 
+
+promote the short-term resilience of the liquidity risk profile of banks.  It does this by 
+
+ensuring that banks have an adequate stock of unencumbered high-quality liquid assets 
+
+(HQLA) that can be converted easily and immediately in private markets into cash to 
+
+meet their liquidity needs for a 30 calendar day liquidity stress scenario.”2  In other 
+
+words, each bank is required to model its total outflows over 30 days in a liquidity stress 
+
+event and then to hold HQLA sufficient to accommodate those outflows.  This 
+
+requirement is implemented with a ratio test, where modeled outflows go in the 
+
+denominator and the stock of HQLA goes in the numerator; when the ratio equals or 
+
+exceeds 100 percent, the requirement is satisfied. 
+
+The Basel Committee issued the first version of the LCR in December 2010.  In 
+
+January of this year, the committee issued a revised final version of the LCR, following 
+
+an endorsement by its governing body, the Group of Governors and Heads of Supervision 
+
+                                                 
+1 The views that follow are my own and are not necessarily shared by my colleagues on the Federal 
+Reserve Board.  I am grateful to members of the Board staff--Sean Campbell, Mark Carlson, Burcu 
+Duygan-Bump, Michael Gibson, William Nelson, and Mark Van Der Weide--for many helpful 
+conversations and suggestions. 
+2 See Basel Committee on Banking Supervision (2013), Basel III:  The Liquidity Coverage Ratio and 
+Liquidity Risk Monitoring Tools (Basel:  Bank for International Settlements, January), p. 1, 
+www.bis.org/publ/bcbs238.pdf. 
+
+
+ - 2 -
+
+(GHOS).  The revision expands the range of assets that can count as HQLA and also 
+
+adjusts some of the assumptions that govern the modeling of net outflows in a stress 
+
+scenario.  In addition, the committee agreed in January to a gradual phase-in of the LCR, 
+
+so that it only becomes fully effective on an international basis in January 2019.  On the 
+
+domestic front, the Federal Reserve expects that the U.S. banking agencies will issue a 
+
+proposal later this year to implement the LCR for large U.S. banking firms. 
+
+While this progress is welcome, a number of questions remain.  First, to what 
+
+extent should access to liquidity from a central bank be allowed to count toward 
+
+satisfying the LCR?  In January, the GHOS noted that the interaction between the LCR 
+
+and the provision of central bank facilities is critically important.  And the group 
+
+instructed the Basel Committee to continue working on this issue in 2013. 
+
+Second, what steps should be taken to enhance the usability of the LCR buffer--
+
+that is, to encourage banks to actually draw down their HQLA buffers, as opposed to fire-
+
+selling other less liquid assets?  The GHOS has also made clear its view that, during 
+
+periods of stress, it would be appropriate for banks to use their HQLA, thereby falling 
+
+below the minimum.  However, creating a regime in which banks voluntarily choose to 
+
+do so is not an easy task.  A number of observers have expressed the concern that if a 
+
+bank is held to an LCR standard of 100 percent in normal times, it may be reluctant to 
+
+allow its ratio to drop below 100 percent when facing large outflows, even if regulators 
+
+were to permit this temporary deviation, for fear that a decline in the ratio could be 
+
+interpreted as a sign of weakness. 
+
+My aim here is to sketch a framework for thinking about these and related issues.  
+
+Among them, the interplay between the LCR and central bank liquidity provision is 
+
+
+ - 3 -
+
+perhaps the most fundamental and a natural starting point for discussion.  By way of 
+
+motivation, note that before the financial crisis, we had a highly developed regime of 
+
+capital regulation for banks--albeit one that looks inadequate in retrospect--but we did not 
+
+have formal regulatory standards for their liquidity.3  The introduction of liquidity 
+
+regulation after the crisis can be thought of as reflecting a desire to reduce dependence on 
+
+the central bank as a lender of last resort (LOLR), based on the lessons learned over the 
+
+previous several years.  However, to the extent that some role for the LOLR still remains, 
+
+one now faces the question of how it should coexist with a regime of liquidity regulation. 
+
+To address this question, it is useful to take a step back and ask another one:  
+
+What underlying market failure is liquidity regulation intended to address, and why can’t 
+
+this market failure be handled entirely by an LOLR?  I will turn to this question first.  
+
+Next, I will consider different mechanisms that could potentially achieve the goals of 
+
+liquidity regulation, and how these mechanisms relate to various features of the LCR.  In 
+
+so doing, I hope to illustrate why, even though liquidity regulation is a close cousin of 
+
+capital regulation, it nevertheless presents a number of novel challenges for policymakers 
+
+and why, as a result, we are going to have to be open to learning and adapting as we go. 
+
+The Case for Liquidity Regulation 
+
+One of the primary economic functions of banks and other financial 
+
+intermediaries, such as broker-dealers, is to provide liquidity--that is, cash on demand--in 
+
+various forms to their customers.  Some of this liquidity provision happens on the 
+
+liability side of the balance sheet, with bank demand deposits being a leading example.  
+
+But, importantly, banks also provide liquidity via committed lines of credit.  Indeed, it is 
+
+                                                 
+3 Although bank liquidity was not regulated prior to the crisis, it played an important part in the supervisory 
+process.  For example, in the CAMELS ratings used by supervisors, the “L” stands for “liquidity.” 
+
+
+ - 4 -
+
+probably not a coincidence that these two products--demand deposits and credit lines--are 
+
+offered under the roof of the same institution; the underlying commonality is that both 
+
+require an ability to accommodate unpredictable requests for cash on short notice.4  A 
+
+number of other financial intermediary services, such as prime brokerage, also embody a 
+
+significant element of liquidity provision. 
+
+Without question, these liquidity-provision services are socially valuable.  On the 
+
+liability side, demand deposits and other short-term bank liabilities are safe, easy-to-value 
+
+claims that are well suited for transaction purposes and hence create a flow of money-like 
+
+benefits for their holders.5  And loan commitments are more efficient than an 
+
+arrangement in which each operating firm hedges its future uncertain needs by “pre-
+
+borrowing” and hoarding the proceeds on its own balance sheet; this latter approach does 
+
+a poor job of economizing on the scarce aggregate supply of liquid assets.6 
+
+At the same time, as the financial crisis made painfully clear, the business of 
+
+liquidity provision inevitably exposes financial intermediaries to various forms of run 
+
+risk.  That is, in response to adverse events, their fragile funding structures, together with 
+
+the binding liquidity commitments they have made, can result in rapid outflows that, 
+
+absent central bank intervention, lead banks to fire-sell illiquid assets or, in a more severe 
+
+case, to fail altogether.  And fire sales and bank failures--and the accompanying 
+
+contractions in credit availability--can have spillover effects to other financial institutions 
+
+                                                 
+4 For an elaboration of this argument, see Anil K. Kashyap, Raghuram Rajan, and Jeremy C. Stein (2002), 
+“Banks as Liquidity Providers:  An Explanation for the Coexistence of Lending and Deposit-Taking,” 
+Journal of Finance, vol. 57 (February), pp. 33-73. 
+5 See Gary Gorton and George Pennacchi (1990), “Financial Intermediaries and Liquidity Creation,” 
+Journal of Finance, vol. 45 (March), pp. 49-71.  Demand deposits may also represent a form of insurance 
+against liquidity shocks, as argued in Douglas W. Diamond and Philip H. Dybvig (1983), “Bank Runs, 
+Deposit Insurance, and Liquidity,” Journal of Political Economy, vol. 91 (June), pp. 401-19. 
+6 See Bengt Holmström and Jean Tirole (1998), “Private and Public Supply of Liquidity,” Journal of 
+Political Economy, vol. 106 (February), pp. 1-40. 
+
+
+ - 5 -
+
+and to the economy as a whole.  Thus, while banks will naturally hold buffer stocks of 
+
+liquid assets to handle unanticipated outflows, they may not hold enough because, 
+
+although they bear all the costs of this buffer stocking, they do not capture all of the 
+
+social benefits, in terms of enhanced financial stability and lower costs to taxpayers in the 
+
+event of failure.  It is this externality that creates a role for policy. 
+
+There are two broad types of policy tools available to deal with this sort of 
+
+liquidity-based market failure.  The first is after-the-fact intervention, either by a deposit 
+
+insurer guaranteeing some of the bank’s liabilities or by a central bank acting as an 
+
+LOLR; the second type is liquidity regulation.  As an example of the former, when the 
+
+economy is in a bad state, assuming that a particular bank is not insolvent, the central 
+
+bank can lend against illiquid assets that would otherwise be fire-sold, thereby damping 
+
+or eliminating the run dynamics and helping reduce the incidence of bank failure.   
+
+In much of the literature on banking, such interventions are seen as the primary 
+
+method for dealing with run-like liquidity problems.  A classic statement of the central 
+
+bank’s role as an LOLR is Walter Bagehot’s 1873 book Lombard Street.  More recently, 
+
+the seminal theoretical treatment of this issue is by Douglas Diamond and Philip Dybvig, 
+
+who show that under certain circumstances, the use of deposit insurance or an LOLR can 
+
+eliminate run risk altogether, thereby increasing social welfare at zero cost.7  To be clear, 
+
+this work assumes that the bank in question is fundamentally solvent, meaning that while 
+
+its assets may not be liquid on short notice, the long-run value of these assets is known 
+
+with certainty to exceed the value of the bank’s liabilities.8  One way to interpret the 
+
+                                                 
+7 See Diamond and Dybvig, “Bank Runs,” in note 5. 
+8 The underlying premise of solvency is captured in Bagehot’s famous dictum for use of the LOLR:  In 
+times of crisis, the central bank should lend freely (and at a penalty rate) to banks, provided that the banks 
+
+
+ - 6 -
+
+message of this research is that capital regulation is important to ensure solvency, but 
+
+once a reliable regime of capital regulation is in place, liquidity problems can be dealt 
+
+with after the fact, via some combination of deposit insurance and use of the LOLR. 
+
+It follows that if one is going to make an argument in favor of adding preventative 
+
+liquidity regulation such as the LCR on top of capital regulation, a central premise must 
+
+be that the use of LOLR capacity in a crisis scenario is socially costly, so that it is an 
+
+explicit objective of policy to economize on its use in such circumstances.  I think this 
+
+premise is a sensible one.9  A key point in this regard--and one that has been reinforced 
+
+by the experience of the past several years--is that the line between illiquidity and 
+
+insolvency is far blurrier in real life than it is sometimes assumed to be in theory.  Indeed, 
+
+one might argue that a bank or broker-dealer that experiences a liquidity crunch must 
+
+have some probability of having solvency problems as well; otherwise, it is hard to see 
+
+why it could not attract short-term funding from the private market. 
+
+This reasoning implies that when the central bank acts as an LOLR in a crisis, it 
+
+necessarily takes on some amount of credit risk.  And if it experiences losses, these losses 
+
+ultimately fall on the shoulders of taxpayers.  Moreover, the use of an LOLR to support 
+
+banks when they get into trouble can lead to moral hazard problems, in the sense that 
+
+banks may be less prudent ex ante.  If it were not for these costs of using LOLR capacity, 
+
+the problem would be trivial, and there would be no need for liquidity regulation:  
+
+Assuming a well-functioning capital-regulation regime, the central bank could always 
+
+avert all fire sales and bank failures ex post, simply by acting as an LOLR. 
+
+                                                                                                                                                 
+are solvent and that the loans are adequately collateralized.  See Walter Bagehot ([1873] 1999), Lombard 
+Street:  A Description of the Money Market (London:  King; reprint, New York:  Wiley). 
+9 This is, of course, not to say that the LOLR should not be used in extreme circumstances--only that doing 
+so comes with a cost, so policy should seek to reduce the likelihood that it will have to be used. 
+
+
+ - 7 -
+
+This observation carries an immediate implication:  It makes no sense to allow 
+
+unpriced access to the central bank’s LOLR capacity to count toward an LCR 
+
+requirement.  Again, the whole point of liquidity regulation must be either to conserve on 
+
+the use of the LOLR or in the limit, to address situations where the LOLR is not available 
+
+at all--as, for example, in the case of broker-dealers in the United States.10 
+
+At the same time, it is important to draw a distinction between priced and 
+
+unpriced access to the LOLR.  For example, take the case of Australia, where prudent 
+
+fiscal policy has led to a relatively small stock of government debt outstanding and hence 
+
+to a potential shortage of HQLA.  The Basel Committee has agreed to the use by 
+
+Australia of a Committed Liquidity Facility (CLF), whereby an Australian bank can pay 
+
+the Reserve Bank of Australia an up-front fee for what is effectively a loan commitment, 
+
+and this loan commitment can then be counted toward its HQLA.  In contrast to free 
+
+access to the LOLR, this approach is not at odds with the goals of liquidity regulation 
+
+because the up-front fee is effectively a tax that serves to deter reliance on the LOLR--
+
+which, again, is precisely the ultimate goal.  I will return to the idea of a CLF shortly. 
+
+The Design of Regulation 
+
+Once it has been decided that liquidity regulation is desirable, the next question is 
+
+how best to implement it.  In this context, note that the LCR has two logically distinct 
+
+aspects as a regulatory tool:  It is a mitigator, in the sense that holding liquid assets leads 
+
+to a better outcome if there is a bad shock; it is also an implicit tax on liquidity provision 
+
+by banks, to the extent that holding liquid assets is costly.  Of course, one can say 
+
+                                                 
+10 The fact that broker-dealers do not have access to the LOLR in the United States is, of course, ultimately 
+a policy choice, and one that can be thought of as reflecting exactly the considerations discussed here:  
+Whatever its merits, extending the LOLR to broker-dealers would increase taxpayer exposure and 
+potentially exacerbate moral hazard problems.  Hence there may be a rationale for restricting its availability 
+and relying on regulation instead. 
+
+
+ - 8 -
+
+something broadly similar about capital requirements.  But the implicit tax associated 
+
+with the LCR is subtler and less well understood, so I will go into some detail here. 
+
+An analogy may help to explain.  Suppose we have a power plant that produces 
+
+energy and, as a byproduct, some pollution.  Suppose further that regulators want to 
+
+reduce the pollution and have two tools at their disposal:  They can mandate the use of a 
+
+pollution-mitigating technology, like scrubbers, or they can levy a tax on the amount of 
+
+pollution generated by the plant.  In an ideal world, regulation would accomplish two 
+
+objectives.  First, it would lead to an optimal level of mitigation--that is, it would induce 
+
+the plant to install scrubbers up to the point where the cost of an additional scrubber is 
+
+equal to the marginal social benefit, in terms of reduced pollution.  And, second, it would 
+
+also promote conservation:  Given that the scrubbers don’t get rid of pollution entirely, 
+
+one also wants to reduce overall energy consumption by making it more expensive. 
+
+A simple case is one in which the costs of installing scrubbers, as well as the 
+
+social benefits of reduced pollution, are known in advance by the regulator and the 
+
+manager of the power plant.  In this case, the regulator can figure out what the right 
+
+number of scrubbers is and require that the plant install these scrubbers.  The mandate 
+
+can therefore precisely target the optimal amount of mitigation per unit of energy 
+
+produced.  And, to the extent that the scrubbers are costly, the mandate will also lead to 
+
+higher energy prices, which will encourage some conservation, though perhaps not the 
+
+socially optimal level.11  This latter effect is the implicit tax aspect of the mandate. 
+
+                                                 
+11 Even in this simple full-information case, one cannot generally attain the social optimum on both the 
+mitigation and conservation dimensions using just a mandate to install scrubbers as the only regulatory 
+instrument.  By contrast, a tax on pollution, which decentralizes output and mitigation decisions to the firm, 
+can, under full information, attain the optimum on both dimensions.   
+
+
+ - 9 -
+
+A more complicated case is when the regulator does not know ahead of time what 
+
+the costs of building and installing scrubbers will be.  Here, mandating the use of a fixed 
+
+number of scrubbers is potentially problematic:  If the scrubbers turn out to be very 
+
+expensive, the regulation will end up being more aggressive than socially desirable, 
+
+leading to overinvestment in scrubbers and large cost increases for consumers; however, 
+
+if the scrubbers turn out to be cheaper than expected, the regulation will have been too 
+
+soft.  In other words, when the cost of the mitigation technology is significantly 
+
+uncertain, a regulatory approach that fixes the quantity of mitigation is equivalent to one 
+
+where the implicit tax rate bounces around a lot. 
+
+By contrast, a regulatory approach that fixes the price of pollution instead of the 
+
+quantity--say, by imposing a predetermined proportional tax rate directly on the amount 
+
+of pollution emitted by the plant--is more forgiving in the face of this kind of uncertainty.  
+
+This approach leaves the scrubber-installation decision to the manager of the plant, who 
+
+can figure out what the scrubbers cost before deciding how to proceed.  For example, if 
+
+the scrubbers turn out to be unexpectedly expensive, the plant manager can install fewer 
+
+of them.  This flexibility translates into less variability in the effective regulatory burden 
+
+and hence less variability in the price of energy to consumers.12 
+
+Scrubbers and High-Quality Liquid Assets 
+
+What does all this imply for the design of the LCR?  Let’s work through the 
+
+analogy in detail.  The analog to the power plant’s energy output is the gross amount of 
+
+                                                 
+12 On the flip side, however, the same flexibility means that there will be more variability in the total 
+amount of pollution generated by the plant--because when costs of mitigation are high, less mitigation will 
+be done.  So in the face of uncertainty, one cannot conclude that a price-based tax regime is necessarily 
+superior to a quantity-based mitigation regime.  This reasoning follows the classic analysis of Weitzman; 
+see Martin L. Weitzman (1974), “Prices vs. Quantities,” Review of Economic Studies, vol. 41 (October), 
+pp. 477-91. 
+
+
+ - 10 -
+
+liquidity services created by a bank--via its deposits, the credit lines it provides to its 
+
+customers, the prime brokerage services it offers, and so forth.  The analog to the 
+
+mitigation technology--the scrubbers--is the stock of HQLA that the bank holds.  And the 
+
+analog to pollution is the net liquidity risk associated with the difference between these 
+
+two quantities, something akin to the LCR shortfall.  That is, when the bank offers a lot 
+
+of liquidity on demand to its customers but fails to hold an adequate buffer of HQLA, this 
+
+is when it imposes spillover costs on the rest of the financial system. 
+
+In the case of the power plant, I argued that a regulation that calls for a fixed 
+
+quantity of mitigation--that is, for a fixed number of scrubbers--is more attractive when 
+
+there is little uncertainty about the cost of these scrubbers.  In the context of the LCR, the 
+
+cost of mitigation is the premium that the bank must pay--in the form of reduced interest 
+
+income--for its stock of HQLA.  And, crucially, this HQLA premium is determined in 
+
+market equilibrium and depends on the total supply of safe assets in the system, relative 
+
+to the demand for those assets.  On the one hand, if safe HQLA-eligible assets are in 
+
+ample supply, the premium is likely to be low and stable.  On the other hand, if HQLA-
+
+eligible assets are scarce, the premium will be both higher and more volatile over time. 
+
+This latter situation is the one facing countries like Australia, where, as I noted 
+
+earlier, the stock of outstanding government securities is relatively small.  And it explains 
+
+why, for such countries, having a price-based mechanism as part of their implementation 
+
+of the LCR can be more appealing than pure reliance on a quantity mandate.  When one 
+
+sets an up-front fee for a CLF, one effectively caps the implicit tax associated with 
+
+liquidity regulation at the level of the commitment fee and tamps down the undesirable 
+
+volatility that would otherwise arise from an entirely quantity-based regime. 
+
+
+ - 11 -
+
+Moreover, it bears reemphasizing that having a CLF with an up-front fee is very 
+
+different from simply allowing banks to count central-bank-eligible collateral as HQLA 
+
+at no charge.  Rather, the CLF is like the pollution tax.  For every dollar of pre-CLF 
+
+shortfall--that is, for every dollar of required liquidity that a bank can’t obtain on the 
+
+private market--the bank has to pay the commitment fee.  So even if there is not as much 
+
+mitigation, there is still an incentive for conservation, in the sense that banks are 
+
+encouraged to do less liquidity provision, all else being equal.  This would not be the case 
+
+if the CLF were available at a zero price. 
+
+What about the situation in countries where safe assets are more plentiful?  The 
+
+analysis here has a number of moving parts because in addition to the implementation of 
+
+the LCR, substantial increases in demand for safe assets will arise from new margin 
+
+requirements for both cleared and noncleared derivatives.  Nevertheless, given the large 
+
+and growing global supply of sovereign debt securities, as well as other HQLA-eligible 
+
+assets, most estimates suggest that the scarcity problem should be manageable, at least 
+
+for the foreseeable future.   
+
+In particular, quantitative impact studies released by the Basel Committee 
+
+estimate that the worldwide incremental demand for HQLA coming from both the 
+
+implementation of the LCR and swap margin requirements might be on the order of $3 
+
+trillion.13  This is a large number, but it compares with a global supply of HQLA-eligible 
+
+                                                 
+13 To be more precise, global incremental demand coming from swap margin requirements is estimated at 
+$1.24 trillion; see Basel Committee on Banking Supervision and Board of the International Organization of 
+Securities Commissions (2013), Margin Requirements for Non-Centrally Cleared Derivatives:  Second 
+Consultative Document (Basel:  Bank for International Settlements and IOSCO, February), 
+www.bis.org/publ/bcbs242.htm.  Of this $1.24 trillion, $810 billion reflects margin (net of collateral 
+already collected) on uncleared swaps, and $420 billion reflects margin on swaps that will migrate to 
+central clearing.  In addition, global incremental demand coming from the LCR is estimated at 
+$2.39 trillion; see Basel Committee on Banking Supervision (2012), Results of the Basel III Monitoring 
+Exercise as of 30 June 2011 (Basel:  Bank for International Settlements, April), 
+
+
+ - 12 -
+
+assets of more than $40 trillion.14  Moreover, the eligible collateral for swap margin is 
+
+proposed to be broader than the LCR’s definition of HQLA--including, for example, 
+
+certain equities and corporate bonds without any cap.  If one focuses just on U.S. 
+
+institutions, the incremental demand number is on the order of $1 trillion, while the sum 
+
+of Treasury, agency, and agency mortgage-backed securities is more than $19 trillion.15   
+
+While this sort of analysis is superficially reassuring, the fact remains that the 
+
+HQLA premium will depend on market-equilibrium considerations that are hard to fully 
+
+fathom in advance, and that are likely to vary over time.  This uncertainty needs to be 
+
+understood, and respected.  Indeed, the market-equilibrium aspect of the problem 
+
+represents a crucial distinction between capital regulation and liquidity regulation, and it 
+
+is one reason why the latter is particularly challenging to implement.  Although capital 
+
+regulation also imposes a tax on banks--to the extent that equity is a more expensive form 
+
+of finance than debt--this tax wedge is, to a first approximation, a fixed constant for a 
+
+given bank, independent of the scale of overall financial intermediation activity.  If Bank 
+
+A decides to issue more equity so it can expand its lending business, this need not make it 
+
+more expensive for Bank B to satisfy its capital requirement.  In other words, there is no 
+
+                                                                                                                                                 
+www.bis.org/publ/bcbs217.htm.  However this latter number is based on the December 2010 version of the 
+LCR; the recalibration of the LCR in the January 2013 final version will reduce this value for U.S. banks 
+by roughly one-third.  Extrapolating this result to the global level suggests that incremental demand 
+resulting from the LCR will fall by roughly $800 billion to $1.6 trillion.  
+14 Committee on the Global Financial System (forthcoming), Asset Encumbrance, Financial Reform and 
+the Demand for Collateral Assets (Basel:  Bank for International Settlements). 
+15 According to Federal Reserve Board flow of funds data, as of December 31, 2012 the total stock of U.S. 
+Treasury securities stood at $11.6 trillion, and the total stock of agency debt and mortgage-backed 
+securities stood at $7.5 trillion.  A caveat here is that agency mortgage-backed securities are considered 
+Level 2 assets, so they can count for at most 40 percent of any bank’s total holdings of HQLA.   
+
+
+ - 13 -
+
+scarcity problem with respect to bank equity--both A and B can always make more.  By 
+
+contrast, the total supply of HQLA is closer to being fixed at any point in time.16 
+
+Policy Implications 
+
+What does all of this imply for policy design?  First, at a broad philosophical 
+
+level, the recognition that liquidity regulation involves more uncertainty about costs than 
+
+capital regulation suggests that even a policymaker with a very strict attitude toward 
+
+capital might find it sensible to be somewhat more moderate and flexible with respect to 
+
+liquidity.  This point is reinforced by the observation that when an institution is short of 
+
+capital and can’t get more on the private market, there is really no backup plan, short of 
+
+resolution.  By contrast, as I mentioned earlier, when an institution is short of liquidity, 
+
+policymakers do have a backup plan in the form of the LOLR facility.  One does not want 
+
+to rely too much on that backup plan, but its presence should nevertheless factor into the 
+
+design of liquidity regulation. 
+
+Second, in the spirit of flexibility, while a price-based mechanism such as the 
+
+CLF may not be immediately necessary in countries outside of Australia and a few 
+
+others, it is worth keeping an open mind about the more widespread use of CLF-like 
+
+mechanisms.  If a scarcity of HQLA-eligible assets turns out to be more of a problem 
+
+than we expect, something along those lines has the potential to be a useful safety valve, 
+
+as it puts a cap on the cost of liquidity regulation.  Such a safety valve would have a 
+
+direct economic benefit, in the sense of preventing the burden of regulation from getting 
+
+unduly heavy in any one country. 
+
+                                                 
+16 This is not to say that banks cannot adjust on other margins if HQLA is in unexpectedly short supply.  
+For example, they can do less liquidity provision, by terming out their funding or by extending fewer credit 
+lines.  This is like the power plant doing more conservation and less mitigation:  It reduces the upward 
+pressure on the price of scrubbers (or HQLA), at the cost of cutting back on a set of services that 
+presumably has some social value.   
+
+
+ - 14 -
+
+Perhaps just as important, a safety valve might also help to protect the integrity of 
+
+the regulation itself, by harmonizing costs across countries and thereby reducing the 
+
+temptation of those most hard-hit by the rules to try to chip away at them.  Without such 
+
+a safety valve, it is possible that some countries--those with relatively small supplies of 
+
+domestic HQLA--will find the regulation considerably more costly than others.  If so, it 
+
+would be natural for them to lobby to dilute the rules--for example, by arguing for an 
+
+expansion in the type of assets that can count as HQLA.  Taken too far, this sort of 
+
+dilution would undermine the efficacy of the regulation as both a mitigator and a tax.  In 
+
+this scenario, holding the line with what amounts to a proportional tax on liquidity 
+
+provision would be a better outcome.17 
+
+One situation where liquid assets can become unusually scarce is during a 
+
+financial crisis.  Consequently, even if CLFs were not counted toward the LCR in normal 
+
+times, it might be appropriate to count them during a crisis.  Indeed, while the LCR 
+
+requires banks to hold sufficient liquid assets in good times to meet their outflows in a 
+
+given stress scenario, it implicitly recognizes that if things turn out even worse than that 
+
+scenario, central bank liquidity support will be needed.  Allowing CLFs to count toward 
+
+the LCR in such circumstances would acknowledge the importance of access to the 
+
+central bank, and this access could be priced accordingly. 
+
+Finally, a price-based mechanism might also help promote a willingness of banks 
+
+to draw down their supply of HQLA in a stress scenario.  As I noted at the outset, one 
+
+important concern about a pure quantity-based system of regulation is that if a bank is 
+
+held to an LCR standard of 100 percent in normal times, it may be reluctant to allow its 
+
+                                                 
+17 To be sure, it is possible that the rules could be diluted in the context of a price-based CLF mechanism as 
+well, for example, through the administration of collateral-eligibility criteria or haircut requirements.  
+
+
+ - 15 -
+
+ratio to fall below 100 percent when facing large outflows for fear that doing so might be 
+
+seen by market participants as a sign of weakness. 
+
+By contrast, in a system with something like a CLF, a bank might in normal times 
+
+meet 95 percent of its requirement by holding private-market HQLA and the remaining 
+
+5 percent with committed credit lines from the central bank, so it would have an LCR of 
+
+exactly 100 percent.  Then, when hit with large outflows, it could maintain its LCR at 
+
+100 percent, but do so by increasing its use of central bank credit lines to 25 percent and 
+
+selling 20 percent of its other liquid assets.18  This scenario would be the sort of liquid-
+
+asset drawdown that one would ideally like to see in a stress situation.  Moreover, the 
+
+central bank could encourage this drawdown by varying the pricing of its credit lines--
+
+specifically, by reducing the price of the lines in the midst of a liquidity crisis.  Such an 
+
+approach would amount to taxing liquidity provision more in good times than in bad, 
+
+which has a stabilizing macroprudential effect. 
+
+This example also suggests a design that may have appeal in jurisdictions where 
+
+there is a relatively abundant supply of HQLA-eligible assets.  One can imagine 
+
+calibrating the pricing of the CLF so as to ensure that lines provided by central banks 
+
+make up only a minimal fraction of banks’ required HQLA in normal times--apart, 
+
+perhaps, from the occasional adjustment period after an individual bank is hit with an 
+
+idiosyncratic liquidity shortfall.  At the same time, in a stress scenario, when liquidity is 
+
+scarce and there is upward pressure on the HQLA premium, the pricing of the CLF could 
+
+be adjusted so as to relieve this pressure and promote usability of the HQLA buffer.  
+
+Such an approach would respect the policy objective of reducing expected reliance on the 
+
+                                                 
+18 This presumes that the bank in question is able to present adequate collateral to the central bank to secure 
+the central bank credit line. 
+ 
+
+
+ - 16 -
+
+LOLR while at the same time allowing for a safety valve in a period of stress.  The limit 
+
+case of this approach is one where the CLF counts toward the LCR only in a crisis. 
+
+Conclusion 
+
+By way of conclusion, let me just restate that liquidity regulation has a key role to 
+
+play in improving financial stability.  However, we should avoid thinking about it in 
+
+isolation; rather, we can best understand it as part of a larger toolkit that also includes 
+
+capital regulation and, importantly, the central bank’s LOLR function.  Therefore, proper 
+
+design and implementation of liquidity regulations such as the LCR should take account 
+
+of these interdependencies.  In particular, policymakers should aim to strike a balance 
+
+between reducing reliance on the LOLR on the one hand and moderating the costs 
+
+created by liquidity shortages on the other hand--especially those shortages that crop up 
+
+in times of severe market strain.  And, as always, we should be prepared to learn from 
+
+experience as we go. 
+

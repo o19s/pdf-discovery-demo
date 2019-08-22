@@ -1,0 +1,811 @@
+
+For release on delivery 
+9:30 a.m. CST (10:30 a.m. EST) 
+November 9, 2012 
+ 
+ 
+
+
+Community Banks and Mortgage Lending 
+ 
+ 
+ 
+ 
+ 
+
+Remarks by 
+ 
+ 
+
+Elizabeth A. Duke 
+ 
+ 
+
+Member 
+ 
+ 
+
+Board of Governors of the Federal Reserve System 
+ 
+ 
+
+at the 
+ 
+ 
+
+Community Bankers Symposium 
+ 
+ 
+
+Chicago, Illinois 
+ 
+ 
+
+November 9, 2012
+
+
+It is a real pleasure for me to have the opportunity to speak to community bankers at this 
+
+annual Community Bankers Symposium sponsored jointly by the Federal Reserve Bank of 
+
+Chicago, the Office of the Comptroller of the Currency (OCC), and the Federal Deposit 
+
+Insurance Corporation (FDIC).  I know that many of you are concerned about the banking 
+
+agencies’ recent proposals to revise the capital rules, the so-called Basel III proposals.1  So I will 
+
+start my remarks with an update on those proposals.  Then I will move to a more detailed 
+
+discussion of some data that I have found interesting as I have been thinking about the effect of 
+
+regulations as they relate to residential mortgage lending.  
+
+Before I begin, I want to assure you that all of my colleagues on the Board of Governors, 
+
+including the Chairman, are concerned about the effect of regulation on community bank 
+
+lending.  In fact, we have established a subcommittee of the Board, which I chair, to focus on the 
+
+supervision and regulation of community and small regional banks.  In addition, we have 
+
+established a Community Depository Institution Advisory Council (CDIAC) made up of 
+
+community banks, thrifts, and credit unions to advise the Board about issues facing smaller 
+
+institutions.2  But I want to also be clear that any opinions I express today are my own and may 
+
+not reflect those of other members of the Board. 
+
+Regulatory Capital Proposals 
+
+Let me turn now to the capital proposals.  As we enter the final deliberative phase of this 
+
+rulemaking, I want to emphasize that the feedback we have received during the comment period 
+
+has been extremely valuable and that we will work very hard to address your concerns in the 
+
+final rules.  Also, I would like to address the specific concern expressed by some bankers that 
+
+                                                 
+1 See 77 FR 52791, 77 FR 52888, and 77 FR 52978.  See also Federal Reserve Board of Governors (2012). “Federal 
+Reserve Board invites comment on three proposed rules intended to help ensure banks maintain strong capital 
+positions,” press release, June 7 (www.federalreserve.gov/newsevents/press/bcreg/20120607a.htm). 
+2 For more information, see the Board’s public website at www.federalreserve.gov/aboutthefed/cdiac.htm. 
+
+
+
+
+- 2 -
+
+these rules will be effective January 1, 2013, forcing them to potentially make changes with little 
+
+preparation.  We have received a large number of comments and want to closely consider each 
+
+issue.  Therefore, the agencies this morning announced that we do not expect that any of the 
+
+proposed rules would become effective on January 1, 2013.3  Further, the agencies offered the 
+
+assurance that institutions will have time for transition once the rules are effective.   
+
+Before the proposals were issued, our staff of economists and analysts conducted 
+
+research to estimate the potential impact of the proposed rules.  Their analysis indicated that the 
+
+vast majority of community banks would already meet the new standards.  Nevertheless, it was 
+
+critically important to hear directly from community banks to better understand how individual 
+
+institutions and their business plans might be affected by the proposals.   
+
+Admittedly, the capital proposals were quite lengthy and in many cases applied only to 
+
+the largest banking organizations.  So, for the first time in a regulatory proposal that I’m aware 
+
+of, short summaries were added to the capital proposals to explain more clearly which aspects 
+
+were likely to affect community banks.  The objective was to spare community bankers from 
+
+having to wade through the many elements of the proposals that would apply almost exclusively 
+
+to the largest institutions, and to encourage them to comment on those elements of the proposals 
+
+most likely to affect their institutions.  Judging from the number of comments we received from 
+
+community banks, I would conclude that the summaries were at least somewhat helpful, and I 
+
+hope that this innovation will become a standard part of large regulatory proposals in the future. 
+
+We expected the summaries to make a difference in the volume and detail of the 
+
+responses we received, but still we weren’t content to just issue the proposals and wait for 
+
+comments.  So the Federal Reserve planned a systematic effort to solicit and understand the 
+
+                                                 
+3 See Federal Reserve Board of Governors (2012). “Agencies Provide Guidance on Regulatory Capital 
+Rukemakings,” press release, November 9 (www.federalreserve.gov/newsevents/press/bcreg/20121109a.htm). 
+
+
+
+
+- 3 -
+
+views of community banks, one that has been more comprehensive than any I have seen in my 
+
+time at the Board.  
+
+We launched these efforts at the Board’s public meeting on June 7 of this year, when the 
+
+capital proposals were approved and we began accepting comments.  At that meeting, I reiterated 
+
+my support for strong levels of high-quality capital in banks of all sizes, including community 
+
+banks.4  The large number of community banks that failed over the past several years as a result 
+
+of problems in their real estate loan portfolios has highlighted the importance of having a strong 
+
+cushion of loss-absorbing capital.  However, I also emphasized the importance of getting the 
+
+details of the proposals right.  I encouraged community banks, therefore, to submit comments on 
+
+the proposals to help us understand the costs that revisions to the capital framework could add 
+
+for smaller banks and the changes to their businesses that might result. 
+
+This summer we held a series of “Ask the Fed” sessions aimed primarily at banking 
+
+organizations supervised by the Federal Reserve to provide an overview of the proposals, answer 
+
+questions, and receive feedback.  More than 3,000 bankers participated in these sessions, via 
+
+teleconference or in person.  We later summarized some of the most common questions that our 
+
+staff received in an article in the first issue of Community Banking Connections, a new Federal 
+
+Reserve publication specifically for community bankers.5  Board members and staff have also 
+
+been meeting directly with various industry groups, including state bankers’ associations, to hear 
+
+their views on the proposals.  
+
+                                                 
+4 See “Statement by Governor Elizabeth A. Duke,” attachment to Federal Reserve press release (June 7, 2012) 
+(www.federalreserve.gov/newsevents/press/bcreg/duke20120607a.htm). 
+5 See The Federal Reserve System (2012), “The Regulatory Capital Proposals: Frequently Asked Questions,” 
+Community Banking Connections (Third Quarter), 
+www.communitybankingconnections.org/articles/2012/Q3/regulatory-capital-proposals.cfm. 
+
+
+
+
+- 4 -
+
+After the proposals had been out for a couple of months, a number of parties, including 
+
+many community bankers, requested more time to analyze the proposals prior to submitting 
+
+comment letters.  As a result, the agencies decided to extend the original 90-day comment period 
+
+by an additional 45 days.6  Also in response to requests, in September, the agencies made 
+
+available a tool to help community banking organizations and others estimate the potential 
+
+impact of the capital proposals on their regulatory capital ratios.7 
+
+ We received more than 2,000 comment letters during the consultative period, which we 
+
+are in the process of posting to the Board’s public website.  Our staff is currently reviewing each 
+
+and every one of those letters.  We take these comments very seriously, and we will be working 
+
+with our colleagues at the OCC and FDIC to understand and analyze the many issues that have 
+
+been raised.   
+
+We heard many different concerns during our outreach efforts, but there were some 
+
+recurring themes, including: the complexity of the proposed changes, the operational costs that 
+
+would be incurred to track data that are not currently needed to calculate capital ratios, the 
+
+potential impact on mortgage lending of the proposed mortgage risk weights, the accelerated 
+
+phase-out of trust preferred securities from tier 1 capital, and the potential volatility in regulatory 
+
+capital arising from the inclusion of unrealized gains and losses on available-for-sale securities.   
+
+ It’s still far too early in the process to know where we and the other agencies are going to 
+
+come out on these and other issues, or when final rules may be released.  But what I can promise 
+
+you is that before we issue final capital rules, we will do everything possible to address the 
+
+                                                 
+6 See Federal Reserve Board of Governors (2012), “Federal Reserve Board extends comment period on three 
+proposed capital rules rulemakings until October 22, 2012,” press release, August 8,  
+(www.federalreserve.gov/newsevents/press/bcreg/20120808a.htm). 
+7 See Federal Reserve Board of Governors (2012), “Agencies release a regulatory capital estimation tool to assist in 
+assessing the potential effects of recently proposed regulatory capital rules,” press release, September 24 
+(www.federalreserve.gov/newsevents/press/bcreg/20120924a.htm). 
+
+
+
+
+- 5 -
+
+concerns that have been expressed by community banks and still achieve the goal of having 
+
+strong levels of high-quality capital--built up over a reasonable and realistic transitional period--
+
+in banks of all sizes, including community banks.   
+
+ As we met with bankers and listened to them describe the threat to their role in residential 
+
+mortgage lending posed by the proposed mortgage risk weightings, I realized that we had very 
+
+little data about mortgages on the books of community banks.  Much of our research has focused 
+
+on securitized loans.  So I set out to learn more about residential lending in smaller institutions, 
+
+and as I did, it became clear to me that there are regulatory issues that go far beyond those raised 
+
+in the capital proposals.  I am now concerned that, even if the specific issues in the capital 
+
+proposals can be addressed, the totality of new mortgage lending regulations might still seriously 
+
+impair the ability of community banks to continue to offer their traditional mortgage products.  
+
+In fact, in our discussions with community bankers, more of them report that they are reducing or 
+
+eliminating their mortgage lending due to regulatory burden than report that they are entering or 
+
+expanding their mortgage business in response to the business potential of low mortgage rates.  I 
+
+think this represents a real concern, both for mortgage availability and for the viability of 
+
+community banking. 
+
+Community Banks and Mortgage Lending 
+
+When I think about community banks, I usually envision a bank, thrift, or credit union 
+
+that serves customers in one or more well-defined local markets and that is engaged in a 
+
+traditional community banking model--making a variety of loans and funding itself primarily 
+
+with local core deposits.  At the Federal Reserve, we generally define our community bank 
+
+portfolio as those institutions with $10 billion or less in total assets, which is the definition I will 
+
+use in this discussion.  
+
+
+
+
+- 6 -
+
+In evaluating the effect of regulation on community banks, I divide the potential burden 
+
+into three categories: (1) additional operational costs associated with compliance; (2) restrictions 
+
+on fees, interest rates, or other forms of revenue; and (3) unintentional barriers to offering a 
+
+service that are a result of regulatory complexity.  Each of these effects is of some concern, but 
+
+to me the most disturbing is the third category.  If the effect of a regulation is to make a 
+
+traditional banking service so complicated or expensive that significant numbers of community 
+
+banks believe they can no longer offer that service, it should raise red flags and spur 
+
+policymakers to reassess whether the potential benefits of the regulation outweigh the potential 
+
+loss of community banks’ participation in that part of the market.  Unfortunately, my discussions 
+
+with community bankers lead me to believe that we might be approaching that point with 
+
+residential mortgage lending regulation.  
+
+I have thought a lot about how we have come to this point.  I think it is because both the 
+
+Dodd-Frank Wall Street Reform and Consumer Protection Act (Dodd-Frank Act) and its 
+
+implementing regulations attempt to avoid a repeat of the lending abuses that were identified in 
+
+the crisis by using characteristics that were common in subprime lending as proxies for 
+
+identification of problematic loans.  While this is an understandable approach given the abuses in 
+
+subprime lending, it fails to recognize that many of these same characteristics, such as higher 
+
+interest rates or balloon payments, also are key aspects of traditional community bank portfolio 
+
+lending.  But, as I will discuss later, these features in community bank lending do not appear to 
+
+have resulted in nearly the level of borrower stress that was prevalent in subprime loans. 
+
+Community banks have long been a source of loans that, for a variety of reasons, do not 
+
+fit the parameters of conforming government-sponsored enterprise loans or eligibility for 
+
+government-guaranteed programs.  Community banks typically hold these loans on their own 
+
+
+
+
+- 7 -
+
+balance sheets.  They use higher interest rates to compensate for the lack of liquidity in these 
+
+loans or to cover higher processing costs because community banks lack economies of scale, and 
+
+they use balloon payments as a simple way to limit their interest-rate risk.  To the extent that 
+
+regulations require additional operational procedures for such loans that are prohibitively 
+
+expensive, raise the liability associated with making them, or create capital requirements that are 
+
+out of proportion to the riskiness of the loans, community banks could be closed out of these 
+
+products altogether.  
+
+How concerned should we be if community banks start pulling out of mortgage lending? 
+
+To answer this, I think it is important to answer three more fundamental questions.  First, how 
+
+important is community bank lending to the overall mortgage market?  Second, how important is 
+
+mortgage lending to the community banking model?  And third, are there any indications that 
+
+community bank lending poses the same risks as the subprime lending that shared many of the 
+
+same characteristics?  
+
+How important is community bank lending to the overall mortgage market? 
+
+One of the advantages of working at the Federal Reserve is having access to what I 
+
+believe is one of the finest research staffs anywhere.  Because of the Federal Reserve’s role in 
+
+the economy and financial stability, we have teams of top-notch economists and financial 
+
+analysts to help policymakers reach the best possible understanding of economic and financial 
+
+trends.  But they are equally valuable in assessing the effects of regulatory policy.  So I asked 
+
+Federal Reserve staff to examine available data to try to come up with answers to my questions 
+
+about mortgage lending and community banks.  I would like to share with you the answers they 
+
+uncovered. 
+
+
+
+
+- 8 -
+
+Analysis of annual data on home lending reported pursuant to the Home Mortgage 
+
+Disclosure Act (HMDA) provides insight into the role of community banks in the mortgage 
+
+market.8  As you may know, HMDA requires banking institutions, credit unions, and mortgage 
+
+companies with offices in metropolitan areas to report details about the applications they receive 
+
+and the loans they extend each year.9     
+
+To investigate the role of community banks in the home lending market and to foster a 
+
+more detailed understanding of mortgage lending within the broad group of community banks, 
+
+our staff sorted lending institutions in HMDA into three asset size categories: smaller community 
+
+banks with assets under $500 million, larger community banks with assets between $500 million 
+
+and $10 billion, and large banks with assets of more than $10 billion.  For the analysis, all 
+
+affiliated entities were combined and treated as a single organization.  
+
+The HMDA data indicate that community banks account for a significant fraction of total 
+
+home loan originations each year.  Smaller community banks account for about 5 percent of the 
+
+originations annually and larger community banks an additional 13 percent.10  Credit unions, 
+
+which are nearly all small, now account for an additional 7 percent of home loan originations.  
+
+Thus, taken together, community banks and credit unions accounted for one-quarter of the new 
+
+origination market in 2011.  This is up from a combined market share of nearly 16 percent in 
+
+2004.  Over the same time period, the share of loans originated by non-banks dropped from 
+
+                                                 
+8 For more information refer to Robert B. Avery, Kenneth P. Brevoort, Neil Bhutta, and Glenn B. Canner (2012), 
+“The Mortgage Market in 2011: Highlights from the Data Reported under the Home Mortgage Disclosure Act,” 
+Federal Reserve Bulletin, vol. 98 (September 18) 
+www.federalreserve.gov/pubs/bulletin/2012/PDF/2011_HMDA.pdf. 
+9 The data include information about the types and purposes of the loans; the disposition of applications; information 
+about the borrowers, such as their incomes; and information about the location of the properties securing loans.  
+Although HMDA’s coverage does not extend to lending institutions with offices exclusively in rural areas, its 
+coverage of the home lending market is considerable, including more than 7,600 institutions and nearly 12 million 
+applications in 2011. 
+10 Estimates are based on the number of first-lien mortgage originations related to one- to four-family dwellings as 
+reported under HMDA. 
+
+
+
+
+- 9 -
+
+nearly one-third of all originations in 2004 to slightly more than one-quarter in 2011.  The 
+
+HMDA data further indicate that large banks accounted for about one-half of all originations in 
+
+2004 and about the same share in 2011.11 
+
+Therefore, as overall originations have declined, originations by small banks have not 
+
+fallen as much as those of large banks or non-banks.  And, as a reminder, these data do not 
+
+include loan originations by institutions that operate exclusively in rural areas that, if included, 
+
+would presumably increase the share originated by community institutions.  Furthermore, these 
+
+smaller institutions have been able to hold their own in the marketplace even as their numbers 
+
+were diminished over the past few years by a number of bank closures and acquisitions by larger 
+
+banking organizations.12 
+
+Looking more closely at the HMDA data provides considerably more information about 
+
+the nature of home lending undertaken by institutions and the extent to which loans are held in 
+
+portfolio or sold.  Compared to larger banks, community banks  
+
+ have notably larger shares of home purchase loans than loans for other purposes, such as 
+
+refinancing or home improvement   
+
+ tend to originate proportionately more conventional loans than loans backed by 
+
+government guarantees 
+
+ extend larger shares of their total home-purchase loans to low- or moderate-income 
+
+individuals or borrowers in low- or moderate-income neighborhoods, lending that is the 
+
+                                                 
+11 Some industry sources suggest that the mortgage market is getting more concentrated at the top.  The share of 
+mortgage-related activity of large banks is greater if market share estimates are based on both the number of loan 
+originations and loan purchases. 
+12 From year-end 2007 to June 2012, the number of banks with assets under $10 billion declined 15 percent from 
+7,188 to 6,110. 
+
+
+
+
+- 10 -
+
+focus of the Community Reinvestment Act requirements to help serve the credit needs of 
+
+local communities   
+
+ hold the loans they originate in portfolio and retain the credit risk, rather than transfer the 
+
+risk by selling those loans to other market participants, such as Fannie Mae, Freddie Mac, 
+
+or others13   
+
+The HMDA data also indicate that a larger share of the conventional loans extended by 
+
+smaller lenders carry higher prices.14  The data do not provide much insight into why the pricing 
+
+patterns differ across lender size groups, but it may be that the types of loans originated by 
+
+smaller lenders tend to be nonconforming or out of the ordinary in other ways and consequently 
+
+carry higher prices to compensate for the lower liquidity or somewhat higher credit and interest-
+
+rate risk.   
+
+Although the HMDA data provide us with an opportunity to learn quite a bit about the 
+
+home lending activities of community banks and other lending institutions, the data have some 
+
+important limitations, particularly since they only cover urban institutions and are available only 
+
+through 2011.  Other sources of data we can use to monitor the home lending activities of 
+
+banking institutions are the Consolidated Reports of Condition and Income, or Call Reports, filed 
+
+                                                 
+13 In 2011, 56 percent of the conventional home-purchase loans by small community banks and about 40 percent of 
+those originated by larger community banks were held in portfolio as compared to 30 percent for the largest banks. 
+For this analysis only, loans originated in the first three quarters of 2011 were considered because of the delay 
+between origination and loan sale.  The analysis assumes loans sold to affiliates are held in portfolio. 
+14 Under HMDA, lenders report the spread between the “average prime offer rate” (APOR) and the annual 
+percentage rate (APR) on a loan if the difference (or “spread”) exceeds 1.5 percentage points for first-lien loans or 
+3.5 percentage points for junior lien loans of a similar type (for example, a 30-year fixed-rate mortgage).  The 
+APOR, which is published weekly by the Federal Financial Institutions Examination Council (FFIEC), is an 
+estimate of the APR on loans being offered to high-quality prime borrowers based on the contract interest rates and 
+discount points reported by Freddie Mac in its Primary Mortgage Market Survey. 
+
+
+
+
+- 11 -
+
+quarterly by all banking institutions, and the FR Y-9C reports filed by bank holding companies 
+
+(BHCs).15   
+
+Data from Call Reports and FR Y-9C filings show a pattern in originations for sale that is 
+
+similar to the shares of overall originations revealed by the HMDA data.  In the first quarter of 
+
+2007, small BHCs accounted for less than 10 percent of mortgage loan sales by bank holding 
+
+companies.  However, by the second quarter of 2012, these institutions had almost doubled their 
+
+share, accounting for nearly 20 percent of sales.  
+
+And, indeed, the net income from selling mortgage loans is attracting some new entrants. 
+
+The number of banks reporting any income from sales, securitization, or servicing of mortgage 
+
+loans has shown a substantial increase since 2007, with much of the entry occurring as the 
+
+recession ended in the first half of 2009.  Recent quarters have seen the entry of about 30 
+
+additional banks.  But since the new entrants are all small, it will take a lot of them to make up 
+
+for any pullback from the larger banking organizations.  
+
+Taken together, these data demonstrate that while the community bank share of the 
+
+mortgage market is not large, it is significant.  Thus, I would conclude from this evidence that 
+
+the additional capacity provided by smaller lenders is important, especially at the margin, and 
+
+could contribute to lowering mortgage rates and loosening lending standards. 
+
+How important is mortgage lending to the community banking model? 
+
+The same data that were used to examine the role of community banks in the mortgage 
+
+market can also be used to analyze the importance of mortgage products to community banks. 
+
+Overall, community banks accounted for approximately one-fifth of closed-end, first-lien 
+
+mortgages retained in portfolio by all banks as of June 2012.  Mortgage lending appears to be 
+
+                                                 
+15 For Call Report data, refer to www2.fdic.gov/Call_TFR_Rpts. For FR Y-9C data, refer to 
+www.ffiec.gov/nicpubweb/nicweb/nichome.aspx. 
+
+
+
+
+- 12 -
+
+just as important to community banks as it is to larger banks, as both tend to devote about one-
+
+quarter of their on-balance-sheet loan portfolios to home loans.  Moreover, the share of first-lien 
+
+mortgages as a percent of loans held in portfolio has increased substantially since 2008 at 
+
+institutions with less than $10 billion in assets.   
+
+Call Report data suggest that only a small fraction of community banks engage in the 
+
+origination of mortgages for sale, securitization, or mortgage servicing.  Since the financial 
+
+crisis, however, measures of profitability at banks with such activities have significantly 
+
+exceeded those at community banks not engaged in these business lines.  Comparing community 
+
+banks that reported any income from sales, securitization, and servicing of mortgages in the 
+
+second quarter of 2012 to those without such income reveals that those with such income had a 
+
+34 basis point advantage in terms of return on assets, that is, 1.26 percent compared to 0.92 
+
+percent.  The differences in return on equity were similarly significant -- 11.14 percent compared 
+
+to 8.61 percent.  
+
+With net interest margins compressing and regulatory costs increasing, many community 
+
+banks are struggling right now to generate income.  As I said earlier, the addition of mortgage 
+
+origination capacity and competition would seem likely to reduce rates and ease conditions for 
+
+borrowers.  And the recent entry of new banks into the market indicates that barriers to entry are 
+
+not prohibitive.  So it seems to me that appropriate policy should encourage community banks to 
+
+expand their mortgage lending rather than discourage them from doing so. 
+
+Are there any indications that community bank lending poses the same risks as subprime 
+
+lending that shared many of the same characteristics? 
+
+ I think I have made a reasonable case that community banks are important to the 
+
+mortgage market and that mortgage lending can be, in turn, an important source of profits for 
+
+
+
+
+- 13 -
+
+community banks.  None of this matters, however, if this lending poses a risk to the health of the 
+
+institutions or to the consumers who are their customers.  Community bankers argue that they 
+
+never engaged in the sort of lending practices that led to the financial crisis.  And I think that in 
+
+most cases, the evidence supports their claims.  However, as I mentioned earlier, data from the 
+
+HMDA and Call Reports indicate that community bank lending does share some characteristics 
+
+with subprime lending.  For example, community banks appear to charge higher rates on their 
+
+mortgage loans.  And the maturity data in the Call Reports are consistent with variable-rate 
+
+lending or balloon maturities on community banks’ mortgage loans.  
+
+But looking for signs of stress in the performance of the loans reveals a stark difference 
+
+between mortgage loans held by community banks and subprime loans.  Over the last several 
+
+years as mortgage delinquencies reached record levels, the serious delinquency rate of mortgages 
+
+held by community banks did not go much over 4 percent, far lower than the serious delinquency 
+
+rates that climbed to almost 22 percent for subprime, fixed-rate loans and more than 46 percent 
+
+for subprime, variable-rate loans.  In fact, over the last several years, on average, mortgages held 
+
+by community banks outperformed even fixed-rate, prime loans, the best performing mortgage 
+
+category.  I think this statistic by itself is a strong testament to the responsible lending practices 
+
+of community banks. 
+
+Balancing Regulatory Costs and Benefits 
+
+ Community bankers tell us repeatedly that they didn’t engage in the problem lending that 
+
+led to the recent crisis and shouldn’t be punished with expensive regulation.  I think the data I 
+
+have presented here support the first claim that their lending didn’t cause the problem.  But 
+
+crafting regulations to address the real problems that occurred in subprime lending without 
+
+creating punitive burdens on community banks may prove to be quite difficult.    
+
+
+
+
+- 14 -
+
+In addition to the capital proposals that I discussed earlier, community banks will be 
+
+affected by a number of provisions in the Dodd-Frank Act, such as those covering escrow 
+
+accounts for higher-priced mortgages,16 loan officer compensation, and appraisal requirements. 
+
+Within the escrow requirements, the Dodd-Frank Act did provide for an exemption for banks in 
+
+rural or underserved areas, but I think broader exemptions for community banks should be 
+
+considered.  
+
+The definitions of qualified mortgages (QMs) and qualified residential mortgages 
+
+(QRMs) could have a profound effect on the mortgage terms offered and the underwriting 
+
+conditions for all banks.  To the extent that these definitions constrain community bankers from 
+
+using their experience with the cash flows from a small business customer or their knowledge of 
+
+local real estate markets to customize a loan for an “irregular” situation, such loans may not be 
+
+made.  I do not mean to suggest that community banks are the only ones making good loans or 
+
+that there weren’t any problems in small banks.  But I do believe that the contribution of 
+
+community banks to mortgage lending abuses was proportionately small and that problematic 
+
+practices in smaller banks can be addressed through on-site supervision.  And I also believe that 
+
+many community banks simply do not have the resources to appropriately comply with all of the 
+
+pending regulatory changes pertaining to mortgage lending.  Thus, the cost of solving the 
+
+problem falls disproportionately on them. 
+
+Conclusion: A Separate Set of Rules for Mortgage Loans Held by Community Banks
+
+ In mortgage lending, crafting a regulatory approach that is effective in preventing abuse 
+
+but that leaves room for traditional community bank lending is challenging.  And designing 
+
+appropriate exemptions is no easier.  I have presented evidence today indicating that community 
+
+                                                 
+16 An escrow account generally is any account that a servicer establishes or controls on behalf of a borrower to 
+collect and pay taxes, insurance premiums, or other charges with respect to a mortgage loan. 
+
+
+
+
+- 15 -
+
+banks are important to the mortgage market, that they are able to relieve some capacity 
+
+constraints at the margin, that mortgage lending is important to their balance sheets and their 
+
+profitability in the aggregate, and that they are a source of responsible lending.  Their lending is 
+
+likely most important in the market for non-standard properties or borrowers.  
+
+Having confirmed these conditions, I am convinced that the best course for policymakers 
+
+would be to abandon efforts for a one-size-fits-all approach to mortgage lending.  Balancing the 
+
+cost of regulation that is prescriptive with respect to underwriting, loan structure, and operating 
+
+procedures against the lack of evidence that balance sheet lending by community banks created 
+
+significant problems, I think an argument can be made that it is appropriate to establish a 
+
+separate, simpler regulatory structure to cover such lending.  Such a regime should still establish 
+
+appropriate safeguards to protect consumers, but it should do so in a way that recognizes the 
+
+characteristics of community bank lending, perhaps by focusing on appropriate disclosures and 
+
+relying on regular on-site supervision to test for appropriate underwriting and loan structuring.  
+
+I originally requested this information to help me understand the implications of 
+
+mortgage risk weightings in the capital proposal.  But as I investigated the data, I realized that 
+
+the regulatory burden surrounding mortgages extends beyond the capital rules and that 
+
+addressing the problem will take more than a tweak here or an exemption there.  I think it will 
+
+require a different approach.  The regulators cannot, on their own, craft a new approach to 
+
+regulating mortgage lending by community banks.  However, I hope that this data will be useful 
+
+to bankers and policymakers as they discuss more broadly the establishment of a regulatory 
+
+regime that preserves the important role of community banks in mortgage lending.  
+
+
+

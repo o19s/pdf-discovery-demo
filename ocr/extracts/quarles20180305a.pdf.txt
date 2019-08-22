@@ -1,0 +1,583 @@
+
+
+For release on delivery 
+1:15 p.m. EST 
+March 5, 2018 
+ 
+
+
+The Federal Reserve’s Regulatory Agenda for Foreign Banking Organizations:  
+What Lies Ahead for Enhanced Prudential Standards and the Volcker Rule 
+
+
+Remarks by 
+ 
+
+Randal K. Quarles 
+ 
+
+Vice Chairman for Supervision 
+ 
+
+Board of Governors of the Federal Reserve System 
+ 
+
+at the 
+ 
+
+Institute of International Bankers Annual Washington Conference 
+ 
+
+Washington, D.C. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+March 5, 2018 
+       
+
+
+
+
+
+- 2 - 
+ 
+
+
+Thank you very much to the Institute of International Bankers for inviting me to speak 
+
+here today.  Among my first areas of focus when I was a very young lawyer starting out in my 
+
+career well over 30 years ago was providing advice to foreign banks and financial firms 
+
+operating in the United States, and I learned then just how integral, essential, and welcome a part 
+
+your firms play in our domestic financial sector.  Non-U.S. firms serve as an important source of 
+
+credit to U.S. households and businesses and contribute materially to the strength and liquidity of 
+
+U.S. financial markets, so it is critical--not just as a matter of fairness but as a matter of our 
+
+domestic interest--that we as regulators ensure that they operate in a fair and open financial 
+
+services sector.  I view that as an important part of my job.  
+
+So today I want to share my perspective on the appropriate regulatory environment for 
+
+foreign banks operating in the United States, as well as some thoughts on specific elements of 
+
+that regime.  Before doing that though, we should take stock of the pre-crisis history of foreign 
+
+firms operating in the United States.   
+
+First, the financial crisis revealed that in times of stress, international banking firms with 
+
+large and complex local operations can contribute to instability in those local markets and can 
+
+require extraordinary support from local authorities.  Second, a number of foreign financial 
+
+institutions expanded the size and complexity of their U.S. operations at a rousing pace and scale 
+
+prior to the crisis, and we did not adjust our local regulatory and supervisory approaches to 
+
+address the increased risk associated with this expansion.  As a result, the difficulties faced by 
+
+the U.S. operations of non-U.S. banks during the crisis mirrored that of their similarly sized 
+
+domestic counterparts, underscoring a need for increased resiliency of both domestic firms and 
+
+the U.S. operations of foreign banks. 
+
+
+- 3 - 
+ 
+
+
+To bolster that resiliency, the environment for foreign banks operating in the United 
+
+States underwent a number of changes.  While there are important differences, those changes for 
+
+foreign firms broadly parallel many of the changes instituted for domestic firms.  My Federal 
+
+Reserve colleagues and I have termed these the core post-crisis regulatory reforms: capital, 
+
+liquidity, stress testing, and resolution planning.1  Of course, the obvious and most prominent 
+
+difference for foreign firms--as attendees of this conference certainly know--was the introduction 
+
+of the intermediate holding company (IHC) structure, to which the post-crisis regulatory reforms 
+
+apply. 
+
+In my estimation, these reforms have gone a long way toward meeting our goal of a more 
+
+resilient financial system.  That said, we are now at a point--with ten years of experience in 
+
+setting up and living with the body of post-crisis regulation--where it is both relevant and timely 
+
+to examine the post-crisis reforms and identify what is working well and what can be improved.  
+
+If none of the regulatory measures implemented up to now were capable of improvement, this 
+
+would be the first project of this scale and complexity conducted that had been done exactly right 
+
+the first pass through.  If there was still work to be done after Hammurabi, there is probably still 
+
+some work to be done now after Dodd and Frank.  In particular, as I have said elsewhere, we 
+
+should be looking to see where we can achieve our regulatory objectives in ways that maintain 
+
+our measures’ effectiveness, but improve their efficiency, transparency, and simplicity.  As part 
+
+of that effort, we will consider additional tailoring and flexibility of our regulations in light of 
+
+                                                            
+1 See Randal K. Quarles, “Early Observations on Improving the Effectiveness of Post-Crisis Regulation,” (speech at 
+the American Bar Association Banking Law Committee Annual Meeting, Washington, January 19, 2018), 
+www.federalreserve.gov/newsevents/speech/files/quarles20180119a.pdf.   
+
+
+- 4 - 
+ 
+
+
+their impact on foreign banking organizations (FBOs) based on lessons learned over the past 
+
+several years.   
+
+  To illustrate how I am thinking about these issues, I want to focus in my remarks today 
+
+on two specific regulatory examples.  These are, of course, not an exhaustive list of work to be 
+
+done in the regulation of FBOs, but they tend to be near the top of the feedback list from both the 
+
+industry and supervisors.  First, I will discuss the application of enhanced prudential standards to 
+
+FBOs, including our flexibility in implementing certain aspects of these standards.  I will also 
+
+offer some initial thoughts on opportunities for further tailoring that regime for FBOs.  Second is 
+
+the Volcker rule.  I will provide some of my initial thinking on how we might be able to improve 
+
+the Volcker rule, both generally and in its application to FBOs in particular.     
+
+Enhanced Prudential Standards 
+
+In implementing enhanced prudential standards for foreign banks with a large U.S. 
+
+presence, we sought to ensure that firms hold sufficient local capital and liquidity--and have a 
+
+risk management infrastructure--that is commensurate with the risks in their U.S. operations.2  
+
+And in general, that approach is meeting many of the broad goals the Federal Reserve set out to 
+
+achieve.  Today, foreign banks with large U.S. operations are less fragmented, maintain local 
+
+capital and liquidity buffers that align to the size and riskiness of their U.S. footprint, and operate 
+
+on equal footing with their domestic counterparts. 
+
+                                                            
+2  The U.S. intermediate holding company structure provided for consistent application of capital, liquidity, and 
+other prudential requirements and consistent supervision across the U.S. subsidiary operations of an FBO.  See 12 
+USC 5365; Enhanced Prudential Standards for Bank Holding Companies and Foreign Banking Organizations, 79 
+Fed. Reg. 17,240 (March 27, 2014).   
+
+
+- 5 - 
+ 
+
+
+Our current approach aligns with other jurisdictions that host a large and complex foreign 
+
+bank presence.  For example, the European subsidiaries of U.S. banking firms have long been 
+
+subject to Basel-based standards imposed by the European Union and the United Kingdom as 
+
+host regulators.  In addition, European regulators are contemplating a holding company structure 
+
+for the local operations of foreign banks to reduce fragmentation and ensure effective local 
+
+supervision, similar in many ways to Federal Reserve rules.  
+
+In adopting the enhanced prudential standards, however, the Board has acknowledged 
+
+both the uniqueness of FBOs--as the U.S. operations are a small part of a larger firm--and the 
+
+diversity of foreign bank operations in the United States.  The Board contemplated from the 
+
+outset that circumstances may require application of the rule’s requirements to be adjusted in 
+
+light of an individual firm’s structure or risk profile.  The Board has exercised this authority in 
+
+the past, and I want to stress that we will continue to provide flexibility where appropriate to 
+
+accommodate these differences.   
+
+For instance, in implementing enhanced risk management standards, we have focused on 
+
+outcomes--a strong control environment for foreign bank operations in the United States--while 
+
+providing some flexibility in how those outcomes are achieved.  We have allowed the global risk 
+
+committee to serve as the risk committee for the U.S. operations rather than require the creation 
+
+of a standalone committee.  Further, for foreign banks with large U.S. branches but no IHC, the 
+
+Board has acknowledged the challenges associated with the location of the risk committee.  The 
+
+Board has accordingly allowed risk committees at U.S. holding companies as well as managerial 
+
+committees located in the United States, provided that the global board provided appropriate 
+
+
+- 6 - 
+ 
+
+
+oversight.3  We are committed to continuing this outcomes-focused approach and to refining it 
+
+where needed. 
+
+Further, we recognize that effective stress testing regimes can take many different forms, 
+
+specifically when interpreting the home-country stress testing requirements of the Dodd-Frank 
+
+Wall Street Reform and Consumer Protection Act.  The Board has acknowledged, for example, 
+
+that a foreign bank’s internal capital adequacy assessment process (ICAAP) may meet the 
+
+minimum standards, provided that the firm’s ICAAP is on a consolidated basis and reviewed by 
+
+the home country regulator.   
+
+In addition, while we believe that the IHC requirement serves a valuable role in ensuring 
+
+consistency of regulation across U.S. operations of an FBO, the Board has reserved authority to 
+
+approve multiple IHCs if circumstances warrant based on the FBO’s activities, scope of 
+
+operations, structure, home country regulatory framework, or similar considerations.  For 
+
+example, the Board’s enhanced prudential standards rule contemplates allowing multiple IHCs in 
+
+cases where home country legal requirements inhibit the combination of certain bank and 
+
+nonbank operations.   
+
+In practice, and in several instances, the Board has permitted a foreign bank to maintain 
+
+certain U.S. subsidiaries outside of its IHC, so long as the foreign bank did not have practical 
+
+control over that subsidiary.4  In addition, the Board recently approved an application by a 
+
+foreign bank for a second IHC.  Part of our rationale for approving the dual IHC structure was 
+
+                                                            
+3 See 12 CFR 252.155(a)(3) (requiring an FBO with U.S. branches and agencies and combined U.S. assets of        
+$50 billion or more to maintain its risk committee as a committee of the board of directors of its U.S. intermediate 
+holding company (as applicable) or as a committee or the global board of directors (or equivalent thereof)); see also 
+General Counsel opinion letters to Cooperatieve Rabobank U.A. and Sumitomo Mitsui Financial Group, Inc., each 
+dated October 19, 2016, related to the risk committee requirement. 
+4 For instance, if the subsidiary was wholly owned by a joint venture between the foreign bank and the third party. 
+
+
+- 7 - 
+ 
+
+
+the enhancement of recovery and resolution options of the global firm.  In granting the 
+
+exception, the Board applied enhanced prudential standards to the two IHCs in the same manner 
+
+that would apply to a single IHC, to maintain a level playing field and align incentives for the 
+
+safe and sound operation of both IHCs.  This approach allows us more flexibility in addressing 
+
+firm-specific structure needs, while maintaining the goals of the enhanced prudential standards 
+
+more generally.  We will continue to consider future applications based on the merits of the case.  
+
+Finally, to the extent that foreign banks have decided to reduce the scope of their U.S. 
+
+operations to reduce the application of some of the enhanced prudential standards, the Board has 
+
+accommodated requests for extended transition periods, so as to avoid unnecessary investments 
+
+in infrastructure that ultimately would not be required by regulation. 
+
+We are committed to tailoring our regulatory and supervisory regimes to align with the 
+
+risk posed by financial institutions to the U.S. financial system.  We are also continuing to 
+
+evaluate whether our rules are sensitive to changes in the risk profile of banking organizations.  
+
+We want our rules both to increase in stringency as firms’ risks grow and, just as important, to 
+
+decrease in stringency when firms have actively reduced their risk profiles.   
+
+The Volcker Rule 
+
+ Let me turn now to the Volcker rule.  Not to put too fine a point on it, but I believe the 
+
+regulation implementing the Volcker rule is an example of a complex regulation that is not 
+
+working well. 
+
+ The fundamental premise of the Volcker rule is simple: banks with access to the federal 
+
+safety net--Federal Deposit Insurance Corporation insurance and the Federal Reserve discount 
+
+window--should not engage in risky, speculative trading for their own account.  Whatever one’s 
+
+
+- 8 - 
+ 
+
+
+view of this basic premise, it is the law of the land.  Taking that premise as a given, we have to 
+
+ask how to improve the framework of the implementing regulation to make it more workable and 
+
+less burdensome in practice from both a compliance and supervisory perspective.   
+
+ I think we all can agree that the implementing regulation is exceedingly complex.  As one 
+
+example of specifics, among many, the statute and implementing regulation’s approach to 
+
+defining “market making-related activities” rests on a number of complex requirements that are 
+
+difficult or impossible to verify objectively in real time.  As a result, banks spend far too much 
+
+time and energy contemplating whether particular transactions or positions are consistent with 
+
+the Volcker rule.     
+
+Some of you may quite sensibly be asking, “If the deficiencies of the regulation are so 
+
+apparent, how did we get here?”  Despite the best of intentions in crafting the regulations, no one 
+
+seems to be happy with the complex rule we wound up with.  This has a very positive 
+
+consequence:  I have heard nothing but support from all of my regulatory colleagues for the 
+
+proposition that the regulation is overly complex and would benefit from streamlining and 
+
+simplifying to improve its workability in practice.   
+
+We are actively working with our fellow regulators in seeking ways to further tailor and 
+
+to reduce burden, particularly for firms that do not have large trading operations and do not 
+
+engage in the sorts of activities that may give rise to proprietary trading.  We also appreciate the 
+
+broad extraterritorial impact of the rule in its current form for foreign banks’ operations outside 
+
+of the United States.  To that end, we have, with the full cooperation of all five Volcker 
+
+regulatory agencies, picked back up the process that was begun last fall to engage in a 
+
+rulemaking process subject to the Administrative Procedures Act and develop a proposal for 
+
+public comment that would make material changes to the Volcker rule regulations.  In that 
+
+
+- 9 - 
+ 
+
+
+process we will take account of our own experience with the regulations since implementation, 
+
+and we also want to take account of the views of market participants and other interested parties 
+
+with views on the Volcker rule, including what is working and what is not.  We expect this 
+
+process will proceed with dispatch. 
+
+ We must also work within the confines of the statute.  For example, a number of my 
+
+current and former Federal Reserve Board colleagues have expressed support for Congress 
+
+providing an exemption from the Volcker rule for community banks, which is something I also 
+
+support. 5  Short of a statutory exemption, we can only do our best to mitigate burden on 
+
+community banks that generally do not engage in the types of activities the Volcker rule was 
+
+intended to cover.6  Statutory changes likely would make our work of streamlining more 
+
+straightforward and complete, but we have a fair bit that we can accomplish even absent such 
+
+changes.  
+
+ What are some of the improvements that we are thinking about that would be possible 
+
+within the regulation itself?  As an initial matter, it should be clearer and more transparent what 
+
+is subject to the Volcker rule’s implementing regulation and what is not.  The definition of key 
+
+terms like “proprietary trading” and “covered fund” should be as simple and clear as possible.  It 
+
+                                                            
+5  See, e.g., Jerome H. Powell, “Regulation and Supervision of Community Banks,” (speech at the Annual 
+Community Bankers Conference, New York, NY, May 14, 2015), 
+www.federalreserve.gov/newsevents/speech/powell20150514a.htm. (“I believe community banks should not face 
+significant burdens from complying with these requirements, so I support raising the asset threshold for both the 
+Volcker rule and incentive compensation rules, perhaps to $10 billion. In the event where the actions of a 
+community bank might raise concerns in either of these areas, that could be addressed through our normal 
+examination process.”); see also Daniel K. Tarullo, “Departing Thoughts,” (speech at The Woodrow Wilson School, 
+Princeton University, Princeton, NJ, April 4, 2017), 
+www.federalreserve.gov/newsevents/speech/tarullo20170404a.htm. (“The third problem, also in the statute, is that 
+the Volcker rule applies to a much broader group of banks than is necessary to achieve its purpose. As I have said 
+before, the concerns underlying the Volcker rule are simply not an issue at community banks.”)     
+6 See Board of Governors of the Federal Reserve System, Federal Deposit Insurance Corporation, Office of the 
+Comptroller of the Currency, “The Volcker Rule: Community Bank Applicability,” news release. December 10, 
+2013, www.federalreserve.gov/newsevents/pressreleases/files/bcreg20131210a4.pdf.   
+
+
+- 10 - 
+ 
+
+
+should not be a guessing game or require hours of legal analysis of complex banking and 
+
+securities regulations to determine if a particular entity is a covered fund.  It should not happen--
+
+although it has happened--that our supervised firms come to us and ask questions about whether 
+
+a particular derivative trade is subject to the rule, and we cannot give them our own answer or a 
+
+consistent answer across the five responsible agencies.  Supervisors need to be able to provide 
+
+clear and transparent guidance on what is covered by the Volcker rule and what is not.  This 
+
+would benefit not only the firms, but the supervisors at the agencies as well.   
+
+ Again, a good example is the exemption for market making-related activities, which is 
+
+one of the key exemptions from the prohibition on proprietary trading.  The rule contains a 
+
+gaggle of complex regulatory requirements, but the statute contains merely one--that the market 
+
+making-related activities are designed not to exceed the reasonably expected near-term demands 
+
+of clients, customers, or counterparties, otherwise known as RENT’D.7  We are considering 
+
+different ways to use a clearer test for RENT’D.  We want banks to be able to engage in market 
+
+making and provide liquidity to financial markets with less fasting and prayer about their 
+
+compliance with the Volcker rule.       
+
+ As I noted earlier, we also understand that the Volcker rule has had an extraterritorial 
+
+impact on FBOs.  With respect to foreign banks, there are at least a few places where we would 
+
+like to revisit the application of the final rule based on concerns raised by market participants and 
+
+others over the past four years of implementation.   
+
+ In particular, there are certain foreign funds--funds that are organized outside the United 
+
+States by foreign banks in foreign jurisdictions and offered solely to foreign investors--that are 
+
+                                                            
+7 See 12 U.S.C. 1851(d)(1)(B); 12 CFR 248.4(b).  
+
+
+- 11 - 
+ 
+
+
+subject to the Volcker rule due to Bank Holding Company Act control principles.  Last summer, 
+
+the banking agencies, in consultation with the Securities and Exchange Commission and the 
+
+Commodity Futures Trading Commission, issued guidance that effectively stayed enforcement 
+
+of the Volcker rule to these foreign funds in light of the technical and complex issues they raise.8  
+
+I expect we would continue this period of stay while we continue to consider these important 
+
+issues.  
+
+ The statute also contains exemptions for FBOs to allow foreign banks to continue trading 
+
+and engaging in covered fund activities solely outside the United States.  The regulation again 
+
+has a complex series of requirements that a foreign bank must meet to make use of these 
+
+exemptions.  We have heard from a number of foreign banks that complying with these 
+
+requirements is unworkable in practice, and we are considering ways to address this 
+
+impracticality.  One possibility that has been suggested by market participants is a simple 
+
+approach that focuses on the risk of the booking location.  Of course, we would have to consider 
+
+whether this is possible in light of the language of the statute and principles of competitive 
+
+equity, but the suggestion is illustrative of the possibility of a more workable approach.   
+
+As a final but no less important matter, we are considering broad revisions to the Volcker 
+
+rule compliance regime.  We would like Volcker rule compliance to be similar to compliance in 
+
+other areas of our supervisory regime.  As I noted earlier, we appreciate the broad extraterritorial 
+
+impact of the rule in its current form on foreign banks’ operations outside of the United States.  
+
+                                                            
+8 See Board of Governors of the Federal Reserve System, Federal Deposit Insurance Corporation, Office of the 
+Comptroller of the Currency, “Statement regarding Treatment of Certain Foreign Funds under the Rules 
+Implementing Section 13 of the Bank Holding Company Act,” July 21, 2017 
+www.federalreserve.gov/newsevents/pressreleases/files/bcreg20170721a1.pdf.   
+
+
+- 12 - 
+ 
+
+
+Accordingly, we will be looking for ways to reduce the compliance burden of the Volcker rule 
+
+for foreign banks with limited U.S. operations and small U.S. trading books.    
+
+Conclusion 
+
+As I have described previously, the Federal Reserve is actively reviewing post-crisis 
+
+financial reforms in an effort to better understand which reforms are working well and which 
+
+ones can be improved to reduce regulatory burden and improve the efficiency, transparency, and 
+
+simplicity of the regulatory framework without compromising a safe and sound financial system.  
+
+In that effort, we recognize the importance of foreign banks to the U.S. economy and have a 
+
+strong interest in ensuring our regulations are appropriately tailored to their U.S. footprint and 
+
+risks to U.S. financial stability.  Our goal is to maintain a regulatory framework that helps to 
+
+ensure a strong and stable banking system in an efficient manner that does not result in 
+
+excessively burdensome costs to the banking industry or the economy as a whole.  
+
+The areas I have discussed today are important components of the exercise of improving 
+
+our regulations as they apply to FBOs, and are part of a larger overall agenda to critically 
+
+evaluate and improve our regulations to promote financial stability while fostering the conditions 
+
+for solid economic activity.  Some of these exercises will require more effort and time than 
+
+others, but each one of them is a high priority for us at the Federal Reserve.  I look forward to 
+
+hearing your views as we make progress toward these improvements.     
+
+
+

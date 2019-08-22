@@ -1,0 +1,923 @@
+
+
+
+For release on delivery 
+
+1:15 p.m. EDT (12:15 p.m. CDT) 
+
+September 12, 2016 
+
+
+
+
+
+
+
+
+
+
+The “New Normal” and What It Means for Monetary Policy 
+
+
+Remarks by 
+
+
+Lael Brainard 
+
+
+Member 
+
+
+Board of Governors of the Federal Reserve System 
+
+
+at 
+
+
+The Chicago Council on Global Affairs 
+
+
+Chicago, Illinois 
+
+
+
+
+
+
+
+
+September 12, 2016 
+
+
+
+
+
+
+In the months ahead, my colleagues and I will continue to assess what policy path 
+
+will best promote the sustained attainment of our goals.  With that in mind, I would like 
+
+to start by describing the contours of today’s economy that will be particularly important 
+
+in shaping the appropriate path of policy before reviewing recent developments.  These 
+
+contours represent noteworthy departures from the “old normal” that prevailed in the 
+
+decades prior to the financial crisis.  I would argue that policy today must rely less on the 
+
+old normal as a guidepost and instead be sensitive to the contours that shape today’s 
+
+“new normal.”1   
+
+Key Features of the “New Normal” 
+
+Because monetary policy is forward looking, policymakers must assess how key 
+
+features of the economic environment are most likely to influence the future path of the 
+
+economy and shape policy accordingly.  At a time when our assessment of the economy 
+
+is evolving, several features of the “new normal”--some of which are interrelated--appear 
+
+particularly noteworthy for our policy deliberations: 
+
+1. Inflation Has Been Undershooting, and the Phillips Curve Has Flattened 
+
+First, for the past several decades, policymakers relied on the empirical 
+
+relationship between unemployment and inflation embodied in the Phillips curve as a key 
+
+guidepost for monetary policy.  The Phillips curve implied that as labor market slack 
+
+diminished and the economy approached full employment, upward pressure on inflation 
+
+would result.  However, since 2012, inflation has tended to change relatively little--both 
+
+absolutely and relative to earlier decades--as the unemployment rate has fallen 
+
+                                                 
+I am grateful to Andrew Figura for his assistance in preparing this text. 
+1 These remarks represent my own views, which do not necessarily represent those of the Federal Reserve 
+
+Board or the Federal Open Market Committee. 
+
+
+
+
+- 2 - 
+
+considerably.2  At a time when the unemployment rate has fallen from 8.2 percent to 
+
+4.9 percent, inflation has undershot our 2 percent target now for 51 straight months.3  In 
+
+other words, the Phillips curve appears to be flatter today than it was previously.   
+
+With the Phillips curve appearing to be a less reliable guidepost than it has been 
+
+in the past, the anchoring role of inflation expectations remains critically important.  On 
+
+expected similar to realized inflation, recent developments suggest some reasons to be 
+
+concerned more about undershooting than overshooting.  Although some survey 
+
+measures have remained well anchored at 2 percent, consumer surveys have moved to the 
+
+lower end of their historical ranges and have not risen sustainably.4  Meanwhile, 
+
+market-based measures of inflation compensation have declined noticeably over the past 
+
+two years at longer-term horizons, and have shown little improvement despite the recent 
+
+stabilization in the price of oil and the exchange rate.  Thus, we cannot rule out that the 
+
+sustained period of undershooting the inflation target along with global disinflationary 
+
+pressures are weighing on inflation expectations.  
+
+Recognition of these developments is reflected in the evolution of the forecasts of 
+
+Federal Open Market Committee (FOMC) participants in the Summary of Economic 
+
+Projections (SEP) from June 2012 to June 2016.  The SEP forecasts have shown repeated 
+
+mark downs of the central tendency of the projection for core PCE (personal 
+
+consumption expenditures) inflation, and the attainment of 2 percent at the upper end of 
+
+the range has been pushed out repeatedly from 2012 initially to 2017 most recently.   
+
+                                                 
+2 See Blanchard (2016), Kiley (2015b), and Brainard (2015a),  
+3 The inflation information refers to core PCE (personal consumption expenditures) inflation measured on a 
+
+12-month average basis. 
+4 For example, over the past 12 months, median 5-to-10 year-ahead inflation expectations from the 
+
+University of Michigan Surveys of Consumers were 1/4 percentage point below the average over the prior 
+
+10 years. 
+
+
+
+
+- 3 - 
+
+The apparent flatness of the Phillips curve together with evidence that inflation 
+
+expectations may have softened on the downside and the persistent undershooting of 
+
+inflation relative to our target should be important considerations in our policy 
+
+deliberations.  In particular, to the extent that the effect on inflation of further gradual 
+
+tightening in labor market conditions is likely to be moderate and gradual, the case to 
+
+tighten policy preemptively is less compelling.   
+
+2. Labor Market Slack Has Been Greater than Anticipated  
+
+Second, and related, although we have seen important progress on employment, 
+
+this improvement has been accompanied by evidence of greater slack than previously 
+
+anticipated.  This uncertainty about the true state of the economy suggests we should be 
+
+open to the possibility of material further progress in the labor market.  Indeed, with 
+
+payroll employment growth averaging 180,000 per month this year, many observers 
+
+would have expected the unemployment rate to drop noticeably rather than moving 
+
+sideways, as it has done.  It is true that today’s unemployment rate of 4.9 percent is only 
+
+0.1 percentage point from the median SEP participant’s estimate of the longer-run level 
+
+of unemployment.  However, the natural rate of unemployment is uncertain and can vary 
+
+over time.  Indeed, in the SEP, the central tendency of the projection for the longer-run 
+
+natural rate of unemployment has come down significantly, from a range of 5.2 to 
+
+6.0 percent in June 2012 to 4.7 to 5.0 percent in June 2016--a reduction of 1/2 to 
+
+1 percentage point.5  We cannot rule out that estimates of the natural unemployment rate 
+
+may move even lower.  
+
+                                                 
+5 For information from current and previous SEPs, see 
+
+http://www.federalreserve.gov/monetarypolicy/fomccalendars.htm.    
+
+
+
+
+- 4 - 
+
+In addition, the unemployment rate is not the only gauge of labor market slack, 
+
+and other measures have been suggesting there is some room to go.  The share of 
+
+employees working part time for economic reasons, for example, has remained 
+
+noticeably above its pre-crisis level.  Of particular significance, the prime-age labor force 
+
+participation rate, despite improvement this year, remains about 1-1/2 percentage points 
+
+below its pre-crisis level, suggesting room for further gains.  While it is possible that the 
+
+current low level of prime-age participation reflects ongoing pre-crisis trends, we cannot 
+
+rule out that it reflects a lagged and still incomplete response to a very slow recovery 
+
+in job opportunities and wages.6   
+
+This possibility is reinforced by the continued muted recovery in wage growth.  
+
+Although wage growth has picked up to about a 2-1/2 percent pace in recent quarters, this 
+
+pace is only modestly above that which prevailed over much of the recovery and well 
+
+below growth rates seen prior to the financial crisis.7 
+
+My main point here is that in the presence of uncertainty and the absence of 
+
+accelerating inflationary pressures, it would be unwise for policy to foreclose on the 
+
+possibility of making further gains in the labor market. 
+
+
+                                                 
+6 For analyses of the determinants of labor force participation, see Aaronson and others (2014), Erceg and 
+
+Levin (2014), and Council of Economic Advisers (2016). 
+7 Over the 12 months ending in August 2016, average hourly earnings increased 2.4 percent.  Over the 
+
+12 months ending in June, the employment cost index for private-sector workers also increased 2.4 percent.  
+
+The more volatile compensation per hour measure for the business sector has increased at an annual rate of 
+
+2.6 percent over the past eight quarters.  From the fourth quarter of 2009 to the fourth quarter of 2014, these 
+
+measures all increased at an average annual rate of around 2 percent.  From the fourth quarter of 2003 to 
+
+the fourth quarter of 2007, the compensation per hour and employment cost index measures increased at an 
+
+average annual rate of around 3-1/2 percent.  Average hourly earnings for all workers were not available 
+
+for this period.   
+
+
+
+
+- 5 - 
+
+3. Foreign Markets Matter, Especially because Financial Transmission is Strong 
+
+Third, disinflation pressure and weak demand from abroad will likely weigh on 
+
+the U.S. outlook for some time, and fragility in global markets could again pose risks 
+
+here at home.8  In Europe, recovery continues, but growth is slow and inflation is very 
+
+low.  Low growth and a flat yield curve are contributing to reduced profitability and a 
+
+higher cost of equity financing for banks, which in turn could impair bank lending, one of 
+
+the main transmission channels of monetary policy in the euro area’s bank-centric 
+
+financial system.  A low growth, low inflation environment also makes progress on fiscal 
+
+sustainability difficult and leaves countries with high debt-to-gross domestic product 
+
+(GDP) ratios vulnerable to adverse demand shocks.  Against this backdrop, uncertainty 
+
+about Britain’s future relationship with the European Union could damp business 
+
+sentiment and investment in Europe. 
+
+Japan remains greatly challenged by weak growth and low inflation.  Indeed, it is 
+
+striking that despite active and creative monetary policies in both the euro area and Japan, 
+
+inflation remains below target levels.  The experiences of these economies highlight the 
+
+risk of becoming trapped in a low-growth, low-inflation, low-inflation-expectations 
+
+environment and suggest that policy should be oriented toward minimizing the risk of the 
+
+U.S. economy slipping into such a situation.   
+
+                                                 
+8 The International Monetary Fund (IMF) has repeatedly marked down its forecast of world economic 
+
+growth in recent years.  From April 2014 to July of this year, for example, the IMF revised down 2015 
+
+growth from 3.9 percent to 3.1 percent.  And from April 2015 to July of this year, the IMF revised down 
+
+2016 growth from 3.8 percent to 3.1 percent.  See the IMF’s World Economic Outlook at 
+
+http://www.imf.org/external/ns/cs.aspx?id=29. 
+
+
+
+
+- 6 - 
+
+Downside risks are also present in emerging market economies, where growth has 
+
+slowed rapidly in recent years.9  Most importantly, China is undergoing a challenging 
+
+transition from a growth model based on investment, exports, and debt-fueled state-
+
+owned enterprises to one driven by consumption, services, and dynamic private 
+
+businesses.  Because of the adjustment costs along this transition path and demographic 
+
+trends, Chinese growth will likely continue to slow.  Given that China has experienced 
+
+very high growth in corporate debt, this downshift could pose risks.  Importantly, Chinese 
+
+authorities have made some progress on clarifying their policy stance, and capital 
+
+outflows have slowed in recent months.  Nonetheless, considerable uncertainty remains, 
+
+and further volatility cannot be ruled out.  The importance of Chinese growth and 
+
+stability to many emerging market economies and to global markets more broadly implies 
+
+that these risks have global implications.    
+
+Headwinds from abroad should matter to U.S. policymakers because recent 
+
+experience suggests global financial markets are tightly integrated, such that disturbances 
+
+emanating from Chinese or euro-area financial markets quickly spill over to U.S. 
+
+financial markets.  The fallout from adverse foreign shocks appears to be more 
+
+powerfully transmitted to the U.S. than previously.  Indeed, recent research suggests that 
+
+changes in expectations regarding the path of policy in the United States relative to other 
+
+major economies lead to exchange rate movements that appear to be several times bigger 
+
+than they were several years ago.10  The fact that many advanced economies are suffering 
+
+from deficient demand and have policy rates at or near the zero bound and that the U.S. 
+
+                                                 
+9 Emerging market growth, as weighted by a country’s share of U.S. exports, has decreased from an 
+
+average pace of 5-1/4 percent from the fourth quarter of 2009 to the fourth quarter of 2012 to a little over 2 
+
+percent last year.    
+10 See Curcuru (forthcoming).  The confidence intervals around the estimated effects are quite large. 
+
+
+
+
+- 7 - 
+
+dollar is a favored safe-haven asset may imply that adverse foreign demand shocks have a 
+
+particularly strong effect on the value of the dollar, effectively transmitting the weakness 
+
+to the U.S. economy.11   
+
+In turn, U.S. activity and inflation appear to be importantly influenced by these 
+
+exchange rate movements.  In particular, estimates from the FRB/US model suggest that 
+
+the nearly 20 percent appreciation of the dollar from June 2014 to January of this year 
+
+could be having an effect on U.S. economic activity roughly equivalent to a 200 basis 
+
+point increase in the federal funds rate.  Interestingly, it appears that this effect showed 
+
+through in decreased business investment activity and stagnant manufacturing output, 
+
+while the anticipated effect on net exports may have been somewhat dampened by 
+
+depressed demand for imports of capital goods, among other factors. 
+
+4. The Neutral Rate Is Likely to Remain Very Low for Some Time  
+
+Fourth, perhaps most salient for monetary policy, it appears increasingly clear that 
+
+the neutral rate of interest remains considerably and persistently lower than it was before 
+
+the crisis.  Over the current expansion, with a federal funds rate at, or near, zero and the 
+
+additional support provided by asset purchases and reinvestment, GDP growth has 
+
+averaged a very modest rate upward of 2 percent, and inflation has averaged only 
+
+1-1/2 percent.  Ten years ago, based on the underlying economic relationships that 
+
+prevailed at the time, it would have seemed inconceivable that real activity and inflation 
+
+would be so subdued given the stance of monetary policy.  To reconcile these 
+
+developments, it is difficult not to conclude that the current level of the federal funds rate 
+
+is less accommodative today than it would have been 10 years ago.  Put differently, the 
+
+                                                 
+11 See Caballero, Farhi, and Gourinchas (2015). 
+
+
+
+
+- 8 - 
+
+amount of aggregate demand associated with a given level of the interest rate is now 
+
+much lower than before the crisis.   
+
+In the early stages of the recovery, most observers thought that the cyclical 
+
+headwinds restraining demand and lowering the neutral rate would dissipate, and that the 
+
+neutral rate would move gradually back to the pre-crisis norm of 2 percent.  But seven 
+
+years into the expansion and with little sign of a significant acceleration in activity, the 
+
+low neutral rate looks likely to persist.  Indeed, developments over the past year confirm 
+
+that the underlying causes will be with us for some time.12  Foreign consumption and 
+
+investment are weak, while foreign demand for savings is high, along with an elevated 
+
+demand for safe assets.  Productivity growth, which increased at an average annual rate 
+
+of nearly 2-1/2 percent from 1950 to 2000, has increased only 1/2 percent on average 
+
+over the past five years, and demographics also suggest a persistent slowing of the labor 
+
+force.   
+
+Recognition of the reduction in the long-run neutral federal funds rate is perhaps 
+
+the most consequential change in the SEP forecasts.  In the four years between June 2012 
+
+and June 2016, the estimate of the long-run federal funds rate has declined from 
+
+4.25 percent to 3.0 percent--nearly one-third.  Over one-third of that adjustment has 
+
+occurred between December 2015 and June 2016.  It is notable that this recent step-down 
+
+in the SEP estimate has coincided with a period of easing in financial conditions and a 
+
+stabilization in the exchange rate as market participants have taken into account changes 
+
+in the perceived FOMC policy reaction function. 
+
+                                                 
+12 For a fuller description of the likely contributors to a persistent low neutral rate, see Brainard (2015b) 
+
+and Goodfriend (2016). 
+
+
+
+
+- 9 - 
+
+Several econometric models and estimates from market participants suggest the 
+
+current real neutral rate is at or close to zero, and any increase is likely to be shallow and 
+
+slow.13  These estimates imply that it may require a relatively more modest adjustment in 
+
+the policy rate to return to neutral over time than previously anticipated.   
+
+5. Policy Options Are Asymmetric  
+
+ The four features just discussed that define the new normal make it likely that we 
+
+will continue to grapple with a fifth new reality for some time:  the ability of monetary 
+
+policy to respond to shocks is asymmetric.  With policy rates near the zero lower bound 
+
+and likely to return there more frequently even if the economy only experiences shocks 
+
+similar in magnitude to those experienced pre-crisis, due to the low level of the neutral 
+
+rate, there is an asymmetry in the policy tools available to respond to adverse 
+
+developments.  Conventional changes in the federal funds rate, our most tested and best 
+
+understood tool, cannot be used as readily to respond to downside shocks to aggregate 
+
+demand as it can to upside shocks.  While there are, of course, other policy options, these 
+
+alternatives have constraints and uncertainties that are not present with conventional 
+
+policy.14  From a risk-management perspective, therefore, the asymmetry in the 
+
+conventional policy toolkit would lead me to expect policy to be tilted somewhat in favor 
+
+of guarding against downside risks relative to preemptively raising rates to guard against 
+
+upside risks. 
+
+                                                 
+13 See, for example, Laubach and Williams (2015); Del Negro, Giannoni, and Smith (2016); Cúrdia (2015); 
+
+Lubik and Matthes (2015); Kiley (2015a); and Johannsen and Mertens (2016) for econometric estimates of 
+
+the neutral rate, or the closely related concept of the natural rate of interest.  See the Federal Reserve Bank 
+
+of New York’s most recent Survey of Market Participants 
+
+(https://www.newyorkfed.org/markets/survey_market_participants.html) and Survey of Primary Dealers 
+
+(https://www.newyorkfed.org/markets/primarydealer_survey_questions.html) for forecasters’ estimates of 
+
+the current neutral rate.   
+14 See Reifschneider (2016). 
+
+
+
+
+- 10 - 
+
+Because a persistently low neutral rate implies less room for conventional 
+
+monetary policy to adjust to adverse developments, it will be important to assess whether 
+
+our current policy tools are adequate to respond to negative shocks and, if not, what 
+
+adjustments would be most appropriate.  There is a growing literature on such policy 
+
+alternatives, such as raising the inflation target, moving to a nominal income target, or 
+
+deploying negative interest rates.15  These options merit further assessment.  However, 
+
+they are largely untested and would take some time to assess and prepare.  For the time 
+
+being, the most effective way to address these concerns is to ensure that our policy 
+
+actions align with our commitment to achieving the existing inflation target, which the 
+
+Committee has recently clarified is symmetric around 2 percent--and not a ceiling--along 
+
+with maximum employment.  
+
+Recent Developments Suggest Gradual Progress 
+
+ Against the backdrop of these five features of the new normal that are most salient 
+
+for conditioning policy, I will briefly summarize my take on recent economic 
+
+developments and their implications for policy.  The economy has seen welcome 
+
+progress on some fronts in recent months, supported by the cautious approach taken by 
+
+the Committee and a corresponding easing in financial conditions:  The labor market has 
+
+continued to improve, consumer confidence has remained high, and we have navigated 
+
+past near-term risks from abroad.   
+
+Overall, the recent data on the labor market and aggregate spending suggest that 
+
+we are continuing to move toward full employment, but that progress has been, and likely 
+
+will be, somewhat gradual.  This year, monthly job gains have averaged 180,000, below 
+
+                                                 
+15 See Romer (2011), Blanchard, Dell’Ariccia and Mauro (2010), Ball (2014), Haldane (2015), Bernanke 
+
+(2015), and Goodfriend (2016). 
+
+
+
+
+- 11 - 
+
+last year’s pace but still sufficient to reduce labor market slack.  The slowing pace of job 
+
+gains has been associated with a flattening out in the unemployment rate over the past 
+
+year, along with a heartening 1/2 percentage point increase in the prime-age labor force 
+
+participation rate.  These developments suggest that an improving job market has made 
+
+joining, or remaining in, the labor force increasingly attractive, and may imply that the 
+
+labor market has room for further improvement.   
+
+Recent spending data suggest a pickup in third-quarter growth.  In particular, real 
+
+consumer spending increased at nearly a 4 percent annual pace over the three months 
+
+ending in July, driven by continued job growth, buoyant consumer sentiment, and rising 
+
+household wealth.  Nonetheless, spending in other sectors has been disappointing.  Weak 
+
+foreign growth and the net appreciation of the dollar over the past two years have 
+
+weighed heavily on net exports, corporate profitability, business investment, and 
+
+manufacturing production.  Business investment has declined in each of the past three 
+
+quarters, and the latest data on housing permits suggest that residential investment slowed 
+
+noticeably in the middle of this year.  As a result, economic activity over the past three 
+
+quarters has been disappointing, with growth in GDP and gross domestic income each 
+
+averaging less than 1 percent, a significant step-down from the same period in 2015.   
+
+Looking ahead, the stabilization of the dollar and oil prices suggests that growth 
+
+in these components should move higher over the second half of the year.  Indeed, 
+
+exports, which have declined since the end of 2014, moved slightly higher last quarter, 
+
+and the number of oil drilling rigs in operation has begun to edge up after sharp declines 
+
+over the past two years, a positive sign for business investment.  In addition, inventory 
+
+
+
+
+- 12 - 
+
+investment, which edged lower last quarter, should step up over the second half of the 
+
+year to a level more in line with continued moderate increases in final sales.   
+
+We have also seen signs of progress on our inflation mandate.  In July, the 
+
+12-month change in core PCE prices was 1.6 percent, higher than a year ago, but still 
+
+noticeably below our 2 percent target.  The stabilization of the dollar and oil prices 
+
+should lead inflation to move back toward our target in coming quarters.  Non-oil import 
+
+prices, which fell steadily from the end of 2014 through the first quarter of this year, 
+
+edged up in the second quarter and, if the dollar remains steady, should continue to rise 
+
+going forward.  Continued progress in inflation will also depend on inflation expectations 
+
+remaining well anchored and not drifting lower.  The evidence here is mixed, as I noted 
+
+earlier.   
+
+Policy Implications  
+
+The five features of the current economic landscape that I have highlighted lean 
+
+roughly in the same direction:  In today’s new normal, the costs to the economy of 
+
+greater-than-expected strength in demand are likely to be lower than the costs of 
+
+significant unexpected weakness.  In the case of unexpected strength, we have well-tried 
+
+and tested tools and ample policy space in which to react.  Moreover, because of Phillips 
+
+curve flattening, the possibility of remaining labor market slack, the likely substantial 
+
+response of the exchange rate and its depressing effect on inflation, the low neutral rate, 
+
+and the fact that inflation expectations are well anchored to the upside, the response of 
+
+inflation to unexpected strength in demand will likely be modest and gradual, requiring a 
+
+correspondingly moderate policy response and implying relatively slight costs to the 
+
+economy.  In the face of an adverse shock, however, our conventional policy toolkit is 
+
+
+
+
+- 13 - 
+
+more limited, and thus the risk of being unable to adequately respond to unexpected 
+
+weakness is greater.  The experience of the Japanese and euro-area economies suggest 
+
+that prolonged weakness in demand is very difficult to correct, leading to economic costs 
+
+that can be considerable. 
+
+This asymmetry in risk management in today’s new normal counsels prudence in 
+
+the removal of policy accommodation.  I believe this approach has served us well in 
+
+recent months, helping to support continued gains in employment and progress on 
+
+inflation.  I look forward to assessing the evolution of the data in the months ahead for 
+
+signs of further progress toward our goals, bearing in mind these considerations.   
+
+
+
+
+
+
+
+- 14 - 
+
+References 
+
+Aaronson, Stephanie, Tomaz Cajner, Bruce Fallick, Felix Galbis-Reig, Christopher 
+
+Smith, and William Wascher (2014).  “Labor Force Participation:  Recent 
+
+Developments and Future Prospects,” Brookings Papers on Economic Activity, 
+
+Fall, pp. 197-275, www.brookings.edu/~/media/projects/bpea/fall-
+
+2014/fall2014bpea_aaronson_et_al.pdf. 
+
+Ball, Laurence (2014).  “The Case for a Long-Run Inflation Target of Four Percent,” IMF 
+
+Working Paper WP/14/92.  Washington:  International Monetary Fund, June, 
+
+https://www.imf.org/external/pubs/ft/wp/2014/wp1492.pdf. 
+
+Bernanke, Ben S. (2015).  “Monetary Policy in the Future,” speech delivered at the 
+
+“Rethinking Macro Policy III” conference sponsored by the International 
+
+Monetary Fund, Washington, April 15, https://www.brookings.edu/blog/ben-
+
+bernanke/2015/04/15/monetary-policy-in-the-future. 
+
+Blanchard, Olivier (2016).  “The U.S. Phillips Curve:  Back to the 60s?” Policy Brief 
+
+16-1.  Washington:  Peterson Institute of International Economics, January, 
+
+https://www.piie.com/publications/pb/pb16-1.pdf. 
+
+Blanchard, Olivier, Giovanni Dell’Ariccia, and Paolo Mauro (2010).  “Rethinking 
+
+Macroeconomic Policy,” IMF Staff Position Note 10/03.  Washington:  
+
+International Monetary Fund, February 12, 
+
+https://www.imf.org/external/pubs/ft/spn/2010/spn1003.pdf. 
+
+Brainard, Lael (2015a).  “Economic Outlook and Monetary Policy,” speech delivered at 
+
+“North America’s Place in a Changing World Economy,” 57th National 
+
+Association for Business Economics Annual Meeting, Washington, October 12, 
+
+www.federalreserve.gov/newsevents/speech/brainard20151012a.htm. 
+
+--------- (2015b).  “Normalizing Monetary Policy When the Neutral Interest Rate Is 
+
+Low,” speech delivered at the Stanford Institute for Economic Policy Research, 
+
+Stanford, Calif., December 1, 
+
+www.federalreserve.gov/newsevents/speech/brainard20151201a.htm. 
+
+Caballero, Ricardo J., Emmanuel Farhi, and Pierre-Olivier Gourinchas (2015).  “Global 
+
+Imbalances and Currency Wars at the ZLB,” NBER Working Paper Series 21670.  
+
+Cambridge, Mass.:  National Bureau of Economic Research, October, 
+
+www.nber.org/papers/w21670. 
+
+Council of Economic Advisers (2016).  The Long-Term Decline in Prime-Age Male 
+
+Labor Force Participation.  Washington:  Executive Office of the President of the 
+
+United States, June, 
+
+https://www.whitehouse.gov/sites/default/files/page/files/20160620_cea_primeag
+
+e_male_lfp.pdf. 
+
+
+
+
+
+
+- 15 - 
+
+Curcuru, Stephanie (forthcoming).  “The Sensitivity of the USD Exchange Rate to 
+
+Changes in Monetary Policy Expectations,” IFDP Notes.  Washington:  Board of 
+
+Governors of the Federal Reserve System. 
+
+
+Cúrdia, Vasco (2015).  “Why So Slow?  A Gradual Return for Interest Rates,” Federal 
+
+Reserve Bank of San Francisco, FRBSF Economic Letter 2015-32.  San 
+
+Francisco:  FRBSF, October 12, www.frbsf.org/economic-
+
+research/publications/economic-letter/2015/october/gradual-return-to-normal-
+
+natural-rate-of-interest. 
+
+
+Del Negro, Marco, Marc Giannoni, and Micah Smith (2016).  “The Macro Effects of the 
+
+Recent Swing in Financial Conditions,” Federal Reserve Bank of New York, 
+
+Liberty Street Economics (blog), May 25, 
+
+http://libertystreeteconomics.newyorkfed.org/2016/05/the-macro-effects-of-the-
+
+recent-swing-in-financial-conditions.html#.V0Wty-TYj4g. 
+
+
+Erceg, Christopher J., and Andrew T. Levin (2014).  “Labor Force Participation and 
+
+Monetary Policy in the Wake of the Great Recession,” Journal of Money, Credit 
+
+and Banking, vol. 46 (S2, October), pp. 3-49. 
+
+Goodfriend, Marvin (2016).  “The Case for Unencumbering Interest Rate Policy at the 
+
+Zero Bound,” speech delivered at “Designing Resilient Monetary Policy 
+
+Frameworks for the Future,” a symposium sponsored by the Federal Reserve 
+
+Bank of Kansas City, Jackson Hole, Wyo., Aug. 26-27, 
+
+https://www.kansascityfed.org/~/media/files/publicat/sympos/2016/econsymposiu
+
+m-goodfriend-paper.pdf?la=en. 
+
+Haldane, Andrew (2015).  “How Low Can You Go?” speech delivered at the Portadown 
+
+Chamber of Commerce, Northern Ireland, September 18, 
+
+www.bankofengland.co.uk/publications/Pages/speeches/2015/840.aspx. 
+
+Johannsen, Benjamin K., and Elmar Mertens (2016).  “The Expected Real Interest Rate 
+
+in the Long Run:  Time Series Evidence with the Effective Lower Bound,” FEDS 
+
+Notes.  Washington:  Board of Governors of the Federal Reserve System, 
+
+February 9, www.federalreserve.gov/econresdata/notes/feds-notes/2016/the-
+
+expected-real-interest-rate-in-the-long-run-time-series-evidence-with-the-
+
+effective-lower-bound-20160209.html. 
+
+Kiley, Michael T. (2015a).  “What Can the Data Tell Us about the Equilibrium Real 
+
+Interest Rate?” Finance and Economics Discussion Series 2015-077.  
+
+Washington:  Board of Governors of the Federal Reserve System, August, 
+
+http://dx.doi.org/10.17016/FEDS.2015.077. 
+
+--------- (2015b).  “Low Inflation in the United States:  A Summary of Recent Research,” 
+
+FEDS Notes.  Washington:  Board of Governors of the Federal Reserve System, 
+
+November 23, www.federalreserve.gov/econresdata/notes/feds-notes/2015/low-
+
+inflation-in-the-united-states-a-summary-of-recent-research-20151123.html. 
+
+
+
+
+- 16 - 
+
+Laubach, Thomas, and John C. Williams (2015).  “Measuring the Natural Rate of Interest 
+
+Redux,” Working Paper Series 2015-16.  San Francisco:  Federal Reserve Bank of 
+
+San Francisco, October, www.frbsf.org/economic-research/files/wp2015-16.pdf. 
+
+Lubik, Thomas A., and Christian Matthes (2015).  “Calculating the Natural Rate of 
+
+Interest:  A Comparison of Two Alternative Approaches,” Economic Brief 15-10.  
+
+Richmond, Va.:  Federal Reserve Bank of Richmond, October, 
+
+https://www.richmondfed.org/~/media/richmondfedorg/publications/research/eco
+
+nomic_brief/2015/pdf/eb_15-10.pdf. 
+
+Reifschneider, David (2016).  “Gauging the Ability of the FOMC to Respond to Future 
+
+Recessions,” Finance and Economics Discussion Series 2016-068.  Washington:  
+
+Board of Governors of the Federal Reserve System, 
+
+http://dx.doi.org/10.17016/FEDS.2016.068. 
+
+Romer, Christina D. (2011).  “Dear Ben:  It’s Time for Your Volcker Moment,” New 
+
+York Times, October 29, www.nytimes.com/2011/10/30/business/economy/ben-
+
+bernanke-needs-a-volcker-moment.html?_r=0. 
+
+
+

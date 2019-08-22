@@ -1,0 +1,434 @@
+
+
+For release on delivery 
+7:00 p.m. EST  
+March 6, 2018 
+ 
+
+
+Navigating Monetary Policy as Headwinds Shift to Tailwinds 
+ 
+ 
+ 
+
+Remarks by 
+ 
+
+Lael Brainard 
+ 
+
+Member 
+ 
+
+Board of Governors of the Federal Reserve System 
+ 
+
+at the 
+ 
+
+Money Marketeers of New York University 
+ 
+
+New York, New York 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+March 6, 2018 
+
+
+
+
+
+I appreciate the invitation from the Money Marketeers to discuss the path ahead for 
+
+our economy and monetary policy.1 
+
+Many of the forces that acted as headwinds to U.S. growth and weighed on policy 
+
+in previous years are generating tailwinds currently.  Today many economies around the 
+
+world are experiencing synchronized growth, in contrast to the 2015–16 period when 
+
+important foreign economies experienced adverse shocks and anemic demand.  The 
+
+International Monetary Fund revised up its outlook for the world economy in January, 
+
+continuing a recent pattern of upward revisions, in contrast to a string of downward 
+
+revisions in 2015 and 2016.2  Stronger economies abroad should increase demand for 
+
+America’s exports and boost the foreign earnings of U.S. companies. 
+
+The upward revisions to the foreign economic outlook are also pulling forward 
+
+expectations of monetary policy tightening abroad and contributing to an appreciation of 
+
+foreign currencies and increases in U.S. import prices.  By contrast, foreign currencies 
+
+weakened in the earlier period, pushing the dollar higher and U.S. import prices lower.  
+
+Since the end of 2016, a broad index of the exchange value of the dollar has depreciated 
+
+nearly 8 percent, whereas it appreciated by 25 percent from mid-2014 to 2016.   
+
+In recent quarters, the combination of higher oil prices and robust global demand 
+
+has been providing strong support to business investment--in contrast to the sharp pullback 
+
+from 2015 to 2016.  Business spending on fixed investment rose at more than a 6 percent 
+
+                                                 
+1 I am grateful to John Roberts of the Federal Reserve Board for his assistance in preparing this text.  These 
+remarks represent my own views, which do not necessarily represent those of the Federal Reserve Board or 
+the Federal Open Market Committee. 
+2 See various issues of the International Monetary Fund (IMF) World Economic Outlook 
+(www.imf.org/en/publications/weo) and World Economic Outlook (WEO) Updates 
+(www.imf.org/external/ns/cs.aspx?id=231). 
+
+
+
+
+- 2 - 
+
+pace in 2017.  This rise followed two years of weak growth, dragged down by declines in 
+
+the drilling and mining sector.  
+
+Financial conditions are currently supportive of economic growth despite the recent 
+
+choppiness in financial markets and some tightening since the beginning of the year.  
+
+Various measures of equity valuations remain elevated relative to historical norms even 
+
+after recent movements, and corporate bond spreads remain quite compressed.3  This 
+
+compares with the period from mid-2014 through the second half of 2016, when equity 
+
+prices were flat and the dollar rose steeply.  The Federal Reserve Bank of Chicago’s 
+
+National Financial Conditions Index provides a useful summary statistic.4  According to 
+
+this measure, financial conditions tightened significantly from the middle of 2014 to early 
+
+2016.  By comparison, financial conditions today remain near the accommodative end of 
+
+the range since the financial crisis, even with the recent tightening in conditions.  
+
+The most notable tailwind is the shift in America’s fiscal policy stance from 
+
+restraint to substantial stimulus in an economy close to full employment.  In the earlier 
+
+period, the economy had just weathered a challenging adjustment to a sharp withdrawal of 
+
+fiscal support.  Today, from a position near full employment, the economy is poised to 
+
+absorb $1-1/2 trillion in personal and corporate tax cuts and a $300 billion increase in 
+
+federal spending.  Estimates suggest December’s tax legislation could boost the growth rate 
+
+of real gross domestic product (GDP) as much as 1/2 percentage point this year and next.5  
+
+                                                 
+3 See Board of Governors (2018b). 
+4 The National Financial Conditions Index is available on the Federal Reserve Bank of Chicago’s website at 
+https://www.chicagofed.org/publications/nfci/index.  Other indexes of financial conditions, such as the 
+indexes published by the Federal Reserve Banks of Kansas City and St. Louis, tell a similar story. 
+5 For example, the IMF 2018 WEO Updates (see note 2) estimates that the tax cut legislation will raise the 
+level of U.S. GDP 1-1/4 percent by 2020. 
+
+
+
+
+- 3 - 
+
+On top of that, the recently agreed-to budget deal is likely to raise federal spending by 
+
+around 0.4 percent of GDP in each of the next two years.6 
+
+Achieving Our Inflation Objective and Sustaining Full Employment 
+
+Although the economy is currently around full employment and has been expanding 
+
+at an above-trend pace, inflation has remained subdued for quite some time.  Over the past 
+
+year, overall PCE (personal consumption expenditures) inflation was 1.7 percent, and core 
+
+PCE inflation was 1.5 percent--not very different from the average level of core inflation 
+
+over the past five years. 
+
+The persistence of subdued inflation, despite an unemployment rate that has moved 
+
+below most estimates of its natural rate, suggests some risk that underlying inflation may 
+
+have softened.  While transitory factors no doubt played a role in last year’s step-down in 
+
+core PCE inflation, various empirical analyses conclude that persistent factors are at play in 
+
+the stubbornly low level of core inflation.  According to a variety of measures, underlying 
+
+inflation--the slow-moving trend that exerts a pull on wage and price setting--may be 
+
+running below levels that are consistent with the Federal Open Market Committee’s 
+
+(FOMC) 2 percent inflation objective.7  For example, some survey measures of longer-run 
+
+inflation expectations are currently lower than they were before the financial crisis, as are 
+
+most estimates based on statistical filters.  Inflation compensation has moved up recently, 
+
+but is still running somewhat below levels that prevailed before the crisis.   
+
+                                                 
+6 The Congressional Budget Office (2018) estimates that increased spending caps will allow additional 
+spending worth about 3/4 percent of GDP in fiscal year 2019. 
+7 See Brainard (2017). 
+
+
+
+
+- 4 - 
+
+Thus, it is important for monetary policy to ensure that underlying inflation is re-
+
+anchored firmly at 2 percent.  At the same time, it is important for monetary policy to 
+
+sustain full employment.   
+
+It is difficult to know with precision how much slack remains in the labor market.  
+
+If the unemployment rate were to continue to fall in the coming year at the same pace as in 
+
+the past couple of years, it would reach levels not seen since the late 1960s.  On the other 
+
+hand, the employment-to-population ratio for prime-age workers remains more than 
+
+1 percentage point below its pre-crisis level.  If substantially more workers could be drawn 
+
+into the labor force, it would be possible for the labor market to firm notably further 
+
+without generating imbalances.  But it is an open question as to what portion of the prime-
+
+age Americans who are out of the labor force may prove responsive to tight labor market 
+
+conditions because declining labor force participation among prime-age workers predates 
+
+the crisis, especially for men.  In one encouraging development, the strong labor market has 
+
+pulled some discouraged workers back into the labor force and into productive employment 
+
+over the past few years.  Also encouraging, our Beige Book and workforce surveys indicate 
+
+that employers are casting a wider net to find job candidates and investing more in on-the-
+
+job training.  
+
+Navigating Monetary Policy  
+
+Although last year we faced a disconnect between the continued strengthening in 
+
+the labor market and the step-down in inflation, mounting tailwinds at a time of full 
+
+employment and above-trend growth tip the balance of considerations in my view.  With 
+
+greater confidence in achieving the inflation target, continued gradual increases in the 
+
+federal funds rate are likely to be appropriate.   
+
+
+
+
+- 5 - 
+
+Although experience in other countries suggests it can prove difficult to raise an 
+
+underlying inflation trend that has been running below policymakers’ target for several 
+
+years, stronger tailwinds may help re-anchor inflation expectations at the symmetric 
+
+2 percent objective.  Of course, it is conceivable we could see a mild, temporary overshoot 
+
+of the inflation target over the medium term.  If such a mild, temporary overshoot were to 
+
+occur, it would likely be consistent with the symmetry of the FOMC’s target and could 
+
+help nudge underlying inflation back to our target.8  Recent research has highlighted the 
+
+downside risks to inflation and to longer-run inflation expectations that are posed by the 
+
+effective lower bound on nominal interest rates, and it suggests the importance of ensuring 
+
+underlying inflation does not slip below target in today’s new normal.9  
+
+We also seek to sustain full employment, and we will want to be attentive to 
+
+imbalances that could jeopardize this goal.  If the unemployment rate continues to decline 
+
+on the current trajectory, it could fall to levels that have been rarely seen over the past five 
+
+decades.  Historically, such episodes have tended to see elevated risks of imbalances, 
+
+whether in the form of high inflation in earlier decades or of financial imbalances in recent 
+
+decades.  One of the striking features of the current recovery has been the absence of an 
+
+acceleration in inflation as the unemployment rate has declined, a development that is 
+
+consistent with a flat Phillips curve.10  Although wage gains have seen some recent 
+
+improvements, they continue to fall short of the pace seen before the financial crisis.11   
+
+                                                 
+8 See Board of Governors (2018a). 
+9 See, for example, Kiley and Roberts (2017), Nakata and Schmidt (2016), and Brainard (2015, 2016). 
+10 See Blanchard (2016) and Simon, Matheson, and Sandri (2013). 
+11 Over the 12 months through January, average hourly earnings were up 2.9 percent relative to a year earlier, 
+the highest 12-month change in almost nine years.  The employment cost index rose 2.6 percent last year.  
+
+
+
+
+- 6 - 
+
+However, we do not have extensive experience with an economy at very low 
+
+unemployment rates and cannot be sure how it might evolve.  In particular, we will want to 
+
+remain attentive to the risk of financial imbalances.  While asset valuations appear to be 
+
+elevated, overall risks to the financial system remain moderate because household 
+
+borrowing is moderate, risks associated with liquidity and maturity transformation have 
+
+declined, and, importantly, the banking system appears to be well capitalized.12  History 
+
+suggests, however, that a booming economy can lead to a relaxation in lending standards, 
+
+and the attendant excessive borrowing can complicate the task of monetary policy.  We will 
+
+need to be vigilant. 
+
+Conclusion 
+
+What do these considerations imply for the path of monetary policy?  Continued 
+
+gradual increases in the federal funds rate are likely to remain appropriate to ensure 
+
+inflation rises sustainably to our target and to sustain full employment, keeping in mind that 
+
+interest rate normalization is well under way and balance sheet runoff is set to reach its 
+
+steady-state pace later this year.13  Of course, we should be ready to adjust the path of 
+
+policy in either direction if developments turn out differently than expected.   
+
+In many respects, the macro environment today is the mirror image of the 
+
+environment we confronted a couple of years ago.  In the earlier period, strong headwinds 
+
+sapped the momentum of the recovery and weighed down the path of policy.  Today, with 
+
+headwinds shifting to tailwinds, the reverse could hold true. 
+
+                                                 
+12 See Board of Governors (2018b). 
+13 As laid out in Board of Governors (2017), the caps determining the degree of reinvestment of maturing 
+securities in the System Open Market Account are increasing gradually.  The caps on the monthly runoff in 
+the portfolio are expected to reach their maximum levels of $30 billion for Treasury securities and $20 billion 
+for agency debt and mortgage-backed securities later this year.  The actual pace of runoff will vary, however, 
+depending on the volume of securities maturing in any given month. 
+
+
+
+
+- 7 - 
+
+References 
+ 
+Blanchard, Olivier (2016).  “The U.S. Phillips Curve:  Back to the ’60s?” Policy Brief 
+
+PB16-1.  Washington:  Peterson Institute for International Economics, January, 
+https://piie.com/publications/pb/pb16-1.pdf. 
+
+ 
+Board of Governors of the Federal Reserve System (2017).  “FOMC Issues Addendum to 
+
+the Policy Normalization Principles and Plans,” press release, June 14, 
+https://www.federalreserve.gov/newsevents/pressreleases/monetary20170614c.htm. 
+
+ 
+-------- (2018a).  “Federal Open Market Committee reaffirms its “Statement on Longer-Run 
+
+Goals and Monetary Policy Strategy,” press release, January 31, 
+https://www.federalreserve.gov/newsevents/pressreleases/monetary20180131b.htm. 
+
+ 
+-------- (2018b).  Monetary Policy Report.  Washington:  Board of Governors, February 23, 
+
+https://www.federalreserve.gov/monetarypolicy/files/20180223_mprfullreport.pdf. 
+ 
+Brainard, Lael (2015).  “Normalizing Monetary Policy When the Neutral Interest Rate Is 
+
+Low,” speech delivered at the Stanford Institute for Economic Policy Research, 
+Stanford, California, December 1, 
+https://www.federalreserve.gov/newsevents/speech/brainard20151201a.htm. 
+
+ 
+-------- (2016).  “The ‘New Normal’ and What It Means for Monetary Policy,” speech 
+
+delivered at the Chicago Council on Global Affairs, Chicago, September 12, 
+https://www.federalreserve.gov/newsevents/speech/brainard20160912a.htm. 
+
+ 
+-------- (2017).  “Understanding the Disconnect between Employment and Inflation with a 
+
+Low Neutral Rate,” speech delivered at the Economic Club of New York, New 
+York, September 5, 
+https://www.federalreserve.gov/newsevents/speech/brainard20170905a.htm. 
+
+ 
+Congressional Budget Office (2018).  Bipartisan Budget Act of 2018:  Cost Estimate.  
+
+Washington:  CBO, February 8, https://www.cbo.gov/system/files/115th-congress-
+2017-2018/costestimate/bipartisanbudgetactof2018.pdf. 
+
+ 
+Kiley, Michael T. (2015).  “Low Inflation in the United States:  A Summary of Recent 
+
+Research,” FEDS Notes.  Washington:  Board of Governors of the Federal Reserve 
+System, November 23, https://www.federalreserve.gov/econresdata/notes/feds-
+notes/2015/low-inflation-in-the-united-states-a-summary-of-recent-research-
+20151123.html. 
+
+ 
+Kiley, Michael T., and John M. Roberts (2017).  “Monetary Policy in a Low Interest Rate 
+
+World,” Brookings Papers on Economic Activity, Spring, pp. 317-396, 
+https://www.brookings.edu/wp-content/uploads/2017/08/kileytextsp17bpea.pdf. 
+
+
+
+
+
+
+- 8 - 
+
+Nakata, Taisuke, and Sebastian Schmidt (2016).  “The Risk-Adjusted Monetary Policy 
+Rule,” Finance and Economics Discussion Series 2016-061.  Washington:  Board of 
+Governors of the Federal Reserve System, August, 
+https://dx.doi.org/10.17016/FEDS.2016.061. 
+
+ 
+Simon, John, Troy Matheson, and Damiano Sandri (2013).  “The Dog That Didn’t Bark:  
+
+Has Inflation Been Muzzled or Was It Just Sleeping?” chapter 3 in World Economic 
+Outlook:  Hopes, Realities, Risks.  Washington:  International Monetary Fund, 
+April, https://www.imf.org/external/pubs/ft/weo/2013/01/pdf/c3.pdf. 
+
+
+

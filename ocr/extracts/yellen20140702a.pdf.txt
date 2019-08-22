@@ -1,0 +1,861 @@
+
+For release on delivery 
+11 a.m. EDT 
+July 2, 2014 
+ 
+
+
+Monetary Policy and Financial Stability 
+ 
+ 
+ 
+
+Remarks by 
+ 
+
+Janet L. Yellen 
+ 
+
+Chair 
+ 
+
+Board of Governors of the Federal Reserve System 
+ 
+
+at 
+ 
+
+The 2014 Michel Camdessus Central Banking Lecture 
+International Monetary Fund 
+
+ 
+Washington, D.C. 
+
+
+July 2, 2014 
+ 
+
+
+
+It is an honor to deliver the inaugural Michel Camdessus Central Banking 
+
+Lecture.  Michel Camdessus served with distinction as governor of the Banque de France 
+
+and was one of the longest-serving managing directors of the International Monetary 
+
+Fund (IMF).  In these roles, he was well aware of the challenges central banks face in 
+
+their pursuit of price stability and full employment, and of the interconnections between 
+
+macroeconomic stability and financial stability.  Those interconnections were apparent in 
+
+the Latin American debt crisis, the Mexican peso crisis, and the East Asian financial 
+
+crisis, to which the IMF responded under Camdessus’s leadership.  These episodes took 
+
+place in emerging market economies, but since then, the global financial crisis and, more 
+
+recently, the euro crisis have reminded us that no economy is immune from financial 
+
+instability and the adverse effects on employment, economic activity, and price stability 
+
+that financial crises cause.   
+
+The recent crises have appropriately increased the focus on financial stability at 
+
+central banks around the world.  At the Federal Reserve, we have devoted substantially 
+
+increased resources to monitoring financial stability and have refocused our regulatory 
+
+and supervisory efforts to limit the buildup of systemic risk.  There have also been calls, 
+
+from some quarters, for a fundamental reconsideration of the goals and strategy of 
+
+monetary policy.  Today I will focus on a key question spurred by this debate:  How 
+
+should monetary and other policymakers balance macroprudential approaches and 
+
+monetary policy in the pursuit of financial stability? 
+
+In my remarks, I will argue that monetary policy faces significant limitations as a 
+
+tool to promote financial stability:  Its effects on financial vulnerabilities, such as 
+
+excessive leverage and maturity transformation, are not well understood and are less 
+
+
+ - 2 - 
+
+direct than a regulatory or supervisory approach; in addition, efforts to promote financial 
+
+stability through adjustments in interest rates would increase the volatility of inflation and 
+
+employment.  As a result, I believe a macroprudential approach to supervision and 
+
+regulation needs to play the primary role.  Such an approach should focus on “through the 
+
+cycle” standards that increase the resilience of the financial system to adverse shocks and 
+
+on efforts to ensure that the regulatory umbrella will cover previously uncovered 
+
+systemically important institutions and activities.  These efforts should be complemented 
+
+by the use of countercyclical macroprudential tools, a few of which I will describe.  But 
+
+experience with such tools remains limited, and we have much to learn to use these 
+
+measures effectively. 
+
+I am also mindful of the potential for low interest rates to heighten the incentives 
+
+of financial market participants to reach for yield and take on risk, and of the limits of 
+
+macroprudential measures to address these and other financial stability concerns.  
+
+Accordingly, there may be times when an adjustment in monetary policy may be 
+
+appropriate to ameliorate emerging risks to financial stability.  Because of this possibility, 
+
+and because transparency enhances the effectiveness of monetary policy, it is crucial that 
+
+policymakers communicate their views clearly on the risks to financial stability and how 
+
+such risks influence the appropriate monetary policy stance.  I will conclude by briefly 
+
+laying out how financial stability concerns affect my current assessment of the 
+
+appropriate stance of monetary policy. 
+
+Balancing Financial Stability with Price Stability:  Lessons from the Recent Past 
+
+When considering the connections between financial stability, price stability, and 
+
+full employment, the discussion often focuses on the potential for conflicts among these 
+
+
+
+
+ - 3 - 
+
+objectives.  Such situations are important, since it is only when conflicts arise that 
+
+policymakers need to weigh the tradeoffs among multiple objectives.  But it is important 
+
+to note that, in many ways, the pursuit of financial stability is complementary to the goals 
+
+of price stability and full employment.  A smoothly operating financial system promotes 
+
+the efficient allocation of saving and investment, facilitating economic growth and 
+
+employment.  A strong labor market contributes to healthy household and business 
+
+balance sheets, thereby contributing to financial stability.  And price stability contributes 
+
+not only to the efficient allocation of resources in the real economy, but also to reduced 
+
+uncertainty and efficient pricing in financial markets, which in turn supports financial 
+
+stability. 
+
+Despite these complementarities, monetary policy has powerful effects on risk 
+
+taking.  Indeed, the accommodative policy stance of recent years has supported the 
+
+recovery, in part, by providing increased incentives for households and businesses to take 
+
+on the risk of potentially productive investments.  But such risk-taking can go too far, 
+
+thereby contributing to fragility in the financial system.1  This possibility does not 
+
+obviate the need for monetary policy to focus primarily on price stability and full 
+
+employment--the costs to society in terms of deviations from price stability and full 
+
+employment that would arise would likely be significant.  I will highlight these potential 
+
+costs and the clear need for a macroprudential policy approach by looking back at the 
+
+vulnerabilities in the U.S. economy before the crisis.  I will also discuss how these 
+
+1 The possibility that periods of relative economic stability may contribute to risk-taking and the buildup of 
+imbalances that may unwind in a painful manner is often linked to the ideas of Hyman Minsky (see 
+Hyman P. Minsky (1992), “The Financial Instability Hypothesis,” Working Paper 74 (Annandale-on-
+Hudson, N.Y.:  Jerome Levy Economics Institute of Bard College, May), 
+www.levyinstitute.org/pubs/wp74.pdf).   For a recent example of an economic model that tries to explore 
+these ideas, see, for example, Markus K. Brunnermeier and Yuliy Sannikov (2014), “A Macroeconomic 
+Model with a Financial Sector,” American Economic Review, vol. 104 (February), pp. 379-421. 
+
+
+
+
+
+ - 4 - 
+
+vulnerabilities might have been affected had the Federal Reserve tightened monetary 
+
+policy in the mid-2000s to promote financial stability.   
+
+Looking Back at the Mid-2000s 
+
+Although it was not recognized at the time, risks to financial stability within the 
+
+United States escalated to a dangerous level in the mid-2000s.  During that period, 
+
+policymakers--myself included--were aware that homes seemed overvalued by a number 
+
+of sensible metrics and that home prices might decline, although there was disagreement 
+
+about how likely such a decline was and how large it might be.  What was not 
+
+appreciated was how serious the fallout from such a decline would be for the financial 
+
+sector and the macroeconomy.  Policymakers failed to anticipate that the reversal of the 
+
+house price bubble would trigger the most significant financial crisis in the United States 
+
+since the Great Depression because that reversal interacted with critical vulnerabilities in 
+
+the financial system and in government regulation.   
+
+In the private sector, key vulnerabilities included high levels of leverage, 
+
+excessive dependence on unstable short-term funding, weak underwriting of loans, 
+
+deficiencies in risk measurement and risk management, and the use of exotic financial 
+
+instruments that redistributed risk in nontransparent ways.   
+
+In the public sector, vulnerabilities included gaps in the regulatory structure that 
+
+allowed some systemically important financial institutions (SIFIs) and markets to escape 
+
+comprehensive supervision, failures of supervisors to effectively use their existing 
+
+powers, and insufficient attention to threats to the stability of the system as a whole. 
+
+It is not uncommon to hear it suggested that the crisis could have been prevented 
+
+or significantly mitigated by substantially tighter monetary policy in the mid-2000s.  At 
+
+
+
+
+ - 5 - 
+
+the very least, however, such an approach would have been insufficient to address the full 
+
+range of critical vulnerabilities I have just described.  A tighter monetary policy would 
+
+not have closed the gaps in the regulatory structure that allowed some SIFIs and markets 
+
+to escape comprehensive supervision; a tighter monetary policy would not have shifted 
+
+supervisory attention to a macroprudential perspective; and a tighter monetary policy 
+
+would not have increased the transparency of exotic financial instruments or ameliorated 
+
+deficiencies in risk measurement and risk management within the private sector. 
+
+Some advocates of the view that a substantially tighter monetary policy may have 
+
+helped prevent the crisis might acknowledge these points, but they might also argue that a 
+
+tighter monetary policy could have limited the rise in house prices, the use of leverage 
+
+within the private sector, and the excessive reliance on short-term funding, and that each 
+
+of these channels would have contained--or perhaps even prevented--the worst effects of 
+
+the crisis. 
+
+A review of the empirical evidence suggests that the level of interest rates does 
+
+influence house prices, leverage, and maturity transformation, but it is also clear that a 
+
+tighter monetary policy would have been a very blunt tool:  Substantially mitigating the 
+
+emerging financial vulnerabilities through higher interest rates would have had sizable 
+
+adverse effects in terms of higher unemployment.  In particular, a range of studies 
+
+conclude that tighter monetary policy during the mid-2000s might have contributed to a 
+
+slower rate of house price appreciation.  But the magnitude of this effect would likely 
+
+have been modest relative to the substantial momentum in these prices over the period; 
+
+hence, a very significant tightening, with large increases in unemployment, would have 
+
+
+
+
+ - 6 - 
+
+been necessary to halt the housing bubble.2  Such a slowing in the housing market might 
+
+have constrained the rise in household leverage, as mortgage debt growth would have 
+
+been slower.  But the job losses and higher interest payments associated with higher 
+
+interest rates would have directly weakened households’ ability to repay previous debts, 
+
+suggesting that a sizable tightening may have mitigated vulnerabilities in household 
+
+balance sheets only modestly.3 
+
+Similar mixed results would have been likely with regard to the effects of tighter 
+
+monetary policy on leverage and reliance on short-term financing within the financial 
+
+sector.  In particular, the evidence that low interest rates contribute to increased leverage 
+
+and reliance on short-term funding points toward some ability of higher interest rates to 
+
+lessen these vulnerabilities, but that evidence is typically consistent with a sizable range 
+
+2 For a discussion of this issue encompassing experience across a broad range of advanced economies in the 
+2000s, including the United States, see Jane Dokko, Brian M. Doyle, Michael T. Kiley, Jinill Kim, Shane 
+Sherlund, Jae Sim, and Skander Van Den Heuvel (2011), “Monetary Policy and the Global Housing 
+Bubble,” Economic Policy, vol. 26 (April), pp. 233-83.  Igan and Loungani (2012) highlight how interest 
+rates are an important, but far from the most important, determinant of housing cycles across countries (see 
+Deniz Igan and Prakash Loungani (2012), “Global Housing Cycles,” IMF Working Paper Series 
+WP/12/217 (Washington:  International Monetary Fund, August), 
+www.imf.org/external/pubs/cat/longres.aspx?sk=26229.0).  Bean and others (2010), examining the 
+tradeoffs between unemployment, inflation, and stabilization of the housing market in the United Kingdom, 
+imply that reliance on monetary policy to contain a housing boom may be too costly in terms of other 
+monetary policy goals (see Charles Bean, Matthias Paustian, Adrian Penalver, and Tim Taylor (2010), 
+“Monetary Policy after the Fall,” paper presented at “Macroeconomic Challenges:  The Decade Ahead,” a 
+symposium sponsored by the Federal Reserve Bank of Kansas City, held in Jackson Hole, Wyo., 
+August 26-28, www.kansascityfed.org/publicat/sympos/2010/2010-08-23-bean.pdf).  Saiz (2014) suggests 
+that about 50 percent of the variation in house prices during the 2000s boom can be explained by low 
+interest rates, and finds that it was the remaining, “non-fundamental” component that subsequently 
+collapsed--that is, the interest rate component was not a primary factor in what Saiz terms “the bust” (see 
+Albert Saiz (2014), “Interest Rates and Fundamental Fluctuations in Home Values,” paper presented at the 
+Public Policy and Economics Spring 2014 Workshops, hosted by the Harris School of Public Policy, 
+University of Chicago, April 8, 
+http://harrisschool.uchicago.edu/sites/default/files/SAIZ%20FUNDAMENTALS1_0.pdf). 
+3 The notion that tighter monetary policy may have ambiguous effects on leverage or repayment capacity is 
+illustrated in, for example, Anton Korinek and Alp Simsek (2014), “Liquidity Trap and Excessive 
+Leverage,” NBER Working Paper Series 19970 (Cambridge, Mass.:  National Bureau of Economic 
+Research, March). 
+
+
+
+
+
+ - 7 - 
+
+of quantitative effects or alternative views regarding the causal channels at work.4  
+
+Furthermore, vulnerabilities from excessive leverage and reliance on short-term funding 
+
+in the financial sector grew rapidly through the middle of 2007, well after monetary 
+
+policy had already tightened significantly relative to the accommodative policy stance of 
+
+2003 and early 2004.  In my assessment, macroprudential policies, such as regulatory 
+
+limits on leverage and short-term funding, as well as stronger underwriting standards, 
+
+represent far more direct and likely more effective methods to address these 
+
+vulnerabilities.5 
+
+Recent International Experience 
+
+Turning to recent experience outside the United States, a number of foreign 
+
+economies have seen rapidly rising real estate prices, which has raised financial stability 
+
+concerns despite, in some cases, high unemployment and shortfalls in inflation relative to 
+
+the central bank’s inflation target.6  These developments have prompted debate on how to 
+
+4 See, for example, Tobias Adrian and Hyun Song Shin (2010), “Liquidity and Leverage,” Journal of 
+Financial Intermediation, vol. 19 (July), pp. 418-37; and Tobias Adrian and Hyun Song Shin (2011), 
+“Financial Intermediaries and Monetary Economics,” in Benjamin Friedman and Michael Woodford, eds., 
+Handbook of Monetary Economics, vol. 3A (San Diego, Ca.:  Elsevier), pp. 601-50.  For a study 
+emphasizing how changes in the response of monetary policy to financial vulnerabilities would likely 
+change the relationship between monetary policy and financial vulnerabilities, see Oliver de Groot (2014), 
+“The Risk Channel of Monetary Policy,” International Journal of Central Banking, vol. 10 (June), pp. 115-
+60, www.ijcb.org/journal/ijcb14q2a6.pdf. 
+5 This evidence and experience suggest that a reliance on monetary policy as a primary tool to address the 
+broad range of vulnerabilities that emerged in the mid-2000s would have had uncertain and limited effects 
+on risks to financial stability.  Such uncertainty does not imply that a modestly tighter monetary policy may 
+not have been marginally helpful.  For example, some research suggests that financial imbalances that 
+became apparent in the mid-2000s may have signaled a tighter labor market and more inflationary pressure 
+than would have been perceived solely from labor market conditions and overall economic activity.  Hence, 
+such financial imbalances may have called for a modestly tighter monetary policy through the traditional 
+policy lens focused on inflationary pressure and economic slack.  See, for example, David M. Arseneau and 
+Michael Kiley (2014), “The Role of Financial Imbalances in Assessing the State of the Economy,” FEDS 
+Notes (Washington:  Board of Governors of the Federal Reserve System, April 18), 
+www.federalreserve.gov/econresdata/notes/feds-notes/2014/the-role-of-financial-imbalances-in-assessing-
+the-state-of-the-economy-20140418.html. 
+6 For a summary of house price developments across a range of countries through 2013, see International 
+Monetary Fund (2014), “Global Housing Watch,” www.imf.org/external/research/housing/index.htm. 
+
+
+
+
+
+ - 8 - 
+
+best balance the use of monetary policy and macroprudential tools in promoting financial 
+
+stability. 
+
+For example, Canada, Switzerland, and the United Kingdom have expressed a 
+
+willingness to use monetary policy to address financial stability concerns in unusual 
+
+circumstances, but they have similarly concluded that macroprudential policies should 
+
+serve as the primary tool to pursue financial stability.  In Canada, with inflation below 
+
+target and output growth quite subdued, the Bank of Canada has kept the policy rate at or 
+
+below 1 percent, but limits on mortgage lending were tightened in each of the years from 
+
+2009 through 2012, including changes in loan-to-value and debt-to-income caps, among 
+
+other measures.7  In contrast, in Norway and Sweden, monetary policy decisions have 
+
+been influenced somewhat by financial stability concerns, but the steps taken have been 
+
+limited.  In Norway, policymakers increased the policy interest rate in mid-2010 when 
+
+they were facing escalating household debt despite inflation below target and output 
+
+below capacity, in part as a way of “guarding against the risk of future imbalances.”8  
+
+Similarly, Sweden’s Riksbank held its policy rate “slightly higher than we would have 
+
+done otherwise” because of financial stability concerns.9  In both cases, macroprudential 
+
+actions were also either taken or under consideration. 
+
+7 For a discussion of macroprudential steps taken in Canada, see Ivo Krznar and James Morsink (2014), 
+“With Great Power Comes Great Responsibility:  Macroprudential Tools at Work in Canada,” IMF 
+Working Paper Series 14/83 (Washington:  International Monetary Fund, May), 
+www.imf.org/external/pubs/cat/longres.aspx?sk=41551.0. 
+8 See Norges Bank (2010), “The Executive Board’s Monetary Policy Decision--Background and General 
+Assessment,” press release, May 5, www.norges-bank.no/en/about/published/press-releases/2010/press-
+release-5-may-2010/the-executive-boards-monetary-policy-decision, paragraph 28. 
+9 See Per Jansson (2013), “How Do We Stop the Trend in Household Debt?  Work on Several Fronts,” 
+speech delivered at the SvD Bank Summit, Berns Salonger, Stockholm, December 3, 
+www.riksbank.se/en/Press-and-published/Speeches/2013/Jansson-How-do-we-stop-the-trend-in-house-
+hold-debt-Work-on-several-fronts, p. 2. 
+
+
+
+
+
+ - 9 - 
+
+In reviewing these experiences, it seems clear that monetary policymakers have 
+
+perceived significant hurdles to using sizable adjustments in monetary policy to contain 
+
+financial stability risks.  Some proponents of a larger monetary policy response to 
+
+financial stability concerns might argue that these perceived hurdles have been 
+
+overblown and that financial stability concerns should be elevated significantly in 
+
+monetary policy discussions.  A more balanced assessment, in my view, would be that 
+
+increased focus on financial stability risks is appropriate in monetary policy discussions, 
+
+but the potential cost, in terms of diminished macroeconomic performance, is likely to be 
+
+too great to give financial stability risks a central role in monetary policy decisions, at 
+
+least most of the time. 
+
+If monetary policy is not to play a central role in addressing financial stability 
+
+issues, this task must rely on macroprudential policies.  In this regard, I would note that 
+
+here, too, policymakers abroad have made important strides, and not just those in the 
+
+advanced economies.  Emerging market economies have in many ways been leaders in 
+
+applying macroprudential policy tools, employing in recent years a variety of restrictions 
+
+on real estate lending or other activities that were perceived to create vulnerabilities.10  
+
+Although it is probably too soon to draw clear conclusions, these experiences will help 
+
+inform our understanding of these policies and their efficacy. 
+
+Promoting Financial Stability through a Macroprudential Approach 
+
+If macroprudential tools are to play the primary role in the pursuit of financial 
+
+stability, questions remain on which macroprudential tools are likely to be most effective, 
+
+10 For a discussion, see Min Zhu (2014), “Era of Benign Neglect of House Price Booms Is Over,” IMF 
+Direct (blog), June 11, http://blog-imfdirect.imf.org/2014/06/11/era-of-benign-neglect-of-house-price-
+booms-is-over. 
+
+
+
+
+
+ - 10 - 
+
+what the limits of such tools may be, and when, because of such limits, it may be 
+
+appropriate to adjust monetary policy to “get in the cracks” that persist in the 
+
+macroprudential framework.11 
+
+In weighing these questions, I find it helpful to distinguish between tools that 
+
+primarily build through-the-cycle resilience against adverse financial developments and 
+
+those primarily intended to lean against financial excesses.12   
+
+Building Resilience 
+
+Tools that build resilience aim to make the financial system better able to 
+
+withstand unexpected adverse developments.  For example, requirements to hold 
+
+sufficient loss-absorbing capital make financial institutions more resilient in the face of 
+
+unexpected losses.  Such requirements take on a macroprudential dimension when they 
+
+are most stringent for the largest, most systemically important firms, thereby minimizing 
+
+the risk that losses at such firms will reverberate through the financial system.  Resilience 
+
+against runs can be enhanced both by stronger capital positions and requirements for 
+
+sufficient liquidity buffers among the most interconnected firms.  An effective resolution 
+
+regime for SIFIs can also enhance resilience by better protecting the financial system 
+
+from contagion in the event of a SIFI collapse.  Further, the stability of the financial 
+
+system can be enhanced through measures that address interconnectedness between 
+
+financial firms, such as margin and central clearing requirements for derivatives 
+
+transactions.  Finally, a regulatory umbrella wide enough to cover previous gaps in the 
+
+11 These questions have been explored in, for example, International Monetary Fund (2013), The 
+Interaction of Monetary and Macroprudential Policies (Washington:  IMF, January 29), 
+www.imf.org/external/np/pp/eng/2013/012913.pdf. 
+12 The IMF recently discussed tools to build resilience and lean against excesses (and provided a broad 
+overview of macroprudential tools and their interaction with other policies, including monetary policy); see 
+International Monetary Fund (2013), Key Aspects of Macroprudential Policy (Washington:  IMF, June 10), 
+www.imf.org/external/np/pp/eng/2013/061013b.pdf. 
+
+
+
+
+
+ - 11 - 
+
+regulation and supervision of systemically important firms and markets can help prevent 
+
+risks from migrating to areas where they are difficult to detect or address. 
+
+In the United States, considerable progress has been made on each of these fronts.  
+
+Changes in bank capital regulations, which will include a surcharge for systemically 
+
+important institutions, have significantly increased requirements for loss-absorbing 
+
+capital at the largest banking firms.  The Federal Reserve’s stress tests and 
+
+Comprehensive Capital Analysis and Review process require that large financial 
+
+institutions maintain sufficient capital to weather severe shocks, and that they 
+
+demonstrate that their internal capital planning processes are effective, while providing 
+
+perspective on the loss-absorbing capacity across a large swath of the financial system.  
+
+The Basel III framework also includes liquidity requirements designed to mitigate 
+
+excessive reliance by global banks on short-term wholesale funding.   
+
+Oversight of the U.S. shadow banking system also has been strengthened.  The 
+
+new Financial Stability Oversight Council has designated some nonbank financial firms 
+
+as systemically important institutions that are subject to consolidated supervision by the 
+
+Federal Reserve.  In addition, measures are being undertaken to address some of the 
+
+potential sources of instability in short-term wholesale funding markets, including 
+
+reforms to the triparty repo market and money market mutual funds--although progress in 
+
+these areas has, at times, been frustratingly slow.   
+
+Additional measures should be taken to address residual risks in the short-term 
+
+wholesale funding markets.  Some of these measures--such as requiring firms to hold 
+
+larger amounts of capital, stable funding, or highly liquid assets based on use of short-
+
+term wholesale funding--would likely apply only to the largest, most complex 
+
+
+
+
+ - 12 - 
+
+organizations.  Other measures--such as minimum margin requirements for repurchase 
+
+agreements and other securities financing transactions--could, at least in principle, apply 
+
+on a marketwide basis.  To the extent that minimum margin requirements lead to more 
+
+conservative margin levels during normal and exuberant times, they could help avoid 
+
+potentially destabilizing procyclical margin increases in short-term wholesale funding 
+
+markets during times of stress. 
+
+Leaning Against the Wind 
+
+At this point, it should be clear that I think efforts to build resilience in the 
+
+financial system are critical to minimizing the chance of financial instability and the 
+
+potential damage from it.  This focus on resilience differs from much of the public 
+
+discussion, which often concerns whether some particular asset class is experiencing a 
+
+“bubble” and whether policymakers should attempt to pop the bubble.  Because a 
+
+resilient financial system can withstand unexpected developments, identification of 
+
+bubbles is less critical.  
+
+Nonetheless, some macroprudential tools can be adjusted in a manner that may 
+
+further enhance resilience as risks emerge.  In addition, macroprudential tools can, in 
+
+some cases, be targeted at areas of concern.  For example, the new Basel III regulatory 
+
+capital framework includes a countercyclical capital buffer, which may help build 
+
+additional loss-absorbing capacity within the financial sector during periods of rapid 
+
+credit creation while also leaning against emerging excesses.  The stress tests include a 
+
+scenario design process in which the macroeconomic stresses in the scenario become 
+
+more severe during buoyant economic expansions and incorporate the possibility of 
+
+highlighting salient risk scenarios, both of which may contribute to increasing resilience 
+
+
+
+
+ - 13 - 
+
+during periods in which risks are rising.13  Similarly, minimum margin requirements for 
+
+securities financing transactions could potentially vary on a countercyclical basis so that 
+
+they are higher in normal times than in times of stress.   
+
+Implications for Monetary Policy, Now and in the Future 
+
+In light of the considerable efforts under way to implement a macroprudential 
+
+approach to enhance financial stability and the increased focus of policymakers on 
+
+monitoring emerging financial stability risks, I see three key principles that should guide 
+
+the interaction of monetary policy and macroprudential policy in the United States. 
+
+First, it is critical for regulators to complete their efforts at implementing a 
+
+macroprudential approach to enhance resilience within the financial system, which will 
+
+minimize the likelihood that monetary policy will need to focus on financial stability 
+
+issues rather than on price stability and full employment.  Key steps along this path 
+
+include completion of the transition to full implementation of Basel III, including new 
+
+liquidity requirements; enhanced prudential standards for systemically important firms, 
+
+including risk-based capital requirements, a leverage ratio, and tighter prudential buffers 
+
+for firms heavily reliant on short-term wholesale funding; expansion of the regulatory 
+
+umbrella to incorporate all systemically important firms; the institution of an effective, 
+
+cross-border resolution regime for systemically important financial institutions; and 
+
+consideration of regulations, such as minimum margin requirements for securities 
+
+financing transactions, to limit leverage in sectors beyond the banking sector and SIFIs. 
+
+13 See the Policy Statement on the Scenario Design Framework for Stress Testing at Regulation YY--
+Enhanced Prudential Standards and Early Remediation Requirements for Covered Companies, 12 C.F.R. 
+pt. 252 (2013), Policy Statement on the Scenario Design Framework for Stress Testing, 
+www.federalreserve.gov/bankinforeg/bcreg20131107a1.pdf. 
+ 
+
+
+
+
+
+ - 14 - 
+
+Second, policymakers must carefully monitor evolving risks to the financial 
+
+system and be realistic about the ability of macroprudential tools to influence these 
+
+developments.  The limitations of macroprudential policies reflect the potential for risks 
+
+to emerge outside sectors subject to regulation, the potential for supervision and 
+
+regulation to miss emerging risks, the uncertain efficacy of new macroprudential tools 
+
+such as a countercyclical capital buffer, and the potential for such policy steps to be 
+
+delayed or to lack public support.14  Given such limitations, adjustments in monetary 
+
+policy may, at times, be needed to curb risks to financial stability.15 
+
+These first two principles will be more effective in helping to address financial 
+
+stability risks when the public understands how monetary policymakers are weighing 
+
+such risks in the setting of monetary policy.  Because these issues are both new and 
+
+complex, there is no simple rule that can prescribe, even in a general sense, how 
+
+monetary policy should adjust in response to shifts in the outlook for financial stability.  
+
+As a result, policymakers should clearly and consistently communicate their views on the 
+
+stability of the financial system and how those views are influencing the stance of 
+
+monetary policy.  
+
+To that end, I will briefly lay out my current assessment of financial stability risks 
+
+and their relevance, at this time, to the stance of monetary policy in the United States.  In 
+
+recent years, accommodative monetary policy has contributed to low interest rates, a flat 
+
+14 For a related discussion, see Elliott, Feldberg, and Lehnert, “The History of Cyclical Macroprudential 
+Policy in the United States.” 
+15 Adam and Woodford (2013) present a model in which macroprudential policies are not present and 
+housing prices experience swings for reasons not driven by “fundamentals.”  In this context, adjustments in 
+monetary policy in response to house price booms--even if such adjustments lead to undesirable inflation or 
+employment outcomes--are a component of optimal monetary policy.  See Klaus Adam and Michael 
+Woodford (2013), “Housing Prices and Robustly Optimal Monetary Policy,” working paper, June 29, 
+http://adam.vwl.uni-mannheim.de/fileadmin/user_upload/adam/research/AW_AssetPrices.pdf. 
+
+
+
+
+
+ - 15 - 
+
+yield curve, improved financial conditions more broadly, and a stronger labor market.  
+
+These effects have contributed to balance sheet repair among households, improved 
+
+financial conditions among businesses, and hence a strengthening in the health of the 
+
+financial sector.  Moreover, the improvements in household and business balance sheets 
+
+have been accompanied by the increased safety of the financial sector associated with the 
+
+macroprudential efforts I have outlined.  Overall, nonfinancial credit growth remains 
+
+moderate, while leverage in the financial system, on balance, is much reduced.  Reliance 
+
+on short-term wholesale funding is also significantly lower than immediately before the 
+
+crisis, although important structural vulnerabilities remain in short-term funding markets.   
+
+Taking all of these factors into consideration, I do not presently see a need for 
+
+monetary policy to deviate from a primary focus on attaining price stability and 
+
+maximum employment, in order to address financial stability concerns.  That said, I do 
+
+see pockets of increased risk-taking across the financial system, and an acceleration or 
+
+broadening of these concerns could necessitate a more robust macroprudential approach.  
+
+For example, corporate bond spreads, as well as indicators of expected volatility in some 
+
+asset markets, have fallen to low levels, suggesting that some investors may 
+
+underappreciate the potential for losses and volatility going forward.  In addition, terms 
+
+and conditions in the leveraged-loan market, which provides credit to lower-rated 
+
+companies, have eased significantly, reportedly as a result of a “reach for yield” in the 
+
+face of persistently low interest rates.  The Federal Reserve, the Office of the Comptroller 
+
+of the Currency, and the Federal Deposit Insurance Corporation issued guidance 
+
+regarding leveraged lending practices in early 2013 and followed up on this guidance late 
+
+last year.  To date, we do not see a systemic threat from leveraged lending, since broad 
+
+
+
+
+ - 16 - 
+
+measures of credit outstanding do not suggest that nonfinancial borrowers, in the 
+
+aggregate, are taking on excessive debt and the improved capital and liquidity positions at 
+
+lending institutions should ensure resilience against potential losses due to their 
+
+exposures.  But we are mindful of the possibility that credit provision could accelerate, 
+
+borrower losses could rise unexpectedly sharply, and that leverage and liquidity in the 
+
+financial system could deteriorate.  It is therefore important that we monitor the degree to 
+
+which the macroprudential steps we have taken have built sufficient resilience, and that 
+
+we consider the deployment of other tools, including adjustments to the stance of 
+
+monetary policy, as conditions change in potentially unexpected ways. 
+
+Conclusion 
+
+In closing, the policy approach to promoting financial stability has changed 
+
+dramatically in the wake of the global financial crisis.  We have made considerable 
+
+progress in implementing a macroprudential approach in the United States, and these 
+
+changes have also had a significant effect on our monetary policy discussions.  An 
+
+important contributor to the progress made in the United States has been the lessons we 
+
+learned from the experience gained by central banks and regulatory authorities all around 
+
+the world.  The IMF plays an important role in this evolving process as a forum for 
+
+representatives from the world’s economies and as an institution charged with promoting 
+
+financial and economic stability globally.  I expect to both contribute to and learn from 
+
+ongoing discussions on these issues. 
+
+
+
+

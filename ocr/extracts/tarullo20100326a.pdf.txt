@@ -1,0 +1,607 @@
+
+For release on delivery 
+6:00 p.m. EDT 
+March 26, 2010 
+ 
+
+
+Lessons from the Crisis Stress Tests 
+ 
+ 
+ 
+ 
+
+Remarks by 
+ 
+
+Daniel K. Tarullo 
+ 
+
+Member 
+ 
+
+Board of Governors of the Federal Reserve System 
+ 
+
+at the 
+ 
+
+Federal Reserve Board  
+ 
+
+International Research Forum on Monetary Policy 
+ 
+
+Washington, D.C. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+March 26, 2010 
+
+
+
+ Effective responses to dire situations often require bold actions that would be 
+
+unthinkable in calmer times.  So it was in the financial crisis, when central banks 
+
+undertook extraordinary monetary policy measures and governments made major 
+
+financial firms wards of the state.  Yet sometimes a crisis also accelerates adoption of 
+
+policies and practices that might beneficially have been implemented beforehand and 
+
+then are sensibly continued after the crisis has passed.  This evening I will examine an 
+
+instance of this latter phenomenon, as defined by the Federal Reserve’s experience with 
+
+comprehensive stress testing of major financial institutions during the crisis.   
+
+ The Supervisory Capital Assessment Program (SCAP) was fashioned in early 
+
+2009 as a key element of a crucial plan to stabilize the U.S. financial system.  The stress 
+
+tests, as they have been popularly called, required development on the fly, and under 
+
+enormous pressure, of ideas that academics and supervisors had been considering for 
+
+some time.  After describing the concept, design, and implementation of last year’s tests, 
+
+I will explain how our experience has helped prompt major changes in Federal Reserve 
+
+supervision of the nation’s largest financial institutions.  Then I will discuss how this 
+
+experience has stimulated debate over the merits of publicly releasing supervisory 
+
+information.1  
+
+Origins and Execution of the Supervisory Capital Assessment Program   
+
+ By February 2009, many steps had already been taken to restore the health of, and 
+
+confidence in, U.S. banks.  The U.S. Treasury had injected capital into banks under the 
+
+Troubled Asset Relief Program (TARP).  The Federal Deposit Insurance Corporation had 
+
+expanded guarantees for bank liabilities under its Temporary Liquidity Guarantee 
+
+                                                 
+1 The views expressed in these remarks are my own and not necessarily those of other members of the 
+Board of Governors. 
+
+
+- 2 - 
+ 
+
+
+Program.  And the Federal Reserve had established a number of lending programs to 
+
+provide liquidity to financial institutions in addition to its aggressive monetary policy 
+
+actions.   
+
+ Despite these actions, a great deal of uncertainty remained about future bank 
+
+losses and solvency, which was only increased by the rapidly deteriorating 
+
+macroeconomic conditions in early 2009.  The Treasury determined that confidence 
+
+could best be restored by making additional capital available to banks that were unable to 
+
+raise from private sources the amounts necessary for them to continue to function as 
+
+effective financial intermediaries even if economic conditions worsened appreciably.  To 
+
+evaluate how much capital individual institutions might require, U.S. bank supervisors, 
+
+led by the Federal Reserve, undertook a stringent, forward-looking assessment of 
+
+prospective losses and revenues--a stress test--for the 19 largest U.S. banks.  Using TARP 
+
+funds, the Treasury established the Capital Assistance Program (CAP) to provide any 
+
+needed capital. 
+
+ Let me summarize the mechanics of the stress tests.  First, in February 2009, each 
+
+of the SCAP banks was asked to perform a capital-adequacy stress test under two 
+
+economic scenarios--baseline and more adverse--using specified assumptions for gross 
+
+domestic product (GDP) growth, unemployment, and house prices.  The baseline scenario 
+
+reflected the consensus expectation among professional forecasters on the depth and 
+
+duration of the recession.  The more adverse scenario was designed to be severe but 
+
+plausible, with a probability of roughly 10 to 15 percent that each of the macroeconomic 
+
+variables could be worse than specified.  The banks were asked to provide projections of 
+
+losses and revenues under the two scenarios.  Losses were to be projected over a two-year 
+
+
+- 3 - 
+ 
+
+
+horizon for at least 12 separate categories of loans and a few other asset classes, using 
+
+year-end 2008 financial statement data as a starting point.  To guide the banks, 
+
+supervisors provided indicative loss-rate ranges for the system as a whole, derived from 
+
+both analysis of historical loss experience at large banks and quantitative models relating 
+
+loan performance to macroeconomic variables.  Banks were informed that loss estimates 
+
+below the indicative range would be closely scrutinized.  
+
+ Second, the supervisory teams evaluated the banks’ estimates to identify 
+
+methodological weaknesses, missing information, overly optimistic assumptions, and 
+
+other problems.  Examiners had detailed conversations with bank managers, which led to 
+
+numerous modifications of the banks’ submissions.  Supervisors then made judgmental 
+
+adjustments to the banks’ loss and revenue estimates based on sensitivity analyses 
+
+performed by the firms, comparative analysis across the firms, and the supervisors’ own 
+
+judgments. 
+
+ Third, the supervisors supplemented these judgmental assessments with objective, 
+
+model-based estimates for losses and revenues that could be applied on a consistent basis 
+
+across firms.  Each participating institution was asked to supply, in a standardized format, 
+
+detailed information that supervisors could use to estimate losses and revenues, such as 
+
+details about loan characteristics.  These data allowed supervisors to make consistent 
+
+estimates using independently constructed models.  Finally, supervisors systematically 
+
+incorporated all of these inputs into loss, revenue, and reserve estimates for each 
+
+institution.  These estimates were combined with information on existing reserves and 
+
+capital to project capital buffers that the banks would need under the two scenarios.  
+
+
+- 4 - 
+ 
+
+
+ As you know, unlike other countries that conducted stress exercises, we took the 
+
+highly unusual step of publicly reporting the findings of the SCAP, including the capital 
+
+needs and loss estimates for each of the 19 banks.2  This departure from the standard 
+
+practice of keeping examination information confidential was based on the belief that 
+
+greater transparency of the process and findings would help restore confidence in U.S. 
+
+banks at a time of great uncertainty.  Supervisors released the methodology and 
+
+assumptions underlying the stress test first and then, two weeks later, the results for 
+
+individual institutions.  The results showed that under the more adverse scenario, 10 of 
+
+the 19 SCAP banks would need to raise a total of $75 billion in capital in order to have 
+
+the capital buffers that were targeted under the SCAP--Tier 1 capital in excess of 
+
+6 percent of risk-weighted assets and Tier 1 Common capital in excess of 4 percent of 
+
+risk-weighted assets at the end of the two-year horizon.   
+
+ The merits of publicly releasing firm-specific SCAP results were much debated 
+
+within the Federal Reserve.  In particular, some feared that weaker banks might be 
+
+significantly harmed by the disclosures.  In the end, though, market participants 
+
+vindicated our decision.  They appeared to be reassured for three reasons.  First, the 
+
+results were deemed credible by most market participants, owing in part to the release of 
+
+details about our assumptions and methods, as well as the variation in assessment of the 
+
+banks.  Second, the results were released at a time when uncertainty about bank 
+
+conditions was very high, and some market participants feared the worst.  That is, 
+
+perceptions of tail risk were very high, and the SCAP results helped reassure market 
+
+participants that under a severe but plausible scenario, the capital needs of the largest 
+
+                                                 
+2 Board of Governors of the Federal Reserve System (2009), “Federal Reserve, OCC, and FDIC Release 
+Results of the Supervisory Capital Assessment Program,” press release, May 7, 
+www.federalreserve.gov/newsevents/press/bcreg/20090507a.htm. 
+
+
+- 5 - 
+ 
+
+
+U.S. banks were manageable.  Third, the Treasury stood ready to make capital available 
+
+to any SCAP bank with capital needs through the CAP if they were unable to raise 
+
+private capital.   
+
+In retrospect, it is clear that the public release of the SCAP results played an 
+
+important role in stabilizing the financial system, as has our supervisory follow-up on 
+
+improving capital levels.  By November 2009, the 10 banks that required additional 
+
+capital had increased their Tier 1 Common equity by more than $77 billion, primarily by 
+
+issuing new common equity, converting existing preferred equity to common equity, and 
+
+selling businesses or portfolios of assets.  None of the SCAP banks received CAP funds.3    
+
+Many observers initially criticized the stress tests as overly optimistic. On the one 
+
+hand, they noted that GDP growth was weaker and unemployment higher in 2009 than 
+
+projected in the more adverse scenario.  On the other hand, house prices did not fall as 
+
+much as assumed under the more adverse scenario.  As of the end of 2009, actual losses 
+
+at the 19 banks were less than one-half of the two-year loss estimates under the more 
+
+adverse SCAP scenario, and actual revenues were more than one-half of the two-year 
+
+revenue estimates.  Nevertheless, there is wide variation across the firms, and it is too 
+
+soon to tell whether firms will perform better over the full two years than the SCAP 
+
+estimates.    
+
+The Lessons of the SCAP  
+
+ As I suggested at the outset of my remarks, I doubt that anything as ambitious as 
+
+the SCAP would have been tried--at least as soon as it was--but for the exigencies of the 
+
+financial crisis.  Yet the approach we took in the SCAP was informed by discussions that 
+
+                                                 
+3 GMAC did receive a capital injection from the Treasury through the TARP’s Automotive Industry 
+Financing Program. 
+
+
+- 6 - 
+ 
+
+
+had been taking place among supervisors and academics for some time.  Not surprisingly, 
+
+against the backdrop of the crisis, the SCAP experience elaborated and confirmed 
+
+principles that had been advocated internally by some supervisors, but that had not been 
+
+broadly incorporated into the practice of regulatory agencies. 
+
+ First, whether conducted by banks or supervisors, stress tests must consider 
+
+severe but plausible scenarios, including low probability events with potentially highly 
+
+adverse effects.  In the period leading up to the crisis--characterized by strong profits, 
+
+excess liquidity, and low credit losses--too many banks and regulators were skeptical of 
+
+the possibility of a rapid and severe deterioration such as ultimately occurred in the U.S. 
+
+housing, mortgage,  and short-term funding markets.  If the crisis taught us anything, it is 
+
+that we must test to the tail, not to the mode.  A related point is that a stress test will be 
+
+most useful if applied to the full range of credit and trading exposures. 
+
+ Second, good management-information systems are critical to the ability of firms 
+
+to manage their risks.  Assessing risk exposures across an entire organization is essential 
+
+to understanding the potential effect of correlated risk exposures that may reside in 
+
+distinct business lines as well as different legal entities and regulatory jurisdictions.  Yet 
+
+during the SCAP, many of the banks were unable to quickly and consistently consolidate 
+
+risk exposures across products, business lines, legal entities, and geographies.  It does 
+
+little good to run a stress test, even one using a sophisticated quantitative model, if it does 
+
+not effectively capture all relevant exposures because the bank’s information systems are 
+
+poorly managed or integrated.  
+
+ Third, the SCAP highlighted the importance of having multiple inputs into the 
+
+risk-assessment process.  It was critical to have, and use, the best available data.  But it 
+
+
+- 7 - 
+ 
+
+
+was equally important not to become a slave to any one model or method of estimating 
+
+losses.  It was precisely the combination of rigorous, data-driven analyses and considered 
+
+judgment that made the stress test successful.  The interactive and iterative nature of the 
+
+process helped refine each method of assessment. 
+
+ Fourth, the SCAP underscored the importance of both horizontal and 
+
+macroprudential perspectives in supervising banking organizations.  During the SCAP, 
+
+simultaneous, consistent, and comparative cross-firm assessments allowed a broader 
+
+analysis of risks, easier identification of outliers, and better evaluation of individual firm 
+
+estimates.  Because SCAP banks held the majority of U.S. banking assets, it also allowed 
+
+for a better understanding of interrelationships and systemic risks.   
+
+Turning now to how the SCAP experience has informed our supervisory policies, 
+
+I think its effects are best understood in the overall context of the reforms motivated by 
+
+the financial crisis.  Like regulators around the world, we are developing and 
+
+implementing improvements in capital and other prudential rules.  The Congress is 
+
+considering legislative proposals to enhance market discipline through such means as a 
+
+special resolution mechanism for large financial firms and to affect the structure of the 
+
+financial services industry through such measures as the Volcker rule and limitations on 
+
+acquisitions by systemically important firms.  These three modes of reform--rules, market 
+
+discipline, and structural measures--must be complemented by more-effective 
+
+supervisory oversight, particularly of the largest, most complex financial institutions.  To 
+
+this end, the Federal Reserve is now implementing a more closely coordinated 
+
+supervisory system in which a cross-firm, horizontal perspective is an organizing 
+
+supervisory principle.  We will concentrate on all activities within the holding companies 
+
+
+- 8 - 
+ 
+
+
+that can create risk to the firm and the financial system, not just those that increase risk 
+
+for insured depository institutions.   
+
+An essential component of this new system will be a quantitative surveillance 
+
+mechanism for large, complex financial organizations that will combine a more 
+
+macroprudential, multidisciplinary approach with the horizontal perspective.  
+
+Quantitative surveillance will use supervisory information, firm-specific data analysis, 
+
+and market-based indicators to identify developing strains and imbalances that may affect 
+
+multiple institutions, as well as emerging risks to specific firms.  Periodic forward-
+
+looking scenario analyses will enhance our understanding of the potential effects of 
+
+adverse changes in the operating environment on individual firms and on the system as a 
+
+whole.  
+
+In fact, I believe that the most useful steps toward creating a practical, 
+
+macroprudential supervisory perspective will be those that connect the firm-specific 
+
+information and insight gained from traditional microprudential supervision to analysis of 
+
+systemwide developments and emerging stresses.  Here, precisely, is where our SCAP 
+
+experience has helped lead the way. 
+
+The Question of Transparency    
+
+One important element of the SCAP that has not yet been incorporated into our 
+
+ongoing supervisory plans is the public disclosure of stress test information.  I think this 
+
+issue deserves consideration.  As I recently testified, access to higher-quality and more-
+
+timely information about financial products, firms, and markets is necessary for effective
+
+
+- 9 - 
+ 
+
+
+ supervision.4  Making data public--to the degree consistent with protecting firm-specific 
+
+proprietary information--would have additional benefits.  In the specific context of 
+
+greater transparency in supervisory stress tests, I see at least two. 
+
+First, the release of details about assumptions, methods, and conclusions would 
+
+expose the supervisory approach to greater outside scrutiny and discussion.  Sometimes 
+
+those discussions will help us improve our assumptions or methodology.  At other times 
+
+disclosure might reassure investors about the quality of the tests.  Either way, the public’s 
+
+reaction to our assumptions and methods would be useful.   
+
+Second, because loan portfolios are inherently difficult to value without a great 
+
+deal of detailed information, increased transparency could be an important addition to the 
+
+information available to investors and counterparties of the largest institutions.  If, as I 
+
+believe, progress on the too-big-to-fail problem is integral to an effective reform of 
+
+financial regulation, we must enhance market discipline.  The market discipline made 
+
+possible by such means as special resolution mechanisms and contingent capital will be 
+
+most effective if market participants have adequate information with which to make 
+
+informed judgments about the banks.  
+
+There are, to be sure, countervailing concerns.  In more normal economic times, 
+
+when market participants are not fearing the worst and when banks do not have access to 
+
+government capital injections as a backstop, the revelation that some major banks may 
+
+have capital needs under a stress scenario might be unnecessarily destabilizing.  This 
+
+                                                 
+4 Daniel K. Tarullo (2010), “Equipping Financial Regulators with the Tools Necessary to Monitor Systemic 
+Risk,” statement before the Subcommittee on Security and International Trade and Finance, Committee on 
+Banking, Housing, and Urban Affairs, U.S. Senate, February 12, 
+www.federalreserve.gov/newsevents/testimony/tarullo20100212a.htm. 
+ 
+
+
+- 10 - 
+ 
+
+
+possibility would be increased if market participants attached undue weight to specific 
+
+capital or loss numbers released by the government. 
+
+ In practical terms, there are several ways we might increase transparency.  One, of 
+
+course, would be to follow the SCAP precedent, with periodic release of detailed 
+
+information about the assumptions, methods, and results of a cross-firm, horizontal, 
+
+forward-looking exercise, including firm-specific outcomes.  This approach would 
+
+probably maximize both the potential benefits and potential risks.  Note, however, that 
+
+the possibility of a destabilizing market reaction may be lower if such information is 
+
+released frequently, as major unpleasant surprises would be less likely with frequent, 
+
+detailed disclosures.  Of course, significant changes in the economic environment might 
+
+still lead to unpleasant surprises when the results are released.5   
+
+ A second option would be to provide details about the assumptions and methods 
+
+supervisors employed in the stress tests but withhold public release of results for 
+
+individual banks.  This practice could be coupled with a requirement for more systematic, 
+
+timely, and consistent disclosure by the largest banks of information on material 
+
+firmwide risk positions and exposures, funding and liquidity profiles, operating 
+
+performance, and other measures.  Like the first approach, this option would have the 
+
+benefit of opening supervisors’ methods to discussion.  By increasing the disclosure of 
+
+banks’ risk exposures, this approach would also enhance market discipline, as market 
+
+participants could make their own forward-looking assessments of banks’ conditions.  
+
+However, some benefit would be lost, since the information from individual banks would 
+
+not have been standardized or verified by regulators.  Concomitantly, while the risk of an 
+
+                                                 
+5 In addition, it would be important to assure that the routine release of selected supervisory information did 
+not undermine our ability to maintain the confidentiality of other supervisory information. 
+
+
+- 11 - 
+ 
+
+
+overreaction to the release of information would still exist, there would be no single 
+
+number on which market participants could focus.  
+
+ A third possibility would be to have supervisors release aggregate results of their 
+
+horizontal, forward-looking assessments, along with details about their assumptions and 
+
+methods, without requiring additional disclosure by firms.  This approach could still 
+
+confer considerable benefits by providing information to the public about the overall 
+
+condition of the banking system as well as about supervisory methods.  It has, in fact, 
+
+been applied by Japan’s Financial Services Agency (FSA), which conducted a special 
+
+bank inspection in 2002 and 2003, when Japanese banks were still recovering from a 
+
+crisis.  The FSA publicly released aggregate results showing the differences between the 
+
+banks’ and the FSA’s assessments of loan quality, which showed that the FSA’s 
+
+assessments were more stringent than the banks’.  Many of the major banks subsequently 
+
+increased their loan loss reserves, and the inspections appeared to increase confidence in 
+
+the banking system.  Of course, the informational benefit to market participants could be 
+
+substantially diluted if they are unable to distinguish the conditions of individual firms as 
+
+reflected in the aggregate numbers.   
+
+Conclusion  
+
+ To conclude, you should now have a sense of the degree to which our experience 
+
+with SCAP has informed changes in our supervision of large institutions as part of the 
+
+broader enterprise of regulatory reform.  As to the issue of stress test transparency, I look 
+
+forward to hearing how others assess the merits of the alternative approaches I have 
+
+described and, of course, any new ideas. 
+
+
+

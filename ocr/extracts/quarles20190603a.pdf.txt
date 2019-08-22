@@ -1,0 +1,263 @@
+
+For release on delivery 
+9:10 a.m. EDT 
+June 3, 2019 
+ 
+
+
+The Next Stage in the LIBOR Transition 
+(via prerecorded video) 
+
+
+Remarks by 
+ 
+
+Randal K. Quarles 
+ 
+
+Vice Chair for Supervision 
+ 
+
+Board of Governors of the Federal Reserve System 
+ 
+
+at the 
+ 
+
+Alternative Reference Rates Committee Roundtable, cohosted by 
+the Alternative Reference Rates Committee and 
+
+the New York University Stern School of Business and Its Salomon Center  
+for the Study of Financial Institutions 
+
+ 
+New York, New York 
+
+
+June 3, 2019 
+ 
+
+
+
+Good morning to you all.  I am sorry I cannot be present at the Alternative 
+
+Reference Rates Committee’s (ARRC) fourth roundtable, but I wanted to share these 
+
+remarks with you at what is the start of the next critical stage in the transition away from 
+
+LIBOR.1 
+
+Since 2014, the official sector has publicly warned that LIBOR could become 
+
+unstable.  Not everyone paid attention to those warnings, but the risks that we pointed to 
+
+have materialized.  The U.K. Financial Conduct Authority has intervened to preserve 
+
+LIBOR’s stability only through the end of 2021.  Despite that development, some 
+
+continue to speculate that LIBOR can remain in production indefinitely.  My key 
+
+message to you today is that you should take the warnings seriously.  Clarity on the exact 
+
+timing and nature of the LIBOR stop is still to come, but the regulator of LIBOR has said 
+
+that it is a matter of how LIBOR will end rather than if it will end, and it is hard to see 
+
+how one could be clearer than that.   
+
+The Federal Reserve convened the ARRC based on our concerns about the 
+
+stability of LIBOR.  The ARRC was charged with providing the market with the tools 
+
+that would be needed for a transition from LIBOR:  an alternative rate that did not share 
+
+the same structural instabilities that have led LIBOR to this point, a plan to develop 
+
+liquidity in the derivatives market for this new rate so that cash users could hedge their 
+
+interest rate risk, and models of better contract language that helped limit the risk from a 
+
+LIBOR disruption.  
+
+                                                 
+1 Vice Chair for Supervision Quarles also serves as Chair of the Financial Stability Board.  The remarks 
+represent his own views, which do not necessarily represent those of the Federal Reserve Board or the 
+Federal Open Market Committee. 
+
+
+ - 2 - 
+
+The ARRC has provided these tools.  Now it is up to you to begin using them.  
+
+With only two and a half years of further guaranteed stability for LIBOR, the transition 
+
+should begin happening in earnest.  I believe that the ARRC has chosen the most viable 
+
+path forward and that most will benefit from following it, but regardless of how you 
+
+choose to transition, beginning that transition now would be consistent with prudent risk 
+
+management and the duty that you owe to your shareholders and clients.  
+
+The ARRC’s work began by focusing on creating a derivatives market for the 
+
+Secured Overnight Financing Rate (SOFR), its recommended alternative to U.S. dollar 
+
+LIBOR, because end users require derivatives markets to hedge their cash exposures.  
+
+The CME Group, LCH, and Intercontinental Exchange, or ICE, all now offer futures or 
+
+swaps markets on SOFR, and participation in these markets is growing.  As liquidity in 
+
+these markets continues to develop, my hope is that many of you will avail yourselves of 
+
+them to close out your LIBOR positions.  In the meantime, it will be crucial in ensuring 
+
+global financial stability that everyone participate in the International Swaps and 
+
+Derivatives Association’s (ISDA) consultations on better fallback language for LIBOR 
+
+derivatives and then sign the ISDA protocol so that these fallbacks apply to the legacy 
+
+book of derivatives.  
+
+Likewise, the ARRC has now offered better fallback language for new issuance of 
+
+cash products that refer to LIBOR.  It seems clear that much of the contract language 
+
+being used currently did not envisage and is not designed for a permanent end to LIBOR.  
+
+The ARRC’s fallback recommendations represent a significant body of work on the part 
+
+of a wide set of market participants and set out a robust and well-considered set of steps 
+
+
+ - 3 - 
+
+that expressly consider an end to LIBOR.2  I urge everyone to avail themselves of this 
+
+work; it is, again, important for prudent risk management and your fiduciary 
+
+responsibilities that you incorporate better fallback language.  Issuers should demand it of 
+
+themselves, and investors should demand it of issuers.   
+
+There is, however, also another and easier path, which is simply to stop using 
+
+LIBOR.  At this moment, many seem to take comfort in continuing to use LIBOR—it is 
+
+familiar, and it remains liquid.  But history may not view that decision kindly; after 
+
+LIBOR stops, it may be fairly difficult to explain to those who may ask exactly why it 
+
+made sense to continue using a rate that you had been clearly informed had such 
+
+significant risks attached to it.  And make no mistake—as good as the fallback language 
+
+may be, simply relying on fallback language to transition brings a number of operational 
+
+risks and economic risks.  Firms should be incorporating these factors into their projected 
+
+cost of continuing to use LIBOR, and investors and borrowers should consider them 
+
+when they are offered LIBOR instruments.  If you do consider these factors, then I 
+
+believe you will see that it is in your interest to move away from LIBOR.   
+
+In convening the ARRC, we have set a model of public-private sector cooperation 
+
+to address a key financial stability risk.  Ultimately, the private sector must drive this 
+
+transition—these are private contracts, and each of you must choose how you can best 
+
+address this risk—but the public sector must help.  At a recent roundtable on the LIBOR 
+
+transition held by the Financial Stability Board, we heard calls from the private sector to 
+
+provide greater clarity on regulatory and tax implications of the transition and also calls 
+
+for a more “muscular” regulatory approach.   
+
+                                                 
+2 The ARRC’s recommendations for fallback contract language can be found at 
+https://www.newyorkfed.org/arrc/fallbacks-contract-language. 
+
+
+ - 4 - 
+
+It is incumbent on the official sector to take these requests seriously, and we are.  
+
+For example, the Federal Reserve is working with the Commodity Futures Trading 
+
+Commission and other U.S. prudential regulators to provide greater clarity on the 
+
+treatment of margin requirements for legacy derivatives instruments.  Agency staff are 
+
+developing proposed changes to the margin rules for non-cleared swaps to ensure that 
+
+changes to legacy swaps to incorporate a move away from LIBOR, including adherence 
+
+to the ISDA protocol, would not affect the grandfathered status of those legacy swaps 
+
+under the margin rules.  This has been a key request of the ARRC, and we will look 
+
+forward to public comment on the proposal.   
+
+The Federal Reserve’s supervisory teams have already included a number of 
+
+detailed questions about plans for the transition away from LIBOR in their monitoring 
+
+discussions with large firms.  The Federal Reserve will expect to see an appropriate level 
+
+of preparedness at the banks we supervise, and that level must increase as the end of 2021 
+
+grows closer.  Our supervisory approach will continue to be tailored to the size of 
+
+institution and the complexity of LIBOR exposure, but the largest firms should be 
+
+prepared to see our expectations for them increase.  As we consider the answers we have 
+
+received from these firms, we will assess how our supervisory expectations for them 
+
+should evolve in the coming year.    
+
+Let me address one additional point relating to our supervisory stress tests, in an 
+
+effort to provide further clarity.  Some have recently claimed that the Federal Reserve’s 
+
+supervisory stress tests would penalize a bank that replaces LIBOR with SOFR in loan 
+
+contracts by lowering projections of net interest income under stress.  As can be seen in 
+
+our recently published enhanced descriptions of the supervisory stress-test models, the 
+
+
+ - 5 - 
+
+interest rate variables that drive projections of net interest income under stress are the 
+
+yield on 10-year Treasury bonds, the yield on 3-month Treasury bills, and the 10-year 
+
+triple-B corporate yield.3  That is, the supervisory projections of net interest income are 
+
+primarily based on models that implicitly assume that other rates such as LIBOR or 
+
+SOFR move passively with short-term Treasury rates.  Given these mechanics, choosing 
+
+to lend at SOFR rather than LIBOR will not result in lower projections of net interest 
+
+income under stress in the stress-test calculations of the Federal Reserve. 
+
+I hope I have been able to provide you with some further clarity today.  I am sure 
+
+that the rest of the roundtable will do so as well.  I want to applaud the members of the 
+
+ARRC who are working hard to make sure this threat to financial stability is avoided. 
+
+
+
+                                                 
+3 See Board of Governors of the Federal Reserve System (2019), Dodd-Frank Act Stress Test 2019:  
+Supervisory Stress Test Methodology (Washington:  Board of Governors, March), table 2, p. 23, 
+https://www.federalreserve.gov/publications/files/2019-march-supervisory-stress-test-methodology.pdf. 
+

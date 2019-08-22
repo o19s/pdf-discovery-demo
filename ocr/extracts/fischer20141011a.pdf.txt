@@ -1,0 +1,1255 @@
+
+For release on delivery 
+5:00 p.m. EDT 
+October 11, 2014 
+ 
+
+
+The Federal Reserve and the Global Economy 
+ 
+ 
+ 
+ 
+ 
+
+Stanley Fischer  
+ 
+
+Vice Chairman 
+ 
+
+Board of Governors of the Federal Reserve System 
+ 
+
+to be delivered as the  
+ 
+
+Per Jacobsson Foundation Lecture 
+2014 Annual Meetings of the  
+
+International Monetary Fund and the World Bank Group 
+ 
+
+Washington 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+October 11, 2014 
+ 
+
+
+
+
+It is a great honor to deliver the Per Jacobsson Foundation Lecture, and I thank 
+
+the organizers for inviting me.1  Per Jacobsson, a Swede, was the third Managing 
+
+Director of the International Monetary Fund (IMF), serving from 1956 to 1963.  During 
+
+his tenure, the fund supported the return to convertibility of the major European 
+
+currencies, increased its resources by securing the General Arrangements to Borrow, and 
+
+established the Compensatory Financing Facility to help member countries cope with 
+
+temporary fluctuations in international payments.   
+
+It is a particular pleasure to be delivering this lecture at the IMF.  My service in 
+
+the IMF was a highlight of my professional career.  But I speak now as a central banker, 
+
+one who faces a new set of responsibilities.  My lecture today is on the special challenges 
+
+that face the Federal Reserve and the global economy in an increasingly interconnected 
+
+world.   
+
+Over the past 50 years, global trade has more than tripled relative to world gross 
+
+domestic product (GDP), and the ratio of total exports to global GDP now stands at about 
+
+30 percent.  International trade has not loomed as large in the U.S. national accounts as it 
+
+has for many other countries, but it is an increasingly important driver of the U.S. 
+
+economy, with the share of trade in U.S. GDP currently at about 15 percent.   
+
+Although the U.S. share of world GDP has gradually declined since the mid-20th 
+
+century, the broader importance of the United States to the global economy has 
+
+diminished less, or possibly not at all, as a result of increasing financial linkages over the 
+
+same period.  In particular, U.S. residents’ ownership of foreign assets has risen to nearly 
+
+1 I am grateful to John Ammer, Christopher Erceg, Joseph Gruber, and Beth Anne Wilson of the Federal 
+Reserve Board’s staff for their assistance in preparing this lecture.   
+
+
+
+
+ - 2 - 
+
+$25 trillion (more than 140 percent of annual U.S. GDP), reflecting the leading role of 
+
+U.S. capital markets in cross-border finance.  Total foreign investment in the United 
+
+States is even larger, at more than $30 trillion.  U.S. Treasury securities are a key 
+
+component of these external liabilities:  As the world’s favorite safe asset, they are the 
+
+preferred form of collateral for a range of financial contracts, and they also account for 
+
+more than half of other countries’ foreign reserves. 
+
+In a progressively integrating world economy and financial system, a central bank 
+
+cannot ignore developments beyond its country’s borders, and the Fed is no exception.  
+
+This is true even though the Fed’s statutory objectives are defined as specific goals for 
+
+the U.S. economy.  In particular, the Federal Reserve’s objectives are given by its dual 
+
+mandate to pursue maximum sustainable employment and price stability, and our policy 
+
+decisions are targeted to achieve these dual objectives.2  Hence, at first blush, it may 
+
+seem that there is little need for Fed policymakers to pay attention to developments 
+
+outside the United States.   
+
+But such an inference would be incorrect. The state of the U.S. economy is 
+
+significantly affected by the state of the world economy.  A wide range of foreign shocks 
+
+affect U.S. domestic spending, production, prices, and financial conditions.  To anticipate 
+
+how these shocks affect the U.S. economy, the Federal Reserve devotes significant 
+
+resources to monitoring developments in foreign economies, including emerging market 
+
+economies (EMEs), which account for an increasingly important share of global growth.  
+
+2 The Federal Open Market Committee (FOMC) has judged that 2 percent inflation in the price of personal 
+consumption expenditures is most consistent over the longer run with the Federal Reserve’s statutory 
+mandate.  For more information, see Federal Open Market Committee (2014).  The Fed also has separate 
+responsibilities for promoting financial stability (some of which are spelled out in the Dodd-Frank Wall 
+Street Reform and Consumer Protection Act of 2010) that are, in many respects, complementary to the dual 
+mandate.  See Yellen (2014) for further discussion.   
+
+
+
+
+
+ - 3 - 
+
+The most recent available data show 47 percent of total U.S. exports going to EME 
+
+destinations.  And of course, actions taken by the Federal Reserve influence economic 
+
+conditions abroad.  Because these international effects in turn spill back on the evolution 
+
+of the U.S. economy, we cannot make sensible monetary policy choices without taking 
+
+them into account.  
+
+In this lecture, I would like to emphasize both aspects of our global 
+
+connectedness--spillovers from the United States to foreign economies and the effect of 
+
+foreign economies on the United States.  I will first review the effect of the Fed’s 
+
+monetary policies on the rest of the global economy, particularly the EMEs, which has 
+
+received considerable attention in recent years.  Prior to the spring of 2013, this attention 
+
+was focused on the international spillover of the Fed’s accommodative policies, 
+
+especially our asset purchases.  But beginning last year, the focus has shifted to the 
+
+normalization of our policies, as exemplified by last summer’s “taper tantrum.”3   
+
+Although the effect of the U.S. economy on other countries is of vital importance 
+
+to this audience, I will briefly digress to remind you that developments in other 
+
+economies also can have significant spillovers to the United States, which in turn prompt 
+
+reactions from U.S. policymakers.  For example, in the past few years, the deflationary 
+
+environment in Japan, together with the fallout from the euro-area fiscal crisis, has 
+
+entailed persistent weakness in those economies, which historically have been among our 
+
+most important trading partners, are major recipients of our foreign investments, and 
+
+loom large in the international credit exposures of U.S. banks.  These effects have 
+
+3 See Powell (2013) for an earlier discussion of many of these topics.   
+
+
+
+
+
+ - 4 - 
+
+weighed on global growth, which needs to be taken into account in the setting of U.S. 
+
+monetary policy. 
+
+Returning to spillovers from the United States, in the second part of the lecture, I 
+
+will address prospective outcomes and possible risks associated with the normalization of 
+
+our policies.  In determining the pace at which our monetary accommodation is removed, 
+
+we will, as always, be paying close attention to the path of the rest of the global economy 
+
+and its significant consequences for U.S. economic prospects.  
+
+In the third part, toward the end of the lecture, I will discuss the responsibilities of 
+
+the Fed in the world economy.  Like other national central banks, we must answer first to 
+
+our own citizens and taxpayers.  But, because of our size, developments in the U.S. 
+
+economy will always affect foreign economies.  And, since the U.S. dollar is the most 
+
+widely used currency in the world, our interests in ensuring a well-functioning financial 
+
+system inevitably have an international dimension.  
+
+I. International Transmission of Monetary Policies 
+
+The recognition that a change in interest rates in one nation can spill over to other 
+
+countries dates back at least to the 18th-century writings of David Hume on the 
+
+international effect of changes in the money supply.4  The standard models incorporating 
+
+the international transmission of monetary policy were developed in Per Jacobsson’s 
+
+tenure at the IMF--the pioneering research in the early 1960s by IMF staffer Marcus 
+
+Fleming and Robert Mundell, which extended standard macroeconomic models to the 
+
+analysis of an open international economy--work that we know now as the Mundell-
+
+Fleming model.   
+
+4 See Hume (1742).   
+
+
+
+
+
+ - 5 - 
+
+In the Mundell-Fleming framework, as well as in modern developments of the 
+
+same theme, a shift toward a more accommodative monetary policy in the United States 
+
+spills over to foreign economies by causing their interest rates to fall--though typically by 
+
+less than in the United States--and their currencies to appreciate against the dollar.  At the 
+
+same time, international capital flows tend to shift toward foreign economies in response 
+
+to their relatively more attractive interest rates.   
+
+The pass-through of changes in U.S. policy rates abroad depends importantly on 
+
+how foreign monetary authorities respond.  A decline in U.S. policy rates has a relatively 
+
+large effect on foreign policy rates in economies that opt to limit exchange rate 
+
+fluctuations, at least for economies with reasonably open capital accounts.  Thus, for 
+
+example, a fall in U.S. policy rates has a commensurate effect on interest rates in Hong 
+
+Kong.  By contrast, the central bank in an economy with a freely floating exchange rate 
+
+might choose to lower its interest rate by a much smaller amount than in the United States 
+
+if it believes that domestic conditions so warrant.  In this case, the country’s exchange 
+
+rate would appreciate as investors rebalance their portfolios in favor of assets 
+
+denominated in its currency in response to the higher interest rate differential.5   
+
+Moving beyond the Mundell-Fleming framework, there is also evidence that 
+
+monetary policy actions can influence investors’ willingness to hold risky assets, the so-
+
+called risk-taking channel.6  Such effects seem to be most potent when financial 
+
+5 See Mundell (1963) and Fleming (1962).  One key implication of the Mundell-Fleming framework is that 
+a central bank can exercise full control over both the exchange rate and the domestic interest rate only 
+when there are significant barriers to the international capital mobility.  Accordingly, policymakers face the 
+constraint of the “impossible trinity,” which states that a country cannot simultaneously have an 
+independent monetary policy, free capital movement, and a fixed exchange .  
+6  Several recent papers discuss risk-taking channels through which monetary policy influences financial 
+conditions more broadly than the level of safe interest rates.  See Borio and Zhu (2012), Rey (2013), Morris 
+
+
+
+
+
+ - 6 - 
+
+conditions are stressed.  And countries that offer high prospective returns but have weak 
+
+policy frameworks or other structural vulnerabilities may be particularly sensitive to 
+
+fluctuations in international investment associated with global risk factors.7   
+
+International spillovers from monetary policy have been a contentious issue going 
+
+back at least to the 1920s.  To facilitate the United Kingdom’s return to the gold standard 
+
+at its pre-war parity in 1925, which valued the pound above purchasing power parity, the 
+
+Fed cut interest rates substantially.  Britain’s subsequent departure from gold created 
+
+further challenges for the Federal Reserve; tight U.S. money policy in the wake of the 
+
+exit of the sterling bloc from gold in the fall of 1931 helped keep the United States on 
+
+gold until 1933 but exacted high economic costs on the United States and other countries 
+
+remaining on gold.8  During the Bretton Woods period, overly expansionary U.S. 
+
+monetary policy starting in the second half of the 1960s was exported to trading partners 
+
+through the system of fixed exchange rates.  More than a decade later, the Fed’s 
+
+aggressive tightening under newly appointed Chairman Paul Volcker had unwelcome 
+
+contractionary effects on other economies.  However, the Fed’s success in achieving a 
+
+permanent reduction in inflation through tight monetary policy bolstered the credibility of 
+
+policies focused on achieving low and stable inflation, and many other countries 
+
+followed.   
+
+and Shin (2014), Bruno and Shin (forthcoming), and the Hanson and Stein (forthcoming) “reaching for 
+yield” concept.   
+7  Studies using panel data typically have found that country-specific factors help explain cross-sectional 
+differences in international investment and capital flows.  See, for example, Furceri, Guichard, and 
+Rusticelli (2011); Fratzscher (2012); and Luca and Spatafora (2012).  Avdjiev and Takáts’s (2014) study of 
+cross-border bank lending during the taper tantrum shows a larger pullback for countries with weaker 
+current account balances, and Sahay and others (2014) find that country-specific market reactions during 
+this period also were affected by high inflation, weak growth prospects, and relatively low reserves.  
+8 See Eichengreen (2013).  
+
+
+
+
+
+ - 7 - 
+
+Turning to more recent events, I’ll next assess the effects of the Fed’s quantitative 
+
+easing and other unconventional monetary policies pursued by central banks in advanced 
+
+economies since 2008.   
+
+Effects of Monetary Accommodation since the Global Financial Crisis 
+
+During the period of extensive monetary accommodation after the 2007-08 global 
+
+financial crisis, there has been heightened concern about the international spillovers of 
+
+monetary policies--and of ours, in particular.  Some EME critics argued that U.S. policy 
+
+accommodation contributed to a surge of capital inflows and excessive credit growth in 
+
+their economies, creating risks of financial instability.  But, as time wore on, most EMEs 
+
+seemed glad to receive those flows.   
+
+There is little doubt that the aggressive actions the Federal Reserve took to 
+
+mitigate the effects of the global financial crisis significantly affected asset prices at 
+
+home and abroad as well as international capital flows.  While the Fed’s asset purchases 
+
+were composed wholly of Treasury, agency, and agency-backed securities (for legal and 
+
+practical reasons), the program also aimed to boost the prices of riskier assets and ease 
+
+financial conditions for the private sector.9  (And this is what the textbooks say the 
+
+program should have done.)  The preponderance of evidence suggests that the Fed’s asset 
+
+purchases raised the prices of the assets purchased and close substitutes as well as those 
+
+of riskier assets.10   
+
+9  See, for example, Bernanke (2010a, 2010b).  
+10  See, for example, D’Amico and King (2013); Gagnon, Raskin, Remache, and Sack (2011); Hamilton 
+and Wu (2012); and Rogers, Scotti, and Wright (2014).   
+
+
+
+
+
+ - 8 - 
+
+Importantly, evidence--including the evidence of our eyes--shows that foreign 
+
+asset markets have been significantly affected by the Fed’s purchase programs.11  For 
+
+example, event studies of announcements associated with the Fed’s purchase programs 
+
+have found that they prompted inflows into investment funds holding both foreign debt 
+
+and foreign equity securities.  For asset prices, the strongest evidence came in the form of 
+
+reduced foreign bond yields, but valuations of foreign currencies and stock prices also 
+
+increased appreciably in some cases.  The largest market reactions occurred after 
+
+announcements in late 2008 and early 2009 associated with the initial program of 
+
+quantitative easing, commonly referred to as QE1, likely at least in part because global 
+
+financial conditions were extremely stressed at that time, but also perhaps because QE1 
+
+demonstrated that it was still possible to ease policy, even when the federal funds rate 
+
+was constrained by its effective lower bound.12   
+
+Although much of the recent commentary on spillovers has focused on the United 
+
+States, it bears mentioning that other countries’ monetary policy announcements can 
+
+leave an imprint on international asset prices, with market reactions to new initiatives 
+
+announced by the European Central Bank (ECB) in the past few weeks the most recent 
+
+example.13  However, event studies tend to find larger international interest rate 
+
+spillovers for U.S. policy announcements than for those of other central banks.14   
+
+11  See Neely (2011); Fratscher, Lo Duca, and Straub (2013); Rogers, Scotti, and Wright (2014); and 
+Bowman, Londono, and Sapriza (2014).  Also, Ahmed and Zlate (forthcoming) show that both 
+conventional and nonconventional U.S. monetary expansion have driven capital flows into EMEs.  
+12 See Neely (2011); Fratscher, Lo Duca, and Straub (2013); Rogers, Scotti, and Wright (2014); and 
+Bowman, Londono, and Sapriza (2014).   
+13 See Rogers, Scotti, and Wright (2014) and Chen, Filardo, He, and Zhu (2012) for more systematic 
+evidence.   
+14  See, for example, Rogers, Scotti, and Wright’s (2014) recent event study of central bank announcement 
+effects on sovereign yields in different countries.  Similarly, earlier work by Ehrmann and Fratzscher 
+(2005) finds larger reactions in euro-area interest rates to U.S. rate changes than vice versa.   
+
+
+
+
+
+ - 9 - 
+
+It is also worth emphasizing that asset purchases are merely one form of monetary 
+
+accommodation, made necessary when policy interest rates hit their zero lower bound.  
+
+Earlier studies of the international effects of conventional U.S. monetary policy--namely, 
+
+changes in the policy rate--have also found significant spillovers to asset prices in other 
+
+countries.15  Studies that have compared the spillovers of monetary policy across 
+
+conventional and unconventional measures generally conclude that the effects on global 
+
+financial markets are roughly similar.16  
+
+Given the relatively fast recovery of many EMEs from the crisis, post-crisis 
+
+monetary accommodation in the United States and other advanced economies created 
+
+policy challenges for many EMEs.17  If they resisted currency appreciation pressures by 
+
+lowering their policy rates, they risked over stimulating domestic demand, exacerbating 
+
+financial excesses, and overheating their economies.  If, instead, they reduced their policy 
+
+rates less than the US had done while intervening to resist currency appreciation, capital 
+
+inflows could have increased further, thus partially offsetting their attempts to stabilize 
+
+their economies.  And, if they allowed currency appreciation pressures to pass through to 
+
+their full extent, this could threaten their recoveries by hurting exports.  In the event, 
+
+EMEs tried to make the best of a difficult set of tradeoffs by allowing some exchange rate 
+
+15  See, for example, Ehrmann and Fratzscher (2009) and Hausman and Wongswan (2011).   
+16  Among studies of spillovers from conventional versus unconventional U.S. monetary policy, Rogers, 
+Scotti, and Wright (2014) report no significant differences in relative announcement effects on advanced 
+foreign economy asset prices and Treasury yields; Bowman, Londono, and Sapriza (2014) find similar 
+EME asset price responses; Takáts and Vela (2014) report mixed results for EMEs, with a weaker post-
+2007 relationship in levels of EME policy rates with U.S. rates but a stronger post-2008 relationship in 
+levels of five-year yields; and Glick and Leduc (2013) also report similar spillovers to exchange rates.  The 
+effects of the Bank of England’s quantitative easing program on corporate bond yields and sterling 
+exchange rates are similar to predictions from a model estimated over an earlier period by Joyce, Lasaosa, 
+Stevens, and Tong (2011).  
+17  See the discussion in Bernanke (2012).   
+
+
+
+
+
+ - 10 - 
+
+appreciation, partially reducing their interest rates, and in some countries also using 
+
+capital controls.   
+
+Along with the boost from U.S. monetary policy during this period, many other 
+
+factors contributed to the easing of global financial conditions between 2009 and 2012, 
+
+including macroeconomic policy in a number of other countries and other measures that 
+
+supported stabilization of the global financial system.  EME sovereign yields declined by 
+
+more during that period than can be explained by movements in U.S. Treasury yields 
+
+alone, and there was a worldwide recovery in markets for riskier assets.18   
+
+I would also argue strongly that U.S. monetary policies were not beggar thy 
+
+neighbor policies in that, on balance, they generally did not drain demand from other 
+
+economies.  Federal Reserve staff analysis finds that an easing of monetary policy in the 
+
+United States benefits foreign economies from both stronger U.S. activity and improved 
+
+global financial conditions.  It also has an offsetting contractionary effect on foreign 
+
+economies because their currencies appreciate against the dollar.  But, on average, 
+
+model-based estimates imply that the net effect on foreign economies appears to be both 
+
+modest in magnitude and most likely positive, on net, for most countries.19  Moreover, 
+
+because these models do not fully capture benefits from the role of Federal Reserve 
+
+policies in alleviating the financial market stress and boosting confidence, positive 
+
+spillovers abroad are likely to be somewhat larger than implied by the models, especially 
+
+under conditions of extreme financial market stress.   
+
+18 See Bowman, Londono, and Sapriza (2014).  And, over a longer sample, Ahmed and Zlate (forthcoming) 
+show that capital flows to EMEs are affected by factors other than relative interest rates, including relative 
+growth prospects and global risk sentiment.  
+19 Simulations of the Federal Reserve Board's econometric models of the global economy suggest that the 
+effects are roughly offsetting, so that accommodative monetary policies in the advanced economies do not 
+appear, on net, to have adverse consequences for output and exports in the emerging market economies. 
+Similar results are obtained model analysis presented in International Monetary Fund (2013).   
+
+
+
+
+
+ - 11 - 
+
+The taper tantrum of 2013 
+
+We should also expect spillovers when monetary policy is tightened.  Central 
+
+bank communications can be a tricky business, but it has long been understood that 
+
+shifting perceptions of policy can have an immediate effect on market prices and 
+
+investors’ portfolio decisions.  Indeed, financial markets reacted strongly to the first 
+
+statements by Chairman Bernanke in the spring of 2013 that the Fed’s asset purchases 
+
+were likely to decelerate in the near future and come to an end not long after that.  Some 
+
+market participants clearly understood these statements to be broadly in line with 
+
+previous guidance about the eventual normalization of policy as recovery of the U.S. 
+
+economy took hold.  But others may have grown accustomed to continuing asset 
+
+purchases; the most recent purchase program, QE3, had been first announced less than a 
+
+year before and was proceeding at a steady pace of $85 billion per month.   
+
+The onset of the taper tantrum went well beyond a roiling of U.S. financial 
+
+markets.  Spillovers to other advanced-economy financial markets included stock price 
+
+declines, significant increases in sovereign yields, higher overnight interest swap rates in 
+
+the United Kingdom and euro area, and rising credit spreads in some countries.  The ECB 
+
+and Bank of England responded by using so-called forward guidance to push short-term 
+
+yields back down in an effort to foster recovery.20  Spillovers to EME asset markets were 
+
+significantly stronger.  Inflows to EME investment funds reversed sharply, EME 
+
+currencies depreciated, and other asset prices declined.21  
+
+20 See Draghi and Constâncio (2013) and Bank of England (2013).  The success of forward guidance, of 
+course, depends crucially on the ability of policymakers to make informative statements about their 
+intentions without a formal commitment device.   
+21 Powell (2013) notes that EMEs with larger current account deficits experienced both greater 
+depreciations of their currencies and larger increases in their bond yields in mid-2013, suggesting that, 
+while a reassessment of U.S. monetary policy may have triggered the retrenchment from EME assets, 
+investor concerns about underlying vulnerabilities appear to have amplified the reactions.   
+
+
+
+
+
+ - 12 - 
+
+II. Normalization of Monetary Policies 
+
+The cumulative effects over half of a decade of the extraordinary actions by the 
+
+Federal Reserve and other central banks will need to be unwound in the coming years, as 
+
+progress toward economic recovery makes it necessary to withdraw our substantial 
+
+monetary accommodation.  In the normalizing of its policy, just as when loosening 
+
+policy, the Federal Reserve will take account of how its actions affect the global 
+
+economy.   
+
+The taper tantrum episode notwithstanding, most EMEs have generally weathered 
+
+the wind-down of our asset purchases reasonably well so far.  The actual raising of policy 
+
+rates could trigger further bouts of volatility, but my best estimate is that the 
+
+normalization of our policy should prove manageable for the EMEs.  We have done 
+
+everything we can, within the limits of forecast uncertainty, to prepare market 
+
+participants for what lies ahead.   
+
+Some critics of our policies have argued that, by continuing for so long with 
+
+quantitative easing, the United States fueled a global boom in asset prices and credit 
+
+growth that could provide the seeds of the next financial crisis, with the removal of 
+
+monetary accommodation serving as an eventual trigger.   
+
+But I am much more hopeful.  First, the Federal Reserve and other central banks 
+
+are going to great lengths to communicate policy intentions and strategies clearly.  Given 
+
+this, markets should not be greatly surprised by either the timing or the pace of 
+
+normalization.  In fact, it bears mentioning that, following the taper tantrum, when the 
+
+Fed started to taper its purchases, there was little reaction from markets.   
+
+
+
+
+ - 13 - 
+
+Second, the tightening of U.S. policy will begin only when the U.S. expansion has 
+
+advanced far enough, in terms both of reducing the output gap and of moving the 
+
+inflation rate closer to our 2 percent goal.  Thus, tightening should occur only against the 
+
+backdrop of a strengthening U.S. economy and in an environment of improved household 
+
+and business confidence.  The stronger U.S. economy should directly benefit our foreign 
+
+trading partners by raising the demand for their exports, and perhaps also indirectly, by 
+
+boosting confidence globally.  And if foreign growth is weaker than anticipated, the 
+
+consequences for the U.S. economy could lead the Fed to remove accommodation more 
+
+slowly than otherwise.   
+
+Third, the EMEs themselves have generally done a good job of reducing their 
+
+financial and economic vulnerabilities over the past couple of decades, which should 
+
+bolster their resilience should normalization lead to financial market stresses.  Since the 
+
+1990s, many EMEs have made remarkable progress on reducing inflation, improving 
+
+government debt ratios, building foreign reserves, and better regulating and capitalizing 
+
+their banking systems.  In addition, the development of local-currency debt markets has 
+
+made EMEs less vulnerable to exchange rate fluctuations.  To be sure, some EMEs 
+
+continue to face a wide array of structural and policy challenges, including, prominently, 
+
+rapid credit growth.  But it does not seem that the overall risks to global financial stability 
+
+are unusually elevated at this time, and they are very likely substantially less than they 
+
+were going into the financial crisis.   
+
+Nevertheless, it could be that some more vulnerable economies, including those 
+
+that pursue overly rigid exchange rate policies, may find the road to normalization 
+
+somewhat bumpier.  This gives all the more reason for the Fed and other major central 
+
+
+
+
+ - 14 - 
+
+banks to communicate policy intentions clearly and for EMEs to continue to strengthen 
+
+their policy frameworks and to consider their own policy responses to the forthcoming 
+
+normalization in the United States and some other advanced economies.   
+
+III. The Fed’s Responsibility to the Global Economy 
+
+So far, I have focused on the immediate spillovers of U.S. monetary policy abroad 
+
+and the feedback of those effects to the U.S. economy.  More tacitly than explicitly stated 
+
+has been my view that the United States is not just any economy and, thus, the Federal 
+
+Reserve not just any central bank.  The U.S. economy represents nearly one-fourth of the 
+
+global economy measured at market rates and a similar share of gross capital flows.  The 
+
+significant size and international linkages of the U.S. economy mean that economic and 
+
+financial developments in the United States have global spillovers--something that the 
+
+IMF is well aware of and has reflected in its increased focus on multilateral surveillance.  
+
+In this context and in this venue, it is, therefore, important to ask, what is the Federal 
+
+Reserve’s responsibility to the global economy?   
+
+First and foremost, it is to keep our own house in order.  Economic and financial 
+
+volatility in any country can have negative consequences for the world--no audience 
+
+knows that more than this one--but sizable and significant spillovers are almost assured 
+
+from an economy that is large.  There is no question that sharp declines in U.S. output or 
+
+large deviations of U.S. inflation from its target level would have adverse effects on the 
+
+global economy.  Conversely, strong and stable U.S. growth in the context of inflation 
+
+close to our policy objective has substantial benefits for the world.  Thus, as part of our 
+
+efforts to achieve our congressionally mandated objective of maximum sustainable 
+
+employment and price stability, the Federal Reserve will also seek to minimize adverse 
+
+
+
+
+ - 15 - 
+
+spillovers and maximize the beneficial effect of the U.S. economy on the global 
+
+economy.   
+
+As the recent financial crisis showed all too clearly, to achieve this objective, we 
+
+must take financial stability into account.  For half a decade, we have been working to 
+
+understand and better guard against the financial disruptions that were the genesis of the 
+
+Great Recession.  These efforts have spawned many speeches, including some of my 
+
+own, which testify to our efforts.22  In these speeches, we often emphasize that, given the 
+
+integration of global capital markets, what happens in one market affects others.  Thus, 
+
+our efforts to stabilize the U.S. financial system also have positive spillovers abroad.   
+
+These financial stability responsibilities do not stop at our borders, given the size 
+
+and openness of our capital markets and the unique position of the U.S. dollar as the 
+
+world’s leading currency for financial transactions.  For example, the global financial 
+
+crisis highlighted the extent of borrowing and lending in U.S. dollars by foreign financial 
+
+institutions.  When these institutions came under pressure, their actions contributed to the 
+
+strains in both foreign and domestic dollar funding markets.  To achieve financial 
+
+stability domestically and maintain the flow of credit to American households and 
+
+businesses, we took action.  Importantly, we developed swap facilities with central banks 
+
+in countries that represented major financial markets or trading centers in order to 
+
+facilitate the provision of dollar liquidity to these markets.   
+
+22 Bernanke (2014), Fischer (2014), and Tarullo (2014) also discuss concrete steps that U.S. authorities 
+have taken in the past five years to implement financial reform of large financial institutions (including 
+introducing a systematic framework for stress-testing, stronger capital and liquidity requirements, and 
+progress on resolution mechanisms for failed institutions), of financial market infrastructures, and in short-
+term funding markets.   
+
+
+
+
+
+ - 16 - 
+
+We did so in recognition of the scope of dollar markets and dollar-denominated 
+
+transactions outside of our country, the benefits they provide to U.S. households and 
+
+firms, and the adverse consequences to our financial markets if these centers lose access 
+
+to dollar liquidity.  We have continued to maintain swap facilities with a number of 
+
+central banks.  Although usage is currently very low, these facilities represent an 
+
+important backstop in the event of a resurgence in global financial tensions.   
+
+But I should caution that the responsibility of the Fed is not unbounded.  My 
+
+teacher Charles Kindleberger argued that stability of the international financial system 
+
+could best be supported by the leadership of a financial hegemon or a global central 
+
+bank.23  But I should be clear that the U.S. Federal Reserve System is not that bank.  Our 
+
+mandate, like that of virtually all central banks, focuses on domestic objectives.  As I 
+
+have described, to meet those domestic objectives, we must recognize the effect of our 
+
+actions abroad, and, by meeting those domestic objectives, we best minimize the negative 
+
+spillovers we have to the global economy.  And because the dollar features so 
+
+prominently in international transactions, we must be mindful that our markets extend 
+
+beyond our borders and take precautions, as we have done before, to provide liquidity 
+
+when necessary.   
+
+That said, as will be discussed in many venues this weekend and beyond, the 
+
+world is not without resources to guard against adverse economic and financial 
+
+spillovers.  Most obviously, the IMF has played and will continue to play a critical role in 
+
+providing liquidity and financial support to member countries.  To that end, I hope that 
+
+the 2010 agreement to increase IMF quotas will be fulfilled.   
+
+23 See Kindleberger (1986).   
+
+
+
+
+
+ - 17 - 
+
+In this regard, we also should be realistic about what a backstop is.  Any global 
+
+backstop or liquidity facility should have certain features--accountability and monitoring, 
+
+some degree of stigma in good times, and a high hurdle for usage.  In other words, 
+
+backstops are not built to be liked.  In the United States, we are working to ensure that 
+
+our financial institutions and other market participants are prepared for the normalization 
+
+of monetary policy and the return to a world of higher interest rates.  It is equally 
+
+important that individuals, businesses, and institutions around the world do the same.  For 
+
+our part, the Federal Reserve will promote a smooth transition by communicating our 
+
+assessment of the economy and our policy intentions as clearly as possible.  
+
+IV.  Concluding Remarks  
+
+To summarize and conclude, the Fed’s statutory objectives are defined by its dual 
+
+mandate to pursue maximum sustainable employment and price stability in the U.S. 
+
+economy.  But the U.S. economy and the economies of the rest of the world have 
+
+important feedback effects on each other.  To make coherent policy choices, we have to 
+
+take these feedback effects into account.  The most important contribution that U.S. 
+
+policymakers can make to the health of the world economy is to keep our own house in 
+
+order--and the same goes for all countries.  Because the dollar is the primary international 
+
+currency, we have, in the past, had to take action--particularly in times of global 
+
+economic crisis--to maintain order in international capital markets, such as the central 
+
+bank liquidity swap lines extended during the global financial crisis.  In that case, we 
+
+were acting in accordance with our dual mandate, in the interest of the U.S. economy, by 
+
+taking actions that also benefit the world economy.  Going forward, we will continue to 
+
+be guided by those same principles.  
+
+
+
+
+ - 18 - 
+
+References 
+ 
+Ahmed, Shaghil, and Andrei Zlate (forthcoming).  “Capital Flows to Emerging Market 
+
+Economies:  A Brave New World?”  Journal of International Money and 
+
+Finance.  
+
+Avdjiev, Stefan, and Előd Takáts (2014).  “Cross-Border Bank Lending during the Taper 
+
+Tantrum:  The Role of Emerging Market Fundamentals,” BIS Quarterly Review, 
+
+September, pp. 49-60, www.bis.org/publ/qtrpdf/r_qt1409g.pdf.  
+
+Bank of England (2013).  Inflation Report.  London:  BOE, August, 
+
+www.bankofengland.co.uk/publications/Documents/inflationreport/2013/ir13aug.
+
+pdf.  
+
+Bernanke, Ben S. (2010a).  “The Economic Outlook and Monetary Policy,” speech 
+
+delivered at the Federal Reserve Bank of Kansas City Economic Symposium, 
+
+Jackson Hole, August 27, 
+
+www.federalreserve.gov/newsevents/speech/bernanke20100827a.htm. 
+
+——— (2010b).  “Semiannual Monetary Policy Report to the Congress,” statement 
+
+before the Committee on Banking, Housing, and Urban Affairs, U.S. Senate, 
+
+Washington, July 21, 
+
+www.federalreserve.gov/newsevents/testimony/bernanke20100721a.htm.  
+
+——— (2012).  “U.S. Monetary Policy and International Implications,” speech delivered 
+
+at “Challenges of the Global Financial System:  Risks and Governance under 
+
+Evolving Globalization,” a seminar sponsored by the Bank of Japan and the 
+
+International Monetary Fund, Tokyo, Japan, October 14, 
+
+www.federalreserve.gov/newsevents/speech/bernanke20121014a.htm. 
+
+
+
+
+ - 19 - 
+
+——— (2014).  “The Federal Reserve:  Looking Back, Looking Forward,” speech 
+
+delivered at the Annual Meeting of the American Economic Association, 
+
+Philadelphia, January 3, 
+
+www.federalreserve.gov/newsevents/speech/bernanke20140103a.htm.   
+
+Borio, Claudio, and Haibin Zhu (2012).  “Capital Regulation, Risk-Taking and Monetary 
+
+Policy:  A Missing Link in the Transmission Mechanism?” Journal of Financial 
+
+Stability, vol. 8 (December), pp. 236-51.  
+
+Bowman, David, Juan M. Londono, and Horacio Sapriza (2014).  “U.S. Unconventional 
+
+Monetary Policy and Transmission to Emerging Market Economies,” 
+
+International Finance Discussion Papers 1109.  Washington:  Board of Governors 
+
+of the Federal Reserve System, June, 
+
+www.federalreserve.gov/pubs/ifdp/2014/1109/ifdp1109.pdf. 
+
+Bruno, Valentina, and Hyun Song Shin (forthcoming).  “Cross-Border Banking and 
+
+Global Liquidity,” Review of Economic Studies.  
+
+Chen, Qianying, Andrew Filardo, Dong He, and Feng Zhu (2012).  “International 
+
+Spillovers of Central Bank Balance Sheet Policies,” BIS Papers Series 66p.  
+
+Basel, Switzerland:  Bank for International Settlements, October, 
+
+www.bis.org/publ/bppdf/bispap66p.pdf. 
+
+D’Amico, Stefania, and Thomas B. King (2013).  “Flow and Stock Effects of Large-
+
+Scale Treasury Purchases:  Evidence on the Importance of Local Supply,” Journal 
+
+of Financial Economics, vol. 108 (May), pp. 425-48. 
+
+Draghi, Mario, and Vitor Constâncio (2013).  “Introductory Statement to the Press 
+
+Conference (with Q&A),” speech delivered at the European Central Bank, 
+
+
+
+
+ - 20 - 
+
+Frankfurt, July 4, 
+
+www.ecb.europa.eu/press/pressconf/2014/html/is140703.en.html. 
+
+Ehrmann, Michael, and Marcel Fratzscher (2005).  “Equal Size, Equal Role?  Interest 
+
+Rate Interdependence between the Euro Area and the United States,” Economic 
+
+Journal, vol. 115 (October), pp. 930-50. 
+
+——— (2009).  “Global Financial Transmission of Monetary Policy Shocks,” Oxford 
+
+Bulletin of Economics and Statistics, vol. 71 (December), pp. 739-59. 
+
+Eichengreen, Barry (2013).  “Does the Federal Reserve Care about the Rest of the 
+
+World?”  Journal of Economic Perspectives, vol. 27 (Fall), pp. 87-104. 
+
+Federal Open Market Committee (2014).  Statement on Longer-Run Goals and Monetary 
+
+Policy Strategy.  Washington:  Board of Governors of the Federal Reserve 
+
+System, January 28, 
+
+www.federalreserve.gov/monetarypolicy/files/FOMC_LongerRunGoals.pdf.  
+
+Fischer, Stanley (2014).  “Financial Sector Reform:  How Far Are We?” speech delivered 
+
+at the Martin Feldstein Lecture at the National Bureau of Economic Research, 
+
+Cambridge, Mass., July 10, 
+
+www.federalreserve.gov/newsevents/speech/fischer20140710a.htm.   
+
+Fleming, J. Marcus (1962).  “Domestic Financial Policies under Fixed and under Floating 
+
+Exchange Rates,” International Monetary Fund Staff Papers, vol. 9 (November), 
+
+pp. 369-80.  
+
+Fratzscher, Marcel (2012).  “Capital Flows, Push versus Pull Factors and the Global 
+
+Financial Crisis,” Journal of International Economics, vol. 88 (November), pp. 
+
+341-56. 
+
+
+
+
+ - 21 - 
+
+Fratzscher, Marcel, Marco Lo Duca, and Roland Straub (2013).  “On the International 
+
+Spillovers of U.S. Quantitative Easing,” Working Paper Series 1557.  Frankfurt:  
+
+European Central Bank, June, 
+
+www.ecb.europa.eu/pub/pdf/scpwps/ecbwp1557.pdf.  
+
+Furceri, Davide, Stephanie Guichard, and Elena Rusticelli (2011).  “Medium-Term 
+
+Determinants of International Investment Positions:  The Role of Structural 
+
+Policies,” OECD Economics Department Working Paper Series 863.  Paris:  
+
+Organization for Economic Co-operation and Development, May, www.oecd-
+
+ilibrary.org/economics/medium-term-determinants-of-international-investment-
+
+positions_5kgc9kzsm19x-en?crawler=true. 
+
+Gagnon, Joseph, Matthew Raskin, Julie Remache, and Brian Sack (2011).  “Large-Scale 
+
+Asset Purchases by the Federal Reserve:  Did They Work?”  Federal Reserve 
+
+Bank of New York, Economic Policy Review, vol. 17 (May), pp. 41-59, 
+
+www.newyorkfed.org/research/epr/11v17n1/1105gagn.pdf. 
+
+Glick, Reuven, and Sylvain Leduc (2013).  “The Effects of Unconventional and 
+
+Conventional U.S. Monetary Policy on the Dollar,” Working Paper Series 2013-
+
+11.  San Francisco:  Federal Reserve Bank of San Francisco, May, 
+
+www.frbsf.org/economic-research/files/wp2013-11.pdf. 
+
+Hamilton, James D., and Jing Cynthia Wu (2012).  “The Effectiveness of Alternative 
+
+Monetary Policy Tools in a Zero Lower Bound Environment,” Journal of Money, 
+
+Credit and Banking, vol. 44 (February), pp. 3-46. 
+
+Hanson, Samuel, and Jeremy Stein (forthcoming).  “Monetary Policy and Long-Term 
+
+Real Rates,” Journal of Financial Economics.  
+
+
+
+
+ - 22 - 
+
+Hausman, Joshua, and Jon Wongswan (2011).  “Global Asset Prices and FOMC 
+
+Announcements,” Journal of International Money and Finance, vol. 30 (April), 
+
+pp. 547-71.  
+
+Hume, David (1742).  “Of Interest,” Political Discourses, essay IV, in Eugene F. Miller, 
+
+ed., Essays, Moral, Political, and Literary.  Indianapolis:  Liberty Fund, Inc. 
+
+(1987), www.econlib.org/library/LFBooks/Hume/hmMPL27.html. 
+
+International Monetary Fund (2013).  IMF Multilateral Policy Issues Report:  2013 
+
+Spillover Report.  Washington:  IMF, August, 
+
+www.imf.org/external/np/pp/eng/2013/070213.pdf.   
+
+Joyce, Michael A.S., Ana Lasaosa, Ibrahim Stevens, and Matthew Tong (2011).  “The 
+
+Financial Market Impact of Quantitative Easing in the United Kingdom,” 
+
+International Journal of Central Banking, vol. 7 (September), pp. 113-61.  
+
+Kindleberger, Charles P. (1986).  The World in Depression, 1929-1939.  Berkeley, Calif.:  
+
+University of California Press.  
+
+Luca, Oana, and Nikola Spatafora (2012).  “Capital Inflows, Financial Development, and 
+
+Domestic Investment:  Determinants and Inter-Relationships,” IMF Working 
+
+Paper Series WP/12/120.  Washington:  International Monetary Fund, May, 
+
+www.imf.org/external/pubs/ft/wp/2012/wp12120.pdf. 
+
+Morris, Stephen, and Hyun Song Shin (2014).  “Risk-Taking Channel of Monetary 
+
+Policy:  A Global Game Approach,” working paper, Princeton University, 
+
+January, www.princeton.edu/~hsshin/www/risk_taking_channel_lbh.pdf.   
+
+
+
+
+ - 23 - 
+
+Mundell, Robert A. (1963).  “Capital Mobility and Stabilization Policy under Fixed and 
+
+Flexible Exchange Rates,” Canadian Journal of Economic and Political Science, 
+
+vol. 29 (November), pp. 475-85.  
+
+Neely, Christopher J. (2011).  “The Large-Scale Asset Purchases Had Large International 
+
+Effects,” Working Paper Series 2010-018C.  St. Louis:  Federal Reserve Bank of 
+
+St. Louis, January, www.finance.eller.arizona.edu/documents/seminars/2010-
+
+11/CNeely.Asset%20Purchases04-11.pdf. 
+
+Powell, Jerome H. (2013).  “Advanced Economy Monetary Policy and Emerging Market 
+
+Economies,” speech delivered at the Federal Reserve Bank of San Francisco 2013 
+
+Asia Economic Policy Conference, San Francisco, November 4, 
+
+www.federalreserve.gov/newsevents/speech/powell20131104a.htm.   
+
+Rey, Hélène (2013).  “Dilemma Not Trilemma:  The Global Financial Cycle and 
+
+Monetary Policy Independence,” paper presented at “Global Dimensions of 
+
+Unconventional Monetary Policy,” a symposium sponsored by the Federal 
+
+Reserve Bank of Kansas City, held in Jackson Hole, Wyo., August 22-24, 
+
+www.kc.frb.org/publicat/sympos/2013/2013Rey.pdf. 
+
+Rogers, John H., Chiara Scotti, and Jonathan H. Wright (2014).  “Evaluating Asset-
+
+Market Effects of Unconventional Monetary Policy:  A Cross-Country 
+
+Comparison,” International Finance Discussion Papers 1101.  Washington:  Board 
+
+of Governors of the Federal Reserve System, March, 
+
+www.federalreserve.gov/pubs/ifdp/2014/1101/ifdp1101.pdf. 
+
+Sahay, Ratna, Vivek Arora, Thanos Arvanitis, Hamid Faruqee, Papa N’Diaye, Tommaso 
+
+Mancini-Griffoli, and an IMF Team. (2014). “Emerging Market Volatility:  
+
+
+
+
+ - 24 - 
+
+Lessons from the Taper Tantrum,” IMF Staff Discussion Note SDN/14/09.  
+
+Washington:  International Monetary Fund, September, 
+
+www.imf.org/external/pubs/ft/sdn/2014/sdn1409.pdf.   
+
+Takáts, Előd, and Abraham Vela (2014).  “International Monetary Policy Transmission,” 
+
+BIS Papers Series 78.  Basel, Switzerland:  Bank for International Settlements, 
+
+August, www.bis.org/publ/bppdf/bispap78b_rh.pdf. 
+
+Tarullo, Daniel K. (2014).  “Stress Testing after Five Years,” speech delivered at the 
+
+Third Annual Stress Test Modeling Symposium, sponsored by the Board of 
+
+Governors of the Federal Reserve System and the Federal Reserve Bank of 
+
+Boston, Boston, June 25, 
+
+www.federalreserve.gov/newsevents/speech/tarullo20140625a.htm. 
+
+Yellen, Janet L. (2014).  “Monetary Policy and Financial Stability,” speech delivered at 
+
+the 2014 Michel Camdessus Central Banking Lecture, sponsored by the 
+
+International Monetary Fund, Washington, July 2, 
+
+www.federalreserve.gov/newsevents/speech/yellen20140702a.htm. 
+
+
+

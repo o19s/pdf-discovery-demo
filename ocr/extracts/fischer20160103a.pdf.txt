@@ -1,0 +1,830 @@
+
+For release on delivery
+1:15 p.m. EST (10:15 a.m. PST)
+January 3, 2016
+
+Monetary Policy, Financial Stability, and the Zero Lower Bound
+
+Remarks by
+
+Stanley Fischer
+
+Vice Chairman
+
+Board of Governors of the Federal Reserve System
+
+at the
+
+Annual Meeting of the American Economic Association
+
+San Francisco, California
+
+January 3, 2016
+
+
+Thank you.  It is a great pleasure to be here today and to participate in this panel 
+
+together with such a distinguished group.  
+
+Much has happened in the world of central banking in the past 10 years.  The list 
+
+of challenges we face is long and includes fundamental issues such as lender-of-last-
+
+resort policies in the modern financial system, the role of central banks in the supervision 
+
+of the financial sector, and the appropriate role of forward guidance in monetary policy 
+
+communications.  Those are the topics I will not discuss today.
+
+Rather, I will focus primarily on three related issues associated with the zero 
+
+lower bound (ZLB) on nominal interest rates and the nexus between monetary policy and 
+
+financial stability: first, whether we are moving toward a permanently lower long-run 
+
+equilibrium real interest rate; second, what steps can be taken to mitigate the constraints 
+
+imposed by the ZLB on the short-term interest rate; and, third, whether and how central 
+
+banks should incorporate financial stability considerations in the conduct of monetary 
+
+policy.1
+
+Are We Moving Toward a World With a Permanently Lower Long-Run 
+
+Equilibrium Real Interest Rate?
+
+We start with a key question of the day: Are we moving toward a world with a 
+
+permanently lower long-run equilibrium real interest rate?  The equilibrium real interest 
+
+rate--more conveniently known as r*--is the level of the short-term real rate that is 
+
+consistent with full utilization of resources.  It is often measured as the hypothetical real 
+
+1 I am grateful to James Clouse, William English, Thomas Laubach, Nellie Liang, David Lopez-Salido, Jeff 
+Marquardt, David Mills, Fabio Natalucci, David Reifschneider, Stacey Tevlin, David Wilcox, and Paul 
+Wood for their assistance. I have benefited also from discussions with John Williams. My comments 
+today reflect my own views and are not an official position of the Board of Governors or the Federal Open 
+Market Committee.
+
+
+- 2 -
+
+rate that would prevail in the long-run once all of the shocks affecting the economy die 
+
+down.2 In terms of the Federal Reserve’s approach to monetary policy, it is the real 
+
+interest rate at which the economy would settle at full employment and with inflation at 
+
+2 percent--provided the economy is not at the ZLB.  
+
+Recent interest in estimates of r* has been strengthened by the secular stagnation 
+
+hypothesis, forcefully put forward by Larry Summers in a number of papers, in which the 
+
+value of r* plays a central role.3 Research that was motivated in part by attempts that 
+
+began some time ago to specify the constant term in standard versions of the Taylor rule 
+
+has shown a declining trend in estimates of r*.  That finding has become more firmly 
+
+established since the start of the Great Recession and the global financial crisis.4
+
+A variety of models and statistical approaches suggest that the current level of 
+
+short-run r* may be close to zero.  Moreover, the level of short-run r* seems likely to rise 
+
+only gradually to a longer-run level that is still quite low by historical standards.  For 
+
+example, the median long-run real federal funds rate reported in the Federal Reserve’s 
+
+Summary of Economic Projections prepared in connection with the December 2015
+
+meeting of the Federal Open Market Committee has been revised down about
+
+1/2 percentage point over the past three years to a level of 1-1/2 percent.5 As shown in 
+
+the figure, a decline in the value of r* seems consistent with the decline in the level of 
+
+longer-term real rates observed in the United States and other countries.
+
+2 See Laubach and Williams (2003).
+3 See Summers (2014, 2015).
+4 This research includes recent work by Kiley (2015) and others that uses extensions of the original 
+Laubach and Williams (2003) framework. An international perspective on medium-to-long-run real 
+interest rates is provided by U.S. Executive Office of the President (2015).  Reinhart and Rogoff (2009) and 
+Hall (2014) discuss the long-lived effects of financial crises on economic performance. See also Hamilton 
+and others (2015).
+5 The projections materials associated with the Federal Open Market Committee’s December 2015 meeting 
+are available on the Board’s website at www.federalreserve.gov/monetarypolicy/fomccalendars.htm.
+
+
+- 3 -
+
+What determines r*?  Fundamentally, the balance of saving and investment 
+
+demands does so.  A very clear systematic exposition of the theory of r* is presented in a
+
+2015 paper from the Council of Economic Advisers.  Several trends have been cited as 
+
+possible factors contributing to a decline in the long-run equilibrium real rate.  One a
+
+priori likely factor is persistent weakness in aggregate demand.  Among the many reasons 
+
+for that, as Larry Summers has noted, is that the amount of physical capital that the 
+
+revolutionary IT firms with high stock market valuations have needed is remarkably 
+
+small. The slowdown of productivity growth, which has been a prominent and deeply 
+
+concerning feature of the past four years, is another factor reducing r*.6 Others have 
+
+pointed to demographic trends resulting in there being a larger share of the population in 
+
+age cohorts with high saving rates.7 Some have also pointed to high saving rates in many 
+
+emerging market countries, coupled with a lack of suitable domestic investment 
+
+opportunities in those countries, as putting downward pressure on rates in advanced 
+
+economies--the global savings glut hypothesis advanced by Ben Bernanke and others at 
+
+the Fed about a decade ago.8
+
+Whatever the cause, other things being equal, a lower level of the long-run 
+
+equilibrium real rate suggests that the frequency and duration of future episodes in which 
+
+monetary policy is constrained by the ZLB will be higher than in the past.  Prior to the 
+
+crisis, some research suggested that such episodes were likely to be relatively infrequent 
+
+6 It is also a major factor explaining the phenomenon of the economy’s impressive performance on the jobs 
+front during a period of historically slow growth.
+7 See, for instance, Gordon (2014, forthcoming).
+8 See Bernanke (2005).  See also the recent work by Caballero, Farhi, and Gourinchas (2008) and Mendoza,
+Quadrini, and Rios-Rull (2009).
+
+
+- 4 -
+
+and generally short lived.9 The past several years certainly require us to reconsider that 
+
+basic assumption.  
+
+Moreover, the experience of the past several years in the United States and many 
+
+other countries has taught us that conducting monetary policy effectively at the ZLB is 
+
+challenging, to say the least.10 And while unconventional policy tools such as forward 
+
+guidance and asset purchases have been extremely helpful, there are many uncertainties 
+
+associated with the use of such tools.11
+
+I would note in passing that one possible concern about our unconventional 
+
+policies has eased recently, as the Federal Reserve’s normalization tools proved effective 
+
+in raising the federal funds rate following our December meeting.  Of course, issues may 
+
+yet arise during normalization that could call for adjustments to our tools, and we stand 
+
+ready to do that.  
+
+The answer to the question “Will r* remain at today’s low levels permanently?” is 
+
+that we do not know.  Many of the factors that determine r*, particularly productivity 
+
+growth, are extremely difficult to forecast.  At present, it looks likely that r* will remain 
+
+low for the policy-relevant future, but there have in the past been both long swings and 
+
+short-term changes in what can be thought of as equilibrium real rates  Eventually, 
+
+history will give the answer.  
+
+But it is critical to emphasize that history’s answer will depend also on future 
+
+policies, monetary and other, notably including fiscal policy.  
+
+9 See, for instance, Reifschneider and Williams (2000), Blanchard and Simon (2001), and Stock and 
+Watson (2003).
+10 For a discussion of various issues reviewed by the Federal Open Market Committee in late 2008 and 
+2009 regarding the complications of unconventional monetary policy at the ZLB, see the set of staff memos 
+on the Board’s website at www.federalreserve.gov/foia/fomc/readingrooms.htm.
+11 See Williams (2013).
+
+
+- 5 -
+
+What Steps Can Be Taken to Mitigate the Constraints Associated with the ZLB?
+
+Against that backdrop, a second key question for central banks is, What steps, if 
+
+any, can be taken to mitigate the constraints associated with the ZLB?  
+
+Raising the Inflation Target: One step that has been proposed by many, including 
+
+Olivier Blanchard, is the possibility of raising the target rate of inflation from 
+
+2 percent to some higher level.  One concern I have raised in the past about such 
+
+proposals is that high levels of inflation may also be associated with higher 
+
+inflation variability. The welfare costs of high and variable inflation could be 
+
+substantial.  For example, more variable inflation would make long-run planning 
+
+more difficult for households and businesses.  And higher and more variable 
+
+inflation would likely also lead to higher levels of indexation in the economy over 
+
+time that, in turn, would make it more difficult for central banks to achieve their 
+
+inflation goals.  
+
+Negative Interest Rates:  Another possible step would be to reduce short-term 
+
+interest rates below zero if needed to provide additional accommodation.  Our 
+
+colleagues in Europe are busy rewriting economics textbooks on this topic as we 
+
+speak--and also helping us to remember earlier discussions of negative interest 
+
+rates by Keynes, Irving Fisher, Hicks, and Gesell.12
+
+To provide further monetary accommodation amid weak inflation prospects, the 
+
+European Central Bank lowered its deposit rate into negative territory in June 
+
+12 The Europeans have long been intrigued by the possibility of negative rates, beginning with Gesell’s 
+stamp scrip proposal in 1906 and some apparently successful experiments with stamp scrip in Austria in the 
+1930s.  See Keynes (1936), Fisher (1933), and Hicks (1937). For an extensive discussion of Gesell’s work, 
+see Keynes (1936), chap. 23, pp. 353-58.
+
+
+- 6 -
+
+2014 and twice cut it further, most recently to minus 0.30 percent in December.  
+
+The Riksbank has lowered its key repurchase agreement, or repo, rate to a similar 
+
+level, while the central banks of Denmark and Switzerland have cut their key 
+
+policy rates more deeply, to minus 0.75 percent, in large part to offset 
+
+considerable appreciation pressures on their currencies.
+
+In each of these countries, short-term money market rates declined along with 
+
+policy rates.  Moreover, while it is hard to distinguish the effects of the rate cuts 
+
+from those of concurrent asset purchase expansions, the easing appears to have 
+
+been transmitted to assets of longer maturity and greater risk.  Bond yields and 
+
+bank lending rates declined, and, in the euro area, the volume of lending to 
+
+corporations and households picked up notably.  In addition, the rate cuts into 
+
+negative territory have acted as expected through the exchange rate channel.  
+
+Negative policy rates have generally not been associated with the problems that 
+
+likely were anticipated.  Adverse effects on money market functioning have been 
+
+limited.  Cash holdings have not risen significantly in these countries, in part 
+
+because of nonnegligible costs of insuring, storing, and transporting physical 
+
+cash.  These favorable outcomes may be partly because significant shares of 
+
+deposits at central banks in these countries are not subject to negative rates.  It is 
+
+unclear how low policy rates can go before cash holdings rise or other problems 
+
+intensify, but the European experience has certainly shown that zero is not the 
+
+effective lower bound in those countries.
+
+Could negative interest rates be a policy response that the Federal Reserve could 
+
+choose to employ in a future crisis?  One possible concern with a strategy of this 
+
+
+- 7 -
+
+sort in the United States is the potential for destabilizing effects in money 
+
+markets.  For example, various observers have noted that negative rates could lead 
+
+to scenarios in which money funds “break the buck” or simply shut down, either 
+
+of which could generate strains in money markets.  Another concern is whether 
+
+the complex and interconnected infrastructure supporting securities transactions in 
+
+the U.S. financial system could readily adapt to a world of negative interest rates.  
+
+For example, similar to the types of issues addressed ahead of the year 2000, there 
+
+could well be automated systems that simply are not coded properly at present to 
+
+process transactions based on instruments with negative rates.  All of these are, of 
+
+course, transitional problems, but they might be sufficient to make a move to 
+
+negative rates difficult to implement on short notice.
+
+Raising the Equilibrium Real Rate:  An even more ambitious approach to ease the 
+
+constraints posed by the zero lower bound would be to take steps aimed at raising 
+
+the equilibrium real rate.  For example, expansionary fiscal policy would boost 
+
+the equilibrium real rate. In particular, the need for more modern infrastructure in 
+
+many parts of the American economy is hard to miss.  And we should not forget
+
+that additional effective investment in education also adds to the nation’s capital.
+
+As another example, numerous studies of the effects of the Federal Reserve’s 
+
+asset purchases suggest that these operations have reduced the level of the term 
+
+premium embedded in long-term interest rates.  If aggregate demand depends 
+
+primarily on the level of long-term interest rates, it might be possible, in principle, 
+
+to maintain a level of long-term rates consistent with full employment and stable 
+
+prices by lowering term premiums while at the same time raising the level of 
+
+
+- 8 -
+
+short-term rates by a compensating amount.  This result could be accomplished, 
+
+for example, if the Treasury took steps to shorten the average maturity of 
+
+Treasury debt outstanding or, alternatively, if the Federal Reserve maintained 
+
+large holdings of long-term assets.
+
+Eliminating the ZLB Associated with Physical Currency:  While the European 
+
+experience suggests that interest rates can be pushed somewhat below zero, the 
+
+existence of physical currency likely still limits how deeply interest rates can be 
+
+pushed into negative territory.  That observation has led some to ask whether it 
+
+would it be possible for the financial system to operate effectively without 
+
+physical currency provided by the central bank.  This is a theoretical question that 
+
+has fascinated economists for decades and, with advances in technology, could 
+
+possibly have practical implications as well.  Indeed, the Scandinavian countries 
+
+have embraced the development of new payments technologies that seem to be 
+
+reducing the need for physical currency for transactions in those countries.13
+
+Nonetheless, a transition to a cashless economy in the United States seems very 
+
+far off; indeed, U.S. currency outstanding has been increasing relative to nominal 
+
+gross domestic product over recent decades, driven importantly by foreign 
+
+demands for U.S. bank notes.  Moreover, to eliminate the ZLB associated with 
+
+physical currency by going cashless, countries would need to transition to an 
+
+economy that did not require widespread use of physical currency, and central 
+
+banks in those countries would need to cease issuing physical currency on 
+
+demand (for example, in response to demands spurred by negative rates on so-
+
+13 See Alderman (2015).
+
+
+- 9 -
+
+called inside money).14 For all of these reasons, as a practical matter at least for 
+
+the United States, it seems highly unlikely that the constraints associated with the 
+
+ZLB could be meaningfully addressed by steps to encourage a transition to a 
+
+cashless economy.
+
+None of these options for dealing with the difficulties of the ZLB suggest that it 
+
+will be easy either to raise the equilibrium real rate or to mitigate the constraints 
+
+associated with the ZLB. But when the real rate is close to zero, even small effects can 
+
+make a noticeable difference.  And, of course, such issues are clearly worthy of 
+
+additional research.
+
+How Should Central Banks Incorporate Financial Stability Considerations in the 
+
+Conduct of Monetary Policy?
+
+The challenges associated with the ZLB and the potential risks resulting from an 
+
+environment of extremely low rates for a prolonged period of time bring me to the third 
+
+question: How should central banks incorporate financial stability considerations in the 
+
+conduct of monetary policy?  Or, put another way, can we conduct monetary policy in a 
+
+way that reduces the likelihood of financial instability?15
+
+The first response of policymakers to the question of whether monetary policy--
+
+defined as the short-term policy interest rate--should be used to support financial stability 
+
+is to say that macroprudential tools, rather than adjustments in short-term interest rates,
+
+should be the first line of defense.
+
+14 As an alternative to eliminating currency, a number of authors--including Goodfriend (2000), Buiter 
+(2003), Agarwal and Kimball (2015), McAndrews (2015), and Rogoff (2014)--have discussed various 
+mechanisms that could effectively implement a Gesell tax on physical currency.
+15 See International Monetary Fund (2015) for a broad discussion of many issues in this area.
+
+
+- 10 -
+
+Macroprudential tools are primarily regulatory or supervisory in nature and target 
+
+specific activities, markets, and financial institutions.  In the United States, we now have 
+
+some experience with such tools.  The interagency guidance on leveraged lending issued 
+
+in 2013 and the annual coordinated stress tests (the Dodd-Frank Act stress test, or
+
+DFAST, mandated by the Dodd-Frank Wall Street Reform and Consumer Protection Act 
+
+of 2010; and the Comprehensive Capital Analysis and Review, or CCAR), focused on the 
+
+capital adequacy of the largest banking firms, are two examples implemented for a few 
+
+years now and for which data are available for an assessment of their effectiveness.16
+
+An important new element of the post-crisis capital regime is the Countercyclical 
+
+Capital Buffer (CCyB), which the Federal Reserve put out for comment on December 21,
+
+2015.17 The CCyB is designed to be activated when there is an elevated risk of above-
+
+normal losses in the future and released when the risk of above-normal losses recedes.
+
+The higher levels of capital would increase the resilience of the largest banks because 
+
+they would be better positioned to absorb the losses.  
+
+Despite the tools that the Fed can use to support financial stability, including the 
+
+Fed’s authority to impose margin requirements on secured financing transactions, the Fed 
+
+has fewer macroprudential tools at its command than some other central banks, 
+
+particularly with respect to real estate.  Regulators in many countries facing or 
+
+anticipating problems with rising real estate prices often turn to controls over loan-to-
+
+value or debt-to-income ratios. Such measures are potentially important, as the real 
+
+estate sector is the most common source of the beginnings of financial instability.  In the 
+
+16 More information about DFAST and CCAR is available on the Board’s website at 
+www.federalreserve.gov/bankinforeg/stress-tests-capital-planning.htm.
+17 See Board of Governors (2015).
+
+
+- 11 -
+
+United States, responding to such problems with these tools would require interagency 
+
+coordination, which could make their use cumbersome at critical moments. 
+
+It is important to acknowledge that there remain cases in which macroprudential 
+
+tools are either not available or have not been sufficiently tested in the United States, or 
+
+they may be in conflict with other objectives such as widespread access to credit.  The 
+
+effective lack of such tools has two important consequences.  First, it requires placing 
+
+greater weight on the ability of financial institutions and the financial system as a whole 
+
+to withstand financial shocks without the authorities having to use macroprudential 
+
+instruments--that is to say, on structural reforms to the financial system.  Second, in such 
+
+instances, one could consider using monetary policy--the short term policy interest rate--
+
+to lean against the wind of financial stability risks.18
+
+The use of monetary policy to address financial stability concerns raises two 
+
+distinct but closely related sets of questions.  The first is whether adjustments in the 
+
+policy rate can indeed enhance financial stability by reducing either the odds of a 
+
+financial crisis or the severity of such a crisis once it is under way--and, if so, through 
+
+which channels.19
+
+Provided that the first question is answered in the affirmative, the second question 
+
+is how leaning against the wind interacts with the traditional objectives of monetary 
+
+policy--namely, the employment and inflation mandates in the United States.  This 
+
+tradeoff could be small or even nonexistent when both traditional macro objectives and 
+
+18 See, for instance, Stein (2013) and Carlson and others (forthcoming) for a discussion on the possible use 
+of monetary policy tools to foster financial stability objectives.
+19 Implicit in this discussion is some degree of confidence that the central bank could identify a buildup of 
+financial stability risks.  Adrian, Covitz, and Liang (2014) offer some views on effective financial stability 
+monitoring.
+
+
+- 12 -
+
+financial stability objectives call for the same policy action--for example, when the credit 
+
+cycle is approaching its peak, output is above potential, and inflation pressures appear to 
+
+be building.  In contrast, when different objectives call for different policy actions--for 
+
+example, when some financial assets appear overvalued but economic growth remains 
+
+tepid and inflation is subdued--policymakers may find this tradeoff much more difficult 
+
+to assess and will search for macroprudential tools.  Perhaps unsurprisingly, recent 
+
+contributions in the literature that quantify this tradeoff point to a range of 
+
+recommendations, with some reporting an optimal monetary policy that leans against the 
+
+wind and some suggesting otherwise.20
+
+I would like to conclude on this issue by saying that the issue is a bit more 
+
+complicated than suggested so far--for, given that financial variables are a critical part of 
+
+the transmission mechanism of monetary policy, when policymakers say the economy is 
+
+overheating, they may well be considering the behavior of asset prices as a critical part of 
+
+that phenomenon and part of the reason to tighten monetary policy.  Thus, I believe that 
+
+the real issue of whether adjustments in interest rates should be used to deal with 
+
+problems of potential financial instability is macroeconomic, and that if asset prices 
+
+across the economy--that is, taking all financial markets into account--are thought to be 
+
+excessively high, raising the interest rate may be the appropriate step.  Further discussion 
+
+of this issue will probably bear considerable similarity to the analysis of how to deal with 
+
+20 This variability is in part due to different model set-ups, such as how financial instability builds up and 
+how it affects economic outcomes.  For example, Woodford (2012) finds that leaning against the wind does 
+not change the basis for traditional stabilization objectives in a standard New Keynesian model, whereas 
+the cost-benefit analysis in Svensson (2015) finds little basis for the “leaning against the wind” strategy.  
+Ajello and others (2015) find that optimal adjustment of the policy rate, when the possibility of a crisis is 
+taken into account, is small unless the policymaker is assumed to be quite uncertain about the likelihood 
+and severity of the crisis.
+
+
+- 13 -
+
+asset bubbles that took place in the United States in the decade starting about two decades 
+
+ago.
+
+Conclusion
+
+In closing, let me concede that it is easier to pose these questions than it is to 
+
+answer them definitively.  The issues are both deep and interesting.  Along with other 
+
+monetary policy issues, particularly the role of the lender of last resort in a world of 
+
+significant uncertainty, they deserve the attention the profession in both academic and
+
+governmental institutions is, will be, and should be giving them.  
+
+
+- 14 -
+
+References
+
+Adrian, Tobias, Daniel Covitz, and Nellie Liang (2014).  “Financial Stability 
+Monitoring,” FEDS Notes.  Washington:  Board of Governors of the Federal 
+Reserve System, August 4, www.federalreserve.gov/econresdata/notes/feds-
+notes/2014/financial-stability-monitoring-20140804.html.
+
+Agarwal, Ruchir, and Miles Kimball (2015).  “Breaking through the Zero Lower Bound,” 
+IMF Working Paper WP/15/224.  Washington:  International Monetary Fund, 
+October, https://www.imf.org/external/pubs/ft/wp/2015/wp15224.pdf.
+
+Ajello, Andrea, Thomas Laubach, David Lopez-Salido, and Taisuke Nakata (2015).  
+“Financial Stability and Optimal Interest-Rate Policy,” working paper.  
+Washington:  Board of Governors of the Federal Reserve System, February,
+www.frbsf.org/economic-research/files/1A-Ajello-Laubach-Lopez_Salido-
+Nakata.pdf.
+
+Alderman, Liz (2015).  “In Sweden, a Cash-Free Future Nears,” New York Times, 
+December 26, www.nytimes.com/2015/12/27/business/international/in-sweden-a-
+cash-free-future-nears.html.
+
+Bernanke, Ben S. (2005). “The Global Saving Glut and the U.S. Current Account 
+Deficit,” speech delivered at the Homer Jones Lecture, St. Louis, April 14,
+www.federalreserve.gov/boarddocs/speeches/2005/20050414/default.htm.
+
+Blanchard, Olivier, and John Simon (2001).  “The Long and Large Decline in U.S. 
+Output Volatility,” Brookings Papers on Economic Activity, 1, pp. 135-74, 
+www.brookings.edu/~/media/projects/bpea/spring-
+2001/2001a_bpea_blanchard.pdf.
+
+Board of Governors of the Federal Reserve System (2015).  “Federal Reserve Board 
+Seeks Public Comment on Proposed Policy Statement Detailing the Framework 
+the Board Would Follow in Setting the Countercyclical Capital Buffer (CCyB),” 
+press release, December 21,
+www.federalreserve.gov/newsevents/press/bcreg/20151221b.htm.
+
+Buiter, Willem H., and Nikolaos Panigirtzoglou (2003).  “Overcoming the Zero Bound 
+on Nominal Interest Rates with Negative Interest on Currency:  Gesell’s 
+Solution,” Economic Journal, vol. 113 (October), pp. 723-46.
+
+Caballero, Ricardo J., Emmanuel Farhi, and Pierre-Olivier Gourinchas (2008). “An 
+Equilibrium Model of ‘Global Imbalances’ and Low Interest Rates,” American 
+Economic Review, vol. 98 (1), pp. 358-93.
+
+Carlson, Mark, Burcu Duygan-Bump, Fabio Natalucci, William R. Nelson, Marcelo 
+Ochoa, Jeremy Stein, and Skander Van den Heuvel (forthcoming).  “The Demand 
+
+
+- 15 -
+
+for Short-Term, Safe Assets and Financial Stability:  Some Evidence and 
+Implications for Central Bank Policies,” International Journal of Central 
+Banking.
+
+Champ, Bruce (2008).  “Stamp Scrip:  Money People Paid to Use,” Economic 
+Commentary.  Cleveland:  Federal Reserve Bank of Cleveland, April, 
+https://www.clevelandfed.org/en/newsroom-and-events/publications/economic-
+commentary/economic-commentary-archives/2008-economic-commentaries/ec-
+20080401-stamp-scrip-money-people-paid-to-use.aspx.
+
+Fisher, Irving (1933).  Stamp Scrip. New York:  Adelphi Company.
+
+Goodfriend, Marvin (2000).  “Overcoming the Zero Bound on Interest Rate Policy,” 
+Journal of Money, Credit and Banking, vol. 32 (November), pp. 1007-35.
+
+Gordon, Robert J. (2014).  “The Demise of U.S. Economic Growth: Restatement, 
+Rebuttal, and Reflections,” NBER Working Paper Series 19895. Cambridge, 
+Mass.: National Bureau of Economic Research, February.
+
+-------- (forthcoming).  The Rise and Fall of American Growth:  The U.S. Standard of
+Living since the Civil War. Princeton, N.J.:  Princeton University Press.
+
+Hall, Robert E. (2014).  “Quantifying the Lasting Harm to the U.S. Economy from the 
+Financial Crisis,” in Jonathan Parker and Michael Woodford, eds., NBER 
+Macroeconomics Annual 2014, vol. 29. Chicago:  University of Chicago Press.
+
+Hamilton, James D., Ethan S. Harris, Jan Hatzius, and Kenneth D. West (2015). “The 
+Equilibrium Real Funds Rate: Past, Present and Future,” NBER Working Paper 
+Series 21476.  Cambridge, Mass.:  National Bureau of Economic Research, 
+August. 
+
+Hicks, J.R. (1937). “Mr. Keynes and the ‘Classics’: A Suggested Interpretation,” 
+Econometrica, vol. 5 (April), pp. 147-59.
+
+International Monetary Fund (2015).  Monetary Policy and Financial Stability, IMF staff
+report.  Washington:  International Monetary Fund, September, 
+www.imf.org/external/np/pp/eng/2015/082815a.pdf.
+
+Keynes, John Maynard (1936).  The General Theory of Employment, Interest, and 
+Money.  London:  Macmillan.
+
+Kiley, Michael T. (2015). “What Can the Data Tell Us about the Equilibrium Real 
+Interest Rate?” Finance and Economics Discussion Series 2015-077.
+Washington: Board of Governors of the Federal Reserve System, August, 
+www.federalreserve.gov/econresdata/feds/2015/files/2015077pap.pdf.
+
+
+- 16 -
+
+Laubach, Thomas, and John C. Williams (2003). “Measuring the Natural Rate of 
+Interest,” Review of Economics and Statistics, vol. 85 (November), pp. 1063-70.
+
+McAndrews, James (2015).  “Negative Nominal Central Bank Policy Rates:  Where Is 
+the Lower Bound?” speech delivered at the University of Wisconsin, Madison, 
+Wis., May 8,
+https://www.newyorkfed.org/newsevents/speeches/2015/mca150508.html.
+
+Mendoza, Enrique G., Vincenzo Quadrini, and José-Víctor Ríos-Rull (2009).  “Financial 
+Integration, Financial Development, and Global Imbalances,” Journal of Political 
+Economy, vol. 117 (3), pp. 371-416.
+
+Reifschneider, David, and John C. Williams (2000). “Three Lessons for Monetary Policy 
+in a Low-Inflation Era,” Journal of Money, Credit, and Banking, vol. 32
+(November), pp. 936-66.
+
+Reinhart, Carmen M., and Kenneth S. Rogoff (2009). This Time Is Different:  Eight 
+Centuries of Financial Folly. Princeton, N.J.: Princeton University Press. 
+
+Rogoff, Kenneth (2014).  “Costs and Benefits to Phasing out Paper Currency,” paper 
+presented at the NBER Macroeconomics Annual Conference, Cambridge, Mass., 
+April 11, http://scholar.harvard.edu/files/rogoff/files/c13431.pdf.
+
+Stein, Jeremy C. (2013).  “Overheating in Credit Markets:  Origins, Measurement, and 
+Policy Responses,” speech delivered at “Restoring Household Financial Stability 
+after the Great Recession: Why Household Balance Sheets Matter,” a research 
+symposium sponsored by the Federal Reserve Bank of St. Louis, St. Louis, 
+February 7, www.federalreserve.gov/newsevents/speech/stein20130207a.htm.
+
+Stock, James H., and Mark W. Watson (2003). “Has the Business Cycle Changed and 
+Why?” NBER Macroeconomics Annual 2002, vol. 17 (January).
+
+Summers, Lawrence H. (2014). “U.S. Economic Prospects: Secular Stagnation, 
+Hysteresis, and the Zero Lower Bound,” Business Economics, vol. 49 (2), pp. 65-
+73.
+
+-------- (2015).  “Low Real Rates, Secular Stagnation & the Future of Stabilization 
+Policy,” remarks delivered at the Bank of Chile Research Conference, November 
+20, http://larrysummers.com/2015/11/20/low-real-rates-secular-stagnation-the-
+future-of-stabilization-policy.
+
+Svensson, Lars E.O. (2015).  “Cost-Benefit Analysis of Leaning Against the Wind:  Are 
+Costs Always Larger than Benefits, and Even More So with a Less Effective 
+Macroprudential Policy?” unpublished paper, September, 
+http://econweb.umd.edu/~davis/eventpapers/SvenssonAnalysis.pdf.
+
+
+- 17 -
+
+U.S. Executive Office of the President, Council of Economic Advisers (2015). Long-
+Term Interest Rates: A Survey. Washington: EOP, 
+https://www.whitehouse.gov/sites/default/files/docs/interest_rate_report_final.pdf.
+
+Williams, John C. (2013).  “A Defense of Moderation in Monetary Policy,” Working 
+Paper Series 2013-15.  San Francisco:  Federal Reserve Bank of San Francisco, 
+July, www.frbsf.org/economic-research/files/wp2013-15.pdf.
+
+Woodford, Michael (2012).  “Inflation Targeting and Financial Stability,” NBER 
+Working Paper Series 17967.  Cambridge, Mass.:  National Bureau of Economic 
+Research, April.
+
+
+From TIPS
+Using survey-based inflation expectations
+
+10-Year Real Treasury Yields
+
+     Note:  The data are quarterly. The yield using survey-based inflation expectations is the difference between the 10-year nominal Treasury yield and a survey-
+based measure of 10-year inflation expectations taken from the FRB/US model. TIPS is Treasury Inflation-Protected Securities.
+     Source:  Federal Reserve Bank of New York; Barclays; Federal Reserve Board staff calculations.
+
+Q3
+
+1981 1983 1985 1987 1989 1991 1993 1995 1997 1999 2001 2003 2005 2007 2009 2011 2013 2015
+
+Percent
+
+-2
+
+0
+
+2
+
+4
+
+6
+
+8
+
+-2
+
+0
+
+2
+
+4
+
+6
+
+8
+

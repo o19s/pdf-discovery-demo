@@ -1,0 +1,333 @@
+
+For release on delivery 
+9:00 a.m. EDT 
+July 19, 2018 
+
+
+
+
+Introductory Remarks 
+
+(via prerecorded video) 
+
+by 
+
+
+Randal K. Quarles 
+
+
+Vice Chairman for Supervision 
+
+
+Board of Governors of the Federal Reserve System 
+
+
+At the 
+
+
+ Alternative Reference Rates Committee Roundtable 
+
+The Federal Reserve Bank of New York 
+
+New York, New York 
+
+
+
+July 19, 2018
+
+
+Good morning. I am sorry that I cannot be with you in person for this third roundtable 
+
+hosted by the Alternative Reference Rates Committee (ARRC), but I wanted to tape these 
+
+remarks to make clear the Federal Reserve’s full commitment to mitigating the risk to financial 
+
+stability should a key reference rate cease to be available.  We support the ARRC and its work.  
+
+And support for the ARRC is not limited to the Federal Reserve System: the Bureau of 
+
+Consumer Financial Protection, Commodity Futures Trading Commission, Federal Deposit 
+
+Insurance Corporation, Federal Housing Finance Agency, Office of the Comptroller of the 
+
+Currency, Office of Financial Research, Securities and Exchange Commission, and U.S. 
+
+Treasury Department are all ex officio members of the ARRC.   
+
+Since many have only recently begun to pay more attention to these issues, let me remind 
+
+you of our reasons for convening the ARRC four years ago.  The Federal Reserve began its role 
+
+in co-chairing the Financial Stability Board’s working group on interest rate benchmarks and 
+
+joined in international efforts to strengthen LIBOR following reports that employees at several 
+
+banks sought to manipulate these rates.  We have served on the ICE Benchmark 
+
+Administration’s (IBA’s) LIBOR Oversight Committee as an observer and actively worked with 
+
+IBA in developing the reforms set out in IBA’s Roadmap for LIBOR.  Thanks in part to this, and 
+
+thanks much more to the U.K. Financial Conduct Authority’s (FCA’s) efforts as the regulator of 
+
+LIBOR, the safeguards against that type of manipulation happening again have been greatly and 
+
+appropriately tightened.  
+
+But as part of this process, we also examined data that we had begun to collect on the 
+
+markets that underlie LIBOR and found that those markets had become extraordinarily thin.  On 
+
+most days, the banks that submit to LIBOR have been forced to rely on their own judgement and 
+
+
+- 2 - 
+ 
+
+
+models in submitting to LIBOR rather than actual transactions.  Many of them have become 
+
+justifiably uncomfortable with a system that pins hundreds of trillions of dollars’ worth of 
+
+financial contracts to that type of judgement call.  
+
+People may have some general sense of this, but because IBA does not release data on 
+
+the transactions that actually underlie LIBOR, many may not be aware of how truly thin these 
+
+markets have become.  At the last roundtable, Jay Powell showed data on the volume of 
+
+borrowing in wholesale unsecured U.S. dollar markets.  That chart can be found in the ARRC’s 
+
+Second Report, which estimated that on a typical day the volume of three-month funding 
+
+transactions was about $500 million. On many days there is much less.  By way of comparison, 
+
+we estimate that there are roughly $200 trillion of financial securities referencing U.S. dollar 
+
+LIBOR.  
+
+To help provide some further transparency, I will show data that we have on the number 
+
+of transactions involved.  These data are based on the information available to the Federal 
+
+Reserve, which is fairly comprehensive but still may differ in some respects from that available 
+
+to IBA, so I should caution that this is merely an informed estimate of the number of transactions 
+
+underlying U.S. dollar LIBOR and may not be exact.  As you can see in the slide, there are a few 
+
+more transactions at the shorter LIBOR maturities.  On average, we observe six or seven 
+
+transactions per day at market rates that could underpin one- and three-month LIBOR across all 
+
+of the panel banks.  The longer maturities have even fewer transactions.  There are two to three 
+
+transactions each day for six-month LIBOR.  On average, there is only one transaction that we 
+
+see underlying one-year LIBOR, and many days there are no transactions at all.   
+
+
+- 3 - 
+ 
+
+
+The secured overnight financing rate (SOFR) has only been in existence three months, 
+
+and SOFR futures have only been trading for two months, but on a daily basis there are already 
+
+more transactions underlying them than there are underpinning LIBOR.  And SOFR itself 
+
+reflects over $700 billion in overnight repurchase agreement (repo) transactions every day.  One 
+
+of the many benefits of using a rate so firmly anchored in a market of this depth is that no one 
+
+can question whether SOFR is representative.  It clearly is.  
+
+With LIBOR reliant on expert judgment rather than direct transactions, many banks 
+
+increasingly uncomfortable providing that judgment, and the official sector unable to compel 
+
+them to do so indefinitely, it was obvious to us that this structure—which bases so many trillions 
+
+of financial instruments on such a small number of underlying transactions—was potentially 
+
+unstable.  It was clear that the market needed to develop alternatives in case the worst happened, 
+
+and this was the reason that we convened the ARRC four years ago.   
+
+We asked the ARRC to identify a robust alternative to U.S. dollar LIBOR and to develop 
+
+a plan to promote its use.  Sandie O’Connor will speak shortly about the ARRC’s work, but I 
+
+want to emphasize that this has been a model of cooperative effort between the private sector and 
+
+the public sector.  When the ARRC started, the interest rate benchmarks that they would 
+
+eventually narrow their choice down to did not even exist.  Those rates have not been easy to 
+
+create, and as the ARRC expressed interest in a Treasury repo rate benchmark that would span 
+
+the widest possible scope of the market, the Federal Reserve Bank of New York put great effort 
+
+in working with the Federal Reserve Board and Office of Financial Research to create SOFR.  
+
+The result, the rate the ARRC has chosen, reflects the largest and deepest rates market in the 
+
+world and is a huge accomplishment for all of us.   
+
+
+- 4 - 
+ 
+
+
+That accomplishment is only the start of what will be many.  As I noted, just three 
+
+months after SOFR has begun production, we have already seen the introduction of futures 
+
+markets on the Chicago Mercantile Exchange.  LCH has now begun to offer clearing of SOFR 
+
+overnight index and basis swaps, and CME Group will begin to do so within a few months.  
+
+These are steps that the private sector must lead, and they have, but it is important that the public 
+
+sector encourage the development of SOFR markets where it can.  The ARRC has issued a first 
+
+letter to U.S. regulators asking us to consider exemptions for legacy swaps seeking to incorporate 
+
+the International Swaps and Derivatives Association’s protocol or exemptions for amending to 
+
+move from LIBOR to SOFR, and these are issues that we should look at seriously; we should 
+
+avoid placing unintended hurdles in the way of those who may seek to transition from LIBOR.   
+
+Here is something you don’t hear often in the context of any large, complex undertaking 
+
+involving input from a large number of stakeholders:  The effort to implement SOFR is ahead of 
+
+schedule. The ARRC has recognized that we have to make transitioning to SOFR as easy as it 
+
+can be.  That is the reason that it has added the creation of a forward-looking term rate as the 
+
+final step in its Paced Transition Plan.  As the ARRC has noted and the Financial Stability Board 
+
+has now reiterated, this kind of forward-looking term rate will be useful in facilitating a 
+
+transition away from LIBOR in some cash markets, such as corporate loans, but it is not 
+
+primarily intended for use in derivatives markets.  In fact, we have to encourage use of SOFR in 
+
+derivatives markets to the fullest extent possible if a robust forward-looking term rate is to be 
+
+created.   
+
+For that reason, we also have to find ways to encourage uses of SOFR in those cash 
+
+markets where it is appropriate.  The European Investment Bank’s recent announcement that it 
+
+
+- 5 - 
+ 
+
+
+would issue a floating rate note paying a compound average of Sterling Overnight Index Average 
+
+(SONIA) shows that this can be done.1  In the spirit of encouraging this type of use of SOFR, I 
+
+think it is appropriate for the Federal Reserve to consider publishing a compound average of 
+
+SOFR that market participants could then use.  It has been suggested that we could call it SAFR, 
+
+for secured average financing rate, and this is something that we are encouraging our staff to 
+
+explore.  Publishing a compound average rate that encourages broader use of SOFR would help 
+
+make our financial system more resilient. Sandie will talk more about the creation of the 
+
+forward-looking term version of SOFR in her remarks.  SAFR would not be a competitor to this 
+
+forward-looking rate, it would be in alliance with it.  If there were a large volume of products 
+
+referencing the compound average rate, there would likely be related demand for futures 
+
+contracts to hedge those positions, helping to make the forward rate more robust.   
+
+  It is important that we find ways to make it as easy as possible to use SOFR because the 
+
+risks to LIBOR are, at this stage, quite considerable.  Even as the ARRC and similar currency 
+
+groups in other jurisdictions were being formed, the FCA was exerting considerable effort to 
+
+convince banks to continue submitting to LIBOR.  We have to be aware that two banks left the 
+
+U.S. dollar panels despite this encouragement, and that the agreement that the FCA reached with 
+
+the remaining banks to continue submitting voluntarily through the end of 2021 now has just 
+
+three-and-a-half years left.  And as Andrew Bailey noted last week, there is also the prospect that 
+
+LIBOR could be judged to be nonrepresentative under the European Union’s Benchmark 
+
+Regulations, which would severely curtail the liquidity of products referencing LIBOR.   
+
+                                                            
+1 See the European Investment Bank’s announcement at www.eib.org/investor_relations/press/2018/fi-2018-12-
+EIB%20issues%20markets%20first%20SONIA%20GBP%20benchmark%20with%20GBP%201bn%205y%20issua
+nce.htm. 
+
+
+- 6 - 
+ 
+
+
+Apart from the questions as to whether LIBOR will continue or whether IBA or the FCA 
+
+may judge that it is not representative, market participants should consider whether a rate with so 
+
+few transactions underlying it is really their best option.  Do we really need or want to use other 
+
+tenors of LIBOR in municipal or financial floating-rate notes?  For some, the answer to this may 
+
+still be yes, but it is then imperative that they work to incorporate safer fallback language into 
+
+their contracts as quickly as they can.  This is something that the ARRC has been working on 
+
+intensively this year and much of today’s roundtable will discuss. But for others, the safest thing 
+
+you can do would be to move away from using LIBOR.  Regardless of your answer to this 
+
+question, we all have a stake in the ARRC’s work, both in promoting SOFR and in promoting 
+
+better contract language.  I want to thank you all for coming to this roundtable, and want to thank 
+
+Sandie and the ARRC for all the work that has made it possible. 
+
+
+
+
+0
+
+2
+
+4
+
+6
+
+8
+
+10
+
+2017-Q1 2017-Q2 2017-Q3 2017-Q4 2018-Q1 2018-Q2
+
+Median daily number of unsecured wholesale borrowing 
+transactions observed for U.S. dollar LIBOR panel banks
+
+1-month LIBOR 3-month LIBOR 6-month LIBOR 1-year LIBOR
+
+Note: Chart key describes bars in order from left to right for each quarter.  Transactions are aggregated across all 
+available  fed funds, Eurodollar, certificates of deposit, and unsecured commercial paper transactions of the 16 
+banks currently submitting  to U.S. dollar LIBOR.   Transactions above $10 million with tenors between 25 and 35 
+days (for one month), 80 and 100 calendar days (three month), 150 to 210 calendar days (six month), or 330 and 
+390 days (one year) are included for each maturity, excluding any transactions more than 25 basis points above or 
+below the day's LIBOR rate (excluding days on which the FOMC altered its monetary policy targets). 
+

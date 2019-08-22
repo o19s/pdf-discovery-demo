@@ -1,0 +1,746 @@
+
+
+For release on delivery   
+9:00 a.m. EST  
+February 26, 2010 
+
+
+
+
+Statement of 
+
+Elizabeth A. Duke  
+
+Member 
+
+Board of Governors of the Federal Reserve System 
+
+before the   
+
+Financial Services Committee 
+
+and the 
+
+Committee on Small Business 
+
+of the  
+
+United States House of Representatives 
+
+
+
+February 26, 2010 
+
+
+
+ 
+
+ Chairman Frank, Chairwoman Velázquez, Ranking Member Bachus, Ranking Member 
+
+Graves, committee members, thank you for the invitation to today’s joint committee hearing to 
+
+discuss the availability of credit to small businesses as well as the steps being taken to help 
+
+ensure that the credit needs of creditworthy borrowers are met.  As you are well aware, the 
+
+Federal Reserve has taken significant steps to improve financial market conditions, and has 
+
+worked with the Treasury and bank and thrift supervisors to strengthen U.S. banking 
+
+organizations.  We remain attentive to the need for banks to remain in sound financial condition 
+
+and to continue to lend prudently to creditworthy borrowers.  Loans to small businesses are 
+
+especially vital to our economy, as they employ nearly 40 percent of the private sector 
+
+workforce.  
+
+ First, I will discuss the overall state of small business lending and address the causes of 
+
+reduced lending to small businesses.  I will then discuss the improving prospects for small 
+
+business lending in 2010, key preconditions of which include a sustainable economic recovery, 
+
+financial stability, and the overall safety and soundness of the banking system.  Finally, I will 
+
+discuss measures taken by the Federal Reserve, including recent guidance issued in cooperation 
+
+with other bank regulators, to ensure that supervisory policies do not impede credit availability 
+
+for creditworthy borrowers. 
+
+The State of Small Business Lending 
+
+While conditions in financial markets continue to improve, access to credit remains 
+
+difficult for many small businesses that largely depend on banks for credit.  Lending by 
+
+commercial banks dropped precipitously in 2009.  With the exception of consumer lending in the 
+
+early part of the year, lending of all types declined.  Between June 30, 2008, and June 30, 2009, 
+
+outstanding small loans to businesses and farms declined by more than $14 billion, a reduction of 
+
+
+
+ 
+
+- 2 -
+
+nearly 2 percent.  Commercial and industrial (C&I) loans, including loans to small businesses, 
+
+fell particularly rapidly, declining by double-digit percentages during 2009.1  Commercial real 
+
+estate (CRE) and credit card lending, categories that include loans to small businesses, also fell 
+
+throughout the year. 
+
+ Notably, the contraction in lending has been less severe at smaller banks, which tend to 
+
+cater to small businesses.  For example, banks with less than $10 billion in total assets reduced 
+
+their business loans (including C&I and CRE loans) at about a 12.8 percent annual rate in the 
+
+fourth quarter of 2009, while at larger banks business loans dropped at a pace of more than 20 
+
+percent.  Although the pattern of reduced lending differed across banks, in aggregate, banks of 
+
+all sizes have reduced their business loan portfolios.  This development is especially problematic 
+
+for small businesses, given that they typically lack access to public capital markets.   
+
+ The terms of the small business loans that are being made also have tightened 
+
+considerably since the beginning of the recession.  Responses to the Federal Reserve’s Senior 
+
+Loan Officer Opinion Survey on Bank Lending Practices (SLOOS) indicate that banks, on net, 
+
+have significantly tightened credit standards on C&I loans to small firms over the past few years.  
+
+In addition, the pricing of C&I loans to small businesses became more stringent last year.  Data 
+
+from the Federal Reserve’s Survey of Terms of Business Lending show that interest rate spreads 
+
+on loans between $100,000 and $1,000,000 increased by about 100 basis points during 2009, 
+
+reaching their highest levels in more than a decade.  However, pricing for large loans has 
+
+tightened as well, with spreads on loans from $10 million to $25 million also increasing about 
+
+100 basis points in 2009. 
+
+
+                                                            
+1   The most recent data from the Federal Reserve’s Flow of Funds report indicate that, for example, C&I lending by 
+commercial banks declined by about 24 percent.  Declines for other categories of lending in the same period were 
+about 9 percent for commercial real estate and residential real estate, and 5 percent for consumer lending. 
+
+
+
+ 
+
+- 3 -
+
+The Causes of Reduced Lending to Small Businesses 
+
+ Numerous factors have contributed to the reduced lending to small businesses.  For 
+
+instance, for most commercial banks, the quality of existing loan portfolios continues to 
+
+deteriorate even as levels of delinquent and nonperforming loans remain on the rise.  Throughout 
+
+2009, loan quality deteriorated significantly for both large and small banks, and the latest data 
+
+from the fourth quarter indicate continuing elevated loss rates across all loan categories.  
+
+Anecdotal information suggests that, while consumer delinquencies may be close to peaking, 
+
+other types of lending such as CRE and small business lending are likely to see delinquencies 
+
+and charge-offs continue to rise for some time to come.  In response to a special question in the 
+
+January SLOOS, a large net fraction of banks reported that the credit quality of their existing 
+
+C&I loans to small firms was worse than that for their loans to larger firms in the fourth quarter.  
+
+In addition, respondents did not, on net, anticipate an improvement in the performance of their 
+
+small loan portfolio over the next year.  Accordingly, banks have reduced existing lines of credit 
+
+sharply and tightened their standards and terms for new credit.  While some businesses are being 
+
+denied credit due to a recent history of payment problems, even businesses with excellent 
+
+payment records may find credit restricted or unavailable due to weakened balance sheets, 
+
+reduced revenues or falling real estate collateral values.  Further, businesses that qualified for 
+
+credit under more accommodative conditions may not meet new tighter standards.  Credit 
+
+conditions may be particularly tight for small businesses because their finances are, in many 
+
+instances, very closely intertwined with the personal finances of their owners.  Data from the 
+
+Federal Reserve’s 2007 Survey of Consumer Finances showed that approximately 
+
+11 percent of households own and actively manage a small business.2  Of these households,  
+
+                                                            
+2 “Changes in U.S. Family Finances from 2004 to 2007: Evidence from the Survey of Consumer Finances,” Federal 
+Reserve Bulletin, February 2009, page A35. 
+
+
+
+ 
+
+- 4 -
+
+about 18 percent used personal assets to guarantee or collateralize loans for their businesses and 
+
+a similar fraction made at least one loan to the business.  Thus, the condition of household net 
+
+worth is often relevant to the ability of some small businesses to obtain credit.  With declines in 
+
+house prices since 2006 and consequent weakened household balance sheets, the ability of many 
+
+small business owners to borrow has likely been impaired.   
+
+ Despite general improvements in financial market conditions and in bank stock prices 
+
+and earnings during the second half of 2009, lending is likely inhibited by various problems 
+
+afflicting many banks, both large and small.  Banks with capital positions that have been eroded 
+
+by losses or those with limited access to capital markets may be reducing risky assets to improve 
+
+their capital positions, especially amid continued uncertainty about the economic outlook and 
+
+possible future loan losses.  Indeed, with the number of problem banks having risen to 702 
+
+institutions with $402.8 billion in assets, many firms are capital constrained and may be unable 
+
+to increase lending.  And, even though deposits are now plentiful, some banks have funding 
+
+concerns.  Bank funding markets were badly impaired for a time, and some banks have 
+
+accordingly decided to hold larger buffers of liquid assets than before.  A number of other factors 
+
+are also likely in play.  Higher deposit insurance assessments increase funding costs.  Some 
+
+securitization markets remain impaired, reducing an important source of funding for bank loans.  
+
+Finally, changes to accounting rules, beginning in 2010, will require many banks to move a large 
+
+volume of securitized assets back onto their balance sheets, perhaps putting further pressure on 
+
+bank capital.    
+
+ During the financial crisis, a number of lending relationships have been severed as 
+
+individual banks sought to reduce loan portfolios, or concentrations within those portfolios, or as 
+
+banks failed or merged.  Established banking relationships are particularly important to small 
+
+
+
+ 
+
+- 5 -
+
+businesses, who generally do not have access to the broader capital markets and for whom credit 
+
+extension is often based on private information acquired through repeated interactions over time.  
+
+When existing lending relationships are broken, time may be required for other banks to 
+
+establish and build such relationships, allowing lending to resume. 
+
+Some banks may be overly conservative in their small business lending because of 
+
+concerns that they will be subject to criticism from their examiners.  While prudence is 
+
+warranted in all bank lending, especially in an uncertain economic environment, some potentially 
+
+profitable loans to creditworthy small businesses may have been lost because of these concerns, 
+
+particularly on the part of small banks.  Indeed, there may be instances in which individual 
+
+examiners have criticized small business loans in an overly reflexive fashion.  As I will discuss 
+
+later in my testimony, the Federal Reserve has worked with other bank and thrift supervisors to 
+
+ensure that supervisory policy does not unnecessarily constrain credit to creditworthy borrowers. 
+
+ The reduction in the availability of credit, however, is not the whole story.  There is also 
+
+less demand for credit.  The most severe economic downturn since the Depression, resulting in 
+
+high levels of unemployment and following significant increases in personal debt levels during 
+
+the past decade, has suppressed demand for goods and services produced by all businesses, 
+
+including smaller firms.  Many businesses are, in turn, reluctant to make new investments until 
+
+they are confident that consumer demand will continue to strengthen.  Business inventories, a 
+
+key component of gross domestic product over the business cycle, unexpectedly declined 0.2 
+
+percent in December after rising by a revised 0.5 percent in November.  It is notable that banks 
+
+report utilization rates of existing lines of credit to be at historic lows, despite the fact that, in 
+
+many cases, this credit is already approved and generally priced attractively.   
+
+
+
+ 
+
+- 6 -
+
+ According to recent surveys conducted by the National Federation of Independent 
+
+Businesses (NFIB), financing conditions continued to be ranked as the top business concern by 
+
+only a modest fraction (less than 5 percent) of small businesses; in contrast, about one-third of 
+
+respondents cited poor sales as their most important problem.  Commercial bank responses to the 
+
+SLOOS continue to indicate reduced demand for loans from small businesses.  Similarly, a poll 
+
+conducted by the Independent Community Bankers of America on January 8 revealed that a lack 
+
+of loan demand was the factor most frequently cited by member institutions as constraining small 
+
+business lending. 
+
+Improving Prospects for Small Business Lending in 2010 
+
+ Improvement in a number of the conditions that depressed lending in 2009, however, lead 
+
+me to be somewhat optimistic that we may begin to see an increase in bank loans later this year.   
+
+First, economic conditions, the most important determinant in the demand for, and availability 
+
+of, small business lending, have improved considerably since the early and middle part of last 
+
+year.  In particular, spending by businesses and households appears to have gained some 
+
+momentum.  However, unemployment remains high, and concerns about the pace of job creation 
+
+this year may restrain the consumer spending that is essential to overall business confidence.  
+
+Encouragingly, financial market conditions have become more supportive of economic growth, 
+
+with notable declines in many risk spreads, some resumption of securitization activity, and a 
+
+rebound of equity prices since their market low in early 2009.   
+
+ While financing conditions certainly remain tight for many small businesses, conditions 
+
+would be considerably worse were it not for the action taken by the Federal Reserve and other 
+
+government agencies in response to the financial crisis.  Beginning in September 2007, the 
+
+Federal Reserve sharply reduced its target for the federal funds rate, which influences interest 
+
+
+
+ 
+
+- 7 -
+
+rates throughout the economy, and since December 2008, the target has been near zero.  To 
+
+improve mortgage market functioning and support housing markets and economic activity more 
+
+broadly, the Federal Reserve has purchased large amounts of debt and mortgage-backed 
+
+securities issued by Fannie Mae, Freddie Mac, and Ginnie Mae in addition to purchasing long-
+
+term Treasury securities to help improve conditions in private credit markets. 
+
+ In the context of the enormous stress in many markets that characterized the financial 
+
+crisis, the Federal Reserve also established new lending facilities and expanded existing facilities 
+
+to respond to the unusual absence of liquidity in important markets and thereby enhanced the 
+
+flow of credit to businesses and households.  In particular, the Federal Reserve has provided 
+
+support to securitization markets, which had been an important source of funding for loans to 
+
+households and businesses.  Securitization markets (other than those for mortgages guaranteed 
+
+by the government or government-sponsored enterprises) essentially shut down in mid-2008.  In 
+
+response, the Federal Reserve, with the support of the Treasury Department, developed the Term 
+
+Asset-Backed Securities Loan Facility (TALF).  The TALF promotes the issuance of securities 
+
+backed by loans to households and small businesses, including auto loans, credit card loans, 
+
+student loans, and loans guaranteed by the Small Business Administration (SBA).  In 2009, the 
+
+program was broadened to allow investors to use the TALF to finance both existing and newly 
+
+issued commercial mortgage-backed securities (CMBS). 
+
+  The TALF helped restart securitization markets and increase the availability of credit to 
+
+small businesses and consumers.  To date, the TALF program has helped finance 480,000 loans 
+
+to small businesses, 2.6 million auto loans, 876,000 student loans, more than 100 million credit 
+
+card accounts, and 100,000 loans to larger businesses.  Included among those business loans are 
+
+4,900 loans to auto dealers to help finance their inventories.  About half of the SBA securities 
+
+
+
+ 
+
+- 8 -
+
+issued in recent months--corresponding to roughly $250 million in loans a month--were sold to 
+
+investors that financed the acquisitions in part with TALF loans.  In an encouraging sign, rate 
+
+spreads for asset-backed securities (ABS) have declined significantly, and a substantial amount 
+
+of ABS are now being brought to market and purchased by investors without TALF financing.  
+
+Thus, the TALF and other Federal Reserve programs provided critical liquidity support to the 
+
+economy until the financial system stabilized.  With the extraordinary stress on liquidity in many 
+
+markets having abated, many of these programs either have been or are scheduled to be wound 
+
+down. 
+
+A second reason to expect some improvement in credit conditions for small businesses is 
+
+that bank attitudes toward lending, including small business lending, may be shifting.  The 
+
+January SLOOS showed that bank tightening of credit standards for small business C&I lending 
+
+appeared to be nearing an end with similar numbers of banks reporting tightening and easing of 
+
+their lending standards. 
+
+ There is also some tentative, anecdotal evidence that many bankers may be devoting 
+
+considerably more energy toward extending new loans in 2010, as contrasted with their 
+
+overwhelming preoccupation in 2009 with collecting on or writing down loans already on their 
+
+books.  With respect to small business lending in particular, some banks have instituted so-called 
+
+“second look” programs that--as the name implies--involve a reconsideration of loan applications 
+
+that would not be pursued based on a credit scoring model alone.  Some banks are also 
+
+increasing lending through the use of SBA guarantees.  Finally, the more noticeable 
+
+improvement that has already taken place in credit conditions for larger companies should, to 
+
+some degree, pass through in the form of trade credit to the smaller suppliers or distributors for 
+
+the larger firms.   
+
+
+
+ 
+
+- 9 -
+
+ Still, as with improvement in macroeconomic conditions, the impact of the turnaround in 
+
+bank attitudes and strategies will likely be gradual.  As noted earlier, the January SLOOS also 
+
+revealed that the credit quality of loans to small firms in the fourth quarter of 2009 was worse 
+
+than for loans to larger firms, so many banks may move cautiously in making new loans. 
+
+Additional Steps to Meet the Needs of Creditworthy Small Business Borrowers 
+
+ Despite these prospects for improvement, credit conditions for many small businesses are 
+
+likely to remain challenging this year.  That is why the Federal Reserve has been placing 
+
+particular emphasis on ensuring that its supervision and examination policies do not 
+
+inadvertently impede sound small business lending.  If financial institutions retreat from sound 
+
+lending opportunities because of concerns about criticism from their examiners, their long-term 
+
+interests and those of small businesses and the economy in general could be negatively affected, 
+
+as businesses are unable to maintain or expand payrolls or to make otherwise profitable and 
+
+productive investments. 
+
+ On February 5, the banking agencies issued guidance to examiners that reinforced a 
+
+simple message--institutions should strive to meet the credit needs of creditworthy small 
+
+business borrowers, and the supervisory agencies will not hinder those efforts.3  For the reasons 
+
+noted earlier, we recognize that the ongoing financial and economic stress has resulted in a 
+
+decrease in credit availability, including loans to small businesses, and has prompted institutions 
+
+to review their lending practices.  Although current loss rates would indicate that a measure of 
+
+tightening was appropriate and necessary, some institutions may have become overly cautious in 
+
+their lending practices.  Thus, while prudence must remain the watchword for both banks and 
+
+                                                            
+3 Interagency Statement on Meeting the Credit Needs of Creditworthy Small Business Borrowers (February 2010);  
+http://www.federalreserve.gov/newsevents/press/bcreg/20100205a.htm 
+
+
+
+ 
+
+- 10 -
+
+their supervisors, we do not want our examiners to take an overly mechanistic approach to 
+
+evaluating small business lending.   
+
+ The Federal Reserve has directed examiners to be mindful of the effects of excessive 
+
+credit tightening on the broader economy.  As a general matter, we do not expect examiners to 
+
+adversely classify loans based solely on a decline in collateral value where, for example, the 
+
+borrower has stable revenue streams and thus the ability to repay the loan.  We have 
+
+implemented training for examiners and outreach to the banking industry to underscore this 
+
+expectation.  We are aware that bankers, as well as examiners, may become overly conservative 
+
+in an attempt to ameliorate past weaknesses in lending practices, and are working to emphasize 
+
+that it is in all parties’ best interests to continue making loans to creditworthy borrowers.   
+
+The most recent guidance is the latest in a series of actions taken by the Federal Reserve 
+
+and the other banking agencies to support sound bank lending and the credit intermediation 
+
+process.  In an effort to encourage prudent CRE loan workouts, the Federal Reserve led the 
+
+development of interagency guidance issued in October 2009 regarding CRE loan restructurings 
+
+and workouts.4  That policy statement provides guidance for examiners and for financial 
+
+institutions who are working with CRE borrowers experiencing diminished operating cash flows, 
+
+depreciated collateral values, or prolonged delays in selling or renting commercial properties, 
+
+particularly as the loans on those properties mature and need to be refinanced.  The statement is 
+
+especially relevant to small businesses because owner-occupied CRE often serves as collateral 
+
+for small business loans.   
+
+Prudent loan workouts are in the best interest of both financial institutions and borrowers, 
+
+particularly during difficult economic conditions.  Accordingly, the CRE policy statement details 
+
+                                                            
+4 Interagency Policy Statement on CRE Loan Restructurings and Workouts (November 2009); 
+http://www.federalreserve.gov/newsevents/press/bcreg/20091030a.htm 
+
+
+
+ 
+
+- 11 -
+
+risk-management practices for loan workouts that support prudent and pragmatic credit and 
+
+business decision making within the framework of financial accuracy, transparency, and timely 
+
+loss recognition.  We hope that the detailed examples in that guidance will be of particular use to 
+
+examiners, who themselves face the difficult task of assessing bank credit practices in this 
+
+uncertain environment.  
+
+ Immediately after the release of the CRE guidance, the Federal Reserve conducted a 
+
+Systemwide teleconference with examiners to underscore the importance of this new guidance 
+
+and promote its consistent application in all regions.  In conjunction with the other federal and 
+
+state banking agencies, Federal Reserve staff has participated in a number of teleconferences 
+
+with various industry groups to discuss the guidance, which have reached several thousand 
+
+bankers to date.  Examiner training and industry outreach will continue, and specific activities 
+
+related to the guidance issued in early February targeting small businesses will augment existing 
+
+examiner training.   
+
+ In January, the Federal Reserve launched a comprehensive Systemwide training initiative 
+
+to further underscore our expectations regarding CRE.  These initiatives themselves build off of 
+
+guidance that the Federal Reserve and other federal banking agencies issued in November 2008 
+
+to encourage banks to meet the needs of creditworthy borrowers--in a manner consistent with 
+
+safety and soundness--and to take a balanced approach in assessing borrowers’ abilities to repay 
+
+and to make realistic assessments of collateral valuations.5  Achieving this balance will not 
+
+always be easy.  We certainly do not want to lay the seeds for future bank problems by 
+
+encouraging or permitting imprudent lending today.  That is why we have emphasized to both 
+
+                                                            
+5 See Board of Governors of the Federal Reserve System, Federal Deposit Insurance Corporation, Office of the 
+Comptroller of the Currency, and Office of Thrift Supervision (2008), “Interagency Statement on Meeting the Needs 
+of Creditworthy Borrowers,” joint press release, November 12, 
+www.federalreserve.gov/newsevents/press/bcreg/20081112a.htm. 
+
+
+
+ 
+
+- 12 -
+
+bankers and our examiners the importance of careful analysis of the circumstances of individual 
+
+borrowers. 
+
+ While aggregate figures are useful to policymakers in assessing overall trends in the 
+
+financial system, they do not tell the whole story.  Determining whether supervisory policies and 
+
+practices are appropriately balanced also requires a close examination of specific circumstances--
+
+for example, through evaluating particular loans that banks were discouraged from making.  
+
+Ongoing outreach will thus be essential as the regulatory agencies and the industry continue to 
+
+work through the many difficult issues brought about by the financial crisis.  Members of the 
+
+Board and senior supervisory staff have met with bankers, including community bankers, to 
+
+elicit examples of supervisory policies or actions that bankers believe may have inhibited 
+
+prudent lending and to discuss in detail some examples of the supervisory agencies’ responses to 
+
+specific lending situations.  It is important that we identify cases in which examiners may be too 
+
+cautious and to further clarify our general guidance.  It is equally important that we reinforce 
+
+those cautious instincts where the circumstances of an application for credit indicate excessive 
+
+risk.  
+
+ In addition to our outreach to banks and bank examiners, the Federal Reserve has 
+
+conducted several forums in recent months to better understand the difficulties faced by small 
+
+businesses.  In mid-November, the Board and the Federal Reserve Bank of San Francisco, in 
+
+conjunction with the SBA, held small business forums in San Francisco and Los Angeles.  We 
+
+are now conducting a series of meetings on small business access to credit hosted by the Reserve 
+
+Banks.  The meetings will be followed by a capstone event at the Board of Governors.  These 
+
+forums examine the evolving difficulties faced by small businesses and will inform additional 
+
+efforts to help this important sector.  Meetings this week focused on minority entrepreneurship 
+
+
+
+ 
+
+- 13 -
+
+and SBA lending.  Some of these meetings will focus on a specific aspect of small business 
+
+lending such as credit gaps with respect to small business credit products, types of financial 
+
+institutions, or demographic groups (including minority borrowers).  Others will employ a 
+
+standard agenda in different parts of the country to ascertain regional differences in small 
+
+business access to credit and support services.   
+
+ Finally, in your invitation letter you asked that we discuss actions taken by the 
+
+Administration to assist small business owners.  As you know, the Administration has 
+
+undertaken a number of actions aimed at improving small businesses’ access to credit.  Since the 
+
+signing of the American Reinvestment and Recovery Act in February 2009, SBA 7(a) and 504 
+
+loan volumes have increased quite substantially relative to the period immediately preceding the 
+
+bill’s passage.  Most recently, the Administration announced a small business lending initiative 
+
+to provide low-cost capital to community banks that submit a plan to increase their small 
+
+business lending and to Community Development Financial Institutions that serve the hardest-hit 
+
+communities.  A number of these small business lending initiatives are new, and their effects on 
+
+small business lending cannot yet be measured.  Nonetheless, a number of programs have been 
+
+established to assist small businesses and the regulatory agencies recently issued guidance that 
+
+strongly encourages banks to meet the needs of creditworthy borrowers.  We will closely 
+
+monitor credit conditions to consider whether additional measures may be needed to ensure that 
+
+the funding needs of qualified small businesses are met in the coming months.  
+
+
+
+
+
+
+
+
+ 
+
+- 14 -
+
+Conclusion 
+
+ While financial market conditions have improved in the United States, the overall lending 
+
+environment remains strained, and significant concerns have been raised about the availability of 
+
+credit to small businesses.  The Federal Reserve, in collaboration with the other banking 
+
+agencies, has worked to ensure that the banking system remains safe and sound and is able to 
+
+meet the credit needs of our economy.  We also have aggressively pursued monetary policy 
+
+actions and have provided liquidity to help restore stability to the financial system and support 
+
+the flow of credit to households and businesses. 
+
+ It will take time for the banking industry to fully recover and to serve as a source of 
+
+strength for the real economy.  The Federal Reserve is committed to working with the other 
+
+banking agencies and the Congress to promote the concurrent goals of fostering credit 
+
+availability for creditworthy borrowers and ensuring a safe and sound banking system.  
+
+ Thank you again for your invitation to discuss these important issues at today’s hearing.  
+
+I would be happy to answer any questions that you may have.  
+
+ 
+

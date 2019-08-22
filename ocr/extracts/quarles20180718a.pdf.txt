@@ -1,0 +1,519 @@
+
+For release on delivery 
+2:00 p.m. EDT (12:00 p.m. MDT) 
+July 18, 2018 
+ 
+
+
+Getting It Right: 
+
+Factors for Tailoring Supervision and Regulation of Large Financial Institutions 
+
+
+Remarks by 
+ 
+
+Randal K. Quarles 
+ 
+
+Vice Chairman for Supervision 
+ 
+
+Board of Governors of the Federal Reserve System 
+ 
+
+at 
+ 
+
+American Bankers Association Summer Leadership Meeting 
+ 
+
+Salt Lake City, Utah 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+July 18, 2018 
+ 
+
+
+
+I want to thank the American Bankers Association for inviting me to speak.1  This 
+
+is an era of relatively rapid evolution in banking regulation, an area of human endeavor 
+
+that is not commonly known for its speedy metamorphoses.  But in the time since I 
+
+became the Vice Chairman for Supervision at the Federal Reserve, we have seen 
+
+agreement on the final pieces of the international framework for post-crisis regulation--
+
+the so-called Basel III endgame.  The Federal Reserve has issued a number of proposed 
+
+rule changes that would improve our capital and stress testing regime.  And in late May, 
+
+the Congress enacted the Economic Growth, Regulatory Relief, and Consumer Protection 
+
+Act (EGRRCPA), which, among other things, directs us to further tailor our supervision 
+
+and regulation of large banks with more than $100 billion in assets.  In other words, the 
+
+Congress wants to see action and has, to a certain degree, specified some of the steps we 
+
+need to take.  How we respond to that task, especially as it applies to large banks, will be 
+
+the focus of my remarks today.  
+
+But before I delve into those details, I want to provide an overview of what I hope 
+
+you’ll take away.  
+
+First, I want to underscore that I believe tailoring of financial regulation is good 
+
+public policy.  The Federal Reserve Board is a firm adherent of the recent legislation’s 
+
+underlying principle that regulation should be tailored to risk.  To an extent, as I will later 
+
+describe, this principle is already embedded in several aspects of our supervisory 
+
+framework. 
+
+                                                 
+1  The views I express here are my own and not necessarily those of the Board of Governors of the Federal 
+Reserve System. 
+
+
+ - 2 - 
+
+Second, the Federal Reserve will need to revise its framework to allow for a 
+
+greater differentiation in the supervision and regulation of large firms.  To date, our 
+
+tailoring of regulations has been based largely--but not exclusively--on asset size, which 
+
+reflects an unduly one-dimensional approach.  We have been evaluating additional 
+
+criteria that may provide for greater regulatory differentiation across large banks, and the 
+
+recent legislation is consistent with the goals of that initiative.  Specifically, the 
+
+legislation recognizes that large banks have a variety of business models and risk 
+
+profiles; supervision should be flexible enough to incorporate this heterogeneity.  
+
+Third, I believe we already have a good start on a path forward for tailoring 
+
+regulation.  In my remarks today, I will touch upon some potential factors we have 
+
+identified for tailoring the supervision and regulation of large banks. 
+
+Tailoring: A Primary Component of Post-Crisis Supervision and Regulation 
+
+I think everyone in this room would agree that--while there are important ways it 
+
+can be improved--the body of post-crisis regulation adopted by the Federal Reserve and 
+
+its fellow banking agencies has, taken as a whole, clearly made the U.S. financial system 
+
+stronger and more resilient.  In implementing these reforms, the Fed sought to achieve 
+
+two parallel goals: (1) promoting the safety and soundness of individual banking 
+
+organizations and (2) enhancing the stability of the broader U.S. financial system. 
+
+A certain amount of tailoring was reflected from the beginning in how the Fed 
+
+sought to achieve these goals.  As the Board built its post-crisis framework, supervision 
+
+and regulation were designed to increase in stringency in tandem with a firm’s size and 
+
+systemic footprint.  This can be seen in stricter requirements in various elements of the 
+
+regulatory capital framework that apply only to larger or more complex banks, including 
+
+
+ - 3 - 
+
+certain buffers and surcharges, the application of the supplementary leverage ratio, and 
+
+the application of the qualitative objections as part of the Board’s capital planning 
+
+framework, among others.  In April, the Board proposed the stress capital buffer, which 
+
+would simplify its regulatory capital requirements for the largest banks by integrating the 
+
+stress test results with the Board’s non-stress capital requirements.  
+
+Further, the Board recognized that the failure of one of the largest banking 
+
+organizations could create spillovers that would undermine U.S. financial stability and 
+
+harm consumers and the broader economy.  To offset this risk, the Board has required 
+
+these firms to internalize the cost of their potential failure in a tailored manner that 
+
+corresponds with their importance to the U.S. financial system.  These efforts include the 
+
+Board’s capital surcharge for global systemically important banks (G-SIBs) and total 
+
+loss-absorbing capacity requirements. 
+
+The EGRRCPA and Tailoring 
+
+But while the concept of tailoring is inherent in how the Board thinks about 
+
+supervision and regulation, reasonable people can disagree on the sufficiency of tailoring 
+
+to date.  In my view, we’ve made a good start in improving the efficiency of our 
+
+regulatory regime.  But we still have more to do to streamline our framework in a manner 
+
+that more directly addresses firm-specific risks. 
+
+The recent legislation requires us to reevaluate how we regulate banks that have 
+
+between $100 billion and $250 billion in total assets.  In particular, we need to make a 
+
+tailoring-related decision in the near term:  How will we decide which enhanced 
+
+prudential standards should apply to which firms with total assets between $100 billion 
+
+and $250 billion?   
+
+
+ - 4 - 
+
+In applying enhanced prudential standards for firms with total assets of more than 
+
+$100 billion, the Congress requires the Board to consider not only size but also capital 
+
+structure, riskiness, complexity, financial activities, and any other factors the Board 
+
+deems relevant.  While we use similar factors to calibrate the largest firms’ G-SIB 
+
+surcharges, we have not used them more holistically to tailor the overall supervision and 
+
+regulation of large banks that do not qualify as G-SIBs.  Further, consistent with the 
+
+legislation’s tailoring requirements, the Board must proactively consider how firms with 
+
+more than $250 billion in assets that do not qualify as G-SIBs may be more efficiently 
+
+regulated by applying more tailored standards.  
+
+In conjunction with changing regulations, we also need to consider how such 
+
+changes would be reflected in supervisory programs, guidance, and regulatory reporting.  
+
+As supervisors, we need to balance providing appropriate relief to firms with ensuring 
+
+that firms are maintaining resources and risk-management practices so they can be 
+
+resilient under a range of conditions.  We must also ensure we receive the right 
+
+information in a timely manner so we can identify emerging risks. 
+
+A Path Forward 
+
+Banks with Assets between $100 Billion and $250 Billion 
+
+I want to spend the balance of my time focusing on the question I previously 
+
+posed:  On what basis will we decide to apply enhanced prudential standards to firms 
+
+with total assets in the $100-billion to $250-billion range?  The recent legislation directs 
+
+the Board to consider factors other than size for differentiating supervision and regulation 
+
+of large banking organizations.  
+
+
+ - 5 - 
+
+Before I talk about the “other” factors, let me acknowledge the merits of size as 
+
+one relevant factor to include on the list.  We know that the effect of a large bank’s 
+
+failure on the economy is greater than when a smaller bank fails, even though the two 
+
+banks might be engaged in similar business lines.  The recent financial crisis in 2008–09 
+
+saw a much more severe recession than other financial crises, such as the savings and 
+
+loan crisis in the late 1980s that preceded the relatively mild recession of 1990–91, and 
+
+this appears at least in part related to the size of the affected institutions.  In fact, 
+
+empirical research done at the Federal Reserve shows that stress among larger banks does 
+
+more significant harm to the economy than stress at smaller banks, even after controlling 
+
+for the aggregate size of bank failures.2  We also know that larger banks are more 
+
+operationally complex--even when not engaged in complex business lines--with a broader 
+
+geographic scope and more layers of management than smaller banks.  Therefore, it 
+
+seems appropriate to me that a path forward for tailoring supervision and regulation of 
+
+large banks should not ignore size, but consider it as one factor--although only one 
+
+factor--along with other factors. 
+
+Before the enactment of the recent legislation, we had begun work on considering 
+
+additional factors that capture large firms’ degree of complexity and interconnectedness 
+
+that--in conjunction with size--may provide a better basis for tailoring supervision and 
+
+regulation than size alone.  The systemic effect of a bank’s failure or distress is positively 
+
+correlated with that organization’s business, operational, and structural complexity.  
+
+                                                 
+2  Pending research to be published by Federal Reserve Board staff in the near future suggests that an 
+increase in bank stress results in poorer economic performance in a way that scales with bank size. Put 
+another way, staff estimate that stress at a single bank with $250 billion in deposits would result in roughly 
+an 84 percent decline in quarterly GDP growth, while stress among five banks each with $50 billion in 
+deposits would result in roughly a 24 percent decline in quarterly GDP growth. Although both scenarios 
+have $250 billion in total failed deposits, the negative impact is greater when the largest bank is stressed. 
+
+
+ - 6 - 
+
+Generally, the more complex a banking organization is, the greater the expense and time 
+
+necessary to resolve it.  Similarly, financial institutions may be interconnected in many 
+
+ways, as large banks commonly engage in transactions with other financial institutions 
+
+that give rise to a wide range of contractual obligations.  Financial distress at a large bank 
+
+may materially raise the likelihood of distress at other firms given the network of 
+
+contractual obligations throughout the financial system.  
+
+So how do we gauge the degree of complexity and interconnectedness of large 
+
+firms?  Rather than formulating new and untested measures of these factors, I believe we 
+
+would be well served to begin by looking to our body of post-crisis regulation as a 
+
+source.  I will highlight a few factors that already reside in various areas of our regulatory 
+
+framework that I am considering.  
+
+The G-SIB surcharge indicators are likely to be a helpful source in this effort.  For 
+
+example, one factor from that framework that we might consider for purposes of tailoring 
+
+is cross-border activity.  This would measure assets and liabilities related to transactions 
+
+with foreign banks, individuals, and companies, among others.  This factor measures both 
+
+a firm’s complexity and resolvability, as foreign operations add operational complexity in 
+
+normal times and complicate the ability of the firm to undergo an orderly resolution in 
+
+times of stress. 
+
+Another factor from the G-SIB surcharge framework that could be useful is a 
+
+firm’s use of short-term wholesale funding, which may serve as a proxy for liquidity 
+
+vulnerability.  Historically, reliance on short-term, uninsured funding from sophisticated 
+
+funding sources has created vulnerability to large-scale funding runs and increased risks 
+
+related to financial sector interconnectedness.  Specifically, this can lead to “fire sale” 
+
+
+ - 7 - 
+
+effects that may affect broader financial stability--which occurs when banks that fund 
+
+long-term or illiquid assets with short-term deposits from financial intermediaries like 
+
+pension funds and money market mutual funds need to rapidly sell less-liquid assets to 
+
+maintain their operations. 
+
+Outside of the G-SIB surcharge framework, the Board has employed a measure of 
+
+nonbank activities in certain rulemakings.  These activities, which are conducted outside 
+
+of a regulated depository institution, represent another source of complexity for large 
+
+banks.  For example, some nonbank entities engage in complex trading that is not 
+
+permitted in depository institutions because of their risk. 
+
+Banks with Assets Greater Than $250 Billion 
+
+In addition to thinking about how we will tailor our regulation and supervisory 
+
+programs for firms with assets between $100 billion and $250 billion, I believe the Board 
+
+should also review the requirements applicable to the firms with more than $250 billion 
+
+in total assets but below the G-SIB threshold.  This review should ensure that our 
+
+regulations continue to appropriately increase in stringency as the risk profiles of firms 
+
+increase, consistent with our previously stated tailoring goals and the new legislation.  
+
+The supervision and regulatory framework for these firms should reflect that there are 
+
+material differences between those firms that qualify as U.S. G-SIBs and those that do 
+
+not.  For example, we know that non-G-SIBs with more than $250 billion in assets are 
+
+generally less complex and less interconnected than U.S. G-SIBs and thus pose relatively 
+
+less risk to financial stability.  G-SIBs, on the other hand, have more complex activities, 
+
+are more interconnected, and pose a far greater risk to financial stability should they fail.  
+
+Yet at the moment, many aspects of our regulatory regime treat any bank with more than 
+
+
+ - 8 - 
+
+$250 billion in assets with the same stringency as a G-SIB.  I believe there should be a 
+
+clear differentiation. 
+
+Next Steps from the Federal Reserve 
+
+In my view, the Board should make it a near-term priority to issue a proposed rule 
+
+concerning tailoring of enhanced prudential standards for large banking firms.  This 
+
+proposal, of course subject to  notice and comment, would address our statutory 
+
+obligations under the recent legislation by proposing to tailor enhanced prudential 
+
+standards in a manner that recognizes relative complexity and interconnectedness among 
+
+large banks.  The statute sets an 18-month deadline for this regulatory process, but we 
+
+can and will move much more rapidly than this. 
+
+In terms of capital requirements, both risk-based and leverage capital 
+
+requirements should remain core components of regulation for large firms with more than 
+
+$100 billion in total assets.  Stress testing should continue to play an important role in 
+
+assessing potential losses that large firms would suffer under a severely adverse 
+
+economic scenario; the recent legislation recognized the importance of stress testing by 
+
+requiring a supervisory stress test for these large firms.  Therefore, the Board’s proposed 
+
+stress capital buffer, if finalized, would be critical for these firms.  
+
+However, we could consider a number of changes for less complex and less 
+
+interconnected firms related to their capital requirements.  For example, such firms, even 
+
+if above $250 billion in assets, could have less frequent company-run stress tests.  For 
+
+those below $250 billion in assets, the statute requires supervisory stress tests to be 
+
+conducted “periodically”, which suggests the legislature wanted us to at least consider a 
+
+rhythm other than annually.  Additionally, less complex and less interconnected firms 
+
+
+ - 9 - 
+
+could be exempted from requirements to calculate risk-weighted assets under the models-
+
+based advanced approaches to capital. 
+
+I continue to strongly believe that liquidity regulation should be a primary 
+
+component of supervision and regulation of large banks.  We all saw the central role that 
+
+liquidity risk played in the recent financial crisis.  Minimum standardized liquidity 
+
+measures and internal liquidity stress tests remain critical at firms with more than $100 
+
+billion in total assets.  However, for less complex and less interconnected firms with 
+
+assets greater than $100 billion, there may be opportunities to modify aspects of the 
+
+standardized liquidity requirements as well as expectations around internal liquidity stress 
+
+tests and liquidity risk management.  Similarly, banks with more than $250 billion in 
+
+assets that are not G-SIBs currently face largely the same liquidity regulation as G-SIBs.  
+
+As I’ve said previously, I believe it would make sense to calibrate the liquidity 
+
+requirements differently for these firms relative to their G-SIB counterparts.  
+
+Resolution planning is especially critical to ensure that the largest banking firms 
+
+structure their operations in ways that make it more possible for them to be resolved upon 
+
+failure without causing systemic risks for the broader economy.  But most firms with 
+
+total assets between $100 billion and $250 billion do not pose a high degree of 
+
+resolvability risk, especially if they are less complex and less interconnected.  Therefore, 
+
+we should consider scaling back or removing entirely resolution planning requirements 
+
+for most of the firms in that asset range.  Further, we should consider limiting the scope 
+
+of application of resolution planning requirements to only the largest, most complex, and 
+
+most interconnected banking firms because their failure poses the greatest spillover risks 
+
+to the broader economy.  For firms that would still be subject to resolution planning 
+
+
+ - 10 - 
+
+requirements, we could reduce the frequency and burden of such requirements, perhaps 
+
+by requiring more-targeted resolution plans. 
+
+Conclusion 
+
+In conclusion, I believe we have a unique opportunity to further tailor our 
+
+supervision and regulation framework for large banks in a manner that allows us to be 
+
+more risk-sensitive while still meeting our core goals of promoting safety and soundness 
+
+and enhancing financial stability.  
+
+The recent legislation requires the Board to tailor its framework of supervision 
+
+and regulation of large firms in a manner that continues to recognize size as one risk 
+
+factor, but also more holistically incorporates other risk categories.  In implementing this 
+
+legislation, we should consider tailoring regulation further to take into account large 
+
+banks’ complexity and interconnectedness. 
+
+Of course, the details of how we implement a tailored framework will be subject 
+
+to debate, and you can expect the Federal Reserve to be highly engaged in the public 
+
+feedback process.  Implementing the Economic Growth, Regulatory Relief, and 
+
+Consumer Protection Act is a high priority for the Board, and we look forward to hearing 
+
+the range of views as we make progress. 
+
+
+

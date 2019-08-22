@@ -1,0 +1,536 @@
+
+For release on delivery 
+10:30 a.m. EDT 
+April 8, 2010 
+ 
+ 
+ 
+ 
+
+The Present and Future of Community Banking 
+ 
+
+by 
+ 
+
+Daniel K. Tarullo 
+
+Governor 
+
+Board of Governors of the Federal Reserve System 
+
+at the 
+
+Federal Reserve Bank of New York Community Bankers’ Conference 
+
+New York, New York 
+
+
+
+April 8, 2010 
+
+
+
+
+These are difficult times for many community banks, a reflection of the difficult times for 
+
+the many workers and businesses across the nation who depend on the loans provided by your 
+
+institutions.  This morning I will address some of the problems that you currently face and offer a 
+
+few thoughts about the future of community banking.  Before doing so, however, I thought it 
+
+would be useful to explain my perspective on the Federal Reserve’s monetary policy posture, 
+
+which will obviously have great significance for the economic environment in which community 
+
+banks will be operating.  Specifically, I want to speak about what has become known as our “exit 
+
+strategy”--that is, the means by which the Federal Reserve will bring to an end the extraordinary 
+
+lending and monetary policies that it adopted in response to the financial crisis.  
+
+Planning and Implementing an Exit Strategy 
+
+In thinking about an exit strategy, it is important to distinguish between two types of 
+
+policies that the Federal Reserve adopted, beginning in 2007 and continuing thereafter, beyond 
+
+its sharp reductions in the target for the federal funds rate.  First, the Federal Reserve created a 
+
+number of liquidity programs, which provided well-secured, mostly short-term credit to various 
+
+parts of the financial system that were under increasingly severe strains.  Among these were the 
+
+Term Auction Facility (TAF), which auctioned short-term funds to banks; the Primary Dealer 
+
+Credit Facility, which served as a backstop liquidity provider for securities firms; the Term 
+
+Asset-Backed Securities Loan Facility (TALF), which was designed to help revive the market for 
+
+asset-backed securities, and others.   
+
+Second, and separately, the Federal Open Market Committee (FOMC) undertook large-
+
+scale purchases of Treasury securities, agency mortgage-backed securities, and agency debt.   
+
+This unconventional monetary policy action was taken because the FOMC, after having reduced 
+
+short-term interest rates nearly to zero, determined that the severity of the economic downturn 
+
+
+‐ 2 ‐ 
+ 
+
+made additional stimulus necessary.  In addition to improving conditions in mortgage markets, 
+
+these asset purchases helped lower yields on long-term debt; they also substantially increased the 
+
+level of reserve balances that depository institutions held with Federal Reserve Banks. 
+
+Thus, while reference is often made to a single exit strategy, there are in fact two separate 
+
+objectives:  One is to terminate the special liquidity facilities and otherwise normalize our 
+
+activities as liquidity provider of last resort when the exceptional stresses have eased sufficiently.  
+
+The other is to raise interest rates when warranted by economic conditions.  Historically, the Fed 
+
+has affected the level of short-term interest rates primarily by varying the supply of bank 
+
+reserves.  However, as I just mentioned, the Fed’s asset purchases have had the effect of putting 
+
+an unusually high level of reserves into the banking system.  Thus, in order to tighten monetary 
+
+policy, the Fed cannot simply raise its target for the federal funds rate; it will have to take other 
+
+steps to ensure that interest rates actually increase. 
+
+The first objective has now been substantially achieved.  Diminished use of some of our 
+
+special facilities followed the easing of liquidity stresses in the relevant markets, and led 
+
+naturally to our closing those facilities.  In other cases, we decided that liquidity conditions had 
+
+improved enough that further support was not warranted and that markets should function on 
+
+their own.  Many of our liquidity facilities expired in February, and last month we ended the 
+
+TAF and most of the TALF.  All that now remains of the special liquidity facilities is the part of 
+
+the TALF for loans backed by newly issued commercial mortgage-backed securities, which itself 
+
+is scheduled to close on June 30.  We have also restored pre-crisis practice with respect to the 
+
+maximum maturity of discount window loans and have increased the rate on such loans to 50 
+
+basis points over the rate we pay on reserve balances, from the 25 basis point level that was put 
+
+in place during the crisis.  I would emphasize that the winding down of our emergency liquidity 
+
+
+‐ 3 ‐ 
+ 
+
+facilities and the normalization of the terms for discount window credit were undertaken because 
+
+the recovery in financial markets suggested that they were no longer necessary.  These changes 
+
+were not expected to lead to tighter financial conditions for households and businesses and they 
+
+did not signal any change in the outlook for the economy or for monetary policy. 
+
+As I have indicated, the second objective will likely require some innovative measures, 
+
+insofar as, all else equal, the unusually high level of reserve balances would undercut efforts to 
+
+raise the federal funds rate through conventional means.  As Chairman Bernanke has detailed in 
+
+his speeches and Congressional testimony, we have a number of tools that will allow us to 
+
+accomplish this task at the appropriate time.1  The most important instrument is likely to be 
+
+increasing the interest rate paid to banks on the reserves they hold with the Fed.  Raising this rate 
+
+should itself tend to raise the federal funds rate, because banks have little incentive to lend into 
+
+the federal funds market at rates below what they can earn risk-free at the Fed.  The efficacy of 
+
+this instrument can be increased by draining reserves through the use of a number of instruments, 
+
+including reverse repurchase agreements (reverse repos), term deposits for reserve balances, and, 
+
+if necessary, sales of assets on our balance sheet.  Thus, unlike a monetary policy action under 
+
+more normal conditions, our eventual decision to raise interest rates will require a determination 
+
+of the mix and sequencing of these policy tools, as well as the basic determination of when 
+
+monetary tightening is appropriate. 
+
+In recent months, the Federal Reserve has been evaluating the likely effects of each of 
+
+these tools.  We have also successfully tested our capacity to carry out reverse repo transactions 
+
+and are expanding the group of counterparties with which these transactions can be carried out. 
+
+We have also been working on the development of a term deposit facility.  These analytic and 
+
+                                                       
+1 Ben S. Bernanke (2010), “Federal Reserve’s exit strategy,” statement before the Committee on Financial Services, 
+U.S. House of Representatives, March 25,  
+(www.federalreserve.gov/newsevents/testimony/bernanke20100325a.htm). 
+
+
+‐ 4 ‐ 
+ 
+
+practical steps are obviously taking place in preparation for a change in monetary policy.  But it 
+
+is important to emphasize that the completion of preparatory steps need not be followed in short 
+
+order by the initiation of tightening measures.  The preparations for exit will allow us to move 
+
+with confidence when the time is right.  They do not push us toward the door.  Indeed, the 
+
+relatively modest pace of recovery, the continued high rate of unemployment, subdued inflation 
+
+trends, and well-anchored inflation expectations together suggest that the need for highly 
+
+accommodative monetary policies will not diminish soon.  Of course, we should and will be 
+
+attentive to new information suggesting otherwise. 
+
+As to the precise mix and sequencing of tools when the time to tighten does come, the 
+
+FOMC should continue to analyze conditions and keep the public apprised of our thinking.  But 
+
+it seems to me neither necessary nor advisable to decide upon a single game plan that will be 
+
+announced in advance and rigidly implemented after a decision is made to raise rates.  Apart 
+
+from the key element of raising interest rates on reserves, the optimal strategy will likely depend 
+
+on the specific money market and lending conditions that prevail at the time.  For instance, some 
+
+circumstances might dictate the advisability of a quite rapid sequence of reserve draining and 
+
+interest rate raising steps, whereas other conditions might argue for a more measured and 
+
+incremental approach.   
+
+Like many others--on and off the FOMC--I have certain predispositions in considering 
+
+the question of an exit strategy.  For example, I would be very cautious about any exit strategy 
+
+that includes early asset sales.  While we ultimately want to move our balance sheet back to a 
+
+more traditional structure, the effects of such sales are very uncertain, particularly in a period 
+
+before a sustainable recovery is well established.  But, as with all monetary policy decisions, we 
+
+should ultimately tailor the particulars of our response to the circumstances as we find them.  If 
+
+
+‐ 5 ‐ 
+ 
+
+anything, the unprecedented nature of this exercise means that we should be unusually attuned to 
+
+economic and financial conditions during, as well as before, our exit, and we should be prepared 
+
+to make prudent adjustments as necessary. 
+
+Community Banks Today 
+
+Let me turn now more specifically to the state of community banking.  Convention at the 
+
+Federal Reserve defines a community banking organization as any institution with assets of $10 
+
+billion or less.  Although this size-based definition correlates well with the other characteristics 
+
+of community banks, such a quantitative measure doesn’t capture the full meaning of the term 
+
+“community bank” or illuminate the business model behind the term.    
+
+Community banks are locally owned and focus their attention on the needs of the 
+
+community and its businesses.  Because they are grounded in their communities, these banks are 
+
+able to provide services that are personalized, and tailored to meet local preferences and needs.  
+
+Community banks transform local deposits into loans to the community where their depositors 
+
+live and work.  By doing this, they help to keep their local economies vital and growing. 
+
+Community banks thus epitomize the notion of relationship banking.  They are better 
+
+positioned than their national competitors to go beyond models and consider other factors when 
+
+making credit decisions.  They can often respond faster to lending requests than their national 
+
+competitors because of their direct knowledge of their customers’ financing needs and debt 
+
+servicing capacities.  
+
+To appreciate the importance of community banks, we need look no further than small 
+
+business lending.  Other than personal borrowing or credit card use by proprietors, community 
+
+banks are often the only source of credit potentially available to smaller businesses.  Indeed, it is 
+
+precisely in this kind of lending that an exercise of judgment based on the characteristics of 
+
+
+‐ 6 ‐ 
+ 
+
+borrowers and local economic conditions is most likely to be significant in making decisions on 
+
+creditworthiness. 
+
+Large numbers of community banks thrive in the United States operating under the model 
+
+just described.  But, as with all banks, the fortunes of these institutions have ebbed and flowed 
+
+with economic conditions, and the number of community banks has consistently declined over 
+
+the last few decades.  During the current economic downturn, community banks have been 
+
+particularly hard hit.  During 2009, banks with assets of $10 billion or less recorded an aggregate 
+
+net loss of more than $4 billion.  This weak performance stemmed primarily from sustained 
+
+deterioration in residential mortgages and commercial real estate loans.  Loan loss provisions 
+
+reached $33.0 billion, seven times the pre-crisis level of $4.5 billion recorded in 2006.  Net 
+
+interest margins also narrowed, squeezed by a substantial rise in nonaccruing assets, and the 
+
+nonperforming assets ratio reached nearly five percent.  
+
+Almost one in every three community banks recorded a net loss last year.  Moreover, 
+
+only a little more than one quarter of these institutions reported a return on assets of one percent 
+
+or more (a typical measure of sound earnings performance), down from 56 percent of institutions 
+
+in the pre-crisis year 2006.  And the FDIC problem list recently reached 702 banks and thrifts, its 
+
+highest level since 1993.   
+
+The Challenges for Community Banks 
+
+Given these circumstances, the immediate challenges for many community banks are 
+
+clear.  The first order of business for many will be to address concentrations and weaknesses in 
+
+commercial real estate (CRE) lending activities.  This will require not only rethinking credit 
+
+administration practices and management information system (MIS) requirements, but also 
+
+expanding loan workout expertise and disposing of acquired real estate with a minimum of 
+
+
+‐ 7 ‐ 
+ 
+
+additional loss.  This last task could be complicated by the large volume of commercial 
+
+properties expected to come onto the market as a result of failures of other banks that 
+
+concentrated their lending in the commercial real estate sector.  Loan writedowns and loan 
+
+provisioning will also require management attention, and frequent updates of appraisals or 
+
+evaluations may be required to support impairment analyses. 
+
+Coping with CRE problems will not be easy.  I expect these problems to be with us for 
+
+some time to come, with both direct and indirect consequences for many smaller banks.  
+
+Recognizing the effect that difficult real estate conditions were having on banks’ loan quality and 
+
+thereby their lending activities, last year the Federal Reserve and other banking agencies issued 
+
+guidance addressing the restructuring and workout of commercial real estate loans.2  This policy 
+
+statement set forth a framework for prudently working out commercial real estate loans and, 
+
+importantly, included specific examples to guide examiners and bankers in evaluating these 
+
+loans and their prospects for rehabilitation.  Because many small business loans are supported by 
+
+commercial real estate collateral, we hope that this guidance will not only help to alleviate undue 
+
+pressures on commercial real estate markets, but also to improve the climate for small business 
+
+lending. 
+
+Our guidance is not an invitation to lend and pretend.  It is a commitment that Federal 
+
+Reserve supervisors will not take a mechanical or reflexive approach to your management of 
+
+CRE exposures that are, or soon could be, problems.  If you believe that we are not 
+
+implementing the terms of this guidance, please let us know and give us the details.  Only with 
+
+                                                       
+2 Board of Governors of the Federal Reserve System (2009), “Federal Reserve Adopts Policy Statement Supporting 
+Prudent Commercial Real Estate (CRE) Loan Workouts,” press release, October 30, 
+(www.federalreserve.gov/newsevents/press/bcreg/20091030a.htm). 
+ 
+
+
+‐ 8 ‐ 
+ 
+
+such detailed information can our senior supervisory officials at the Federal Reserve Board 
+
+determine if our implementation is in fact promoting the policies set forth in last fall’s guidance. 
+
+As if the core CRE problems were not enough, community banks face other short-term 
+
+challenges.  While liquidity strains have eased following temporary increases in deposit 
+
+insurance and the gradual stabilization of market conditions, banks will also have to bolster 
+
+liquidity contingency funding planning.  Some banks that relied to a significant degree on so-
+
+called noncore funding sources to grow rapidly in the run-up to the crisis may have to rework 
+
+their business plans to secure more stable funding sources.  Additionally, capital planning will 
+
+need to be strengthened across all institutions as companies adjust to the change in market 
+
+conditions and investor expectations for higher capital cushions.   
+
+Although these immediate financial challenges will, I am afraid, overwhelm quite a 
+
+number of community banks this year, the vast majority will survive the present downturn.  
+
+These survivors, however, will face a substantially different operating environment than they 
+
+saw earlier this decade, and will need to adjust their operations to prosper over the long term.   
+
+The financial crisis was ignited far from the operations of community banks.  However, 
+
+we must overhaul our regulatory regime, so as better to contain systemic risk and the threats 
+
+posed to the financial system by institutions perceived as too big to fail.  Still, as the CRE 
+
+situation graphically demonstrates, too many community banks have proven unable to manage 
+
+their high concentrations of exposures.  As a result, we expect bankers in the coming years to try 
+
+to escape, and then avoid, high loan concentrations, regardless of loan type. 
+
+Important as this goal is, it will not be easy to achieve for many banks.  For example, one 
+
+means to this end would be to operate a bank with much higher capital ratios and thereby lower 
+
+concentrations.  This strategy, however, would lower a bank’s returns and, while that may be 
+
+
+‐ 9 ‐ 
+ 
+
+manageable for a closely held bank, it would make any needed capital raises more difficult for a 
+
+publicly traded community bank.   
+
+Alternatively, banks could further diversify their loan and investment portfolios, 
+
+expanding into lower risk or new loan and investment segments.  But this too presents 
+
+difficulties.  For one thing, lower risk assets have lower returns.  Also, one of the reasons 
+
+community banks have been so concentrated in commercial real estate loans is stiff competition 
+
+for other types of loans, such as consumer installment loans, from larger banks and other 
+
+nonbank competitors.   
+
+A second long-term challenge facing community banks is the secular compression in the 
+
+net interest margin.  Despite all of the emphasis on noninterest revenues in recent years, 
+
+community banks have continued to rely heavily on spread income, indicating that many 
+
+community banks have been unsuccessful in diversifying their revenue streams.3  The aggregate 
+
+net interest margin for banks with assets of $10 billion or less has also tightened considerably as 
+
+competition in the debt and lending markets has intensified, compressing by more than 70 basis 
+
+points over the last 10 years to 3.63 percent.  As a result, it becomes more difficult for 
+
+community banks to cover their overhead, pressuring their earnings and their ability to support 
+
+capital needs from internal sources. 
+
+It is possible that this declining trend in spread income could be reversed once the high 
+
+level of non-accruing assets falls and if the premium charged for credit risk remains elevated 
+
+once the current crisis has passed.  Smaller banks may also find that they are able to win good, 
+
+solid business away from their national competitors, if customers turn away from large banks as 
+
+a consequence of the crisis.  But community banks cannot count on this happening. 
+
+                                                       
+3 On average, during the five years ending December 31, 2004, community banks generated 32 percent of their 
+revenue from noninterest-based sources.  For the most recent five years ending December 31, 2009, the average 
+contribution of noninterest income to total revenues was even lower, at 27 percent. 
+
+
+‐ 10 ‐ 
+ 
+
+As a result, some banks may reach further out on the risk spectrum to relieve earnings 
+
+pressures.  We have seen these actions in the past, for example, when banks have engaged in ill-
+
+conceived investment securities leveraging programs or entered the subprime credit card market 
+
+to expand their income.  Others may be tempted to cut back on critical risk-management 
+
+infrastructure, such as loan review, to pare expenses and enhance returns.  Some may also simply 
+
+pull back from market pricing if they think it is too thin and accept a lower return. 
+
+Regardless of the course of action you pursue, you will confront risk and reward trade-
+
+offs that will fundamentally affect the financial condition and performance, and ultimately safety 
+
+and soundness, of your banks.  I cannot emphasize enough the importance of being 
+
+attentive to the implications of changes in your business activities for your risk levels.  Far more 
+
+often than you might expect, we encounter banks that have not adequately thought through the 
+
+potential risks of a new business line or lending product and that later suffer adverse financial 
+
+consequences. 
+
+Conclusion 
+
+In closing, let me say how encouraged I am that, despite your struggles in the current 
+
+economic environment, most community banks remain sound and profitable.  In a sense, the 
+
+lessons from the financial crisis are paradoxical.  On the one hand, the crisis has underscored the 
+
+importance of a strong community banking system to the health of local economies around the 
+
+country, particularly in keeping credit flowing to small businesses.  On the other hand, the crisis 
+
+and its aftermath will work changes, some painful, in all parts of our financial system, including 
+
+those involving community banks.  My concluding thought is that it is not too soon to begin 
+
+considering your strategy in light of these changes.    
+
+
+

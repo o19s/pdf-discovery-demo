@@ -1,0 +1,584 @@
+
+For release on delivery 
+9:15 a.m. EDT 
+May 6, 2015 
+ 
+
+
+Finance and Society 
+ 
+ 
+ 
+
+Remarks by 
+ 
+
+Janet L. Yellen 
+ 
+
+Chair 
+ 
+
+Board of Governors of the Federal Reserve System 
+ 
+
+at 
+ 
+
+“Finance and Society,” a conference sponsored by  
+Institute for New Economic Thinking 
+
+ 
+Washington, D.C. 
+
+
+May 6, 2015 
+ 
+
+
+
+Let me begin by thanking the organizers for inviting me to participate in this 
+
+important dialogue on the role of finance in society.  The financial sector is vital to the 
+
+economy.  A well-functioning financial sector promotes job creation, innovation, and 
+
+inclusive economic growth.  But when the incentives facing financial firms are distorted, 
+
+these firms may act in ways that can harm society.  Appropriate regulation, coupled with 
+
+vigilant supervision, is essential to address these issues.    
+
+Unfortunately, in the years preceding the financial crisis, all too many firms took 
+
+on risks they could neither measure nor manage.  Leverage, interconnectedness, and 
+
+maturity and liquidity transformation escalated to dangerous levels across the financial 
+
+system.  The result was the most severe financial crisis and economic downturn since the 
+
+Great Depression.  Almost 9 million Americans lost their jobs, roughly twice as many 
+
+lost their homes, and all too many households ended up underwater on their mortgages 
+
+and overburdened with debt.  To be sure, some individuals and families borrowed 
+
+unwisely, but too often financial institutions encouraged the behavior that resulted in 
+
+such excessive debt.   
+
+In my remarks today I will discuss some important reasons why the incentives 
+
+facing financial institutions were distorted and the steps that regulators are taking to 
+
+realign those incentives.    
+
+The Important Role of the Financial Sector 
+
+Before discussing the incentives that contributed to the buildup of risk at financial 
+
+institutions, I would like to highlight the important contributions that the financial sector 
+
+makes to the economy and society.  First and foremost, financial institutions channel 
+
+society’s scarce savings to productive investments, thereby promoting business formation 
+
+
+ - 2 - 
+
+and job creation.  Access to capital is important for all firms, but it is particularly vital for 
+
+startups and young firms, which often lack a sufficient stream of earnings to increase 
+
+employment and internally finance capital spending.  Indeed, research shows that more 
+
+highly developed financial systems disproportionately benefit entrepreneurship.1  
+
+The financial sector also helps households save for retirement, purchase homes 
+
+and cars, and weather unexpected developments.  Many financial innovations, such as the 
+
+increased availability of low-cost mutual funds, have improved opportunities for 
+
+households to participate in asset markets and diversify their holdings.2  Expanded credit 
+
+access has helped households maintain living standards when suffering job loss, illness, 
+
+or other unexpected contingencies.3  Technological innovations have increased the ease 
+
+and convenience with which individuals make and receive payments.4  
+
+The contribution of the financial sector to household risk management and 
+
+business investment, as well as the significant contribution of financial-sector 
+
+development to economic growth, has been documented in many studies.5  Such research 
+
+1 Recent reviews have highlighted potential costs of a distorted financial sector, but such reviews also 
+emphasize the range of both theoretical and empirical work that has documented the many ways in which 
+the financial sector can support economic efficiency; see, for example, Greenwood and Scharfstein (2013) 
+and Zingales (2015).  Guiso, Sapienza, and Zingales (2004) discuss evidence that financial development 
+supports entrepreneurship, and Fort and others (2013) examine the importance of financing for business 
+formation and young firms. 
+2 Greenwood and Scharfstein (2013) discuss how an important fraction of growth in the U.S. financial 
+sector reflects the greater demand of households for asset management services and credit.  Malkiel (2013) 
+considers similar issues and reviews how improved access to low-cost investment options has benefited 
+households. 
+3  Krueger and Perri (2006) analyze how an increase in access to credit contributed to households’ ability to 
+smooth spending despite substantial income volatility. 
+4 Changes in payment technologies have been rapid, and an area of particular interest is the fast growth of 
+mobile payment and financial service technologies.  The Federal Reserve has conducted several surveys to 
+understand these developments, and the most recent results are discussed in Board of Governors (2015).  
+5 A substantial body of research finds that financial development supports economic growth, including 
+Goldsmith (1969), King and Levine (1993), Rajan and Zingales (1998), and Levine (2005).  It is 
+noteworthy that this research emphasizes differences across countries, and that the United States is among 
+the most financially developed countries in the world. 
+
+
+
+
+ - 3 - 
+
+shows that, across countries and over time, financial development, up to a point, has 
+
+disproportionately benefited the poor and served to alleviate economic inequality.6  
+
+Distorted Incentives in the Financial Sector  
+
+Despite these benefits, as we have seen, actions by financial institutions have the 
+
+potential to inflict harm on society.  Instead of promoting financial security through 
+
+prudent mortgage underwriting, the financial sector prior to the crisis facilitated a bubble 
+
+in the housing market and too often encouraged households to take on mortgages they 
+
+neither understood nor could afford.  Recent research has raised important questions 
+
+about the benefits and costs of the rapid growth of the financial services industry in the 
+
+United States over the past 40 years.7 
+
+A combination of responses to distorted incentives by players throughout the 
+
+financial system created an environment conducive to a crisis.  Excessive leverage placed 
+
+institutions at great risk of insolvency in the event that severe, albeit low-probability, 
+
+problems materialized.  Overreliance on fragile short-term funding by many institutions 
+
+left the system vulnerable to runs.  And excessive risk-taking increased the probability 
+
+that severe problems would, in fact, materialize.  Moreover, regulators--and the structure 
+
+of the regulatory system itself--did not keep up with changes in the financial sector and 
+
+were insufficiently attuned to systemic risks.  Once concerns began to develop about 
+
+escalating losses at large firms, insufficient liquidity and capital interacted in an adverse 
+
+6 Beck, Demirgüç-Kunt, and Levine (2007) show that financial development reduces poverty and inequality 
+in a study examining evidence across countries. 
+7Zingales (2015) raises a number of questions regarding ways in which distortions in the financial sector 
+may contribute to “rent seeking” activity that may promote inefficiency.  Philippon and Reshef (2012) 
+examine trends in compensation in the financial sector and the contribution of such trends to the increase in 
+income inequality in the United States in recent decades.  Philippon and Reshef (2013) and Cecchetti and 
+Kharroubi (2012) revisit the links between financial development and economic growth, focusing 
+particularly on these relationships around periods of rapid growth in the financial sector or among 
+economies with a large financial sector. 
+
+
+
+
+ - 4 - 
+
+feedback loop.  Funding pressures contributed to “fire sales” of financial assets and 
+
+losses, reducing capital levels and heightening liquidity pressures--culminating in the 
+
+near collapse of the financial system in late 2008. 
+
+Capital and liquidity 
+
+Several factors encouraged excessive leverage, including market perceptions that 
+
+some institutions were “too big to fail.”8  Financial institutions also had an incentive to 
+
+engage in regulatory arbitrage, moving assets to undercapitalized off-balance-sheet 
+
+vehicles.  The complexity of the largest banking organizations also may have impeded 
+
+market discipline.  In addition, financial intermediation outside of the traditional banking 
+
+sector grew rapidly in the years up to 2007, leaving gaps in the regulatory umbrella.  And 
+
+conflicts in the incentives facing managers, shareholders, and creditors may have induced 
+
+banks to increase leverage.9   
+
+To strengthen banks’ resilience, the Federal Reserve and the other banking 
+
+agencies have substantially increased capital requirements.  Regulatory minimums for 
+
+capital relative to risk-weighted assets are significantly higher, and capital requirements 
+
+now focus on the highest-quality capital, such as common equity.  In addition to risk-
+
+based standards, bank holding companies and depositories face a leverage ratio 
+
+requirement.  Also, significantly higher capital standards--both risk-weighted and 
+
+leverage ratios--are being applied to the most systemically important banking 
+
+organizations.  Such surcharges are appropriate because of the substantial harm that the 
+
+8 For a review of many factors that may have contributed to leverage in the financial sector and a discussion 
+of how, in some cases, these factors reflect distortions that imply leverage was excessive, see Admati and 
+others (2013a). 
+9 The notion that “agency problems”--that is, conflicts in the interests of managers and various stakeholders 
+in firms--may contribute to excessive debt has a long history, most notably following the notion of “debt 
+overhangs” from Myers (1977).  Hanson, Kashyap, and Stein (2011) emphasize the potential importance of 
+this issue for the financial sector.  Admati and others (2013b) present a related mechanism. 
+
+
+
+
+ - 5 - 
+
+failure of a systemic institution would inflict on the financial system and the economy.  
+
+Higher capital standards provide large, complex institutions with an incentive to reduce 
+
+their systemic footprint.  We are also employing annual stress tests to gauge large 
+
+institutions’ ability to weather a very severe downturn and distress of counterparties and, 
+
+importantly, continue lending to households and businesses.  Firms that do not meet these 
+
+standards face restrictions on dividends and share buybacks.  As a result of these changes, 
+
+for the largest banks, Tier 1 common equity--the highest-quality form of capital--has 
+
+more than doubled since the financial crisis.   
+
+New liquidity regulations will also improve incentives in the financial system.  
+
+Prior to the crisis, institutions’ incentives to rely on short-term borrowing to fund 
+
+investments in riskier or less liquid instruments were distorted in two important ways.  
+
+First, many investors were willing to accept a very low interest rate on short-term 
+
+liabilities of financial institutions or on securitizations without demanding adequate 
+
+compensation for severe-but-unlikely risks, such as a temporary loss of market liquidity.  
+
+Perhaps these firms expected government support or simply considered illiquidity a very 
+
+remote possibility.  Second, institutions’ attempts to shift their holdings once concerns 
+
+about credit or liquidity risk arose created a fire-sale dynamic that amplified declines in 
+
+market values, causing unanticipated spillovers onto other institutions and across 
+
+markets.10   
+
+Recently implemented regulations aim to strengthen liquidity.  For example, a 
+
+new liquidity coverage ratio requires internationally active banking organizations to hold 
+
+10 The notion that securities issued by financial institutions may provide liquidity services in a manner that 
+potentially contributes to fragility because such securities do not have the safety and liquidity of publicly 
+issued securities is examined in, for example, Gorton, Lewellen, and Metrick (2012); Stein (2012); and 
+Gorton and Ordoñez (2014).  
+
+
+
+
+ - 6 - 
+
+sufficient high-quality liquid assets to meet their projected net cash outflows during a 30-
+
+day stress period.  A new process--the Comprehensive Liquidity Analysis and Review--
+
+sets supervisory expectations for liquidity-risk management and evaluates institutions’ 
+
+practices against these benchmarks.  A proposal for a net stable funding ratio would 
+
+require better liquidity management at horizons beyond that covered by the liquidity 
+
+coverage ratio.  A proposed capital surcharge for the largest firms would discourage 
+
+overreliance on short-term wholesale funding.  Also, the Securities and Exchange 
+
+Commission has adopted changes in regulations that may help avoid future runs on prime 
+
+money market mutual funds (that is, money funds that invest primarily in corporate debt 
+
+securities).  And reforms in the triparty repo market have reduced risks associated with 
+
+intraday exposures.   
+
+Large, complex institutions and too big to fail 
+
+In the aftermath of the crisis, the Congress tasked the banking regulators with 
+
+challenging and changing the perception that any financial institution is too big to fail by 
+
+ensuring that even very large banking organizations can be resolved without harming 
+
+financial stability.  Steps are under way to achieve this objective.  In particular, banking 
+
+organizations are required to prepare “living wills”--plans for their rapid and orderly 
+
+resolution in the event of insolvency.  Regulators are considering requiring that bank 
+
+holding companies have sufficient total loss-absorbing capacity, including long-term 
+
+debt, to enable them to be wound down without government support.11  In addition, the 
+
+Federal Deposit Insurance Corporation has designed a strategy that it could deploy 
+
+11 For a discussion of total loss-absorbing capacity, see Financial Stability Board (2014), a consultative 
+document on a proposal for a common international standard on total loss-absorbing capacity for global 
+systemic banks.  The comment period on this FSB proposal ended in February of this year. 
+
+
+
+
+ - 7 - 
+
+(known as Single Point of Entry) to resolve a systemically important institution in an 
+
+orderly manner.   
+
+The crisis also revealed that risk management at large, complex financial 
+
+institutions was insufficient to handle the risks that some firms had taken.  Compensation 
+
+systems all too frequently failed to appropriately account for longer-term risks 
+
+undertaken by employees.  And lax controls in some cases contributed to unethical and 
+
+illegal behavior by banking organizations and their employees.  The Federal Reserve has 
+
+made improving risk management and internal controls a top priority.  For example, the 
+
+Comprehensive Capital Analysis and Review, which includes the stress tests that I 
+
+mentioned, also involves an evaluation to ensure firms have a sound process in place for 
+
+measuring and monitoring the risks they are taking and for matching their capital levels 
+
+to those risks.  Also, supervisors from the Fed and other agencies have pressed firms to 
+
+improve their internal controls and to make their boards of directors more directly 
+
+responsible for compensation decisions and employee conduct. 
+
+Changes to Regulatory and Supervisory Focus 
+
+As I noted, the financial crisis revealed weaknesses in our nation’s system for 
+
+supervising and regulating the financial industry.  Prior to the crisis, regulatory agencies, 
+
+including the Federal Reserve, focused on the safety and soundness of individual firms--
+
+as required by their legislative mandate at the time--rather than the stability of the 
+
+financial system as a whole.  Our regulatory system did not provide any supervisory 
+
+watchdog with responsibility for identifying and addressing risks associated with 
+
+activities and institutions that were outside the regulatory perimeter.  The rapid growth of 
+
+the “shadow” nonbank financial sector left significant gaps in regulation. 
+
+
+ - 8 - 
+
+In response, the Dodd-Frank Wall Street Reform and Consumer Protection Act of 
+
+2010 (Dodd-Frank Act) expanded the mandate and authority of the Federal Reserve to 
+
+allow it to consider risks to financial stability in supervising financial firms under its 
+
+charge.  Within the Federal Reserve System, we have reorganized our supervision of the 
+
+most systemically important institutions to emphasize what we call a “horizontal 
+
+perspective,” which examines institutions as a group and in comparative terms, focusing 
+
+on their interaction with the broader financial system.  We also created a new office 
+
+within the Fed to identify emerging risks to stability in the broader financial system--both 
+
+the bank and nonbank financial sectors--and to develop policies to mitigate systemic risk.  
+
+The Dodd-Frank Act created the interagency Financial Stability Oversight Council, 
+
+chaired by the Treasury Secretary, and the Federal Reserve is a member.  It is charged 
+
+with identifying systemically important financial institutions and systemically risky 
+
+activities that are not subject to consolidated supervision and designating those 
+
+institutions and activities for appropriate supervision.  And it is charged with encouraging 
+
+greater information sharing and policy coordination across financial regulatory agencies. 
+
+Where We Stand 
+
+My topic is broad, and my time is short.  Let me end with three thoughts.  First, I 
+
+believe that we and other supervisory agencies have made significant progress in 
+
+addressing incentive problems within the financial sector, especially within the banking 
+
+sector.  Second, policymakers, including those of us at the Federal Reserve, remain 
+
+watchful for areas in need of further action or in which the steps taken to date need to be 
+
+adjusted.  And, third, engagement with the broader public is crucial to ensuring that any 
+
+future steps move our financial system closer to where it should be.  Active debate and 
+
+
+ - 9 - 
+
+discussion of these issues at this conference and in other forums is important to improve 
+
+our understanding of the challenges that remain. 
+
+
+
+
+ - 10 - 
+
+References 
+
+Admati, Anat R., Peter M. DeMarzo, Martin F. Hellwig, and Paul Pfleiderer (2013a).  
+“Fallacies, Irrelevant Facts, and Myths in the Discussion of Capital Regulation:  
+Why Bank Equity Is Not Socially Expensive,” Working Paper 2065.  Stanford, 
+Calif.:  Stanford Graduate School of Business, October 22, available at 
+www.gsb.stanford.edu/faculty-research/working-papers/fallacies-irrelevant-facts-
+myths-discussion-capital-regulation-why. 
+
+ 
+------ (2013b).  “The Leverage Ratchet Effect,” Working Paper 3029.  Stanford, Calif.:  
+
+Stanford Graduate School of Business, December 2, available at 
+www.gsb.stanford.edu/faculty-research/working-papers/leverage-ratchet-effect. 
+
+ 
+Beck, Thorsten, Asli Demirgüç-Kunt, and Ross Levine (2007).  “Finance, Inequality and 
+
+the Poor,” Journal of Economic Growth, vol. 12 (March), pp. 27-49. 
+ 
+Board of Governors of the Federal Reserve System (2015).  “Federal Reserve Survey 
+
+Provides Information on Mobile Financial Services,” press release, March 26, 
+www.federalreserve.gov/newsevents/press/other/20150326a.htm. 
+
+ 
+Cecchetti, Stephen G., and Enisse Kharroubi (2012).  “Reassessing the Impact of Finance 
+
+on Growth,” BIS Working Papers 381.  Basel, Switzerland:  Bank for 
+International Settlements, July, available at www.bis.org/publ/work381.htm. 
+
+ 
+Financial Stability Board (2014).  “Adequacy of Loss-Absorbing Capacity of Global 
+
+Systemically Important Banks in Resolution.”  Basel, Switzerland:  FSB, 
+November 10, available at www.financialstabilityboard.org/2014/11/fsb-consults-
+on-proposal-for-a-common-international-standard-on-total-loss-absorbing-
+capacity-tlac-for-global-systemic-banks.  
+
+ 
+Fort, Teresa C., John Haltiwanger, Ron S. Jarmin, and Javier Miranda (2013).  “How 
+
+Firms Respond to Business Cycles:  The Role of Firm Age and Firm Size,” IMF 
+Economic Review, vol. 61 (August), pp. 520-59. 
+
+ 
+Goldsmith, Raymond W. (1969).  Financial Structure and Development.  New Haven:  
+
+Yale University Press. 
+ 
+Gorton, Gary, and Guillermo Ordoñez (2014).  “Collateral Crises,” American Economic 
+
+Review, vol. 104 (February), pp. 343-78. 
+ 
+
+
+ - 11 - 
+
+Gorton, Gary, Stefan Lewellen, and Andrew Metrick (2012).  “The Safe-Asset Share,” 
+American Economic Review, vol. 102 (May), pp. 101-6.  
+
+ 
+Greenwood, Robin, and David Scharfstein (2013).  “The Growth of Finance,” Journal of 
+
+Economic Perspectives, vol. 27 (Spring), pp. 3-28. 
+ 
+Guiso, Luigi, Paola Sapienza, and Luigi Zingales (2004).  “Does Local Financial 
+
+Development Matter?” Quarterly Journal of Economics, vol. 119 (August), pp. 
+929-69. 
+
+ 
+Hanson, Samuel G., Anil K. Kashyap, and Jeremy C. Stein (2011).  “A Macroprudential 
+
+Approach to Financial Regulation,” Journal of Economic Perspectives, vol. 25 
+(Winter), pp. 3-28.  
+
+ 
+King, Robert G., and Ross Levine (1993).  “Finance and Growth:  Schumpeter Might Be 
+
+Right,” Quarterly Journal of Economics, vol. 108 (August), pp. 717-37. 
+ 
+Krueger, Dirk, and Fabrizio Perri (2006).  “Does Income Inequality Lead to Consumption 
+
+Inequality?  Evidence and Theory,” Review of Economic Studies, vol. 73 
+(January), pp. 163-93. 
+
+ 
+Levine, Ross (2005).  “Finance and Growth:  Theory and Evidence,” in Philippe Aghion 
+
+and Steven Durlauf, eds., Handbook of Economic Growth.  Amsterdam:  Elsevier 
+B.V., pp. 865-934. 
+
+ 
+Malkiel, Burton G. (2013).  “Asset Management Fees and the Growth of Finance,” 
+
+Journal of Economic Perspectives, vol. 27 (Spring), pp. 97-108.  
+ 
+Myers, Stewart C. (1977).  “Determinants of Corporate Borrowing,” Journal of Financial 
+
+Economics, vol. 5 (2), pp. 147-75. 
+ 
+Philippon, Thomas, and Ariell Reshef (2012).  “Wages and Human Capital in the U.S. 
+
+Financial Industry:  1909-2006,” Quarterly Journal of Economics, vol. 127 
+(November), pp. 1551-609.  
+
+ 
+------ (2013).  “An International Look at the Growth of Modern Finance,” Journal of 
+
+Economic Perspectives, vol. 27 (Spring), pp. 73-96. 
+ 
+Rajan, Raghuram G., and Luigi Zingales (1998).  “Financial Dependence and Growth,” 
+
+American Economic Review, vol. 88 (June), pp. 559-86. 
+
+
+ - 12 - 
+
+Stein, Jeremy C. (2012).  “Monetary Policy as Financial Stability Regulation,” Quarterly 
+Journal of Economics, vol. 127 (February), pp. 57-95. 
+
+ 
+Zingales, Luigi (2015).  “Does Finance Benefit Society?” NBER Working Paper Series 
+
+20894.  Cambridge, Mass.:  National Bureau of Economic Research, January.  
+

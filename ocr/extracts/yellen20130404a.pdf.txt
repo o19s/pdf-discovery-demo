@@ -1,0 +1,836 @@
+
+
+
+For release on delivery 
+5:00 p.m. EDT 
+April 4, 2013 
+ 
+
+
+Communication in Monetary Policy 
+ 
+ 
+ 
+
+Remarks by 
+ 
+
+Janet L. Yellen 
+ 
+
+Vice Chair 
+ 
+
+Board of Governors of the Federal Reserve System 
+ 
+
+at 
+ 
+
+Society of American Business Editors and Writers 
+50th Anniversary Conference 
+
+ 
+Washington, D.C. 
+
+
+April 4, 2013 
+
+
+
+Thank you for inviting me here and for offering me what I consider a perfect 
+
+opportunity to speak on a topic at the heart of the Federal Reserve’s efforts to promote a 
+
+stronger economy--the vital role and growing use of communication in monetary policy.1  
+
+Some of you cover the Federal Reserve and are familiar with how it sets monetary 
+
+policy through the Federal Open Market Committee (FOMC).  You know that the FOMC 
+
+pays very close attention to what it says in the statements it issues after each meeting.  
+
+This communication is supplemented by Chairman Bernanke’s postmeeting press 
+
+conferences and by providing detailed minutes of the Committee’s meetings.  Getting this 
+
+message out to the public depends a good deal on the work you do in reporting on the 
+
+FOMC, analyzing its statements and actions, and explaining its role and objectives.  So 
+
+let me begin by thanking you for those contributions.  
+
+But let me also say why I am particularly pleased to speak to you today.  As 
+
+writers and editors, all of you are prodigious consumers and producers of communication.  
+
+At first glance, the FOMC’s communication may not seem so different from what you’ve 
+
+heard other government agencies say about their policies or businesses say about their 
+
+products.  I hope to show how communication plays a distinct and special role in 
+
+monetary policymaking.   
+
+Let me offer a comparison that may highlight that difference.  Suppose, instead of 
+
+monetary policy, we were talking about an example of transportation policy--widening a 
+
+road to ease traffic congestion.  Whether this road project is announced at a televised 
+
+press conference or in a low-key press release--or even if there is no announcement--the 
+
+project is more or less the same.  The benefit to drivers will come after the road is 
+
+                                                 
+1 I am indebted to members of the Board staff--Jon Faust, Thomas Laubach, and John Maggs--who 
+contributed to the preparation of these remarks. 
+
+
+ - 2 - 
+
+widened and won’t be affected by whether drivers knew about the project years in 
+
+advance.   
+
+At the heart of everything I’ll be explaining today is the fact that monetary policy 
+
+is different.  The effects of monetary policy depend critically on the public getting the 
+
+message about what policy will do months or years in the future.2   
+
+To develop this idea, I will take you on a tour of past FOMC communication, the 
+
+present, and what I foresee for the future.  Until fairly recently, most central banks 
+
+actively avoided communicating about monetary policy.  Montagu Norman, governor of 
+
+the Bank of England in the early 20th century, reputedly lived by the motto “never 
+
+explain, never excuse,” and that approach was still firmly in place at the Federal Reserve 
+
+when I went to work there as a staff economist in 1977.   
+
+I’ll begin by discussing how a growing understanding of the importance of 
+
+transparency shaped FOMC communication in the years before the financial crisis.  Next, 
+
+I’ll relate how the financial crisis brought unprecedented challenges for monetary policy 
+
+that required the use of unconventional policy tools, including some barely contemplated 
+
+before the crisis.  Communication was a centerpiece of these efforts. Finally, I’ll look 
+
+ahead.  I am encouraged by recent signs that the economy is improving and healing from 
+
+the trauma of the crisis, and I expect that, at some point, the FOMC will return to a more 
+
+normal approach to monetary policy.  At the conclusion of my remarks, I’ll discuss the 
+
+communication challenges the FOMC will face when it comes time to make that 
+
+transition.  
+
+                                                 
+2 Like almost every government policy action, this hypothetical road project could affect expectations--it 
+might influence decisions about where people live or commercial development, for example.  The crucial 
+difference is that these are not the primary and stated aim of this policy action, which is to reduce traffic 
+congestion.  As these remarks go on to explain, unlike most government policy actions, monetary policy is 
+primarily concerned with affecting expectations of the future.  
+
+
+ - 3 - 
+
+FOMC communication has long been a topic of great interest to me, and one I 
+
+have worked on more directly since 2010, when Chairman Bernanke asked me to lead a 
+
+new FOMC subcommittee on communications.  This is probably a good moment to 
+
+remind you that, as always, I speak for myself and not the FOMC or my colleagues in the 
+
+Federal Reserve System.   
+
+From “Never Explain” to Transparency 
+
+Recently I used the word “revolution” to describe the change from “never 
+
+explain” to the current embrace of transparency in the FOMC’s communication.3  That 
+
+might sound surprising to an audience that knows very well what it feels like to be in the 
+
+middle of a communications revolution.  The speed and frequency of most 
+
+communication, it seems, never stops growing, and I will admit that the FOMC’s changes 
+
+to the pace and form of its communication seem rather modest in comparison.  I’ve 
+
+mentioned the Chairman’s quarterly postmeeting press conferences, which were initiated 
+
+two years ago.  While these events are televised and streamed live, the mode for most of 
+
+the FOMC’s communication is decidedly old-school--the printed word.  The 
+
+Committee’s most watched piece of communication is the written statement issued after 
+
+each of its meetings, which are held roughly every six weeks.  It may seem quaint that 
+
+my colleagues and I continue to spend many hours laboring over the few hundred words 
+
+in this statement, which are then extensively analyzed only minutes after their release. 
+
+The revolution in the FOMC’s communication, however, isn’t about technology 
+
+or speed.  It’s a revolution in our understanding of how communication can influence the 
+
+effectiveness of monetary policy.   
+
+                                                 
+3 See Janet L. Yellen (2012), “Revolution and Evolution in Central Bank Communications,” speech 
+delivered at the Haas School of Business, University of California, Berkeley, November 13, 
+www.federalreserve.gov/newsevents/speech/yellen20121113a.htm. 
+
+
+ - 4 - 
+
+It will help if I start with some basics.  The FOMC consists of the 7 members of 
+
+the Federal Reserve Board in Washington and 5 of the 12 presidents of the regional 
+
+Federal Reserve Banks.  All 12 presidents participate in FOMC meetings but only 5 get a 
+
+vote, a roster that rotates each year.   
+
+The FOMC’s job, assigned by the Congress, is to use monetary policy to promote 
+
+maximum employment and stable prices, objectives that together are known as the 
+
+Federal Reserve’s dual mandate.  In normal times, the Committee pursues these goals by 
+
+influencing the level of a short-term interest rate called the federal funds rate, which is 
+
+what banks charge each other for overnight loans.  When the FOMC pushes the federal 
+
+funds rate up or down, other short-term interest rates normally move in tandem.  
+
+Medium- and longer-term interest rates, including auto loan rates and mortgage rates, 
+
+generally adjust also, through a mechanism I will return to in a moment.  By pushing the 
+
+federal funds rate up or down, the FOMC seeks to influence a wide range of interest rates 
+
+that matter to households and businesses.  
+
+Typically, the FOMC acts to lower the federal funds rate, with the intention of 
+
+reducing interest rates generally, when the economy is weakening or inflation is declining 
+
+below the Committee’s longer-run objective.  The FOMC raises the federal funds rate 
+
+when inflation threatens to rise above its objective or when economic activity appears 
+
+likely to rise above sustainable levels.  Raising and lowering the federal funds rate was 
+
+long the primary means by which the FOMC pursued its economic objectives.    
+
+It is hard to imagine now, but only two decades ago, the Federal Reserve and 
+
+other central banks provided the public with very little information about such monetary 
+
+policy moves--the spirit of “never explain” was very much alive.  There were a number 
+
+
+ - 5 - 
+
+of different justifications for this approach.  One view was that less disclosure would 
+
+reduce the risk and tamp down suspicions that some could take advantage of disclosures 
+
+more readily than others.  Some believed that markets would overreact to details about 
+
+monetary policy decisions.  And there was a widespread belief that communicating about 
+
+how the FOMC might act in the future could limit the Committee’s discretion to change 
+
+policy in response to future developments.  In sum, the conventional wisdom among 
+
+central bankers was that transparency was of little benefit for monetary policy and, in 
+
+some cases, could cause problems that would make policy less effective.  
+
+While communication and transparency steadily increased elsewhere in 
+
+government and society, change came slowly to the FOMC.  It wasn’t until February 
+
+1994 that the Committee issued a postmeeting statement disclosing a change in monetary 
+
+policy.  Even then, it only alerted the public that the Committee had changed its policy 
+
+stance, with scant explanation.4   
+
+Something big was changing, however, and it would soon be the force driving 
+
+major enhancements in the FOMC’s communication.  By the early 1990s, a growing 
+
+body of research challenged widespread assumptions about the how central banks, such 
+
+as the Federal Reserve, affected the economy.  The reevaluation starts with a question 
+
+that puzzled many of my students when I was a professor:  How is it that the Federal 
+
+Reserve manages to move a vast economy just by raising or lowering the interest rate on 
+
+overnight loans by 1/4 of a percentage point?  
+
+The question arises because significant spending decisions--expanding a business, 
+
+buying a house, or choosing how much to spend on consumer goods over the year--
+
+                                                 
+4 Previously, the public inferred policy changes by observing the Federal Reserve’s behavior in securities 
+markets.  
+
+
+ - 6 - 
+
+depend on expectations of income, employment, and other economic conditions over the 
+
+longer term, as well as longer-term interest rates.  The crucial insight of that research was 
+
+that what happens to the federal funds rate today or over the six weeks until the next 
+
+FOMC meeting is relatively unimportant.  What is important is the public’s expectation 
+
+of how the FOMC will use the federal funds rate to influence economic conditions over 
+
+the next few years.5  
+
+For this reason, the Federal Reserve’s ability to influence economic conditions 
+
+today depends critically on its ability to shape expectations of the future, specifically by 
+
+helping the public understand how it intends to conduct policy over time, and what the 
+
+likely implications of those actions will be for economic conditions.  To return to the 
+
+example I used earlier, contrast this effect on expectations with that of a road project.  
+
+Today’s commute, alas, will not be improved or changed at all by the news that a road 
+
+will be widened one day.  But the effects of today’s monetary policy actions are largely 
+
+due to the effect they have on expectations about how policy will be set over the medium 
+
+term. 
+
+Let me further illustrate this with some history.  Starting in the mid-1960s, the 
+
+Federal Reserve didn’t act forcefully in the face of rising inflation, and the public grew 
+
+less certain of the central bank’s commitment to fighting inflation.  This uncertainty led 
+
+expectations of future inflation to become “unanchored” and more likely to react to 
+
+economic developments.  In 1973, an oil price shock led to a large increase in overall 
+
+inflation.  Expectations of higher inflation in the future affected the public’s behavior--
+
+workers demanded raises, and businesses set prices and otherwise acted in anticipation of 
+
+                                                 
+5 Another factor that adds to the importance of expectations is that changes in monetary policy affect real 
+activity and inflation with a substantial time lag. 
+
+
+ - 7 - 
+
+higher costs--and this helped fuel actual inflation.  The FOMC’s occasional efforts to 
+
+reduce inflation in the 1970s were ineffective partly due to the expectation that it 
+
+ultimately wouldn’t do enough. 
+
+By contrast, most of you probably know about the Federal Reserve’s successful 
+
+inflation fighting in the early 1980s.  The FOMC raised the federal funds rate very high, 
+
+causing a deep recession but also convincing the public that it was committed to low and 
+
+stable inflation.  Anchoring inflation expectations at low levels helped ensure that jumps 
+
+in commodity prices or other supply shocks would not generate persistent inflation 
+
+problems. This was illustrated by the effect of another escalation in oil prices starting in 
+
+2005.  Unlike in the 1970s, these price shocks did not result in a broad and lasting 
+
+increase in overall inflation because the public believed the Federal Reserve would keep 
+
+inflation in check.  The FOMC wasn’t forced to raise interest rates--which softened the 
+
+blow of higher fuel costs on households and businesses--because of the credibility the 
+
+Federal Reserve had built since the 1980s. 
+
+If the public’s expectations have always been important, you might wonder how 
+
+monetary policy had any effect prior to the transparency revolution.  As it turns out, with 
+
+the notable exception of the late 1960s and 1970s, the FOMC usually responded in a 
+
+systematic way to economic conditions.  In 1993, economist John Taylor documented 
+
+that FOMC policy changes since the mid-1980s had fairly reliably followed a simple rule 
+
+based on inflation and output.  Changes in the federal funds rate were usually made in 
+
+several small steps over a number of months.  In practice, the Federal Reserve’s approach 
+
+was “never explain, but behave predictably.”    
+
+
+ - 8 - 
+
+A close analysis of the FOMC’s past behavior was a good guide to future policy, 
+
+but it had two shortcomings as a substitute for transparency:  First, it gave an advantage 
+
+to sophisticated players who studied the FOMC’s behavior--something that is arguably 
+
+inappropriate for a government institution.  Second, while a policy rule such as the one 
+
+developed by John Taylor explained the course of the federal funds rate much of the time, 
+
+there were cases when it didn’t and when even the experts failed to correctly anticipate 
+
+the FOMC’s actions.   
+
+The trend toward greater transparency accelerated during the early 2000s.  
+
+Starting in 2000, the FOMC issued information after every meeting about its economic 
+
+outlook.  It also provided an assessment of the balance of risks to the economy and 
+
+whether it was leaning toward increasing or decreasing the federal funds rate in the 
+
+future.  Such information about intentions and expectations for the future, known as 
+
+forward guidance, became crucial in 2003, when the Committee was faced with a 
+
+stubbornly weak recovery from the 2001 recession.  It had cut the federal funds rate to 
+
+the very low level of 1 percent, but unemployment remained elevated, and the FOMC 
+
+sought some further way to stimulate the economy.  In this situation, it told the public 
+
+that it intended to keep the federal funds rate low for longer than might have been 
+
+expected by adding to its statement that “[i]n these circumstances, the Committee 
+
+believes that policy accommodation can be maintained for a considerable period.”6  
+
+Let’s pause here and note what this moment represented.  For the first time, the 
+
+Committee was using communication--mere words--as its primary monetary policy tool.  
+
+Until then, it was probably common to think of communication about future policy as 
+
+                                                 
+6 See Board of Governors of the Federal Reserve System (2003), “FOMC Statement,” press release, 
+August 12, www.federalreserve.gov/boarddocs/press/monetary/2003/20030812/default.htm. 
+
+
+ - 9 - 
+
+something that supplemented the setting of the federal funds rate.  In this case, 
+
+communication was an independent and effective tool for influencing the economy.  The 
+
+FOMC had journeyed from “never explain” to a point where sometimes the explanation 
+
+is the policy.   
+
+By the eve of the recent financial crisis, it was established that the FOMC could 
+
+not simply rely on its record of systematic behavior as a substitute for communication--
+
+especially under unusual circumstances, for which history had little to teach.  I think 
+
+we’re all fortunate that policymakers had learned this lesson, because the FOMC was 
+
+about to encounter unprecedented economic conditions and policy challenges.  The 
+
+financial crisis and its aftermath demanded advances in FOMC communication as great 
+
+as any that had come before.  
+
+Monetary Policy since the Onset of the Financial Crisis 
+
+The situation in 2008 and 2009 was like nothing the Federal Reserve had faced 
+
+since the 1930s.  In late 2008, the FOMC cut the federal funds rate nearly to zero--
+
+essentially, as low as it could go--where it has remained.  With its traditional tool for 
+
+expansionary monetary policy--lowering the federal funds rate--off the table, the FOMC 
+
+turned to unconventional and, in some cases, newly invented policy options to try both to 
+
+help stabilize the financial system and to arrest the plunge in economic activity.  The 
+
+public had grown accustomed to monetary policy that focused on changes to the federal 
+
+funds rate target, with occasional, and at this point fairly limited, guidance that a 
+
+particular policy stance would probably last for a while.  Beyond the task of describing 
+
+the new policies, extensive new communication was needed to justify these 
+
+
+ - 10 - 
+
+unconventional policy actions and convincingly connect them to the Federal Reserve’s 
+
+employment and inflation objectives.  
+
+The best known of these unconventional policies is large-scale asset purchases, 
+
+commonly known as quantitative easing.  Starting in late 2008 and continuing through 
+
+today, the Federal Reserve has purchased longer-term government agency debt securities, 
+
+agency-guaranteed mortgage-backed securities, and longer-term Treasury securities that 
+
+have added about $2.5 trillion to its assets. These purchases were intended to, and I 
+
+believe have, succeeded in significantly lowering longer-term interest rates and raising 
+
+asset prices to help further the Federal Reserve’s economic objectives.  This is an easing 
+
+of monetary policy, also known as accommodation, beyond what is provided by 
+
+maintaining the federal funds rate close to zero.   
+
+It is important to emphasize that the effects of asset purchases also depend on 
+
+expectations.  If the FOMC buys, say, $10 billion in longer-term securities today but is 
+
+expected to sell them tomorrow or very shortly, there will be little effect on the economy.  
+
+Current research suggests that the effects of asset purchases today depend on expectations 
+
+of the total value of securities the FOMC intends to buy and on expectations of how long 
+
+the FOMC intends to hold those securities.  To make these asset purchases as effective as 
+
+possible in adding accommodation, the FOMC, therefore, needs to communicate the 
+
+intended path of Federal Reserve securities holdings years into the future.  I will return in 
+
+a moment to current and possible future ways in which the FOMC does and might 
+
+communicate this information. 
+
+The other unconventional policy designed to contribute to monetary easing was 
+
+almost purely communication--enhanced forward guidance about how long the 
+
+
+ - 11 - 
+
+Committee expects to maintain the federal funds rate near zero.  The situation in early 
+
+2009 was similar to 2003 but even more challenging, because in that earlier episode, the 
+
+FOMC at least retained the option of a further reduction in the federal funds rate target.  
+
+In 2009, communication about the future path of the federal funds rate was the only 
+
+option. 
+
+Initially, the forward guidance was simple and familiar:  The FOMC statement 
+
+noted that “economic conditions are likely to warrant exceptionally low levels of the 
+
+federal funds rate for an extended period.”7  The Committee enhanced its forward 
+
+guidance in August 2011, when it substituted “at least through mid-2013” for the words 
+
+“an extended period.”8  This date was moved into the future several times, most recently 
+
+last September, when it was shifted to mid-2015.9   
+
+This “calendar guidance” was an advance over the indefinite “extended period,” 
+
+but it suffered from an important limitation.  The date failed to provide the public with a 
+
+clear understanding of what conditions the FOMC was trying to achieve or the economic 
+
+conditions that would warrant a continuation of the policy.  As a consequence, it was 
+
+hard for the public to tell whether a change in the calendar date reflected a shift in policy 
+
+or a change in the Committee’s economic forecast.  
+
+To help provide greater clarity about the Committee’s objectives, in January 
+
+2012, the FOMC adopted and released a statement of its longer-run goals and monetary 
+
+                                                 
+7 See Board of Governors of the Federal Reserve System (2009), “FOMC Statement,” press release, 
+March 18, www.federalreserve.gov/newsevents/press/monetary/20090318a.htm. 
+8 See Board of Governors of the Federal Reserve System (2011), “FOMC Statement,” press release, 
+August 9, www.federalreserve.gov/newsevents/press/monetary/20110809a.htm. 
+9 See Board of Governors of the Federal Reserve System (2012), “Federal Reserve Issues FOMC 
+Statement,” press release, September 13, 
+www.federalreserve.gov/newsevents/press/monetary/20120913a.htm. 
+
+
+ - 12 - 
+
+policy strategy.10  This statement laid out, for the first time, the rates of inflation and 
+
+unemployment that the FOMC considers consistent with the dual mandate.  Specifically, 
+
+it stated that the longer-run inflation goal most consistent with the FOMC’s price stability 
+
+mandate is 2 percent, and that the central tendency of FOMC participants’ estimates of 
+
+the longer-run normal rate of unemployment ranged from 5.2 to 6 percent.  
+
+As the statement also made clear, economic developments may cause inflation 
+
+and unemployment to temporarily move away from the objectives, and the Committee 
+
+will use a balanced approach to return both, over time, to the longer-run goals.  On the 
+
+one hand, for example, the current rate of unemployment, at 7.7 percent, is far above the 
+
+5.2 to 6 percent range in the statement and is expected to decline only gradually.  
+
+Inflation, on the other hand, has been running at or below 2 percent and is expected to 
+
+remain at similar levels for several years.  In this circumstance, both legs of the dual 
+
+mandate call for a highly accommodative monetary policy.  With unemployment so far 
+
+from its longer-run normal level, I believe progress on reducing unemployment should 
+
+take center stage for the FOMC, even if maintaining that progress might result in 
+
+inflation slightly and temporarily exceeding 2 percent.  The Committee reaffirmed this 
+
+statement in January 2013, and I expect it to remain a valuable roadmap for many years 
+
+to come, indicating how monetary policy will respond to changes in economic 
+
+conditions.11 
+
+                                                 
+10 See Board of Governors of the Federal Reserve System (2012), “Federal Reserve Issues FOMC 
+Statement of Longer-Run Goals and Policy Strategy,” press release, January 25, 
+www.federalreserve.gov/newsevents/press/monetary/20120125c.htm. 
+11 See “Statement on Longer-Run Goals and Monetary Policy Strategy,” as amended effective January 29, 
+2013, on the Board’s website at 
+www.federalreserve.gov/monetarypolicy/files/FOMC_LongerRunGoals.pdf. 
+
+
+ - 13 - 
+
+Meanwhile, the FOMC has continued to enhance its communication about how it 
+
+would use the federal funds rate to return inflation and unemployment to its longer-run 
+
+objectives.  Last December, the Committee replaced its calendar guidance for the federal 
+
+funds rate with quantitative measures of economic conditions that would warrant 
+
+continuing that rate at its current very low level.  Specifically, the Committee said it 
+
+anticipates that exceptionally low levels for the federal funds rate will be appropriate “at 
+
+least as long as the unemployment rate remains above 6-1/2 percent, inflation between 
+
+one and two years ahead is projected to be no more than a half percentage point above the 
+
+Committee’s 2 percent longer-run goal, and longer-term inflation expectations continue 
+
+to be well anchored.”12   
+
+I consider these thresholds for possible action a major improvement in forward 
+
+guidance.  They provide much more information than before about the conditions that are 
+
+likely to prevail when the FOMC decides to raise the federal funds rate.  As for the date 
+
+at which tightening of monetary policy is likely to occur, market participants, armed with 
+
+this new information about the Committee’s “reaction function,” can form their own 
+
+judgment and alter their expectations on timing as new information accrues over time.   
+
+These thresholds will, as a consequence, allow private-sector expectations of the 
+
+federal funds rate to fulfill an important “automatic stabilizer” function for the economy.  
+
+If the recovery is stronger than expected, the public should anticipate that one or both of 
+
+the threshold values will be crossed sooner and, hence, that the federal funds rate could 
+
+be raised earlier.  Conversely, if the outlook for the economy unexpectedly worsens, the 
+
+                                                 
+12 See Board of Governors of the Federal Reserve System (2012), “Federal Reserve Issues FOMC 
+Statement,” press release, December 12, 
+www.federalreserve.gov/newsevents/press/monetary/20121212a.htm. 
+
+
+ - 14 - 
+
+public should expect a later “liftoff” in rates--an expectation that would reduce longer-
+
+term interest rates and thereby provide more-accommodative financial conditions.  
+
+Communication and Monetary Policy Challenges Ahead 
+
+The threshold guidance for the federal funds rate looks ahead to a time when the 
+
+economy has healed from the worst effects of the financial crisis.  Getting back to more 
+
+normal economic conditions will allow for a more normal approach to monetary policy.  I 
+
+look forward to the day when we can put away our unconventional tools and return to 
+
+what now seems like the relatively straightforward challenge of setting the federal funds 
+
+rate.   
+
+At some point it will be appropriate to cease adding to accommodation and, later, 
+
+to begin the process of withdrawing the significant accommodation required by the 
+
+extraordinary conditions caused by the financial crisis.  I believe that, once again, 
+
+communication will play a central role in managing this transition. 
+
+Let me start with our current program of asset purchases, which was launched in 
+
+September 2012 and revised in December.  Notably, the FOMC has described this 
+
+program in terms of a monthly pace of purchases rather than as a total amount of 
+
+expected purchases.  The Committee has indicated that it will continue purchases until 
+
+the outlook for the labor market has improved substantially in a context of price stability.  
+
+In its most recent statement, the FOMC also indicated that the pace and composition of 
+
+the purchases may be adjusted based on the likely efficacy and costs of such purchases, 
+
+as well as the extent of progress toward the Federal Reserve’s economic objectives.13  In 
+
+my view, adjusting the pace of asset purchases in response to the evolution of the outlook 
+
+                                                 
+13 See Board of Governors of the Federal Reserve System (2013), “Federal Reserve Issues FOMC 
+Statement,” press release, March 20, www.federalreserve.gov/newsevents/press/monetary/20130320a.htm. 
+
+
+ - 15 - 
+
+for the labor market will provide the public with information regarding the Committee’s 
+
+intentions and should reduce the risk of misunderstanding and market disruption as the 
+
+conclusion of the program draws closer.      
+
+The Federal Reserve’s ongoing asset purchases continually add to the 
+
+accommodation that the Federal Reserve is providing to help strengthen the economy.  
+
+An end to those purchases means that the FOMC has ceased augmenting that support, not 
+
+that it is withdrawing accommodation.  When and how to begin actually removing the 
+
+significant accommodation provided by the Federal Reserve’s large holdings of longer-
+
+term securities is a separate matter.  In its March statement, the FOMC reaffirmed its 
+
+expectation that a highly accommodative stance of monetary policy will remain 
+
+appropriate for a considerable time after the current asset purchase program ends and the 
+
+economic recovery has strengthened.14  Accordingly, there will likely be a substantial 
+
+period after asset purchases conclude but before the FOMC starts removing 
+
+accommodation by reducing asset holdings or raising the federal funds rate.    
+
+To guide expectations concerning the process of normalizing the size and 
+
+composition of the Federal Reserve’s balance sheet, at its June 2011 meeting, the FOMC 
+
+laid out what it called “exit principles.”  In these principles, the FOMC indicated that 
+
+asset sales would likely follow liftoff of the federal funds rate.  It also noted that, in order 
+
+to minimize the risk of market disruption, the pace of asset sales during this process could 
+
+be adjusted up or down in response to changes in either the economic outlook or financial 
+
+conditions.  For example, changes in the pace or timing of asset sales might be warranted 
+
+by concerns over market functioning or excessive volatility in bond markets.  While 
+
+                                                 
+14 See Board of Governors, “FOMC Statement,” March 20, in note 13. 
+
+
+ - 16 - 
+
+normalization of the Federal Reserve’s portfolio is still well in the future, the FOMC is 
+
+committed to clear communication about the likely path of the balance sheet.  
+
+There will come a time when the FOMC begins the process of returning the 
+
+federal funds rate to a more normal level.  In their individual projections submitted for 
+
+the March FOMC meeting, 13 of the 19 FOMC participants saw the first increase in the 
+
+target for the federal funds rate as most likely to occur in 2015, and another expected it to 
+
+occur in 2016.  But the course of the economy is uncertain, and the Committee added the 
+
+thresholds for unemployment and inflation, in part, to help guide the public if economic 
+
+developments warrant liftoff sooner or later than expected.  As the time of the first 
+
+increase in the federal funds rate moves closer, in my view it will be increasingly 
+
+important for the Committee to clearly communicate about how the federal funds rate 
+
+target will be adjusted.   
+
+I hope I’ve been able today to convey the vital role that communication plays in 
+
+the Federal Reserve’s efforts to promote maximum employment and stable prices.  
+
+Communication became even more significant after the onset of the financial crisis when 
+
+the FOMC turned to unconventional policy tools that relied heavily on communication.  
+
+Better times and a transition away from unconventional policies may make monetary 
+
+policy less reliant on communication.  But I hope and trust that the days of “never 
+
+explain, never excuse” are gone for good, and that the Federal Reserve continues to reap 
+
+the benefits of clearly explaining its actions to the public.  I believe further improvements 
+
+in the FOMC’s communication are possible, and I expect they will continue. 
+
+It has been my privilege to share these thoughts with you.  Thank you for inviting 
+
+me here today. 
+

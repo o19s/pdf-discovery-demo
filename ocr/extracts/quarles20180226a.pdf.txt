@@ -1,0 +1,735 @@
+
+For release on delivery 
+
+3:15 p.m. EST 
+
+February 26, 2018 
+
+
+
+
+
+
+
+
+
+An Assessment of the U.S. Economy 
+
+
+
+
+Remarks by 
+
+
+Randal K. Quarles 
+
+
+Vice Chairman for Supervision 
+
+
+Board of Governors of the Federal Reserve System 
+
+
+at 
+
+
+“Promoting Sustained Growth:  Policy Tensions and Risks” 
+
+34th Annual NABE Economic Policy Conference 
+
+
+ Washington, D.C. 
+
+
+
+
+
+
+
+
+February 26, 2018 
+
+
+
+
+
+Thank you for the opportunity to take part in this important and influential 
+
+conference.1  I would like to discuss my view of current economic conditions in the 
+
+United States, provide an assessment of the sustainability of the current momentum in the 
+
+economy, and then conclude with a look at some of the potential implications that would 
+
+follow from a sustained upturn in economic growth.  To preview my conclusions, I am 
+
+fairly optimistic about the current state of the economy.  Along many dimensions, it has 
+
+been quite some time since the economic environment has looked as favorable as it does 
+
+now.  Real gross domestic product (GDP) growth through the final three quarters of 2017 
+
+averaged almost 3 percent, a considerable step-up over the 2 percent average annual pace 
+
+recorded over the previous eight years.  The sustainability of the recent upturn in growth 
+
+will depend importantly on whether some of the factors that have been holding back 
+
+growth for the past decade diminish, including weak investment and productivity.  In 
+
+some cases, I believe the data look encouraging--for example, the recent strength of 
+
+investment--but in others, less so, particularly the continued softness of productivity 
+
+growth.  On balance, I am cautious, but I am also optimistic enough to believe that the 
+
+factors that have been holding back growth need not be permanent and could turn, even 
+
+fairly rapidly.   
+
+What would be the likely consequences if growth were to shift up on a sustained 
+
+basis?  Here I think it will be important to consider and observe the form that higher 
+
+growth takes.  In particular, it matters whether growth is embodied in a sustained increase 
+
+in the productive capacity of the economy or, instead, is primarily the product of a boost 
+
+to aggregate demand.  The split between the two will likely have important implications 
+
+                                                 
+1 The views I express here are my own and not necessarily those of the Federal Reserve Board or the 
+
+Federal Open Market Committee. 
+
+
+ - 2 - 
+
+for inflation and thus for how the stance of monetary policy will respond to higher 
+
+growth.  The Federal Reserve will, as always, seek to achieve its dual mandate of 
+
+maximum employment and stable prices. 
+
+The Economy Appears to Be in a Good Spot          
+
+I will start with an assessment of current economic conditions.  In my view, the 
+
+economy appears to be in a good spot right now.  This favorable position is particularly 
+
+evident in the labor market.  After peaking at 10 percent in October 2009, the 
+
+unemployment rate has declined to 4.1 percent, its lowest level since the 1960s outside of 
+
+a brief period from 1999 to 2000.  With the unemployment rate below most estimates of 
+
+its natural rate, wages appear to have accelerated a little of late after a period of relatively 
+
+muted increases, and I expect a further modest step-up in the pace of wage gains.  
+
+Another welcome development has been a break in recent years in the two-decade-long 
+
+trend decline in the labor force participation rate. 
+
+The robust job market has likely spilled over to other aspects of the economy.  
+
+Consumer confidence has returned to pre-crisis levels, which, together with solid income 
+
+gains and rising household wealth, has supported strong growth in consumption 
+
+expenditures.  Likewise, surveys reveal increased business optimism, also evident in an 
+
+acceleration in investment spending.  Real expenditures on capital equipment increased at 
+
+a double-digit pace in the second half of last year, providing early hope that the 
+
+investment drought that has weighed on growth in recent years might finally be breaking.   
+
+The recent upturn in growth has not been confined to the United States.  In its 
+
+latest projection, the International Monetary Fund (IMF) forecasts global growth to run 
+
+close to 4 percent in 2018, the fastest pace since the immediate post-crisis rebound in 
+
+
+ - 3 - 
+
+2010 and 2011.2  Even more notable is that the IMF has revised up global growth in its 
+
+recent projections.  These upgrades follow a prolonged period of depressingly regular 
+
+serial downgrades in the IMF’s outlook as the post-crisis recovery dragged on longer than 
+
+many commentators and forecasters had anticipated.  Stronger foreign growth has in turn 
+
+supported U.S. growth, with exports in 2017 growing at the fastest pace in four years.  
+
+Inflation has run at a low and relatively stable rate throughout the crisis and the 
+
+recovery.  Recently, the low level of inflation has attracted considerable attention, as it 
+
+continues to run on the soft side notwithstanding the apparent tightness of the labor 
+
+market.  Headline PCE (personal consumption expenditures) prices increased 1.7 percent 
+
+in the 12 months ending in December, a few tenths of 1 percentage point below the 
+
+Federal Open Market Committee’s (FOMC) 2 percent longer-run inflation objective.  
+
+That inflation has remained low even as activity has picked up and the labor market has 
+
+tightened has led a number of commentators to question the relevance of the Phillips 
+
+curve analytical framework that ties inflation to the strength of the economy.   
+
+In my view, it is premature to write off the Phillips curve.  Indeed, I think it is 
+
+likely that tightness in labor markets will eventually show up in wages and prices.  I tend 
+
+to agree with the view that the recent softness of inflation mostly reflects idiosyncratic 
+
+and transitory factors, and I expect inflation to move back to 2 percent over the next year 
+
+or so.  Overall, I would characterize the recent weakness of inflation as something that 
+
+should be expected to fade rather than as an enduring mystery that necessitates a change 
+
+in our framework for assessing inflation.   
+
+                                                 
+2 The IMF’s most recent forecast was released in January and is available on its website at 
+
+https://www.imf.org/en/Publications/WEO/Issues/2018/01/11/world-economic-outlook-update-january-
+
+2018. 
+
+
+ - 4 - 
+
+To review, all in all, the state of the economy is good.  The question now is how 
+
+persistent this step-up in growth will prove to be.  In the FOMC’s most recent Summary 
+
+of Economic Projections, released in December, growth was expected to remain fairly 
+
+solid in 2018 before moving down toward a longer-run rate of 1-3/4 percent.3  I do not 
+
+view this forecast as particularly optimistic, but it is as reasonable as any other if one 
+
+conjectures that the factors that have held back growth in recent years will remain in 
+
+effect.  But now that the economy is coming off several quarters of relatively robust 
+
+growth, I would like to examine the appropriate level of confidence in this conjecture 
+
+and, in particular, identify what we might look for if, in actuality, some of the factors that 
+
+have held back growth over the past decade begin to dissipate.  Before doing so, let me 
+
+first quickly review some of the most frequently cited explanations for the slow pace of 
+
+growth in the post-crisis period. 
+
+Why Has Growth Been So Slow through Much of the Post-crisis Period?       
+
+Why has growth been so slow over much of the past decade?  I will break down 
+
+the explanations into two broad categories:  those related to the lingering after-effects of 
+
+the crisis--for example, increased uncertainty and precaution--and those that are more 
+
+structural and less clearly linked to the crisis, such as demographics and low productivity 
+
+growth.   
+
+It is certainly true--as pointed out most notably by Reinhart and Rogoff in 2009--
+
+that recoveries from severe financial crises can be very prolonged and painful.4  In the 
+
+                                                 
+3 The most recent Summary of Economic Projections, an addendum to the minutes of the December 2017 
+
+FOMC meeting, is available on the Board’s website at 
+
+https://www.federalreserve.gov/monetarypolicy/fomcminutes20171213ep.htm.  
+4 Reinhart and Rogoff (2009) document the lasting effect that downturns related to a financial crisis can 
+
+have on economic growth. 
+
+
+ - 5 - 
+
+aftermath of the most recent crisis, an increase in consumer caution, along with a 
+
+tightening of credit conditions, helped boost saving, leading to a necessary deleveraging 
+
+of households, but at the expense of consumption growth.  As I mentioned earlier, 
+
+investment has also been noticeably weak in recent years, likely reflecting increased 
+
+restraint on the part of businesses unsure of the outlook for demand and their profits.     
+
+Another factor holding back U.S. growth has been repeated shocks to the global 
+
+economy, sometimes amplified by vulnerabilities growing out of the crisis.  The effects 
+
+of a number of these shocks have spilled over to the United States, including those 
+
+stemming from the euro-area debt crisis as well as occasional concerns about the strength 
+
+and durability of emerging market growth, especially in China.  These foreign 
+
+developments contributed to a 15 percent appreciation of the broad dollar since mid-
+
+2014, which, along with weak foreign economic activity, weighed on U.S. export growth.  
+
+Concern over the strength of foreign demand also contributed to a steep decline in the 
+
+price of oil at around the same time.  Historically, lower oil prices have been a positive 
+
+for U.S. growth, but the tremendous rise in domestic shale oil production over the past 
+
+decade has created a powerful counterweight that has offset some of the benefit of lower 
+
+prices.  In the immediate aftermath of the decline in oil prices, investment in the energy 
+
+sector fell off precipitously, pushing down aggregate investment as well. 
+
+Regarding structural explanations for slow growth, demographics are likely 
+
+playing a role.  In a development that predates the crisis, relatively flat labor input, as 
+
+measured by hours worked, has weighed on growth.  In part, the sluggishness of labor 
+
+input just reflects long-term demographic trends as baby boomers age and retire.5 
+
+                                                 
+5 See Aaronson and others (2014). 
+
+
+ - 6 - 
+
+Perhaps most important in explaining the growth slowdown has been the 
+
+lackluster increase of productivity in recent years.  Labor productivity has averaged an 
+
+annual growth rate of only 3/4 percent since 2011, far below the 2-1/4 percent pace 
+
+prevalent over the two decades leading into the financial crisis.  Why has productivity 
+
+growth been so anemic?  A number of theories have been raised, but there does not 
+
+appear to be a clear answer--and certainly not a consensus answer.   
+
+One school of thought is that productivity growth has not slowed down much at 
+
+all; rather, new technologies and products have made economic output harder to 
+
+measure.6  It is not difficult to think of technological developments that have had a deep 
+
+and pervasive effect on our daily lives (smartphone apps, for example) but perhaps in a 
+
+manner that is difficult to describe in the existing vocabulary of economic statistics.  
+
+However, the counter to this argument is that troubles in measuring “newness” are not 
+
+especially new.  Measuring the effect of new technologies has always been difficult, and 
+
+there is little evidence to suggest that it has become more difficult. 7 
+
+Others argue a somewhat pessimistic view that the slowdown reflects a paucity of 
+
+new inventions--or at least new inventions that lead to more rapid productivity growth.8   
+
+In a break with the easy dichotomy I offered earlier, others tie the slowdown in 
+
+productivity growth more tightly to developments related to the aftermath of the financial 
+
+crisis.  Slow investment growth--which, as already mentioned, had prevailed until 
+
+recently--damps the contribution of new capital to worker productivity.  It could also be 
+
+                                                 
+6 See Hatzius and others (2016) for an overview of some issues that new technologies and products may be 
+
+introducing into the measurement of GDP and productivity. 
+7 See Syverson (2017) and Byrne, Fernald, and Reinsdorf (2016). 
+8 Gordon (2016) argues that recent technological advances have been relatively minor compared with the 
+
+large advances that drove rapid increases in productivity in the past.   
+
+
+ - 7 - 
+
+that new investment is a necessary step for the spread of new technologies, especially if 
+
+technology is embodied in capital equipment.  Spending on research and development, an 
+
+important input for technological advances, has been fairly subdued following the crisis.  
+
+Also, the aftermath of the crisis has been associated with a decrease in business 
+
+dynamism--for example, the rate at which new start-up firms are being created has 
+
+declined.9 
+
+Have We Reached a Turning Point? 
+
+Having laid out the standard explanations for the slow pace of growth, I will now 
+
+speculate on what a shift to a higher growth path might look like and what I think we may 
+
+want to watch for.   
+
+One factor that has certainly turned is fiscal policy.  After subtracting from 
+
+growth over much of the period from 2011 onward, the impetus from fiscal policy has 
+
+turned distinctly positive with the passage of recent tax and budget legislation.10  Fiscal 
+
+policy is likely to impart considerable momentum to growth over the next couple of years 
+
+not only by increasing demand, but also by boosting, to some degree, the potential 
+
+capacity of the economy. 
+
+Of course, while stimulative in the near run, deficit spending--and the associated 
+
+large and growing federal government debt--can have negative effects on the economy 
+
+over the longer term, in part by claiming a larger share of the nation’s savings, driving up 
+
+long-term interest rates, and crowding out productive private investment.  These effects 
+
+will require attention and difficult decisions at some point. 
+
+                                                 
+9 See Decker and others (2016). 
+10 For a historical measure of the fiscal policy’s contribution to GDP growth, see the Hutchins Center Fiscal 
+
+Impact Measure, available on the Brookings Institution website at 
+
+https://www.brookings.edu/interactives/hutchins-center-fiscal-impact-measure. 
+
+
+ - 8 - 
+
+How about the other factors that have been holding back growth?  Looking at the 
+
+data, I see encouraging signs that some drags may be lessening--for example, the recent 
+
+pickup in investment--but less promising indicators elsewhere, especially productivity 
+
+growth.  In the end, I think it is too early to call a turning point, but it is a possibility that 
+
+bears consideration and one that I will be watching for closely.  Here are some of things I 
+
+will be following:    
+
+Labor force participation.  Given long-standing demographic trends, it would 
+
+seem a heavy lift to expect labor force growth to contribute much to a pickup in GDP 
+
+growth.  However, it is encouraging that the downward movement in labor force 
+
+participation has recently been on hiatus, a development that could possibly be prolonged 
+
+by the recent tax legislation--which could, for example, give some workers an incentive 
+
+to remain in or enter the workforce.  
+
+Capital investment.  As I mentioned, the recent data on investment have been 
+
+encouraging, with a noticeable pickup in capital equipment spending.  As businesses 
+
+become more confident in the sustainability of the upturn, investment could be further 
+
+boosted.  While the tax act is multifaceted and complex, lower corporate tax rates and 
+
+other incentives will also likely boost investment and increase the capital stock. 
+
+Productivity.  Though the quarterly numbers are volatile and should be treated 
+
+cautiously, the nearly 1 percent decline in labor productivity recorded in the fourth 
+
+quarter of 2017 would imply that a productivity turnaround is not yet upon us.  Moreover, 
+
+for 2017 as a whole, productivity increased only 3/4 percent, about the same as the 
+
+average annual pace since 2011.  That said, with no consensus on what has caused the 
+
+productivity slowdown, a turnaround could come suddenly.   
+
+
+ - 9 - 
+
+There are those who argue a more optimistic take on the prospects for technology 
+
+developments to boost productivity growth.11  For example, a number of new 
+
+technologies, including artificial intelligence and genetic sequencing, appear on the cusp 
+
+of breaking out, with widespread effects on economic activity.12 
+
+Also, it might be true that productivity growth will be nudged higher by the pace 
+
+of economic activity.  Tight labor markets might induce firms to invest more in robotics 
+
+and other labor-saving technology.   
+
+External developments.  With global growth picking up steam, the external 
+
+environment is more favorable for U.S. growth than it has been in quite some time.  In 
+
+2017, for example, the contribution of real exports to growth picked up markedly 
+
+following two years in which exports provided no support to growth at all.           
+
+What Are the Consequences of Higher Growth? 
+
+Again, I think it is too soon to call a turning point in the long-run growth 
+
+prospects of the economy, notwithstanding some encouraging signs that I have 
+
+highlighted.  All the same, I think it is worthwhile to acknowledge that there are some 
+
+upside risks to the forecast and to think through what the consequences of those risks 
+
+materializing might be.     
+
+One consequence might be that a sustained increase in growth could be associated 
+
+with an increase in the natural rate of interest, a concept that has developed a prominent 
+
+position in the lexicon of central banking in recent years.  One conception of the natural 
+
+rate of interest is the rate of interest necessary to sustain stable prices and full 
+
+                                                 
+11 See Brynjolfsson and McAfee (2014) and Baily, Manyika, and Gupta (2013).   
+12 Brynjolfsson, Rock, and Syverson (2017) argue that lags in the adoption of new technology could explain 
+
+the paradox between apparent advances in technology and continued weak productivity growth.  They are 
+
+referring specifically to artificial intelligence, but the argument could also hold for other fields. 
+
+
+ - 10 - 
+
+employment.  In the eyes of many commentators, that inflation has remained so low 
+
+through the post-crisis period even as interest rates have fallen to levels that historically 
+
+would have been very stimulative to the economy suggests that the natural rate has fallen.     
+
+Why might the natural rate have fallen?  There are a number of compelling 
+
+narratives, including low productivity growth, demographic trends, increased uncertainty, 
+
+and a higher demand for precautionary saving.  If these narratives sound familiar, it is 
+
+because they are more or less the same set of explanations put forward as reasons for the 
+
+slow pace of growth in recent years.  Thus, a lessening of any of these factors, such as a 
+
+sustained increase in the pace of productivity growth, would likely push up the natural 
+
+rate of interest as well as GDP growth. 
+
+What are the consequences of a higher natural rate of interest?  As the natural rate 
+
+moves up, any given level of the policy rate would be more accommodative, so the policy 
+
+rate would also have to move up to continue the gradual removal of policy 
+
+accommodation.  It is important to point out that this higher policy path would be 
+
+motivated by sustained stronger growth and improved economic conditions, not a greater 
+
+desire to slow the economy. 
+
+Could there be a benefit from a higher natural rate of interest?  In addition to its 
+
+value in signaling that the economy is doing better, a higher rate could facilitate the 
+
+conduct of monetary policy.  A lower natural rate of interest can complicate the operation 
+
+of conventional monetary policy.  Since it is difficult to cut nominal interest rates below 
+
+zero, conventional monetary policy is more likely to be constrained at low levels of the 
+
+natural interest rate.  The higher the natural interest rate, the more space central banks 
+
+
+ - 11 - 
+
+have to cut policy rates in response to an economic downturn, easing the conduct of 
+
+conventional policy.  
+
+Conclusion 
+
+So where does this discussion leave us?  My assessment of the current state of the 
+
+economy is optimistic.  I also think there is a real possibility that some of the factors that 
+
+have been holding back growth in recent years could shift, moving the economy onto a 
+
+higher growth trajectory.  That said, I currently see this shift more as a clear possibility 
+
+than an unarguable reality.  Importantly, we have not yet seen any sustained pickup in 
+
+productivity growth.  However, given that conditions could shift, it is fair to ask what a 
+
+higher growth path might mean.  As I discussed, it could mean a higher natural interest 
+
+rate, which would increase the amount of accommodation provided at a given level of the 
+
+Federal Reserve’s policy interest rate.  But what would it imply about the appropriate 
+
+stance of policy? 
+
+It goes without saying, but always bears repeating, that at the Federal Reserve we 
+
+are very focused on meeting our dual mandate of maximum sustainable employment and 
+
+price stability.  In assessing the effect of higher growth on monetary policy, I will be 
+
+carefully watching how that growth aligns with our dual mandate. 
+
+It might seem reasonable to assume that faster growth would lead to firmer 
+
+inflation.  However, I think a lot remains to be seen.  For one, the degree to which growth 
+
+spurs inflation is likely to be determined by the underlying factors that are prompting the 
+
+increase in growth.  A demand-led increase can be expected to have a greater positive 
+
+effect on prices than a step-up in the pace of potential growth.  Growth led by an increase 
+
+
+ - 12 - 
+
+in the economy’s productive capacity, either through increased labor force participation 
+
+or higher productivity growth, is likely to impart less upward pressure on prices.   
+
+I will be carefully watching indicators of economic activity and inflation and 
+
+assessing the degree to which activity appears to be pushing up against the constraints of 
+
+the economy, as opposed to being a reflection of the expansion of those constraints and 
+
+the growth of the potential output of the economy.  
+
+At our January meeting, the FOMC decided to maintain its target range for the 
+
+federal funds rate between 1-1/4 and 1-1/2 percent.13  In this range, monetary policy 
+
+remains accommodative.  With my current economic outlook, I anticipate that further 
+
+gradual increases in the policy rate will be appropriate to both sustain a healthy labor 
+
+market and stabilize inflation around our 2 percent objective.  Of course, as I mentioned, 
+
+I will keep a close eye on economic indicators--and their implications for the outlook for 
+
+inflation and real activity--and adjust my views on the appropriate monetary policy 
+
+accordingly.   
+
+
+                                                 
+13 See Board of Governors (2018). 
+
+
+ - 13 - 
+
+References 
+
+Aaronson, Stephanie, Tomaz Cajner, Bruce Fallick, Felix Galbis-Reig, Christopher 
+
+Smith, and William Wascher (2014).  “Labor Force Participation:  Recent 
+
+Developments and Future Prospects,” Brookings Papers on Economic Activity, 
+
+Fall, pp. 197-255, https://www.brookings.edu/wp-
+
+content/uploads/2016/07/Fall2014BPEA_Aaronson_et_al.pdf. 
+
+
+Baily, Martin Neil, James Manyika, and Shalabh Gupta (2013).  “U.S. Productivity 
+
+Growth:  An Optimistic Perspective,” International Productivity Monitor, no. 25 
+
+(Spring), pp. 3-12. 
+
+
+Board of Governors of the Federal Reserve System (2018).  “Federal Reserve Issues 
+
+FOMC Statement,” press release, January 31, 
+
+https://www.federalreserve.gov/newsevents/pressreleases/monetary20180131a.ht
+
+m.  
+
+
+Brynjolfsson, Erik, and Andrew McAfee (2014).  The Second Machine Age:  Work, 
+
+Progress, and Prosperity in a Time of Brilliant Technologies (New York:  W.W. 
+
+Norton and Company). 
+
+
+Brynjolfsson, Erik, Daniel Rock, and Chad Syverson (2017).  “Artificial Intelligence and 
+
+the Modern Productivity Paradox:  A Clash of Expectations and Statistics,” 
+
+NBER Working Paper Series 24001.  Cambridge, Mass.:  National Bureau of 
+
+Economic Research, November. 
+
+
+Byrne, David M., John G. Fernald, and Marshall B. Reinsdorf (2016).  “Does the United 
+
+States Have a Productivity Slowdown or a Measurement Problem?” Brookings 
+
+Papers on Economic Activity, Spring, pp. 109-82, https://www.brookings.edu/wp-
+
+content/uploads/2016/03/byrnetextspring16bpea.pdf. 
+
+
+Decker, Ryan A., John Haltiwanger, Ron S. Jarmin, and Javier Miranda (2016).  
+
+“Declining Business Dynamism:  What We Know and the Way Forward,” 
+
+American Economic Review, vol. 106 (May, Papers and Proceedings), pp. 203-07. 
+
+
+Gordon, Robert J. (2016).  The Rise and Fall of American Growth:  The U.S. Standard of 
+
+Living since the Civil War (Princeton, N.J.:  Princeton University Press). 
+
+
+Hatzius, Jan, Zach Pandl, Alec Phillips, David Mericle, Elad Pashtan, Daan Struyven, 
+
+Karen Reichgott, and Avisha Thakkar (2016).  “Productivity Paradox v2.0 
+
+Revisited,” U.S. Economics Analyst (New York:  Goldman Sachs, September 2). 
+
+
+Reinhart, Carmen M., and Kenneth S. Rogoff (2009).  This Time Is Different:  Eight 
+
+Centuries of Financial Folly (Princeton, N.J.:  Princeton University Press). 
+
+
+
+
+ - 14 - 
+
+Syverson, Chad (2017).  “Challenges to Mismeasurement Explanations for the U.S. 
+
+Productivity Slowdown,” Journal of Economic Perspectives, vol. 31 (Spring), 
+
+pp. 165-86. 
+
