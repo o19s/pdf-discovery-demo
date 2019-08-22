@@ -5,8 +5,9 @@
 #	echo "Waiting on MySQL init..."
 #	sleep 5
 #done
-echo "Sleeping 15"
-sleep 15
+#echo "Sleeping 15"
+#sleep 15
+./wait-for-solr.sh --max-attempts 10 --wait-seconds 4 --solr-url http://solr:8983
 
 #echo "Uploading security.json to ZK"
 #/opt/solr/server/scripts/cloud-scripts/zkcli.sh -zkhost zookeeper:2181 -cmd putfile /security.json /code/security.json
@@ -35,5 +36,11 @@ sleep 5
 
 cd /code
 
+echo "Load sample brainard file"
+./load_sample_files.sh ./sample_docs http://solr:8983/solr/documents/update
+echo "Load all the extracts"
 ./load_sample_files.sh ./sample_docs http://solr:8983/solr/documents/update
 echo "Done with setup"
+
+cd /files
+python3 -m http.server 8080

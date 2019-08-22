@@ -18,5 +18,6 @@ for filename in $PATH_TO_SAMPLE_DOCS/*.json; do
   echo "Posting $filename"
   curl -X POST -H "Content-Type: application/json" --data-binary @$filename $UPLOAD_ENDPOINT/json/docs
 done
+curl -X GET $UPLOAD_ENDPOINT?commit=true
 
 echo "all done!"

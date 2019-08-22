@@ -3,7 +3,7 @@
 	"doc_id": "brainard20190711a.pdf",
 	"content_type": "pdf",
 	"title": "Perspectives on the Economy from Scranton",
-	"page_dimensions": "{\n  \"1\":\"0 0 1224 1584\",\n  \"2\":\"0 0 1224 1584\",\n  \"3\":\"0 0 1224 1584\",\n  \"4\":\"0 0 1224 1584\",\n  \"5\":\"0 0 1224 1584\"\n}",
+	"page_dimensions": ["1:0 0 1224 1584", "2: 0 0 1224 1584", "3: 0 0 1224 1584", "4: 0 0 1224 1584", "5: 0 0 1224 1584"],
 	"path": "../public/brainard20190711a.pdf",
 	"publish_date": "2019-07-11T13:47:20Z",
 	"content": "",

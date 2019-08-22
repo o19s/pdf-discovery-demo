@@ -13,7 +13,7 @@
     <field name="content" type="text" indexed="true" stored="true" multiValued="false" />
     <field name="content_ocr" type="ocr" indexed="true" stored="true" multiValued="false" termPayloads="true" termOffsets="true" termPositions="true" termVectors="true" />
 
-    <field name="page_dimensions" type="string" indexed="false" stored="true" multiValued="false" />
+    <field name="page_dimensions" type="string" indexed="false" stored="true" multiValued="true" />
 
     <field name="path" type="string" indexed="false" stored="true" multiValued="false" />
 
