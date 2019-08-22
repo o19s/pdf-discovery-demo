@@ -49,10 +49,11 @@
       <analyzer>
         <tokenizer class="solr.WhitespaceTokenizerFactory"/>
         <filter class="solr.DelimitedPayloadTokenFilterFactory" encoder="identity" />
-        <filter class="org.osc.ocr.filter.StickPayloadFilterFactory" />
+        <!--filter class="org.osc.ocr.filter.StickPayloadFilterFactory" /-->
         <filter class="solr.LowerCaseFilterFactory" />
         <filter class="solr.WordDelimiterFilterFactory" />
-        <filter class="org.osc.ocr.filter.UnstickPayloadFilterFactory" />
+        <filter class="solr.KStemFilterFactory" />
+        <!--filter class="org.osc.ocr.filter.UnstickPayloadFilterFactory" /-->
       </analyzer>
     </fieldType>
 
@@ -61,10 +62,12 @@
       <analyzer type="index">
         <tokenizer class="solr.StandardTokenizerFactory"/>
         <filter class="solr.LowerCaseFilterFactory"/>
+        <filter class="solr.KStemFilterFactory" />
       </analyzer>
       <analyzer type="query">
         <tokenizer class="solr.StandardTokenizerFactory"/>
         <filter class="solr.LowerCaseFilterFactory"/>
+        <filter class="solr.KStemFilterFactory" />
       </analyzer>
     </fieldType>
 

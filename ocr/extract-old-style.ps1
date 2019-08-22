@@ -64,9 +64,10 @@ foreach ($word in $words) {
     $page_counter++
   }
   # Can't turn on the page counter yet!
-  $payload = $word.title
-  #$payload = "$page_counter $payload"
-  #sWrite-Host $payload
+  $split = $word.title.split(";")
+  $payload = $split[0].Replace("bbox ","")
+  $payload = "$page_counter $payload"
+  #Write-Host $payload
 
   $payload=[Convert]::ToBase64String([System.Text.Encoding]::ASCII.GetBytes($payload))
 
