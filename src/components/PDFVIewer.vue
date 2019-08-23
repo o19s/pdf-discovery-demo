@@ -1,59 +1,27 @@
 <template>
   <div class="the-pdf-viewer">
     <div class="app-header">
-      <div
-        class="find-bar"
-        id="findbar"
-        ref="findbar"
-      >
+      <div class="find-bar" id="findbar" ref="findbar">
         <div id="viewFind">toggle</div>
 
         <form @submit.prevent="executeQuery">
-          <input
-            type="text"
-            id="findInput"
-            ref="findInput"
-            v-model="query"
-          />
-          <input
-            type="submit"
-            value="Find"
-          />
+          <input type="text" id="findInput" ref="findInput" v-model="query" />
+          <input type="submit" value="Find" />
         </form>
 
         <label class="highlightAllToggle">
-          <input
-            type="checkbox"
-            id="findHighlightAll"
-            checked
-          />
+          <input type="checkbox" id="findHighlightAll" checked />
           Highlight All
         </label>
         <div id="findMatchCase"></div>
         <div id="findEntireWord"></div>
         <div id="findMsg"></div>
-        <span
-          ref="findResultsCount"
-          id="findResultsCount"
-        />
-        <button
-          id="findPrevious"
-          :disabled="query.length < 1"
-        >
-          &laquo;
-        </button>
-        <button
-          id="findNext"
-          :disabled="query.length < 1"
-        >
-          &raquo;
-        </button>
+        <span ref="findResultsCount" id="findResultsCount" />
+        <button id="findPrevious" :disabled="query.length < 1">&laquo;</button>
+        <button id="findNext" :disabled="query.length < 1">&raquo;</button>
 
         <span class="input-seperator">-- OR --</span>
-        <form
-          @submit.prevent="updateCoordinates"
-          class="coordinates-form"
-        >
+        <form @submit.prevent="defineHighlight" class="coordinates-form">
           <input
             ref="targetPage"
             type="number"
@@ -61,39 +29,16 @@
             placeholder="Page"
             v-model="activePage"
           />
-          <input
-            ref="coordinatesX1"
-            type="number"
-            placeholder="X1"
-          />
-          <input
-            ref="coordinatesY1"
-            type="number"
-            placeholder="Y1"
-          />
-          <input
-            ref="coordinatesX2"
-            type="number"
-            placeholder="X2"
-          />
-          <input
-            ref="coordinatesY2"
-            type="number"
-            placeholder="Y2"
-          />
-          <input type="submit" value="Draw">
+          <input ref="coordinatesX1" type="number" placeholder="X1" />
+          <input ref="coordinatesY1" type="number" placeholder="Y1" />
+          <input ref="coordinatesX2" type="number" placeholder="X2" />
+          <input ref="coordinatesY2" type="number" placeholder="Y2" />
+          <input type="submit" value="Draw" />
         </form>
       </div>
     </div>
-    <div
-      class="pdf-viewer-container"
-      ref="pdf-viewer-container"
-    >
-      <div
-        id="pdf-viewer"
-        class="pdf-viewer"
-        ref="pdf-viewer"
-      />
+    <div class="pdf-viewer-container" ref="pdf-viewer-container">
+      <div id="pdf-viewer" class="pdf-viewer" ref="pdf-viewer" />
     </div>
   </div>
 </template>
@@ -110,7 +55,7 @@ export default {
   data () {
     return {
       doc: null,
-      query: '',
+      query: 'scranton',
       executedQuery: '',
       pdfjsLib: null,
       scale: 1.33,
@@ -127,7 +72,10 @@ export default {
         x2: null,
         y1: null,
         y2: null
-      }
+      },
+      highlightData: {},
+      renderedPages: [],
+      pdfFileName: 'brainard20190711a.pdf'
     }
   },
   created () {
@@ -136,9 +84,34 @@ export default {
       this.executedQuery = this.query
     }
   },
-  mounted () {
+  async mounted () {
     this.pdfjsLib = require('pdfjs-dist/webpack')
     this.initializeViewer()
+
+    let url = new URL('http://localhost:8983/solr/documents/select')
+    let params = {
+      fl: 'id,content,path,page_dimensions',
+      hl: 'on',
+      'hl.snippets': 10,
+      'hl.fl': 'content',
+      indent: 'on',
+      q: this.query,
+      wt: 'json',
+      pl: 'on',
+      echoParams: 'all'
+    }
+    let response = null
+
+    // add params to url
+    Object.keys(params).forEach(key => url.searchParams.append(key, params[key]))
+
+    try {
+      response = await fetch(url)
+    } catch (e) {
+      console.error(e)
+    }
+
+    this.highlightData = await response.json()
   },
   computed: {
     pdfScale () {
@@ -168,15 +141,6 @@ export default {
         findPrevious: event.findPrevious,
         query: this.query
       })
-
-      if (event.type === 'again') {
-        this.triggerResize()
-      } else {
-        setTimeout(() => {
-          this.triggerResize()
-          this.updateURL()
-        }, 500)
-      }
     },
     updateURL () {
       if (!this.$route.query || this.$route.query.query !== this.query) {
@@ -225,8 +189,11 @@ export default {
       window.addEventListener('resize', () => {
         this.triggerResize()
       })
-      document.addEventListener('find', this.executeQuery)
-      document.addEventListener('findagain', this.executeQuery)
+      // document.addEventListener('find', this.executeQuery)
+      // document.addEventListener('findagain', this.executeQuery)
+      document.addEventListener('pagerendered', (e) => {
+        this.renderHighlightsOnPage(e.detail.pageNumber)
+      })
 
       let loadingTask = this.pdfjsLib.getDocument({
         url: this.url
@@ -235,45 +202,68 @@ export default {
       loadingTask.promise.then((pdfDocument) => {
         this.PDFViewer.setDocument(pdfDocument)
         this.PDFLinkService.setDocument(pdfDocument, null)
-        this.executeQuery()
+        // this.executeQuery()
       })
     },
-    updateCoordinates () {
-      if (
-        this.$refs['targetPage'].value &&
-        this.$refs['coordinatesX1'].value &&
-        this.$refs['coordinatesX2'].value &&
-        this.$refs['coordinatesY1'].value &&
-        this.$refs['coordinatesY2'].value
-      ) {
-        this.coordinates.x1 = this.$refs['coordinatesX1'].value ? this.$refs['coordinatesX1'].value : null
-        this.coordinates.y1 = this.$refs['coordinatesY1'].value ? this.$refs['coordinatesY1'].value : null
-        this.coordinates.x2 = this.$refs['coordinatesX2'].value ? this.$refs['coordinatesX2'].value : null
-        this.coordinates.y2 = this.$refs['coordinatesY2'].value ? this.$refs['coordinatesY2'].value : null
+    // defineHighlight () {
+    //   if (
+    //     this.$refs['targetPage'].value &&
+    //     this.$refs['coordinatesX1'].value &&
+    //     this.$refs['coordinatesX2'].value &&
+    //     this.$refs['coordinatesY1'].value &&
+    //     this.$refs['coordinatesY2'].value
+    //   ) {
+    //     this.coordinates.x1 = this.$refs['coordinatesX1'].value ? this.$refs['coordinatesX1'].value : null
+    //     this.coordinates.y1 = this.$refs['coordinatesY1'].value ? this.$refs['coordinatesY1'].value : null
+    //     this.coordinates.x2 = this.$refs['coordinatesX2'].value ? this.$refs['coordinatesX2'].value : null
+    //     this.coordinates.y2 = this.$refs['coordinatesY2'].value ? this.$refs['coordinatesY2'].value : null
 
-        this.addHighlightToPDF()
-      }
-    },
-    addHighlightToPDF () {
-      console.log('adding highlight')
-
-      let highlight = document.createElement('div')
-      let targetPage = document.querySelector(`[data-page-number="${this.$refs['targetPage'].value}"]`)
+    //     this.addHighlightToPDF()
+    //   }
+    // },
+    addHighlightToPDF (pageNumber, coordinates) {
+      let doc = this.highlightData.response.docs.find(pdf => {
+        return pdf.id === this.pdfFileName
+      })
+      let [pageWidth, pageHeight] = doc.page_dimensions[pageNumber].split(' ').slice(3)
+      let [x1, y1, x2, y2] = coordinates
+      let highlight = document.createElement('span')
+      let targetPage = document.querySelector(`[data-page-number="${pageNumber}"]`)
 
       // set the relative position for the highlight
       highlight.setAttribute('class', 'box-highlight')
       highlight.setAttribute('style', `
-        position:absolute;
-        top:${this.coordinates.y1}px;
-        left:${this.coordinates.x1}px;
-        height:${this.coordinates.y2 - this.coordinates.y1}px;
-        width:${this.coordinates.x2 - this.coordinates.x1}px;
+        top:${(y1 / pageHeight) * 100}%;
+        left:${(x1 / pageWidth) * 100}%;
+        height:${((y2 / pageHeight) - (y1 / pageHeight)) * 100}%;
+        width:${((x2 / pageWidth) - (x1 / pageWidth)) * 100}%;
       `)
-
-      console.log(highlight, targetPage)
 
       // add the highlight to the page
       targetPage.appendChild(highlight)
+    },
+    renderHighlightsOnPage (pageNumber) {
+      // bail if we've already set up the highlights for this page
+      if (this.renderedPages.includes[pageNumber]) {
+        return
+      }
+
+      // register that we've rendered the highlights on this page
+      this.renderedPages.push(pageNumber)
+
+      if (this.highlightData && this.highlightData.payloads[this.pdfFileName]) {
+        let highlihtTerms = this.highlightData.payloads[this.pdfFileName].content_ocr
+        Object.keys(highlihtTerms).forEach(term => {
+          highlihtTerms[term].forEach(highlight => {
+            let [targetPageNumber, ...coordinates] = atob(highlight).split(' ').filter(Number)
+            if (pageNumber.toString() === targetPageNumber.toString()) {
+              this.addHighlightToPDF(pageNumber, coordinates)
+            }
+          })
+        })
+      } else {
+        console.error('target PDF not found in result set')
+      }
     }
   }
 }
@@ -306,6 +296,10 @@ export default {
   align-items: center;
   z-index: 2;
   box-shadow: 2px 0 2em 0 rgba(#2f3235, 0.33);
+
+  .find-bar {
+    display: none;
+  }
 
   form {
     display: flex;
@@ -427,23 +421,35 @@ export default {
 
     .highlight {
       display: inline-block;
-      background: linear-gradient(to right, rgba(255,0,0,0.66) 0%, #dd0000 100%);
+      background: linear-gradient(
+        to right,
+        rgba(255, 0, 0, 0.66) 0%,
+        #dd0000 100%
+      );
       box-shadow: inset 0.5em 0 0.05em 0.1em rgba(#ff1122, 0.75);
       transform: scaleX(1.1) scaleY(1.4) skew(-20deg);
       transform-origin: 0% 25%;
-      border-radius: 0.25em .33em 0.4em 0.2em;
+      border-radius: 0.25em 0.33em 0.4em 0.2em;
 
       &.selected {
-        background: linear-gradient(to right, rgba(0,255,0,0.66) 0%, green 100%);
+        background: linear-gradient(
+          to right,
+          rgba(0, 255, 0, 0.66) 0%,
+          green 100%
+        );
         box-shadow: inset 0.5em 0 0.05em 0.1em rgba(green, 0.5);
       }
     }
 
     .box-highlight {
+      position: absolute;
       display: block;
-      background: red;
-      opacity: 0.33;
-      border-radius: 5px;
+      background: blue;
+      opacity: 0.2;
+      transform-origin: center center;
+      transform: scale(1.1, 1.15);
+      border-radius: 2px;
+      pointer-events: none;
     }
   }
 }
