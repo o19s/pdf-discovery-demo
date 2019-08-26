@@ -33,6 +33,8 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ## setup from project root
 
 ```
+docker-compose down -v
+docker-compose build
 docker-compose up
 ```
 
