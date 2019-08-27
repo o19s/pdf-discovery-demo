@@ -1,15 +1,13 @@
-# Docker compose file for the application.
+# Docker compose file for the application on Digital Ocean.
+# run
+# sudo apt-get -y install python-pip
+# sudo pip install docker-compose
 
-version: '3'
-services:
+#version: '2'   # on CircleCI the version and services cause build to puke.
+#services:
 
   app:
-    build:
-      context: .
-      dockerfile: Dockerfile
-    #command: "bundle exec foreman start -f Procfile -p 3000"
-    #volumes:
-      #- .:/srv/app
+    image: harbor.dev.o19s.com/pdf-discovery-demo/app:latest
     ports:
       - 8081:8080
     links:
@@ -23,7 +21,7 @@ services:
       - "3888:3888"
 
   solr:
-    build: ./solr
+    image: harbor.dev.o19s.com/pdf-discovery-demo/solr:latest
     ports:
      - "8983:8983"
     links:
@@ -31,19 +29,16 @@ services:
     command: "bash -c '/opt/solr/bin/solr start -f -z zookeeper:2181 -Dbootstrap_confdir=/solr-config/index/conf'"
 
   solr-proxy:
-    build: ./solr-proxy
+    image: harbor.dev.o19s.com/pdf-discovery-demo/solr-proxy:latest
     ports:
       - "8000:80"
     links:
       - solr
 
   init:
-    build:
-      context: ./ocr
-      dockerfile: init/Dockerfile
+    image: harbor.dev.o19s.com/pdf-discovery-demo/init:latest
     ports:
      - "8080:8080"
     links:
       - solr
       - zookeeper
-    #entrypoint: ./wait-for-it.sh solr:8983

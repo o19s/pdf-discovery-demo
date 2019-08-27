@@ -1,5 +1,14 @@
 # pdfjs-vue
 
+## Quickstart!
+
+Just do `docker-compose up` and then browse to http://localhost:8081.  
+
+Solr is running on :8983, and PDF images are served up on :8080.
+
+You may need to do `docker-compose down -v` if you have already run the demo.
+
+
 ## Project setup
 ```
 npm install
@@ -43,3 +52,27 @@ And then browse to
 ```
 http://localhost:8983/solr/documents/select?fl=id,content,path,page_dimensions&hl=on&hl.snippets=10&hl.fl=content&indent=on&q=taxes&wt=json&pl=on&echoParams=all
 ```
+
+
+# Building Docker images
+Build the docker images from scratch via:
+
+```
+docker-compose build
+
+```
+
+Deploy to our private Docker registry http://harbor.dev.o19s.com:
+
+```
+docker login harbor.dev.o19s.com
+
+docker tag pdf-discovery-demo_solr-proxy harbor.dev.o19s.com/pdf-discovery-demo/solr-proxy
+docker tag pdf-discovery-demo_app harbor.dev.o19s.com/pdf-discovery-demo/app
+docker tag pdf-discovery-demo_solr harbor.dev.o19s.com/pdf-discovery-demo/solr
+docker tag pdf-discovery-demo_init harbor.dev.o19s.com/pdf-discovery-demo/init
+
+docker push harbor.dev.o19s.com/pdf-discovery-demo/solr-proxy
+docker push harbor.dev.o19s.com/pdf-discovery-demo/app
+docker push harbor.dev.o19s.com/pdf-discovery-demo/solr
+docker push harbor.dev.o19s.com/pdf-discovery-demo/init
