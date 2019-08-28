@@ -1,11 +1,15 @@
 
 Param(
                [Parameter(Mandatory=$True,Position=1,HelpMessage="Enter path to directory of extracts")]
-               [string]$directory_path
+               [string]$directory_path,
+               [Parameter(Mandatory=$True,Position=2,HelpMessage="Enter path to root directory with PDF files")]
+               [string]$files_root_path
                )
 
 Write-Host "Script:" $PSCommandPath
 Write-Host "Path:" $PSScriptRoot
+
+$files_root_path = Resolve-Path $files_root_path
 
 $base_files = Get-ChildItem -Path $directory_path –Recurse | Where-Object {$_.Extension -eq ".json"}
 
@@ -41,7 +45,12 @@ foreach ($base_file in $base_files) {
 
 
   $subject = $json.'dc:subject'
-  $path = "../public/$outputFile"
+
+  # Need to go find the first occurrence of the $outputFile.
+  $paths = gci -Recurse -Filter $outputFile -File -ErrorAction SilentlyContinue -Path $files_root_path
+  $file = $paths[0]
+  $path = $file.ToString().Replace($files_root_path.ToString(),'')
+
 
 
   $page_dimensions = @()
