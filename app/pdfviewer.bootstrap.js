@@ -6,9 +6,8 @@
   pdfViewerEl.setAttribute('id', 'pdf-viewer')
   mountTarget.parentNode.insertBefore(pdfViewerEl, mountTarget)
 
-  // set timeout for now to help unsure that the window object
-  // is set before we try to render the PDF viewer
-  window.setTimeout(() => {
+  // Mount the vue app when the window say's we're ready
+  window.frb.renderPDF = function () {
     var app = new Vue({
       el: '#pdf-viewer',
       components: {
@@ -25,5 +24,5 @@
         ])
       }
     })
-  }, 500);
+  }
 })();

@@ -11,6 +11,13 @@ $(document).ready(function () {
   var docId = $.urlParam('id');
 
   window.frb = {
+    // renders the pdf if the function is set, or re-calls every
+    // 200ms waiting for the data to be ready
+    renderPDF: window.frb && typeof window.frb.renderPDF !== "undefined"
+      ? window.frb.renderPDF
+      : function () { window.setTimeout(() => {
+        window.frb.renderPDF();
+      }, 200); },
     docId: docId,
     query: query,
     highlights: {}
@@ -22,7 +29,6 @@ $(document).ready(function () {
   })
 
   function renderSnippetsList(snippets) {
-    console.log(snippets)
     $(snippets).each(function(index, snippet) {
       var snippetMarkup =  '<div class="snippet-item">';
           snippetMarkup +=   '<p>...' + snippet + '...</p>';
@@ -30,6 +36,8 @@ $(document).ready(function () {
 
       $('#the-snippet-list').find('.results').append(snippetMarkup)
     })
+
+    window.frb.renderPDF()
   }
 
   $(document).on('click', '.snippet-item', function() {
