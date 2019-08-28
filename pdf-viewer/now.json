@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "name": "pdfjs-vue",
+  "alias": "osc-frb-pdfjs.now.sh",
+  "github": {
+    "silent": true,
+    "enabled": true
+  }
+}

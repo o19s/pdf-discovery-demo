@@ -14,28 +14,23 @@ You may need to do `docker-compose down -v` if you have already run the demo.
 npm install
 ```
 
-### Compiles and hot-reloads for development
+#Vue Component
+`cd` into the `pdf-viewer` directory.
+
+## Development
 ```
+npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
+## To build new version of pdf viewer standalone module
+from inside the `pdf-viewer` directory:
+
 ```
-npm run build
+npx vue-cli-service build --target lib --name pdfviewer ./src/components/PDFVIewer.vue
 ```
 
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+copy the `dist` directory contents into `/app/pdfviewer/`
 
 # Run Solr Demo
 
