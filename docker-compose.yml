@@ -2,12 +2,26 @@
 
 version: '3'
 services:
+
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    #command: "bundle exec foreman start -f Procfile -p 3000"
+    #volumes:
+      #- .:/srv/app
+    ports:
+      - 8081:8080
+    links:
+      - solr
+
   zookeeper:
     image: jplock/zookeeper
     ports:
       - "2181:2181"
       - "2888:2888"
       - "3888:3888"
+
   solr:
     build: ./solr
     ports:
@@ -16,13 +30,19 @@ services:
       - zookeeper
     command: "bash -c '/opt/solr/bin/solr start -f -z zookeeper:2181 -Dbootstrap_confdir=/solr-config/index/conf'"
 
+  solr-proxy:
+    build: ./solr-proxy
+    ports:
+      - "8000:80"
+    links:
+      - solr
 
   init:
     build:
       context: ./ocr
       dockerfile: init/Dockerfile
     ports:
-     - "8080:8080"
+     - "8443:8443"
     links:
       - solr
       - zookeeper
