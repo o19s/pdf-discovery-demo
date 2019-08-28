@@ -4,14 +4,11 @@ version: '3'
 services:
 
   app:
-    build:
-      context: .
-      dockerfile: Dockerfile
-    #command: "bundle exec foreman start -f Procfile -p 3000"
+    build: ./app
     #volumes:
       #- .:/srv/app
     ports:
-      - 8081:8080
+      - 8080:8080
     links:
       - solr
 
@@ -46,4 +43,3 @@ services:
     links:
       - solr
       - zookeeper
-    #entrypoint: ./wait-for-it.sh solr:8983
