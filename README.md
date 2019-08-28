@@ -2,9 +2,9 @@
 
 ## Quickstart!
 
-Just do `docker-compose up` and then browse to http://localhost:8081.  
+Just do `docker-compose up` and then browse to http://localhost:8080.  
 
-Solr is running on :8983, and PDF images are served up on :8080.
+Solr is running on http://localhost:8983, with a CORS version at http://localhost:8000, and PDF images are served up on https://localhost:8443.
 
 You may need to do `docker-compose down -v` if you have already run the demo.
 
