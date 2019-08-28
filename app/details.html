@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>End-to-End Demo - Search</title>
+  <title>End-to-End Demo - Details</title>
 
   <link rel="stylesheet" href="./style.css">
 
@@ -12,18 +12,17 @@
   src="https://code.jquery.com/jquery-3.4.1.min.js"
   integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
   crossorigin="anonymous"></script>
-  <script src="./search.js"></script>
-
+  <script src="./details.js"></script>
 </head>
 <body>
-  <h1>End to End PDF Search Demo</h1>
-  <form action="">
-    <input type="text" name="query" />
-    <input type="submit" />
-  </form>
-
-  <div class="results" id="the-results-list">
-
+  <div class="results-view">
+    <div class="snippet-list" id="the-snippet-list">
+      <h2>Found Results</h2>
+      <div class="results"></div>
+    </div>
+    <div class="document-container">
+      <script src="./pdfviewer.js" id="frb-pdf-viewer"></script>
+    </div>
   </div>
 </body>
 </html>
