@@ -1,5 +1,5 @@
 <template>
-  <div class="the-pdf-viewer">
+  <div class="the-pdf-viewer" id="the-frb-pdf-viewer">
     <div class="pdf-viewer-container" ref="pdf-viewer-container">
       <div id="pdf-viewer" class="pdf-viewer" ref="pdf-viewer" />
     </div>
@@ -47,6 +47,7 @@ export default {
       this.viewportWidth = this.$refs['pdf-viewer-container'].offsetWidth
       this.PDFViewer.currentScaleValue = 1.0001
       this.PDFViewer.currentScaleValue = this.pdfScale
+      this.renderedPages = []
     },
     initializeViewer () {
       this.PDFViewer = new PDFJS.PDFViewer({
