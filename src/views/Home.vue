@@ -1,14 +1,18 @@
 <template>
   <div id="app">
     <div class="app-body">
-      <h1 class="title">Highlighting with PDF.js</h1>
-      <PDFViewer :url="url" />
+      <PDFViewer
+        v-if="dataLoaded"
+        v-bind:id="id"
+        v-bind:highlights="highlightData"
+      />
     </div>
   </div>
 </template>
 
 <script>
 import PDFViewer from '@/components/PDFVIewer'
+import 'url-polyfill'
 
 export default {
   name: 'app',
@@ -17,9 +21,36 @@ export default {
   },
   data () {
     return {
-      doc: null,
-      url: '/brainard20190711a.pdf'
+      highlightData: {},
+      id: 'brainard20190711a.pdf',
+      query: 'scranton',
+      dataLoaded: false
     }
+  },
+  mounted () {
+    let url = new URL('http://localhost:8983/solr/documents/select')
+    let params = {
+      fl: 'id,content,path,page_dimensions',
+      fq: `id:${this.id}`,
+      hl: 'on',
+      'hl.snippets': 10,
+      'hl.fl': 'content',
+      indent: 'on',
+      q: `(${this.query})`,
+      wt: 'json',
+      pl: 'on',
+      echoParams: 'all'
+    }
+
+    // add params to url
+    Object.keys(params).forEach(key => url.searchParams.append(key, params[key]))
+
+    fetch(url).then((response) => {
+      return response.json()
+    }).then((json) => {
+      this.dataLoaded = true
+      this.highlightData = json
+    })
   }
 }
 </script>
@@ -28,26 +59,18 @@ export default {
 body, html {
   margin: 0;
   padding: 0;
-  background-color: #62676f;
 }
 </style>
 
 <style lang="scss" scoped>
 .app-body {
-  position: absolute;
-  left: 0;
-  right: 0;
-  top: 0;
-  bottom: 0;
-}
+  position: relative;
+  width: 100%;
+  max-width: 800px;
+  background-color: #7e858f;
 
-.title {
-  padding: 70px 0 0 0;
-  text-align: center;
-  font-family: sans-serif;
-  color: #6d727a;
-  text-shadow: 0px -1px 1px #53585e;
-  margin-bottom: 0;
-  opacity: 0.75;
+  .the-pdf-viewer {
+    padding-top: 125%;
+  }
 }
 </style>
