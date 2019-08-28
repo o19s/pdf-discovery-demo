@@ -42,5 +42,8 @@ echo "Load all the extracts"
 ./load_sample_files.sh ./sample_docs http://solr:8983/solr/documents/update
 echo "Done with setup"
 
-cd /files
-python3 -m http.server 8080
+# https://github.com/http-party/http-server
+http-server ../files --cors --ssl --cert ./cert.pem --key ./key.pem -p 8443
+
+#cd /files
+#python3 -m http.server 8080
