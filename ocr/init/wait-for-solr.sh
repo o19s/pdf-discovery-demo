@@ -22,12 +22,12 @@ function usage {
 max_attempts=12
 wait_seconds=5
 
-if [[ -v SOLR_PORT ]] && ! grep -E -q '^[0-9]+$' <<<"$SOLR_PORT"; then
-  echo "Invalid SOLR_PORT=$SOLR_PORT environment variable specified"
-  exit 1
-fi
+#if [[ -v SOLR_PORT ]] && ! grep -E -q '^[0-9]+$' <<<"$SOLR_PORT"; then
+#  echo "Invalid SOLR_PORT=$SOLR_PORT environment variable specified"
+#  exit 1
+#fi
 
-solr_url="http://solr:${SOLR_PORT:-8983}"
+#solr_url="http://solr:${SOLR_PORT:-8983}"
 
 while (( $# > 0 )); do
   case "$1" in
@@ -79,7 +79,10 @@ grep -q -E '^https?://' <<<$solr_url || usage "--solr-url $solr_url: not a URL"
 
 let attempts_left=$max_attempts
 while (( attempts_left > 0 )); do
-  if wget -q -O - "$solr_url" | grep -q -i solr; then
+  # For some reason in some environments the -q param on grep means this next line fails.
+  # Same Docker, different deployes..  Sigh.
+  #if wget -q -O - "$solr_url" | grep -q -i solr; then
+  if wget -q -O - "$solr_url" | grep -i solr; then
     break
   fi
   let "attempts_left--"
