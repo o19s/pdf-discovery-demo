@@ -1,4 +1,4 @@
-# pdfjs-vue
+# PDF.JS End-to-End Search / Snippets / Highlighting
 
 ## Quickstart!
 
