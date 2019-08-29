@@ -9,6 +9,9 @@ Extracting 'image0.tif' (image/tiff) to ./image0.tif
     "Content-Length": "345888",
 ```
 
+
+java -cp ./tika-properties:tika-app-1.22.jar org.apache.tika.cli.TikaCLI --xmp --jsonRecursive --extract --pretty-print -x ./files/odd-files/UnsolicitedCreditOffers2004.pdf 
+
 java -cp tika-server-1.22.jar:./tika org.apache.tika.server.TikaServerCli
 
 
@@ -167,4 +170,4 @@ So, running it with pairwise, we have one issue, wihth is OCR has `Iam` and text
 
 npm install http-server -g
 
-http-server ../files --cors --ssl --cert ./cert.pem --key ./key.pem 
+http-server ../files --cors --ssl --cert ./cert.pem --key ./key.pem
