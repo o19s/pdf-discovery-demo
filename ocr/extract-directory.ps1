@@ -14,6 +14,6 @@ $pdf_files = Get-ChildItem -Path $directory_path –Recurse | Where-Object {$_.E
 foreach ($pdf_file in $pdf_files) {
 
   Write-Host $pdf_file
-  Invoke-Expression "./extract-old-style.ps1 $pdf_file"
+  Invoke-Expression "./extract.ps1 $pdf_file"
 
 }
