@@ -32,7 +32,17 @@ $json = (Get-Content $extract_file -Raw) | ConvertFrom-Json
 
 if ($json -eq $null){
   Write-Host "Badly formatted JSON file $extract_file"
-  return
+  Write-Host "Pending fix of TIKA-2931, need to scrub output of lines starting with text Extracting"
+
+  $raw = (Get-Content $extract_file -Raw)
+
+  $json_starts_index = $raw.IndexOf('[')
+
+  $raw = $raw.Substring($json_starts_index)
+
+  #$extract_file =$extract_file + ".cleaned"
+  Set-Content -Path $extract_file -Value $raw
+  $json = (Get-Content $extract_file -Raw) | ConvertFrom-Json
 }
 
 
