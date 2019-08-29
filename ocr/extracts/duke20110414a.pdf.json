@@ -1,14 +1,3 @@
-Extracting 'image0.tif' (image/tiff) to ./5e33693d-f4d9-41d3-83cd-50066003295b-image0.tif
-Extracting 'image1.png' (image/png) to ./6ac6efef-cc59-4bdd-b2c2-6b688ef52100-image1.png
-Extracting 'image2.png' (image/png) to ./45219634-f72d-4f07-84ef-ab4fad088b51-image2.png
-Extracting 'image3.png' (image/png) to ./a2ce189f-0576-40f7-96b5-5f52abc59541-image3.png
-Extracting 'image4.png' (image/png) to ./d21e0174-a9be-4178-bc54-33f65ca5bf8f-image4.png
-Extracting 'image5.png' (image/png) to ./296ea01e-807e-48d3-8889-213e756d8537-image5.png
-Extracting 'image6.png' (image/png) to ./947387ed-9066-4fbf-936f-a4156ead8791-image6.png
-Extracting 'image7.png' (image/png) to ./4afbb9a2-7379-4f0f-9e19-8a3d442a1341-image7.png
-Extracting 'image8.png' (image/png) to ./0975122c-c408-45fd-a640-0ded2547e885-image8.png
-Extracting 'image9.png' (image/png) to ./beb4107b-942c-40b9-936c-a576626967d5-image9.png
-Extracting 'image10.png' (image/png) to ./9cba6422-ed3c-4538-9fbc-797c7a5ad432-image10.png
 [
   {
     "Author": "Federal Reserve Board",
@@ -117,3 +106,4 @@ Extracting 'image10.png' (image/png) to ./9cba6422-ed3c-4538-9fbc-797c7a5ad432-i
     "xmpTPg:NPages": "26"
   }
 ]
+

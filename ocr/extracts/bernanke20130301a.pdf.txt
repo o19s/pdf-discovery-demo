@@ -1,0 +1,1042 @@
+
+For release on delivery 
+
+10:00 p.m. EST (7 p.m. PST) 
+
+March 1, 2013 
+
+
+
+
+
+
+
+
+
+Long-Term Interest Rates 
+
+
+
+
+Remarks by 
+
+
+Ben S. Bernanke 
+
+
+Chairman 
+
+
+Board of Governors of the Federal Reserve System 
+
+
+at the 
+
+
+Annual Monetary/Macroeconomics Conference:  The Past and Future of Monetary Policy 
+
+
+Sponsored by Federal Reserve Bank of San Francisco 
+
+
+San Francisco, California 
+
+
+
+
+
+
+
+
+March 1, 2013 
+
+
+
+
+
+I will begin my remarks by posing a question:  Why are long-term interest rates so 
+
+low in the United States and in other major industrial countries?   
+
+At first blush, the answer seems obvious:  Central banks in those countries are 
+
+pursuing accommodative monetary policies to boost growth and reduce slack in their 
+
+economies.  However, while central banks certainly play a key role in determining the 
+
+behavior of long-term interest rates, theirs is only a proximate influence.  A more 
+
+complete explanation of the current low level of rates must take account of the broader 
+
+economic environment in which central banks are currently operating and of the 
+
+constraints that that environment places on their policy choices. 
+
+Let me start with a brief overview of the recent history of long-term interest rates 
+
+in some key economies.  Chart 1 shows the 10-year government bond yields for five 
+
+major industrial countries:  Canada, Germany, Japan, the United Kingdom, and the 
+
+United States.  Note that the movements in these yields are quite correlated despite some 
+
+differences in the economic circumstances and central bank mandates in those countries.  
+
+Further, with the notable exception of Japan, the levels of the yields have been very 
+
+similar--indeed, strikingly so, with long-term yields declining over time and currently 
+
+close to 2 percent in each case. The similar behavior of these yields attests to the global 
+
+nature of the economic and financial developments of recent years, as well as to the broad 
+
+similarity in how the monetary policymakers in the advanced economies have responded 
+
+to these developments.  Of course, Japanese yields are clearly a case apart, as Japan has 
+
+endured an extended period of deflation, while inflation in the other four countries has 
+
+been positive and generally close to the stated objectives of the monetary authorities.  But 
+
+
+ - 2 - 
+
+even Japanese yields have shown some tendency to fluctuate along with other benchmark 
+
+yields, and they have also declined over the period shown.   
+
+In my comments, I will delve more deeply into the reasons why these long-term 
+
+interest rates have fallen so low.  This examination may be useful both for understanding 
+
+the current stance of policy and also for thinking about how rates may evolve.  In short, 
+
+we expect that as the economy recovers, long-term rates will rise over time to more 
+
+normal levels.  A return to more normal conditions in financial markets would, of course, 
+
+be most welcome.  Many commentators have noted, however, that both an extended 
+
+period of low rates and the transition back toward normal levels may pose risks to 
+
+financial stability.  In the final portion of my remarks, I will discuss some aspects of how 
+
+the Federal Reserve is approaching these risks. 
+
+Why Are Long-Term Interest Rates So Low? 
+
+So, why are long-term interest rates currently so low?  To help answer this 
+
+question, it is useful to decompose longer-term yields into three components:  one 
+
+reflecting expected inflation over the term of the security; another capturing the expected 
+
+path of short-term real, or inflation-adjusted, interest rates; and a residual component 
+
+known as the term premium.  Of course, none of these three components is observed 
+
+directly, but there are standard ways of estimating them.  Chart 2 displays one version of 
+
+this decomposition of the 10-year U.S. Treasury yield based on a term structure model 
+
+developed by Federal Reserve staff.
+1
+  The broad features I will emphasize are similar to 
+
+those found by other authors using a variety of methods.
+2
+   
+
+                                                 
+1
+ Estimates are based on the model of D’Amico, Kim, and Wei (2010).  That model employs the “arbitrage-
+
+free” term structure framework and jointly models real yields, nominal yields, and inflation as functions of 
+
+four underlying latent factors.  Historical data on nominal yields, real yields, and inflation can be used to 
+
+estimate these underlying factors and the relationship of real and nominal yields to the factors.  Based on 
+
+
+ - 3 - 
+
+All three components of the 10-year yield have declined since 2007.  The 
+
+decomposition attributes much of the decline in the yield since 2010 to a sharp fall in the 
+
+term premium, but the expected short-term real rate component also moved down 
+
+significantly.  Let’s consider each component more closely.  
+
+The expected inflation component has drifted gradually downward for many years 
+
+and has become quite stable.  In large part, the downward trend and stabilization of 
+
+expected inflation in the United States are products of the increasing credibility of the 
+
+Federal Reserve’s commitment to price stability.  In January 2012, the Federal Open 
+
+Market Committee (FOMC) underscored this commitment by issuing a statement--since 
+
+reaffirmed at its January 2013 meeting--on its longer-run goals and policy strategy, which 
+
+included a longer-run inflation target of 2 percent.
+3
+  The anchoring of long-term inflation 
+
+expectations near 2 percent has been a key factor influencing long-term interest rates over 
+
+recent years.  It almost certainly helped mitigate the strong disinflationary pressures 
+
+immediately following the crisis.  While I have not shown expected inflation for other 
+
+advanced economies, the pictures would be very similar--again, except for Japan.  
+
+With the expected inflation component of the 10-year rate near 2 percent and the 
+
+rate itself a bit below 2 percent recently, it is clear that the combination of the other two 
+
+components--the expected path of short-term real interest rates and the term premium--
+
+must make a small net negative contribution. 
+
+                                                                                                                                                 
+this information, the model can be used to produce estimates of the components of nominal yields shown in 
+
+chart 2.  Note that inflation in chart 2 is measured by the consumer price index; inflation measured by this 
+index is close to but on average slightly higher than inflation as measured by the price index for personal 
+
+consumption expenditures, the measure to which the Federal Open Market Committee’s 2 percent inflation 
+
+objective refers. 
+2
+ For example, this decomposition as estimated based on expectations as reported in the Blue Chip 
+
+Financial Forecasts gives broadly similar results, as do many standard term structure models. 
+3
+ See Statement on Longer-Run Goals and Monetary Policy Strategy, as amended effective on January 29, 
+
+2013, at www.federalreserve.gov/monetarypolicy/files/FOMC_LongerRunGoals.pdf. 
+
+
+ - 4 - 
+
+The expected path of short-term real interest rates is, of course, influenced by 
+
+monetary policy, both the current stance of policy and market participants’ expectations 
+
+of how policy will evolve.  The stance of monetary policy at any given time, in turn, is 
+
+driven largely by the economic outlook, the risks surrounding that outlook, and at times 
+
+other factors, such as whether the zero lower bound on nominal interest rates is binding.  
+
+In the current environment, both policymakers and market participants widely agree that 
+
+supporting the U.S. economic recovery while keeping inflation close to 2 percent will 
+
+likely require real short-term rates, currently negative, to remain low for some time.  As 
+
+shown in chart 2, the expected average of the short-term real rate over the next 10 years 
+
+has gradually declined to near zero over the past few years, in part reflecting downward 
+
+revisions in expectations about the pace of the ongoing recovery and, hence, a pushing 
+
+out of expectations regarding how long nominal short-term rates will remain low.
+ 4
+  
+
+As the persistence of the effects of the crisis have become clearer, the Federal 
+
+Reserve’s communications have reinforced the expectation that conditions are likely to 
+
+warrant highly accommodative policy for some time:  Most recently, the FOMC 
+
+indicated that it expects to maintain an exceptionally low level of the federal funds rate at 
+
+least as long as the unemployment rate is above 6.5 percent, projected inflation between 
+
+one and two years ahead is no more than a half percentage point above the Committee’s 2 
+
+percent target, and long-term inflation expectations remain stable.
+5
+ 
+
+In discussing the role of monetary policy in determining the expected future path 
+
+of real short-term rates, I have cheated a little:  What monetary policy actually controls is 
+
+                                                 
+4
+ Real interest rates are not constrained by the zero bound, and the fact that expected average real short-
+
+term interest rates are near zero reflects that the nominal rate is expected, on average, to run close to the 
+
+expected inflation rate, which is near 2 percent. 
+5
+ See the FOMC’s December statement at Board of Governors (2012). 
+
+
+ - 5 - 
+
+nominal short-term rates.  However, because inflation adjusts slowly, control of nominal 
+
+short-term rates usually translates into control of real short-term rates over the short and 
+
+medium term.  In the longer term, real interest rates are determined primarily by 
+
+nonmonetary factors, such as the expected return to capital investments, which in turn is 
+
+closely related to the underlying strength of the economy.  The fact that market yields 
+
+currently incorporate an expectation of very low short-term real interest rates over the 
+
+next 10 years suggests that market participants anticipate persistently slow growth and, 
+
+consequently, low real returns to investment.  In other words, the low level of expected 
+
+real short rates may reflect not only investor expectations for a slow cyclical recovery but 
+
+also some downgrading of longer-term growth prospects.
+6
+ 
+
+Chart 3, which displays yields on inflation-indexed, long-term government bonds 
+
+for the same five countries represented in chart 1, shows that expected real yields over the 
+
+longer term are low in other advanced industrial economies as well.  Note again the 
+
+strong similarity in returns across these economies, suggesting once again the importance 
+
+of common global factors.  While indexed yields spiked up around the end of 2008, 
+
+reflecting market stresses at the height of the crisis that undercut the demand for these 
+
+bonds, these effects dissipated in 2009.  Since that time, inflation-indexed yields have 
+
+declined steadily and now stand below zero in each country.
+7
+  Apparently, low longer-
+
+term real rate expectations are playing an important role in accounting for low 10-year 
+
+nominal rates in other industrial countries, as well as in the United States. 
+
+                                                 
+6
+ Between April 2009 and October 2012, expectations for average growth over the next 10 years, as 
+
+reported in Consensus Forecasts, have fallen about 0.2 percentage points for the United States.  This 
+
+reduction in growth expectations is a broad phenomenon:  Between April 2009 and October 2012, the 
+
+average prediction for growth over the next 10 years for Canada, Germany, Japan, and the United Kingdom 
+
+has fallen between 0.1 and 0.6 percentage points. 
+7
+ It is important to note that these indexed yields are likely being pushed down by term premiums akin to 
+
+the term premiums in nominal rates discussed in this speech. 
+
+
+ - 6 - 
+
+The third and final component of the long-term interest rate is the term premium, 
+
+defined as the residual component not captured by expected real short-term rates or 
+
+expected inflation.  As I noted, the largest portion of the downward move in long-term 
+
+rates since 2010 appears to be due to a fall in the term premium, so it deserves some 
+
+special discussion.   
+
+In general, the term premium is the extra return investors expect to obtain from 
+
+holding long-term bonds as opposed to holding and rolling over a sequence of short-term 
+
+securities over the same period.  In part, the term premium compensates bondholders for 
+
+interest rate risk--the risk of capital gains and losses that interest rate changes imply for 
+
+the value of longer-term bonds.  Two changes in the nature of this interest rate risk have 
+
+probably contributed to a general downward movement of the term premium in recent 
+
+years.  First, the volatility of Treasury yields has declined, in part because short-term 
+
+rates are pressed up against the zero lower bound and are expected to remain there for 
+
+some time to come.  Second, the correlation of bond prices and stock prices has become 
+
+increasingly negative over time, implying that bonds have become more valuable as a 
+
+hedge against risks from holding other assets.
+8
+  
+
+ Beyond interest rate risk, a number of other factors also affect the term premium 
+
+in practice.  For example, during periods of financial turmoil, the prices of longer-term 
+
+Treasury securities are often driven up by so-called safe-haven demands of investors who 
+
+place special value on the safety and liquidity of Treasury securities.  Indeed, even during 
+
+more placid periods, global demands for safe assets increase the value of Treasury 
+
+securities.  Many foreign governments and central banks, particularly those with 
+
+sustained current account surpluses, hold substantial international reserves in the form of 
+
+                                                 
+8
+ See, for example, Campbell, Sunderam, and Viceira (2009).  
+
+
+ - 7 - 
+
+Treasuries.  Foreign holdings of U.S. Treasury securities currently amount to about 
+
+$5-1/2 trillion, roughly half of the total amount of marketable Treasury debt outstanding.  
+
+The global economic and financial stresses of recent years--triggered first by the financial 
+
+crisis, and then by the problems in the euro area--appear to have significantly elevated the 
+
+safe-haven demand for Treasury securities at times, pushing down Treasury yields and 
+
+implying a lower, or even a negative, term premium.
+9
+   
+
+Federal Reserve actions have also affected term premiums in recent years, most 
+
+prominently through a series of Large-Scale Asset Purchase (LSAP) programs.  These 
+
+programs consist of open market purchases of agency debt, agency mortgage-backed 
+
+securities, and longer-term Treasury securities.  To the extent that Treasury securities and 
+
+agency-guaranteed securities are not perfect substitutes for other assets, Federal Reserve 
+
+purchases of these assets should lower their term premiums, putting downward pressure 
+
+on longer-term interest rates and easing financial conditions more broadly.  Although 
+
+estimated effects vary, a growing body of research supports the view that LSAPs are 
+
+effective at bringing down term premiums and thus reducing longer-term rates.
+10
+
+  Of 
+
+course, the Federal Reserve has used this unconventional approach to lowering longer-
+
+term rates because, with short-term rates near zero, it can no longer use its conventional 
+
+approach of cutting the target for the federal funds rate.
+11
+
+  Accordingly, this portion of the 
+
+                                                 
+9
+ There are some additional more technical features of the Treasury market that push down the term 
+
+premium.  For example, the Treasury term premium is likely also depressed by the global demand for 
+
+Treasury securities for use as collateral or margin in funding or derivatives markets.   
+10
+
+ See, for example, Gagnon, Raskin, Remache, and Sack (2011); Li and Wei (2012); Hamilton and Wu 
+
+(2012); D’Amico, English, López-Salido, and Nelson (2012); Rosa (2012); Krishnamurthy and Vissing-
+
+Jørgensen (2011); and Hancock and Passmore (2012). 
+11
+
+ Term premiums, calculated using similar methods, have also declined fairly sharply recently in Canada, 
+
+Germany, and the United Kingdom; somewhat less so in Japan.  This result is notable in that the central 
+
+banks of these economies, with the exception of the Bank of England, have not pursued large-scale 
+
+purchases of longer-term securities. 
+
+
+ - 8 - 
+
+decline in the term premium might ultimately be attributed to the sluggish economic 
+
+recovery, which prompted additional policy action from the Federal Reserve. 
+
+Let’s recap.  Long-term interest rates are the sum of expected inflation, expected 
+
+real short-term interest rates, and a term premium.  Expected inflation has been low and 
+
+stable, reflecting central bank mandates and credibility as well as considerable resource 
+
+slack in the major industrial economies.  Real interest rates are expected to remain low, 
+
+reflecting the weakness of the recovery in advanced economies (and possibly some 
+
+downgrading of longer-term growth prospects as well).  This weakness, all else being 
+
+equal, dictates that monetary policy must remain accommodative if it is to support the 
+
+recovery and reduce disinflationary risks.  Put another way, at the present time the major 
+
+industrial economies apparently cannot sustain significantly higher real rates of return; in 
+
+that respect, central banks--so long as they are meeting their price stability mandates--
+
+have little choice but to take actions that keep nominal long-term rates relatively low, as 
+
+suggested by the similarity in the levels of the rates shown in chart 1.  Finally, term 
+
+premiums are low or negative, reflecting a host of factors, including central bank actions 
+
+in support of economic recovery.  Thus, while the current constellation of long-term rates 
+
+across many advanced countries has few precedents, it is not puzzling:  It follows 
+
+naturally from the economic circumstances of these countries and the implications of 
+
+these circumstances for the policies of their central banks. 
+
+How Are Long-Term Rates Likely to Evolve? 
+
+So, how are long-term rates likely to evolve over coming years?  It is worth 
+
+pausing to note that, not that long ago, central bankers would have carefully avoided this 
+
+topic.  However, it is now a bedrock principle of central banking that transparency about 
+
+
+ - 9 - 
+
+the likely path of policy, in general, and interest rates, in particular, can increase the 
+
+effectiveness of policy.  In the present context, I would add that transparency may 
+
+mitigate risks emanating from unexpected rate movements.  Thus, let me turn to 
+
+prospects for long-term rates, starting with the expected path of rates and then turning to 
+
+deviations from the expected path that may arise. 
+
+If, as the FOMC anticipates, the economic recovery continues at a moderate pace, 
+
+with unemployment slowly declining and inflation expectations remaining near 2 percent, 
+
+then long-term interest rates would be expected to rise gradually toward more normal 
+
+levels over the next several years.  This rise would occur as the market’s view of the 
+
+expected date at which the Federal Reserve will begin the removal of policy 
+
+accommodation draws nearer and then as accommodation is removed.  Some 
+
+normalization of the term premium might also contribute to a rise in long-term rates.  
+
+To illustrate possible paths, chart 4 displays four different forecasts of the 
+
+evolution of the 10-year Treasury yield over coming years.  The black line is the forecast 
+
+reported in the December 2012 Blue Chip Financial Forecasts survey.  The green line 
+
+gives the Congressional Budget Office forecast published in February, and the blue line 
+
+presents the median from the Survey of Professional Forecasters, as reported in the first 
+
+quarter of this year.  Finally, the purple line shows a forecast based on the term structure 
+
+model used for the decomposition of the 10-year yield in chart 2.
+12
+
+  While these forecasts 
+
+embody a wide range of underlying models and assumptions, the basic message is clear--
+
+long-term interest rates are expected to rise gradually over the next few years, rising (at 
+
+                                                 
+12
+
+ This projection assumes that two key components of the 10-year Treasury yield shown in chart 2--the 
+
+expected average real short-rate and the term premium--revert to their respective mean levels over the 
+
+period 2000 to 2006 during the next 5 years; the expected average inflation component is assumed to 
+
+remain constant near the 2 percent level prevailing at the end of 2012.  
+
+
+ - 10 - 
+
+least according to these forecasts) to around 3 percent at the end of 2014.  The forecasts 
+
+in chart 4 imply a total increase of between 200 and 300 basis points in long-term yields 
+
+between now and 2017.  
+
+Of course, the forecasts in chart 4 are just forecasts, and reality might well turn 
+
+out to be different.  Chart 5 provides three complementary approaches to summarizing 
+
+the uncertainty surrounding forecasts of long-term rates.  The dark gray bars in the chart 
+
+are based on the range of forecasts reported in the Blue Chip Financial Forecasts, the blue 
+
+bars are based on the historical uncertainty regarding long-term interest rates as reflected 
+
+in the Board staff’s FRB/US model of the U.S. economy, and the orange bars give a 
+
+market-based measure of uncertainty derived from swaptions.  These three different 
+
+measures give a broadly similar picture about the upside and downside risks to the 
+
+forecasts of long-term rates.  Rates 100 basis points higher than the expected paths in 
+
+chart 4 by 2014 are certainly plausible outcomes as judged by each of the three measures, 
+
+and this uncertainty grows to as much as 175 basis points by 2017.  Note, though, that 
+
+while the risk of an unexpected rise in interest rates has drawn much attention, the level 
+
+of long-term interest rates also could prove to be lower than forecast.  Indeed, by the 
+
+measures shown in chart 5, the upside and downside risks to the level of rates are roughly 
+
+symmetric as of 2017.  
+
+We also have some historical experience with increases in rates during tightening 
+
+cycles to consider.  For example, in 1994, 10-year Treasury yields rose about 220 basis 
+
+points over the course of a year, reflecting an unexpected quickening in the pace of 
+
+economic growth and signs of building inflation pressures.  This increase in long-term 
+
+rates appears to have reflected a mix of a pronounced rise in the expected path of the 
+
+
+ - 11 - 
+
+policy interest rate and some increase in the term premium.
+13
+
+  A rise of more than 200 
+
+basis points in a year is at the upper end of what is implied by the mean paths and 
+
+uncertainty measures shown in charts 4 and 5, but these measures still admit a substantial 
+
+probability of higher--and lower--paths. 
+
+Overall, then, we anticipate that long-term rates will rise as the recovery 
+
+progresses and expected short-term real rates and term premiums return to more normal 
+
+levels.  The precise timing and pace of the increase will depend importantly on how 
+
+economic conditions develop, however, and is subject to considerable two-sided 
+
+uncertainty.  
+
+Managing Risks Associated with the Future Course of Long-Term Interest Rates 
+
+As I noted when I began my remarks, one reason to focus on the timing and pace 
+
+of a possible increase in long-term rates is that these outcomes may have implications for 
+
+financial stability.  Commentators have raised two broad concerns surrounding the 
+
+outlook for long-term rates.  To oversimplify, the first risk is that rates will remain low, 
+
+and the second is that they will not.  In particular, in an environment of persistently low 
+
+returns, incentives may grow for some investors to engage in an unsafe “reach for yield” 
+
+either through excessive use of leverage or through other forms of risk-taking.  My Board 
+
+colleague Jeremy Stein recently discussed how this behavior may arise in some financial 
+
+markets, including credit markets.
+14
+
+  Alternatively, we face a risk that longer-term rates 
+
+will rise sharply at some point, imposing capital losses on holders of fixed-income 
+
+                                                 
+13
+
+ The two components were intertwined, as measures of uncertainty about the path of policy moved up 
+
+sharply, likely contributing to a rise in term premiums.  Notably, in this episode, the rise in rates created 
+
+some stress in financial markets but did not lead to serious financial instability, nor did it significantly 
+
+impair economic activity.  However, one would not want to conclude from that one case that sharp rises in 
+
+rates do not pose risks. 
+14
+
+ See Stein (2013). 
+
+
+ - 12 - 
+
+instruments, including financial institutions.  Of course, the two risks may very well be 
+
+mutually reinforcing:  Taking on duration risk is one way investors may reach for yield, 
+
+and the losses resulting from a sharp rise in longer-term rates will be greater if investors 
+
+have done so.
+15
+
+
+One might argue that the right response to these risks is to tighten monetary 
+
+policy, raising long-term interest rates with the aim of forestalling any undesirable 
+
+buildup of risk.  I hope my discussion this evening has convinced you that, at least in 
+
+economic circumstances of the sort that prevail today, such an approach could be quite 
+
+costly and might well be counterproductive from the standpoint of promoting financial 
+
+stability.  Long-term interest rates in the major industrial countries are low for good 
+
+reason:  Inflation is low and stable and, given expectations of weak growth, expected real 
+
+short rates are low.  Premature rate increases would carry a high risk of short-circuiting 
+
+the recovery, possibly leading--ironically enough--to an even longer period of low long-
+
+term rates.  Only a strong economy can deliver persistently high real returns to savers and 
+
+investors, and the economies of the major industrial countries are still in the recovery 
+
+phase. 
+
+So how can financial stability concerns--which the Federal Reserve takes very 
+
+seriously--be addressed?  Our strategy, undertaken in cooperation with other regulators 
+
+and central banks, has a number of elements.  
+
+                                                 
+15
+
+ On the other hand, some risk-taking--such as when an entrepreneur takes out a loan to start a new 
+
+business or an existing firm expands capacity--is a necessary element of a healthy economic recovery.  
+
+Moreover, although accommodative monetary policies may increase certain types of risk-taking, in the 
+
+present circumstances they also serve in some ways to reduce risk in the system, most importantly by 
+
+strengthening the overall economy, but also by encouraging firms to rely more on longer-term funding, and 
+
+by reducing debt service costs for households and businesses. 
+
+
+ - 13 - 
+
+First, we have greatly increased our macroprudential oversight, with a particular 
+
+focus on potential systemic vulnerabilities, including buildups of leverage and unstable 
+
+funding patterns as well as interest rate risk.
+16
+
+  Under the umbrella of our 
+
+interdisciplinary Large Institutions Supervision Coordinating Committee, we pay special 
+
+attention to developments at the largest, most complex financial firms, making use of 
+
+information gathered in our supervision of the institutions and drawn from financial 
+
+market indicators of their health and systemic vulnerability.  We also monitor the shadow 
+
+banking sector, especially its interaction with regulated institutions; in this work, we look 
+
+for factors that may leave the system vulnerable to an adverse “fire sale” dynamic, in 
+
+which declining asset values could force leveraged investors to sell assets, depressing 
+
+prices further.  We exchange information regularly with other regulatory agencies, both 
+
+directly and under the auspices of the Financial Stability Oversight Council.  Throughout 
+
+the Federal Reserve System, work in these areas is conducted by experts in banking, 
+
+financial markets, monetary policy, and other disciplines, and at the Federal Reserve 
+
+Board we have established our Office for Financial Stability Policy and Research to help 
+
+coordinate this work.  Findings are presented regularly to the Board and to the FOMC for 
+
+use in its monetary policy deliberations. 
+
+Second, recognizing that our monitoring of the financial sector will always be 
+
+imperfect, we are using regulatory and supervisory tools to help ensure that financial 
+
+institutions are sufficiently resilient to weather losses and periods of market turmoil 
+
+arising from any source.  Indeed, reflecting expectations embodied in the new Basel III 
+
+and Dodd-Frank standards, the largest and most complex financial firms have 
+
+substantially increased both their capital and their liquidity in recent years.  Our current 
+
+                                                 
+16
+
+ See Adrian, Covitz, and Liang (forthcoming). 
+
+
+ - 14 - 
+
+round of stress testing of the largest bank holding companies, to be completed early this 
+
+month, examines whether the largest banking firms have sufficient capital to come 
+
+through a seriously adverse economic downturn and still have the capacity to perform 
+
+their roles as providers of credit.  In a related exercise, we are also asking banks to stress-
+
+test the adequacy of their capital in the face of a hypothetical sharp upward shift in the 
+
+term structure of interest rates. 
+
+Third, our approach to communicating and implementing monetary policy 
+
+provides the Federal Reserve with new tools that could potentially be used to mitigate the 
+
+risk of sharp increases in interest rates.  In 1994--the period discussed earlier in which 
+
+sharp increases in interest rates strained financial markets--the FOMC’s communication 
+
+tools were very limited; indeed, it had just begun issuing public statements following 
+
+policy moves.  By contrast, in recent years, the Federal Reserve has provided a great deal 
+
+of additional information about its expectations for the path of the economy and the 
+
+stance of monetary policy.  Most recently, as I mentioned, the FOMC announced 
+
+unemployment and inflation thresholds characterizing conditions that will guide the 
+
+timing of the first increase in the target for the federal funds rate.  Further, the FOMC 
+
+stated that a highly accommodative stance of monetary policy is likely to remain 
+
+appropriate for a considerable time after our current asset purchase program ends.  By 
+
+providing greater clarity concerning the likely course of the federal funds rate, FOMC 
+
+communication should both make policy more effective and reduce the risk that market 
+
+misperceptions of the Committee’s intentions would lead to unnecessary interest rate 
+
+volatility.   
+
+
+ - 15 - 
+
+In addition, the Federal Reserve could, if necessary, use its balance sheet tools to 
+
+mitigate the risk of a sharp rise in rates.  For example, the Committee has indicated its 
+
+intention to sell its agency securities gradually once conditions warrant.  The Committee 
+
+also noted, however, that the pace of sales could be adjusted up or down in response to 
+
+material changes in either the economic outlook or financial conditions.  In particular, 
+
+adjustments to the pace or timing of asset sales could be used, under some circumstances, 
+
+to dampen excessively sharp adjustments in longer-term interest rates. 
+
+Conclusion 
+
+Let me finish with some thoughts on balancing the risks we face in the current 
+
+challenging economic environment, at a time when our main policy tool, the federal 
+
+funds rate, is near its effective lower bound.  On the one hand, the Fed’s dual mandate 
+
+has led us to provide strong support for the recovery, both to promote maximum 
+
+employment and to keep inflation from falling below our price stability objective.  One 
+
+purpose of this support is to prompt a return to the productive risk-taking that is essential 
+
+to robust growth and to getting the unemployed back to work.  On the other hand, we 
+
+must be mindful of the possibility that sustained periods of low interest rates and highly 
+
+accommodative policy could lead to excessive risk-taking in some financial markets.  
+
+The balance here is not an easy one to strike.  While the recent crisis is vivid testament to 
+
+the costs of ill-judged risk-taking, we must also be aware of constraints posed by the 
+
+present state of the economy.  In light of the moderate pace of the recovery and the 
+
+continued high level of economic slack, dialing back accommodation with the goal of 
+
+deterring excessive risk-taking in some areas poses its own risks to growth, price 
+
+stability, and, ultimately, financial stability.  Indeed, as I noted, a premature removal of 
+
+
+ - 16 - 
+
+accommodation could, by slowing the economy, perversely serve to extend the period of 
+
+low long-term rates.  
+
+For these reasons, we are responding to financial stability concerns with the 
+
+multipronged approach I summarized a moment ago, which relies primarily on 
+
+monitoring, supervision and regulation, and communication.  We will, however, be 
+
+evaluating these issues carefully and on an ongoing basis; we will be alert for any 
+
+developments that pose risks to the achievement of the Federal Reserve’s mandated 
+
+objectives of price stability and maximum employment; and we will, of course, remain 
+
+prepared to use all of our tools as needed to address any such developments.  
+
+
+
+
+
+
+
+
+ - 17 - 
+
+ References 
+
+
+Adrian, Tobias, Daniel Covitz, and Nellie Liang (forthcoming).  “Financial Stability 
+
+Monitoring,” Finance and Economics Discussion Series.  Washington:  Board of 
+
+Governors of the Federal Reserve System. 
+
+Board of Governors of the Federal Reserve System (2012), “Federal Reserve Issues 
+
+FOMC Statement,” press release, December 12, 
+
+www.federalreserve.gov/newsevents/press/monetary/20121212a.htm. 
+
+Campbell, John Y., Adi Sunderam, and Luis M. Viceira (2009).  “Inflation Bets or 
+
+Deflation Hedges?  The Changing Risks of Nominal Bonds,” NBER Working 
+
+Paper Series 14701.  Cambridge, Mass.:  National Bureau of Economic Research, 
+
+February. 
+
+D’Amico, Stefania, William English, David López-Salido, and Edward Nelson (2012).  
+
+“The Federal Reserve’s Large-Scale Asset Purchase Programmes:  Rationale and 
+
+Effects,” Economic Journal, vol. 122 (November), pp. F415-F446. 
+
+D’Amico, Stefania, Don H. Kim, and Min Wei (2010).  “Tips from TIPS:  The 
+
+Informational Content of Treasury Inflation Protected Security Prices,” Finance 
+
+and Economics Discussion Series 2010-19.  Washington:  Board of Governors of 
+
+the Federal Reserve System, December 2009, 
+
+www.federalreserve.gov/pubs/feds/2010/201019/201019abs.html. 
+
+Gagnon, Joseph, Matthew Raskin, Julie Remache, and Brian Sack (2011).  “The 
+
+Financial Market Effects of the Federal Reserve’s Large-Scale Asset Purchases,” 
+
+International Journal of Central Banking, vol. 7 (March), pp. 3-43. 
+
+Hamilton, James D., and Jing Cynthia Wu (2012).  “The Effectiveness of Alternative 
+
+Policy Tools in a Zero Lower Bound Environment,” Journal of Money, Credit 
+
+and Banking, vol. 44 (February supplement), pp. 3-46. 
+
+Hancock, Diana, and Wayne Passmore (2012).  “The Federal Reserve’s Portfolio and Its 
+
+Effects on Mortgage Markets,” Finance and Economic Discussion Series 2012-
+
+22.  Washington:  Board of Governors of the Federal Reserve System, 
+
+www.federalreserve.gov/pubs/feds/2012/201222/201222pap.pdf. 
+
+Krishnamurthy, Arvind, and Annette Vissing-Jørgensen (2011).  “The Effects of 
+
+Quantitative Easing on Interest Rates:  Channels and Implications for Policy,” 
+
+Brookings Papers on Economic Activity, Fall, pp. 215-65. 
+
+Li, Canlin, and Min Wei (2012).  “Term Structure Modelling with Supply Factors and the 
+
+Federal Reserve’s Large Scale Asset Purchase Programs,” Finance and 
+
+Economics Discussion Series 2012-37.  Washington:  Board of Governors of the 
+
+Federal Reserve System, May, 
+
+www.federalreserve.gov/pubs/feds/2012/201237/201237abs.html.   
+
+
+ - 18 - 
+
+Rosa, Carlo (2012).  “How ‘Unconventional’ Are Large-Scale Asset Purchases?  The 
+
+Impact of Monetary Policy on Asset Prices,” Federal Reserve Bank of New York 
+
+Staff Reports 560.  New York:  Federal Reserve Bank of New York, May, 
+
+www.newyorkfed.org/research/staff_reports/sr560.pdf. 
+
+Stein, Jeremy C. (2013).  “Overheating in Credit Markets:  Origins, Measurement, and 
+
+Policy Responses,” speech delivered at “Restoring Household Financial Stability 
+
+after the Great Recession:  Why Household Balance Sheets Matter,” a symposium 
+
+sponsored by the Federal Reserve Bank of St. Louis, St. Louis, February 5-7, 
+
+www.federalreserve.gov/newsevents/speech/stein20130207a.htm. 
+
+
+Board of Governors of the Federal Reserve System 
+
+
+Board of Governors of the Federal Reserve System 
+
+
+Board of Governors of the Federal Reserve System 
+
+
+Board of Governors of the Federal Reserve System 
+
+
+Board of Governors of the Federal Reserve System 
+

@@ -1,0 +1,3025 @@
+
+BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM 
+
+Report to the Congress on Further Restrictions
+
+on Unsolicited Written Offers
+
+of Credit and Insurance
+
+
+December 2004 
+
+
+BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM 
+
+Report to the Congress on Further Restrictions
+
+on Unsolicited Written Offers
+
+of Credit and Insurance
+
+
+Submitted to the Congress pursuant to section 213(e) of 
+the Fair and Accurate Credit Transactions Act of 2003 
+
+December 2004 
+
+
+Contents 
+
+Executive Summary and Overview ................................................................................. 1
+
+Requirements of the Study and Report ........................................................................... 1
+
+Study Approach .............................................................................................................. 2
+
+Findings and Conclusions ............................................................................................... 3
+
+
+Availability and Use of Opt-Out Provisions............................................................... 4
+
+The Benefits and Costs of Receiving Written Offers ................................................. 5
+
+Potential Effects of Further Restrictions on Prescreened Solicitations ...................... 6
+
+
+Background ....................................................................................................................... 7
+
+How Prescreening Works ............................................................................................... 7
+
+Types of Creditors and Insurers That Use Prescreening................................................. 8
+
+Why Many Creditors and Insurers Use Prescreening ................................................... 10
+
+
+Opting Out: Mechanisms to Avoid Receiving Unsolicited
+
+Written Offers of Credit or Insurance.............................................................. 11
+
+
+The FCRA Statutory Mechanism.................................................................................. 11
+
+Voluntary Mechanisms ................................................................................................. 13
+
+
+Extent to Which Consumers Use the Available Mechanisms
+
+to Avoid Receiving Written Offers.................................................................... 15
+
+
+Opting Out .................................................................................................................... 17
+
+Who Chooses to Opt Out, and Why.............................................................................. 17
+
+Credit Characteristics of Those Who Opt Out.............................................................. 23
+
+
+Number of Credit Accounts ...................................................................................... 23
+
+Credit Limits on Revolving Accounts ...................................................................... 23
+
+Total Balances and Utilization Rate on Revolving Accounts................................... 24
+
+Number of Mortgage Accounts ................................................................................ 24
+
+Credit Score .............................................................................................................. 24
+
+Number of Collection Items and Public Records ..................................................... 26
+
+Number of Recent Inquiries about Credit or Insurance ............................................ 26
+
+
+Locational Characteristics of Those Who Opt Out....................................................... 27
+
+
+Benefits of Receiving Written Offers of Credit or Insurance ..................................... 28
+
+Greater Availability of Targeted Pricing and Product Information .............................. 28
+
+Prescreening and Shopping........................................................................................... 29
+
+Consumer Experience with Prescreened Solicitations.................................................. 30
+
+Competition................................................................................................................... 34
+
+Consumers Benefit from Cost Savings of Creditors and Insurers ................................ 36
+
+
+
+Costs of Receiving Written Offers of Credit or Insurance ......................................... 37
+
+Inconvenience ............................................................................................................... 37
+
+The Potential for Identity Theft .................................................................................... 39
+
+
+Definition of Identity Theft....................................................................................... 39
+
+Prescreening and Identity Theft ................................................................................ 41
+
+
+Privacy Implications ..................................................................................................... 43
+
+Debt Burden .................................................................................................................. 44
+
+
+Potential Effects of Further Restrictions on Written Offers
+
+of Credit or Insurance ........................................................................................ 47
+
+
+Appendix A: Section 213(e) of the Fair and Accurate
+
+Credit Transactions Act of 2003........................................................................ 49
+
+
+Appendix B: Age and Census Tract Characteristics of Individuals
+
+in the Credit Record Sample.............................................................................. 50
+
+
+Age................................................................................................................................ 50
+
+Urban, Suburban, or Rural Residence........................................................................... 50
+
+Relative Income of Census Tract .................................................................................. 50
+
+Racial or Ethnic Composition of Census Tract............................................................. 52
+
+
+
+1
+
+
+Executive Summary and Overview 
+
+Each year American consumers receive several billion written offers of credit or 
+insurance they did not request. In many cases, the senders have prescreened the 
+recipients for creditworthiness and suitability using consumer credit records in the files of 
+consumer reporting agencies (CRAs).1 Such prescreened solicitations are now among the 
+principal techniques creditors and insurers use to inform prospective customers of the 
+availability of their products and to establish new or additional business relationships 
+with them. 
+
+The Fair Credit Reporting Act (FCRA) permits creditors and insurers to use CRA 
+information as a basis for sending unsolicited firm offers of credit or insurance, also 
+known as prescreened solicitations, to consumers who meet certain criteria, but only 
+within limits specified in the act. The FCRA also provides a mechanism by which 
+consumers can elect not to receive such solicitations by directing CRAs to exclude their 
+names and addresses from lists provided by these agencies for sending prescreened 
+solicitations. Consumers who choose to have their names removed from lists used for 
+prescreened solicitations may well still receive offers of credit or insurance by mail or 
+telephone, but such offers will not be based on the credit records maintained by the 
+CRAs. 
+
+REQUIREMENTS OF THE STUDY AND REPORT 
+
+To learn more about unsolicited written offers of credit and insurance, the Congress 
+directed the Board of Governors of the Federal Reserve System, in section 213(e) of the 
+Fair and Accurate Credit Transactions Act of 2003 (Fact Act), to conduct a study of 
+prescreened solicitations and to summarize the results of the study in a report to the 
+Congress. The Fact Act specifically requires the Board to study the ability of consumers 
+to avoid (or “opt out” of) receiving written offers of credit or insurance in connection 
+with transactions not initiated by the consumer and the potential effect on consumers of 
+any further restrictions on providing them with such written offers of credit or insurance. 
+In particular, the Congress directed the Board to address the following five issues in the 
+study and report: 
+
+1. the availability to consumers of opt-out mechanisms 
+2. the extent to which consumers use existing opt-out mechanisms 
+3. the benefits to consumers of receiving written offers 
+4. the costs to or adverse affects on consumers of receiving written offers 
+
+1 The three national consumer reporting agencies are Equifax (http://www.equifax.com), Experian 
+(http://www.experian.com), and TransUnion Corporation (http://www.transunion.com).
+
+
+2 Board of Governors of the Federal Reserve System 
+
+5.	 the potential effect on the following factors if further restrictions are imposed 
+on the ability of creditors and insurers to make written offers: 
+o the cost consumers pay to obtain credit or insurance 
+o the availability of credit or insurance 
+o consumers’ knowledge about new or alternative products and services 
+o the ability of lenders or insurers to compete with one another 
+o the ability to offer credit or insurance products to consumers who have 
+
+been traditionally underserved 
+(See appendix A of this report for the text of section 213(e)). This report responds to the 
+congressional request. 
+
+STUDY APPROACH 
+
+In conducting the required study, the Board undertook three tasks, the results of which 
+are summarized in this report. First, to examine the ability of consumers to avoid (or “opt 
+out” of) receiving unsolicited offers of credit or insurance, the Board obtained from one 
+of the three national CRAs the credit records of a large, nationally representative random 
+sample of individuals (excluding identifying personal or creditor information). The 
+sample was obtained for two reasons: (1) to examine what it revealed about the extent to 
+which consumers have exercised their statutory rights to opt out, that is, decline to 
+receive prescreened solicitations and (2) to determine the credit use and other 
+characteristics of consumers who had or had not opted out. 
+
+Second, to learn about the views of consumers concerning their experiences with mailed 
+prescreened solicitations, the Board sponsored a May 2004 nationwide survey of 
+consumers on this issue through the University of Michigan’s Surveys of Consumers 
+program. This survey covered consumers’ behavior with respect to such solicitations 
+when received, their attitudes toward such offers, their knowledge about the contents of 
+such solicitations, and their knowledge about their right not to receive such solicitations. 
+
+Third, to obtain the views of creditors, insurers, and other interested or concerned parties, 
+the Board requested public comments on these issues through a notice in the Federal 
+Register that creditors, insurers, and others could further publicize through the trade 
+press, consumer newsletters, and other sources.2 This request specifically asked for 
+comments on the following topics: 
+
+•	 the extent to which insurance providers send prescreened solicitations to 
+consumers 
+
+2 Board of Governors of the Federal Reserve System (2004), “Request for Information for Study on 
+Prescreened Solicitations or Firm Offers of Credit or Insurance” (Docket No. OP-1195), Federal Register, 
+vol. 69 (May 24), pp. 29539-40. 
+
+
+Unsolicited Written Offers of Credit and Insurance 3 
+
+•	 the availability of statutory or voluntary mechanisms available to consumers to 
+notify creditors and insurance providers that a consumer does not wish to receive 
+prescreened solicitations 
+
+•	 the extent to which consumers are currently using existing statutory and voluntary 
+mechanisms to avoid receiving prescreened solicitations 
+
+• the benefits of receiving prescreened solicitations 
+•	 significant costs or adverse effects, if any, that consumers incur as a result of 
+
+receiving prescreened solicitations (especially specific comments on fraud-related 
+losses due to identity theft) 
+
+•	 additional restrictions, if any, that should be imposed on consumer reporting 
+agencies, lenders, or insurers to restrict the ability of lenders and insurers to 
+provide prescreened solicitations to consumers. More specifically, 
+o how the additional restrictions would benefit consumers 
+o	 how the additional restrictions would affect the cost consumers pay to obtain 
+
+credit or insurance, the availability of credit or insurance, knowledge about 
+new or alternative products and services, the ability of creditors or insurers to 
+compete with one another, and the ability of creditors or insurers to offer 
+credit or insurance to consumers who have been traditionally underserved 
+
+FINDINGS AND CONCLUSIONS 
+
+Prescreened offers can be useful to both their senders and recipients. Many companies 
+that solicit new credit accounts and insurance policies have found prescreening to be a 
+cost-effective way to identify individuals who are likely prospects for the products they 
+offer and to control certain risks related to offering these products. Because it can be 
+expensive to solicit and establish new business relationships with consumers, firms that 
+solicit new credit accounts and insurance policies are interested in identifying likely 
+prospects for the services they offer; hence, the interest in prescreening. Firms weigh the 
+costs of prescreening against the expected profitability of additional business developed 
+through this marketing channel. If they find that the net benefits are likely to be positive, 
+they may engage in prescreened marketing as one way to generate new business. 
+
+For consumers, prescreened solicitations reduce search costs by providing them with 
+ready information about product availability and pricing tailored more closely to their 
+financial experiences and needs. Such screening also increases the likelihood that 
+consumers responding to such solicitations qualify for the product or service being 
+offered and thereby reduces the possibility that the consumer will be wasting his or her 
+time and effort when responding to a mailing. Because of their advantages to senders and 
+consumers, prescreened solicitations are important in promoting competition and 
+enhancing consumer welfare in the markets for credit and insurance. 
+
+Nonetheless, some observers have raised concerns that sometimes such solicitations 
+might lead to difficulties for some consumers. In addition to the simple inconvenience of 
+
+
+4 Board of Governors of the Federal Reserve System 
+
+receiving unwanted “junk mail,” these observers note that prescreened solicitations can 
+become lost or stolen and potentially lead to fraudulent activity that may impair a 
+consumer’s credit rating or result in out-of-pocket losses. Some also believe that 
+individuals’ rights to privacy are compromised when creditors or insurers use CRA 
+records to contact them through prescreened solicitations. Finally, some observers are 
+concerned that the large volume of credit offers made through prescreened solicitations 
+might encourage some consumers to take on more debt than they can reasonably handle. 
+
+This report has not found that prescreened solicitations have a significant bearing on the 
+extent of these problems, and, therefore, finds that further restrictions on prescreened 
+solicitations are not likely to alleviate such problems. Moreover, any substantive 
+restrictions would be likely to significantly reduce the beneficial effects of prescreened 
+solicitations on competition and consumer access to credit and insurance. These findings 
+and conclusions are covered in more detail below. 
+
+Availability and Use of Opt-Out Provisions 
+
+Consumers who prefer not to receive prescreened written offers of credit or insurance are 
+able to act on this preference through a process of “opting out.” The most important 
+means of opting out is by using the statutory mechanism contained in section 604 of the 
+Fair Credit Reporting Act (FCRA), which governs the use of prescreening techniques. 
+Section 604 specifically establishes a set of rules that regulate how creditors and insurers 
+may use CRA records as the basis for sending unsolicited firm offers of credit or 
+insurance to consumers. It also prescribes a mechanism by which consumers can elect 
+not to receive these prescreened solicitations by opting out. Section 604 further requires 
+creditors and insurers using prescreening to notify consumers of this opt-out right in each 
+prescreened solicitation they send. 
+
+Beyond the statutory provision for opting out, voluntary mechanisms established by 
+industry groups and individual companies permit consumers to eliminate their names 
+from listings used for prescreened written offers of credit or insurance. These voluntary 
+mechanisms are important in the marketplace, accounting for an estimated one-third of 
+the individuals on the opt-out lists maintained by the national CRAs. 
+
+Currently, about 6 percent of consumers with credit records have opted out of receiving 
+prescreened written offers of credit or insurance. The large number of individuals who 
+have opted out suggests that it is not especially difficult to do so if individuals are aware 
+of this option. A consumer survey indicates that about one-fifth of consumers are aware 
+of their right under federal law not to receive prescreened solicitations. If awareness of 
+this right was more widespread, it is likely that more consumers would opt out. 
+
+Analysis of CRA records indicates that consumers with more credit accounts are more 
+likely to opt out than those with fewer accounts. The higher opt-out rate for those with a 
+relatively large number of credit relationships may indicate that such individuals (1) are 
+
+
+Unsolicited Written Offers of Credit and Insurance 5 
+
+not looking for further credit or (2) are more familiar with the opt-out process or both. 
+Such individuals may be more familiar with the opt-out process because they have 
+received more prescreened solicitations and, therefore, have had more opportunities to 
+read the opt-out notice included in such solicitations. 
+
+The Benefits and Costs of Receiving Written Offers 
+
+The benefits to consumers of receiving prescreened written offers of credit or insurance 
+are significant. Prescreened offers help consumers more quickly identify those credit and 
+insurance products for which they likely qualify. (Because prescreened offers must be 
+“firm offers” of credit or insurance, a consumer generally will receive prescreened 
+solicitations for only those products for which he or she likely qualifies.) These 
+prescreened offers also contain pricing and product information, often in a form easily 
+comparable to accounts currently held. 
+
+Consumer survey data analyzed by the Board indicate that consumers seem generally 
+familiar with the type of content in written prescreened solicitations, even if they do not 
+always open, read, or study each offer. When consumers do review the prescreened 
+solicitations, they are most interested in the pricing information. The widespread 
+availability of such pricing and product information contained in prescreened offers helps 
+to make markets for these products more competitive, an advantage that benefits all 
+consumers. 
+
+The ability of creditors and insurers to tailor offers of credit or insurance to consumers’ 
+pricing and product preferences at relatively low cost enhances competition and 
+marketing efficiency. Also, by having access to credit record information for the 
+purposes of prescreening, creditors and insurers are better able to control certain risks 
+related to offering these products. 
+
+In a competitive market, cost savings for creditors and insurers translate into lower prices 
+and wider credit and insurance availability for consumers, possibly benefiting those 
+consumers who have traditionally been underserved. Additionally, because prescreened 
+solicitations are widely used and must be “firm” offers of credit, consumers gain better 
+awareness of available credit products and rates. 
+
+Written prescreened solicitations for credit and insurance carry some potential costs, 
+including the inconvenience of receiving unwanted mail, the possibility of identity theft, 
+the possible loss of privacy, and the potential for additional debt burden. Although these 
+issues are important considerations, it does not appear that restricting written offers of 
+credit or insurance would mitigate these problems, and the alternatives to prescreening 
+may even exacerbate some of them. For example, restricting the ability of creditors and 
+insurers to send prescreened solicitations to qualified applicants could result in the receipt 
+of more unsolicited and unwanted mail by consumers as companies are forced to use less-
+efficient mechanisms to acquire customers. 
+
+
+6 Board of Governors of the Federal Reserve System 
+
+Potential Effects of Further Restrictions on Prescreened Solicitations 
+
+Written offers of credit and insurance sent directly to consumers, often resulting from 
+prescreened solicitation lists using credit records in the files of CRAs, have the potential 
+to increase competition in the market for the relevant consumer financial services. The 
+primary benefits of competition consist of lower prices and an increased availability of 
+the product or service in question. As a result, it is reasonable to conclude that actions 
+undertaken to restrict the ability of lenders and insurers to provide written offers of credit 
+or insurance to consumers would on balance result in a less competitive marketplace and 
+thus relatively higher prices and reduced availability. 
+
+Also, it is difficult to see how further restrictions on the ability of lenders and insurers to 
+provide written offers of credit or insurance to consumers would improve the condition of 
+those individuals or groups of individuals who might have been underserved in the past. 
+It also is difficult to see how reducing the amounts of direct, tailored information sent to 
+consumers on the availability and pricing of financial services would improve their 
+“knowledge about new or alternative products and services.” 
+
+The Fact Act includes enhancements to the opt-out-notice provisions of the FCRA; these 
+include a review of the presentation and placement of the notice in prescreened 
+solicitations and an extension of the opt-out period from two years to five years. The 
+Congress also directed the Federal Trade Commission (FTC) to conduct a campaign to 
+raise public awareness of opt-out rights, which may have the effect of increasing the 
+frequency of opting out. These developments suggest that further legislative or 
+regulatory changes to the opt-out system should await evaluation of the effects of these 
+new provisions. 
+
+
+7
+
+
+Background 
+
+Creditors and insurers use a variety of methods to establish account relationships with 
+consumers. The most common methods used by creditors offering general-purpose credit 
+cards (such as Discover, MasterCard, Optima, or Visa), for example, are direct mail 
+(prescreened or not); outbound telephone calls (prescreened or not); television, print, and 
+Internet advertisements; electronic mail; promotional events; and “take one” brochures. 
+Creditors also use direct mail and a variety of other print and electronic media to solicit 
+customers for other credit products.3 
+
+Insurance companies market their products and services in different ways depending on 
+their business model. Some rely on a network of independent insurance agents or their 
+own agents to identify and acquire customers. Some also use direct marketing 
+approaches, including prescreened solicitations. 
+
+HOW PRESCREENING WORKS 
+
+In prescreening, a creditor or insurer establishes a set of specific credit criteria (such as a 
+minimum credit score) and requests from a CRA the names, addresses, and certain other 
+information on consumers in the CRA’s database who meet the specified criteria.4 
+
+Alternatively, the creditor or insurer may provide a list of potential customers to the CRA 
+and request that the CRA identify which consumers on that list meet the established 
+credit criteria. Prescreening requests to CRAs may be made either directly by the 
+creditors and insurers or indirectly through a third-party vendor. Prescreened 
+solicitations may be conducted by mail, telephone, or electronically through the Internet, 
+with use of the U.S. mail being the most common approach.5 
+
+3 Although creditors use credit files at CRAs to prescreen solicitations for a variety of credit products, 
+prescreening is most common in soliciting credit card accounts. For this reason, most available information 
+about prescreening, and much of the discussion in this report, pertains to credit card accounts. 
+
+4 Generically, a “credit score” is a statistically derived measure of creditworthiness that ranks 
+individuals according to their default or credit risk, typically on the basis of information in their credit 
+reports. As such, a credit score measures the relative degree of credit risk a borrower represents to a 
+creditor. Credit scores are typically associated with an odds ratio that represents the proportion of 
+individuals at that credit-score level who are likely to become delinquent on their credit obligation. 
+“Insurance scores” also are derived from information in consumer reports, but such scores use insurance 
+claims experience. In this report, the term “credit score” refers to both kinds of scores. 
+
+5 As required, this report addresses only written prescreened solicitations. For purposes of 
+completeness, however, the report contains some data on prescreened solicitations made by telephone. 
+
+
+8 Board of Governors of the Federal Reserve System 
+
+TYPES OF CREDITORS AND INSURERS THAT USE PRESCREENING 
+
+Prescreened solicitations are used to establish credit relationships for a wide variety of 
+products including credit cards, home equity lines of credit, “live check” loans, student 
+loans, and automobile credit.6 Perhaps the most frequent use of prescreening is in the 
+area of credit cards. 
+
+Industry sources indicate that nearly 70 percent of general-purpose credit card accounts 
+established in 2002 resulted from direct mail contact, prescreened or not (table 1). Such 
+mailings have grown substantially over the past decade, to about 5 billion in 2001 and 
+2002, a level nearly five times that of a decade earlier (figure 1). About 75 percent of the 
+credit card accounts established through direct mailing (53 percent of all new accounts) 
+
+Table 1.	 Distribution of new 
+credit card accounts, by 
+method of acquisition, 
+2002 
+
+Method Percent 
+
+Direct mail 
+Prescreened 53 
+Not prescreened 17 
+
+Phone call by creditor 
+(prescreened) 8 
+
+Phone call by customer 7 
+Internet banner 3 
+E-mail 2 
+Event 1 
+“Take-one” brochure 1 
+Other 8 
+
+Total 100 
+
+Note. Here and in the following tables, 
+components may not sum to totals because 
+of rounding. 
+
+Source. Information Policy Institute 
+(2003), The Fair Credit Reporting Act: 
+Access, Efficiency & Opportunity: The 
+Economic Importance of Fair Credit 
+Reauthorization (Washington: National 
+Chamber Foundation for the IPI, June), 
+p. 57, table 13, 
+www.infopolicy.org/pdf/fcra_report.pdf. 
+
+6 A prescreened mail solicitation for a live-check loan is sent in the form of a check made out to the 
+consumer for an exact amount. The terms of the offer specify that by endorsing and depositing the check, 
+the consumer has agreed to a loan from the company for the amount of the check. 
+
+
+Unsolicited Written Offers of Credit and Insurance 9 
+
+were the consequence of a prescreened solicitation (table 1). Prescreened telephone 
+contacts accounted for about 15 percent of the new accounts. Prescreened solicitations, 
+both through the mail and by telephone, accounted for more than two-thirds of all new 
+credit card accounts established in 2002.
+
+Use of prescreening by insurance companies is more limited, in large part because so 
+much of their acquisition of new accounts is through independent agents who are 
+responsible for marketing. A public comment by one national CRA indicated that it had 
+used its files for prescreening on behalf of forty-two insurance companies in 2003. This 
+is a much smaller number than the number of creditors employing prescreening using 
+CRA files. The number of companies in the latter group is not known precisely, but it is 
+at least in the hundreds. 
+
+Information Policy Institute (2003), The Fair Credit Reporting Act: Access, Efficiency & 
+Opportunity: The Economic Importance of Fair Credit Reauthorization (Washington: National Chamber 
+Foundation for the IPI), June, p. 57, table 13, www.infopolicy.org/pdf/fcra_report.pdf. 
+
+Information Policy Institute, The Fair Credit Reporting Act. 
+
+Figure 1.	 Mail volume and response rate for U.S. credit card solicitations, 
+1990-2003 
+
+Billions of pieces Percent 
+
+6.0 
+
+5.0 
+
+4.0 
+
+3.0 
+
+2.0 
+
+1.0 
+
+M ail vo lu me 
+(left s cale) 
+
+Res p on s e rate 
+(right s cale) 2
+
+2
+
+1
+
+1
+
+0
+
+3.0 
+
+.5 
+
+.0 
+
+.5 
+
+.0 
+
+.5 
+
+1990 1992 1994 1996 1998 2000 2002 
+
+Source. "Mail Monitor," Synovate, Inc., at http://core.synovate.com/MAILVOL.asp, accessed 
+September 9, 2004. 
+
+7 
+
+8 
+
+7 
+
+8 
+
+
+10 Board of Governors of the Federal Reserve System 
+
+WHY MANY CREDITORS AND INSURERS USE PRESCREENING 
+
+Many companies have found that prescreening improves marketing efficiency. 
+Companies using prescreening have found that it facilitates the solicitation process by 
+limiting solicitations to those consumers who satisfy the established credit criteria, 
+reducing account acquisition costs for creditors and insurers. For example, prescreening 
+allows many creditors and insurers to avoid the cost of sending solicitations to large 
+numbers of consumers who ultimately would not qualify for the credit or insurance 
+products being offered. Likewise, prescreening allows many creditors and insurers to 
+reduce the number of responses that they must reject and the related costs of providing 
+required rejection letters and dealing with those who may be dissatisfied. 
+
+Also, creditors and insurers have found that by having access to credit record information 
+at the prescreening phase, they are better able to control certain risks relating to the 
+offering of their products. For example, by prescreening, a creditor or insurer can use the 
+information in a credit file twice, once to select prospective customers, and a second 
+time, if the prospect replies, to verify that no substantive change has occurred in the 
+individual’s credit status. Having information about the consumer at two points in time 
+increases the predictability of risk involving that consumer. 
+
+As discussed below, in a competitive market, these market efficiencies and better control 
+of risks result in lower prices, more product choices, and wider credit and insurance 
+availability to consumers, including those traditionally underserved. Consumers further 
+benefit by the receipt of fewer solicitations that do not match their credit or insurance 
+circumstances. 
+
+
+11 
+
+Opting Out: Mechanisms to Avoid Receiving 
+Unsolicited Written Offers of Credit or Insurance 
+
+The first issue that the present study is to address under section 213(e)(3) of the Fact Act 
+is “the current statutory or voluntary mechanisms that are available to a consumer to 
+notify lenders and insurance providers that the consumer does not wish to receive written 
+offers of credit or insurance.” 
+
+THE FCRA STATUTORY MECHANISM 
+
+Section 604 of the Fair Credit Reporting Act specifically establishes a set of rules that 
+regulate how creditors and insurers may use CRA records as the basis for sending 
+unsolicited firm offers of credit or insurance to consumers. It also prescribes a 
+mechanism by which consumers can elect not to receive these prescreened solicitations. 
+
+Section 604(c) designates the conditions for “furnishing reports in connection with credit 
+or insurance transactions that are not initiated by the consumer,” in other words, for 
+prescreened offers of credit or insurance based on information in the individual’s credit 
+record. Specifically, section 604(c) mandates that a CRA may provide information on a 
+consumer for prescreening only if (1) the consumer authorizes the CRA to provide the 
+information (not usually a component of prescreened offers of credit or insurance) or (2) 
+“the transaction consists of a firm offer of credit or insurance,” the CRA has established 
+the required procedures allowing consumers to exclude themselves from the prescreened 
+lists, and the consumer has not done so. A “firm offer of credit or insurance” is defined 
+as any offer of credit or insurance to a consumer that will be honored if, on the basis of 
+information in the consumer’s credit record, the consumer meets the specific criteria used 
+to select him or her for the offer, except that the offer may be further conditioned in 
+certain circumstances.9 
+
+This provision establishes an important first requirement, namely that prescreening must 
+be employed solely for offering credit or insurance, not merely for advertising. 
+Furthermore, a person receiving a prescreened list from a CRA may receive only limited 
+information about each consumer: (1) the name and address of the consumer, (2) an 
+identifier that is not unique to the consumer and that is used by the person solely for the 
+purpose of verifying the identity of the consumer (such as a partial social security 
+number), and (3) other information about the consumer that does not identify the 
+relationship or experience of the consumer with a particular creditor or other entity. In 
+addition, the law requires that CRAs must comply with the provisions concerning 
+
+9 These circumstances include verification of the specific criteria (for example, verification of income 
+and employment) used to select the consumer for the offer and the consumer’s willingness to supply any 
+needed collateral disclosed in the offer. These circumstances are outlined in section 603(l) of the FCRA. 
+
+
+12 Board of Governors of the Federal Reserve System 
+
+consumers’ options to have their names removed from prescreened lists; this option is 
+called the right to “opt out.” 
+
+The statute also details the required procedures concerning consumers’ opt-out rights. It 
+specifies the ways that consumers may notify CRAs of their intention to opt out, the 
+agencies’ required responses to opt-out notices received from consumers, necessary 
+timing for acting on opt-out notices from consumers, the duration of opt-out notices from 
+consumers, and necessary components of the notification system itself (for example, toll-
+free telephone availability). Equally important are the requirements that the existence of 
+the system be disclosed to consumers, but these mandates are found later, in section 615 
+of the law. 
+
+A consumer may notify the agency through a system maintained by the agency (which, as 
+indicated, must include a toll-free telephone number) or by submitting a signed “notice of 
+election” form issued by the agency. Under provisions of the FCRA that go into effect 
+on December 1, 2004, requests made through the telephone notification system 
+maintained by the agency expire five years after notification unless the consumer revokes 
+the election.10 Requests made through a signed notice-of-election form never expire, 
+although they may be revoked by the consumer. When a consumer contacts an agency 
+through the notification system, the agency must inform the consumer that the election is 
+effective for only five years if the consumer does not submit to the agency a signed 
+notice-of-election form issued by the agency. The agency also must provide to the 
+consumer a notice-of-election form upon request of the consumer.11 
+
+Section 615(d) of the FCRA specifies the details of the required notice to consumers 
+regarding their right to opt out of receiving prescreened solicitations. Conversations with 
+officials of the CRAs indicate that their companies monitor compliance by clients who 
+use their credit files for prescreening activities. 
+
+Under the FCRA, any person who uses a consumer report in connection with a 
+prescreened solicitation must, with each written prescreened solicitation, provide to the 
+consumer, a clear and conspicuous statement that (1) information contained in the 
+consumer report was used in connection with the offer; (2) the consumer received the 
+offer because he or she satisfied the criteria for creditworthiness or insurability used to 
+screen for the offer; (3) if applicable, the credit or insurance may not be extended if, after 
+the consumer responds, it is determined that the consumer does not meet the criteria used 
+
+10 Requests made through the telephone notification system before December 1, 2004, expire two years 
+after notification unless the consumer revokes the election. 
+
+11 Although opting out eliminates future solicitations based on credit-record information, consumers 
+may still receive other types of mail solicitations (not prescreened) from creditors and insurers. In addition, 
+consumers may receive advertisements and solicitations (not prescreened) from, for example, local and 
+national merchants, religious and charitable organizations, professional and alumni associations, and 
+political candidates and parties. To avoid mail from these sources, the consumer would need to contact 
+them directly or rely on voluntary, private-sector “do not mail” lists, such as the one maintained by the 
+Direct Marketing Association (discussed in more detail below). 
+
+
+Unsolicited Written Offers of Credit and Insurance 13 
+
+for screening or any applicable criteria bearing on creditworthiness or insurability, or the 
+consumer does not furnish required collateral; and (4) the consumer has the right to 
+prohibit use of information in the consumer’s file in connection with future prescreened 
+offers of credit or insurance by contacting the notification system established by the CRA 
+that provided the report. The address and toll-free telephone number of the appropriate 
+notification system also must be provided. 
+
+In 2003, section 213 of the Fact Act amended the FCRA concerning disclosures about 
+prescreened solicitations. Section 213(a)(2)(B) amends the FCRA to require that the 
+notice provided by creditors or insurers with each written unsolicited prescreened offer 
+“be presented in such format and in such type size and manner as to be simple and easy to 
+understand, as established by the [FTC], by rule, in consultation with the federal banking 
+agencies and the National Credit Union Administration.” These rules are to be in place 
+by December 4, 2004. Beginning December 1, 2004, section 213(c) of the Fact Act 
+extends from two years to five years the effective period of a consumer’s election not to 
+receive prescreened solicitations through a telephone notification system described 
+above. 
+
+VOLUNTARY MECHANISMS 
+
+The private sector has created voluntary mechanisms for consumers to avoid receiving 
+prescreened solicitations in the mail with the goal of satisfying the needs both of 
+consumers and of participating companies. Most notably, the Direct Marketing 
+Association (DMA) maintains an opt-out list of consumers who have indicated they do 
+not wish to receive advertising mail at home.12 The DMA’s Mail Preference Service 
+(MPS) allows individuals to opt out of national mailing lists used by companies to 
+identify individuals to whom they may send marketing materials. Consumers can 
+participate in the system to avoid the receipt of unwanted prescreened solicitations, and 
+companies participate to cut marketing expenses and to avoid upsetting consumers who 
+have made it known that they do not want to receive prescreened solicitations in the mail. 
+
+All companies that are members of the DMA are required to use the MPS. Members run 
+their list of prospective customers against the MPS “do not mail” file to remove these 
+individuals from any mailing. The MPS also is made available to nonmembers of the 
+DMA, so that these marketers may also take advantage of the service. The DMA updates 
+its do-not-mail list monthly, and it is distributed four times per year. The individual’s 
+name is maintained on the list for a period of five years. To create a comprehensive opt-
+out list, the CRAs add the individuals on the DMA’s do-not-mail list to those who have 
+opted out directly with the CRAs. 
+
+12 The DMA is the largest national trade association for the direct marketing industry. For more 
+information about its do-not-mail list, see www.dmaconsumers.org/offmailinglist.html. 
+
+
+14 Board of Governors of the Federal Reserve System 
+
+In addition to the joint opt-out lists established either by law or voluntarily through 
+industry effort, many companies have opt-out programs of their own. About one-third of 
+industry respondents to the Board’s request for comments on the present study 
+specifically mentioned that they maintained an internal list of their own customers who 
+specifically requested not to receive further prescreened solicitations. These companies 
+indicated that relatively few customers had directly requested that they not receive further 
+solicitations. 
+
+
+15 
+
+Extent to Which Consumers Use the Available 
+Mechanisms to Avoid Receiving Written Offers 
+
+The second issue that section 213(e)(3) of the Fact Act asks the Board to address is “the 
+extent to which consumers are currently utilizing existing statutory and voluntary 
+mechanisms to avoid receiving offers of credit or insurance.” 
+
+Little information has been available regarding the frequency at which consumers opt out 
+of receiving prescreened solicitations for credit and insurance products using provisions 
+in section 604 of the FCRA. Likewise, little information has been available about the 
+credit or other characteristics of consumers who have placed their names on the opt-out 
+list. To learn more about consumers’ use of consumer credit generally as well as their 
+use of the opt-out provision provided by the FCRA, the Board engaged one of the three 
+national CRAs to supply the credit records of a large, nationally representative sample of 
+individuals as of June 30, 2003. The credit record data include all information found in 
+the credit files of the approximately 300,000 individuals in the sample except that they 
+exclude all identifying information about the individuals and the creditors. 
+
+The sample data do not contain any addresses of individuals but do include the state, 
+county, and census tract location of their residence. This information allows comparisons 
+with the 2000 decennial census information on census tract population characteristics 
+(such as income and geographic distribution, including urban, suburban, and rural 
+delineations) and other regional and state classifications. 
+
+Each credit record in the Board sample contains as many as 350 distinct items describing 
+the consumer’s past and ongoing experiences with credit, collection-agency actions, and 
+various types of so-called “public records,” which consist of bankruptcies, foreclosures, 
+tax liens (local, state, or federal), garnishments, and other civil judgments. Many 
+thousands of creditors and other entities reported information contained in the credit 
+records, including more than 92,000 reporters overall and 23,600 currently providing 
+credit-related data at the time of the sample.13 In the aggregate, the sample contains 
+information on about 3.7 million credit accounts, more than 318,000 collection-related 
+actions, approximately 65,000 public record actions, and about 913,000 creditor 
+inquiries. The credit record of each individual did not necessarily contain each kind of 
+information (table 2). 
+
+The sample data also contains credit scores for about 250,000 individuals (about 83 
+percent of the sample), each constructed using the CRA’s proprietary credit-risk-scoring 
+
+13 The latter figure is the number of reporters providing information to the CRA within three months of 
+the time the sample was drawn. 
+
+
+16 Board of Governors of the Federal Reserve System 
+
+Table 2.	 Individuals with credit records, by type of 
+information in the records, June 30, 2003 
+
+Type of information 
+Number of 
+individuals 
+
+Percent 
+
+Any 301,536 100 
+
+Credit account 
+At least one 259,211 86.0 
+No other type 63,501 21.1 
+One other type 
+
+Collection agency account 67,747 22.5 
+Public record 34,715 11.5 
+Creditor inquiry 182,553 60.5 
+
+Collection agency account 
+At least one 109,964 36.5 
+No other type 34,978 11.6 
+
+Public record 
+At least one 36,742 12.2 
+No other type 53 * 
+
+Creditor inquiry 
+At least one 188,616 62.6 
+No other type 31 * 
+
+Other 15 * 
+
+Note. Sample is a nationally representative selection of 
+301,536 individuals with credit records in the database of a 
+consumer reporting agency as of June 30, 2003. 
+
+1. Made within two years of June 30, 2003, the date the 
+sample was drawn. 
+
+* Less than 0.5 percent. 
+
+model as of the date the sample was drawn.14 To facilitate the analysis here, the scores 
+received from the CRA were aligned statistically to match the distribution of the more 
+familiar FICO score, named for its developer (Fair, Isaac, and Company); information on 
+the distribution of FICO scores across the population is readily available.15 About 17 
+percent of individuals in the sample were not assigned a credit score by the CRA; the vast 
+majority of these individuals either did not have any credit accounts or had credit 
+accounts so recently established that the payment history was too new to judge. 
+
+At the request of the Board, the CRA placed an indicator in the record of each individual 
+in the sample who had asked by March 2004 to have his or her name placed in the opt-out 
+
+14 The credit score is not part of the credit record of an individual. Rather, upon request by a user of 
+the data, such as a prospective creditor or insurer, the CRA calculates the score on the basis of information 
+in the credit record. 
+
+15 See www.myfico.com/myfico/CreditCentral/ScoringWorks.asp. 
+
+
+Unsolicited Written Offers of Credit and Insurance 17 
+
+list maintained by the CRA that supplied the credit records (this list includes requests 
+received by the CRA as well as names received from the DMA’s do-not-mail list). 
+Combined, the credit record files and the opt-out indicator provide the information 
+necessary to measure the extent to which individuals have chosen to opt out and to profile 
+the credit and selected individual or neighborhood demographic or locational 
+characteristics of such individuals. 
+
+OPTING OUT 
+
+The nationally representative sample indicates that, as of March 2004, about 6 percent of 
+all individuals in the country with credit records had chosen to place their names on the 
+opt-out list maintained by the national CRAs (table 3). This large number of individuals 
+suggests that it is not difficult for individuals to opt out of receiving solicitations.16 
+
+The opt-out percentage includes individuals with a credit record but no credit account. 
+Notably, about 12 percent of the individuals in the sample have credit records only 
+because of an item reported by a collection agency, such as unpaid bills for medical or 
+utility services (table 2). In addition, a very small proportion of individuals have a credit 
+record only because of a public-record action, such as a judgment or tax lien, that had 
+been reported to the CRAs. If the sample of credit records is limited solely to the 
+population of credit-using adults (individuals age 21 and older who have an open credit 
+account with a positive balance), the incidence of opting out increases from 6.0 percent to 
+9.4 percent (data not shown in table 3). 
+
+WHO CHOOSES TO OPT OUT, AND WHY 
+
+We compared the credit circumstances of individuals who are on the opt-out list 
+maintained by the CRAs to those who are not by segmenting the sample in various ways. 
+One of the divisions was according to measures of credit (for example, numbers, kinds, 
+balances, and utilization of credit accounts).17 A second division was by the summary 
+risk measure called a credit score. A third division was by records of serious derogatory 
+information, such as collections activity or public-record actions. The remaining 
+divisions were by the age of the individual, by state and region of the country where the 
+
+16 In its public comment on the present study, TransUnion, one of the three national CRAs, reported 
+that it has 18.7 million consumer names and addresses on its opt-out list, of which about 35 percent arise 
+from the DMA do-not-mail list. Some individuals may be double counted because they requested that their 
+names be placed on both the DMA and CRA opt-out lists. 
+
+17 Credit card accounts include only those reported to the CRA in the twelve-month period preceding 
+the date the survey sample was drawn. The specific sample size differs for each analysis discussed in the 
+text because the use of credit varies widely across the population or because information may not have been 
+available for some individuals. 
+
+
+18 Board of Governors of the Federal Reserve System 
+
+Table 3. Opt-out choice, by credit characteristic of individuals with credit 
+records and by region and state of residence, June 30, 2003 
+
+Percent 
+
+Item All 
+
+Distribution of 
+opt-out choice, 
+
+by characteristic 
+
+Distribution of characteristic, 
+by opt-out choice 
+
+Opted 
+out 
+
+Did not 
+opt out 
+
+Opted 
+out 
+
+Did not 
+opt out 
+
+Total 
+
+Any 
+
+Number of credit 
+ccounts with 
+atisfactory 
+ayment record 
+
+a
+s
+p
+0 
+1 
+2–3 
+4–5 
+6 or more 
+
+Total 
+
+Number of credit 
+card accounts 
+0 
+1 
+2–3 
+4–6 
+7 or more 
+
+Total 
+
+Total credit limit on 
+revolving accounts, 
+by quintile 
+First 
+Second 
+Third 
+Fourth 
+Fifth 
+
+Total 
+
+Total balance on 
+revolving accounts, 
+by quintile 
+First 
+Second 
+Third 
+Fourth 
+Fifth 
+
+Total 
+
+100 
+
+28.1 
+13.3 
+14.8 
+12.2 
+31.6 
+
+100 
+
+7.6 
+12.7 
+14.2 
+18.1 
+47.5 
+
+100 
+
+20 
+20 
+20 
+20 
+20 
+
+100 
+
+20 
+20 
+20 
+20 
+20 
+
+100 
+
+. . . 
+
+4.6 
+6.7 
+
+16.6 
+18.5 
+53.6 
+
+100 
+
+1.1 
+3.4 
+8.6 
+
+18.6 
+68.4 
+
+100 
+
+8.8 
+15.0 
+22.0 
+25.7 
+28.6 
+
+100 
+
+16.5 
+19.2 
+20.6 
+20.2 
+23.6 
+
+100 
+
+. . . 
+
+29.7 
+13.8 
+14.7 
+11.7 
+30.1 
+
+100 
+
+8.1 
+13.4 
+14.7 
+18.1 
+45.8 
+
+100 
+
+21.1 
+20.5 
+19.8 
+19.5 
+19.2 
+
+100 
+
+20.4 
+20.1 
+20.0 
+20.0 
+19.6 
+
+100 
+
+. . . 
+
+6.0 
+
+1.0 
+3.2 
+7.1 
+9.6 
+
+10.7 
+. . . 
+
+1.1 
+2.0 
+4.4 
+7.5 
+
+10.6 
+
+3.9 
+6.6 
+9.7 
+
+11.3 
+12.6 
+. . . 
+
+7.7 
+9.0 
+9.6 
+9.5 
+
+11.1 
+. . . 
+
+. . . 
+
+94.0 
+
+99.0 
+96.8 
+92.9 
+90.4 
+89.3 
+. . . 
+
+98.9 
+98.0 
+95.6 
+92.5 
+89.4 
+
+96.1 
+93.4 
+90.3 
+88.7 
+87.4 
+. . . 
+
+92.3 
+91.0 
+90.4 
+90.5 
+89.0 
+. . . 
+
+100 
+
+100 
+100 
+100 
+100 
+100 
+
+. . . 
+
+100 
+100 
+100 
+100 
+100 
+
+. . . 
+
+100 
+100 
+100 
+100 
+100 
+
+. . . 
+
+100 
+100 
+100 
+100 
+100 
+
+. . . 
+
+Note appears at end of table. 
+
+
+Unsolicited Written Offers of Credit and Insurance 19 
+
+Table 3. —Continued 
+Percent 
+
+Distribution of 
+opt-out choice, 
+
+by characteristic 
+
+Distribution of characteristic, 
+by opt-out choice 
+
+Item All 
+
+Opted 
+out 
+
+Did not 
+opt out 
+
+Opted 
+out 
+
+Did not 
+opt out 
+
+Total 
+
+Utilization rate, 
+by quintile 
+First 20 14.9 20.6 6.3 93.7 100 
+Second 20 26.3 19.4 11.2 88.8 100 
+Third 20 24.7 19.4 10.6 89.5 100 
+Fourth 20 20.1 20.0 8.5 91.5 100 
+Fifth 20 14.0 20.6 5.9 94.1 100 
+
+Total 100 100 100 . . .  . . .  . . .  
+
+Number of 
+mortgages with 
+satisfactory 
+payment record 
+0 76.1 57.9 77.3 4.8 95.2 100 
+1 or more 24.0 42.1 22.7 11.1 88.9 100 
+
+Total 100 100 100 . . .  . . .  . . .  
+
+Credit score (range 
+from 500 to 850) 
+Less than 550 6.0 2.3 6.3 2.9 97.1 100 
+550–620 11.2 5.8 11.6 3.9 96.1 100 
+621–660 9.4 4.4 9.8 3.6 96.4 100 
+661–700 13.8 10.6 14.1 5.8 94.2 100 
+701 or more 59.6 76.9 58.2 9.8 90.2 100 
+
+Total 100 100 100 . . .  . . .  . . .  
+
+Memo: Credit score 
+Has score 82.9 . . . . . . 7.6 92.4 100 
+Has no score 17.1 . . . . . . .2 99.8 100 
+
+Number of 
+collection accounts 
+0 63.5 58.0 63.9 5.8 94.2 100 
+1 or more 36.5 42.0 36.1 7.3 92.7 100 
+
+Total 100 100 100 . . .  . . .  . . .  
+
+Number of 
+public records 
+0 87.8 85.9 87.9 6.2 93.8 100 
+1 or more 12.2 14.1 12.1 7.3 92.7 100 
+
+Total 100 100 100 . . .  . . .  . . .  
+
+
+20 Board of Governors of the Federal Reserve System 
+
+Table 3. Opt-out choice, by credit characteristic of individuals with credit 
+records and by region and state of residence, 
+June 30, 2003—Continued 
+
+Percent 
+
+Distribution of 
+opt-out choice, 
+
+by characteristic 
+
+Distribution of characteristic, 
+by opt-out choice 
+
+Item All 
+
+Opted 
+out 
+
+Did not 
+opt out 
+
+Opted 
+out 
+
+Did not 
+opt out 
+
+Total 
+
+Number of credit 
+inquires in past year 
+0 20.0 19.2 20.1 7.4 92.6 100 
+1 27.7 26.9 27.8 7.5 92.5 100 
+2–3 28.9 29.3 28.9 7.9 92.1 100 
+4–5 12.4 13.4 12.3 8.4 91.6 100 
+6 or more 11.0 11.1 10.9 7.9 92.1 100 
+
+Total 100 100 100 . . .  . . .  . . .  
+
+Region (shown with 
+its subregions) 
+Northeast 
+
+(New England; 
+Middle 
+Atlantic) 18.1 18.2 18.1 6.4 93.6 100 
+
+Midwest 
+(East and West 
+North Central) 22.4 23.2 22.3 6.6 93.4 100 
+
+South 
+(South Atlantic; 
+East and West 
+South Central) 36.2 32.7 36.5 5.7 94.3 100 
+
+West 
+(Mountain; 
+Pacific) 23.3 25.9 23.1 7.0 93.0 100 
+
+Total 100 100 100 . . .  . . .  . . .  
+
+Subregion and state 
+New England 4.6 4.7 4.5 6.6 93.4 100 
+
+Maine 9.9 7.1 10.1 4.7 95.3 100 
+New Hampshire 9.5 8.2 9.6 5.7 94.3 100 
+Vermont 4.6 4.3 4.6 6.3 93.7 100 
+Massachusetts 43.0 49.1 42.6 7.5 92.5 100 
+Rhode Island 7.6 5.3 7.8 4.6 95.4 100 
+Connecticut 25.4 26.0 25.4 6.8 93.3 100 
+
+State total 100 100 100 . . .  . . .  . . .  
+
+Middle Atlantic 13.5 13.5 13.5 6.3 93.7 100 
+New York 46.0 47.7 45.9 6.5 93.5 100 
+New Jersey 21.9 21.0 21.9 6.1 93.9 100 
+Pennsylvania 32.1 31.2 32.1 6.1 93.9 100 
+
+State total 100 100 100 . . .  . . .  . . .  
+
+
+Unsolicited Written Offers of Credit and Insurance 21 
+
+Table 3. —Continued 
+Percent 
+
+Distribution of 
+opt-out choice, 
+
+by characteristic 
+
+Distribution of characteristic, 
+by opt-out choice 
+
+Item All 
+
+Opted 
+out 
+
+Did not 
+opt out 
+
+Opted 
+out 
+
+Did not 
+opt out 
+
+Total 
+
+East North Central 16.0 14.9 16.1 5.9 94.4 100 
+Ohio 25.6 24.6 25.6 5.7 94.3 100 
+Indiana 13.8 12.3 13.9 5.3 94.7 100 
+Illinois 27.0 28.4 26.9 6.2 93.8 100 
+Michigan 21.8 23.1 21.7 6.3 93.7 100 
+Wisconsin 11.9 11.6 11.9 5.8 94.2 100 
+
+State total 100 100 100 . . .  . . .  . . .  
+
+West North Central 6.4 8.3 6.3 8.2 91.8 100 
+Minnesota 24.9 27.5 24.7 9.1 90.9 100 
+Iowa 14.8 11.9 15.1 6.6 93.4 100 
+Missouri 30.4 38.4 29.6 10.4 89.6 100 
+North Dakota 3.1 1.5 3.2 3.9 96.1 100 
+South Dakota 3.6 2.2 3.7 5.1 94.9 100 
+Nebraska 8.7 6.6 8.9 6.3 93.7 100 
+Kansas 14.6 11.9 14.8 6.7 93.3 100 
+
+State total 100 100 100 . . .  . . .  . . .  
+
+South Atlantic 19.2 19.3 19.2 6.4 93.7 100 
+Delaware 1.6 1.4 1.6 5.9 94.1 100 
+District of 
+
+Columbia 1.1 1.4 1.1 7.7 92.3 100 
+Maryland 10.0 14.5 9.7 9.2 90.8 100 
+Virginia 13.0 14.0 13.0 6.8 93.2 100 
+West Virginia 3.2 1.4 3.4 2.7 97.3 100 
+North Carolina 15.3 12.7 15.5 5.3 94.7 100 
+South Carolina 7.5 6.0 7.6 5.1 94.9 100 
+Georgia 14.8 16.7 14.7 7.2 92.9 100 
+Florida 33.3 31.9 33.4 6.1 93.9 100 
+
+State total 100 100 100 . . .  . . .  . . .  
+
+East South Central 5.9 4.7 6.0 5.0 95.0 100 
+Kentucky 24.2 30.0 23.9 6.3 93.8 100 
+Tennessee 33.5 33.8 33.4 5.1 94.9 100 
+Alabama 25.8 23.2 26.0 4.5 95.5 100 
+Mississippi 16.5 13.0 16.7 4.0 96.0 100 
+
+State total 100 100 100 . . .  . . .  . . .  
+
+West South Central 11.1 8.8 11.3 5.0 95.0 100 
+Arkansas 8.5 6.5 8.6 3.8 96.2 100 
+Louisiana 13.7 11.1 13.8 4.1 95.9 100 
+Oklahoma 11.0 10.0 11.1 4.5 95.5 100 
+Texas 66.8 72.4 66.5 5.4 94.6 100 
+
+State total 100 100 100 . . .  . . .  . . .  
+
+
+22 Board of Governors of the Federal Reserve System 
+
+Table 3. Opt-out choice, by credit characteristic of individuals with credit 
+records and by region and state of residence, 
+June 30, 2003—Continued 
+
+Percent 
+
+Distribution of 
+opt-out choice, 
+
+by characteristic 
+
+Distribution of characteristic, 
+by opt-out choice 
+
+Item All 
+
+Opted 
+out 
+
+Did not 
+opt out 
+
+Opted 
+out 
+
+Did not 
+opt out 
+
+Total 
+
+Mountain 6.6 8.3 6.5 8.0 92.0 100 
+Montana 4.8 4.4 4.8 7.4 92.7 100 
+Idaho 6.5 4.5 6.7 5.5 94.5 100 
+Wyoming 2.6 2.0 2.6 6.2 93.8 100 
+Colorado 24.8 31.4 24.2 10.1 89.9 100 
+New Mexico 9.1 6.4 9.3 5.6 94.4 100 
+Arizona 27.6 31.4 27.3 9.1 91.0 100 
+Utah 11.9 11.1 12.0 7.4 92.6 100 
+Nevada 12.7 8.8 13.0 5.6 94.4 100 
+
+State total 100 100 100 . . .  . . .  . . .  
+
+Pacific 16.7 17.5 16.6 6.7 93.4 100 
+Washington 13.8 17.5 13.6 8.4 91.6 100 
+Oregon 7.9 10.7 7.7 9.0 91.0 100 
+California 74.6 68.5 75.0 6.1 93.9 100 
+Alaska 1.3 1.2 1.3 6.2 93.8 100 
+Hawaii 2.5 2.2 2.5 5.9 94.1 100 
+
+State total 100 100 100 . . .  . . .  . . .  
+
+Subregion total 100 100 100 . . . . . . . . . 
+
+Note. Sample is a nationally representative selection of 301,536 individuals with credit 
+records in the database of a consumer reporting agency as of June 30, 2003. 
+
+. . . Not applicable. 
+
+individual lives, and by characteristics of the census tract in which the individual lives 
+(degree of urbanization, income, and race or ethnicity).18 
+
+Analysis of the sample of credit records indicates that individuals on the opt-out list 
+maintained by the national CRAs exhibit credit and personal profiles that differ 
+noticeably from other individuals in several dimensions, including some measures of 
+credit use and creditworthiness, but not in others. In general, those with greater current 
+credit experience (evidenced by numbers of credit accounts, amounts outstanding, or 
+available as credit lines) and those who are better credit risks are somewhat more likely 
+to opt out. In contrast, those with few credit accounts, smaller outstanding balances, less 
+
+18 Information on the age of individuals who opt out and the characteristics of the census tracts in 
+which they live are found in appendix B. 
+
+
+Unsolicited Written Offers of Credit and Insurance 23 
+
+credit currently available in terms of additional lines, and greater credit risk are somewhat 
+less likely to opt out. 
+
+These findings lend themselves to more than one interpretation. One possibility is that 
+those individuals with more credit accounts or exhibiting lower credit risk choose not to 
+receive additional prescreened solicitations because they believe that they have enough 
+credit sources available. At the same time, those with less credit currently in use or 
+exhibiting higher measures of risk may be less interested in cutting off their access to 
+more credit. Alternatively, those with more credit and who are better risks may have 
+reviewed so many prescreened solicitations that they are simply more likely to have 
+observed the opt-out notice and to have acted on it. Of course, these hypotheses are not 
+necessarily incompatible; both may be correct to some degree. Furthermore, only a 
+minority of individuals in any grouping have placed their names on the opt-out lists 
+maintained by the national CRAs (table 3). 
+
+CREDIT CHARACTERISTICS OF THOSE WHO OPT OUT 
+
+Factors related to whether a consumer may opt out of receiving prescreened solicitations 
+include the following: number of credit accounts, credit limits and outstanding balances, 
+credit scores, presence of a mortgage, collection items and public records, and creditor 
+and insurer inquiries. 
+
+Number of Credit Accounts 
+
+Most individuals with credit records have at least one credit account of some type in good 
+standing, and more than 40 percent of those with credit accounts have four or more such 
+accounts (table 3). Nearly 11 percent of the individuals in the sample with six or more 
+active credit accounts have chosen to opt out of receiving prescreened solicitations, 
+compared with about 3 percent of those with just one active account and only 1 percent of 
+those with no active accounts. A similar pattern is evident with regard to credit card 
+accounts. About 11 percent of the individuals with seven or more credit card accounts 
+have opted out of further prescreened solicitations compared with about 2 percent of 
+those with only one such account and only 1 percent of those with no credit card 
+accounts. 
+
+Credit Limits on Revolving Accounts 
+
+The same pattern is again evident when considering the total size of revolving credit 
+lines. The similarity is not surprising because the number of credit card accounts, which 
+constitute the bulk of revolving-credit lines, is correlated with total credit lines. Issuers 
+of credit cards and unsecured personal lines of credit typically restrict the size of the 
+credit line to limit the credit risk posed by any given account. Creditors normally report 
+
+
+24 Board of Governors of the Federal Reserve System 
+
+the credit limits established for a revolving account when they report account information 
+to CRAs (although not always, particularly in the past). Summing the reported credit 
+limits on each revolving account available to an individual gives an estimate of the 
+aggregate credit limit on accounts of this type for each individual. In those cases in 
+which creditors fail to report the credit limit on the account to the CRA, the typical 
+industry practice is to assume that the highest balance ever reported as owed on the 
+account is the limit, and that approach is employed here. 
+
+Sorting the opt-out list according to credit limit on revolving accounts shows that about 
+13 percent of the individuals in the top quintile of credit-line holders have opted out of 
+receiving additional prescreened solicitations. Only 4 percent of individuals with a total 
+revolving credit line in the bottom quintile have opted out. 
+
+Total Balances and Utilization Rate on Revolving Accounts 
+
+Another measure of credit availability and use is the amount actually owed on revolving 
+credit accounts. In this case, the sample of credit records shows that those in the highest 
+quintile of individuals arrayed by balances owed are more likely to opt out of further 
+prescreened solicitations than individuals in the lower quintiles. The ratio of balance 
+outstanding to the total credit limit for each individual permits construction of an overall 
+credit “utilization rate.” When evaluating the credit risk posed by a prospective borrower, 
+creditors often consider such a ratio. In this case, the sample data indicate that those 
+individuals with utilization ratios in the middle range are about twice as likely to opt out 
+as those with ratios at the extremes. Individuals with credit utilization rates in the lowest 
+and highest quintiles may desire additional credit opportunities and so they may be less 
+likely to opt out. 
+
+Number of Mortgage Accounts 
+
+Credit records also include information on mortgages. The sample data indicate that 
+about one-fourth of the individuals represented had a mortgage loan outstanding. About 
+11 percent of the individuals with a mortgage in good standing have placed their names 
+on the opt-out list, compared with 5 percent among those who do not have such a 
+mortgage. 
+
+Credit Score 
+
+Most individuals have good credit histories, as reflected in the distribution of credit 
+scores across the population of individuals with credit records (table 3 and figure 2). 
+Assuming they satisfy other underwriting requirements, such individuals pose relatively 
+little credit risk to prospective lenders. Creditors vary somewhat in the thresholds they 
+use to identify individuals who pose relatively little credit risk, but in general those with 
+
+
+Unsolicited Written Offers of Credit and Insurance 25 
+
+Figure 2.	 Distribution of individuals with credit records, by credit score, 
+June 30, 2003 
+
+Percent 
+
+70 
+
+6.0 
+
+11.2 9.4 
+13.9 
+
+59.6 
+
+#N/A #N/A #N/A #N/A #N/A 
+
+60 
+
+50 
+
+40 
+
+30 
+
+20 
+
+10 
+
+Less than 550 550-620 621-660 661-700 701 or more 
+
+Credit score 
+
+Note. Sample is a nationally representative selection of 301,536 individuals with credit records in the 
+database of a consumer reporting agency as of June 30, 2003. 
+
+credit scores above 660 fall in this group and are frequently referred to as prime 
+borrowers. Among individuals assigned credit scores in the Board sample, 73 percent 
+had credit scores above 660. 
+
+At the other extreme are individuals who pose relatively high credit risk. Individuals 
+with credit scores below 620 are frequently referred to as nonprime or subprime 
+borrowers. About 17 percent of the individuals in the sample with credit scores had 
+scores of 620 and below. It should be noted that the thresholds used for distinguishing 
+individuals who pose higher or lower credit risk vary not only among creditors but also 
+across credit types. Secured credit products, such as mortgages or vehicle loans, 
+sometimes have different thresholds than unsecured products, such as credit cards. 
+
+According to the sample data, the propensity to opt out varies among individuals arrayed 
+by their credit scores. Individuals who opt out tend to have relatively high credit scores; 
+the mean and median credit scores for those in the sample who have opted out were 742 
+and 765 respectively, compared with 705 and 722 for those who have not opted out (data 
+not shown in tables). Moreover, larger proportions of individuals with higher credit 
+scores have opted out compared with the proportions with lower scores. Nearly 
+
+
+26 Board of Governors of the Federal Reserve System 
+
+10 percent of individuals with credit scores above 700 have opted out, but only 3 percent 
+of those with credit scores below 550 have done so. In the aggregate, 77 percent of all 
+individuals who have opted out have credit scores above 700, whereas about 60 percent 
+of the entire sample has a credit score in that elevated range. Almost 88 percent of all 
+individuals who have opted out may be considered prime borrowers (credit scores above 
+660), whereas about 73 percent of all individuals in the sample are in that category. 
+
+As noted, not every individual in the Board sample of credit records has a credit score. 
+Of the individuals who were not scored (mostly because of a sparse credit history), only 
+0.2 percent opted out, compared with 7.6 percent of the scored individuals. The lower 
+incidence of opting out among the individuals without credit scores may simply indicate 
+that these individuals receive and review fewer prescreened solicitations and hence may 
+have fewer opportunities to become aware of the opt-out option. Alternatively, such 
+individuals may be relatively more interested in building their credit records by obtaining 
+new credit and may be less interested in pursuing the opt-out option. 
+
+Number of Collection Items and Public Records 
+
+The number of collection items in an individual’s credit record is an important indicator 
+of credit risk. More than one-third of the individuals in the sample data had one or more 
+collection items in their credit records; these individuals are somewhat more likely to opt 
+out than individuals with no reported collection actions—7.3 percent versus 5.8 percent. 
+
+The number of public records in an individual’s credit record is also an important 
+indicator of credit risk. Most individuals in the sample (88 percent) did not have any 
+public-record actions in their credit records. The sample data indicate that individuals 
+with one or more records of a public action are somewhat more likely to opt out than 
+other individuals, but the difference is not particularly large—7.3 percent versus 6.2 
+percent. 
+
+Number of Recent Inquiries about Credit or Insurance 
+
+Finally, credit records contain data on inquiries made about an individual’s credit 
+circumstances. The information includes the identities of firms or individuals who 
+request such information (for example, landlords or prospective employers), the date of 
+the inquiry, and an indication of the purpose of the inquiry. Most inquiries arise when an 
+individual is seeking credit and the prospective creditor or insurer contacts a CRA about 
+the individual’s current credit status. 
+
+Not every use of a credit file results in a lasting record of an inquiry. For example, only 
+inquiries made over the previous two years are included in credit records. In addition, 
+inquiries made in the course of sending prescreened solicitations or to monitor existing 
+account relationships do not appear on the credit report used for prescreening. Also not 
+
+
+Unsolicited Written Offers of Credit and Insurance 27 
+
+appearing on the report used for prescreening are individuals’ requests for copies of their 
+own reports. 
+
+About 80 percent of the individuals in the sample had a record in their credit file of one 
+or more inquiries over the past year; about 11 percent of the individuals had six or more 
+inquiries. Available evidence suggests that the number of inquiries recorded in an 
+individual’s credit record is largely unrelated to propensity to opt out of further 
+prescreened solicitations. For example, 7.9 percent of those who had more than six 
+inquiries recorded in their file over the past year opted out, compared with about 7.4 
+percent of the individuals with no record of an inquiry over this period. 
+
+LOCATIONAL CHARACTERISTICS OF THOSE WHO OPT OUT 
+
+Information in the sample data on place of residence allows examination of the 
+propensity to opt out by region of the country and by state. By region (Northeast, 
+Midwest, South, and West, each also with subregions), the sample data indicate little 
+difference in the propensity to opt out. Individuals residing in the West have the highest 
+incidence of opting out (7 percent), and those residing in the South have the lowest (5.7 
+percent). Among the subregions, the West North Central and Mountain areas have the 
+highest opt out rate (about 8 percent of the individuals with credit records) and the East 
+South Central and West South Central areas have the lowest rate of opting out (5 percent 
+of the individuals). As with the regions, the states vary in the propensity of individuals to 
+opt out. Residents of Missouri and Colorado have the highest rate of opting out, while 
+residents of West Virginia and Arkansas have the lowest rates. 
+
+
+28 
+
+Benefits of Receiving Written Offers 
+of Credit or Insurance 
+
+The third issue that section 213(e)(3) of the Fact Act asks the Board to address is “the 
+benefits provided to consumers as a result of receiving written offers of credit or 
+insurance.” 
+
+GREATER AVAILABILITY OF TARGETED PRICING 
+AND PRODUCT INFORMATION 
+
+Prescreened solicitations significantly benefit consumers by providing them with ready 
+access to product information on credit and insurance products for which they likely 
+qualify. Thus, prescreened offers help consumers by greatly reducing the time and effort 
+necessary for shopping for these products. Also, the widespread dissemination of pricing 
+and product information contained in prescreened offers helps to make markets for these 
+products more competitive, a result that benefits all consumers whether or not they 
+engage in extensive shopping themselves. 
+
+Theoretical developments in economics known as the economics of information have 
+demonstrated the importance of information for the effective and efficient functioning of 
+product markets and for enhancing competition. One of the important insights from this 
+comparatively new branch of economic theory is that advertising can contribute to the 
+competitiveness of markets for consumer products by substituting for substantial amounts 
+of consumer shopping.19 This is especially true for the advertising of product pricing, but 
+it is also true for the advertising of product quality despite the greater difficulty of 
+establishing credible advertising in that area.20 
+
+Most consumers probably realize that more shopping would be useful in obtaining the 
+lowest available price for their purchases. But aside from new clothing, automobiles, 
+some appliances, antiques and collectibles, and some other items, additional shopping for 
+most products and services is simply too time consuming and burdensome for many 
+consumers relative to the potential benefit. Under these circumstances, advertising can 
+reduce shopping costs if it brings the relevant information to consumers in a way that is 
+less burdensome to them than looking for it on their own. For straightforward products 
+without extensive quality differentiations, widespread availability of price and product 
+
+19 The classic work of the founding father is George J. Stigler (1961), “The Economics of Information,” 
+Journal of Political Economy, vol. 69 (June), pp. 213-25. 
+
+20 The relationship of information flows and product quality is treated extensively in Joseph E. Stiglitz 
+(1987), “The Causes and Consequences of the Dependence of Quality on Price,” Journal of Economic 
+Literature, vol. 25 (March), pp. 1-48. 
+
+
+Unsolicited Written Offers of Credit and Insurance 29 
+
+information can improve the competitiveness of markets to the benefit of all buyers, 
+whether they engage in extensive shopping themselves or not. 
+
+Probably few consumer products better illustrate the potential benefits of price and 
+product advertising than credit cards. Credit cards likely are not among the products 
+consumers enjoy shopping for; rather, in most cases, they are probably closer to the other 
+end of this spectrum. But, credit cards are relatively simple products that can be 
+compared fairly easily across brands. They have few major differentiating dimensions 
+and pricing appears to be the information of greatest interest among potential users.21 
+
+These characteristics suggest the usefulness both of price lists and of disclosures for 
+simplifying comparisons, and the Congress has already included provisions in the Truth 
+in Lending Act to provide statutory requirements in each area.22 
+
+PRESCREENING AND SHOPPING 
+
+Prescreened solicitations based on CRA records provide price and product information to 
+the marketplace in vast quantities tailored and provided directly to consumers who might 
+use the products. Consumers receive billions of tailored prescreened solicitations yearly. 
+
+For credit cards, each prescreened solicitation contains pricing information in a tabular 
+form in a type size and format that is easy to read and consistent across providers. In this 
+way, credit card solicitations are much different from the advertising typical for many 
+products, which focuses on brand awareness or on product features other than price. The 
+pricing information in prescreened solicitations is tailored to the risk profile of the 
+consumer receiving the solicitation. If a consumer’s profile changes over time for the 
+better, the next set of prescreened offerings should reflect the change through an offering 
+at a lower price. Because of this tailored pricing information, prescreened solicitations 
+for credit cards can supplement, and even take the place of, a large amount of consumer 
+shopping for this product, lowering the potential burden to consumers of this volume of 
+unattractive shopping. This possible reduction in shopping costs, along with the 
+widespread dissemination of pricing and product information contained in prescreened 
+offers, may help to make markets for credit cards more competitive. 
+
+21 See Thomas A. Durkin (2002), “Consumers and Credit Disclosures: Credit Cards and Credit 
+Insurance,” Federal Reserve Bulletin, vol. 88 (April), pp. 201-13. 
+
+22 The Fair Credit and Charge Card Disclosure Act of 1988 amended the Truth in Lending Act to 
+require the Board to semiannually survey credit-card rates and terms at 150 financial institutions, including 
+the 25 largest issuers, and to provide the results to the Congress and the public (see Truth in Lending Act, 
+section 136; and “Survey of Credit Card Plans,” www.federalreserve.gov/pubs.shop/survey.htm). The Fair 
+Credit and Charge Card Disclosure Act also required that solicitations mailed to consumers or applications 
+to open a credit card or charge card account provide several disclosures, including the annual percentage 
+rate or rates on the account in a tabular format (see Truth in Lending Act, section 122; and Regulation Z, 12 
+C.F.R. 226.5a(a)(2)(i) and appendix G). 
+
+
+30 Board of Governors of the Federal Reserve System 
+
+This theory of a competitive market may help put into perspective the often-cited decline 
+in consumer response to the prescreened solicitations for credit cards: one interpretation 
+is lack of interest among consumers, but another is that as consumers have continued to 
+receive information, markets have become more competitive and consumers are thus less 
+frequently receiving offers that are better than their current arrangements. The latter 
+possibility is hardly bad for consumers. Although one cannot attribute all changes in 
+credit card markets in recent years to the greater availability of information, evidence 
+suggests both that many consumers notice the information and that markets have become 
+more competitive over time. 
+
+For insurance, the benefits of prescreened solicitations in providing additional 
+information to consumers and reducing shopping costs are similar to those for credit 
+cards. However, insurance sales typically require an extra step before the benefits can be 
+fully realized. Prescreened solicitations for insurance generally do not contain complete 
+pricing information tailored to a consumer because it is difficult to set the price of 
+insurance solely based on information in CRA files. Specifically, prescreening using 
+CRA files reveals something about the creditworthiness of individuals (maybe because it 
+reveals something about the reliability of the insured), but it does not reveal any 
+information about the property or life to be insured. The insurance company must obtain 
+that information through some sort of further contact with the recipient of a prescreened 
+solicitation before the underlying insurance price can be specified completely. 
+Nonetheless, prescreened solicitations for insurance do provide a point of contact 
+between insurance companies actively trying to expand their business and the potential 
+customers receiving the solicitations. 
+
+CONSUMER EXPERIENCE WITH PRESCREENED SOLICITATIONS 
+
+To learn more about consumer awareness, attitudes, and responses to prescreened 
+solicitations, the Board sponsored a nationwide survey in which consumers were asked a 
+series of questions on these topics. About 77 percent of respondents held one or more 
+credit cards when interviewed, and 23 percent held none (table 4). Among those with 
+credit cards, 95 percent had a general-purpose credit card with a revolving feature, such 
+as Discover, MasterCard, Optima, or Visa (data not in table). 
+
+The survey showed that the majority of consumers both with and without credit cards had 
+received prescreened solicitations in the mail for credit card accounts in the previous six 
+months, although the proportions who received prescreened solicitations differed 
+somewhat between the groups. More than 96 percent of those with credit cards had 
+received prescreened solicitations for additional or replacement cards in the six months 
+preceding the survey, compared with 81 percent of those with no cards. The numbers of 
+prescreened solicitations received also varied between the groups, but most of the 
+respondents in both groups reported receiving multiple prescreened solicitations per 
+month. More than half of the group already holding cards and more than 30 percent of 
+those without cards reported receiving six or more prescreened solicitations per month 
+
+
+Unsolicited Written Offers of Credit and Insurance 31 
+
+Table 4. Selected experiences of surveyed individuals 
+regarding mail solicitations for credit cards and 
+opting out, by whether the individual has a credit 
+card, 2004 
+
+Percent 
+
+Category 
+Has a 
+
+credit card 
+Does not have 
+a credit card 
+
+All individuals 77.0 23.0 
+
+Received solicitation in past six months 96.1 80.8 
+Distribution by number received monthly 
+
+1 or less 11.8 18.9 
+2-5 36.7 50.6 
+6 or more 51.5 30.5 
+
+Total 100 100 
+
+Heard about opt-out law 20.8 16.9 
+Distribution by action taken 
+
+Opted out 20.3 33.3 
+Thought about opting out 38.2 13.9 
+Did not consider opting out 41.6 52.8 
+
+Total 100 100 
+
+Source. University of Michigan Surveys of Consumers, May 2004; sample 
+is a nationally representative selection of 500 respondents. 
+
+over the preceding six months. Only a small proportion of either group reported that the 
+number of prescreened solicitations received per month during this period was one or 
+zero. 
+
+The survey also asked respondents about opting out of prescreened solicitations. About 
+21 percent of respondents who have a credit card had heard of the opt-out law, and about 
+20 percent of that group chose to opt out. Multiplying these proportions yields about 4 
+percent of respondents with credit cards who said they had placed their names on the opt-
+out list. Likewise about 17 percent of respondents who do not have a credit card had 
+heard of the opt-out law, and about 33 percent of that small group chose to opt out. 
+Multiplying these proportions yields about 5 percent of respondents without credit cards 
+who said they had opted out. An opt-out rate of 4–5 percent is approximately the same 
+(small) proportion of opt outs indicated by the CRA files. Because the survey found that 
+only about 20 percent of consumers are aware of their right under federal law not to 
+receive prescreened solicitations, it seems that if awareness of this right were higher, 
+more consumers would opt out. 
+
+For consumers who are aware of the law, a larger proportion of those with credit cards 
+than those without credit cards (38 percent versus 14 percent) said that they had thought 
+about placing their names on the list but had not yet done so. Although thinking about an 
+action is not the same as undertaking it, this outcome is not inconsistent with the finding 
+
+
+32 Board of Governors of the Federal Reserve System 
+
+from the CRA reports that those with more credit experience are more likely to be 
+involved in the opt-out process than those with less credit experience. 
+
+Consumers in the group who said they had heard of the federal law were asked further 
+how they had heard of the law. Most responses mentioned their information was from 
+television, newspapers, and magazines. Some consumers also mentioned family, 
+acquaintances, and other sources. Less than 10 percent of those with credit cards and 
+aware of the law indicated that they learned about the opt-out possibility from the 
+prescreened solicitation itself (data not in table). 
+
+The survey also asked those respondents with general-purpose credit cards who had 
+received prescreened solicitations for more information about their experiences with the 
+mailings they had received.23 One question asked whether the information contained in 
+the mailings was helpful. About 9 percent of the respondents to this question indicated 
+they did not know, and so it seems probable they did not pay very much attention to the 
+information (table 5). The rest of the respondents were close to evenly divided on 
+whether the information received was helpful (about 40 percent) or not (just under 50 
+percent). Within the groups, a much higher proportion of the negative responders took 
+the more extreme position that it was very unhelpful, probably indicating an expression 
+of frustration with receiving so much “junk mail.” Regardless, the finding that a 
+significant portion of consumers appeared to be generally familiar with the kind of 
+information in the prescreened solicitations is consistent with the view that prevalence of 
+prescreened solicitations is useful in disseminating pricing information and encouraging 
+competitive conditions in markets for credit cards generally, even if only a small minority 
+of recipients actually respond to a given prescreened solicitation program. 
+
+For those respondents who said that the information was helpful, a follow-up question 
+asked what specific information was helpful. Nearly 70 percent mentioned interest rates 
+or annual percentage rates (table 5). Some noted information about particular rate 
+features, for example, introductory rates or standard rates. About 35 percent of the 
+respondents specifically mentioned various fees such as annual fees, balance transfer 
+fees, and late fees. All of this again suggests that many consumers seem to know what 
+the prescreened solicitations contain, which is important for price competition to work, 
+even if they do not respond to, or even focus very carefully on, the contents of any given 
+piece of mail that they receive from card issuers.24 
+
+23 The survey design did not contemplate asking those without general-purpose credit cards many 
+follow-up questions about their experiences with solicitations because the small sample size of this group in 
+the nationally representative survey would not permit much further breakdown of their experiences. 
+
+24 A follow-up question asked both those who said the information was helpful and those who said it 
+was not how it could be made more helpful. Respondents gave a wide variety of answers, but those already 
+favorably inclined toward the information more often suggested aspects of format and clarity (data not in 
+table). Those unfavorably inclined indicated more often either that they did not know how the information 
+could be improved, or just said fewer mailings should be sent. The latter group just seemed more frustrated 
+with the frequency of “junk mail,” likely because they were not looking for any more credit cards. 
+
+
+Unsolicited Written Offers of Credit and Insurance 33 
+
+Table 5.	 Opinions on helpfulness of 
+information in mail solicitations for 
+credit cards among surveyed 
+individuals and their handling of 
+such solicitations, 2004 
+
+Category Percent 
+
+Helpfulness of information 
+Very 
+Somewhat 
+Not very 
+Not at all 
+Do not know 
+
+Specific information cited as helpful1 
+
+Interest rate 
+Annual percentage rate 
+Introductory rate 
+Standard rate 
+Balance transfers or cash advances 
+Fixed versus variable 
+Any 
+
+Fees 
+Fees, not further specified 
+Annual or membership 
+Balance transfer or transaction 
+Late or penalty 
+Any 
+
+Other 
+Credit limits, payment policies, 
+
+grace periods 
+Benefits, rebates, rewards 
+Security, privacy 
+
+2 Other
+
+Do not know 
+
+Handling of solicitations 
+Open and glance at them 
+Open and examine them 
+Throw them away without opening 
+
+Total 
+
+7.2 
+35.2 
+17.6 
+31.3 
+
+8.7 
+
+50.6 
+11.4 
+10.1 
+
+6.4 
+6.7 
+
+68.5 
+
+9.0 
+14.2 
+
+7.5 
+7.5 
+
+35.4 
+
+13.3 
+
+2.6 
+* 
+
+17.6 
+
+3.3 
+
+34.2 
+10.0 
+55.7 
+
+100 
+
+Note. Individuals who have general-purpose credit 
+cards and received solicitations. 
+
+1. Respondents could choose up to two items. 
+2. Includes “terms and conditions,” “pre-approval 
+
+qualifications,” and “services.” 
+* Less than 0.5 percent. 
+Source. University of Michigan Surveys of 
+
+Consumers, May 2004; sample is a nationally 
+representative selection of 500 respondents. 
+
+
+34 Board of Governors of the Federal Reserve System 
+
+Another question asked consumers what they actually do most often with the mailings 
+they receive. Responses indicate that the mailings are not solely or always considered 
+“junk mail,” even if they are so regarded in many instances. About 55 percent said that 
+they throw them away, but the others said that they open them and that they look at them, 
+although not especially carefully (table 5). The respondents who said that they usually 
+opened the prescreened solicitations were asked whether they looked for any particular 
+information, and if so, what information. Among those who usually opened the 
+prescreened solicitations, about 68 percent provided a variety of answers that mostly 
+concerned pricing (data not in table). The remainder indicated that there was nothing in 
+particular they looked for. Again, while it appears that the strong attitude toward the 
+solicitations as “junk mail” leads most respondents to throw them away unopened, it also 
+appears that nearly half of consumers are clearly aware of the contents of the mailings 
+they receive. In other words, they have direct access to pricing and product information 
+at a time when they can make a decision.25 
+
+In sum, most consumers receive written offers of credit or insurance, and a significant 
+portion appeared to be at least somewhat familiar with the contents of the mailings, 
+including a minority who were aware of the opt-out notice. Only a relatively small 
+proportion acted on the opt-out information and had their names placed on the opt-out list 
+maintained by the CRAs. 
+
+COMPETITION 
+
+One cannot demonstrate conclusively that prescreened solicitations have had an effect on 
+the competitiveness of markets for credit cards, but the available evidence is consistent 
+with this hypothesis. Consider, for example, the uptrend in the volume of credit card 
+prescreened solicitations seeking to attract or retain customers through offers of reduced 
+interest rates and additional credit availability (see figure 1). Importantly for consumers, 
+annual percentage rates on credit card accounts have fallen over the past fifteen years. 
+Data from the Board’s reporting series FR2835 indicate that credit card interest rates fell 
+sharply from mid-1991 through early 1994, after being relatively stable for most of the 
+previous twenty years, and they fell again over the period 1998-2003.26 The decline in 
+rates from mid-1991 is the result of many factors, including the continued advancement 
+of data processing, communications technology, and credit evaluation methods such as 
+credit scoring, and the sharp drop in card issuers’ costs of funds during this period. But it 
+also seems likely that competitive factors were important in passing production and 
+financing-cost savings through to customers. In 1990, only 6 percent of credit card 
+
+25 Responses to a further question in the survey revealed that about 9 percent of those with general-
+purpose credit cards who received solicitations in the past six months had responded to a solicitation from 
+some card issuer during that time period (data not in table). 
+
+26 See Board of Governors of the Federal Reserve System (2004), The Profitability of Credit Card 
+Operations of Depository Institutions (June) (www.federalreserve.gov/boarddocs/rptcongress) for 
+discussion of this statistical series and a list of credit card interest rates by year (p. 8, table 2). 
+
+
+Unsolicited Written Offers of Credit and Insurance 35 
+
+Figure 3.	 Distribution of credit card account balances, by interest rate on account, 
+1990 and 2002 
+
+Percent 
+80 
+
+1990 
+
+6 
+
+20 
+
+73 
+
+60 
+
+40 
+
+20 
+
+Less than 5.5 5.5-10.99 11-16.49 16.5-17.99 18 or more 
+
+Interest rate (percent) 
+
+Percent 
+80 
+
+2002 
+
+15 
+
+31 
+25 
+
+3 
+
+26 
+
+60 
+
+40 
+
+20 
+
+Less than 5.5 5.5-10.99 11-16.49 16.5-17.99 18 or more 
+
+Interest rate (percent) 
+
+Source. Information Policy Institute (2003), The Fair Credit Reporting Act: Access, Efficiency & 
+Opportunity: The Economic Importance of Fair Credit Reauthorization (Washington: National Chamber 
+Foundation for the IPI), June, p. 30, table 6, www.infopolicy.org/pdf/fcra_report.pdf. 
+
+
+36 Board of Governors of the Federal Reserve System 
+
+balances were on cards carrying rates of less than 16.5 percent; by 2002, that proportion 
+was more than 70 percent (figure 3). 
+
+Furthermore, during the past decade, when prescreening has been most prevalent in the 
+credit card industry, the trade press has reported that large competitors have been active 
+in purchasing any available portfolios of card-related receivables. While on its face this 
+might appear to be an action consistent with a reduction in competition, the portfolios 
+have tended to gravitate toward the most aggressively competitive firms in the industry. 
+Furthermore, these purchases have taken place at a time when there are still hundreds of 
+active market participants, including dozens of large ones.27 
+
+In the area of insurance, the entry into the marketplace of direct issuers (firms that do not 
+rely on agents) who rely heavily on mailed prescreened solicitations for new business 
+undoubtedly has enhanced competition and provided new opportunities for consumers. 
+To the extent that consumers find this alternative attractive, other market participants 
+must respond in order to maintain competitive viability. 
+
+CONSUMERS BENEFIT FROM COST SAVINGS OF CREDITORS AND INSURERS 
+
+As discussed above, many companies that solicit new credit accounts and insurance 
+policies have found prescreening to be a cost-effective way to identify those potential 
+consumers who are likely prospects for the products they offer and to control certain risks 
+related to offering these products. In a competitive market, cost savings for creditors and 
+insurers translates into lower product prices, a greater range of choices, and wider 
+availability of credit or insurance for consumers, including those traditionally 
+underserved. 
+
+Because it lowers the costs of soliciting new customers, prescreening also gives even 
+small companies the ability to make credit and insurance available to consumers over a 
+wider geographic area. Such activities can spur competition in local markets. 
+
+27 The Board’s most recent report on the profitability of credit card plans reveals that twenty-two large 
+credit card banks (assets of more than $200 million) together held about 68 percent of bank-type credit card 
+credit outstanding (either directly or securitized) at year end 2003. This ratio does not indicate an 
+especially high concentration when compared with that of many other industries. Return on assets for these 
+specialized institutions is higher than for banks as a whole, but the difference is likely due in part to the 
+undiversified nature of their assets by product line (Board of Governors, The Profitability of Credit Card 
+Operations of Depository Institutions). 
+
+
+37
+
+
+Costs of Receiving Written Offers 
+of Credit or Insurance 
+
+The fourth issue that section 213(e)(3) of the Fact Act asks the Board to address is 
+“whether consumers incur significant costs or are otherwise adversely affected by the 
+receipt of written offers of credit or insurance.” 
+
+A review of congressional testimony, examination of available studies, discussion with 
+interested parties including members of the Federal Reserve Board’s Consumer Advisory 
+Council, and a review of public comments submitted on the present study indicate that 
+four costs or problem areas for consumers have been identified in regard to prescreened 
+offers of credit or insurance: (1) inconvenience, (2) the potential for identity theft, (3) 
+privacy implications, and (4) debt burden. 
+
+INCONVENIENCE 
+
+First, but probably least consequential among the four costs or problem areas, is the 
+inconvenience for some consumers arising from receiving unwanted prescreened 
+solicitations for insurance and credit, especially credit card accounts resulting from 
+marketing campaigns relying on prescreening. As noted above, in 2001-02 unsolicited 
+mailings to consumers of offers of credit cards reached 4 to 5 billion pieces annually. 
+Not at all clear, however, is whether the number of mailings would decline significantly, 
+or the need for consumers to dispose of mailings they do not want would diminish (the 
+major element of the inconvenience), if prescreening were not available. 
+
+If prescreening were not allowed, credit card companies and other creditors, as well as 
+insurance companies, might well switch a greater portion of their marketing effort to 
+other sorts of purchased mailing lists that did not involve prescreening. This likely would 
+lose many of the efficiencies of prescreened mailings discussed above and employ greater 
+amounts of less-efficient post-screening. A reduced ability to target solicitations to 
+qualified consumers might well lead to a larger number of mailings and might not be any 
+less inconvenient for consumers now concerned about receiving too much “junk mail.” 
+
+Nonetheless, the consumer survey asked some questions to find out a bit more about 
+consumers’ overall attitudes toward the availability of prescreened solicitation programs. 
+Following questions about voluntarily placing their name on an opt-out list, all 
+respondents (whether or not they had credit cards) were asked for their views concerning 
+government intervention in this area. The questions focused on whether they believed an 
+
+
+38 Board of Governors of the Federal Reserve System 
+
+opt-out law was a good approach and whether they thought the government should ban 
+prescreened solicitations.28 
+
+Responses to these questions exhibit a distinct preference among consumers for the 
+presence of an opt-out law, even if most do not personally employ it, but also for the 
+government not to decide whether they opt out. About 80 percent of respondents said it 
+is a good idea that there is a federal law permitting opting out, with the proportion 
+somewhat higher among card holders than others (table 6). But about 65 percent of 
+respondents indicated that they do not prefer that the government prohibit prescreened 
+solicitations, even after a majority indicated they do not open and peruse the prescreened 
+solicitations they receive. Again, this proportion is higher among those with credit cards. 
+
+Table 6. Attitudes toward the opt-out law and mail 
+solicitations for credit cards among 
+surveyed individuals, by whether the 
+individual has a credit card, 2004 
+
+Percent 
+
+Category 
+Has a 
+
+credit card 
+
+Does not 
+have a 
+
+credit card 
+All 
+
+All individuals 77.0 23.0 100 
+
+Existing federal law 
+requires opt-out option 
+Good idea 82.1 74.4 80.1 
+Bad idea 16.7 20.6 17.7 
+Do not know 1.3 4.9 2.1 
+
+Total 100 100 100 
+
+Should the government 
+prohibit solicitations? 
+Yes 26.9 49.1 31.8 
+No 70.8 49.1 65.2 
+Do not know 2.3 1.9 2.1 
+
+Total 100 100 100 
+
+Source. University of Michigan Surveys of Consumers, May 
+2004; sample is a nationally representative selection of 500 
+respondents. 
+
+28 Specifically, the first question asked, “Do you think it is a good idea or a bad idea that there is a 
+federal law that permits you to put your name on a list and then credit card companies cannot send you 
+these offers?” This question was followed immediately by a related question, “Do you think the 
+government should prohibit credit card companies from sending pre-approved offers for credit cards?” 
+
+
+Unsolicited Written Offers of Credit and Insurance 39 
+
+These findings suggest that the inconvenience associated with receiving mailings is, 
+overall, not especially great for consumers, even though they apparently frequently 
+consider the mailings “junk mail.” Although credit card holders are most likely to 
+receive prescreened solicitations for additional credit cards, and they are more likely than 
+those without cards to say that an opt-out list is a good idea, they largely do not believe 
+that government should eliminate the availability of such solicitations. Presumably this 
+feeling is associated with the view that information about new products, features, and 
+pricing is something that is worthwhile, even if only occasionally used. Although most 
+consumers appear to prefer the availability of an opt-out list, they also appear to prefer 
+that they decide the opt-out question for themselves rather than have the government ban 
+the solicitations altogether. 
+
+THE POTENTIAL FOR IDENTITY THEFT 
+
+Second, and potentially much more consequential regarding the costs of prescreened 
+solicitations, is the issue of identity theft. Theft of individuals’ identifying information, 
+including bank account numbers, Social Security numbers, and credit information, and 
+use of the information for fraudulent activities has become a major issue for law 
+enforcement. Crimes of this sort have become prevalent enough and of sufficient 
+concern that identity theft has become the recent focus of legislative activity at both the 
+federal and state levels. Indeed, title I of the Fact Act is “Identity Theft Prevention and 
+Credit History Restoration,” and fighting identity theft was one of the motivating factors 
+for passage of the act. In 2004, less than seven months after passage of the Fact Act, the 
+Congress turned again to identity theft with passage of the Identity Theft Penalty 
+Enhancement Act. The latter legislation establishes a new federal crime of “aggravated 
+identity theft” for certain kinds of identity-related criminal activity and specifies 
+penalties. 
+
+Although identity theft has become a major public issue and is costly to consumers and 
+the economic system generally, a complete review of its causes, consequences, and 
+prevention is beyond the scope of this study, which involves only unsolicited written 
+offers of credit and insurance. Nonetheless, because some observers connect prescreened 
+offers with the possibility of identity theft, some examination is warranted. 
+Consequently, this section looks at congressional testimony on the subject along with a 
+review of studies done by others, public comments, and findings on the subject from the 
+consumer survey. 
+
+Definition of Identity Theft 
+
+The definition of identity theft has varied among observers of financial institutions and 
+others interested in the question. The significance of these variations was evident at a 
+February 2004 one-day conference in Philadelphia on the problem of identity theft, which 
+
+
+40 Board of Governors of the Federal Reserve System 
+
+devoted one of its five sessions to the question of defining identity theft.29 Variations in 
+the definition of identity theft result in varying assessments of its frequency and 
+significance. 
+
+Discussions at the Philadelphia conference showed that law enforcement agencies usually 
+employ what might be called a broad definition of identity theft. Such a definition 
+encompasses any misconduct in the use of a consumer’s identifying information, 
+including the theft or misuse of credit cards or card numbers, but it also includes frauds 
+involving employment, government documents, and telecommunications and utilities. 
+Under a definition of this kind, frauds arising from lost credit cards, inappropriate use of 
+credit cards by relatives, or even the use of cards after a wallet theft or purse snatching 
+could be considered identity theft. For law enforcement agencies, credit card fraud is 
+sometimes associated with a violent robbery but usually not, and the subtleties of a 
+narrower definition of identity theft are not typically necessary for their purposes. 
+
+In contrast, financial institutions often use a narrower definition of identity theft that 
+focuses on the acquisition of new credit accounts or the takeover of existing accounts by, 
+for example, making unauthorized changes to the addresses on accounts and applying for 
+new credit cards or personal identification numbers (PINs). Under this narrower 
+definition, traditional payment fraud, such as fraud resulting from lost, stolen, or misused 
+credit cards or card numbers, is not identity theft. Financial institutions prefer this 
+narrower definition because their security forces and procedures employ different fraud-
+prevention techniques to counteract different types of fraud-related behaviors. For 
+financial institutions and their security officials, preventing “identity theft” under their 
+definition involves controls on procedures when opening new accounts or changing 
+consumer information such as addresses on existing accounts. On the other hand, 
+traditional payment fraud is controlled by other means, such as requiring PINs at 
+automated teller machines or using computer programs to monitor accounts for signs of 
+unusual activity. 
+
+Attending to the details of the definition are important because the different definitions 
+produce substantially different estimates of the volume of identity theft. The Consumer 
+Sentinel database developed and maintained by the FTC makes available to law 
+enforcement agencies complaints about fraudulent activities received by the FTC and 
+more than 100 other organizations.30 Under a broad definition of identity theft, this 
+source suggests that about 42 percent of complaints of fraud posted to the database in 
+2003 consisted of identity theft. The majority of these involved telephone or utilities 
+fraud, employment fraud, government documents fraud, and other bank fraud. The 
+
+29 The February 10, 2004, conference at the Federal Reserve Bank of Philadelphia, entitled “Identity 
+Theft: Where Do We Go From Here?” was sponsored by the Payment Cards Center of the Federal Reserve 
+Bank of Philadelphia and the Gartner Fellows Program; for a summary of the conference, see Julia S. 
+Cheney (2004), “Identity Theft: Where Do We Go From Here?” conference summary, Payment Cards 
+Center, Federal Reserve Bank of Philadelphia (April), www.phil.frb.org/pcc/papers/identitytheft_0404.pdf. 
+
+30 See Federal Trade Commission (2004), National and State Trends in Fraud & Identity Theft, 
+January-December 2003 (Washington: FTC, January 22). 
+
+
+Unsolicited Written Offers of Credit and Insurance 41 
+
+database characterized about 8 percent of the total of cases received as “new account” 
+credit card fraud.31 This smaller number is closer to the narrow definition of identity 
+theft used by financial institutions. 
+
+Another study released by the FTC contains some estimates of the absolute magnitude of 
+identity theft.32 Using a nationwide consumer survey, the FTC found that about 1.5 
+percent of respondents said that they had been victims of new-account and other sorts of 
+identity fraud in the past year. The cases included misuse of identifying information 
+when someone is charged with a crime, for renting an apartment, or when obtaining 
+medical care, and excluded the misuse of credit card numbers on existing accounts. 
+However, the incidence of fraud rose to 4.7 percent of respondents when the previous 
+five years are included. According to the study, 4.7 percent represents about 10 million 
+individuals, not all of them, of course, victims of credit card fraud.33 Some of them 
+experienced more than one type of identity theft over this period, and the survey results 
+refer to the most serious incident reported. 
+
+Prescreening and Identity Theft 
+
+For the purposes of this report, the question is not how much identity theft occurs but 
+rather how much is due to crimes involving prescreened solicitations for new accounts. 
+There is only very limited specific information available about this volume, but it seems 
+that, for a number of reasons, identity theft crimes arising from prescreened solicitations 
+account for only a small amount of identity theft under either a broad or narrow definition 
+of the crime. 
+
+First, prescreened solicitations typically do not contain information of a sensitive nature 
+that would be useful to a thief. The primary information that would become available to 
+a thief is the recipient’s name and mailing address, along with, of course, the information 
+that the intended recipient is considered creditworthy by someone. The recipient’s name 
+and address are available from many sources, including the telephone book, mailing lists, 
+the Internet, and even other mail that might also be stolen, including such mundane items 
+as bills, newspapers, and magazines. In addition, evidence of creditworthiness is less 
+than a striking revelation about most members of the population because most are 
+creditworthy to some degree.34 
+
+31 Federal Trade Commission, National and State Trends, p. 10. Nineteen percent of 42 percent equals 
+about 8 percent. 
+
+32 Federal Trade Commission (2003), Identity Theft Survey Report (Washington: FTC, September). 
+33 This study separates crimes involving existing credit card accounts from other cases of identity 
+
+fraud, but it does not specifically identify fraud involving new credit card accounts. 
+34 The consumer survey results discussed above suggest that as many as 85 percent of households are 
+
+sufficiently creditworthy to receive prescreened solicitations for credit cards. Some of the remainder have 
+opted out. As noted earlier, credit scores indicate that more than 73 percent of consumers in the Board 
+sample of credit reports would be regarded prime borrowers in many credit programs. 
+
+
+42 Board of Governors of the Federal Reserve System 
+
+Second, the fraud control systems of the card issuers work best for situations, such as 
+those related to prescreened solicitations, in which the card issuer already knows a bit 
+about the customer and can use this information to help with verification of responses to 
+the solicitation.35 If, for example, a thief steals a prescreened solicitation and sends a 
+false response to the card issuer, the incoming returned document still faces a variety of 
+fraud controls, including the requirement that activation of the card be completed with a 
+call from the home telephone. In particular, if the thief requests a change of address to 
+complete the theft, the returned solicitation is automatically directed to fraud control, 
+since it exhibits characteristics that raise concerns. The card issuing firm may still 
+eventually issue the card, but not without further screening that often includes manual 
+checking of the address change request by telephone or other means out of the control of 
+the potential thief. 
+
+Such control systems apparently are a large part of the reason why card issuers estimate 
+that only a small portion of credit card fraud arises from prescreened solicitations. There 
+is almost no publicly available information about the volume of losses arising from 
+prescreened solicitations, but information that is available suggests the total is 
+comparatively small. According to a report of an interview with a large card issuer, 
+“prescreening has the lowest incidence rate of application fraud versus other application 
+channels.” This issuer told the Information Policy Institute that the fraudulent use of 
+prescreened solicitations “accounts for less than 20 percent of identity theft losses at the 
+company, which in turn constitute only a small fraction of its total fraud losses.” 
+According to the issuer, most application fraud involving prescreened offers is committed 
+by “someone familiar to the victim,” such as a family member or relative.36 The 
+Information Policy Institute concludes that limitations on prescreening as a method of 
+new account acquisition likely will increase identity theft because prescreening is now 
+such an important channel for acquiring new accounts, and other acquisition channels are 
+associated with greater amounts of identity theft than prescreened solicitations.37 
+
+In congressional testimony on June 19, 2003, an executive at Chase Cardmember 
+Services documented the infrequent nature of identity theft associated with prescreened 
+solicitations and some of the reasons for its infrequency.38 According to Chase, identity 
+theft that “involves the unlawful acquisition and use of another person’s information to 
+obtain credit, or the use of that information to create a fictitious identity to establish an 
+account” amounts to only about 3 percent of their fraud cases. Closely related account-
+takeover fraud amounts to about 1 percent of their fraud cases.39 
+
+35 A flow chart of the entire process associated with a prescreened solicitation program appears in 
+Information Policy Institute, The Fair Credit Reporting Act, appendix F, pp. 91-93. 
+
+36 Quoted passages are from Information Policy Institute, The Fair Credit Reporting Act, p. 61. 
+37 Information Policy Institute, The Fair Credit Reporting Act, p. 62. 
+38 Michael D. Cunningham (2003), “Statement,” in The Fair Credit Reporting Act and Issues 
+
+Presented by Reauthorization of the Expiring Preemption Provisions, Hearings before the Committee on 
+Banking, Housing, and Urban Affairs, U.S. Senate, May 20, June 19, and July 10, 29, and 31, Senate 
+Hearing 108-579, 108 Cong. (Washington: Government Printing Office), pp. 99-101. 
+
+39 Cunningham, “Statement,” p. 100. 
+
+
+Unsolicited Written Offers of Credit and Insurance 43 
+
+To complete a fraudulent application, a potential thief would also need not only name and 
+address but also certain unique identifiers such as mother’s maiden name, Social Security 
+number, and other information such as mortgage payments. According to Chase, the 
+need for personal information is the reason that 40 percent of the small proportion of such 
+cases arises from persons familiar to the victim, often family members or those in 
+positions of trust. For the company, identity theft involving prescreened accounts 
+amounted to 600 out of 75,000 fraud cases in 2002 (less than 1 percent) and out of 17 
+million active card accounts (less than 0.004 percent). The 600 cases in 2002 were less 
+than 0.04 percent of the 1.6 million new accounts opened by Chase that year through 
+prescreened solicitations.40 
+
+Although such evidence shows that fraud of this sort exists, it also suggests that the 
+incidence is relatively small because there are means to contain it, and much of the 
+remainder arises from family members or associates, who are difficult to control. It does 
+not seem that the existence of prescreened solicitations is likely to make the identity theft 
+situation noticeably worse. It would be easy enough for someone familiar with the 
+victim’s identity information, such as a disgruntled family member or dedicated thief, to 
+apply for credit using a false identity through normal “take one” brochures or Internet 
+channels without waiting for a prescreened mailing, which does not contain much 
+identifying information anyway. As the testimony of Chase pointed out, most identity 
+thieves are not going to take the approach of submitting an application subject to 
+verification of information that is generally not easily available to thieves who are not 
+family members. 
+
+Also, the Fact Act contains two provisions dealing with prescreened solicitations that are 
+designed, at least in part, to address identify theft issues. First, if a consumer places an 
+extended fraud alert in his or her file at a CRA, the CRA must exclude the consumer from 
+prescreened lists for five years, unless the consumer requests otherwise. Second, if a 
+consumer places an active-duty military alert in his or her file at a CRA, the CRA must 
+exclude that consumer from prescreened lists for two years, unless the consumer requests 
+otherwise. 
+
+PRIVACY IMPLICATIONS 
+
+Third among potential consumer costs associated with prescreening are the privacy 
+implications of prescreened solicitations. Some consumers may be concerned that 
+creditors or insurers may have access to the consumer’s financial information held by 
+CRAs before the consumer has indicated an interest in a creditor’s or insurer’s products. 
+Consumers also may be concerned that once creditors or insurers obtain this financial 
+information, these creditors or insurers may use the information for inappropriate 
+purposes or share the information with other parties. As with inconvenience, however, 
+
+40 Cunningham, “Statement,” p. 100. 
+
+
+44 Board of Governors of the Federal Reserve System 
+
+prescreened solicitations do not appear to raise substantial privacy problems for a number 
+of reasons, and for those especially concerned with privacy, opting out seems easy 
+enough, as discussed previously, and provides an effective means for consumers to act on 
+their concerns. 
+
+The Fair Credit Reporting Act itself contains several provisions designed, at least in part, 
+to address privacy concerns related to prescreened solicitations. Most important, under 
+the FCRA, consumers have the right to opt out of receiving prescreened solicitations if 
+they do not want their consumer report information to be used for prescreening purposes. 
+And, under the FCRA, creditors and insurers must inform consumers of this opt-out right 
+in each prescreened solicitation they send out. 
+
+For consumers who do not opt out, creditors and insurers have only limited access to 
+information in CRA files at the prescreening phase: (1) the name and address of the 
+consumer, (2) an identifier that is not unique to the consumer and that is used by the 
+person solely for the purpose of verifying the identity of the consumer (such as a partial 
+social security number), and (3) other information about the consumer that does not 
+identify the relationship or experience of the consumer with a particular creditor or other 
+entity. Also, the creditor or insurer would know that each consumer on the list at least 
+meets the credit criteria used to generate the prescreened list but would not receive a 
+consumer’s specific credit information, such as a credit score, from the CRA as part of 
+the prescreening process. 
+
+Creditors or insurers may use the limited information that they receive from the CRAs (as 
+described above) for the purpose of providing a “firm” offer of credit or insurance to the 
+consumer and verifying information provided by the consumer if the consumer responds 
+to the prescreened solicitation. The creditor or insurer generally may not use that 
+information for other marketing purposes. 
+
+Creditors or insurers generally do not share information received from CRAs with parties 
+that are not affiliated with the creditors or insurers. If they shared this information with 
+such nonaffiliated third parties, they would run the risk of becoming a “consumer 
+reporting agency” under the FCRA, and most creditors and insurers do not want to be 
+regulated as CRAs. Also, creditors or insurers may share consumer report information 
+about a consumer received from CRAs with companies that are affiliated with the 
+creditors or insurers, but they may do so only if the creditors or insurers provide the 
+consumer an opportunity to opt out of the sharing and then only if the consumer does not 
+opt out. Again, creditors and insurers provide this opt out before sharing such 
+information to avoid the risk of becoming CRAs. 
+
+DEBT BURDEN 
+
+Finally, some observers suggest that prescreening can lead to overburdening of 
+consumers with debt. As with any advertising campaign, the goal of credit solicitation is 
+
+
+Unsolicited Written Offers of Credit and Insurance 45 
+
+to sell more products, and, as with any advertising campaign, there is the chance that it 
+will be successful. A number of pieces of evidence suggest that prescreened solicitations 
+for credit cards or other forms of credit have not caused excessive indebtedness among 
+large segments of the public (although there likely are individuals who have been so 
+affected by prescreened solicitations). 
+
+One piece of evidence is that a large element of competition in the credit area in recent 
+years has consisted of attempts by lenders to take borrowers from other lenders rather 
+than to add to debt levels. An example of these attempts is the widespread and important 
+marketing approach of offering balance transfers at low annual percentage rates on credit 
+cards. A switch in credit source brought about by a balance transfer does not, by itself, 
+produce an increase in total indebtedness. 
+
+Second, most prescreened solicitations are unproductive, as evidenced by recent response 
+rates of about 0.5 percent for a given campaign (figure 1). Consumer survey results 
+indicate that only about 6 percent of consumers had responded to a solicitation for a new 
+or replacement card in the previous six months, and probably only a fraction of those 
+were in any debt difficulty sufficient to cause payment problems, because in that case 
+such consumers would not likely have received prescreened solicitations. As mentioned 
+previously, low solicitation acceptance rates do not mean that the wide circulation of 
+pricing and product information due to these programs is not useful in promoting 
+competition; but it does cast some doubt on the hypothesis that the solicitations, by 
+themselves, result in widespread overindebtedness. Although some cases of consumer 
+overindebtedness arising from solicitations for new credit accounts undoubtedly occur, it 
+is not clear that the elimination of prescreened solicitations would meaningfully reduce 
+the current incidence of overindebtedness. 
+
+Furthermore, the relationship of required debt service and financial obligations to income 
+does not suggest that the burden in these areas has increased in recent years as much as is 
+sometimes believed. The Federal Reserve Board regularly estimates the aggregate 
+consumer debt service ratio and the broader financial obligations ratio. These ratios 
+represent aggregates and do not necessarily indicate the experience of the typical 
+household. Although the trend in the ratios in recent years has been upward, they have 
+fluctuated within only a few percentage points over the past fifteen years and, as of mid-
+2004 were not at their highest levels.41 However, a rise in the proportion of households 
+filing for bankruptcy over the same period indicates increasing difficulties among some 
+consumers in managing their debts in the face of changing personal circumstances such 
+as loss of employment. 
+
+Finally, results of the present study’s survey of consumers reveal that some of the anxiety 
+about overindebtedness appears to arise from consumers’ concerns about the 
+
+41 For extended discussion of these ratios and measurements of the burden of debt service and financial 
+obligations, see Karen Dynan, Kathleen Johnson, and Karen Pence (2003), “Recent Changes to a Measure 
+of U.S. Household Debt Service,” Federal Reserve Bulletin, vol. 89 (October), pp. 417-26. 
+
+
+46 Board of Governors of the Federal Reserve System 
+
+hypothesized experiences of unknown others rather than from these consumers’ actual 
+experiences. To probe this issue, respondents were asked whether written offers of credit 
+caused others to use too much credit. About 85 percent of respondents indicated that it 
+did. In contrast, when asked the same question about themselves, the responses provided 
+a mirror image; only 15 percent of respondents believed that prescreened solicitations had 
+caused them to use too much credit. 
+
+
+47 
+
+Potential Effects of Further Restrictions on Written 
+Offers of Credit or Insurance 
+
+The fifth issue that section 213(e)(3) of the Fact Act asks the Board to address is 
+“whether further restricting the ability of lenders and insurers to provide written offers of 
+credit or insurance to consumers would affect: (i) the cost consumers pay to obtain credit 
+or insurance; (ii) the availability of credit or insurance; (iii) consumers’ knowledge about 
+new or alternative products and services; (iv) the ability of lenders or insurers to compete 
+with one another; and (v) the ability to offer credit or insurance products to consumers 
+who have been traditionally underserved.” 
+
+As discussed in this report, it appears that written offers of credit and insurance sent 
+directly to consumers, often resulting from prescreened solicitation lists using credit 
+records in the files of CRAs, have the potential to increase competition in the market for 
+the relevant consumer financial services. Available evidence suggests that the markets 
+for credit cards and insurance have become more competitive over time, and it seems that 
+prescreened solicitations have contributed to this development. 
+
+As noted, the primary benefits of competition consist of lower prices and an increased 
+availability of the product or service in question. As a result, it is reasonable to conclude 
+that further restrictions on the ability of lenders and insurers to provide written offers of 
+credit or insurance to consumers would on balance result in a less competitive 
+marketplace and thus relatively higher prices and reduced availability. 
+
+It is difficult to see how further restrictions on the ability of lenders and insurers to 
+provide written offers of credit or insurance to consumers would improve the condition of 
+those individuals or groups of individuals who might have been underserved in the past. 
+More competition would presumably serve the interests of consumers better than less 
+competition. Also, prescreening allows marketing to a larger audience of creditworthy 
+individuals, including those in the low- and moderate-income bracket who have a need 
+for credit but may not otherwise apply due to fear of being turned down. 
+
+It also is difficult to see how reducing the amounts of direct, tailored information sent to 
+consumers on the availability and pricing of financial services would improve their 
+“knowledge about new or alternative products and services.” In today’s marketplace, 
+consumers receive vast amounts of information about the availability of credit and 
+insurance. Those sending the prescreened solicitations must tailor the offerings to the 
+actual conditions of recipients because they must be “firm offers of credit or insurance.” 
+Such information is much more likely to reflect actual market conditions than 
+advertisements that have few restraints on the claims made or the characteristics of the 
+underlying arrangements. Without prescreening, consumers would be less certain about 
+whether or not they would qualify for favorable terms on the various credit or insurance 
+
+
+48 Board of Governors of the Federal Reserve System 
+
+products available in the marketplace and might expend valuable time and effort pursuing 
+products for which they do not qualify. 
+
+Moreover, restrictions on sending prescreened solicitations are likely to cause creditors 
+and insurers to use less-efficient techniques to market their services, including additional 
+mailings to prospective customers and to those unqualified for the product or service. 
+The additional mailings would result in higher costs and ultimately higher prices to 
+consumers, greater unease for those sensitive to privacy issues, and potentially more 
+incidences of identity theft. 
+
+The fact that approximately 20 million consumers have placed their names on the opt-out 
+lists maintained by the national CRAs suggests that it is not especially difficult to avoid 
+written offers of credit or insurance if so desired. Further, consumer survey responses 
+reveal relatively little support for further government restrictions in this area. 
+
+Finally, any further legislative or regulatory changes to the opt-out system should be 
+informed by an evaluation of the effects of several new provisions of the Fact Act. In 
+particular, the Fact Act provides further enhancements to the opt-out notice provisions of 
+the FCRA, including a review of the presentation and placement of the notice in written 
+prescreened solicitations and an extension of the opt-out period from two years to five 
+years. The Congress has also directed the FTC to raise public awareness of opt-out 
+rights. 
+
+
+49
+
+
+Appendix A:
+
+Section 213(e) of the Fair and Accurate
+
+Credit Transactions Act of 2003
+
+
+(e) ANALYSIS OF FURTHER RESTRICTIONS ON OFFERS OF CREDIT OR INSURANCE.— 
+
+(1) IN GENERAL.—The Board shall conduct a study of— 
+
+(A) the ability of consumers to avoid receiving written offers of credit or 
+insurance in connection with transactions not initiated by the consumer; and 
+
+(B) the potential impact that any further restrictions on providing consumers with 
+such written offers of credit or insurance would have on consumers. 
+
+(2) REPORT.—The Board shall submit a report summarizing the results of the study 
+required under paragraph (1) to the Congress not later than 12 months after the date of 
+enactment of this Act, together with such recommendations for legislative or 
+administrative action as the Board may determine to be appropriate. 
+
+(3) CONTENT OF REPORT.—The report described in paragraph (2) shall address the 
+following issues: 
+
+(A) The current statutory or voluntary mechanisms that are available to a 
+consumer to notify lenders and insurance providers that the consumer does not 
+wish to receive written offers of credit or insurance. 
+
+(B) The extent to which consumers are currently utilizing existing statutory and 
+voluntary mechanisms to avoid receiving offers of credit or insurance. 
+
+(C) The benefits provided to consumers as a result of receiving written offers of 
+credit or insurance. 
+
+(D) Whether consumers incur significant costs or are otherwise adversely 
+affected by the receipt of written offers of credit or insurance. 
+
+(E) Whether further restricting the ability of lenders and insurers to provide 
+written offers of credit or insurance to consumers would affect— 
+
+(i) the cost consumers pay to obtain credit or insurance;
+
+(ii) the availability of credit or insurance;
+
+(iii) consumers’ knowledge about new or alternative products and
+
+services;
+
+(iv) the ability of lenders or insurers to compete with one another; and
+
+(v) the ability to offer credit or insurance products to consumers
+
+who have been traditionally underserved.
+
+
+
+50 
+
+Appendix B:
+
+Age and Census Tract Characteristics of Individuals
+
+in the Credit Record Sample
+
+
+AGE 
+
+Credit records include information that can be used to determine the age of the individual. The 
+sample data indicate that older individuals are much more likely to opt out of receiving 
+prescreened mail solicitations for credit or insurance than younger persons. About 10 percent of 
+those age 55 and older have opted out, compared with 3 percent of individuals under the age of 
+25 (table B.1). Younger individuals may be more likely to need credit in the future and for this 
+reason less inclined to limit the number of credit offers they receive in the mail. It is also likely 
+that younger individuals have received fewer prescreened solicitations and may be less aware of 
+the opt-out option. 
+
+URBAN, SUBURBAN, OR RURAL RESIDENCE 
+
+The Bureau of the Census categorizes all areas of the country according to three levels, or 
+degrees, of urbanization: urban, suburban, and rural. (Urban and suburban areas constitute 
+metropolitan areas as defined by the Office of Management and Budget; rural areas constitute 
+nonmetropolitan areas.) The sample data indicate that individuals residing in the suburbs are 
+most likely to opt out, and those in rural areas are least likely to do so. 
+
+RELATIVE INCOME OF CENSUS TRACT 
+
+The sample data also include state, county, and census tract indicators for the individuals in the 
+sample. For this analysis each census tract was placed into one of four relative income categories 
+by comparing the median family income of the census tract to the median family income of the 
+broader area in which it is located (incomes were as of the 2000 decennial census).42 For a census 
+tract in a metropolitan (that is, urban or suburban) area, the comparison is to the median family 
+income of the metropolitan area in which the census tract is located; for each rural census tract, 
+the comparison is to the median family income of the nonmetropolitan portion of its state (table 
+B.1). 
+
+Individuals residing in lower-income areas (incomes less than 80 percent of the broader area 
+median) have the lowest incidence of opting out (2.6 percent), while those in the highest-income 
+areas (incomes 120 percent or more of the broader area medians) have the greatest incidence of 
+opting out (9.5 percent). These patterns are consistent with differences in the use of credit by the 
+residents of these areas; residents of higher-income areas, for example, have more credit 
+accounts, on average, than residents of lower-income areas (data not shown in tables). As noted 
+
+42 The four income categories correspond to the income groups used to measure the records of banking 
+institutions in complying with the Community Reinvestment Act. 
+
+
+Unsolicited Written Offers of Credit and Insurance 51 
+
+Table B.1.	 Opt-out choice, by age of individuals with credit records and census 
+tract characteristic of residence, June 30, 2003 
+
+Percent 
+
+Item All 
+
+Distribution of 
+opt-out choice, 
+
+by characteristic 
+
+Distribution of characteristic, 
+by opt-out choice 
+
+Opted 
+out 
+
+Did not 
+opt out 
+
+Opted 
+out 
+
+Did not 
+opt out 
+
+Total 
+
+Age (years) 
+Under 25 7.0 2.4 7.4 2.9 97.1 100 
+25–34 18.0 14.3 18.3 6.8 93.2 100 
+35–54 43.4 44.9 43.3 8.8 91.2 100 
+55–64 14.3 17.5 13.9 10.5 90.0 100 
+64 or more 17.4 20.8 17.1 10.3 89.8 100 
+
+Total 
+
+Census tract 
+characteristic 
+Degree of 
+
+urbanization 
+
+100 100 100 . . . . . . . . . 
+
+Urban 36.5 34.8 36.6 6.1 94.0 100 
+Suburban 45.0 52.4 44.5 7.4 92.6 100 
+Rural 18.5 12.7 18.9 4.4 95.6 100 
+
+Total 
+
+Income (percent)1 
+
+100 100 100 . . . . . . . . . 
+
+Less than 50 4.4 1.8 4.6 2.6 97.4 100 
+50–79 20.5 13.4 21.0 4.1 95.9 100 
+80–119 50.2 47.7 50.4 6.0 94.0 100 
+120 or more 24.9 37.1 24.0 9.5 90.5 100 
+
+Total 
+
+Percentage of racial 
+or ethnic 
+minorities in 
+the population 
+
+100 100 100 . . . . . . . . . 
+
+Less than 10 32.4 36.8 32.1 7.2 92.8 100 
+10–19 19.0 23.7 18.7 7.9 92.1 100 
+20–49 25.5 25.4 25.5 6.3 93.7 100 
+50–79 12.4 8.6 12.5 4.5 95.6 100 
+80 or more 10.9 5.5 11.2 3.2 96.8 100 
+
+Total 100 100 100 . . . . . . . . . 
+
+Note. Sample is a nationally representative selection of 301,536 individuals with credit 
+records in the database of a consumer reporting agency as of June 30, 2003. 
+
+1. The median family income of the census tract divided by that of a wider area. For 
+metropolitan-area (that is, urban and suburban) census tracts, the wider area is the 
+metropolitan area of the census tract; for rural census tracts, the wider area is the 
+nonmetropolitan portion of its state. 
+
+. . . Not applicable. 
+
+
+52 Board of Governors of the Federal Reserve System 
+
+in the main text, individuals with more accounts may not feel the need to receive additional 
+solicitations, or they may be more aware of the opt-out option. 
+
+RACIAL OR ETHNIC COMPOSITION OF CENSUS TRACT 
+
+Finally, census tracts were categorized according to the racial and ethnic composition of their 
+populations (table B.1). The sample data indicate that individuals residing in areas with a 
+relatively low concentration of racial and ethnic minorities (population less than 10 percent 
+minority) are more than twice as likely to opt out as individuals residing in predominantly 
+minority areas (population at least 80 percent minority). These patterns are consistent with 
+differences in the use of credit. Residents of predominantly nonminority areas, for example, have 
+more credit accounts, on average, than residents of predominantly minority areas (data not shown 
+in tables). Once again, individuals with more accounts may not feel the need to receive additional 
+solicitations, or they may be more aware of the possibility of opting out. 
+

@@ -1,0 +1,1252 @@
+
+The Supervisory Capital Assessment Program: 
+Design and Implementation 
+
+April 24, 2009 
+
+Board of Governors of the Federal Reserve System 
+
+
+The Supervisory Capital Assessment Program: 
+Design and Implementation 
+
+Table of Contents 
+
+I. Introduction and Executive Summary page 1 
+
+II. Program Design page 2 
+
+A. Discussion of SCAP Framework page 2 
+
+B. General Description of the Exercise page 4 
+
+C. Initial Guidance on Macroeconomic Scenarios page 5 
+
+D. Initial Guidance on Loss and Resource Calculations page 8 
+
+Box: Assessing Capital Needs in an Uncertain World page 10 
+
+III. Supervisory Review and Assessment page 10 
+
+A. Supervisory Review of the BHC Submissions and Benchmark 
+
+Assessments page 10 
+
+B. Supervisory Review and Benchmark Assessments by Category page 12 
+
+C. Accounting Adjustments page 16 
+
+D. Determination of Capital Needs page 16 
+
+Appendix: The SCAP Templates page 18 
+
+
+The Supervisory Capital Assessment Program: 
+Design and Implementation 
+
+I. Introduction and Executive Summary 
+Most U.S. banking organizations currently have capital levels well in excess of the amounts 
+
+required to be well capitalized. However, losses associated with the deepening recession and financial 
+
+market turmoil have substantially reduced the capital of some banks. Lower overall levels of capital— 
+
+especially common equity—along with the uncertain economic environment have eroded public 
+
+confidence in the amount and quality of capital held by some firms, which is impairing the ability of the 
+
+banking system overall to perform its critical role of credit intermediation. Given the heightened 
+
+uncertainty around the future course of the U.S. economy and potential losses in the banking system, 
+
+supervisors believe it prudent for large bank holding companies (BHCs) to hold additional capital to 
+
+provide a buffer against higher losses than generally expected, and still remain sufficiently capitalized at 
+
+over the next two years and able to lend to creditworthy borrowers should such losses materialize. The 
+
+purpose of the Supervisory Capital Assessment Program (SCAP), which is being conducted by the 
+
+supervisory agencies, is to assess the size of these capital needs. 
+
+The SCAP is a forward-looking exercise designed to estimate losses, revenues, and reserve needs 
+
+for BHCs in 2009 and 2010 under two macroeconomic scenarios, including one that is more adverse 
+
+than expected. Should the assessment indicate the need for a BHC to raise capital or improve the 
+
+quality of its capital to better withstand losses that could occur under more stressful-than-expected 
+
+conditions, supervisors will expect that firm to augment its capital to create a buffer. This buffer would 
+
+be drawn down over time if losses were to occur. In evaluating the SCAP results, it is important to 
+
+recognize that the assessment is a "what if" exercise intended to help supervisors gauge the extent of 
+
+additional capital needs across a range of potential economic outcomes. A need for additional capital or 
+
+a change in composition of capital to build a buffer under an economic scenario that is more adverse 
+
+than expected is not a measure of the current solvency or viability of the firm. 
+
+This paper describes the SCAP process conducted by the federal bank regulatory agencies (the 
+agencies) from Feb. 25, 2009 through late April of 2009.1 [Footnote 1. The federal bank regulatory agencies that 
+participated in the SCAP are the Board of Governors of the Federal Reserve System, the Federal Reserve Banks, 
+the Federal Deposit Insurance Corporation, and the Office of the Comptroller of the Currency. End footnote 1.] All 
+domestic BHCs with year-end 2008 assets exceeding $100 billion were required to participate in the SCAP as part 
+of the ongoing supervisory process. These 19 firms collectively hold two-thirds of the assets and more than one-half 
+of the loans in the U.S. banking system, and support a very significant portion of the credit intermediation done by 
+the banking sector. The firms were asked to project their credit losses and revenues for the two years 2009 
+and 2010, including the level of reserves that would be needed at the end of 2010 to cover expected 
+losses in 2011, under two alternative economic scenarios. The baseline scenario reflected the consensus 
+expectation in February 2009 among professional forecasters on the depth and duration of the 
+recession, while the more adverse scenario was designed to characterize a recession that is longer and 
+more severe than the consensus expectation. The firms were also asked to provide supporting 
+documentation for their projected losses and resources, including information on projected income and 
+
+
+[page 2] 
+
+expenses by major category, domestic and international portfolio characteristics, forecast methods, and 
+
+important assumptions. 
+
+The SCAP process was extensive. In early March, firms submitted their projections to the 
+
+agencies, which included significant amounts of detailed data. Supervisory teams, organized by specific 
+
+asset classes, revenues, and reserves, evaluated the substance and quality of the initial submissions and, 
+
+where appropriate, requested additional data or evaluation of the sensitivity of projections to 
+
+alternative assumptions. The supervisors also developed independent benchmarks based on f i rm-
+
+specific portfolio characteristics against which they evaluated the appropriateness of the firms' 
+
+projections for losses and resources that would be available to absorb losses. Results for each f i rm also 
+
+were evaluated to assess the sensitivity of the f i rm to changes in the economy based on projections 
+
+under the baseline and the more adverse scenarios. The evaluations drew on the expertise of more 
+
+than 150 senior supervisors, on-site examiners, analysts, and economists from the agencies. Senior 
+
+supervisory officials made the determination of the necessary capital buffer for each BHC. 
+
+While the SCAP is conceptually similar to stress tests that firms undertake as part of their 
+
+ongoing risk management, the objective of this program was to conduct a comprehensive and 
+
+consistent assessment simultaneously across the 19 largest BHCs using a common set of macroeconomic 
+
+scenarios, and a common forward-looking conceptual framework. This framework allowed supervisors 
+
+to apply a consistent and systematic approach across the group to evaluate the projected loss and 
+
+resource estimates submitted by the firms. The extensive information on the characteristics of loan, 
+
+trading, and securities portfolios and modeling methods provided by these institutions allowed 
+
+supervisors to conduct a cross-firm analysis and assess the projections. In addition, the SCAP is 
+
+considerably more comprehensive than stress tests that focus on individual business lines, because it 
+
+simultaneously incorporates all of the major assets and the revenue sources of each of the firms. 
+
+As discussed in the interagency statement released on February 10, the SCAP may result in a 
+
+determination that a BHC may need to augment its capital base to establish a buffer. This capital buffer 
+
+should position the largest BHCs to continue to play their critical role as intermediaries, even in a more 
+
+challenging economic environment. The United States Treasury has committed to make capital available 
+
+to eligible BHCs through the Capital Assistance Program as described in the Term Sheet released on 
+
+February 25. In addition, BHCs can also apply to Treasury to exchange their existing Capital Purchase 
+
+Program preferred stock to help meet their buffer requirement. 
+
+Section II describes the program design of the SCAP and Section III provides detail on how the 
+
+assessment of losses and revenues were conducted, and how the capital need was calculated. 
+
+II. Program Design 
+
+This section provides a discussion of the SCAP framework, a general description of the process, 
+
+the guidance given to BHCs, and the projections that the participating BHCs were asked to make. 
+
+II. A. Discussion of SCAP Analytical Framework 
+
+The SCAP process involves the projection of losses on loans, assets held in investment portfolios, 
+
+and trading-related exposures, as well as the firm's capacity to absorb losses in order to determine a 
+
+sufficient capital level to support lending under a worse-than-expected macroeconomic scenario. The 
+
+
+[page 3] 
+
+traditional role of capital, especially common equity, is to absorb unexpected losses and thus to protect 
+depositors and other creditors. Given the heightened uncertainty about the economy and potential 
+losses in the banking system, and the potential in the current environment for adverse economic 
+outcomes to be magnified through the banking system, supervisors believe it prudent for large BHCs to 
+hold substantial capital to absorb losses should the economic downturn be longer and deeper than now 
+anticipated. The SCAP was designed to assess these capital needs as part of the ongoing supervisory 
+process. The program is consistent with current regulatory capital guidelines, which require BHCs to 
+hold capital commensurate with their risks, and to generally hold a dominant share of their regulatory 
+capital in the form of common equity. 
+The SCAP was designed under the assumption that the institutions continue to operate under 
+the regulatory and accounting frameworks existing as of December 31, 2008 and considering the effect 
+of significant changes that have or are expected to occur during the next two years.2 [Footnote 2. Significant 
+changes in accounting considered included the recently issued Financial Accounting Standards Boards Financial 
+Staff Position FAS 115-2 and FAS 124-2, Recognition and Presentation of Other-Than-Temporary Impairments 
+that is effective in 2009 and expected changes to consolidation accounting that will be effective in 2010. 
+End footnote 2.] Loans held in portfolio subject to accrual accounting are carried at amortized cost, net of an 
+allowance for loan losses. The use of accrual accounting for these assets is based on BHCs' intent and ability to 
+hold these loans to maturity, which reflects, in part, a combination of more stable deposit funding and information 
+advantages about the quality of the loans they underwrite. The economic value of loans in the accrual 
+book is reduced through the loan loss reserving process when repayment becomes doubtful, but is not 
+reduced for fluctuations in market prices, which may be driven by market liquidity considerations, if 
+those factors do not affect the ultimate likelihood of repayment. The adherence of SCAP to current 
+practices is important because the majority of assets at most of the BHCs participating in the SCAP are 
+loans that are booked on an accrual basis. As a result of the loss recognition framework for assets in the 
+accrual loan book, the results of this exercise are not comparable with those that would evaluate such 
+assets on a mark-to-market basis. 
+The SCAP analysis is forward looking, but over a limited time horizon. Losses and resources are 
+projected over a two-year period (2009 to 2010) and include an assessment of the sufficiency of loan 
+loss reserves expected at the end of 2010, which captures expected losses in 2011. This choice of 
+horizon reflects a tradeoff between capturing the full extent of losses that might be incurred on assets 
+that were originated when underwriting standards were more lax in 2006 and 2007 and a reasonable 
+ability to project with some degree of confidence the losses and resources at more distant future points. 
+Given the profile of the consensus baseline outlook for the macro economy and the alternative more 
+adverse scenario that includes a return to positive real GDP growth within the two years, this horizon 
+seems likely to capture a large portion of losses from positions held as of the end of 2008. 
+While this approach likely captures the bulk of the losses that might be realized on these assets, 
+it is important to note that it does not include the substantial losses that have already been taken. That 
+is, forward-looking losses in the SCAP are not "lifetime" losses which occur from origination to the life-
+end of the assets, but they do represent a substantial addition to those losses that have already been 
+realized and, as noted above, when combined with losses already taken, are likely to represent a 
+substantial share of the losses associated with loans originated from 2005 to 2007. Losses taken in the 
+6 quarters through the end of 2008 by these firms and firms they acquired are substantial, estimated at 
+approximately $400 billion for the 19 BHCs participating in the SCAP. They include charge-offs, write-
+
+
+[page 4] 
+
+downs on securities held in the trading and in the investment accounts, and discounts on assets 
+
+acquired in acquisitions of distressed or failed financial institutions. 
+
+II.B. General Description of the Exercise 
+
+The BHCs were asked to estimate their potential losses on loans, securities, and trading 
+
+positions, as well as pre-provision net revenue (PPNR) and the resources available from the allowance 
+
+for loan and lease losses (ALLL) under two alternative macroeconomic scenarios. Each participating f i rm 
+
+was instructed to project potential losses on its loan, investment, and trading securities portfolios, 
+
+including off-balance sheet commitments and contingent liabilities and exposures over the two-year 
+
+horizon beginning with year-end 2008 financial statement data. Firms were provided with a common 
+
+set of indicative loss rate ranges for specific loan categories under conditions of the baseline and the 
+
+more adverse economic scenarios. Firms were allowed to diverge f rom the indicative loss rates where 
+
+they could provide evidence that their estimated loss rates were appropriate. In addition, firms with 
+
+trading assets of $100 billion or more were asked to estimate potential trading-related market and 
+
+counter-party credit losses under a market stress scenario provided by the supervisors, based on market 
+
+shocks that occurred in the second half of 2008. 
+
+The BHCs also were asked to project the resources they would have available to absorb losses 
+
+over the two-year horizon under both scenarios. These resources consist of PPNR - net interest income, 
+
+fees and other non-interest income, net of non-credit-related expenses - and reserves already 
+
+established for probable incurred losses at December 31 , 2008. PPNR and the ALLL, combined with 
+
+existing capital above the amount sufficient to exceed minimum regulatory capital standards, are 
+
+resources that the f i rm would have available to absorb some of their estimated losses under the 
+
+scenarios. 
+
+Teams of supervisors and analysts composed of members f rom each of the agencies reviewed 
+
+and assessed the firms' submissions. Some teams had special expertise in particular asset classes, or in 
+
+revenues, reserves, and capital, and other teams had special expertise in the specific participating firms. 
+
+At the outset of the process, teams dedicated to evaluating particular categories of assets, revenues, 
+
+and reserves evaluated the firms' submissions and actively engaged with the firms for several weeks to 
+
+obtain additional information necessary to support the firms' estimates. Some firms were asked to 
+
+provide additional information on the risk characteristics of their portfolios to supplement their initial 
+
+submission. Examiners also reviewed and evaluated the quantitative methods that firms used to project 
+
+losses and resources, and support for key assumptions. The supervisory analyses of losses built on 
+
+individual firm-specific information about the risk characteristics of the portfolio, underwrit ing practices, 
+
+and risk management practices. 
+
+These teams applied across-firm, comparative analysis to support their assessments. To 
+
+facilitate this horizontal comparison, supervisors applied independent quantitative methods using f i rm-
+
+specific data to estimate losses and loss absorption resources. The quantitative methods were applied 
+
+to all the firms to provide consistency in evaluating firms' estimates. The results of these analyses were 
+
+then evaluated in the context of previous examination work and in the context of the indicative loss 
+
+rates and macroeconomic scenarios provided by the supervisors to the BHCs at the beginning of the 
+
+exercise. 
+
+
+[page 5] 
+
+To conclude the process, projected losses, revenues, and changes in reserves were combined to 
+
+evaluate the amount and quality of capital that each firm should have at the end of 2010. Calculations 
+
+were done on a post-purchase accounting basis and considered taxes, including deferred tax assets, and 
+
+dividends on preferred stock. Under the more adverse scenario, if any firm is found to have less capital 
+
+than the need projected by the SCAP assessment, supervisors will request those firms to take deliberate 
+
+actions to augment their capital so that they will remain in an appropriately strong financial position and 
+
+be able to lend and support financial intermediation. Thus the capital needs determined by this 
+
+supervisory exercise should be viewed as a capital buffer designed to be drawn down as losses 
+
+materialize should the economy be weaker than expected, and still be substantial enough at the end of 
+
+2010 for firms to be considered sufficiently capitalized. If the economy recovers more quickly than 
+
+specified in the more adverse scenario, firms could find their capital buffers at the end of 2010 more 
+
+than sufficient to support their critical intermediation role and could take actions to reverse their capital 
+
+build-up. 
+
+II.C. Initial Guidance on Macroeconomic Scenarios 
+
+For implementation of the SCAP, the supervisors provided assumptions for two alternative 
+
+macroeconomic scenarios. BHCs were encouraged to consider the broader macroeconomic conditions 
+
+and adapt the assumptions to reflect their specific business activities when projecting their own losses 
+
+and resources over 2009 and 2010. For example, local residential house prices would be expected to be 
+
+a significant determinant in projected loan loss rates given their prominent role in mortgage and 
+
+consumer lending in recent years. Projections under two alternative scenarios also allow for analysis of 
+
+the sensitivity of a firm's business to changes in economic conditions. 
+The baseline assumptions for real GDP growth and the unemployment rate for 2009 and 2010 
+were assumed to be equal to the average of the projections published by Consensus Forecasts, the Blue 
+Chip survey, and the Survey of Professional Forecasters. The projections were based on forecasts 
+available in February 2009 just before the commencement of the SCAP. The baseline scenario was 
+intended to represent a consensus view about the depth and duration of the recession. The supervisors 
+developed an alternative "more adverse" scenario to reflect the possibility that the economy could turn 
+out to be appreciably weaker than expected under the baseline outlook. By design, the path of the U.S. 
+economy in this alternative more adverse scenario reflects a deeper and longer recession than in the 
+baseline. However, the more adverse alternative is not, and is not intended to be a "worst case" 
+scenario. To be most useful, stress tests should reflect conditions that are severe but plausible.3 [Footnote 3. 
+The "more adverse" scenario was constructed from the historical track record of private forecasters as well as their 
+current assessments of uncertainty. In particular, based on the historical accuracy of Blue Chip forecasts made since 
+the late 1970s, the likelihood that the average unemployment rate in 2010 could be at least as high as in the 
+alternative more adverse scenario is roughly 10 percent. In addition, the subjective probability assessments provided 
+by participants in the January Consensus Forecasts survey and the February Survey of Professional Forecasters 
+imply a roughly 15 percent chance that real GDP growth could be at least as low, and unemployment at least as 
+high, as assumed in the more adverse scenario. End footnote 3.]. 
+
+The assumptions for house prices in the baseline economic outlook are consistent with the path 
+that was implied by futures prices for the Case-Shiller 10-City Composite index in late February and the 
+average response to a special question on house prices in the Blue Chip survey. For the more adverse 
+scenario, house prices are assumed to be about 10 percent lower at the end of 2010 relative to their 
+
+
+[page 6] 
+
+level in the baseline scenario.4 [Footnote 4. Based on the year-to-year variability in house prices since 1900, and 
+controlling for macroeconomic factors, there is roughly a 10 percent probability that house prices will be 10 percent 
+lower than in the baseline by 2010. End footnote 4.] 
+Since the announcement of the SCAP in late February, the economy has deteriorated somewhat 
+and professional forecasters have revised their outlooks for GDP growth and the unemployment rate in 
+2009 and 2010. New information on house prices suggests that the market's expectation for house 
+price declines is similar to what was anticipated in February. A large share of projected losses at banks 
+are expected to be related to house prices, and the specified path for house prices in the more adverse 
+scenario still represents a severe level of stress. Although the likelihood that unemployment could 
+average 10.3 percent in 2010 is now higher than had been anticipated when the scenarios were 
+specified, that outcome still exceeds a more recent consensus projection by professional forecasters for 
+an average unemployment rate of 9.3 percent in 2010. 
+
+Table 1 
+Economic Scenarios: Baseline and More Adverse Alternatives 
+
+(Minus signs indicate negative values) 
+
+2009 2010 
+Real GDP1 [see table footnote 1]: 
+Average Baseline2 [see table footnote 2] 
+
+-2.0 2.1 
+
+Real GDP: Average Baseline: C o n s e n s u s F o r e c a s t s -2.1 2.0 
+
+Real GDP: Average Baseline: B l u e C h i p -1.9 2.1 
+
+Real GDP: Average Baseline: S u r v e y o f P r o f e s s i o n a l F o r e c a s t e r s -2.0 2.2 
+
+Real GDP: A l t e r n a t i v e M o r e A d v e r s e -3.3 0.5 
+Civilian unemployment rate3 [see table 
+footnote 3]: Average Baseline2 [see 
+table footnote 2] 
+
+8.4 8.8 
+
+Civilian unemployment rate: Average Baseline: C o n s e n s u s F o r e c a s t s 8.4 9.0 
+
+Civilian unemployment rate: Average Baseline: B l u e C h i p 8.3 8.7 
+
+Civilian unemployment rate: Average Baseline: S u r v e y o f P r o f e s s i o n a l F o r e c a s t e r s 8.4 8.8 
+
+Civilian unemployment rate: A l t e r n a t i v e M o r e A d v e r s e 8.9 10.3 
+House prices4 [see table footnote 4]: Baseline 
+
+-14 -4 
+
+House prices: A l t e r n a t i v e M o r e A d v e r s e -22 -7 
+
+1. Percent change in annual average. 
+2. Baseline forecasts for real GDP and the unemployment rate equal the average of 
+
+projections released by Consensus Forecasts, Blue Chip, and Survey of Professional 
+Forecasters in February. 
+3. Annual average. 
+4. Case-Shiller 10-City Composite, percent change, fourth quarter of the previous year to 
+
+fourth quarter of the year indicated. 
+
+
+7 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+
+[page 8] 
+
+II. D. Initial Guidance on Loss and Resource Calculations 
+
+Loss Projections 
+The participating BHCs were asked to project estimated losses on loans, securities, and trading-
+related exposures (for those firms with trading assets exceeding $100 billion), including potential losses 
+stemming from off-balance sheet positions, for 2009 and 2010 that would be consistent with the 
+economic outlooks in the baseline and more adverse scenarios. They were instructed to project losses 
+for 12 separate categories of loans held in the accrual book, for loans and securities held in the 
+available-for-sale and held-to-maturity (AFS/HTM) portfolios, and in some cases for positions held in the 
+trading account. The BHCs were asked to make adjustments to reported balance sheet values of assets 
+to reflect expectations of customer drawdowns on unused credit commitments, and other assets or 
+exposures that might be taken back on the balance sheet in a stressed economic environment and due 
+to pending accounting changes. 
+The specific categories of loans and securities included in the exercise are listed in the attached 
+template. For the most part, these categories are based on regulatory report classifications to facilitate 
+comparison across BHCs and with information reported by the BHCs in their regulatory filings. However, 
+the BHCs were encouraged to provide more granular loss projections - that is, loss projections for sub-
+categories of the loan types specified in the template - to the extent that their internal calculations 
+were built up from such information. In addition, the BHCs were instructed to report projections of 
+losses that would be material deriving from other positions, businesses, or risk exposures that were not 
+included in the template. 
+For loans, the BHCs were instructed to estimate forward-looking, undiscounted credit losses, 
+that is, losses due to failure to pay obligations ("cash flow losses") rather than discounts related to mark-
+to-market values. To guide estimation, the BHCs were provided with a range of indicative two-year 
+cumulative loss rates for each of the 12 loan categories for the baseline and more adverse scenarios. 
+BHCs were permitted to submit loss rates outside of the ranges, but were required to provide strong 
+supporting evidence, especially if they fell below the range minimum. The indicative loss rate ranges 
+were derived using a variety of methods for predicting loan losses, including analysis of historical loss 
+experience at large BHCs and quantitative models relating the performance of individual loans and 
+groups of loans to macroeconomic variables. These loan-level models were particularly important for 
+residential mortgages, since historical loss experience at BHCs may not be a reliable guide to future 
+performance under the baseline or more adverse scenario, given the path of home prices in recent 
+years. 
+The BHCs were asked to provide loss estimates based on outstanding balances of loans and 
+securities on a global consolidated basis as of December 31, 2008 as reported in their FR Y-9C reports, 
+adjusted to reflect any significant mergers, acquisitions, or divestitures that an institution completed 
+after that date.5 [Footnote 5. The FR Y-9C reports contain balance sheet and income statement information for 
+bank holding companies. End footnote 5.] The BHCs also were asked to project losses on loans that could be 
+drawn down from unused credit commitments in place as of year-end 2008 and on securitized assets that could be 
+brought back onto the balance sheet under stressed market conditions. 
+For securities held in the available-for-sale and held-to-maturity portfolios, institutions were 
+instructed to estimate possible impairment relative to net unrealized losses at year-end 2008 (as 
+
+
+[page 9] 
+
+reported in the Q4 2008 FR Y-9C). Firms were asked to address potential other-than-temporary-
+impairment charges that may be required under both scenarios. 
+As noted above, BHCs with trading account assets exceeding $100 billion as of December 31, 
+2008 were asked to provide projections of trading-related losses for the more adverse scenario, 
+including losses from counterparty credit risk exposures, including potential counterparty defaults, and 
+credit valuation adjustments taken against exposures to counterparties whose probability of default 
+would be expected to increase in the adverse scenario.6 [Footnote 6. Under the baseline scenario, BHCs were 
+instructed to assume no further losses beyond current marks. End footnote 6.] To calculate these losses, the firms 
+conducted a stress test of their trading book positions and counterparty exposures as of market close on February 
+20, 2009, based on an instantaneous re-pricing of trading positions equal to the changes in market 
+pricing variables that occurred over the period of June 30, 2008 to December 31, 2008. Aside from the 
+dollar loss estimates, BHCs were asked to disclose the positions that were included in this analysis as 
+well as the risk factors that were stressed and the changes in variables employed (for example, changes 
+in rates and spreads, and percentage changes in equities, foreign exchange, and commodities). Firms 
+were also asked to provide the results of the stress tests conducted in the usual course of business from 
+January 2009 or the most recent dates available. 
+Resources to Absorb Losses 
+Institutions were also instructed to provide projections of resources available to absorb losses 
+under the two scenarios, including pre-provision net revenue, and the allowance for loan losses, over 
+the two-year horizon. 
+For purposes of this exercise, PPNR is defined as net interest income plus non-interest income 
+minus non-interest expense. It is therefore the income after non-credit-related expenses that would 
+flow into the firms before they take provisions or other write-downs or losses. The participating BHCs 
+were instructed to project the main components of PPNR under each of the macroeconomic scenarios. 
+The firms were instructed to explain clearly the assumptions underlying these projections, especially 
+those regarding business or market share growth. Especially in the more adverse scenario, pre-provision 
+net revenue projections materially exceeding their 2008 values would require strong supporting 
+evidence in the absence of documentation of nonrecurring events that negatively affected 2008 net 
+revenue. 
+Institutions were also instructed to estimate the portion of the year-end 2008 allowance for 
+loan and lease losses available to absorb credit losses on the loan portfolio under each scenario, while 
+maintaining an adequate allowance at the end of the scenario horizon. This calculation could either 
+result in a drawdown of the year-end 2008 ALLL or indicate a need to build reserves over the scenario 
+horizon. The adequacy of loan loss reserves was assessed against the likely size, composition, and risk 
+characteristics of the loan portfolio at the end of the scenario in 4Q 2010. 
+
+
+[page 10] 
+
+Assessing Capital Needs in an Uncertain World 
+
+Projecting estimated losses and revenues for BHCs is an inherently uncertain exercise, and this difficulty 
+
+has been amplified in the current period of increased macroeconomic uncertainty. The future path of 
+
+GDP growth, unemployment, and home prices, for example, are unknown, wi th a wide range of 
+
+plausible outcomes. Indeed, this increased uncertainty was a key motivation for the SCAP, as 
+
+policymakers are interested in restoring confidence that BHCs have sufficient resources to continue to 
+
+lend to creditworthy borrowers across a wide range of macroeconomic outcomes. 
+
+Forward-looking assessments across a range of possible outcomes including more adverse 
+
+environments, commonly referred to as "stress tests," are regularly used by both institutions and 
+
+supervisors and are regularly integrated in traditional risk-management practices. This approach 
+
+provides additional information to firms and supervisors about the vulnerability of a BHC by examining 
+
+how it might fare under different economic scenarios. This type of analysis, however, is itself subject to 
+
+considerable uncertainty, including uncertainty about the range of potential macroeconomic outcomes 
+
+to consider, the relationship between BHC results and macroeconomic scenarios, the degree to which 
+
+historical relationships will continue to be relevant in a more stressed environment, and the potential 
+
+changes to consumer behavior in response to both macroeconomic and institutional changes. 
+
+Nevertheless, this type of exercise can be extremely useful in helping supervisors and analysts broadly 
+
+understand a BHC's risk, especially in periods of high uncertainty. Moreover, a stress test provides a 
+
+systematic, disciplined framework for gauging the magnitude of capital buffers that might be needed by 
+
+different firms to absorb losses under plausible "what if" scenarios. 
+
+III. Supervisory Reviews and Assessments 
+
+III.A. Supervisory Review of the Submissions and Benchmark Assessments 
+
+The supervisory review and assessment of the loss and resource estimates submitted by the 
+
+participating BHCs were critical parts of the SCAP exercise. This review involved the work of more than 
+
+150 people f rom the supervisory agencies, including senior examiners, economists, and financial 
+
+analysts. Staff was organized into teams, each of which focused on examining a distinct aspect of the 
+
+loss and resource projections across all 19 participating BHCs. In particular, there were teams charged 
+
+with examining loss projections for consumer portfolios, commercial and industrial (C&I) and 
+
+commercial real estate loan (CRE) portfolios, AFS and HTM securities portfolios, trading account assets, 
+
+and counterparty credit risk, and teams examining projections of PPNR and ALLL coverage. There were 
+
+also advisory groups composed of specialists in accounting, regulatory capital, and financial and 
+
+macroeconomic modeling. 
+
+These teams were charged with evaluating the quality of the f irm submissions so that each 
+
+submission had sufficient information on data, methods, and assumptions to be analyzed. The teams 
+
+were responsible for analyzing the loss and resources projections from a cross-firm perspective, using 
+
+
+[page 11] 
+
+supporting information supplied by the firms as part of the SCAP exercise. This work was informed by 
+
+supervisory information and knowledge of the on-site examination teams at each of the participating 
+
+BHCs. The objective was to evaluate the projections submitted by the firms and the approaches used to 
+
+generate those numbers. A key aspect of this analysis was to understand the particular parameters and 
+
+assumptions employed and their consistency with the macroeconomic scenarios provided, as well as the 
+
+models and methodologies used to generate the loss and resource estimates. 
+
+Aside f rom a direct review of the assumptions and models used in loss and resource projections 
+
+submitted by the participating BHCs, the agencies developed independent benchmarks against which to 
+
+evaluate the submissions. One set of benchmarks was the indicative loan loss rate ranges provided to 
+
+firms prior to their preparing assessments of potential losses in their accrual loan portfolios under each 
+
+macroeconomic scenario for the categories of loans on the SCAP template. The ranges are based on loss 
+
+rate estimates calculated by the different supervisory agencies participating in the SCAP, using 
+
+methodologies both currently in use by the agencies and some especially designed for this assessment. 
+
+All the ranges are estimates, reflecting the uncertainty inherent in the likely loss experience of large 
+
+banking companies in stressful economic environments. 
+
+The agencies used a variety of approaches to calculate indicative loss rates across the different 
+
+types of loans. These approaches for residential mortgages included "micro" models of default and loss-
+
+given-default built on information about individual loans, models based on the performance of regional 
+
+mortgage loan portfolios, and analysis of mortgages held by failing banks. For other consumer loans and 
+
+for commercial lending (including various types of commercial real estate lending), the agencies 
+
+estimated loss rates using techniques such as regressions of historical charge-off or default data against 
+
+macroeconomic variables such as home price appreciation and the unemployment rate and analysis of 
+
+loan-level data derived f rom supervisory sources. A variety of other statistical analyses were applied to 
+
+the historical experience at large BHCs to estimate loss rates and resource availability. 
+
+These indicative loss rate ranges, although useful as general guides to aggregate banking sector 
+
+losses, do not reflect important differences across firms that could affect performance and losses in 
+
+significant ways. Thus, the agencies also developed more detailed benchmarks for losses and resources 
+
+incorporating granular, firm-specific information on factors such as past performance, portfolio 
+
+composition, origination vintage, borrower characteristics, geographic distribution, international 
+
+operations, and business mix. These benchmarks were intended to provide a common background in 
+
+discussions with the firms about their analysis and as additional information to help supervisors 
+
+determine where results should be adjusted. 
+
+As with the indicative loss rate ranges, these benchmarks also made use of models and 
+
+approaches already in use to monitor risk and f irm condition as part of the on-going supervisory 
+
+oversight process, as well as methods developed specifically for the SCAP exercise. These estimates 
+
+drew on much of the same data provided by the participating BHCs as part of their SCAP submissions 
+
+and were provided in response to specific requests from the supervisory teams. These supervisory 
+
+benchmarks provided important information to the teams evaluating the BHC submissions, since the 
+
+benchmarks were calculated using consistent methodologies across firms, while still incorporating 
+
+detailed firm-specific information about the BHCs. 
+
+The intent of the overall process was to bring together as much information as possible about 
+
+the specific f i rm and empirical evidence on loss rates and resource availability in order to provide the 
+
+best judgment on potential losses and revenues in economic conditions that are weaker than expected. 
+
+
+[page 12] 
+
+Loss and revenue projections submitted by the firms were adjusted to ensure consistency across 
+
+institutions and consistency with the macroeconomic scenarios defined for the exercise. These 
+
+adjustments reflect a combination of the analysis of the supervisory teams, benchmarks developed by 
+
+the teams and by economists and analysts working at the agencies, and supervisory judgment and 
+
+knowledge of the individual firms in the exercise. A synopsis of the assessment process by category is 
+
+described below. 
+
+III. B. Supervisory Review and Benchmark Assessments by Category 
+
+First and Second Lien Mortgages 
+
+Supervisory teams for the residential mortgage portfolios evaluated the firms' submissions, 
+
+which described the portfolios, methods used to project losses, and important assumptions in those 
+
+methods. As part of a special request for this exercise, the participating BHCs provided detailed and 
+
+uniform descriptions of their residential mortgage portfolio risk characteristics. In particular, firms 
+
+provided information on type of product, loan-to-value (LTV) ratio, FICO score, geography, level of 
+
+documentation, year of origination, and other features. First mortgages, home equity lines of credit 
+
+(HELOCs), and closed-end second-mortgage products were each evaluated separately. Each firm's 
+
+models, assumptions, and circumstances were evaluated independently and relative to those of peer 
+
+firms to determine adjustments to the firm's submission. Assumptions about prepayments and new 
+
+originations were normalized to be generally consistent across firms. Portfolios were then analyzed 
+
+using firm-specific portfolio attributes and common loss estimation methodologies calibrated to 
+
+industry-wide data. Certain attributes, in particular FICO, LTV bands, vintage, product type, and 
+
+geography, were found to be strongly predictive of default. These attributes were used to further 
+
+evaluate submissions by the firms, and where necessary, loss estimates were adjusted to better reflect 
+
+portfolio characteristics in a consistent way across firms. 
+
+Credit Cards and Other Consumer Loans 
+
+For credit cards, the supervisory teams evaluated methods used to project losses and 
+
+benchmarked each firm's results against historical trends in these portfolios (for example, loss, paydown 
+
+/ runoff, roll rates, utilization) in the context of the two macroeconomic scenarios. Firms submitted 
+
+detailed information on their credit card portfolios. Data included FICO scores, payment rates, 
+
+utilization rates, and geographic concentrations. The teams developed specific portfolio risk profiles in 
+
+order to make cross-firm comparisons to gauge the reasonableness of the loss estimates submitted by 
+
+the firms. Once normalized for assumptions, adjustments to loss rates were made where necessary, but 
+
+in general the supervisory results were relatively close to the BHCs' estimates. 
+
+For other consumer loans, which are composed mainly of auto loans, personal loans, and 
+
+student loans, firms provided information on FICO scores, LTV, term, vehicle age, and geographic 
+
+concentration. This detailed data were evaluated along with the analysis of the underlying components 
+
+of each firm's portfolio, including historical loss experience. Supervisors also examined various 
+
+performance measures to assess the relative riskiness of the portfolios across firms to arrive at 
+
+projected loss rates. 
+
+
+[page 13] 
+
+Commercial and Industrial Loans 
+
+Analysis of C&I loan loss projections was based on the distribution of exposures by industry and 
+
+by internal rating provided by the firms. In many cases, these ratings were mapped to default 
+
+probabilities by the f i rm; in other cases, this association was established by supervisory analysts. This 
+
+information was confirmed and supplemented by external measures of risk, such as expected default 
+
+frequencies from third party vendors. Supervisors evaluated f i rm loss estimates using a Monte Carlo 
+
+simulation that projected a distribution of losses by examining potential dispersion around central 
+
+probabilities of default. The approach produced a consistently-prepared set of loss estimations across 
+
+all the BHCs by combining firm-specific exposure and rating information with standardized assumptions 
+
+of the performance of similar exposures. The results of this analysis were compared to the f irms' 
+
+submissions and adjustments made to ensure consistency across BHCs. 
+
+Commercial Real Estate Loans 
+
+For commercial real estate (CRE) loans, firms were asked to submit detailed portfolio 
+
+information on property type, loan to value (LTV) ratios, debt service coverage ratios (DSCR), geography, 
+
+and loan maturities. The supervisors analyzed loans for construction and land development, mult i-
+
+family property, and non-farm non-residential projects separately. The supervisors employed common 
+
+industry vendor models, and developed proprietary models, to generate independent loss estimates for 
+
+each portfolio. Specifically, for loans maturing in 2009 to 2010, the supervisors constructed a model that 
+
+compared current LTV ratios to benchmark LTVs in order to assess the probability that borrowers would 
+
+be able to refinance their exposure. For loans maturing beyond 2010, the team used vendor models 
+
+that incorporate factors such as property type, LTV, DSCR, and geographic market factors. For 
+
+construction loans, the geography and nature of the project received special attention. The resulting 
+
+loss estimates were compared with the firms' submissions. 
+
+Other Loans 
+
+This category is highly heterogeneous, including farmland lending, loans to depository 
+
+institutions, loans to governments, and other categories. For most categories of other loans, a firm's 
+
+loss record over the past five years was used to provide a relative ranking, and to assess the firm's 
+
+submission. 
+
+Securities in AFS and HTM Portfolios 
+
+The majority of securities in the AFS and HTM portfolios are Treasury securities, government 
+
+agency securities, sovereign debt, and high-grade municipal securities. Private-sector securities include 
+
+corporate bonds, equities, asset-backed securities, commercial mortgage-backed securities (CMBS), and 
+
+non-agency residential mortgage backed securities (RMBS). About 15 percent of the portfolio is non-
+
+agency RMBS or CMBS. Supervisors focused their efforts on evaluating the private-sector securities 
+
+portfolio for possible impairment, obtaining details of each security, such as collateral type, vintage, 
+
+metropolitan area, and property type, as well as elements of each security's structure, such as credit 
+
+ratings, current credit support, and carrying and market values. Each security was tested to determine if 
+
+the security would become impaired during its lifetime. Loss estimates were based on an examination 
+
+of more than 100,000 securities identified by the Committee on Uniform Security Identification 
+
+Procedures, or CUSIP. For each securitized asset, credit loss rates on underlying collateral, consistent 
+
+with those loss rates used for unsecuritized accrual loan portfolios, were weighed against current credit 
+
+
+[page 14] 
+
+support levels for the securities. If the current level of credit support was considered insufficient to 
+
+cover projected losses, the security was written down to fair value with a corresponding "other than 
+
+temporary impairment" charge, in accordance with accounting guidelines, equal to the difference 
+
+between book and market value. Each corporate and municipal bond was evaluated for future OTTI 
+
+potential based on indicators of downgrade likelihood, including information from market credit 
+
+spreads. For each equity security, OTTI was determined when the stressed market value was below the 
+
+carrying value. Supervisors evaluated the position marks based on portfolio characteristics and ratings 
+
+to identify anomalies and to identify conservative or aggressive practices and methodological outliers 
+
+among the BHCs. Special attention was paid to institutions that had greater concentrations of 
+
+accumulated other comprehensive income (AOCI) relative to tangible common equity, as AOCI forms 
+
+the basis of potential recognizable losses in earnings, and hence core capital, in a given period.7 [Footnote 7. 
+
+AOCI is a measure of accumulated unrealized gains and losses on AFS securities, based on current carrying and 
+
+market values. End footnote 7.] 
+
+New FASB guidance on fair value measurements and impairments was issued on April 9, 2009, 
+
+after the commencement of the SCAP. For the baseline scenario supervisors considered firms' 
+
+resubmissions that incorporated the new guidance. However, for the more adverse scenario, in order to 
+
+reflect greater uncertainty about realizable losses in stressful conditions, supervisors did not incorporate 
+
+the new FASB guidance. 
+Trading Portfolio Losses 
+
+Losses in the trading portfolio were evaluated by applying market stress factors to the trading 
+
+exposures for the five firms with trading assets exceeding $100 billion, based on the actual market 
+
+movements that occurred over the stress horizon (June 30 to December 31, 2008). The supervisors used 
+
+information on trading book positions from the firms' internal risk-management reports to project loss 
+
+amounts under the defined scenario. Supervisors then compared each firm's submission to its own 
+
+scenario and investigated areas where the loss estimates or gains were significantly different from the 
+
+supervisors' estimates. Supervisors reviewed all of the firm's assumptions, such as the shocks to prices 
+
+and spreads, the methodology used by the firm to value the assets, and whether material exposures and 
+
+assets were included in the stress test. Areas where the BHCs' and supervisors' estimates diverged 
+
+were identified and investigated, and final loss estimates were revised accordingly. In addition, the 
+
+SCAP included an incremental default risk (IDR) estimate for firms' trading book positions. 
+
+Counterparty Credit Risk 
+
+Analysis focused on assessing the reasonableness of counterparty credit risk (CCR) loss estimates stemming 
+from exposure growth and credit valuation adjustments associated with the market shocks applied to the assets in 
+the trading books. Specifically, the supervisors reviewed the firms' loss estimates for mark-to-market losses 
+stemming from credit valuation adjustments (CVA) consistent with the trading shock scenario.8 [Footnote 8. A 
+credit valuation adjustment taken against a given trading counterparty reflects the decline in the value of the 
+obligation owed by that counterparty due to deterioration in the counterparty's creditworthiness, and directly impacts 
+a firm's earnings and the value of the its assets. End footnote 8.] During the assessment process, supervisors 
+developed a view of the quality of each firm's loss estimate, and made adjustments to the firm's loss estimates 
+where appropriate to reflect factors such as consistency in the application of the trading asset shock; the 
+comprehensiveness 
+
+
+[page 15] 
+
+of coverage of counterparties and products; the prudent treatments of legal netting, collateral and 
+margin; and soundness in the stress methodology employed. 
+Supervisors also requested that firms calculate an IDR loss estimate reflecting counterparty 
+credit losses from default. The methodologies and the quality of firm submission varied. In some cases, 
+supervisors developed independent estimates of the potential losses from counterparty defaults under 
+the more adverse scenario. 
+Pre-Provision Net Revenue 
+Analysis of firm submissions for PPNR started with a critical assessment of the business 
+projections that were included in the BHCs' submissions. In particular, the submissions and their 
+underlying assumptions were assessed for consistency with the overall macroeconomic scenarios. To 
+help in its work, the supervisors also reviewed copies of the firms' internal management and financial 
+reports. For example, "ALCO packages," including information about the yield curve assumptions, net 
+interest income projections, and economic value of equity assessments made by the firms as part of 
+their business planning processes, were reviewed and compared with the assumptions used in firms' 
+SCAP projections.9 [Footnote 9. The ALCO package is information generated by a bank holding company's " 
+Asset-Liability Committee," containing historical information, analysis, and projections of the evolution of the 
+firm's assets and liabilities, associated funding costs, and liquidity risk exposure and management. End footnote 9.] 
+The supervisors also examined historical trends in the main components of PPNR--net interest income, noninterest 
+income, and noninterest expense--for each firm using data from regulatory reports and from public financial 
+statements. This evaluation involved a critical assessment of the firms' estimates based on supervisory knowledge 
+of each firm's revenue drivers and the risks to those drivers. This analysis was then used to modify key 
+assumptions in firms' forecasts (for example, projected growth rates and stock price indexes) to make them more 
+consistent with the scenarios provided in the stress test. Peer analysis was also developed during the process 
+and used to identify trends and outliers. 
+Supervisors also examined the historical relationship between PPNR and its main components 
+to measures of macroeconomic activity, and examined firm-specific differences in the composition of 
+PPNR, assessing which components have been more volatile in the past, and thus less likely to be 
+sustainable in strained economic conditions. 
+Supervisors weighted the estimates arrived at through these techniques and compared them 
+with firm submissions. Where supervisors' analysis produced lower estimates of PPNR than those 
+provided by the firm, the supervisory estimate was applied. 
+Allowance for Loan and Lease Losses 
+The supervisors developed benchmarks based on projections of the required level of reserves at 
+the end of the scenario. The goal was to determine the level of reserves needed at year-end 2010 for 
+two distinct portfolios, the "vintage" loans remaining from year-end 2008 and the newly extended 
+credits over the scenario horizon. To arrive at the vintage loan total, supervisors began with the year-
+end 2008 loan book balance, by loan segment, and reduced these balances based on the estimated 
+losses calculated for this exercise. New loans were estimated based on information provided by the 
+firms as part of this exercise or, if no loan growth information was provided, by assuming that any new 
+
+
+[page 16] 
+
+loan growth represented the replacement of estimated loan losses between 2009 and 2010. Reserve 
+
+needs for the vintage and new loan portfolios were determined by assessing potential losses on these 
+
+portfolios in 2011 and assuming reserves sufficient to cover these losses. Loss rates for vintage loans 
+
+were calculated as each firm's 2010 loss rate by loan category, reduced by the anticipated average 
+
+percentage reduction in loan losses in 2011 as calculated from firms that reported this information. For 
+
+newly extended credits, which would likely be underwritten under more prudent lending standards, loss 
+
+rates by loan category from 2007 were used to represent the expected losses in 2011. 
+III. C. Accounting Adjustments 
+
+The supervisory team assessing consumer credit losses worked closely with accounting 
+
+specialists in the agencies to ensure that the firms' projections were consistent with accounting 
+
+standards. Additionally, supervisors evaluated the potential impact of the proposed changes to FAS 140 
+
+which are expected to be implemented in January 2010. Based on information provided by the BHCs, 
+
+implementation of the proposed changes to FAS 140 could result in approximately $900 billion in assets 
+
+being brought onto the balance sheets of these institutions. Risk-weighted assets were increased by 
+
+about $700 billion to reflect this projected consolidation. The on-boarding of assets also factored into 
+
+our assessment of ALLL needs, and those assets were treated as new loans. 
+
+A second critical set of adjustments were made to recognize the impact of discounts taken by 
+
+institutions on purchased impaired loan portfolios acquired during mergers, as governed by SOP 03-03. 
+
+Several of the participating BHCs acquired loans at significant discounts as part of mergers. Based on 
+
+the information provided by the BHCs, these discounts totaled more than $90 billion.10 [Footnote 10. The 
+
+reduction in projected losses relating to purchase accounting adjustment for the two scenarios is less than this 
+
+amount. Some portion of the credit losses reflected in this discount may take place after the end of the scenario or 
+
+may reflect market loss assumptions at the time of acquisition that are more severe than those assumed by the 
+
+BHCs and supervisors in the supervisory loss projections. Some of the discount not related to credit losses is 
+
+captured by the BHC in "accretable yield", which is part of pre-provision net revenue (such amounts are amortized 
+
+into income over the estimated life of the loan in accordance with GAAP). End footnote 10.] These discounts 
+
+were considered in assessing possible future losses for these firms under the two scenarios, since such 
+
+discounts make up a large portion, and possibly all, of projected future losses on impaired acquired 
+
+loans in the two scenarios. The approach used in the SCAP was to project losses on the original balances 
+
+of the impaired acquired loans (that is, balances with the discounts added back to bring the impaired 
+
+loan balances back to their contractual principal at the date of acquisition) and then to net these losses 
+
+against the discount that the BHCs took at the time they acquired the loans. 
+
+III. D. Determination of Capital Needs 
+As part of the submission process, each BHC reported projections of Tier 1 capital and common 
+
+stockholders' equity for the end of 2009 and 2010. The BHCs' projected evolution of capital over the 
+
+scenarios reflects a combination of credit losses, PPNR to absorb losses, and the need to generate 
+
+appropriate ALLL at the end of the assessment horizon. These estimates served as a useful benchmark 
+
+for the SCAP, but were not necessarily consistent with the final projections of losses and revenue the 
+
+supervisors made for the BHC. 
+
+As a result, supervisors projected pro forma capital for 2010 for each BHC using the revised 
+
+estimates of credit losses and revenue. The basic algorithm began with 2008 Q4 measures of equity 
+
+capital and regulatory capital from Y-9C reports. Pro forma equity capital was estimated by rolling tax-
+
+
+.
+
+[page 17] 
+
+adjusted net income (PPNR less credit losses less reserve builds reflected on a net of tax basis) for the 
+two-year horizon through equity capital. The estimated losses were on a post-purchase accounting 
+basis.11 [Footnote 11 .For purchased impaired loans, the projected Tier 1 Capital and Common Stockholder's 
+Equity incorporated credit losses and provisions that reflect consideration of the discounts on purchased impaired 
+loans and any adjustments made by the SCAP if the estimated credit losses exceeded the credit loss portion of 
+the discounts on the purchased impaired loans as of the acquisition date. End footnote 11.]This effectively treats 
+losses and provisions as an instantaneous event that is offset by revenue earned over the period. Projected reserve 
+increases over the assessment horizon imply a net need to provision for future losses, which reduced resources 
+available to absorb legacy losses and increased capital needs. Finally, supervisors estimated the impact of payments 
+of preferred dividends and incorporated the impact of regulatory capital rules such as limits on the inclusion of 
+deferred tax assets in Tier 1 Capital. This generated projections of pro forma capital levels absent any further 
+changes in capital participation by private investors or the U.S. Treasury. 
+To determine the necessary capital buffer, supervisors did not rely on a single indicator of 
+capital, but examined a range of indicators of capital adequacy including but not limited to pro forma 
+equity capital and Tier 1 capital, including the composition of capital. Tier 1 capital, as defined in the 
+Board's Risk-Based Capital Adequacy Guidelines, is composed of common and non-common equity 
+elements, some of which are subject to limits on their inclusion in Tier 1 capital.12 [Footnote 12. See 12 CFR part 
+225, Appendix A, § II.A.l. End footnote 12.] These elements include common stockholders' equity, qualifying 
+perpetual preferred stock, certain minority interests, and trust preferred securities. Certain intangible assets, 
+including goodwill and deferred tax assets, are deducted from Tier 1 capital or are included subject to limits.13 
+
+[Footnote 13. See 12 CFR part 225, Appendix A, § II.B. End footnote 13.] 
+Supervisors have long indicated that common equity should be the dominant component of Tier 
+1 capital, so a measure of voting common stockholders' equity (essentially Tier 1 capital less preferred 
+stock, less qualifying trust preferred securities, and less minority interests in subsidiaries) was also 
+examined. The Board's capital adequacy guidelines currently state that voting common stockholders' 
+equity generally should be the dominant element within Tier 1 capital, so the approach is consistent 
+with existing capital guidelines and does not imply a new capital standard. This analytical work provided 
+an initial estimate of capital needs for each BHC to remain appropriately capitalized even if the more 
+adverse scenario materializes. 
+The initial assessment of the capital need was conveyed to the BHCs in late April. The final 
+capital assessment will include actual results year-to-date, including 2009 Ql operating performance 
+and corporate activities, such as sales of specific assets or business or capital events, such as a new 
+issuance of equity securities. Supervisors evaluated this information considering the safety and 
+soundness of individual BHCs and the stability of the broader financial system. 
+
+
+[page 18] 
+
+Appendix: 
+The SCAP Templates 
+
+Loan and Security Categories to be included in the Loss Estimates* [see table footnote] 
+(Loss Amounts in Billions of Dollars) 
+
+Outstanding Balance 
+Q4 2008 
+
+Loss Estimates: 
+2009 
+
+Loss Estimates: 
+2010 
+
+Loss Estimates: 
+TOTAL 
+
+LOANS: First Lien Mortgages: Prime 
+
+LOANS: First Lien Mortgages: Alt-A 
+
+LOANS: First Lien Mortgages: Subprime 
+
+LOANS: Second/Junior Lien Mortgages: Closed-end Junior Liens 
+
+LOANS: Second/Junior Lien Mortgages: HELOCs 
+
+LOANS: C & l L o a n s 
+
+LOANS: CRE Loans: Construction 
+
+LOANS: CRE Loans: Multifamily 
+
+LOANS: CRE Loans: Nonfarm, Non-residential 
+
+LOANS: C r e d i t C a r d s 
+
+LOANS: O t h e r C o n s u m e r 
+
+LOANS: O t h e r L o a n s 
+
+COMMITMENTS AND 
+CONTINGENT OBLIGATIONS: 
+List by type the amount and 
+assumed losses related to 
+commitment draw-downs and 
+other contingent obligations 
+
+SECURITIES: 
+Available for Sale 
+
+SECURITIES: 
+Held to Maturity 
+
+TRADING ACCOUNT 
+(including traded loans) 
+
+For the more adverse scenario only: 
+report total dollar loss amount, 
+table identifying positions captured 
+and those not captured in the stress 
+tests, risk factors stressed, and 
+size of risk factor changes assumed. 
+
+For the more adverse scenario only: 
+report total dollar loss amount, 
+table identifying positions captured 
+and those not captured in the stress 
+tests, risk factors stressed, and 
+size of risk factor changes assumed. 
+
+For the more adverse scenario only: 
+report total dollar loss amount, 
+table identifying positions captured 
+and those not captured in the stress 
+tests, risk factors stressed, and 
+size of risk factor changes assumed. 
+
+For the more adverse scenario only: 
+report total dollar loss amount, 
+table identifying positions captured 
+and those not captured in the stress 
+tests, risk factors stressed, and 
+size of risk factor changes assumed. 
+
+* Form to be completed once for the baseline scenario and once for the more adverse scenario. If there are 
+positions, businesses or risk exposures not captured on this template that would materially affect losses under the 
+baseline or more adverse scenario, please include estimates of those losses in addition to the losses associated 
+with the positions included on this template. 
+
+
+[page 19] 
+
+Resources to Absorb Losses* [see table footnote] 
+
+(Amounts in Billions of Dollars) 
+
+2009 2010 TOTAL 
+PRE-PROVISION NET REVENUE: 
+Net Interest Income 
+
+PRE-PROVISION NET REVENUE: 
+Non-interest Income 
+
+PRE-PROVISION NET REVENUE: 
+Non-interest Expense 
+
+ALLOWANCE FOR LOAN LOSSES: 
+(1) ALLL at end of previous year 
+
+ALLOWANCE FOR LOAN LOSSES: 
+(2) ALLL at end of year 
+
+ALLOWANCE FOR LOAN LOSSES: 
+ALLL Resources: (1)-(2) 
+
+* Form to be completed once for the baseline scenario and once for the more adverse scenario. 
+
+Post-Scenario Tier 1 Capital* [see table footnote] 
+
+(Amounts in Billions of Dollars, end of period) 
+
+Q4 2008 2009 2010 
+Tier 1 Capital: 
+Sum of Tier 1 Elements 
+
+Tier 1 Capital: 
+Common Stockholders' Equity 
+
+Risk-Weighted Assets 
+
+* Form to be completed once for the baseline scenario and once for the more adverse scenario. 
+

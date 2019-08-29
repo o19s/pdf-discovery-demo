@@ -1,0 +1,1323 @@
+
+For release on delivery 
+11:45 a.m. EDT 
+September 26, 2016 
+
+
+
+
+Next Steps in the Evolution of Stress Testing 
+
+Remarks by  
+
+Daniel K. Tarullo 
+
+Member 
+
+Board of Governors of the Federal Reserve System 
+
+at 
+
+Yale University School of Management Leaders Forum 
+
+Yale University 
+
+New Haven, Connecticut 
+
+
+
+September 26, 2016  
+
+
+
+1 
+ 
+
+Supervisory stress testing has become a cornerstone of post-crisis prudential regulation.  
+
+Stress testing, unlike traditional capital requirements, provides a forward-looking assessment of 
+
+losses that would be suffered under adverse economic scenarios.  The simultaneous testing of the 
+
+largest firms lends a perspective on a large part of the banking system and facilitates 
+
+identification of common exposures and risks.   
+
+During the financial crisis, the success of an ad hoc stress test in assessing the capital 
+
+needs of, and restoring confidence in, the nation’s largest financial institutions encouraged 
+
+Congress to make stress testing a required and regular feature of large firm prudential 
+
+regulation.1  The Federal Reserve has, in the succeeding years, substantially refined its 
+
+supervisory stress test.  Moreover, the stress test has been integrated into our Comprehensive 
+
+Capital Analysis and Review (CCAR), which both ties the results of the test into the banks’ 
+
+capital distribution practices and evaluates their risk management and capital planning capacities.   
+
+Today I want to share with you the results of an extensive review of the statutory stress 
+
+test and CCAR programs, which we began following the end of the 2015 cycle.  Before turning 
+
+to the reasons for that review and some ideas for changing these programs that have arisen from 
+
+it, I will take a few moments to summarize the characteristics and purposes of the programs as 
+
+they have evolved to this point. 
+
+Stress Testing and CCAR Today 
+
+ As we have implemented the requirement mandated by the Dodd-Frank Wall Street 
+
+Reform and Consumer Protection Act (Dodd-Frank Act) for stress testing--which the Federal 
+
+Reserve denominates as the Dodd-Frank Act Stress Test (DFAST)--that exercise includes four 
+
+                                                 
+1 Dodd-Frank Act §165(i), 12 U.S.C. §5365(i). 
+
+
+
+2 
+ 
+
+main steps.2  (1) The firms subject to DFAST provide the Federal Reserve with detailed, 
+
+significantly standardized data on their loans, securities holdings, trading positions, counterparty 
+
+exposures, revenue, expenses, and balance sheets.  (2) The Federal Reserve specifies 
+
+hypothetical macroeconomic and financial market scenarios--including an “adverse” and a 
+
+“severely adverse” scenario.  (3) The Federal Reserve inputs the data from the firms into its own 
+
+supervisory models to project each firm’s losses, revenues, and capital over a nine-quarter 
+
+planning horizon under the specified scenarios.  (4) The results of the exercise, including the 
+
+capital positions of the firms following the hypothesized stress scenarios, are disclosed to the 
+
+public. 
+
+As DFAST has evolved, it has become an increasingly valuable tool for evaluating 
+
+whether the largest financial firms are holding sufficient capital to continue providing credit in 
+
+the event of significant macroeconomic and financial stress.  However, in itself DFAST does not 
+
+set any capital ratios or limit any capital actions by the firms.  Those functions are implemented 
+
+through the CCAR program, which was created through the regulatory process by the Federal 
+
+Reserve.3  In CCAR, the Federal Reserve assesses the overall capital adequacy of the firms--
+
+including evaluations of whether each firm’s capital provides an adequate buffer for the losses 
+
+that would be incurred during the stress scenarios, whether its risk management and capital 
+
+planning processes are appropriately well-developed and governed, and how its plans to 
+
+distribute capital through dividends or share repurchases could affect its ability to remain a 
+
+viable financial intermediary in the hypothesized scenarios.  Given how central these 
+
+                                                 
+2 For a more complete description of the Federal Reserve’s DFAST and CCAR programs, see 
+www.federalreserve.gov/bankinforeg/stress-tests-capital-planning.htm.  As a formal matter, DFAST was 
+implemented beginning in 2013.  However, in 2011 and 2012, the Federal Reserve conducted supervisory stress 
+tests as part of its CCAR program, as explained later in the text. 
+3 12 CFR 225.8. 
+
+
+
+3 
+ 
+
+considerations are to effective risk management and the soundness of these firms, we are 
+
+progressively integrating the qualitative elements of CCAR into our year-round supervisory 
+
+program for the largest banking organizations.  
+
+Under CCAR, the Federal Reserve may object to a firm’s capital plan on either 
+
+quantitative or qualitative grounds.  A quantitative objection is made when the stress test reveals 
+
+that a firm would not be able to maintain its post-stress capital ratios above the regulatory 
+
+minimum levels over the planning horizon, taking into account its planned capital distributions.  
+
+We have taken planned distributions into account because, as the run-up to the financial crisis 
+
+revealed, firms may be reluctant to cut their distributions--particularly dividends--even in a 
+
+period of growing stress.  Thus, CCAR included what has been called a “pre-funding” 
+
+requirement. 
+
+The Federal Reserve may object on qualitative grounds if it finds that the firm’s capital 
+
+planning processes are not sufficiently reliable.  The qualitative assessment includes the 
+
+assumptions and analyses underlying each firm’s capital plan, its controls and governance 
+
+processes, and whether previously identified weaknesses in management and operations have 
+
+been corrected.  If the Federal Reserve objects on quantitative or qualitative grounds, the firm 
+
+may not make any capital distributions without our permission.  In practice, in the case of a 
+
+qualitative objection, we have generally permitted distributions at the previous year’s level but 
+
+no increases.  This practice, however, has been in the context of distributions rising from 
+
+generally low levels coming out of the crisis; there has been no guarantee that a similar practice 
+
+would prevail as distributions continue rising. 
+
+ The quantitative component of CCAR, based as it is on the DFAST stress tests, has 
+
+contributed to the continued strengthening of the capital levels of the largest financial institutions 
+
+
+
+4 
+ 
+
+that began after the original stress test in the winter of 2009.4  While, understandably, many 
+
+focus on the quantitative side and its implications for capital distributions, the importance of the 
+
+qualitative component has been perhaps underappreciated.  We saw during the 2009 stress test 
+
+that many large financial institutions were unable to marshal the data necessary to gauge their 
+
+own exposures accurately or to project the adverse effects they would suffer in a tail event, as 
+
+opposed to a more ordinary cyclical downturn.  CCAR has required the firms to steadily improve 
+
+their risk management and capital planning processes.  Indeed, some of the firms--particularly 
+
+the less complex banks within the CCAR cohort--are now meeting, or are close to meeting, our 
+
+supervisory expectations across a range of risk management and capital planning processes.  
+
+The CCAR Review 
+
+Clearly, then, we regard the stress testing and CCAR programs to have made substantial 
+
+contributions to protecting the safety and soundness of the nation’s largest financial firms and to 
+
+promoting the stability of the financial system as a whole.  But, equally clearly, if a stress testing 
+
+regime is to continue to play this role, it must be dynamic.  The hypothesized scenarios must 
+
+change to take account of new economic and financial risks.  The supervisory model may, in 
+
+some circumstances, need to be changed to take account of evolving economic conditions and 
+
+bank portfolio characteristics.  Additionally, we have been refining the stress testing and CCAR 
+
+processes in what is, of course, still a relatively new regulatory and supervisory tool.  Changes of 
+
+all these kinds have been, and will continue to be, made from year to year.   
+
+                                                 
+4 The common equity capital ratio--which compares high-quality capital to risk-weighted assets--of the 33 bank 
+holding companies in the 2016 CCAR has more than doubled from 5.5 percent in the first quarter of 2009 to 12.2 
+percent in the first quarter of 2016.  This reflects an increase of more than $700 billion in common equity capital to a 
+total of $1.2 trillion during the same period.  www.federalreserve.gov/newsevents/press/bcreg/20160629a.htm. 
+
+
+
+5 
+ 
+
+After five years of post-crisis stress testing, however, we believed it was important for us 
+
+to conduct a more thorough assessment of the program.  Taking advantage of the shift in timing 
+
+of the annual stress tests following the 2015 cycle, we undertook an overall review.5  We knew 
+
+there were several areas to which attention was needed.  These included the imperfect alignment 
+
+of CCAR with the regulatory capital requirements as they had evolved since we began stress 
+
+testing, the desire for additional macroprudential elements in the stress test, and the qualitative 
+
+component of CCAR as it applied to less complex firms.   
+
+But we also wanted to hear what others thought.  Accordingly, we met with bank 
+
+officials, debt and equity-side market analysts, public interest groups, and academics--both to 
+
+solicit their views on the topics I noted a moment ago and to hear their overall evaluation of, and 
+
+recommendations for, our stress testing and CCAR exercises.  As you can imagine, we received 
+
+a wide range of suggestions, at least some of which were inconsistent with one another.  In the 
+
+main, though, these discussions reflected strong support for stress testing, reinforced our going-
+
+in view of the key issues for consideration, and presented us with some other areas for possible 
+
+change.  Before describing the package of potential changes that is emerging from our review, let 
+
+me explain a bit more about each of the key topics. 
+
+First is the fact that CCAR has been adjusted to align with some, but not all, of the 
+
+important changes made in our regulatory capital rules over the past six years.6  One might 
+
+decide that the regulatory capital rules and CCAR should be different, complementary capital 
+
+measures, roughly the way that a leverage ratio requirement and risk-weighted capital 
+
+                                                 
+5 The 2016 CCAR cycle started one quarter later than past years’ CCAR cycles.   
+6 For example, our regulatory capital rules now include a minimum requirement based on common equity, reflecting 
+the fact that common equity provides the best buffer against losses. As a result, the similar common equity 
+requirement that had been included in the early years of CCAR, to meet an additional post-stress target ratio of tier 1 
+common equity, was removed after CCAR 2015. Other changes that have been integrated into the stress test include 
+modification of the risk-weighted asset calculation methodologies and revised definitions of capital. 
+
+
+
+6 
+ 
+
+requirements are complementary.  In some particulars, though, CCAR sits a bit uneasily 
+
+alongside the ongoing capital requirements.  The most notable example is that CCAR assumes 
+
+that a firm will continue to make its planned capital distributions during a stress period even 
+
+though the regulatory capital rules now include a capital conservation buffer to limit such 
+
+distributions.  Another is that, to this point, CCAR has not reflected the firm-specific capital 
+
+surcharge we have adopted for global systemically important banks (GSIBs). 
+
+Our second key topic was the macroprudential dimension of the stress testing and CCAR 
+
+regimes.  One of the most important lessons of the financial crisis was that prudential regulation, 
+
+including capital regulation, had been dominantly microprudential in nature, even for the largest 
+
+firms.  That is, the regulation was designed and applied with a view mostly to the idiosyncratic 
+
+risks faced by a bank in isolation, without regard to the interaction of the bank and the financial 
+
+system as a whole.  Thus, for example, capital regulation did not take account of fire sale effects-
+
+-the reduction in portfolio values for one bank by other banks selling certain types of assets in 
+
+order to enhance their own solvency or to counter a reduction in funding availability.  Similarly, 
+
+microprudential capital regulation allows a bank to meet its capital ratios by reducing lending--
+
+that is, by reducing the denominator of its ratio--as well as by increasing capital.  If many banks 
+
+were to follow this strategy, even creditworthy borrowers would be adversely affected, thereby 
+
+exacerbating an economic downturn.  
+
+Our stress testing and CCAR regimes do have some macroprudential elements, which 
+
+have been modestly enhanced over the past few years.  By conducting the stress tests for all large 
+
+banks at the same time under common scenarios, we can evaluate the collective losses that may 
+
+be borne by a major part of the industry in the stress scenario.  We vary scenario design to take 
+
+
+
+7 
+ 
+
+account of a variety of risks to the financial system and in a way that reduces procyclical effects.7  
+
+We vary the market shock over time to reduce the incentive for firms to correlate their asset 
+
+holdings or adopt correlated hedging strategies that are treated relatively favorably under one 
+
+particular market shock scenario.  And we do not allow firms to plan on a reduction in their 
+
+balance sheets as a way to meet capital ratio requirements under stress. 
+
+Still, as currently conceived and implemented, our stress testing regime emphasizes the 
+
+direct risks to bank capital from a severe recession and associated market dislocation via the 
+
+usual channels of reduced operating revenues combined with credit, market, counterparty, and 
+
+operational losses.  However, as noted by some academics and policy analysts, a fully developed 
+
+macroprudential dimension to stress testing would incorporate indirect risks to bank capital 
+
+through channels such as market-wide funding and liquidity disruptions, fire sales, and so on.8  
+
+These amplification effects are obviously particularly important for firms that have relatively 
+
+larger trading books or that rely relatively more on short-term funding, or both.  Indeed, many of 
+
+the academics with whom we discussed stress testing during our review emphasized the 
+
+importance of building out the macroprudential elements of our stress testing program. 
+
+The third topic we had identified for review was the nature of the qualitative assessment 
+
+as it applied to the relatively smaller, less complex firms within the CCAR exercise.  While we 
+
+had always explicitly differentiated our risk management and capital planning expectations for 
+
+these firms, our supervisors had observed that many such firms seemed uncertain of whether 
+
+they would nonetheless be held to the more stringent standards intended for the largest, most 
+
+                                                 
+7 Daniel K. Tarullo (2013), “Macroprudential Regulation,” speech delivered at the Yale Law School Conference on 
+Challenges in Global Financial Services, New Haven, CT, September 20.  
+8 See, for example, David Greenlaw, Anil Kashyap, Kermit Schoenholtz, and Hyun Song Shin  (2012), “Stressed 
+Out: Macroprudential Principles for Stress Testing.” Chicago Booth Research Paper No. 12-08, Fama-Miller 
+Working Paper (Chicago: University of Chicago Booth School of Business, February 13). 
+
+
+
+8 
+ 
+
+complex firms.  In the course of our review, comments from these smaller, less complex firms 
+
+confirmed this observation.  Officials from these banks expressed the view that the CCAR 
+
+qualitative assessment was unduly burdensome because it created pressure to develop complex 
+
+processes, extensive documentation, and sophisticated stress test models that mirrored those in 
+
+use at the largest, most complex firms, in order to avoid the possibility of a public objection to 
+
+their capital plan.  Since our intention had never been to create an incentive for firms with a 
+
+relatively small systemic footprint to invest in stress testing processes appropriate only for larger 
+
+or more complex firms, we knew we needed to address this problem. 
+
+Results of the Review 
+
+After more than a year of discussions and analysis, we have developed ideas for changes 
+
+to the stress testing and CCAR regimes that would address these three key issues, along with 
+
+some related matters that arose during the course of our review.  Some of these changes would 
+
+need to be pursued through rulemakings, including the usual notice-and-comment process.  
+
+Others can be implemented through nonregulatory changes, though some will need further 
+
+elaboration in moving from idea to concrete practice.  Thus, there is a necessarily provisional 
+
+character to the package set forth here.  Except for the relief from the qualitative requirements 
+
+for smaller, less complex CCAR firms--which I will describe a bit later--we do not contemplate 
+
+proposing regulations to implement these ideas until early next year.  Thus, any such changes 
+
+would not apply to the coming 2017 DFAST/CCAR cycle.   
+
+Better Alignment of CCAR with the new regulatory capital rules 
+
+As I noted earlier, there have been significant additions to regulatory capital requirements 
+
+since the first CCAR exercise began in late 2010.  While some--such as revised risk-weighted 
+
+asset calculation methodologies and definitions of capital--have been integrated into the stress 
+
+
+
+9 
+ 
+
+testing program, other important additions have not.  Most significant are the various capital 
+
+buffer requirements that sit atop the regulatory minimum levels.  These include a uniform 2.5-
+
+percent capital conservation buffer (CCB), the GSIB surcharge, and a countercyclical buffer that 
+
+can expand the CCB for a broad range of firms in times of increasing financial vulnerabilities.9  
+
+Firms that do not hold capital sufficient to meet or exceed this combined buffer level are subject 
+
+to restrictions on their capital distributions and bonus payments to executives, which become 
+
+progressively stricter as their capital level falls deeper into the buffer.  
+
+To better align CCAR with the regulatory capital rules as they now stand, we will be 
+
+considering adoption of a “stress capital buffer” (SCB) approach to setting post-stress capital 
+
+requirements that would further integrate our capital rules with our stress test and CCAR 
+
+frameworks.  The simplest way to describe it is that the SCB would replace the existing 2.5 
+
+percent CCB as a component in each CCAR firm’s point-in-time capital requirements.  The SCB 
+
+would be risk-sensitive and vary across firms, based on the results of the annual stress test.  
+
+Specifically, it would be set equal to the maximum decline in a firm’s common equity tier 1 
+
+capital ratio under the severely adverse scenario of the supervisory stress test before the inclusion 
+
+of the firm’s planned capital distributions, a simplification from the current practice of 
+
+calculating the capital positions of the firm separately for each quarter in the scenario horizon.   
+
+As is now the case with the CCB and other applicable capital buffers, a firm would be 
+
+subject to restrictions on its capital distributions whenever its capital levels fall below the 
+
+combined regulatory minima and buffers.  Although it is likely that the stress test losses will 
+
+continue to exceed 2.5 percent of risk-weighted assets for most GSIBs, the SCB would have a 
+
+                                                 
+9 The countercyclical buffer applies to banking organizations with more than $250 billion in assets or $10 billion in 
+on-balance-sheet foreign exposures and to any depository institution subsidiary of such organizations. See 12 CFR 
+Part 217, Appendix A. 
+
+
+
+10 
+ 
+
+specified floor at this current CCB level to avoid any reduction in the stringency of the 
+
+regulatory capital rules.  A firm’s buffer requirement would be recalculated after each year’s 
+
+stress test, and its capital plan would not be approved in CCAR if the plan indicated that the firm 
+
+would fall into the buffer under the stress test’s baseline projections.  
+
+Let me use a hypothetical example to illustrate how the SCB would work.  Assuming that 
+
+a firm’s common equity tier 1 capital ratio declines in CCAR’s severely adverse scenario from 
+
+13 percent to 8 percent, that firm’s SCB would be the greater of 2.5 percent or the 5 percent 
+
+decline--thus, 5 percent.  Assuming further that this firm is a GSIB with a surcharge of 3 percent 
+
+and that the countercyclical buffer is not in effect, the firm would be constrained in making 
+
+capital distributions that would bring its common equity tier 1 capital ratio under 12.5 percent.  
+
+The 12.5 percent figure is the sum of the 4.5 percent minimum common equity tier 1 risk-
+
+weighted capital requirement, the 3 percent surcharge, and the 5 percent stress loss as calculated 
+
+in annual stress test.10 
+
+Because the GSIB capital surcharge already exists as an additional buffer requirement in 
+
+the regulatory capital rules, the stress capital buffer approach would effectively add the GSIB 
+
+capital surcharge to our estimates of the amount of capital needed under stress.  This would 
+
+generally result in a significant increase in capital requirements applicable to the GSIBs, for most 
+
+of which CCAR has been their binding capital constraint.  But having both the stress loss buffer 
+
+and the capital surcharge included in our capital requirements is wholly consistent with the 
+
+reasons for having a capital surcharge in the first place.  Indeed, not having the two together has 
+
+actually been an anomaly that arose from the sequencing of the various capital strengthening 
+
+measures we have undertaken.   
+
+                                                 
+10 Figure 1 further illustrates the stress capital buffer.  
+
+
+
+11 
+ 
+
+The Board adopted the GSIB surcharge requirement as part of its implementation of 
+
+section 165 of the Dodd-Frank Act, which established the important macroprudential principle 
+
+that financial firms should be subject to increasingly stringent regulation as their systemic 
+
+importance increases.  As explained in more detail in the white paper that accompanied the 
+
+Board’s final GSIB risk-based capital surcharge rule,11 the material distress or failure of a GSIB 
+
+would have an adverse impact on the financial system as a whole that is far greater than the 
+
+impact on the financial system of the distress or failure of a non-GSIB banking firm. 
+
+Accordingly, GSIBs should face capital surcharges to compel internalization of those external 
+
+costs.  This should reduce the probability of a GSIB’s failure enough below that of a non-GSIB 
+
+that the expected impact on the system of a GSIB and a non-GSIB failure are more comparable. 
+
+Because the difference in the external costs of the distress or failure of a GSIB as 
+
+compared to a non-GSIB is likely to be at least as high during times of macroeconomic and 
+
+financial market stress as during ordinary times, there is no reason why the GSIB surcharge 
+
+should not be a part of the post-stress capital regime.  A complementary point is that the extra 
+
+buffer required by the GSIB surcharge also reflects the fact that even the best-conceived annual 
+
+stress scenarios cannot capture all tail risks in the financial system.  The integration of capital 
+
+rules and the stress test thus advances our second aim in initiating our CCAR review--the 
+
+incorporation of more macroprudential elements. 
+
+As some of you may know, Chair Yellen and I have, on a number of occasions over the 
+
+past year or so, indicated publicly that we would be considering the effective incorporation of the 
+
+surcharge into post-stress capital expectations.  Some industry representatives have subsequently 
+
+argued that this step is not warranted.  While we will of course address these and other comments 
+
+                                                 
+11 Board of Governors of the Federal Reserve System (2015), “Calibrating the G-SIB Surcharge,” white paper 
+(Washington: Board of Governors of the Federal Reserve System, July 20). 
+
+
+
+12 
+ 
+
+as our rulemaking process moves forward, I want to comment now on a couple of arguments, 
+
+since they seem to reflect a misunderstanding of our stress testing program or of the regulatory 
+
+structure established by the Dodd-Frank Act. 
+
+One such argument is that it is duplicative to include both the anticipated losses under 
+
+stress and the GSIB surcharge in a firm’s capital requirement because two elements of our 
+
+current stress test, the global market shock and the counterparty default shock, only apply to 
+
+GSIB firms.  However, these additional scenario components capture direct losses to which any 
+
+firm engaged in material trading activity is exposed.  The market shock measures the trading 
+
+mark-to-market losses associated with sudden changes in asset prices.  The large counterparty 
+
+default measures the losses associated with repricing counterparty exposures based on the market 
+
+shock, and then assuming the default of the counterparty that represents the largest net exposure.  
+
+These components of the stress test do not capture the adverse impact of a GSIB failure on the 
+
+financial system as a whole--the risks that are the basis for the GSIB surcharge.  
+
+These components of our stress test currently apply only to GSIBs because GSIBs are the 
+
+only firms currently in CCAR for which these exposures are material.  Non-GSIBs currently do 
+
+not have material trading activities and so would suffer only small direct trading losses as a result 
+
+of severely stressed market conditions or the failure of a major derivatives or repurchase 
+
+agreement (repo) counterparty.  As the U.S. intermediate holding companies of foreign banks 
+
+with more material trading businesses in their U.S. operations are added to CCAR, we intend to 
+
+revisit whether the global market shock and counterparty default component should be applied to 
+
+firms beyond the U.S. GSIBs.  
+
+Another argument offered against inclusion of the surcharge as an element of post-stress 
+
+capital expectations is that the material distress or failure of a GSIB no longer poses a significant 
+
+
+
+13 
+ 
+
+threat to financial stability due to the regulations and supervisory programs that are designed to 
+
+improve GSIB resolvability.  These measures include, among others, the proposed total loss 
+
+absorbing capacity (TLAC) rule, the proposed qualifying financial contracts early termination 
+
+rule and related International Swap and Derivatives Association (ISDA) protocols, and efforts to 
+
+ensure firms engage in strong recovery and resolution planning.  
+
+It is true that these efforts have improved GSIB resolvability in recent years.  But these 
+
+efforts are ongoing, rather than complete.  More importantly, while there is certainly a 
+
+relationship between the goals of strengthening the resiliency of the most systemically important 
+
+firms and making them more readily resolvable should they nonetheless fail, those are still 
+
+separate regulatory aims.  The demise of a very large financial institution would cause 
+
+substantial damage to the economy and the financial system even if it was not so disorderly as to 
+
+threaten the system entirely.  Note, in this regard, that the Dodd-Frank Act requires both more 
+
+stringent prudential standards for systemically important firms and a process for promoting the 
+
+orderly resolution of these same firms.  While the complementarity of these and other elements 
+
+of a regulatory program always warrant consideration, and while adjustments in all aspects of the 
+
+program should be made as conditions and practices evolve, current work on orderly resolution 
+
+is surely no argument against the promotion of systemic stability and macroprudential aims by 
+
+integrating the surcharge requirement with CCAR.   
+
+Changes to the treatment of planned dividends and share repurchases  
+
+The shift to a stress capital buffer approach would provide a mechanism for addressing 
+
+two issues related to capital distribution limitations under CCAR.  The first is the arguable 
+
+inconsistency between, on the one hand, the existing CCAR assumption that all planned 
+
+dividends and share repurchases would proceed during the two-year planning horizon, regardless 
+
+
+
+14 
+ 
+
+of how much stress the bank was under and, on the other, the concept of a capital conservation 
+
+buffer above minimum capital requirements as it has been added to the capital rules.  The second 
+
+is a soft limitation on dividends put in place by the Board at the inception of CCAR.  Both of 
+
+these features of CCAR reflected supervisory concerns with the fact that, even as the financial 
+
+crisis was clearly unfolding, some of the largest banks continued to repurchase shares and pay 
+
+dividends to shareholders and, thereby, depleted capital that proved to be needed later.12 
+
+The SCB approach addresses the first of these issues by providing a continuous constraint 
+
+on any planned distributions that would bring capital levels below the sum of the minimum 4.5 
+
+percent of risk-weighted assets plus the firm-specific SCB, plus any applicable GSIB 
+
+surcharge.13  However, because declines in observed and reported capital levels usually occur 
+
+with a lag, and the historical evidence that dividends are less likely to be curtailed than share 
+
+repurchases,14 we would assume a firm will maintain its dividends for one year while reducing 
+
+its repurchases.  This would have the effect of requiring a firm to hold capital to meet its stress 
+
+losses and fund its planned dividends over the next year. 
+
+The switch to an SCB approach would also give us an opportunity to address a second 
+
+issue, the soft limit on dividends in CCAR.  Since its inception, our policy statements on CCAR 
+
+have indicated that a capital plan with a planned dividend payout ratio above 30 percent would 
+
+be subjected to particularly close scrutiny.  When this policy was adopted in late 2010, we 
+
+expected that it would be a useful guideline during a period when most of the CCAR banks 
+
+                                                 
+12 See Beverly Hirtle (2014), “Bank Holding Company Dividends and Repurchases during the Financial Crisis,” 
+Staff Report No. 666 (New York: Federal Reserve Bank of New York, March). 
+13 Were a countercyclical capital buffer to be imposed, it would be added to the buffers above the 4.5 percent 
+minimum capital requirement. 
+14 During the financial crisis, firms began to curtail share repurchases beginning in 2007 but generally did not cut 
+dividends until late 2008. See Hirtle (2014). 
+
+
+
+15 
+ 
+
+would need to continue increasing capital levels for some time but also recognized that at some 
+
+point we would need to revisit it.   
+
+Since the new approach of adding one year’s planned dividends to a firm’s capital buffer 
+
+should act as a disincentive for imprudent or unsustainable levels of dividends, the notion of 
+
+extra scrutiny on planned dividends may no longer be useful.  And we would, in any case, be 
+
+reluctant to substitute a higher payout ratio for the original 30 percent ratio because it may end 
+
+up being an implicit target for banks to try to reach.  However, firms planning higher dividends 
+
+should be aware that the operation of the SCB is such that, if a firm planned to pay out all of its 
+
+earnings in the form of dividends and things did not go as well as expected for the firm, it could 
+
+end up having to cut its dividend. 
+
+Balance sheet and risk-weighted asset assumptions 
+
+Beyond requiring that large banks have the resiliency to weather a period of serious 
+
+financial stress, an important macroprudential aim of stress testing is to ensure that they can 
+
+provide credit to households and businesses that remain creditworthy even in such a period.  If 
+
+banks maintain their capital ratios under stress by reducing their balance sheets through asset 
+
+sales, or reductions in new lending, this crucial intermediation function will be compromised 
+
+across the economy.  The result could be a credit crunch, likely resulting in a more severe or 
+
+longer-lasting recession.  In the first few years of CCAR, we used the banks’ own projections 
+
+where many banks planned on balance sheet declines as part of their strategy for remaining 
+
+sufficiently capitalized.15  In the 2014 CCAR cycle, we replaced banks’ projections with our own 
+
+                                                 
+15 The original stress test undertaken during the crisis did not allow this assumption, precisely because of our aim 
+that the large banks as a group be well-positioned to meet the needs of creditworthy borrowers at that time of great 
+stress. 
+
+
+
+16 
+ 
+
+model, adding a requirement that banks would not restrict the supply of loans during the severely 
+
+adverse scenario.   
+
+To date, the model has actually operated to project an increase in the balance sheets of 
+
+the CCAR banks during the severely adverse scenario, with varying impacts on different 
+
+portfolios.  This assumption, and its somewhat complicated implementation, was designed to be 
+
+fairly conservative, in a manner not dissimilar to the assumptions about capital distributions.  
+
+Numerous banks have attempted to show why some of these portfolios or business lines would 
+
+not be increasing under any reasonable assumptions, and thus that even macroprudential goals do 
+
+not justify ignoring the likelihood that those portfolios would decline.  During our review of 
+
+CCAR, some banks proposed ways to distinguish among business lines so as to relax what they 
+
+argued to be an unrealistic assumption, even one with a macroprudential purpose.  
+
+The complexities of trying to differentiate across idiosyncratic business lines seem to us 
+
+considerable.  We are instead considering replacing this feature of our model with a simple 
+
+assumption that balance sheets and risk-weighted assets remain constant over the severely 
+
+adverse scenario horizon.  Given that some decline in demand by creditworthy borrowers for 
+
+loans is inevitable in a serious recession, this simpler assumption would still achieve the 
+
+macroprudential policy objective that any such decline in lending during a recession is 
+
+attributable to the impact of the recession, rather than to capital constraints at the large banks. 
+
+This change would also make the treatment of balance sheets and risk-weighted assets simpler 
+
+and more transparent.  
+
+Toward a more macroprudential stress testing regime 
+
+ The second major objective in our stress testing review was to integrate more 
+
+macroprudential elements into the program.  Of course, combining the GSIB surcharge with the 
+
+
+
+17 
+ 
+
+SCB approach promotes an important macroprudential aim, since the surcharges are calibrated to 
+
+force large, interconnected banks to internalize the additional costs their distress would impose 
+
+on the financial system.  The surcharges are thus at least a partial surrogate for inclusion of 
+
+various macroprudential features in the stress test.  
+
+We are also considering a couple of relatively modest revisions we are considering to the 
+
+Board’s “Policy Statement on the Scenario Design Framework for Stress Testing”16 that are 
+
+motivated by the macroprudential consideration of reducing procyclicality.  The first would be to 
+
+make the severity of the change in the unemployment rate less severe during downturns.  The 
+
+second would be to replace the current judgmental approach to setting the hypothesized path of 
+
+house prices by tying this variable to disposable personal income.  The result would be a more 
+
+countercyclical path of house prices and increased transparency into how we determine the 
+
+severity of this very important element of the scenario.  
+
+ Beyond these steps, we heard many ideas during our review on how we might pursue our 
+
+macroprudential objective by adding new features to the stress test, especially from official 
+
+sector representatives and academics.  We also reviewed the growing academic literature on this 
+
+topic.  We concluded that, to this point, even the most conceptually promising of the ideas are a 
+
+good ways from being realized in specific and well-supported elements of our economic models.  
+
+Many macroprudential risks involve the spread of stress from one firm or market to others.  As 
+
+such, macroprudential elements of stress tests often must estimate not just first-round losses, but 
+
+also the knock-on effects, which depend significantly on the vulnerabilities and responses of all 
+
+other major actors in the financial system, including many that we do not regulate.  Modelling 
+
+                                                 
+16 See 12 CFR part 252, appendix A. 
+
+
+
+18 
+ 
+
+these effects requires information about the behavior of those actors that may not be observable 
+
+either to a firm or to us.   
+
+Notwithstanding these and other practical challenges, many of the suggestions we 
+
+received have focused on important potential risks that bear further inquiry by regulators.  Hence 
+
+we will be undertaking a research program to pursue these ideas in order to better understand the 
+
+quantitative consequences of new risks and business activities, potential amplification channels 
+
+such as fire sales by which stress could migrate from the large banks to the rest of the financial 
+
+system, and important dynamics between capital and liquidity positions.  At a minimum, this 
+
+research should inform scenario design and the overall regulatory and financial stability 
+
+functions of the Board.  And at least some of the ideas might eventually be translated into 
+
+features of the stress testing regime.  Over the medium term we view three related areas as the 
+
+highest priorities: funding shocks, liquidity shocks, and spillovers from the default of common 
+
+counterparties.   
+
+Funding shocks 
+
+Funding stresses are a natural starting point. As banks incur losses and their capital base 
+
+erodes, some of their creditors will demand additional compensation and bank funding costs will 
+
+increase.  This kind of “direct” funding shock is really microprudential because the resulting 
+
+losses depend largely on the bank’s own decisions about its capital base, asset risk, and reliance 
+
+on short-term wholesale funding.  As such, it should be more straightforward to integrate direct 
+
+funding shocks into our main stress testing framework than to integrate systemwide effects, and 
+
+we will consider whether, and how, to do so in the relatively near term. 
+
+In a “systemic” funding shock, by contrast, each bank’s cost of funds depends on the 
+
+capital position of the system as a whole.  By taking the overall solvency of the system into 
+
+
+
+19 
+ 
+
+account, this element captures a key amplification channel evident during the last financial crisis.  
+
+As the banking system experienced capital losses, the cost of funding increased and some 
+
+wholesale funding markets shut down even for relatively healthy banks.  The potential for this 
+
+kind of funding shock means that the presence of a poorly capitalized bank might increase 
+
+funding costs for all banks--a classic kind of macroprudential concern. 
+
+Liquidity shocks and fire sale dynamics 
+
+As we saw during the last financial crisis, repo and other funding markets can simply 
+
+close to distressed institutions, which are then unable to access certain kinds of funds at any 
+
+price.  Such a firm may then be forced to make up the funding shortfall by turning to market 
+
+sources of liquidity by selling assets--both high-quality liquid assets like Treasury securities and 
+
+less liquid assets.  During the financial crisis, distressed firms sold large amounts of securities as 
+
+quickly as possible.  The fire sale price discounts required for such rapid execution in turn 
+
+imposed mark-to-market losses on other firms with similar holdings.  To understand better this 
+
+channel of financial contagion, we intend to continue our work on the ability of markets to 
+
+handle large quantities of asset sales under stress, the capacity and willingness of firms to tap 
+
+their buffers of high-quality assets, and the susceptibility of bank capital to mark-to-market 
+
+losses from fire sales.  
+
+Many commentators have drawn attention to these concerns, and some have advocated an 
+
+integrated approach to capital and liquidity stress testing.  We may or may not be able to achieve 
+
+this end point.  At a minimum, though, research in this area will allow us to move in this 
+
+direction, perhaps by using the conclusions reached in the annual stress test as a starting point for 
+
+our annual Comprehensive Liquidity Analysis and Review (CLAR), or vice versa.  The results 
+
+could also shed light on the current calibration of our liquidity rules.   
+
+
+
+20 
+ 
+
+Default of a common counterparty and the reaction of central counterparties 
+
+Currently, the annual stress test incorporates a counterparty default scenario component 
+
+for the eight G-SIBs that measures direct credit loss.  However, this component does not 
+
+consider the potentially large second-round effects of the default of a major financial institution, 
+
+including an increase in the probability of default of other counterparties as a result of the initial 
+
+default and requirements for larger margins from derivatives counterparties.  Of particular 
+
+interest is the role of central counterparties (CCPs) in alleviating or transmitting stress from the 
+
+default of one of their members.  By regulatory design, CCPs have increased in prominence in 
+
+the post-crisis environment because they can lead to greater efficiency and transparency in 
+
+trading.  But this increased role makes it important to understand the impact they may have in 
+
+stressed conditions.  For example, CCPs collect prefunded resources that can mitigate the impact 
+
+of a default, but also can call on surviving clearing members for additional financial resources if 
+
+those pre-funded resources are exhausted.  
+
+Promoting transparency 
+
+Transparency has played an important role in making stress testing such a key part of 
+
+post-crisis prudential regulation.  Transparency of the scenarios and results gives investors and 
+
+analysts valuable information about the condition of the tested banks, thereby contributing to 
+
+market discipline.  It also allows the public to evaluate the job that the Federal Reserve is doing.  
+
+For example, analysts can compare our loss estimates for specified portfolios under specified 
+
+stress conditions with their own evaluations--an exercise that can inform both the analysts and 
+
+us.   
+
+There are three areas in which transparency considerations need to be applied.  First is the 
+
+set of scenarios applied in the annual exercise.  We release essentially all details of the scenarios 
+
+
+
+21 
+ 
+
+and, further, have published a policy statement exploring the aims and factors relevant to 
+
+development of the scenarios.17   
+
+Second is the set of results of the DFAST and CCAR exercises themselves.  Right from 
+
+the start--during the Supervisory Capital Assessment Program (SCAP) in 2009--we adopted what 
+
+was then the controversial practice of publishing post-stress capital ratio results for each 
+
+participating firm, along with a breakdown of the projected losses by loan type.  Since then, we 
+
+have substantially increased the breadth of the disclosed results, including a summary of the 
+
+reasons for any qualitative objection or conditional non-objection to firms’ capital plans.  During 
+
+the course of our review, suggestions were made for more granular disclosures, such as 
+
+providing more details on different components of projected net revenues.  We will make this 
+
+change, and possibly a few others, over the course of the next cycle or two of stress testing.18 
+
+The third area for transparency involves the supervisory models used in the stress tests.  
+
+Banks involved in DFAST/CCAR have regularly requested more disclosures so that they can 
+
+better understand the likely impact on their firms.  One argument has been that banks will have a 
+
+difficult time in their capital planning if they cannot predict how loss functions and other model 
+
+features will affect their stress losses.  In part to remove the possibility that a bank would receive 
+
+a quantitative objection to its capital plan because of a large gap between their loss estimates and 
+
+those produced by the supervisory model, a few years ago we began allowing banks to revise 
+
+their capital distribution requests following receipt of their DFAST results.  Under the SCB 
+
+                                                 
+17 See 12 CFR 252, appendix A; Board of Governors of the Federal Reserve System (2013), “Policy Statement on 
+the Scenario Design Framework for Stress Testing,” Final Rule; Policy Statement, November 29.   
+18 Quite recently some banks have also suggested disclosing some version of the supervisory letters we send 
+following the annual CCAR to each participating firm detailing our assessment of their capital planning processes.  
+These banks believe that analysts and investors could benefit from knowing more detail on the concerns of the 
+supervisors.  We had already been considering how to increase the information provided around qualitative 
+objections or conditional non-objections and will factor these latest observations into this decision. 
+
+
+
+22 
+ 
+
+approach, a bank could also adjust its planned capital distributions after receiving the stress test 
+
+results to avoid having its baseline capital distribution projections fall into the buffer. 
+
+We have already taken a number of steps to respond to these requests.  We currently 
+
+publish descriptions of all models used in the stress test, including the key risk drivers and 
+
+scenario variables for each key modeling area.  We host an annual conference about modelling 
+
+practices.  We disclose a description of the most material changes to stress test models before 
+
+each stress test.  We are considering further steps, such as disclosing descriptions of changes 
+
+well in advance of the stress test, and phasing in the most material model changes over two 
+
+years, so as to smooth somewhat the effects of the changes on projected losses or revenues.  
+
+Finally, and a bit more tentatively, we are assessing the feasibility of publishing data that 
+
+represent typical bank portfolios of loans and securities with the losses we would project for 
+
+those portfolios under various stress scenarios.  This kind of information could also help the 
+
+public trace how changes in risk drivers alter loss projections. 
+
+Having said all this, let me now say that we do not intend to publish the full computer 
+
+code in the supervisory model that is used to project revenues and losses.  Full disclosure would 
+
+permit firms to game the system--that is, to optimize portfolio characteristics based on the 
+
+parameters of the model and take risks in areas not well-captured by the stress test just to 
+
+minimize the estimated stress losses.  In part for this reason, full disclosure could promote a 
+
+“model monoculture” in which both supervisors and firms use the same models to evaluate risks.  
+
+A critical part of the DFAST/CCAR process is that firms use their own models to assess their 
+
+risks.  We do not want them simply to copy the supervisory model and thereby increase the 
+
+vulnerability of the financial system to the inevitable blind spots in even the best models. 
+
+
+
+23 
+ 
+
+In short, this is not like using a model to develop a regulation that, for example, limits 
+
+emissions of polluting substances.  In such a case, adherence to the precise model output would 
+
+itself achieve the regulatory purpose.  Here, by contrast, the very purpose of the regulatory 
+
+regime would be undermined.  Remember, this is a stress test.  The shifts in activities of banks 
+
+and in the economy create a dynamic set of risks.  Effective prudential regulation must be 
+
+equally dynamic and should try to avoid pushing major financial firms toward measuring all of 
+
+their risk positions in exactly the same way. 
+
+ There is, however, one additional consideration.  Because the stress tests would be 
+
+undermined by giving the models to the banks, there are of course limited opportunities for 
+
+external parties to assess the models.  To promote the integrity of the models in these 
+
+circumstances, we established a Model Validation Group, which is composed of modelling 
+
+experts who are not involved in the design and application of the stress test models.  They make 
+
+regular assessments and offer suggestions for improvement.  We expect to be providing the 
+
+public greater information on our internal validation processes. 
+
+Eliminating the qualitative CCAR exercise for smaller firms 
+
+ As you can already tell, our responses to the need for better alignment of the stress test 
+
+with our capital rules and to the desirability of more macroprudential emphasis each required a 
+
+good bit of explanation.  In contrast, our response to the issue of the unnecessary burden on 
+
+smaller, less complex CCAR firms is both simply stated and simply achieved. 
+
+ In a notice of proposed rulemaking that the Board is releasing today we are proposing 
+
+that banks with less than $250 billion in assets that do not have significant international or 
+
+nonbank activity would no longer be included in the annual CCAR qualitative review.  As noted 
+
+earlier, many of these firms have already met supervisory expectations.  We do not intend for 
+
+
+
+24 
+ 
+
+less complex firms to invest in stress testing capabilities on par with the most complex firms and, 
+
+given their profile, we feel these firms can maintain the progress they have made through the 
+
+normal supervisory process, supplemented with targeted horizontal reviews of discrete aspects of 
+
+capital planning.   
+
+This shift will reduce the intensity of supervision of their capital planning processes, 
+
+remove any uncertainty as to supervisory expectations for their firms relative to the largest firms, 
+
+and eliminate the possibility of a public objection to their capital plans on qualitative grounds.  
+
+They would still be included in the quantitative side of the stress test and the proposed stress 
+
+capital buffer.  But we are also proposing to reduce the amount of data these firms are required to 
+
+submit for the purpose of running the stress test, on what we call the Y-14 regulatory reports.  
+
+Unlike the other substantial changes we are contemplating to CCAR and our stress test, we are 
+
+proposing that these changes would be effective next year, for CCAR 2017. 
+
+ Conclusion 
+
+This set of changes we are considering for our stress testing regime has been motivated 
+
+by somewhat different considerations, against the backdrop of what we intend to remain a 
+
+dynamic regulatory instrument whose procedures will be regularly refined and whose substance 
+
+will be regularly adapted to changing economic conditions and industry practices.  Still, in 
+
+pulling this package of modifications together, we have consciously shaped them in accordance 
+
+with the principle that financial regulation should be progressively more stringent for firms of 
+
+greater importance, and thus potential risk, to the financial system.  Two features of the package 
+
+reflect this principle. 
+
+
+
+25 
+ 
+
+First, of course, is the elimination of the qualitative portion of CCAR for nearly all the 
+
+firms with less than $250 billion in assets, along with some record keeping and reporting 
+
+requirements.   
+
+The second key feature is the differential impact the better alignment of CCAR with our 
+
+capital regulations will have on the roughly 30 firms that are covered.  Let me note at the outset 
+
+that the precise effects on the capital requirements of individual firms cannot be determined 
+
+because of the very nature of the stress test regime.  The scenarios vary from year to year, and 
+
+the resulting projected effects on losses and revenues may also vary materially depending on the 
+
+composition of a firm’s balance sheet and activities.  However, to provide some idea of what the 
+
+impact may be, we assessed how the various changes I have mentioned would have affected 
+
+capital requirements in the two most recent CCAR cycles.  On average for the eight GSIBs, 
+
+integration of the surcharge with the post-stress requirements would have been somewhat less 
+
+than half offset by the simplifying changes in the prefunding of capital distributions and balance 
+
+sheet assumptions.  The impact on capital requirements will likely be greater for firms with 
+
+larger GSIB surcharges. 
+
+For the other CCAR firms, for which there are no capital surcharges, these simplifying 
+
+assumptions will result in some reduction of post-stress capital requirements.  We estimate that 
+
+the aggregate impact of these changes for the CCAR firms as a whole should be a modest 
+
+increase in the total amount of required capital.  But this increase will be totally due to the 
+
+impact on the eight GSIB firms, whose increased capital requirements will more than offset the 
+
+reductions for the other firms. 
+
+ In short, the GSIBs will see their capital requirements rise.  All other CCAR firms will 
+
+see some reduction in their capital requirements.  And firms that have less than $250 billion in 
+
+
+
+26 
+ 
+
+assets and do not have extensive international or nontraditional banking activities will also 
+
+transition to a more tailored set of capital planning expectations outside the CCAR process. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+

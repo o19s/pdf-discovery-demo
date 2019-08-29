@@ -1,0 +1,720 @@
+
+For release on delivery 
+
+1:30 p.m. EST (12:30 p.m. CST)  
+
+November 6, 2014 
+
+
+
+
+
+
+
+
+
+A Financial System Perspective on Central Clearing of Derivatives 
+
+
+
+
+Remarks by 
+
+
+Jerome H. Powell 
+
+
+Member 
+
+
+Board of Governors of the Federal Reserve System 
+
+
+at 
+
+
+“The New International Financial System:  Analyzing the Cumulative Impact of 
+
+Regulatory Reform” 
+
+
+17th Annual International Banking Conference 
+
+
+Sponsored by the Federal Reserve Bank of Chicago and the Bank of England 
+
+
+Chicago, Illinois 
+
+
+
+
+
+
+
+
+November 6, 2014 
+
+
+
+
+
+Thank you for the opportunity to address the important topic of how the financial 
+
+system and its regulation have evolved in response to the global financial crisis.  I will 
+
+focus my remarks on the global initiative to expand central clearing of over-the-counter 
+
+(OTC) derivatives.  While we have made significant progress in enlisting central clearing 
+
+to reduce systemic risks, I will argue that there is a good deal more to do to ensure that 
+
+the reforms achieve their potential and minimize the possibility of unintended and 
+
+undesirable consequences.1 
+
+Prior to the crisis, the then highly opaque market for OTC derivatives grew at an 
+
+astonishing and unsustainable pace of nearly 25 percent per annum in a context of 
+
+relatively light regulation and bilateral clearing.2  With the benefit of hindsight, we know 
+
+that along with this torrid growth came an unmeasured and underappreciated buildup of 
+
+risk.  The spectacular losses suffered by American International Group, Inc., or AIG, on 
+
+its derivatives positions, and the resulting concerns about the potential effect of AIG’s 
+
+failure on its major derivatives counterparties, serve as particularly apt reminders of the 
+
+wider failures and weaknesses that were revealed by the crisis.   
+
+The threats posed were global, and the response was global as well.  In September 
+
+2009, the Group of Twenty (G-20) mandated that all sufficiently standardized derivatives 
+
+should be centrally cleared--a sea change in the functioning and regulation of these 
+
+markets.  And in the five intervening years, substantial progress has been made in the 
+
+United States and abroad to implement this reform and begin to reduce systemic risk in 
+
+                                                 
+1 The views expressed here are my own and are not necessarily shared by other members of the Federal 
+
+Reserve Board or the Federal Open Market Committee. 
+2 According to the Bank for International Settlements, the notional amount of OTC derivatives outstanding 
+
+grew from $80.3 trillion in December 1998 to $598.1 trillion in December 2008, which corresponds to an 
+
+annual growth rate of 22.2 percent per year.  For more information, see Bank for International Settlements, 
+
+“Derivatives Statistics,” webpage, www.bis.org/statistics/derstats.htm.  
+
+
+ - 2 - 
+
+these markets.  According to public data, roughly 20 percent of all credit derivatives and 
+
+45 percent of all interest rate derivatives are now centrally cleared--amounts that have 
+
+grown substantially since 2009, when central clearing of credit derivatives began and the 
+
+amount of cleared interest rate derivatives was at roughly one-half of its current level.3  
+
+These amounts should continue to grow over time as central clearing and, especially, 
+
+client clearing requirements take effect in more jurisdictions. 
+
+Given the global nature of derivatives markets, the success of the reform agenda 
+
+depends critically on international coordination.  Thus, to support the move to central 
+
+clearing and address other lessons from the financial crisis, regulators developed the new 
+
+Principles for Financial Market Infrastructures (PFMIs) for the infrastructures that clear 
+
+derivatives, securities, and payments.4  The PFMIs are comprehensive international 
+
+standards for the governance, risk management, and operation of central counterparties 
+
+(CCPs) and other financial market infrastructures.  Such standards are essential given 
+
+that, in the interest of transparency and improved risk management, policymakers have 
+
+encouraged the concentration of activities at these key nodes.  And it is particularly 
+
+important that the standards be promulgated globally, given the potential for OTC 
+
+derivatives to span multiple jurisdictions and to migrate to jurisdictions where standards 
+
+and risk management are less robust.  Regulators are now engaged in the important work 
+
+of translating these principles into national regulations.  Only when these strong 
+
+                                                 
+3 Financial Stability Board (2014), OTC Derivatives Market Reforms:  Seventh Progress Report on 
+
+Implementation (Basel, Switzerland:  FSB, April), 
+
+www.financialstabilityboard.org/publications/r_140408.pdf. 
+4 See Committee on Payment and Settlement Systems and Technical Committee of the International 
+
+Organization of Securities Commissions (2012), Principles for Financial Market Infrastructures (Basel, 
+
+Switzerland:  Bank for International Settlements and International Organization of Securities Commissions, 
+
+April), www.bis.org/cpmi/publ/d101a.pdf.  
+
+
+ - 3 - 
+
+international standards have been implemented at CCPs around the world can the risk 
+
+reduction promised by the global clearing mandate be fully realized. 
+
+Further Challenges Facing Central Clearing  
+
+The task is far from complete.  We must consider how central clearing and CCPs 
+
+fit into the rest of the financial system.  From this systemwide perspective, central 
+
+clearing raises a number of important issues that should be kept in mind as its use 
+
+increases.  I will now consider several of those issues and associated challenges in some 
+
+detail.   
+
+A number of commentators have argued that the move to central clearing will 
+
+further concentrate risk in the financial system.  There is some truth in that assertion.  
+
+Moving a significant share of the $700 trillion OTC derivatives market to central clearing 
+
+will concentrate risk at CCPs.  But the intent is not simply to concentrate risk, but also to 
+
+reduce it--through netting of positions, greater transparency, better and more uniform 
+
+risk-management practices, and more comprehensive regulation.  This strategy places a 
+
+heavy burden on CCPs, market participants, and regulators alike to build a strong market 
+
+and regulatory infrastructure and to get it right the first time.   
+
+It has also been frequently observed that central clearing simplifies and makes the 
+
+financial system more transparent.  That, too, has an element of truth to it, but let’s take a 
+
+closer look.  Charts similar to the ones shown in figure 1 are frequently offered to 
+
+illustrate the point that, as a CCP becomes a buyer to every seller and a seller to every 
+
+buyer, it causes risks to be netted and simplifies the network of counterparties.  The 
+
+dizzying and opaque constellation of exposures that exists in a purely bilateral market, 
+
+illustrated in the chart on the left, is replaced by a neat hub-and-spoke network that is 
+
+
+ - 4 - 
+
+both known and more comprehensible, illustrated in the chart on the right.  The CCP and 
+
+its regulators are then in a position to observe the CCP’s entire network, which can be 
+
+important in the event that one or more clearing members become impaired.  CCPs may 
+
+also be able to coordinate a response to problems in their markets in ways that individual 
+
+clearing members would find very difficult.   
+
+Figure 2 shows that, at the same time, in the real world CCPs bring with them 
+
+their own complexities.  As the figure shows, we do not live in a simple world with only 
+
+one CCP.  We do not even live in a world with one CCP per product class, since some 
+
+products are cleared by multiple, large CCPs.5  Also, significant clearing members are 
+
+often members of multiple CCPs in different jurisdictions.  The disruption of a single 
+
+member can have far-reaching effects.  Accordingly, while CCPs simplify some aspects 
+
+of the financial system, in reality, the overall system supporting the OTC derivatives 
+
+markets remains quite complex. 
+
+To carry out their critical functions, CCPs rely on a wide variety of financial 
+
+services from other financial firms, such as custody, clearing, and settlement.  Many of 
+
+these services are provided by the same global financial institutions that are also the 
+
+largest clearing members of the CCPs.  The failure of a large clearing member that is also 
+
+a key service provider could disrupt the smooth and efficient operation of one or multiple 
+
+CCPs, and vice versa.  In the event of disorderly CCP failures, the netting benefits and 
+
+other efficiencies that CCPs offer would be lost at a point when the financial system is 
+
+already under significant stress.  Ultimately, the system as a whole is only as strong as its 
+
+weakest link.         
+
+                                                 
+5 As an example, both the Chicago Mercantile Exchange and the Intercontinental Exchange clear credit 
+
+default swaps. 
+
+
+ - 5 - 
+
+People often think of these relationships between CCPs and clearing members in 
+
+terms of credit exposures, but there are also important interconnections in the need for 
+
+and use of liquidity.  Historically, some CCPs viewed liquidity in terms of daily 
+
+operational needs.  From a macroprudential perspective, this view of liquidity is far too 
+
+narrow.  If a CCP is to act as a buffer against the transmission of liquidity shocks from a 
+
+clearing member’s default, the CCP itself must have a buffer of liquidity it can draw on 
+
+to make its payments on time even during periods of market stress.  The PFMIs 
+
+introduced a new liquidity standard that requires CCPs to cover, at a minimum, the 
+
+liquidity needs of the CCP on the failure of the single clearing member and its affiliates 
+
+with the largest aggregate position, in extreme but plausible market conditions.  Liquidity 
+
+needs are to be met with a predefined list of liquid resources, starting with cash.   
+
+Moreover, the largest clearing members participate in many CCPs around the 
+
+world.  Cash management at these clearing members, particularly intraday cash 
+
+management, involves interconnected cash flows to and from a clearing member’s 
+
+various CCPs, other market infrastructures, and other financial institutions.  If a clearing 
+
+member were to default, cash flows and needed financial services could be disrupted 
+
+simultaneously at several CCPs.  Failure of one or more CCPs to pay margin or settle 
+
+obligations as promised could impair the ability of a clearing member to meet other 
+
+obligations and transmit liquidity risk to others in the financial system.  Accordingly, 
+
+CCPs require a liquidity profile that will allow them to absorb rather than amplify the 
+
+liquidity shocks that are likely to materialize during a period of financial stress following 
+
+a member’s default.  
+
+
+ - 6 - 
+
+Of course, clearinghouses have been around for quite some time and have 
+
+generally stood up well even in severe crises.6  But let’s look a little deeper at the risks.  
+
+During the global financial crisis, governments around the world took extraordinary 
+
+actions to shore up many of the large financial institutions that are also large clearing 
+
+members.  While it is not possible to say with confidence what would have happened if 
+
+these measures had not been taken, it is surely the case that whatever pressures CCPs 
+
+faced would have been many times greater, and the potential consequences much greater 
+
+as well.  Moreover, as CCPs grow into their enhanced role in the financial system, they 
+
+will represent an ever larger locus for systemic risk.  It is therefore important not to be 
+
+lulled into a false sense of security that past performance is a guarantee of future CCP 
+
+success.   
+
+After the crisis, governments firmly resolved that even the largest financial 
+
+institutions must be allowed to fail and be resolved without taxpayer support and without 
+
+threatening the broader financial system or the economy.  CCPs therefore need to adapt 
+
+to a world in which their largest clearing members will be allowed to fail and to be 
+
+resolved without taxpayer support.  And, as I will discuss a little later, the same is true of 
+
+CCPs--they, too, should have no expectation of taxpayer support if they fail.  To say it as 
+
+plainly as possible, the purpose of all of this new infrastructure and regulation is not to 
+
+facilitate the orderly bailout of a CCP in the next crisis.  Quite to the contrary, CCPs and 
+
+                                                 
+6 See, for example, Jerome H. Powell (2013), “OTC Market Infrastructure Reform:  Opportunities and 
+
+Challenges,” speech delivered at the Clearing House 2013 annual meeting, New York, November 21, 
+
+www.federalreserve.gov/newsevents/speech/powell20131121a.htm; and Ben S. Bernanke (2011), 
+
+“Clearinghouses, Financial Stability, and Financial Reform,” speech delivered at the 2011 Financial 
+
+Markets Conference, a meeting sponsored by the Federal Reserve Bank of Atlanta, held in Stone Mountain, 
+
+Ga., April 4, www.federalreserve.gov/newsevents/speech/bernanke20110404a.htm. 
+
+
+
+
+
+ - 7 - 
+
+their members must plan to stand on their own and continue to provide critical services to 
+
+the financial system, without support from the taxpayer.   
+
+The Road Ahead:  Meeting the Challenges 
+
+As you can see, central clearing represents the confluence of critical market 
+
+infrastructure and systemic financial institutions.  As a result, the regulation and 
+
+supervision of CCPs present particular challenges.  What matters most is the stability of 
+
+the entire system, not that of one sector or another.  In the United States, CCPs are 
+
+primarily regulated by either the Commodity Futures Trading Commission or the 
+
+Securities and Exchange Commission.  Under authority provided by the Dodd-Frank 
+
+Wall Street Reform and Consumer Protection Act of 2010, the Federal Reserve also plays 
+
+a role in supervising and regulating systemically important CCPs and other financial 
+
+market utilities.7  In addition, the Federal Reserve is the holding company supervisor of a 
+
+number of the largest clearing members.  The challenge is to ensure that regulation and 
+
+supervision take into account the broad implications of derivatives trading for CCPs, their 
+
+members, and the broader financial system.  Close collaboration between regulators--both 
+
+domestically and internationally--will be necessary to ensure that central clearing can 
+
+promote the kind of financial system resiliency that will be required when another severe 
+
+crisis threatens.   
+
+While central clearing and CCPs do present a number of complex and unique 
+
+challenges, these challenges are not insurmountable.  Several measures should be 
+
+considered in the near term to further strengthen the market and regulatory infrastructure 
+
+                                                 
+7 The Federal Reserve Board’s authority to supervise systemically important CCPs is provided in title VIII 
+
+of the Dodd-Frank Act. 
+
+
+
+
+ - 8 - 
+
+relating to liquidity, transparency, stress testing, “skin in the game,” and recovery and 
+
+resolution.     
+
+Liquidity   
+
+The adoption of the PFMIs around the world is driving improvements in CCP 
+
+liquidity.8    Ultimately, CCPs and their supervisors will need to maintain vigilance to 
+
+ensure that liquid resources are sufficient to withstand the kinds of liquidity shocks that 
+
+would likely accompany a member’s default.  In addition, it is crucial that liquidity 
+
+scenario analysis be a regular part of a CCP’s stress-testing program to help ensure that 
+
+appropriate liquidity planning does not suffer from a lack of vision or imagination.      
+
+Transparency   
+
+Enhanced transparency is central to the reform agenda, and there has been some 
+
+progress in this area.  But CCPs need to provide still greater transparency to their clearing 
+
+members and to the public.  The G-20’s central clearing mandate shifted a significant 
+
+amount of activity and control away from dealers to CCPs.  With this shift, CCPs took on 
+
+the responsibility of managing risks in a way that is transparent to the clearing members 
+
+who are subject to the decisions of the CCP.  Clearing members need a full and detailed 
+
+understanding of their risk exposure to CCPs, which means that clearing members must 
+
+have detailed and appropriate information on stress-test results, the specification and 
+
+application of margin models, and the sizing of default funds to cover losses.  Without a 
+
+clear picture of a CCP’s risk profile, clearing members cannot make informed decisions 
+
+                                                 
+8 In the United States, these standards were implemented by the Commodity Futures Trading Commission 
+
+for derivative-clearing organizations in November 2013 and by the Federal Reserve for certain financial 
+
+market utilities that are designated as systemically important by the Financial Stability Oversight Council 
+
+in October 2014.  
+
+
+
+
+ - 9 - 
+
+about whether to clear with a particular CCP or how to judge their exposures to it.  All 
+
+major stakeholders--clearing members, clients, regulators, and the broader market--
+
+should be aware of the risks involved so that they can take appropriate steps to mitigate 
+
+them. 
+
+Stress testing   
+
+The disclosure of CCP stress-test results to clearing members is important so that 
+
+clearing members can have a full understanding of a CCP’s risk profile.  This disclosure, 
+
+however, would be of little help if the stress tests themselves were insufficiently 
+
+comprehensive and robust.  For example, consider a case in which a bank belongs to two 
+
+CCPs that clear similar products but the disclosed stress tests for the CCPs are based on 
+
+materially different scenarios.  This state of affairs could easily result in more confusion 
+
+than clarity.   
+
+It is time for domestic and international regulators to consider steps to strengthen 
+
+credit and liquidity stress testing conducted by CCPs.  Currently, most major CCPs 
+
+engage in some form of stress testing.  However, both clearing members and regulators 
+
+need a more systematic view of what stress tests are performed, at what frequency, with 
+
+what assumptions, and with what results.  Aside from these issues involving individual 
+
+stress tests, there are also important questions about the comparability of stress scenarios, 
+
+assumptions, and results across similar and different types of CCPs.  A related issue is 
+
+whether regulators should consider some sort of standardized approach to supervisory 
+
+stress testing.  Not all CCPs are alike.  But there may be approaches that could bring 
+
+some of the benefits of standardization while allowing tailoring of some scenarios to the 
+
+activities of particular CCPs or groups of CCPs.  Clearly, a greater degree of uniformity 
+
+
+ - 10 - 
+
+would be helpful to clearing members that are comparing test results across several CCPs 
+
+and to regulators that are considering systemwide stability.  For example, there are likely 
+
+some financial market stresses, such as rapid and significant increases in market 
+
+volatility, that would be expected to have broad effects across financial markets and 
+
+participants.  Coordinated stress tests could also help us better understand the 
+
+macroprudential risks around liquidity that I discussed earlier.  Understanding the effect 
+
+of such correlated stresses on a wide array of CCPs will be important for ensuring overall 
+
+system resiliency.  Going forward, regulators will need to work collaboratively to ensure 
+
+that stress tests are robust, informative, and appropriately comparable.       
+
+Skin in the game   
+
+A number of commentators have urged U.S. authorities to consider requiring 
+
+CCPs to place significant amounts of their own loss-absorbing resources in front of the 
+
+mutualized clearing fund or other financial resources provided by clearing members.  
+
+These skin-in-the-game requirements are intended to create incentives for the owners of 
+
+CCPs for careful consideration of new products for clearing, for conservative modeling 
+
+of risks, and for robust default waterfalls and other resources to meet such risks as may 
+
+materialize.9  The issue is a complex one, however, and a number of factors would need 
+
+to be considered in formulating such a requirement.    
+
+Recovery and resolution   
+
+I have focused so far on what we can do to ensure that CCPs do not fail:  more 
+
+transparency, enhanced stress testing, more robust capital and default waterfalls, stronger 
+
+                                                 
+9 See, for example, the related discussion in Committee on Payment and Settlement Systems (2010), 
+
+Market Structure Developments in the Clearing Industry:  Implications for Financial Stability (Basel, 
+
+Switzerland:  Bank for International Settlements, November), www.bis.org/cpmi/publ/d92.pdf.  
+
+
+ - 11 - 
+
+liquidity, and increased incentives to appropriately manage risks.  I will conclude my 
+
+remarks today by discussing what happens when all of these efforts encounter a severe 
+
+stress event.  Try as we might to prevent the buildup of excessive risk, we need to be 
+
+prepared for the possibility that a CCP may fail or approach failure in the future.  When 
+
+and if such a crisis materializes, CCPs will be called on to stand on their own.  CCPs and 
+
+regulators need to develop clear and detailed CCP recovery and resolution strategies that 
+
+are well designed to minimize transmission of the CCP’s distress to its clearing members 
+
+and beyond.   
+
+Recovery and resolution planning is a matter of intense focus among regulators 
+
+and industry participants.  Just last month, the Committee on Payments and Market 
+
+Infrastructures and the Board of the International Organization of Securities 
+
+Commissions released their final report on the recovery of financial market 
+
+infrastructures.10  The report is part of an ongoing effort to provide guidance on 
+
+implementing the PFMI requirements for recovery planning.  On the same day, the 
+
+Financial Stability Board released a new report on the resolution of financial market 
+
+infrastructures and their participants to supplement its earlier work on the report Key 
+
+Attributes of Effective Resolution Regimes for Financial Institutions.11 
+
+These reports stress that CCPs must adopt plans and tools that will help them 
+
+recover from financial shocks and continue to provide their critical services without 
+
+government assistance.  It has been a challenge for some market participants to confront 
+
+                                                 
+10 See Committee on Payments and Market Infrastructures and Board of the International Organization of 
+
+Securities Commissions (2014), Recovery of Financial Market Infrastructures (Basel, Switzerland:  Bank 
+
+for International Settlements and International Organization of Securities Commissions, October), 
+
+www.bis.org/cpmi/publ/d121.pdf. 
+11 See Financial Stability Board (2014), Key Attributes of Effective Resolution Regimes for Financial 
+
+Institutions (Basel, Switzerland:  FSB, October), 
+
+www.financialstabilityboard.org/publications/r_141015.pdf.  
+
+
+ - 12 - 
+
+the fact that risks and losses, however well managed, do not simply disappear within a 
+
+CCP but are ultimately allocated in some way to the various stakeholders in the 
+
+organization--even if the risk of loss is quite remote.  This realization has generated a 
+
+healthy debate among CCPs, members, and members’ clients and regulators that has 
+
+provided fertile ground for new thinking about risk design, risk-management tools, and 
+
+recovery planning.  To ensure that CCPs do not themselves become too-big-to-fail 
+
+entities, we need transparent, actionable, and effective plans for dealing with financial 
+
+shocks that do not leave either an explicit or implicit role for the government. 
+
+Conclusion:  Realizing the Promise of Central Clearing  
+
+A key question posed at this conference is whether the reforms instituted in 
+
+response to the crisis have improved the strength and stability of the financial system.  In 
+
+my view, the answer for OTC derivatives reform--and central clearing, in particular--is a 
+
+positive one.  But final pronouncements are premature.  Post-crisis reforms and the rise of 
+
+central clearing have started us down a path toward greater financial stability.  At the 
+
+same time, central clearing brings with it a number of complexities that relate to the 
+
+interaction between CCPs and the rest of the financial system, especially the global 
+
+systemically important financial institutions that represent many of their largest clearing 
+
+members.  Given the increasingly prominent role that central clearing will play in the 
+
+financial system going forward, it is critical that we collectively get central clearing right.  
+
+To do so, I have argued that it is imperative that we consider central clearing from a 
+
+systemwide perspective, and that regulators will need to continue to work collaboratively 
+
+with each other, both domestically and internationally.   
+
+
+
+
+Figure 1.  Bilateral and Centrally Cleared Networks 
+
+
+
+Bilaterally Cleared Network    Centrally Cleared Network  
+ 
+
+
+Note:  The figure on the left shows a bilateral network in the credit default swap (CDS) market for a single and highly traded CDS contract.  The figure on the right shows the 
+
+hypothetical network that would exist if the contract were cleared through a single central counterparty.  In each figure, a red circle denotes a protection seller and a blue one 
+
+denotes a protection buyer.  The size of the circle represents the amount of protection bought or sold.   
+
+Source:  Depository Trust & Clearing Corporation. 
+
+
+
+
+
+
+Figure 2.  Direct Links between LISCC Banks and Global CCPs 
+ 
+
+ 
+Note:  The figure illustrates the network between banks in the portfolio of the Large Institution Supervision Coordinating Committee (LISCC), represented by blue circles, and 
+
+central counterparties (CCPs), represented by red circles.  Each connection indicates the relationship between a member bank and the CCP.   
+
+Source:  Federal Reserve Board. 
+
+
+

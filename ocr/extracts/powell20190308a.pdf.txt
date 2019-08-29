@@ -1,0 +1,899 @@
+
+For release on delivery 
+10:00 p.m. EST (7:00 p.m. PST) 
+March 8, 2019 
+
+Monetary Policy:  Normalization and the Road Ahead 
+
+Remarks by 
+
+Jerome H. Powell 
+
+Chair 
+
+Board of Governors of the Federal Reserve System 
+
+at 
+
+2019 SIEPR Economic Summit 
+
+Stanford Institute of Economic Policy Research 
+Stanford, California 
+
+March 8, 2019 
+
+
+
+Thank you for the opportunity to speak here today at the Stanford Institute for 
+
+Economic Policy Research, a place dedicated to scholarship supporting policies to better 
+
+peoples’ lives.  As today is International Women’s Day, I would like to preface my 
+
+remarks by commending the American Economic Association for highlighting the 
+
+diversity challenges of the economics profession and charting a way forward.  Diversity 
+
+is also a priority at the Fed:  I want the Fed to be known within the economics profession 
+
+as a great place for women, minorities, and others of diverse backgrounds to be  
+
+respected, listened to, and happy. 
+
+Just over 10 years ago, the Federal Open Market Committee (FOMC, or the 
+
+Committee) lowered the federal funds rate close to zero, which we refer to as the 
+
+effective lower bound, or ELB.  Unable to lower rates further, the Committee turned to 
+
+two novel tools to promote the recovery.  The first was forward guidance, which is 
+
+communication about the future path of interest rates.  The second was large-scale 
+
+purchases of longer-term securities, which became known as quantitative easing, or QE.  
+
+There is a range of views, but most studies have found that these tools provided 
+
+significant support for the recovery.  From the outset, the Committee viewed them as 
+
+extraordinary measures to be unwound, or “normalized,” when conditions ultimately 
+
+warranted.   
+
+Today I will explore some important features of normalization and then turn to 
+
+what comes after.  In some ways, we are returning to the pre-crisis normal.  In other 
+
+ways, things will be different.  The world has moved on in the last decade, and 
+
+attempting to re-create the past would be neither practical nor wise.  As normalization 
+
+moves into its later stages, my colleagues and I also believe that this is an important 
+
+
+ - 2 - 
+
+moment to take stock of issues raised by the remarkable experiences of the past decade.  
+
+We are therefore conducting a review of the Fed’s monetary policy strategy, tools, and 
+
+communications practices.  I will conclude with some thoughts on the review. 
+
+Balance Sheet Normalization 
+
+Between December 2008 and October 2014, the Federal Reserve purchased 
+
+$3.7 trillion in longer-term Treasury and agency securities in order to support the 
+
+economy both by easing dislocations in market functioning and by driving down longer-
+
+term interest rates.  Consistent with the Committee’s long-stated intention, in October 
+
+2017 we started the process of balance sheet normalization.  We began gradually 
+
+reducing the reinvestment of payments received as assets matured or were prepaid, 
+
+allowing our holdings to shrink.  The process of reducing the size of the portfolio is now 
+
+well along. 
+
+To frame the discussion of the final stages of normalization of the size of the 
+
+balance sheet, it is useful to consider what the phrase “normal balance sheet” meant in the 
+
+decades before the crisis.  During that period, the main monetary policy decision for the 
+
+FOMC was choosing a target value for the federal funds rate.  Subject to that choice, the 
+
+Fed allowed the demand for its liabilities to determine the size of the balance sheet.  This 
+
+is a feature of “normal” that we are returning to:  After normalization, the size of the 
+
+Fed’s balance sheet will once again be driven by the demand for our liabilities.   
+
+To see what this means, consider figure 1, which shows the size of the Fed’s 
+
+balance sheet through time, as measured by total liabilities.  The values are stated as a 
+
+percentage of the dollar value of GDP, or gross domestic product.1  Liabilities began to 
+
+                                                 
+1 The balance sheet had been steady at around 5 percent of GDP since about 1980, as currency slowly grew 
+as a share of GDP, but the increase was offset by a decline in reserves. 
+
+
+ - 3 - 
+
+grow sharply at the end of 2008 and continued to increase until the end of 2014.  Since 
+
+that time, liabilities relative to GDP have fallen appreciably.  To understand these 
+
+changes, it is useful to focus on a snapshot of the balance sheet at three points in time:  
+
+before the crisis, when the balance sheet was at its largest, and a rough projection for the 
+
+end of this year (table 1).   
+
+In 2006, the dominant liability was currency held by the public, and the dominant 
+
+asset was Treasury securities.  The Fed’s asset purchase programs increased the balance 
+
+sheet from just below 6 percent to nearly 25 percent of GDP by the end of 2014.2  
+
+Balance sheets must balance, of course, and the Fed issued reserves as payment for the 
+
+assets purchased.  This action pushed reserves to nearly 15 percent of GDP.  
+
+The Committee has long said that the size of the balance sheet will be considered 
+
+normalized when the balance sheet is once again at the smallest level consistent with 
+
+conducting monetary policy efficiently and effectively.  Just how large that will be is 
+
+uncertain, because we do not yet have a clear sense of the normal level of demand for our 
+
+liabilities.  Current estimates suggest, however, that something in the ballpark of the 
+
+2019:Q4 projected values may be the new normal.  The normalized balance sheet may be 
+
+smaller or larger than that estimate and will grow gradually over time as demand for 
+
+currency rises with the economy.  In all plausible cases, the balance sheet will be 
+
+considerably larger than before the crisis. 
+
+To understand the differences between the new and old normal, consider the final 
+
+column in the table, which shows the change, measured in percentage points of GDP, 
+
+between 2006:Q4 and the 2019:Q4 projection in the table.  In this estimate, relative to 
+
+                                                 
+2 This size is similar to that of the balance sheet relative to GDP in the wake of the Great Depression. 
+
+
+ - 4 - 
+
+before the crisis, the balance sheet will have grown as a share of GDP by about 
+
+10.6 percentage points.  Bank reserves account for the biggest part of the growth, or 
+
+about 5.6 percent of GDP.  The crisis revealed that banks, especially the largest and most 
+
+complex, faced much more liquidity risk than had previously been thought.  Because of 
+
+both new liquidity regulations and improved management, banks now hold much higher 
+
+levels of high-quality liquid assets than before the crisis.  Many banks choose to hold 
+
+reserves as an important part of their strong liquidity positions.  
+
+The rest of the increase in liabilities is accounted for by three other categories.  
+
+First, public currency holdings will have grown by 2.4 percentage points as a share of 
+
+GDP.  Second, the U.S. Treasury maintains an account at the Fed, which has been 
+
+running 1.4 percentage points higher as a share of GDP.  And, third, other liabilities, 
+
+which are mainly associated with the mechanics of the national and international 
+
+financial system, will have grown by 1.1 percentage points.     
+
+As was the case before the crisis, the FOMC’s chosen operating regime for 
+
+controlling short-term interest rates also plays a role in determining the appropriate 
+
+quantity of reserves.  In January, the Committee stated its intention to continue in our 
+
+current regime in which our main policy rate, the federal funds rate or possibly some 
+
+successor, is held within its target range by the interest rates we set on reserves and on the 
+
+overnight reverse repo facility.3  In this system, active management of the supply of 
+
+reserves is not required.  Thus, the supply of reserves must be “ample,” in the sense of 
+
+being sufficient to satisfy reserve demands even in the face of volatility in factors 
+
+                                                 
+3 As noted in the minutes of the November 2018 FOMC meeting (see 
+https://www.federalreserve.gov/monetarypolicy/fomcminutes20181108.htm), participants discussed costs 
+and benefits of various alternatives to the federal funds rate, such as the overnight bank funding rate, and 
+recommended further study of the issue.   
+
+
+ - 5 - 
+
+affecting the reserve market.4  Put another way, the quantity of reserves will equal the 
+
+typical reserve demands of depositories plus a buffer to allow for reserve market 
+
+fluctuations.  
+
+While the precise level of reserves that will prove ample is uncertain, standard 
+
+projections, such as those in the table, suggest we could be near that level later this year.  
+
+As we feel our way cautiously to this goal, we will move transparently and predictably in 
+
+order to minimize needless market disruption and risks to our dual-mandate objectives.  
+
+The Committee is now well along in our discussions of a plan to conclude balance sheet 
+
+runoff later this year.  Once balance sheet runoff ends, we may, if appropriate, hold the 
+
+size of the balance sheet constant for a time to allow reserves to very gradually decline to 
+
+the desired level as other liabilities, such as currency, increase.  We expect to announce 
+
+further details of this plan reasonably soon.   
+
+There is no real precedent for the balance sheet normalization process, and we 
+
+have adapted our approach along the way.  In these final phases, we will adjust the details 
+
+of our normalization plans if economic and financial conditions warrant.  After decisions 
+
+regarding the size of the balance sheet have been made, we will turn to remaining issues, 
+
+such as the ultimate maturity composition of the portfolio.  The Committee has long 
+
+stated that it intends to return to a portfolio consisting primarily of Treasury securities.   
+
+Forward Guidance and the Normalization of Policy Communication  
+
+The Committee has also been normalizing communication about our policy after a 
+
+decade of forward guidance.  Since December 2008, the FOMC’s postmeeting statement 
+
+had contained ever-evolving forms of guidance about keeping the federal funds rate at the 
+
+                                                 
+4 Both supply and demand factors can show large fluctuations. 
+
+
+ - 6 - 
+
+ELB or about the gradual pace at which that rate would return to more normal levels.  We 
+
+removed the last elements of this crisis-era guidance in January.5  The federal funds rate 
+
+is now within the broad range of estimates of the neutral rate--the interest rate that tends 
+
+neither to stimulate nor to restrain the economy.  Committee participants generally agree 
+
+that this policy stance is appropriate to promote our dual mandate of maximum 
+
+employment and price stability.  Future adjustments will depend on what incoming data 
+
+tell us about the baseline outlook and risks to that outlook. 
+
+Policy communication will not simply revert to the ways of the early 2000s, 
+
+however, for transparency advances have continued apace since then.  The most 
+
+significant change from the standpoint of forward guidance is that, since January 2012, 
+
+the FOMC’s quarterly Summary of Economic Projections (SEP) has included federal 
+
+funds rate projections reaching up to three years into the future--often referred to as the 
+
+“dot plot.”  Returning to a world of little or no explicit forward guidance in the FOMC’s 
+
+postmeeting statement presents a challenge, for the dot plot has, on occasion, been a 
+
+source of confusion.  Until now, forward guidance in the statement has been a main tool 
+
+for communicating committee intentions and minimizing that confusion.  
+
+For example, in early 2014, the Committee’s intentions were at odds with a 
+
+common misreading of the dots, and Chair Yellen explained, “[O]ne should not look to 
+
+the dot plot, so to speak, as the primary way in which the Committee wants to or is 
+
+speaking about policy to the public at large.  The FOMC statement is the device that the 
+
+                                                 
+5 Of course, “patience” as used in the January FOMC statement (see 
+https://www.federalreserve.gov/newsevents/pressreleases/monetary20190130a.htm) might be seen as 
+forward guidance.  This type of guidance was used at times before the crisis and may play a role in the 
+future.  It is not, however, the explicit guidance about the medium-term level or direction of rates that 
+distinguished the crisis-era guidance. 
+
+
+ - 7 - 
+
+Committee as a policymaking group uses to express its opinions . . . about the likely path 
+
+of rates.”6  If the Committee remains largely out of the business of explicit forward 
+
+guidance, we will need to find other ways to address the collateral confusion that 
+
+sometimes surrounds the dots.  
+
+As readers of the FOMC minutes will know, at our last meeting in January there 
+
+was an impromptu discussion among some participants of general concerns about the 
+
+dots.  My own view is that, if properly understood, the dot plot can be a constructive 
+
+element of comprehensive policy communication.  Let me follow my two predecessors as 
+
+Chair in attempting to advance that proper understanding.   
+
+Each participant’s dots reflect that participant’s view of the policy that would be 
+
+appropriate in the scenario that he or she sees as most likely.  As someone who has filled 
+
+out an SEP projection 27 times over the last seven years, I can say that there are times 
+
+when I feel that something like the “most likely” scenario I write down is, indeed, 
+
+reasonably likely to happen.  At other times, when uncertainty around the outlook is 
+
+unusually high, I dutifully write down what I see as the appropriate funds rate path in the 
+
+most likely scenario, but I do so aware that this projection may be easily misinterpreted, 
+
+for what is “most likely” may not be particularly likely.  Very different scenarios may be 
+
+similarly likely.  Further, at times downside risks may deserve significant weight in 
+
+policy deliberations.  In short, as Chairman Bernanke explained, the SEP projections are 
+
+merely “inputs” to policy that do not convey “the risks, the uncertainties, all the things 
+
+that inform our collective judgment.”7   
+
+                                                 
+6 See page 9 of Chair Yellen’s March 2014 press conference transcript, available at 
+https://www.federalreserve.gov/mediacenter/files/FOMCpresconf20140319.pdf. 
+7 See page 6 of Chairman Bernanke’s April 2012 press conference transcript, available at 
+https://www.federalreserve.gov/mediacenter/files/FOMCpresconf20120425.pdf.  Note that the SEP does 
+
+
+ - 8 - 
+
+Effectively conveying our views about risks and their role in policy projections 
+
+can be challenging at times, and we are always looking for ways to improve our 
+
+communications.  I have asked the communications subcommittee of the FOMC to 
+
+explore ways in which we can more effectively communicate about the role of the rate 
+
+projections.  For now, let me leave you with a cautionary tale about focusing too much on 
+
+dots.  Here is a picture composed of different colored dots (figure 2).  The meaning of it 
+
+is not clear, although if you stare at it long enough you might see a pattern.  But let’s take 
+
+a step back (figure 3).  As you can see, if you are too focused on a few dots, you may 
+
+miss the larger picture. 
+
+Delivering on the FOMC’s intention to ultimately normalize policy continues to 
+
+be a major priority at the Fed.  Normalization is far along, and, considering the 
+
+unprecedented nature of the exercise, it is proceeding smoothly.  I am confident that we 
+
+can effectively manage the remaining stages. 
+
+Beyond Normalization 
+
+We live in a time of intense scrutiny and declining trust in public institutions 
+
+around the world.  At the Fed, we are committed to working hard to build and sustain the 
+
+public’s trust.  The Fed has special responsibilities in this regard.  Our monetary policy 
+
+independence allows us to serve the public without regard to short-term political 
+
+considerations, which, as history has shown, is critical for sound monetary policymaking.  
+
+But that precious grant of independence brings with it a special obligation to be open and 
+
+transparent, welcoming scrutiny by the public and their elected representatives in 
+
+Congress.  Only in this way can the Fed maintain its legitimacy in our democratic system. 
+
+                                                 
+provide some general information about the balance of risks, but this information is far less complete than 
+the detail provided on the modal outlook. 
+
+
+ - 9 - 
+
+Among other initiatives, my colleagues and I on the FOMC are undertaking a 
+
+year-long review of the Federal Reserve’s monetary policy strategy, tools, and 
+
+communication practices.  The review will involve a series of “Fed Listens” events 
+
+around the country.  These will include town-hall-style meetings and a conference where 
+
+academic and nonacademic experts will share their views.  These events will inform staff 
+
+work and FOMC discussions as we plan for the future.  While this is the first time the 
+
+Fed has opened itself up in this way, many central banks around the world have 
+
+conducted similar reviews, and our approach builds on their experiences. 
+
+We believe that our existing framework for conducting monetary policy has 
+
+generally served the public well, and the review may or may not produce major changes.  
+
+Consistent with the experience of other central banks with these reviews, the process is 
+
+more likely to produce evolution rather than revolution.  We seek no changes in law and 
+
+we are not considering fundamental changes in the structure of the Fed, or in the 2 
+
+percent inflation objective.  While there is a high bar for adopting fundamental change, it 
+
+simply seems like good institutional practice to engage broadly with the public as part of 
+
+a comprehensive approach to enhanced transparency and accountability. 
+
+Without ruling out other topics, we have highlighted three questions that seem 
+
+particularly important at present (figure 4):   
+
+1.  Can the Federal Reserve best meet its statutory objectives with its 
+
+existing monetary policy strategy, or should it consider strategies that aim to 
+
+reverse past misses of the inflation objective? 
+
+
+ - 10 - 
+
+2.  Are the existing monetary policy tools adequate to achieve and 
+
+maintain maximum employment and price stability, or should the toolkit be 
+
+expanded? 
+
+3.  How can the FOMC’s communication of its policy framework and 
+
+implementation be improved? 
+
+I would like to spend a few minutes discussing the first topic.  Because interest 
+
+rates around the world have steadily declined for several decades, rates in normal times 
+
+now tend to be much closer to zero than in the past (figure 5).8  Thus, when a recession 
+
+comes, the Fed is likely to have less capacity to cut interest rates to stimulate the 
+
+economy than in the past, suggesting that trips to the ELB may be more frequent.  The 
+
+post-crisis period has seen many economies around the world stuck for an extended 
+
+period at the ELB, with slow growth and inflation well below target.  Persistently weak 
+
+inflation could lead inflation expectations to drift downward, which would imply still 
+
+lower interest rates, leaving even less room for central banks to cut interest rates to 
+
+support the economy during a downturn.  It is therefore very important for central banks 
+
+to find more effective ways to battle the low-inflation syndrome that seems to accompany 
+
+proximity to the ELB.  
+
+In the late 1990s, motivated by the Japanese experience with deflation and 
+
+sluggish economic performance, economists began developing the argument that a 
+
+central bank might substantially reduce the economic costs of ELB spells by adopting a 
+
+makeup strategy.9  The simplest version goes like this:  If a spell with interest rates near 
+
+                                                 
+8 For evidence on the secular decline in interest rates in the United States and abroad, see King and Low 
+(2014); Holston, Laubach, and Williams (2017); Rachel and Smith (2017); and Brand, Bielecki, and 
+Penalver (2018).   
+9 See Reifschneider and Williams (2000) and references therein. 
+
+
+ - 11 - 
+
+the ELB leads to a persistent shortfall of inflation relative to the central bank’s goal, once 
+
+the ELB spell ends, the central bank would deliberately make up for the lost inflation by 
+
+stimulating the economy and temporarily pushing inflation modestly above the target.  In 
+
+standard macroeconomic models, if households and businesses are confident that this 
+
+future inflationary stimulus will be coming, that prospect will promote anticipatory 
+
+consumption and investment.  This can substantially reduce the economic costs of ELB 
+
+spells.10  Researchers have suggested many variations on makeup strategies.11 For 
+
+example, the central bank could target average inflation over time, implying that misses 
+
+on either side of the target would be offset.   
+
+By the time of the crisis, there was a well-established body of model-based 
+
+research suggesting that some kind of makeup policy could be beneficial.12  In light of 
+
+this research, one might ask why the Fed and other major central banks chose not to 
+
+pursue such a policy.13  The answer lies in the uncertain distance between models and 
+
+reality.  For makeup strategies to achieve their stabilizing benefits, households and 
+
+businesses must be quite confident that the “makeup stimulus” is really coming.  This 
+
+confidence is what prompts them to raise spending and investment in the midst of a 
+
+downturn.  In models, confidence in the policy is merely an assumption.  In practice, 
+
+                                                 
+10 Eggertsson and Woodford (2003), for example, show that optimal policy at the ELB entails a 
+commitment to reflate the price level during subsequent economic expansions.  See also Wolman (2005) 
+for a discussion of the effectiveness of price-level targeting at the ELB.  For a discussion of the relationship 
+between price-level targeting and average-inflation targeting, see Nessén and Vestin (2005).  
+11 The strategy in Reifschneider and Williams (2000), for instance, involves a central bank following a 
+Taylor rule modified to make up for shortfalls in policy accommodation during ELB episodes.  Kiley and 
+Roberts (2017) study a strategy in which policymakers aim for inflation higher than 2 percent during 
+normal times to compensate for below-target inflation during ELB episodes.  See also Bernanke (2017) for 
+a strategy in which low inflation is made up if it occurs when the federal funds rate is at or near the ELB.  
+12 See, for example, English, López-Salido, and Tetlow (2015); Hebden and López-Salido (2018); 
+Bernanke, Kiley, and Roberts (2019); and Mertens and Williams (2019).  
+13 The Bank of Japan (2016) came closest, announcing in September 2016 an “inflation-overshooting 
+commitment” (p. 1).  The commitment did not, however, come with any explicit goal for a degree or 
+duration of overshoot.   
+
+
+ - 12 - 
+
+when policymakers considered these policies in the wake of the crisis, they had major 
+
+questions about whether a central bank’s promise of good times to come would have 
+
+moved the hearts, minds, and pocketbooks of the public.  Part of the problem is that when 
+
+the time comes to deliver the inflationary stimulus, that policy is likely to be unpopular--
+
+what is known as the time consistency problem in economics.14   
+
+Experience in the United States and around the world suggests that more frequent 
+
+ELB episodes could prove quite costly in the future.  My FOMC colleagues and I believe 
+
+that we have a responsibility to the American people to consider policies that might 
+
+promote significantly better economic outcomes.  Makeup strategies are probably the 
+
+most prominent idea and deserve serious attention.  They are largely untried, however, 
+
+and we have reason to question how they would perform in practice.  Before they could 
+
+be successfully implemented, there would have to be widespread societal understanding 
+
+and acceptance--as I suggested, a high bar for any fundamental change.  In this review, 
+
+we seek to start a discussion about makeup strategies and other policies that might 
+
+broadly benefit the American people.   
+
+Conclusion   
+
+Tonight I have focused on policy normalization and our efforts to engage the 
+
+public in what may come after.  Before concluding, I will say a few words on current 
+
+conditions and the outlook.   
+
+                                                 
+14 Transcripts of FOMC discussions (see, for example, 2011 transcripts, available at 
+https://www.federalreserve.gov/monetarypolicy/fomchistorical2011.htm) reveal that some policymakers 
+were dubious about whether it would be appropriate or even feasible for a current FOMC to bind a future 
+FOMC to a policy that it might find objectionable, which contributed to more general doubts over whether 
+the policy would be credible. 
+
+
+ - 13 - 
+
+Right now, most measures of the health and strength of the labor market look as 
+
+favorable as they have in many decades.  Inflation will probably run a bit below our 
+
+objective for a time due to declines in energy prices, but those effects are likely to prove 
+
+transitory.  Core inflation, which is often a reliable indicator of where inflation is headed 
+
+over time, is quite close to 2 percent.  Despite this favorable picture, we have seen some 
+
+cross-currents in recent months.  With nothing in the outlook demanding an immediate 
+
+policy response and particularly given muted inflation pressures, the Committee has 
+
+adopted a patient, wait-and-see approach to considering any alteration in the stance of 
+
+policy. 
+
+Considering monetary policy more broadly, we are inviting thorough public 
+
+scrutiny and are hoping to foster conversation regarding how the Fed can best exercise 
+
+the precious monetary policy independence we have been granted.  Our goal is to 
+
+enhance the public’s trust in the Federal Reserve--our most valuable asset.  
+
+
+
+
+ - 14 - 
+
+References 
+ 
+Bank of Japan (2016).  “New Framework for Strengthening Monetary Easing:  
+
+‘Quantitative and Qualitative Monetary Easing with Yield Curve Control’,” 
+announcement, September 21, 
+https://www.boj.or.jp/en/announcements/release_2016/k160921a.pdf.  
+
+ 
+Bernanke, Ben S. (2017).  “Monetary Policy in a New Era,” paper presented at 
+
+“Rethinking Macroeconomic Policy,” a conference held at the Peterson Institute 
+of International Economics, Washington, October 12-13. 
+
+ 
+Bernanke, Ben S., Michael T. Kiley, and John M. Roberts (2019).  “Monetary Policy 
+
+Strategies for a Low-Rate Environment,” Finance and Economics Discussion 
+Series 2019-009.  Washington:  Board of Governors of the Federal Reserve 
+System, February, https://doi.org/10.17016/FEDS.2019.009. 
+
+ 
+Brand, Claus, Marcin Bielecki, and Adrian Penalver, eds. (2018).  “The Natural Rate of 
+
+Interest:  Estimates, Drivers, and Challenges to Monetary Policy,” ECB 
+Occasional Paper Series No. 217.  Frankfurt, Germany:  European Central Bank, 
+December, https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op217.en.pdf.  
+
+ 
+Eggertsson, Gauti B., and Michael Woodford (2003).  “The Zero Bound on Interest Rates 
+
+and Optimal Monetary Policy,” Brookings Papers on Economic Activity, no. 1, 
+pp. 139-211, https://www.brookings.edu/wp-
+content/uploads/2003/01/2003a_bpea_eggertsson.pdf. 
+
+ 
+English, William B., J. David López-Salido, and Robert J. Tetlow (2015).  “The Federal 
+
+Reserve’s Framework for Monetary Policy:  Recent Changes and New 
+Questions,” IMF Economic Review, vol. 63 (April), pp. 22-70. 
+
+ 
+Friedman, Milton (1969).  The Optimum Quantity of Money.  New York:  MacMillan. 
+ 
+Hebden, James, and J. David López-Salido (2018).  “From Taylor’s Rule to Bernanke’s 
+
+Temporary Price Level Targeting,” Finance and Economics Discussion Series 
+2018-051.  Washington:  Board of Governors of the Federal Reserve System, 
+July, https://doi.org/10.17016/FEDS.2018.051. 
+
+ 
+Holston, Kathryn, Thomas Laubach, and John C. Williams (2017).  “Measuring the Natural 
+
+Rate of Interest:  International Trends and Determinants,” Journal of International 
+Economics, vol. 108 (May, Supplement 1), pp. S59-S75. 
+
+ 
+Kiley, Michael T., and John M. Roberts (2017), “Monetary Policy in a Low Interest Rate 
+
+World,” Brookings Papers on Economic Activity, Spring, pp. 317-72, 
+https://www.brookings.edu/wp-content/uploads/2017/08/kileytextsp17bpea.pdf. 
+
+
+
+
+ - 15 - 
+
+King, Mervyn, and David Low (2014).  “Measuring the ‘World’ Real Interest Rate,” 
+NBER Working Paper Series 19887.  Cambridge, Mass.:  National Bureau of 
+Economic Research, February, https://www.nber.org/papers/w19887.pdf. 
+
+ 
+Mertens, Thomas M., and John C. Williams (2019).  Monetary Policy Frameworks and 
+
+the Effective Lower Bound on Interest Rates, Staff Report 877.  New York:  
+Federal Reserve Bank of New York, January, 
+https://www.newyorkfed.org/medialibrary/media/research/staff_reports/sr877.pdf. 
+
+ 
+Nessén, Marianne, and David Vestin (2005).  “Average Inflation Targeting,” Journal of 
+
+Money, Credit and Banking, vol. 37 (October), pp. 837-63. 
+ 
+Rachel, Lukasz, and Thomas D. Smith (2017).  “Are Low Real Interest Rates Here to 
+
+Stay?” International Journal of Central Banking, vol. 13 (September), pp. 1-42. 
+ 
+Reifschneider, David, and John C. Williams (2000), “Three Lessons for Monetary Policy 
+
+in a Low Inflation Era,” Journal of Money, Credit and Banking, vol. 32 
+(November), pp. 936-66. 
+
+ 
+Wolman, Alexander L. (2005).  “Real Implications of the Zero Bound on Nominal 
+
+Interest Rates,” Journal of Money, Credit and Banking, vol. 37 (March), 
+pp. 273-96. 
+
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+2006 2008 2010 2012 2014 2016 2018 2020
+
+Percent
+
+Projections
+
+Quarterly averages
+
+Figure 1.  Federal Reserve Liabilities as a Share of GDP
+
+Reserve Balances
+
+Other Liabilities
+
+Treasury General Account
+
+Currency in Circulation
+
+      Note:  Key identifies regions in order from top to bottom.  In this figure, currency in circulation is Federal Reserve notes outstanding. 
+Projections of liabilities are based on responses to surveys of primary dealers and market participants conducted by the Federal Reserve 
+Bank of New York.  Nominal GDP projections are from the Congressional Budget Office, The Budget and Economic Outlook: 2019 to 2029.   
+      Source: Federal Reserve Board, Statistical Release H.4.1, "Factors Affecting Reserve Balances," https://www.federalreserve.gov/
+releases/h41; Federal Reserve Board staff calculations; Federal Reserve Bank of New York Primary Dealer Survey and Survey of Market 
+Participants;  Congressional Budget Office (2019), The Budget and Economic Outlook: 2019 to 2029.  (Washington:  CBO), https://
+www.cbo.gov/system/files?file=2019−03/54918−Outlook−2.pdf.
+
+
+Table 1. Federal Reserve Liabilities as a Share of GDP
+(Percent)
+
+2006 2014 2019 2019 to 2006
+Change
+
+Reserve Balances 0.1 14.6 5.7 5.6
+Currency in Circulation 5.5 7.1 7.9 2.4
+Treasury General Account 0.0 0.6 1.4 1.4
+Other Liabilities 0.3 2.5 1.4 1.1
+
+Total Liabilities 5.9 24.8 16.5 10.6
+
+Note: Values shown are averages for each liability item in Q4 of each year divided by Q4 nominal
+GDP in that year. Values for 2019 are based on projections (for details on projections, see the
+Figure 1 note). In this table, currency in circulation is Federal Reserve notes outstanding. Total
+liabilities may not equal the sum of the line items due to rounding.
+
+Source: Federal Reserve Board, Statistical Release H.4.1, "Factors Affecting Reserve Balances,"
+https://www.federalreserve.gov/releases/h41; Federal Reserve Board staff calculations; Federal
+Reserve Bank of New York Primary Dealer Survey and Survey of Market Participants; Congres-
+sional Budget Office (2019), The Budget and Economic Outlook: 2019 to 2029 (Washington:
+CBO), https://www.cbo.gov/system/files?file=2019-03/54918-Outlook-2.pdf.
+
+
+
+Figure 2.  Some Interesting Dots 
+ 
+
+
+
+Source:  Steven Zucker. Seurat, A Sunday on La Grande Jatte—1884, detail with bouquet.  
+https://www.flickr.com/photos/profzucker/8018209742/in/photostream/ 
+
+
+
+
+
+
+
+
+Figure 3.  Georges Seurat’s A Sunday Afternoon on the Island of La Grande 
+Jatte 
+
+
+Source:  Wikimedia, https://upload.wikimedia.org/wikipedia/commons/6/67/A_Sunday_on_La_Grande_Jatte%2C_Georges 
+_Seurat%2C_1884.png. 
+
+
+
+Figure 4.  Questions for the Review of Monetary Policy Strategy, Tools, and 
+Communications 
+
+
+
+1. Can the Federal Reserve best meet its statutory objectives with its existing monetary 
+policy strategy, or should it consider strategies that aim to reverse past misses of the 
+inflation objective? 
+
+2. Are the existing monetary policy tools adequate to achieve and maintain maximum 
+employment and price stability, or should the toolkit be expanded? 
+
+3. How can the FOMC’s communication of its policy framework and implementation be 
+improved? 
+
+
+0
+
+2
+
+4
+
+6
+
+8
+
+10
+
+12
+
+PercentQuarterly
+
+1990 1992 1994 1996 1998 2000 2002 2004 2006 2008 2010 2012 2014 2016 2018
+
+United Kingdom
+
+Canada
+
+United States
+
+Germany
+
+Japan
+
+Figure 5.  Long−Term Government Bond Yields
+
+      Note:  Series are 10−year nominal bond yields.
+
+      Source:  Organisation for Economic Co−operation and Development, Main Economic Indicators (retrieved from Federal Reserve
+
+Bank of St. Louis, FRED).
+

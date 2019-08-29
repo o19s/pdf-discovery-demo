@@ -1,0 +1,730 @@
+
+For release on delivery 
+12:00 p.m. EST  
+November 28, 2018 
+ 
+
+
+The Federal Reserve’s Framework for Monitoring Financial Stability 
+ 
+ 
+ 
+
+Remarks by 
+ 
+
+Jerome H. Powell 
+ 
+
+Chairman 
+ 
+
+Board of Governors of the Federal Reserve System 
+ 
+
+at 
+ 
+
+The Economic Club of New York 
+ 
+
+New York, New York 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+November 28, 2018 
+ 
+
+
+
+It is a pleasure to be back at the Economic Club of New York.  I will begin by 
+
+briefly reviewing the outlook for the economy, and then turn to a discussion of financial 
+
+stability.  My main subject today will be the profound transformation since the Global 
+
+Financial Crisis in the Federal Reserve’s approach to monitoring and addressing financial 
+
+stability.  Today marks the publication of the Board of Governors’ first Financial 
+
+Stability Report.  Earlier this month, we published our first Supervision and Regulation 
+
+Report.  Together, these reports contain a wealth of information on our approach to 
+
+financial stability and to financial regulation more broadly.  By clearly and transparently 
+
+explaining our policies, we aim to strengthen the foundation of democratic legitimacy 
+
+that enables the Fed to serve the needs of the American public.   
+
+Outlook and Monetary Policy 
+
+Congress assigned the Federal Reserve the job of promoting maximum 
+
+employment and price stability.  I am pleased to say that our economy is now close to 
+
+both of those objectives.  The unemployment rate is 3.7 percent, a 49-year low, and many 
+
+other measures of labor market strength are at or near historic bests.  Inflation is near our 
+
+2 percent target.  The economy is growing at an annual rate of about 3 percent, well 
+
+above most estimates of its longer-run trend.   
+
+For seven years during the crisis and its painful aftermath, the Federal Open 
+
+Market Committee (FOMC) kept our policy interest rate unprecedentedly low--in fact, 
+
+near zero--to support the economy as it struggled to recover.  The health of the economy 
+
+gradually but steadily improved, and about three years ago the FOMC judged that the 
+
+interests of households and businesses, of savers and borrowers, were no longer best 
+
+served by such extraordinarily low rates.  We therefore began to raise our policy rate 
+
+
+ - 2 - 
+
+gradually toward levels that are more normal in a healthy economy.  Interest rates are still 
+
+low by historical standards, and they remain just below the broad range of estimates of 
+
+the level that would be neutral for the economy--that is, neither speeding up nor slowing 
+
+down growth.  My FOMC colleagues and I, as well as many private-sector economists, 
+
+are forecasting continued solid growth, low unemployment, and inflation near 2 percent.   
+
+There is a great deal to like about this outlook.  But we know that things often 
+
+turn out to be quite different from even the most careful forecasts.  For this reason, sound 
+
+policymaking is as much about managing risks as it is about responding to the baseline 
+
+forecast.  Our gradual pace of raising interest rates has been an exercise in balancing 
+
+risks.  We know that moving too fast would risk shortening the expansion.  We also know 
+
+that moving too slowly--keeping interest rates too low for too long--could risk other 
+
+distortions in the form of higher inflation or destabilizing financial imbalances.  Our path 
+
+of gradual increases has been designed to balance these two risks, both of which we must 
+
+take seriously.   
+
+We also know that the economic effects of our gradual rate increases are 
+
+uncertain, and may take a year or more to be fully realized.  While FOMC participants’ 
+
+projections are based on our best assessments of the outlook, there is no preset policy 
+
+path.  We will be paying very close attention to what incoming economic and financial 
+
+data are telling us.  As always, our decisions on monetary policy will be designed to keep 
+
+the economy on track in light of the changing outlook for jobs and inflation.   
+
+Under the dual mandate, jobs and inflation are the Fed’s meat and potatoes.  In 
+
+the rest of my comments, I will focus on financial stability--a topic that has always been 
+
+on the menu, but that, since the crisis, has become a more integral part of the meal.   
+
+
+ - 3 - 
+
+Historical Perspective on Financial Stability  
+
+The term “financial stability” has a particular meaning in this context.  A stable 
+
+financial system is one that continues to function effectively even in severely adverse 
+
+conditions.  A stable system meets the borrowing and investment needs of households 
+
+and businesses despite economic turbulence.  An unstable system, in contrast, may 
+
+amplify turbulence and prolong economic hardship in the face of stress by failing to 
+
+provide these essential services when they are needed most.  
+
+For Economic Club of New York trivia buffs, I will note that the second ever 
+
+presentation to this club by a Federal Reserve official was about this very topic.  The date 
+
+was March 18, 1929.  Weeks before, the Fed had issued a public statement of concern 
+
+over stock market speculation, and had provided guidance frowning on bank funding of 
+
+such speculation.  William Harding, a former Fed Chair and then president of the Federal 
+
+Reserve Bank of Boston, defended the Fed’s actions in his talk.  He argued that, while the 
+
+Fed should not act as the arbiter of correct asset prices, it did have a primary 
+
+responsibility to protect the banking system’s capacity to meet the credit needs of 
+
+households and businesses.  At the meeting, critics argued that public statements about 
+
+inflated asset prices were “fraught with danger;” that the nation’s banks were so well 
+
+managed that they should not “face public admonition”; and, more generally, that the Fed 
+
+was “out of its sphere.”1  Of course, Harding spoke just a few months before the 1929 
+
+stock market crash, which signaled the onset of the Great Depression.2 
+
+                                                 
+1 See remarks of W.P.G. Harding at a dinner of the Economic Club of New York on March 18, 1929, as 
+reported in “Clash on Policies of Reserve Board” by the New York Times on March 19, 1929, p. 52; and in 
+“Reserve Policy Upheld and Hit” by the Wall Street Journal on March 19, 1929, p. 21.  Also see “Wall 
+Street News and Comment,” Special Dispatch to the [Daily Boston] Globe, on March 24, 1929, p. A60. 
+2 Many factors after the initial crash, including what are now seen as major policy errors, contributed to the 
+Great Depression.  See Milton Friedman and Anna Jacobson Schwartz (1963), A Monetary History of the 
+United States, 1867-1960 (Princeton, N.J.:  Princeton University Press); and Ben S. Bernanke (1983), 
+
+
+ - 4 - 
+
+Fast forwarding, a host of Depression-era reforms helped avoid, for the next 
+
+three-quarters of a century, a systemic financial crisis and the associated severe economic 
+
+dislocation--the longest such period in American history.  Those decades saw many 
+
+advances in monetary policy and in bank regulatory policy, but the appropriate role for 
+
+government in managing threats to the broader financial system remained unresolved.  
+
+Periodic bouts of financial stress during this period--such as the Latin American debt 
+
+crisis, the savings and loan crisis, and the Russian debt default--were met with 
+
+improvised responses.  Policymakers conjured fixes from a mixture of private-sector 
+
+rescues, emergency liquidity, occasional implicit or explicit bailouts, and monetary 
+
+accommodation.  Outside of these crisis responses, however, systemic issues were not a 
+
+central focus of policy.  
+
+The Global Financial Crisis demonstrated, in the clearest way, the limits of this 
+
+approach.  Highly inventive and courageous improvisation amid scenes of great drama 
+
+helped avoid another Great Depression, but failed to prevent the most severe recession in 
+
+75 years.  The crisis made clear that there can be no macroeconomic stability without 
+
+financial stability, and that systemic stability risks often take root and blossom in good 
+
+times.3  Thus, as the emergency phase of the crisis subsided, Congress, the Fed, and the 
+
+other financial regulators began developing a fundamentally different approach to 
+
+financial stability.  Instead of relying on improvised responses after crises strike, 
+
+policymakers now constantly monitor vulnerabilities and require firms to plan in advance 
+
+                                                 
+“Nonmonetary Effects of the Financial Crisis in the Propagation of the Great Depression,” American 
+Economic Review, vol. 73 (June), pp. 257-76. 
+3 Hyman Minsky had long emphasized this point.  For instance, see Hyman P. Minsky (1991), “Financial 
+Crises:  Systemic or Idiosyncratic,” Working Paper 51, prepared for presentation at “Crisis in Finance,” a 
+conference of the Jerome Levy Economics Institute, Bard College, April. 
+
+
+ - 5 - 
+
+for financial distress, in a framework that lays out solutions in advance during good 
+
+times.   
+
+The New Approach to Financial Stability 
+
+This new approach can be divided into three parts.  First, build up the strength and 
+
+resilience of the financial system.  Second, develop and apply a broad framework for 
+
+monitoring financial stability on an ongoing basis.  And third, explain the new approach 
+
+as transparently as possible, so that the public and its representatives in Congress can 
+
+provide oversight and hold us accountable for this work.  Although I’ll focus mainly on 
+
+the stability efforts of the Federal Reserve, a number of federal regulatory agencies have 
+
+responsibilities in this area.  All of these agencies are represented on the Financial 
+
+Stability Oversight Council, or FSOC, which is chaired by the Treasury Secretary and 
+
+which provides a forum for interagency cooperation in responding to emerging risks.   
+
+Building Resilience of the Financial System 
+
+After 10 years of concentrated effort in the public and private sectors, the system 
+
+is now much stronger, with greater capacity to function effectively in stressful times.  In 
+
+the banking system, we have implemented a post-crisis regulatory framework based on 
+
+robust capital and liquidity requirements, a strong stress-testing regime, and mandatory 
+
+living wills for the largest firms.  As a result, banks now have much more high quality 
+
+capital than before (figure 1).  The most recent stress tests indicate that, even after a 
+
+severe global recession, capital levels at the largest banks would remain above regulatory 
+
+minimums, and above the levels those banks held in good times before the crisis.4  The 
+
+                                                 
+4 See the Federal Reserve’s November 2018 Supervision and Regulation Report, available on the Board’s 
+website at https://www.federalreserve.gov/publications/2018-november-supervision-and-regulation-report-
+preface.htm. 
+
+
+ - 6 - 
+
+most systemically important financial institutions also now hold roughly 20 percent of 
+
+their assets in the form of high quality liquid assets--that is, safe assets that could be 
+
+readily sold at short notice (figure 2).  The share of these assets is about four times its 
+
+pre-crisis level. 
+
+Compared with other economies, lending and borrowing in the United States 
+
+depend less on bank loans and more on funds flowing through a wide array of capital 
+
+market channels.  The crisis revealed that this capital market centric system, despite its 
+
+many benefits, also provides more places where systemic risks can emerge.  In response, 
+
+Congress and the regulatory agencies have made many stability-enhancing changes 
+
+outside of the banking system.  For example, many derivatives transactions are now 
+
+required to be centrally cleared, which, through netting, has reduced exposures and 
+
+enabled better management of counterparty risk.  Tri-party repurchase agreement (repo) 
+
+reforms have substantially improved the resilience of that marketplace, in particular by 
+
+limiting intraday loans.  Before the crisis, prime institutional money market funds were 
+
+permitted to report a constant, $1 share price so long as the value of the underlying assets 
+
+remained near $1.  This reporting convention, combined with the implicit support of the 
+
+plans’ sponsors, led investors to treat those funds like bank deposits, even though they 
+
+were not likewise insured.  These funds are now required to report floating net-asset 
+
+values, and after this reform investors chose to migrate to government-only funds, which 
+
+are safer and less susceptible to runs (figure 3).5  These and other measures have reduced 
+
+the risk that key non-bank parts of the system would freeze up in the face of market 
+
+stress.  
+
+                                                 
+5 Given that government money fund asset holdings are limited to safe assets, they are allowed to maintain 
+a $1 share price.   
+
+
+ - 7 - 
+
+A New Framework for Monitoring Systemic Risks  
+
+Innovation and risk-taking contribute to the dynamism of our financial system and 
+
+our economy.  As Hyman Minsky emphasized, along with the many benefits of 
+
+dynamism comes the reality that the financial system will sometimes evolve toward 
+
+excess and dangerous imbalances.6  This reality underscores the vital importance of the 
+
+second part of post-crisis reform:  monitoring for emerging vulnerabilities.  
+
+As laid out in our new Financial Stability Report, we have developed a 
+
+framework to help us monitor risks to stability in our complex and rapidly evolving 
+
+financial system.  The framework distinguishes between shocks, that is, trigger events 
+
+that can be hard to predict or influence, and vulnerabilities, defined as features of the 
+
+financial system that amplify shocks.  The report is organized around four broad 
+
+vulnerabilities that have been prominent in financial crises through the centuries.  Each of 
+
+these vulnerabilities is often found to some degree even in healthy market-based systems, 
+
+and there is not, at present, any generally accepted standard for assessing at what level 
+
+the vulnerabilities begin to pose serious stability risks.  In lieu of such a standard, we flag 
+
+cases in which the vulnerabilities rise well beyond historical norms, and then form 
+
+judgments about the stability risks those cases present.  
+
+The first vulnerability is excessive leverage in the financial sector.7  If a highly 
+
+leveraged segment of the financial system is buffeted by adverse events, the affected 
+
+entities may all need to deleverage at the same time by selling assets, leading to what is 
+
+called a “fire sale.”  Both the resulting decline in asset prices and the impaired ability of 
+
+the segment to play its role in the economy can amplify the effects of a downturn.  We 
+
+                                                 
+6 See Minsky, “Financial Crises,” in note 3. 
+7 A more highly leveraged sector is one that relies more heavily on borrowed money. 
+
+
+ - 8 - 
+
+saw this chain of events play out repeatedly in various parts of the financial sector in the 
+
+weeks following the failure of Lehman Brothers in 2008.   
+
+In our surveillance, we examine leverage across many types of financial 
+
+institutions, including banks, insurance companies, hedge funds, and various funding 
+
+vehicles.  Currently, we do not detect a broad-based buildup of abnormal or excessive 
+
+leverage.  As with banks, capital levels at insurance companies and broker-dealers appear 
+
+robust.  In addition, securitization levels are far below their pre-crisis levels, and those 
+
+structures that do exist rely on more stable funding (see figure 4).  Our view into leverage 
+
+and risk-taking outside the banking sector is admittedly incomplete, however, and we are 
+
+always working to get a better view of emerging leverage excesses.8 
+
+The second vulnerability is funding risk, which arises when banks or nonbank 
+
+financial entities rely on funding that can be rapidly withdrawn.  If depositors or market 
+
+participants lose faith in the soundness of an institution or the system as a whole, unstable 
+
+funding can simply vanish in what is called a “run.”  During the crisis, we saw 
+
+widespread runs, including at broker-dealers, some segments of the repo market, and 
+
+money market mutual funds.  These runs did severe damage, contributing to a 
+
+generalized panic at the time.  Had the authorities not stepped in, the damage could have 
+
+been even more severe.   
+
+Today we view funding-risk vulnerabilities as low.  Banks hold low levels of 
+
+liabilities that are able and likely to run, and they hold high levels of liquid assets to fund 
+
+any outflows that do occur.  Money market mutual fund reforms have greatly reduced the 
+
+run risk in that sector.  More generally, it is short-term, uninsured funding that would be 
+
+                                                 
+8 Sometimes we look to bank lending for information.  Data from the stress tests suggest that the nation’s 
+largest banks have committed about $1 trillion in lines of credit to nonbanks.   
+
+
+ - 9 - 
+
+most likely to run in a future stress event, and the volume of such funding is now 
+
+significantly below pre-crisis peaks.   
+
+Taken together, the evidence on these first two vulnerabilities strongly supports 
+
+the view that financial institutions and markets are substantially more resilient than they 
+
+were before the crisis.  Indeed, the American financial system has successfully weathered 
+
+some periods of significant stress over the past several years.9  
+
+The third vulnerability is excessive debt loads at households and businesses.  
+
+Credit booms have often led to credit busts and sometimes to painful economic 
+
+downturns.  When the bust comes, those who have overborrowed tend to sharply reduce 
+
+their spending.  Defaults typically rise faster than had been expected, which may put 
+
+financial institutions into distress.  These effects may combine to bring a serious 
+
+economic downturn. 
+
+This boom-bust pattern was clear in measures of household debt around the crisis 
+
+period, with mortgage debt rising far above its historical trend and then contracting 
+
+sharply (see figure 5).  After the contraction, household debt has grown only moderately.  
+
+The net increase in mortgage debt has been among borrowers with higher credit scores.  
+
+While heavily indebted households always suffer in a downturn, all of this suggests that 
+
+household debt would not present a systemic stability threat if the economy sours.  
+
+Nonfinancial business borrowing presents a subtler story.  With corporate debt, 
+
+the United States has not faced a massive credit boom like that experienced with 
+
+residential mortgages before the recent crisis.  Instead, after controlling for its trend, 
+
+                                                 
+9 Examples include episodes of intensified concerns over euro-area fiscal challenges, the discontinuous and 
+large appreciation of the Swiss franc in January 2015, and the market volatility associated with global 
+growth concerns in late 2015.   
+
+
+ - 10 - 
+
+business borrowing relative GDP has risen during expansions, no doubt reflecting 
+
+business optimism, and then fallen when the cycle turned, as some of that optimism 
+
+proved unfounded (see figure 6).  By this measure, the ratio of corporate debt to GDP is 
+
+about where one might expect after nearly a decade of economic expansion: it is well 
+
+above its trend, but not yet at the peaks hit in the late 1980s or late 1990s.  Further, the 
+
+upward trend in recent years appears broadly consistent with the growth in business 
+
+assets relative to GDP.   
+
+There are reasons for concern, however.  Information on individual firms reveals 
+
+that, over the past year, firms with high leverage and interest burdens have been 
+
+increasing their debt loads the most (see figure 7).  In addition, other measures of 
+
+underwriting quality have deteriorated, and leverage multiples have moved up.  Some of 
+
+these highly leveraged borrowers would surely face distress if the economy turned down, 
+
+leading investors to take higher-than-expected losses--developments that could 
+
+exacerbate the downturn.  The question for financial stability is whether elevated 
+
+business bankruptcies and outsized losses would risk undermining the ability of the 
+
+financial system to perform its critical functions on behalf of households and businesses.  
+
+For now, my view is that such losses are unlikely to pose a threat to the safety and 
+
+soundness of the institutions at the core of the system and, instead, are likely to fall on 
+
+investors in vehicles like collateralized loan obligations with stable funding that present 
+
+little threat of damaging fire sales.10  Of course, we will continue to monitor 
+
+developments in this sector carefully.  
+
+                                                 
+10 See Jerome H. Powell (2015), “Financial Institutions, Financial Markets, and Financial Stability,” speech 
+delivered at the Stern School of Business, New York University, New York, N.Y., February 18, 
+https://www.federalreserve.gov/newsevents/speech/powell20150218a.htm. 
+
+
+ - 11 - 
+
+The fourth and final vulnerability arises when asset values rise far above 
+
+conventional, historically observed valuation benchmarks--a phenomenon popularly 
+
+referred to as a “bubble.”  The contentious term “bubble” does not appear in our work, 
+
+however.11  Instead, we focus is on the extent to which an asset’s price is high or low 
+
+relative to conventional benchmarks based on expected payoffs and current economic 
+
+conditions.  Historically, when asset prices soar far above standard benchmarks, sharp 
+
+declines follow with some regularity, and those declines may bring economic misery 
+
+reaching far beyond investors directly involved in the speculative boom.  We therefore 
+
+pay close attention when valuations get to the extreme ends of what we have seen in 
+
+history.   
+
+Looking across the landscape of major asset classes, we see some classes for 
+
+which valuations seem high relative to history.  For example, even after standard 
+
+adjustments for economic conditions, valuations on riskier forms of corporate debt and 
+
+commercial properties are in the upper ends of their post-crisis distributions, although 
+
+they are short of the levels they hit in the pre-crisis credit boom.  We see no major asset 
+
+class, however, where valuations appear far in excess of standard benchmarks as some 
+
+did, for example, in the late 1990s dot-com boom or the pre-crisis credit boom. 
+
+The asset class that gets the most attention day-to-day is, of course, the stock 
+
+market. Today, equity market prices are broadly consistent with historical benchmarks 
+
+such as forward price-to-earnings ratios (see figure 8).  It is important to distinguish 
+
+between market volatility and events that threaten financial stability.  Large, sustained 
+
+                                                 
+11 Analysts differ over how to define the term “bubble,” and debate continues about the degree to which 
+economic fundamentals might explain even the most famous apparent bubble cases from history.  On the 
+topic of tulip mania, for example, see Peter M. Garber (1989), “Tulipmania,” Journal of Political Economy, 
+vol. 97 (June), pp. 535-60.” 
+
+
+ - 12 - 
+
+declines in equity prices can put downward pressure on spending and confidence.  From 
+
+the financial stability perspective, however, today we do not see dangerous excesses in 
+
+the stock market.  
+
+Monitoring Likely Triggers for Financial Distress  
+
+I mentioned the distinction between vulnerabilities and shocks, or triggers.  In 
+
+addition to monitoring vulnerabilities under our four-part framework, we also consult a 
+
+broad range of contacts regarding sources of risk that might trigger distress at any given 
+
+time.  For example, discussions with contacts currently point to risks emanating from the 
+
+normalization of monetary policy in the United States and elsewhere, the unsettled state 
+
+of trade negotiations, Brexit negotiations, budget discussions between Italy and the 
+
+European Union, and cyber-related disruptions.12  
+
+Having identified possible triggers, we can assess how a particular trigger is likely 
+
+to interact with known vulnerabilities.  A good current example is that of Brexit.  U.S. 
+
+banks and broker-dealers participate in some of the markets most likely to be affected by 
+
+Brexit.  The Fed and other regulators have been working with U.S. financial institutions 
+
+that have operations in the European Union or the United Kingdom to prepare for the full 
+
+range of possible outcomes to the negotiations.  In addition, the scenarios used in the 
+
+stress tests routinely feature severe global contractions and show that U.S. banks have the 
+
+capital to weather even highly disruptive events.  
+
+                                                 
+12 The Financial Stability Report does not currently have a standard set of metrics for determining the 
+resiliency of critical financial systems to cyber disruptions.  Nonetheless, cyber risks are the subject of 
+ongoing policy efforts at that Federal Reserve and other relevant agencies, and these entities are working to 
+develop resiliency expectations and measures, which may be part of future discussions in the stability 
+report.  
+
+
+ - 13 - 
+
+Bottom Line: Financial Stability Risks Are Moderate 
+
+I have reviewed a few of the key facts that inform our thinking about financial 
+
+stability, and you will find a great deal more detail in our new report.  You will also find 
+
+that the report does not come to a bottom line conclusion.  As I noted earlier, we have 
+
+limited experience with this monitoring, and there is no widely accepted basis for 
+
+reaching a bottom line.  Thus, the purpose of the report is to provide a common platform 
+
+and set of readings from which policymakers and other interested parties can form their 
+
+own views.  Individual policymakers will sometimes differ in their assessments and on 
+
+the relative weight they put on particular vulnerabilities.  My own assessment is that, 
+
+while risks are above normal in some areas and below normal in others, overall financial 
+
+stability vulnerabilities are at a moderate level.13   
+
+In my view, the most important feature of the stability landscape is the strength of 
+
+the financial system.  The risks of destabilizing runs are far lower than in the past.  The 
+
+institutions at the heart of the financial system are more resilient.  The stress tests 
+
+routinely feature extremely severe downturns in business credit, and the largest banks 
+
+have the capital and liquidity to continue to function under such circumstances.  Because 
+
+this core resilience is so important, we are committed to preserving and strengthening the 
+
+key improvements since the crisis, particularly those in capital, liquidity, stress testing, 
+
+and resolution. 
+
+                                                 
+13 The staff have also assessed financial stability vulnerabilities as moderate.  For instance, see the minutes 
+of the Federal Open Market Committee meeting, July 31-August 1, 2018, available on the Board’s website 
+at https://www.federalreserve.gov/newsevents/pressreleases/monetary20180822a.htm. 
+
+
+ - 14 - 
+
+Conclusion 
+
+I’d like to conclude by putting financial stability and our two new reports in a 
+
+longer-term context.  To paraphrase a famous line, “eternal vigilance is the price of 
+
+financial stability.”  We will publish these reports regularly as part of our vigilance.   
+
+Over time, some may be tempted to dismiss the reports entirely or to 
+
+overdramatize any concerns they raise.  Instead, these reports should be viewed as you 
+
+might view the results of a regular health checkup.  We all hope for a report that is not 
+
+very exciting.  Many baby boomers like me are, however, reaching an age where a good 
+
+report is, “Well, there are a number of things we should keep an eye on, but all things 
+
+considered you are in good health.”  That is how I view the Financial Stability Report out 
+
+today.   
+
+We hope that this report and the Supervision and Regulation Report will be 
+
+important tools, sharing Federal Reserve views and stimulating public dialogue regarding 
+
+the stability of the financial system. 
+
+
+
+
+
+
+
+
+
+
+

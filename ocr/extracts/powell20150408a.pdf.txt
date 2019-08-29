@@ -1,0 +1,444 @@
+
+For release on delivery 
+8:00 a.m. EDT 
+April 8, 2015 
+ 
+
+
+Remarks on Monetary Policy 
+ 
+ 
+ 
+
+Remarks by 
+ 
+
+Jerome H. Powell 
+ 
+
+Member 
+ 
+
+Board of Governors of the Federal Reserve System 
+ 
+
+at the 
+ 
+
+C. Peter McColough Series on International Economics 
+Council on Foreign Relations 
+
+ 
+New York, New York 
+
+
+April 8, 2015 
+ 
+
+
+
+Thanks for the opportunity to speak to you today.  In these brief remarks, I will 
+
+discuss the progress of the economy and the path forward for monetary policy.1  The 
+
+current expansion is almost six years old and is now one of the longest since World 
+
+War II.  While the pace of improvement has at times been frustratingly slow, by some 
+
+measures the recovery is now well advanced.  By other measures, there is still room for 
+
+improvement.  Assessing the scope for further improvement will be important in judging 
+
+the appropriate path for monetary policy. 
+
+After its most recent meeting in March, the Federal Open Market Committee 
+
+(FOMC) modified its forward guidance to say that an increase in the target range for the 
+
+federal funds rate will be appropriate when the Committee has seen further improvement 
+
+in the labor market and is reasonably confident that inflation will move back to its 
+
+2 percent objective over the medium term.  Such an increase could come as soon as the 
+
+June FOMC meeting.  The timing of liftoff and the pace of subsequent rate increases will 
+
+depend on incoming data and on realized and expected progress toward our 
+
+congressionally mandated goals of stable prices and maximum employment.  Monetary 
+
+policy works with long and variable lags, so rate increases need to begin well before we 
+
+reach those goals.    
+
+Let us turn to the two main economic conditions for liftoff that the Committee 
+
+articulated.  We have already seen a great deal of progress in the labor market, and I 
+
+expect that progress to continue.  Despite slowing in March, job creation has been 
+
+particularly strong over the past two years.  The unemployment rate has declined from 
+
+10 percent in October 2009 to 5.5 percent in March 2015, a level that is not far above 
+
+1 The views I express here today are mine alone and not necessarily those of any other member of the 
+Federal Open Market Committee. 
+
+
+
+
+ - 2 - 
+
+many estimates of its natural rate.  But the unemployment rate probably understates the 
+
+amount of slack still remaining in the labor market.  The labor force participation rate 
+
+continues to be unusually low, suggesting that potential workers may be waiting on the 
+
+sidelines for further improvements in job opportunities and wages.  The number working 
+
+part time who want full-time jobs also remains elevated.  The low level of wage increases 
+
+also suggests additional slack. 
+
+ The Committee said that it will want to be reasonably confident that inflation will 
+
+move back to 2 percent over the medium term.  On a 12-month basis, headline inflation 
+
+in February, as measured by the personal consumption expenditures price index, stood at 
+
+0.3 percent; meanwhile, core inflation, which excludes volatile energy and food 
+
+components, was 1.4 percent.  These low current readings are partly a consequence of 
+
+two transient shocks--the dramatic decline in oil prices and the effect of the appreciation 
+
+of the dollar on import prices.  Before those shocks, both headline inflation and core 
+
+inflation were running at about 1.5 percent.  When the effects of these shocks pass, I 
+
+expect that inflation will return roughly to those earlier levels and then rise gradually to 
+
+our 2 percent objective over the medium term as labor and product markets tighten 
+
+further.  Despite the current low inflation readings, survey-based measures of inflation 
+
+expectations in the United States have been stable.  However, market-based readings on 
+
+inflation compensation have declined significantly since mid-2014.  I view this decline as 
+
+more likely reflecting movements in risk premiums and other transitory factors, rather 
+
+than shifts in longer-term inflation expectations.  Still, it will be important to keep an eye 
+
+on the performance of inflation breakevens.   
+
+
+ - 3 - 
+
+I expect that economic conditions will support the first rate increase later this 
+
+year.  I do not expect that such an increase or the associated market reaction will 
+
+materially restrain the progress of the economy.  From a macroeconomic perspective, the 
+
+precise timing of liftoff is less important than the path of subsequent additional rate 
+
+increases.  My view is that, if the economy continues on its expected path, it will be 
+
+appropriate for a time to increase rates fairly gradually.  Of course, if the economy 
+
+improves faster or inflation increases more than expected, it will be appropriate to raise 
+
+rates faster.  And if economic performance disappoints or inflation remains lower than 
+
+expected, it will be appropriate to delay liftoff or raise rates more slowly thereafter. 
+
+There are several reasons why it may be appropriate to raise rates somewhat 
+
+gradually, including the proximity of the zero lower bound for interest rates and 
+
+continuing economic headwinds in the wake of the crisis.2  I would like to explore a 
+
+rationale that has received somewhat less attention, which is the unusually high level of 
+
+uncertainty today about capacity measures such as the natural rate of unemployment.3  
+
+Uncertainty about the precise level of these indicators becomes more important for policy 
+
+as the expansion continues and the economy approaches its potential, defined as the level 
+
+of output that is consistent with stable prices. 
+
+2 See Janet Yellen (2015), “Normalizing Monetary Policy:  Prospects and Perspectives,” speech delivered 
+at “The New Normal Monetary Policy,” a research conference sponsored by the Federal Reserve Bank of 
+San Francisco, San Francisco, March 27, 
+www.federalreserve.gov/newsevents/speech/yellen20150327a.htm. 
+3 The natural rate of unemployment can be thought of as the unemployment rate at which the labor market 
+is at its long-run equilibrium and inflation is stable.  We cannot directly observe the natural rate but must 
+infer it based on the performance of wages, prices, and labor market indicators.  Most FOMC participants 
+estimate that the longer-run normal rate is currently in the range of 5.0 to 5.2 percent.  Confidence intervals 
+around statistical estimates of the natural rate are routinely estimated to be quite wide.  For example, 
+Staiger, Stock, and Watson estimate a 95 percent confidence range around the natural rate to extend nearly 
+1½ percentage points on either side of the point estimate.  See Douglas Staiger, James H. Stock, and Mark 
+W. Watson (1997), “How Precise Are Estimates of the Natural Rate of Unemployment?” in Christina D. 
+Romer and David H. Romer, eds., Reducing Inflation:  Motivation and Strategy (Chicago:  University of 
+Chicago Press).     
+
+
+
+
+ - 4 - 
+
+All else equal, a decision to return interest rates to more-normal levels implies 
+
+that the economy is nearing its capacity.  The financial crisis did significant damage to 
+
+the productive capacity of our economy, and the damage was of a character, extent, and 
+
+duration that cannot be fully known today.  Given this uncertainty, it is even more 
+
+difficult than usual to assess how much slack remains.  It seems plausible that at least part 
+
+of this supply-side damage could be reversed if the economy enjoys a period of sustained 
+
+growth.4  To encourage that outcome, as monetary policymakers consider removing 
+
+accommodation, we should look for a little more proof than usual that labor markets are 
+
+tightening or other supply-side constraints are binding.  Of course, if the effects of the 
+
+crisis prove difficult to reverse and, as a result, inflation pressures do emerge, the Federal 
+
+Reserve will use its tools to contain them. 
+
+Let us take a brief look at the implications of severe financial crises for economies 
+
+generally.  Studies document that severe financial crises around the world have typically 
+
+left behind large and sustained reductions in the level of output.5  The recent crisis is no 
+
+exception, and figure 1 shows such an effect for the U.S., U.K., euro-area and Canadian 
+
+4 See, for example, Laurence M. Ball (2014), “Long-Term Damage from the Great Recession in OECD 
+Countries,” NBER Working Paper Series 20185 (Cambridge, Mass.:  National Bureau of Economic 
+Research, May); and Robert E. Hall (2014), “Quantifying the Lasting Harm to the U.S. Economy from the 
+Financial Crisis,” NBER Working Paper Series 20183 (Cambridge, Mass.:  National Bureau of Economic 
+Research, May).  
+5 See Robert F. Martin, Teyanna Munyan, and Beth Anne Wilson (2014), “Potential Output and 
+Recessions:  Are We Fooling Ourselves?” IFDP Notes (Washington:  Board of Governors of the Federal 
+Reserve System, November 12), www.federalreserve.gov/econresdata/notes/ifdp-notes/2014/potential-
+output-and-recessions-are-we-fooling-ourselves-20141112.html; Carmen M. Reinhart and Kenneth S. 
+Rogoff (2009), This Time Is Different:  Eight Centuries of Financial Folly (Princeton:  Princeton 
+University Press); Valerie Cerra and Sweta Chaman Saxena (2008), “Growth Dynamics:  The Myth of 
+Economic Recovery,” American Economic Review, vol. 98 (March), pp. 439-57; and Davide Furceri and 
+Annabelle Mourougane (2009), “The Effect of Financial Crises on Potential Output:  New Empirical 
+Evidence from OECD Countries,” OECD Economics Department Working Papers 699 (Paris:  
+Organisation for Economic Co-operation and Development, May), available at 
+www.oecd.org/eco/theeffectoffinancialcrisesonpotentialoutputnewempiricalevidencefromoecdcountries.ht
+m.  For a different view, see Christina D. Romer and David H. Romer (2015), “New Evidence on the 
+Impact of Financial Crises in Advanced Countries,” NBER Working Paper Series 21021 (Cambridge, 
+Mass.:  National Bureau of Economic Research, March).  
+
+
+
+
+ - 5 - 
+
+economies since 2008.  The underlying pattern is an interesting one.  Economists and 
+
+policymakers have tended at first to view a decline in output as a cyclical shock to 
+
+demand and to realize only gradually over time that a crisis has done substantial and 
+
+lasting damage to the productive capacity of the economy.6  As a result, estimates of the 
+
+gap between actual and potential output often narrow over time, partly through higher 
+
+actual output but also through lower estimates of potential.  For example, figure 2 shows 
+
+that the Congressional Budget Office has made a series of downward revisions to its 
+
+estimates of potential output in recent years.7 
+
+This supply-side damage has typically appeared both in the labor market and in 
+
+the capital stock.8  Long spells of unemployment cause skills to atrophy and make it more 
+
+difficult for workers to find new jobs, raising the natural rate of unemployment for those 
+
+who do remain in the labor force and causing others to throw in the towel and drop out.  
+
+Extended periods of weak demand appear to cause companies to invest less in plant and 
+
+technology, which slows the growth of the productivity of the workforce.  The number of 
+
+new business formations declines sharply, perhaps because of reduced credit availability, 
+
+which may depress hiring, productivity, business innovation, and hence trend output.9  
+
+6 For example, Martin, Munyan, and Wilson show that estimates of potential output generated by common 
+filtering techniques tend to revise down following recessions as actual output grows slower than its pre-
+recession trend; see Martin, Munyan, and Wilson, “Potential Output and Recessions,” in note 5.  In other 
+words, looking backward with many years of hindsight at the evolution of output following a financial 
+crisis, the negative effect on potential output is clearer than it is when estimating the level of potential 
+output in real time immediately following the crises.  As an example of this type of exercise, see Furceri 
+and Mourougane, “Effect of Financial Crises on Potential Output,” in note 5.  
+7 See Congressional Budget Office (2014), Revisions to CBO’s Projection of Potential Output since 2007 
+(Washington:  CBO, February), www.cbo.gov/sites/default/files/45150-PotentialOutput.pdf.   
+8 See Dave Reifschneider, William Wascher, and David Wilcox (2013), “Aggregate Supply in the United 
+States:  Recent Developments and Implications for the Conduct of Monetary Policy,” Finance and 
+Economics Discussion Series 2013-77 (Washington:  Board of Governors of the Federal Reserve System, 
+November), www.federalreserve.gov/pubs/feds/2013/201377/201377abs.html; and Hall, “Quantifying the 
+Lasting Harm to the U.S. Economy,” in note 4.  
+9 For evidence regarding the link between fewer start-ups and lower job growth, see Ryan Decker, John 
+Haltiwanger, Ron Jarmin, and Javier Miranda (2014), “The Role of Entrepreneurship in U.S. Job Creation 
+
+
+
+
+ - 6 - 
+
+Corporate spending on research and development has also been strongly procyclical, 
+
+which may have similar effects.10  
+
+Turning to the recent U.S. experience, many economists now estimate that 
+
+substantially more than half of the shortfall in gross domestic product relative to its pre-
+
+crisis trend represents a reduction of potential output and not just a shortfall in demand.11  
+
+U.S. labor force damage likely accounts for some part of the shortfall.12  The greater part 
+
+appears to have resulted from lower trend labor productivity due to reduced capital 
+
+investment and “multifactor productivity,” which is often thought of as capturing the 
+
+effects of technological innovation.13  The employment rebound suggests that strong 
+
+measures--such as those the Fed took during and after the crisis--can prevent even sharp 
+
+job losses from becoming permanent.  But the productivity slowdown suggests that 
+
+monetary policy cannot, by itself, avert all of the damage.   
+
+and Economic Dynamism,” Journal of Economic Perspectives, vol. 28 (Summer), pp. 3-24.  For an 
+estimate of how the latest recession affected aggregate trend productivity growth in the United States, see 
+Reifschneider, Wascher, and Wilcox, “Aggregate Supply in the United States,” in note 8. 
+10 See Gadi Barlevy (2005), “Why Don’t Recessions Encourage More R&D Spending?” Chicago Fed 
+Letter 220 (Chicago:  Federal Reserve Bank of Chicago, November), 
+www.chicagofed.org/digital_assets/publications/chicago_fed_letter/2005/cflnovember2005_220.pdf; and 
+Diego Comin and Mark Gertler (2006), “Medium-Term Business Cycles,” American Economic Review, 
+vol. 93 (June), pp. 523-51. 
+11 See Congressional Budget Office, Revisions to CBO’s Projection of Potential Output, in note 7; Hall, 
+“Quantifying the Lasting Harm to the U.S. Economy,” in note 4; Ball, “Long-Term Damage from the Great 
+Recession,” in note 4; and Reifschneider, Wascher, and Wilcox, “Aggregate Supply in the United States,” 
+in note 8. 
+12 There is considerable debate about how much of the decline in the employment-to-population ratio and 
+labor force participation has been due to the recession, how much of that decline is reversible, and, 
+relatedly, how much of the decline would have occurred regardless in the absence of a recession.  For the 
+argument that much of the decrease in labor force participation would likely have occurred even in the 
+absence of the recession, see Stephanie Aaronson, Tomaz Cajner, Bruce Fallick, Felix Galbis-Reig, 
+Christopher Smith, and William Wascher (2014), “Labor Force Participation:  Recent Developments and 
+Future Prospects,” Brookings Papers on Economic Activity, Fall, pp. 197-275, available at 
+www.brookings.edu/about/projects/bpea/papers/2014/labor-force-participation-recent-developments-and-
+future-prospects; for the argument that most of the decline is related to the severity of the recession and is 
+likely reversible, see Christopher J. Erceg and Andrew T. Levin (2013), “Labor Force Participation and 
+Monetary Policy in the Wake of the Great Recession,” IMF Working Paper 13/245 (Washington:  
+International Monetary Fund, July), available at www.imf.org/external/pubs/cat/longres.aspx?sk=41133.0.   
+13 See Reifschneider, Wascher, and Wilcox (2013), “Aggregate Supply in the United States,” in note 8. 
+
+
+
+
+ - 7 - 
+
+This consideration raises the question I mentioned a moment ago.  Should we 
+
+think of this supply-side damage as permanent or temporary?  In many previous episodes 
+
+around the world, post-crisis reductions in output have proved permanent.  Nonetheless, 
+
+it seems plausible that at least part of the damage can be reversed.  As business 
+
+confidence improves, employers may be more willing to take a chance on someone with 
+
+an extended spell of unemployment.  A stronger job market and rising wages may 
+
+encourage more potential workers to join the labor force.14  Over a longer period, 
+
+stronger demand can produce higher capital investment, driving higher productivity.  A 
+
+long expansion could also produce higher productivity as companies strive to get more 
+
+out of every dollar of capital and hour of work and as the strong economy encourages 
+
+entrepreneurship and innovation.   
+
+To give us the best chance to recover lost ground, we need policies that support 
+
+labor force participation, business and household confidence, hiring and investment, and 
+
+productivity growth--policies, I hasten to add, that are, for the most part, outside the remit 
+
+of the Federal Reserve.  Monetary policy also has a role to play by continuing to support 
+
+the expansion as long as inflation expectations remain stable and realized inflation stays 
+
+close to our 2 percent objective.  Indeed, in the current circumstances, accommodative 
+
+policy may not only help restore some of our economy’s potential, but should also help 
+
+return inflation to our 2 percent objective more expeditiously.   
+
+There is no risk-free path for monetary policy.  The biggest risk of tightening too 
+
+early or too fast is that the economy may weaken more than expected, forcing the central 
+
+bank to reverse course.  The record of central banks lifting off from the zero lower bound 
+
+14 In fact, as the recovery has progressed, the labor force participation rate and other broad indicators have 
+moved back toward their longer-run trends. 
+
+
+
+
+ - 8 - 
+
+suggests caution in this regard.  A second risk is that we could prematurely truncate the 
+
+process of healing damage from the crisis, thereby ensuring that the admittedly severe 
+
+cyclical effects become permanent. 
+
+Overly accommodative monetary policy also poses risks.  First, the economy 
+
+could overheat, and rising inflation could require the Committee to raise rates faster, 
+
+which--if overdone--could produce a damaging recession.  For now, I would be more 
+
+concerned with a second risk, which is that more-accommodative policy could lead to 
+
+frothy financial conditions and eventually undermine financial stability.  While I do not 
+
+see a troubling buildup of these risks today, tighter monetary policy might eventually be 
+
+necessary if such risks do appear. 
+
+Conclusion 
+
+To wrap up, with the support of extraordinary monetary accommodation, our 
+
+economy has made substantial progress.  As the FOMC moves to return monetary policy 
+
+to a more normal footing, it makes sense to me to move fairly gradually as long as the 
+
+incoming data evolve about as expected.  Doing so would, among other benefits, give our 
+
+economy the best chance to make up lost ground. 
+
+
+
+
+

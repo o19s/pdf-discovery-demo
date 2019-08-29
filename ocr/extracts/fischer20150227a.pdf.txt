@@ -1,0 +1,433 @@
+
+For release on delivery 
+1:30 p.m. EST 
+February 27, 2015 
+ 
+
+
+Conducting Monetary Policy with a Large Balance Sheet 
+ 
+ 
+ 
+
+Remarks by 
+ 
+
+Stanley Fischer 
+ 
+
+Vice Chairman 
+ 
+
+Board of Governors of the Federal Reserve System 
+ 
+
+at the 
+ 
+
+2015 U.S. Monetary Policy Forum 
+Sponsored by the University of Chicago Booth School of Business 
+
+ 
+New York, New York 
+
+
+February 27, 2015 
+ 
+
+
+
+Thank you.  It is a great pleasure to be here to discuss some of the important 
+
+issues facing the Federal Reserve and other central banks in conducting monetary policy 
+
+with a large balance sheet.  I will focus on two main sets of issues that the Fed has faced 
+
+and will continue to face for some time.  The first involves our ongoing assessment of the 
+
+effects of the asset purchases.  The second concerns policy normalization in the presence 
+
+of a very large balance sheet.  
+
+To set the stage, consider the size of the Fed’s balance sheet over the past several 
+
+years.  Assets have risen from about $900 billion in 2006 to about $4.5 trillion today, or--
+
+as seen in figure 1--from 6 percent of nominal gross domestic product (GDP) to about 
+
+26 percent of nominal GDP.  The net expansion over this period reflects primarily our 
+
+large-scale asset purchase programs. 
+
+Of course, many other central banks have expanded their balance sheets 
+
+substantially over recent years as well.  For example, assets of the Bank of Japan have 
+
+increased from about 20 percent of nominal GDP to more than 60 percent of nominal 
+
+GDP over this period, and assets of the Swiss National Bank have increased from 
+
+20 percent of nominal GDP to more than 80 percent of nominal GDP.  The net increase in 
+
+assets of the European Central Bank has so far been more modest, with assets increasing 
+
+from less than 10 percent of nominal GDP to more than 20 percent of nominal GDP--but 
+
+their quantitative easing (QE) program is not yet under way. 
+
+For the remainder of my remarks, I will focus on the Fed, beginning with some 
+
+remarks about the asset purchase programs.   
+
+
+ - 2 - 
+
+The Federal Reserve Asset Purchase Programs 
+
+The nature of our purchase programs has changed over time.  In the early 
+
+programs--that is to say, QE1, QE2, and the program we call the MEP, or the maturity 
+
+extension program, otherwise known as “Operation Twist”--the Federal Open Market 
+
+Committee (FOMC) specified the expected quantities of assets to be acquired over a 
+
+defined period.  Early in the crisis, this strategy seemed to help bolster confidence that 
+
+the Fed was acting aggressively to offset the tightening in credit conditions and the steep 
+
+downturn in economic activity.   
+
+The communication of asset purchases changed with QE3.  In September 2012, 
+
+the FOMC launched an open-ended asset purchase program in which it directed the New 
+
+York Fed’s Open Market Desk to conduct purchases at an announced monthly pace until 
+
+there was “significant improvement” in the outlook for the labor market.  Later, the 
+
+FOMC noted that the monthly pace of purchases was data dependent, allowing the pace 
+
+to be revised up or down based on its assessment of progress toward its long-run 
+
+objectives. 
+
+Both of these types of asset purchase programs were aimed at putting downward 
+
+pressure on long-term yields.1  Table 1 provides a summary of various studies’ estimated 
+
+effects of these programs on the term premium on 10-year Treasury securities.  For 
+
+example, the decline in 10-year Treasury yields associated with the first purchase 
+
+1 The Fed staff analysis has focused mostly on the so-called stock effects of the purchase programs--that is, 
+persistent shifts in asset prices observed as the result of a QE program.  While these stock effects are well 
+documented in the literature, there have been relatively fewer studies of “flow effects” that may occur at 
+the time of QE transactions (for example, see Stefania D’Amico and Thomas B. King (2013), “Flow and 
+Stock Effects of Large-Scale Treasury Purchases:  Evidence on the Importance of Local Supply,” Journal 
+of Financial Economics, vol. 108 (May), pp. 425-48, http://dx.doi.org/10.1016/j.jfineco.2012.11.007; and 
+John Kandrac and Bernd Schlusche (2013), “Flow Effects of Large-Scale Asset Purchases,” Economics 
+Letters, vol. 121 (November), pp. 330-35, http://dx.doi.org/10.1016/j.econlet.2013.09.003). 
+
+
+
+
+ - 3 - 
+
+program is estimated to have been as large as 100 basis points.  The documented effects 
+
+associated with subsequent programs are generally smaller.  These results raise the 
+
+question of whether the marginal effect of asset purchases has declined over time.  While 
+
+that question is a valid one, our conclusion is that asset purchases over more recent years 
+
+have provided meaningful stimulus to the economy, and continue to do so.  
+
+Figure 2 provides a current estimate, based on Fed staff calculations, of the effect 
+
+on the term premium on 10-year Treasury securities from the combination of all asset 
+
+programs.2  The results suggest that the Fed’s balance sheet programs are currently 
+
+depressing 10-year Treasury yields by about 110 basis points.  And, with the Fed 
+
+continuing to hold these securities, they should apply downward pressure on rates for 
+
+some time.   
+
+The declines in long-term yields have led to an associated drop in long-term 
+
+borrowing costs for households and firms and higher equity valuations.  Thus, the asset 
+
+purchases have helped make financial conditions overall more accommodative and have 
+
+provided significant stimulus for the broader economy.  As shown in figure 3, a recent 
+
+study estimates that the QE programs along with increasingly explicit forward guidance 
+
+have reduced the unemployment rate by 1-1/4 percentage points and increased the 
+
+inflation rate by 1/2 percentage point relative to what would have occurred in the absence 
+
+2 The estimates shown in figure 2 are based on an extension of the work done in Ihrig, Klee, Li, Schulte, 
+and Wei (2012).  Because the term premium effect depends on both the Fed’s current and expected future 
+asset holdings, most of this effect--without further unexpected policy actions--will likely wane over the 
+next few years as the balance sheet begins to normalize.  See Jane Ihrig, Elizabeth Klee, Canlin Li, Brett 
+Schulte, and Min Wei (2012), “Expectations about the Federal Reserve’s Balance Sheet and the Term 
+Structure of Interest Rates,” Finance and Economics Discussion Series 2012-57 (Washington:  Board of 
+Governors of the Federal Reserve System, July), 
+www.federalreserve.gov/pubs/feds/2012/201257/201257pap.pdf. 
+
+
+
+
+ - 4 - 
+
+of these policies.3  Moreover, the estimates imply that these macroeconomic effects are 
+
+only now manifesting themselves in full, reflecting the inherent lags in the monetary 
+
+transmission mechanism.  Of course, such estimates have a wide band of uncertainty 
+
+around them.   
+
+As is well known, a number of potential costs might be associated with QE and 
+
+the Fed’s elevated balance sheet.  Among these are the possibility that elevated securities 
+
+holdings and low interest rates could pose risks to financial stability, possible effects on 
+
+the Fed’s income and remittances to the U.S. Treasury, and possible difficulties in 
+
+conducting policy normalization.4  Such potential difficulties arise because the level of 
+
+reserve balances will be very high when the FOMC begins to raise the federal funds rate, 
+
+and, consequently, the Federal Reserve will employ new tools, which have their own 
+
+benefits and costs, to implement monetary policy.   
+
+Despite these potential costs, we think that asset purchases have had a meaningful 
+
+effect in promoting economic recovery and helping to keep inflation closer to the 
+
+FOMC’s 2 percent goal than would otherwise have been the case. 
+
+Policy Normalization 
+
+Turning to policy normalization, the FOMC and market participants anticipate 
+
+that the federal funds rate will be raised sometime this year.  We have for some years 
+
+been considering ways to operate monetary policy with an elevated balance sheet.   
+
+3 See Eric Engen, Thomas Laubach, and David Reifschneider (2015), “The Macroeconomic Effects of the 
+Federal Reserve’s Unconventional Monetary Policies,” Finance and Economics Discussion Series 
+2015-005 (Washington:  Board of Governors of the Federal Reserve System, January), 
+http://dx.doi.org/10.17016/FEDS.2015.005. 
+4 Reflecting securities holdings from the asset purchases, the Federal Reserve has remitted about 
+$500 billion to the U.S. Treasury from 2008 to 2014 and is expected to have cumulative net income from 
+2008 to 2025 that is far higher than would have been the case in the absence of these asset purchases. 
+
+
+
+
+ - 5 - 
+
+Prior to the financial crisis, because reserve balances outstanding averaged only 
+
+around $25 billion, relatively minor variations in the total amount of reserves supplied by 
+
+the Desk could move the equilibrium federal funds rate up or down.  With the nearly 
+
+$3 trillion in excess reserves today, the traditional mechanism of adjustments in the 
+
+quantity of reserve balances to achieve the desired level of the effective federal funds rate 
+
+may well not be feasible or sufficiently predictable.   
+
+As discussed in the FOMC’s statement on its Policy Normalization Principles and 
+
+Plans, which was published following the September 2014 FOMC meeting, we will use 
+
+the rate of interest paid on excess reserves (IOER) as our primary tool to move the federal 
+
+funds rate into the target range.5  This action should encourage banks not to lend to any 
+
+private counterparty at a rate lower than the rate they can earn on balances maintained at 
+
+the Fed, which should put upward pressure on a range of short-term interest rates.   
+
+Because not all institutions have access to the IOER rate, we will also use an 
+
+overnight reverse repurchase agreement (ON RRP) facility, as needed.  In an ON RRP 
+
+operation, eligible counterparties may invest funds with the Fed overnight at a given rate.  
+
+The ON RRP counterparties include 106 money market funds, 22 broker-dealers, 24 
+
+depository institutions, and 12 government-sponsored enterprises, including several 
+
+Federal Home Loan Banks, Fannie Mae, Freddie Mac, and Farmer Mac.  This facility 
+
+should encourage these institutions to be unwilling to lend to private counterparties in 
+
+money markets at a rate below that offered on overnight reverse repos by the Fed.  
+
+5 See Board of Governors of the Federal Reserve System (2014), “Federal Reserve Issues Statement on 
+Policy Normalization Principles and Plans,” press release, September 17, 
+www.federalreserve.gov/newsevents/press/monetary/20140917c.htm. 
+
+
+
+
+ - 6 - 
+
+Indeed, testing to date suggests that ON RRP operations have generally been successful 
+
+in establishing a soft floor for money market interest rates.6 
+
+The Fed could also employ other tools, such as term deposits issued through the 
+
+Term Deposit Facility and term RRPs, to help drain reserves and put additional upward 
+
+pressure on short-term interest rates.  We have been testing these tools and believe they 
+
+would help support money market rates, if needed.   
+
+Finally, with regard to balance sheet normalization, the FOMC has indicated that 
+
+it does not anticipate sales of agency mortgage-backed securities, and that it plans to 
+
+normalize the size of the balance sheet primarily by ceasing reinvestment of principal 
+
+payments on its existing securities holdings when the time comes.  As illustrated in 
+
+figure 4, cumulative repayments of principal on our existing securities holdings from now 
+
+through the end of 2025 are projected to be about $3.2 trillion.  As a result, when the 
+
+FOMC chooses to cease reinvestments, the size of the balance sheet will naturally 
+
+decline, with a corresponding reduction in reserve balances.   
+
+Conclusion 
+
+I will close by highlighting that the Fed’s asset purchases have been a critical 
+
+means by which the FOMC has provided policy accommodation at the zero lower bound 
+
+on nominal interest rates.  In other words, the Fed--and other central banks--can 
+
+implement an expansionary monetary policy even when the policy interest rate is at the 
+
+6 Policymakers have discussed benefits and costs of an ON RRP facility.  For further discussion on this 
+topic, see, for example, the FOMC minutes for June 2014, July 2014, and January 2015 available on the 
+Board’s webpage “Federal Open Market Committee:  Meeting Calendars, Statements, and Minutes (2009-
+2015),” www.federalreserve.gov/monetarypolicy/fomccalendars.htm; and Josh Frost, Lorie Logan, Antoine 
+Martin, Patrick McCabe, Fabio Natalucci, and Julie Remache (2015), “Overnight RRP Operations as a 
+Monetary Policy Tool:  Some Design Considerations,” Finance and Economics Discussion Series 2015-010 
+(Washington:  Board of Governors of the Federal Reserve System, February), 
+http://dx.doi.org/10.17016/FEDS.2015.010. 
+
+
+
+
+ - 7 - 
+
+zero lower bound.  The current high level of securities holdings will present some 
+
+challenges for policy normalization, but we are confident that we have the tools necessary 
+
+to remove accommodation at the appropriate time and at the appropriate pace. 
+
+
+Conducting Monetary Policy 
+with a Large Balance Sheet
+
+Stanley Fischer
+
+Vice Chairman
+Board of Governors of the Federal Reserve System
+
+Monetary Policy Forum
+New York, New York
+February 27, 2015
+
+For release on delivery
+1:30 p.m. EST
+February 27, 2015
+
+
+Figure 1. Central Bank Assets
+
+
+Table 1. Empirical Studies of LSAPs
+
+
+Figure 2. Effect of Balance Sheet Operations
+on the 10−Year Treasury Term Premium
+
+
+Figure 3. Estimated Effects of Unconventional 
+Monetary Policies in the FRB/US Model
+
+
+Figure 4. SOMA Maturities
+
+
+References
+D’Amico, Stefania, William English, David Lopez-Salido, and Edward Nelson (2012).  “The
+
+Federal Reserve’s Large-Scale Asset Purchase Programmes:  Rationale and Effects,”
+Economic Journal, vol. 122 (November), pp. F415-46. 
+
+D’Amico, Stefania, and Thomas B. King (2013). “Flow and Stock Effects of Large-Scale Treasury
+Purchases:  Evidence on the Importance of Local Supply,” Journal of Financial Economics,
+vol. 108 (May), pp. 425-48, http://dx.doi.org/10.1016/j.jfineco.2012.11.007.
+
+Engen, Eric, Thomas Laubach, and David Reifschneider (2015).  “The Macroeconomic Effects of
+the Federal Reserve’s Unconventional Monetary Policies,” Finance and Economics
+Discussion Series 2015-005 (Washington:  Board of Governors of the Federal Reserve
+System, January), http://dx.doi.org/10.17016/FEDS.2015.005.
+
+Gagnon, Joseph, Matthew Raskin, Julie Remache, and Brian Sack (2011).  “The Financial
+Market Effects of the Federal Reserve’s Large-Scale Asset Purchases,” International Journal
+of Central Banking, vol. 7 (March), pp. 3-43, www.ijcb.org/journal/ijcb11q1a1.pdf.  
+
+Hamilton, James, and Jing (Cynthia) Wu (2012).  “The Effectiveness of Alternative Monetary
+Policy Tools in a Zero Lower Bound Environment,” Journal of Money, Credit and Banking,
+vol. 44, pp. 3-46.
+
+Ihrig, Jane, Elizabeth Klee, Canlin Li, Brett Schulte, and Min Wei (2012).  “Expectations about
+the Federal Reserve’s Balance Sheet and the Term Structure of Interest Rates,” Finance and
+Economics Discussion Series 2012-57 (Washington:  Board of Governors of the Federal
+Reserve System, July), www.federalreserve.gov/pubs/feds/2012/201257/201257pap.pdf.
+
+
+References (continued)
+Krishnamurthy, Arvind, and Annette Vissing-Jorgensen (2011).  “The Effects of Quantitative
+
+Easing on Interest Rates:  Channels and Implications for Policy,” Brookings Papers on
+Economic Activity, vol. 43 (Fall), pp. 215-87.
+
+Li, Canlin, and Min Wei (2013).  “Term Structure Modeling with Supply Factors and the Federal
+Reserve’s Large-Scale Asset Purchase Programs,” International Journal of Central Banking,
+vol. 9 (March), pp. 3-39, www.ijcb.org/journal/ijcb13q1a1.pdf.
+
+Meaning, Jack, and Feng Zhu (2011).  “The Impact of Recent Central Bank Asset Purchase
+Programmes,” BIS Quarterly Review (December), pp. 73-83,
+www.bis.org/publ/qtrpdf/r_qt1112h.pdf.
+
+Meaning, Jack, and Feng Zhu (2012), “The Impact of Federal Reserve Asset Purchase
+Programmes:  Another Twist,” BIS Quarterly Review (March), pp. 23-30,
+www.bis.org/publ/qtrpdf/r_qt1203e.pdf.
+
+Richard, Scott F., and Richard Roll (1989).  “Prepayments on Fixed-Rate Mortgage-Backed
+Securities,” Journal of Portfolio Management, vol. 15 (Spring), pp. 73-82.
+
+Swanson, Eric T. (2011).  “Let’s Twist Again:  A High-Frequency Event-Study Analysis of
+Operation Twist and Its Implications for QE2,” Brookings Papers on Economic Activity,
+vol. 42 (Spring), pp. 151-207.
+
