@@ -36,8 +36,6 @@ sleep 5
 
 cd /code
 
-echo "Load sample brainard file"
-#./load_sample_files.sh ./sample_docs http://solr:8983/solr/documents/update
 echo "Load all the extracts"
 ./load_sample_files.sh ./sample_docs http://solr:8983/solr/documents/update
 echo "Done with setup"
