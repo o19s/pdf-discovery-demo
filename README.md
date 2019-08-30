@@ -8,6 +8,8 @@ Solr is running on http://localhost:8983, with a CORS version at http://localhos
 
 You may need to do `docker-compose down -v` if you have already run the demo.
 
+Online you can access the app at http://165.22.182.252:8080/
+
 # Vue Component
 `cd` into the `pdf-viewer` directory.
 
