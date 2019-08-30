@@ -13,7 +13,7 @@ $(document).ready(function () {
   // reset the search input
   $('form input[type="text"]')[0].value = decodeURIComponent(query.replace(/\+/g, '%20'));
 
-  $.getJSON('//localhost:8983/solr/documents/select?q=' + query + '&fl=id,content,path,page_dimensions&hl=on&hl.snippets=10&hl.fl=content&indent=on&wt=json&pl=on&echoParams=all', function(data) {
+  $.getJSON('//' + window.location.hostname + ':8983/solr/documents/select?q=' + query + '&fl=id,content,path,page_dimensions&hl=on&hl.snippets=10&hl.fl=content&indent=on&wt=json&pl=on&echoParams=all', function(data) {
     renderResultsList(data.response.docs)
   })
 
