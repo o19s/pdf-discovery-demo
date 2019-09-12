@@ -1,41 +1,30 @@
-# pdfjs-vue
+# PDF.JS End-to-End Search / Snippets / Highlighting
 
 ## Quickstart!
 
-Just do `docker-compose up` and then browse to http://localhost:8081.  
+Just do `docker-compose up` and then browse to http://localhost:8080.  
 
-Solr is running on :8983, and PDF images are served up on :8080.
+Solr is running on http://localhost:8983, with a CORS version at http://localhost:8000, and PDF images are served up on https://localhost:8443.
 
 You may need to do `docker-compose down -v` if you have already run the demo.
 
+# Vue Component
+`cd` into the `pdf-viewer` directory.
 
-## Project setup
+## Development
 ```
 npm install
-```
-
-### Compiles and hot-reloads for development
-```
 npm run serve
 ```
 
-### Compiles and minifies for production
+## To build new version of pdf viewer standalone module
+from inside the `pdf-viewer` directory:
+
 ```
-npm run build
+npx vue-cli-service build --target lib --name pdfviewer ./src/components/PDFVIewer.vue
 ```
 
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+copy the `dist` directory contents into `/app/pdfviewer/`
 
 # Run Solr Demo
 

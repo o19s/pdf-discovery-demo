@@ -162,3 +162,9 @@ https://dataturks.com/blog/compare-image-text-recognition-apis.php
 Okay, Let's just try and compare the tokens.
 
 So, running it with pairwise, we have one issue, wihth is OCR has `Iam` and text is `I am`.  Then change to only looking at 4 character or longer pairs, and it all matched!  This was with Brainard.
+
+## serving up files.
+
+npm install http-server -g
+
+http-server ../files --cors --ssl --cert ./cert.pem --key ./key.pem 
