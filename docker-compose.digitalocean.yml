@@ -42,3 +42,8 @@
     links:
       - solr
       - zookeeper
+
+  tika:
+    image: logicalspark/docker-tikaserver
+    ports:
+      - "9998:9998"

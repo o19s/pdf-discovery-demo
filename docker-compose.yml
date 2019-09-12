@@ -46,4 +46,8 @@ services:
     links:
       - solr
       - zookeeper
-    #entrypoint: ./wait-for-it.sh solr:8983
+
+  tika:
+    image: logicalspark/docker-tikaserver
+    ports:
+      - "9998:9998"
