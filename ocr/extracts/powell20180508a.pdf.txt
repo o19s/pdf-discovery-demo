@@ -1,0 +1,471 @@
+
+For release on delivery 
+3:15 a.m. EDT (9:15 a.m. local time) 
+May 8, 2018 
+ 
+
+
+Monetary Policy Influences on Global Financial Conditions  
+and International Capital Flows 
+
+
+Panel remarks by 
+ 
+
+Jerome H. Powell 
+ 
+
+Chairman 
+ 
+
+Board of Governors of the Federal Reserve System 
+ 
+
+at 
+ 
+
+“Challenges for Monetary Policy and the GFSN in an Evolving Global Economy” 
+Eighth High-Level Conference on the International Monetary System 
+
+sponsored by the International Monetary Fund and Swiss National Bank 
+ 
+
+Zurich, Switzerland 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+May 8, 2018 
+ 
+
+
+
+Thank you for inviting me to join you today as part of this distinguished panel.   
+
+Our subject is the relationship between “center country” monetary policy and 
+
+global financial conditions, and the policy implications of that relationship both for the 
+
+center country and for other countries affected.  This broad topic has been the subject of a 
+
+great deal of research and discussion in recent years.  Today I will focus in particular on 
+
+the role of U.S. monetary policy in driving global financial conditions and capital flows.  
+
+To preview my conclusions, I will argue that, while global factors play an important role 
+
+in influencing domestic financial conditions, the role of U.S. monetary policy is often 
+
+exaggerated.  And while financial globalization does pose some challenges for monetary 
+
+policy, efforts to build stronger and more transparent policy frameworks and a more 
+
+resilient financial system can reduce the adverse consequences of external shocks.   
+
+The well-known Mundell-Fleming “trilemma” states that it is not possible to have 
+
+all three of the following things:  free capital mobility, a fixed exchange rate, and the 
+
+ability to pursue an independent monetary policy.  The trilemma does not say that a 
+
+flexible exchange rate will always fully insulate domestic economic conditions from 
+
+external shocks.1  And, indeed, that is not the case.  We have seen that integration of 
+
+global capital markets can make for difficult tradeoffs for some economies, whether they 
+
+have fixed or floating exchange rate regimes.   
+
+Since the Fed is the central bank of the world’s largest economy and issuer of the 
+
+world’s most widely used reserve currency, it is to be expected that the Fed’s policy 
+
+actions will spill over to other economies.  To illustrate this point, the scatterplot on the 
+
+left side of figure 1 focuses on movements in interest rates and exchange rates following 
+
+                                                 
+1 See, for example, Klein and Shambaugh (2013) and Obstfeld (2015).  
+
+
+ - 2 - 
+
+Federal Reserve policy announcements.  As you can see, changes in U.S. interest rates 
+
+after Fed policy actions (shown on the horizontal axis) lead to corresponding changes in 
+
+the value of the dollar (shown on the vertical axis).  And because of the dollar’s 
+
+widespread use around the world, these changes in the dollar affect financial conditions 
+
+abroad.  Fed policy-related movements in U.S. bond yields also tend to spill over to bond 
+
+yields abroad, such as the German yields shown in the scatterplot on the right.  Such 
+
+spillovers are to be expected in a world of highly integrated financial markets.2  As figure 
+
+2 shows, bond yields (left) and equity prices (right) around the world typically move 
+
+together fairly closely.   
+
+But the influence of U.S. monetary policy on global financial conditions should 
+
+not be overstated.  The Federal Reserve is not the only central bank whose actions affect 
+
+global financial markets.  In fact, the United States is the recipient as well as the 
+
+originator of monetary policy spillovers.  For example, as seen in figure 3, changes in 
+
+German yields after European Central Bank policy decisions also pass through to U.S. 
+
+yields.3  More broadly, it is notable that although the Fed has raised its target interest rate 
+
+six times since December 2015 and has begun to shrink its balance sheet, overall U.S. 
+
+domestic financial conditions have gotten looser, in part due to improving global 
+
+conditions and central bank policy abroad.   
+
+Much of the discussion of the spillovers of U.S. monetary policy focuses on their 
+
+effects on financial conditions in emerging market economies (EMEs).  Some observers 
+
+                                                 
+2 See, for example, Adrian and others (2017) and the IMF’s most recent Global Financial Stability Report 
+(2018) for discussion of the transmission of global risk shocks to domestic macroeconomic conditions. 
+3 Curcuru, De Pooter, and Eckerd (2018) find that about half of the movement in German bund yields in a 
+window following ECB monetary policy announcements spills over to U.S. Treasury yields, roughly the 
+same magnitude as the spillover of movements in U.S Treasury yields to German bund yields following 
+Federal Reserve policy announcements.   
+
+
+ - 3 - 
+
+have attributed the movements in international capital flowing to EMEs since the Global 
+
+Financial Crisis primarily to monetary stimulus by the Fed and other advanced-economy 
+
+central banks.4  The data do not seem to me to fit this narrative particularly well.  As 
+
+illustrated by the blue dashed line in the left panel of figure 4, capital flows to EMEs 
+
+were already very strong before the Global Financial Crisis, when the federal funds rate 
+
+was comparatively high.  The subsequent surge in capital flows in 2009, as the crisis was 
+
+abating, largely reflects a rebound from the capital flow interruption during the crisis 
+
+itself, though highly accommodative monetary policies in advanced economies doubtless 
+
+also played a role.  Moreover, capital flows to EMEs started to ease after 2011, a period 
+
+when the Federal Reserve continued to add accommodation and reduce yields through 
+
+increases in its balance sheet, as shown in the right panel.  And, more recently, capital 
+
+flows to EMEs have picked up again despite the fact that the Fed has been removing 
+
+accommodation since 2015.  
+
+If U.S. monetary policy is not the major determinant, what other factors have been 
+
+driving EME capital flows?  One prominent factor has been growth differentials between 
+
+EMEs and advanced economies.  In figure 5, the left panel shows that capital inflows to 
+
+EMEs picked up post-crisis, in line with the widening of this growth differential, while 
+
+the slowdown in inflows after 2011 coincides with its narrowing.  Another related 
+
+determinant has been commodity prices, as shown in the right panel.  The pickup in both 
+
+global growth and commodity prices over the past couple of years explains a good part of 
+
+the recent recovery of capital flows to EMEs.5 
+
+                                                 
+4 See, for example, Wheatley and Garnham (2010) and Rajan (2014). 
+5 Studies looking at the determinants of EME capital flows include Chari and others (2017), Clark and 
+others (2016), Bems and others (2016), Koepke (2015), Ahmed and Zlate (2014), Fratzscher (2012), and 
+
+
+ - 4 - 
+
+Monetary stimulus by the Fed and other advanced-economy central banks played 
+
+a relatively limited role in the surge of capital flows to EMEs in recent years.  There is 
+
+good reason to think that the normalization of monetary policies in advanced economies 
+
+should continue to prove manageable for EMEs.  Fed policy normalization has proceeded 
+
+without disruption to financial markets, and market participants’ expectations for policy 
+
+(the red symbols in figure 6) seem reasonably well aligned with policymakers’ 
+
+expectations in the Summary of Economic Projections (the black dots), suggesting that 
+
+markets should not be surprised by our actions if the economy evolves in line with 
+
+expectations.   
+
+It also bears emphasizing that the EMEs themselves have made considerable 
+
+progress in reducing vulnerabilities since the crisis-prone 1980s and 1990s.  Many EMEs 
+
+have substantially improved their fiscal and monetary policy frameworks while adopting 
+
+more flexible exchange rates, a policy that recent research shows provides better 
+
+insulation from external financial shocks.6  Corporate debt at risk--the debt of firms with 
+
+limited debt service capacity--has been rising in EMEs, as shown in figure 7.7  But this 
+
+rise has been relatively limited outside of China and has begun to reverse as stronger 
+
+global growth has pushed up earnings.    
+
+                                                 
+Ghosh and others (2012).  These papers generally conclude that many factors, including both “pull” and 
+“push,” affect EME capital flows.  
+6 See, for example, Obstfeld, Ostry, and Qureshi (2017).  The results in IMF (2017) also indicate that while 
+global financial conditions explain a significant portion of countries’ domestic financial conditions, 
+domestic monetary policy changes also play an important role in economies with flexible exchange rates.   
+7 The interest coverage ratio (ICR) is the ratio of earnings before interest, tax, depreciation, and 
+amortization to interest expense.  A value of 2 or less is typically associated with an increased likelihood of 
+distress.  For example, just before the Asian financial crisis, firms in Korea, Thailand, and Indonesia had an 
+average ICR of 2; see Pomerleano (1998).   
+     For more on evolution of EME debt at risk and vulnerabilities, see Powell (2017). 
+
+
+ - 5 - 
+
+All that said, I do not dismiss the prospective risks emanating from global policy 
+
+normalization.  Some investors and institutions may not be well positioned for a rise in 
+
+interest rates, even one that markets broadly anticipate.  And, of course, future economic 
+
+conditions may surprise us, as they often do.   
+
+  Moreover, the linkages among monetary policy, asset prices, and the mood of 
+
+global financial markets are not fully understood.  Some observers have argued that U.S. 
+
+monetary policy also influences capital flows through its effects on global risk sentiment, 
+
+with looser policy leading to more positive sentiment in markets and tighter policy 
+
+depressing sentiment.8  While those channels may well operate, research at both the Fed 
+
+and the IMF suggests that actions by major central banks account for only a relatively 
+
+small fraction of global financial volatility and capital flow movements.9 
+
+Nevertheless, risk sentiment will bear close watching as normalization proceeds 
+
+around the world.  What can the Federal Reserve do to foster continued financial stability 
+
+and economic growth as normalization proceeds?  We will communicate our policy 
+
+strategy as clearly and transparently as possible to help align expectations and avoid 
+
+market disruptions.  And we will continue to help build resilience in the financial system 
+
+and support global efforts to do the same. 
+
+
+                                                 
+8 Rey (2015); Miranda-Agrippino and Rey (2015).   
+9 For example, Londono and Wilson (2018) find that U.S. monetary policy variables account for only 
+roughly 10 percent of the six-month ahead forecast error variance of the VIX.  In fact, in their study, non-
+U.S. global factors (non-U.S industrial production, a global Economic Policy Uncertainty Index, and the 
+expected probability of recessions outside of the United States) explain nearly as much of the VIX forecast 
+error variance as U.S. monetary policy and other U.S. variables combined.  In addition, Cerutti, Claessens, 
+and Rose (2017) find that directly observed variables in “center” countries (including VIX), as well as 
+unobserved common dynamic factors extracted from actual capital flows, together rarely explain more than 
+one-fourth of the variation in most types of capital flows.   
+
+
+ - 6 - 
+
+References 
+
+Adrian, Tobias, Daniel Stackman, and Erik Vogt (2017).  “Global Price of Risk and 
+Stabilization Policies,” paper presented at “Eighteenth Jacques Polak Annual 
+Research Conference:  The Global Financial Cycle,” sponsored by the 
+International Monetary Fund, Washington, November 2-3.  Washington:  IMF, 
+https://www.imf.org/~/media/Files/Conferences/2017-annual-research-
+conference/adrian-s6.ashx. 
+
+Ahmed, Shaghil, and Andrei Zlate (2014).  “Capital Flows to Emerging Market 
+Economies:  A Brave New World?”  Journal of International Money and 
+Finance, vol. 48 (November), pp. 221-48. 
+
+Bems, Rudolfs, Luis Catao, Zsoka Koczan, Weicheng Lian, and Marcos Poplawski-
+Ribeiro (2016).  “Understanding the Slowdown in Capital Flows to Emerging 
+Markets,” chapter 2 in World Economic Outlook:  Too Slow for Too Long.  
+Washington:  International Monetary Fund, April, pp. 63-99, 
+https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/World-Economic-
+Outlook-April-2016-Too-Slow-for-Too-Long-43653. 
+
+Cerutti, Eugenio, Stijn Claessens, and Andrew Rose (2017).  “How Important Is the 
+Global Financial Cycle?  Evidence from Capital Flows,” IMF Working Paper 
+17/193.  Washington:  International Monetary Fund, September, 
+https://www.imf.org/en/Publications/WP/Issues/2017/09/01/How-Important-is-
+the-Global-Financial-Cycle-Evidence-from-Capital-Flows-45169. 
+
+Chari, Anusha, Karlye Dilts Stedman, and Christian Lundblad (2017).  “Taper Tantrums:  
+QE, Its Aftermath, and Emerging Market Capital Flows,” NBER Working Paper 
+Series 23474.  Cambridge, Mass.:  National Bureau of Economic Research, June, 
+www.nber.org/papers/w23474. 
+
+Clark, John, Nathan Converse, Brahima Coulibaly, and Steve Kamin (2016).  “Emerging 
+Market Capital Flows and U.S. Monetary Policy,” IFDP Notes.  Washington:  
+Board of Governors of the Federal Reserve System, October 18, 
+https://www.federalreserve.gov/econresdata/notes/ifdp-notes/2016/emerging-
+market-capital-flows-and-us-monetary-policy-20161018.html. 
+
+Curcuru, Stephanie, Michiel De Pooter, and George Eckerd (2018).  “Measuring 
+Monetary Policy Spillovers between U.S. and German Bond Yields,” 
+International Finance Discussion Papers 1226.  Washington:  Board of Governors 
+of the Federal Reserve System, April, 
+https://dx.doi.org/10.17016/IFDP.2018.1226. 
+
+Fratzscher, Marcel (2012).  “Capital Flows, Push Versus Pull Factors and the Global 
+Financial Crisis,” Journal of International Economics, vol. 88 (2), pp. 341-56. 
+
+
+ - 7 - 
+
+Ghosh, Atish R., Jun Kim, Mahvash S. Qureshi, and Juan Zalduendo (2012).  “Surges,” 
+IMF Working Paper WP/12/22.  Washington:  International Monetary Fund, 
+January, https://www.imf.org/external/pubs/ft/wp/2012/wp1222.pdf. 
+
+International Monetary Fund (2017).  “Are Countries Losing Control of Domestic 
+Financial Conditions?” chapter 3 in Global Financial Stability Report:  Getting 
+the Policy Mix Right.  Washington:  IMF, April, pp. 83-108, 
+https://www.imf.org/en/Publications/GFSR/Issues/2017/03/30/global-financial-
+stability-report-april-2017#Chapter%203.  
+
+-------- (2018).  “A Bumpy Road Ahead,” chapter 1 in Global Financial Stability Report:  
+A Bumpy Road Ahead.  Washington:  IMF, April, pp. 1-55, 
+http://www.imf.org/en/Publications/GFSR/Issues/2018/04/02/Global-Financial-
+Stability-Report-April-2018#Chapter%20One.  
+
+Koepke, Robin (2015).  “What Drives Capital Flows to Emerging Markets?  A Survey of 
+the Empirical Literature,” IIF Working Paper.  Washington:  Institute of 
+International Finance, April. 
+
+Klein, Michael, and Jay Shambaugh (2013).  “Is There a Dilemma with the Trilemma?” 
+Centre for Economic Policy Research, Vox, September 27, 
+https://voxeu.org/article/dilemma-financial-trilemma. 
+
+Londono, Juan M., and Beth Anne Wilson (2018).  “Understanding Global Volatility,” 
+IFDP Notes.  Washington:  Board of Governors of the Federal Reserve System, 
+January 19, https://www.federalreserve.gov/econres/notes/ifdp-
+notes/understanding-global-volatility-20180119.htm. 
+
+Miranda-Agrippino, Silvia, and Helene Rey (2015).  “U.S. Monetary Policy and the 
+Global Financial Cycle,” NBER Working Paper Series 21722.  Cambridge, Mass.:  
+National Bureau of Economic Research, November (revised February 2018), 
+www.nber.org/papers/w21722.  
+
+Obstfeld, Maurice (2015).  “Trilemmas and Trade-offs:  Living with Financial 
+Globalisation,” BIS Working Papers 480.  Basel, Switzerland:  Bank for 
+International Settlements, January, https://www.bis.org/publ/work480.pdf.  
+
+Obstfeld, Maurice, Jonathan D. Ostry, and Mahvash S. Qureshi (2017).  “A Tie That 
+Binds:  Revisiting the Trilemma in Emerging Market Economies,” IMF Working 
+Paper WP/17/130.  Washington:  International Monetary Fund, June, 
+https://www.imf.org/en/Publications/WP/Issues/2017/06/08/A-Tie-That-Binds-
+Revisiting-the-Trilemma-in-Emerging-Market-Economies-44942. 
+
+Pomerleano, Michael (1998).  “Corporate Finance Lessons from the East Asian Crisis,” 
+Viewpoint:  Public Policy for the Private Sector, Note 155.  Washington:  World 
+Bank Group, October, 
+http://siteresources.worldbank.org/EXTFINANCIALSECTOR/Resources/282884
+-1303327122200/155pomer.pdf. 
+
+
+ - 8 - 
+
+Powell, Jerome H. (2017).  “Prospects for Emerging Market Economies in a Normalizing 
+Global Economy,” speech delivered at the 2017 Annual Membership Meeting of 
+the Institute of International Finance, Washington, October 12, 
+https://www.federalreserve.gov/newsevents/speech/powell20171012a.htm.  
+
+Rajan, Raghuram (2014).  “Competitive Monetary Easing--Is It Yesterday Once More?” 
+speech delivered at the Brookings Institution, Washington, April 10, 
+https://www.bis.org/review/r140414b.htm.  
+
+Rey, Helene (2015).  “Dilemma Not Trilemma:  The Global Financial Cycle and 
+Monetary Policy Independence,” NBER Working Paper Series 21162.  
+Cambridge, Mass.:  National Bureau of Economic Research, May (revised 
+February 2018), www.nber.org/papers/w21162.  
+
+Wheatley, Jonathan, and Peter Garnham (2010).  “Brazil in ‘Currency War’ Alert,” 
+Financial Times, September 27. 
+
+
+Monetary Policy Influences on 
+Global Financial Conditions and 
+
+International Capital Flows
+
+Jerome H. Powell
+
+Chairman
+Board of Governors of the Federal Reserve System 
+
+Eighth High-Level Conference on the International Monetary System
+Sponsored by the International Monetary Fund and Swiss National Bank
+
+May 8, 2018
+
+
+Bord of Governors of the Federal Reserve System May 8, 2018                                 Board of Governors of the Federal Reserve System                                 1
+
+Figure 1: Changes in U.S. bond yields lead to changes in the value 
+of the dollar and spill over to German bond yields
+
+
+Bord of Governors of the Federal Reserve System May 8, 2018                                 Board of Governors of the Federal Reserve System                                 2
+
+Figure 2: Global sovereign bond yields and equity prices
+typically move together
+
+
+Bord of Governors of the Federal Reserve System May 8, 2018                                 Board of Governors of the Federal Reserve System                                 3
+
+Figure 3: Changes in German yields around ECB announcements 
+pass through to U.S. yields
+
+
+Bord of Governors of the Federal Reserve System May 8, 2018                                 Board of Governors of the Federal Reserve System                                 4
+
+Figure 4: Capital flows to emerging markets were already strong 
+before the Federal Reserve cut its policy rate
+
+
+Bord of Governors of the Federal Reserve System May 8, 2018                                 Board of Governors of the Federal Reserve System                                 5
+
+Figure 5: EME vs. AE growth differentials and commodity prices 
+drive capital flows to EMEs
+
+
+Bord of Governors of the Federal Reserve System May 8, 2018                                 Board of Governors of the Federal Reserve System                                 6
+
+Figure 6: Market expectations for Fed policy seem well aligned 
+with policymaker expectations
+
+
+Bord of Governors of the Federal Reserve System May 8, 2018                                 Board of Governors of the Federal Reserve System                                 7
+
+Figure 7: Emerging market corporate debt at risk has begun to 
+reverse its earlier rise, even in China
+

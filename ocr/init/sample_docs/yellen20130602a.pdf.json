@@ -2,7 +2,7 @@
   "id": "yellen20130602a.pdf",
   "doc_id": "yellen20130602a.pdf",
   "content_type": "pdf",
-  "title": null,
+  "title": "Regulatory Landscapes: A U.S. Perspective",
   "page_dimensions": [
     "1: 0 0 1224 1584",
     "2: 0 0 1224 1584",
@@ -11,7 +11,12 @@
     "5: 0 0 1224 1584",
     "6: 0 0 1224 1584"
   ],
-  "path": "../public/yellen20130602a.pdf",
+  "path": "/lots-of-files/yellen20130602a.pdf",
   "content": null,
-  "content_ocr": ""
+  "content_ocr": "",
+  "document_type": "Speech",
+  "release_date": "2013-06-02T12:00:00Z",
+  "speaker": "Janet L. Yellen",
+  "event_name": "International Monetary Conference",
+  "event_location": "Shanghai, China"
 }

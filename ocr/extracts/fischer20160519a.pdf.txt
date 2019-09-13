@@ -1,0 +1,1521 @@
+
+For release on delivery 
+
+9:15 a.m. EDT 
+
+May 19, 2016 
+
+
+
+
+
+
+
+
+
+(Money), Interest and Prices 
+
+
+
+
+Remarks by 
+
+
+Stanley Fischer 
+
+
+Vice Chairman 
+
+
+Board of Governors of the Federal Reserve System 
+
+
+at 
+
+
+“A Conference in Honor of Michael Woodford’s Contributions to Economics” 
+
+cosponsored by the Federal Reserve Bank of New York,  
+
+Columbia University Program for Economic Research,  
+
+and Columbia University Department of Economics 
+
+
+New York, New York 
+
+
+
+
+
+
+
+
+May 19, 2016 
+
+
+
+
+
+It is an honor for me to speak at the opening of this conference in honor of 
+
+Michael Woodford, whose contributions to the theory of economic policy are frequently 
+
+a central part of the economic analysis that takes place in the policy discussions at the 
+
+Federal Reserve.1   
+
+The main story I want to tell today is about the quality of Michael’s major book, 
+
+Interest and Prices (henceforth MWIP).  I will start with his predecessors, beginning as 
+
+Michael does in his Interest and Prices with Wicksell.2 3  I shall quote key points from 
+
+and about Wicksell’s Interest and Prices (henceforth KWIP), and following that, from 
+
+Patinkin’s Money, Interest, and Prices (second edition, 1965) (henceforth MIP), which 
+
+are relevant to MWIP, Michael Woodford’s Interest and Prices (2003). 
+
+I. Wicksell’s Interest and Prices (1898) 
+
+1. Inflation.  The subtitle of Wicksell’s Interest and Prices (KWIP) is A Study of 
+
+the Causes Regulating the Value of Money and its opening paragraph 
+
+emphasizes the problem of inflation:    
+
+Changes in the general level of prices have always excited great 
+
+interest.  Obscure in origin, they exert a profound and far-
+
+reaching influence on the whole economic and social life of a 
+
+country. 
+
+                                                 
+1 I am grateful to Hess Chung, Rochelle Edge, William English, Michael Kiley, Thomas Laubach, Matthias 
+
+Paustian, David Reifschneider, Jeremy Rudd, and Stacey Tevlin of the Federal Reserve Board for their 
+
+advice and assistance. 
+2 Wicksell’s Interest and Prices, published in German in 1898 as Geldzins und Guterpreise by Gustav 
+
+Fischer (Jena), was first published in English (translated by R.F. Kahn) by Macmillan & Co. in 1936.  It 
+
+was published in the United States by Augustus Kelley in 1965 in the series Reprints of Economic Classics.   
+3 See Torsten Gardlund (1958), The Life of Knut Wicksell, trans. Nancy Adler (Brookfield, Vt.:  Edward 
+
+Elgar).  Wicksell was not only a superb economist but also a remarkably interesting man, whose major 
+
+works in economics were published starting in the late 1890s, when he was nearing the age of 50 (he was 
+
+born in 1851 and died in 1926).  Much of his earlier work was on Malthus and Malthusianism.  The last 
+
+paragraph of the text of Gardlund’s book (p. 330) is about Wicksell’s funeral and reads “Various 
+
+associations and academic institutions sent the customary wreaths, but many of Wicksell’s friends and 
+
+disciples, honoring a request, instead sent their contributions to the Malthusian Advice Bureau.” 
+
+
+ - 2 - 
+
+Wicksell follows this opening by discussing the difference between 
+
+the ability of the economic system to adjust to changes in relative prices and 
+
+to changes in the general level of prices.  In the latter case,  
+
+Adjustment can no longer proceed through changes in demand or 
+
+through a movement of factors of production from one branch of 
+
+production to another.  Its progress is much slower, being 
+
+accomplished under continual difficulties, and it is never 
+
+complete; so that a residue, either temporary or permanent, of 
+
+social maladjustment is always left over.   
+
+Wicksell states that both inflation and deflation are evils, but that it 
+
+is generally believed that what is most desirable is a situation “in which prices 
+
+are rising [italics in original] slowly but steadily” (p.3).  He likens the 
+
+arguments for this viewpoint as reminding one “of those who purposely keep 
+
+their watches a little fast so as to be more certain of catching their trains” 
+
+(p.3).  Rational man that he was, he dismisses such behavior--of which I am 
+
+guilty--as not being able to survive in the long run.   
+
+And optimist as he must have been, he concludes the opening 
+
+chapter of his Interest and Prices by saying that “the prevention of these 
+
+troubles by the provision of a constant measure of value cannot, in the present 
+
+state of economic development, be regarded a priori as unthinkable” (p.7) 
+
+2. The Quantity Theory.  Wicksell’s chapter on the quantity theory is very short.  
+
+He states (p.41) that  
+
+The Theory provides a real explanation of its subject matter, and 
+
+in a manner that is logically incontestable; but only on 
+
+assumptions that unfortunately have little relation to practice . . .4   
+
+                                                 
+4 He gives several reasons that the assumptions have little relation to practice, including that there is “a kind 
+
+of collective holding of balances, arising out of the acceptance by banks of deposits.” 
+
+
+ - 3 - 
+
+He concludes the chapter (p.50) by saying that 
+
+the Quantity Theory cannot just be thrown overboard.  …. It 
+
+must be put up with, in the hope that a more intimate analysis of 
+
+the underlying facts might remove the blemishes from which it 
+
+undoubtedly suffers. 
+
+3. The Natural Rate of Interest on Capital and the Rate of Interest on Loans (the 
+
+cumulative process).  We come here to a central and famous part of 
+
+Wicksell’s contribution to monetary economics and policy: 
+
+There is a certain rate of interest on loans which is neutral in 
+
+respect to commodity prices, and tends neither to raise nor to 
+
+lower them.  This is necessarily the same as the rate of interest 
+
+which would be determined by supply and demand if no use 
+
+were made of money and all lending were effected in the form of 
+
+real capital goods.  It comes to much the same thing to describe it 
+
+as the current value of the natural rate of interest on capital.  
+
+(p.102) 
+
+. . . . . . . . . . . 
+
+At any moment … there is a certain level of the average rate of 
+
+interest which is such that the general level of prices has no 
+
+tendency to move either upwards or downwards.  This we call 
+
+the normal rate of interest.  Its magnitude is determined by the 
+
+current level of the natural capital rate, and rises and falls with it. 
+
+
+If, for any reason whatever, the average rate of interest is set and 
+
+maintained below this normal level, no matter how small the gap, 
+
+prices will rise and will go on rising; or if they were already in 
+
+process of falling, they will fall more slowly and eventually 
+
+begin to rise. 
+
+
+If, on the other hand, the rate of interest is maintained no matter 
+
+how little above the current level of the natural rate, prices will 
+
+fall continuously and without limit.  (p.120) 
+
+4. International Price Relationships.  Wicksell explains in Chapter 10 that while 
+
+it would be desirable to subject the theory of policy set out immediately above 
+
+
+ - 4 - 
+
+to the test of experience, that could easily be done for a closed economy, but 
+
+that the only closed economy in the world is the world as a whole--and that 
+
+world data were not then available.  
+
+He then sets out the specie-flow mechanism, and concludes on that 
+
+subject by saying that while this explanation (the specie-flow mechanism) 
+
+must be correct, the  
+
+international equilibrium of prices is usually restored far more 
+
+rapidly and far more directly.  (p.157)   
+
+He then goes on to discuss potential reasons for the more rapid 
+
+adjustment, the most important of which is that the price pressures on 
+
+individual commodities that are imported or exported as a result of changes in 
+
+prices in the two countries exert a direct influence--in the direction of 
+
+equilibrium--in the prices of individual goods.    
+
+5. Actual Price Movements in the Light of the Preceding Theory.  (Chapter 11)  
+
+This chapter concludes 
+
+The theory must … be regarded for the moment as a mere 
+
+hypothesis, the complete validity of which can be established 
+
+only by further resort to the facts of experience. 
+
+. . . . . . . . . . . 
+
+My purpose is to lay down the theoretical principles which 
+
+underlie these phenomena, and once they are correctly 
+
+understood their application can be confidently left to the 
+
+experience and insight of practical men.  (pp. 176-7) 
+
+6. Practical Proposals for the Stabilisation of the Value of Money.  (Chapter 12).  
+
+This chapter starts with a discussion of bimetallism, on which Gardlund 
+
+(p. 274) quotes Wicksell as having written in a letter that he was “neither a 
+
+
+ - 5 - 
+
+mono- nor a bimetallist, but a non-metallist.”  Wicksell then proceeds to 
+
+suggest a reaction function for the central bank: 
+
+According to our line of approach, they [proposals for stabilizing 
+
+the value of money] can attain their objective only in so far as 
+
+they exert an indirect influence on the money rate of interest, and 
+
+bring it into line with the natural rate . . . (p.188) 
+
+But  
+
+This does not mean that the [central] banks ought actually to 
+
+ascertain the natural rate before fixing their own rates of interest. 
+
+. . . The procedure should rather be simply as follows: So long as 
+
+prices remain unaltered, the banks’ rate of interest is to remain 
+
+unaltered.  If prices rise, the rate of interest is to be raised. . . . 
+
+and likewise mutatis mutandis if the price level falls.  (p.189) 
+
+To make this possible, Wicksell suggests the suspension of the free 
+
+coinage of gold, as a “first step towards the introduction of an ideal standard 
+
+of value”--“an international paper standard” (p.193).  And, on a soaring 
+
+personal note at the end of the formal text of the book (p.196), he writes 
+
+the question of monetary reform on international lines definitely 
+
+remains among the most important of economic problems.  That 
+
+its realization depends on international co-operation . . . is to my 
+
+mind a positive recommendation.  I joyfully welcome every fresh 
+
+step towards the uniting of nations for economic or scientific 
+
+ends, for it adds one more safeguard for the preservation and 
+
+strengthening of that good on which the successful attainment of 
+
+all other goods, both material and immaterial, ultimately 
+
+depends--international peace. 
+
+If this were a paper about Wicksell, there would be no choice but to 
+
+stop after this inspiring crescendo.  But although Wicksell plays a key role in 
+
+this paper, the paper is not primarily about him.  Let me nonetheless conclude 
+
+this section of the paper with a few additional comments.   
+
+
+ - 6 - 
+
+7. Wicksell’s explanation of price dynamics.  (continuation of #1 above) 
+
+Now let us suppose that for some reason or other commodity 
+
+prices rise while the stock of money remains unchanged, or that 
+
+the stock of money is diminished while prices remain 
+
+temporarily unchanged.  The cash balances will gradually appear 
+
+to be too small in relation to the new level of prices. . . . I 
+
+therefore seek to enlarge my balance.  This can only be done--
+
+neglecting for the present the possibility of borrowing, etc.--
+
+through a reduction in my demand for goods and services, or 
+
+through an increase in the supply of my own commodity . . . or 
+
+though both together.  The same is true of all other owners and 
+
+consumers of commodities.  But in fact nobody will succeed in 
+
+realizing the object at which each is aiming--to increase his cash 
+
+balance. . . . On the other hand, the universal reduction in 
+
+demand and increase in supply of commodities will necessarily 
+
+bring about a continuous fall in all prices. This can only cease 
+
+when prices have fallen to the level at which the cash balances 
+
+are regarded as adequate. . . .  (pp. 39-40) 
+
+8. Paul Samuelson on Wicksell.  In 1962 Paul Samuelson delivered the Wicksell 
+
+Lectures in Sweden, and opened with a lecture on “Wicksell, The 
+
+Economist”.5  Herewith three extracts from his lecture:  
+
+A stormy rebel against the traditional religion and prudery of his 
+
+day, Wicksell had the warm heart of a socialist along with the 
+
+cool head of a classical economist.  (pp. 1682-3);  
+
+. . . Wicksell spent part of his time as professor at Lund in jail.  
+
+Whatever we may think of the state of society then, which could 
+
+jail a man for the offense of blasphemy, one’s admiration goes 
+
+out to the tradition of academic freedom in Swedish Universities, 
+
+which keeps a professor’s livelihood and scholarly privileges 
+
+immune from his non-scholarly misdemeanors. (p.1684);  
+
+                                                 
+5 See Joseph E. Stiglitz, ed. (1966-2011), The Collected Scientific Papers of Paul Samuelson, vol. II 
+
+(Cambridge, Mass.:  MIT Press), pp. 1682-92.   
+
+
+ - 7 - 
+
+And here comes the essence of Samuelson’s evaluation of his great 
+
+predecessor: 
+
+Because Wicksell read the works of his predecessors and 
+
+contemporaries, and acknowledged the fact; because he was 
+
+eclectic; because he regarded all his own ideas as merely 
+
+tentative hypotheses; because he happened to come to economics 
+
+after Jevons, Menger, Walras, Bohm-Bawerk, Marshall and J.B. 
+
+Clark--for all these reasons Wicksell is sometimes regarded as 
+
+not having been a truly original and creative economist.  I am 
+
+convinced this appraisal is quite wrong. 
+
+
+While Wicksell may have lacked the broad judgment of Marshall 
+
+and one-track concentration of Clark, to savor his genius you 
+
+have merely to read his works on capital and general equilibrium 
+
+(vide Joan Robinson); on marginal productivity (vide Solow); on 
+
+the impact of technological change (vide Hicks); on marginal 
+
+cost pricing and imperfect competition (vide Hotelling and 
+
+Chamberlin); on business cycle rhythms generated by uneven 
+
+exogenous trends and random shocks of innovation, which 
+
+impinge on an endogenous system geared to produce quasi-
+
+regular rhythms whose periods depend on its internal structure 
+
+(vide Frisch and Tinbergen); on the proper role of government 
+
+expenditure in an affluent and less-than-affluent society (vide 
+
+Lindahl and Musgrave); [and] on the relationship between 
+
+interest rates set by central banks and cumulative trends of 
+
+inflation or deflation.  (p.1688) 
+
+What Samuelson saw in 1962 had gradually become the accepted 
+
+view of Wicksell in the English-speaking world after the translation of both 
+
+Interest and Prices and the two volumes of his Lectures on Political 
+
+Economy6 in the 1930s.   
+
+                                                 
+6 See Knut Wicksell (1935), Lectures in Political Economy, vol. I:  General Theory and vol II:  Money 
+
+(London:  George Routledge and Sons); reprinted in 1967 (Fairfield, N.J.:  Augustus M. Kelley). 
+
+
+
+
+ - 8 - 
+
+And the references by Samuelson to the many topics on which 
+
+Wicksell made important contributions should remind us that Wicksell’s 
+
+Interest and Prices was but one of his major contributions, and that Volume II 
+
+of his Lectures on Political Economy is about money, banking and credit. 
+
+9. Wicksell and Inside Money.  In both his Interest and Prices and Volume II of 
+
+his Lectures, Wicksell discusses the possibility of a pure inside money 
+
+economy.  His conclusion is stated with his usual clarity: 
+
+Only by completely divorcing the value of money from … its 
+
+commodity function, by abolishing all free minting, and by 
+
+making the minted coin or banknotes proper, or more generally 
+
+the unit employed in the accounts of the credit institutions, both 
+
+the medium of exchange and the measure of value, only in this 
+
+way can the contradiction be overcome and the imperfection be 
+
+remedied.  It is only in this way that a logically coherent credit 
+
+system, combining both economy of monetary media and 
+
+stability in the standard of value, becomes in any way 
+
+conceivable.   
+
+II. Patinkin’s Money, Interest, and Prices (first edition, 1956; second edition, 1965)7 
+
+In discussing Patinkin’s work, I need to mention that I was his research assistant 
+
+when he visited MIT in about 1967-8, and that I was an admirer of his work and of his 
+
+reputation as the founder of modern Israeli economics, and that later I became his friend, 
+
+albeit a junior among friends.  Now I turn to his major work. 
+
+1. The goal of MIP.  The subtitle of MIP is An Integration of Monetary and 
+
+Value Theory.  Its goal was thus more theoretical than the goals of either of 
+
+the Interest and Prices volumes.  The need for such an integration was based 
+
+                                                 
+7 The first edition of Money, Interest, and Prices was published in 1956 by Row, Peterson (Evanston, Ill.); 
+
+the second edition in 1965 by Harper & Row (New York). 
+
+
+ - 9 - 
+
+on the view, frequently expressed by graduate students, that the field of 
+
+macroeconomics was based on ad hoc assumptions rather than being derived 
+
+from first principles, as is done in value theory--that is, microeconomics.    
+
+The first paragraph of the introduction to both editions of MIP is  
+
+Money buys goods, and goods do not buy money. The natural 
+
+place, then, to study the workings of monetary forces is directly 
+
+in the market for goods.  This will be our central theme. 
+
+2. The real balance effect.  MIP builds the integration of monetary and value 
+
+theory around the real balance effect, often known as the Pigou effect, the 
+
+presence of a wealth effect in aggregate demand, which produces stable price 
+
+dynamics at the level of the aggregate economy.  The first edition was 
+
+published in 1956 and became very well known, but was also criticized, 
+
+particularly about the dynamics of prices in response to changes in the money 
+
+stock.  The second edition, published in 1965, responded to this and other 
+
+critiques, and achieved the goal set out in the book’s subtitle. 
+
+In Note M of MIP (pp. 651-664) Patinkin reviews empirical 
+
+investigations of the real-balance effect, noting that most of the studies are in 
+
+effect estimates of the impact of liquid wealth holdings, rather than just real 
+
+balances, on consumption. 
+
+3. Reviews of the book.  In an article published in 1993 in a festschrift for 
+
+Patinkin8, I reviewed both editions of MIP.   The book had been reviewed by 
+
+                                                 
+8 See Stanley Fischer (1993), “Money, Interest, and Prices” in Haim Barkai, Stanley Fischer, and Nissan 
+
+Liviatan, eds., Monetary Theory and Thought:  Essays in Honour of Don Patinkin (London:  Palgrave 
+
+Macmillan). 
+
+
+ - 10 - 
+
+at least twelve reviewers, whose verdicts were largely favorable, with almost 
+
+all recognizing that they were dealing with a major work.   
+
+4. Supplementary Notes.  MIP includes excellent “Supplementary Notes and 
+
+Studies in the Literature” including on the work of Walras (Notes B and C), 
+
+Wicksell (Note E), of whom like almost all who studied him became admirers, 
+
+on Newcomb, Fisher and the Transactions Approach to the Quantity Theory 
+
+(Note F), Marshall, Pigou and the Cambridge Cash-Balance Approach (Note 
+
+G), Monetary Aspects of the Casselian System (Note H), The Classical and 
+
+Neoclassical Theory of Money and Interest (Note J), and Keynes’ General 
+
+Theory (Note K).  In his review of MIP, Kenneth Arrow9 described the 
+
+literature notes as “sparkling”--not a word frequently used in such a context. 
+
+5. Harry Johnson’s comments.  In his 1962 review article on recent work on 
+
+monetary theory and policy,10 Harry Johnson devoted almost a quarter of the 
+
+review to MIP, which he described as “monumentally scholarly”, but argued 
+
+that its analysis of the real balance effect was “conceptually inadequate and 
+
+crucially incomplete”.11  
+
+Johnson (1962) argued further that 
+
+. . . the more elegant approach to monetary theory lies along 
+
+inside-money rather than outside-money lines, and that the 
+
+foundation of the theory of monetary equilibrium and stability 
+
+should be the substitution effect rather than the . . . wealth effect 
+
+of a change in real balances. 
+
+                                                 
+9 See Kenneth J. Arrow (1957), “Review of Money, Interest, and Prices,” Mathematical Reviews, vol. 18 
+
+(September). 
+10 See Harry G. Johnson (1962), “Monetary Theory and Policy,” American Economic Review, vol. 52 
+
+(June), pp. 335-84. 
+11 As noted in my 1993 article, I did not find that criticism compelling.   
+
+
+ - 11 - 
+
+Possibly Johnson was thinking of the central bank having to operate 
+
+via open-market operations, through exchanges of assets, which would induce 
+
+substitution effects, rather than through the printing of money, which in the 
+
+first instance produced increases in real balances, which would produce 
+
+wealth effects, but which are typically fiscal rather than monetary actions. 
+
+6. Involuntary unemployment.  Chapters 13 and 14 of MIP deal with the 
+
+consumption function when unemployment takes the household off its labor 
+
+supply curve, and with other interactions between markets.  They are based on 
+
+research by Leijonhufvud and Clower, and do an excellent job of clarifying 
+
+the implications of disequilibrium in one market for behavior in other markets.  
+
+This approach was developed further by Robert Barro and Herschel Grossman 
+
+in their 1976 volume, Money, Employment, and Inflation, but began to go out 
+
+of use and fashion in the 1980s.12 
+
+7. Surprising omissions.  MIP definitely achieves its goal of integrating 
+
+monetary and value theory, but shows signs of its age in two omissions: first, 
+
+that expectations are not emphasized and indeed barely discussed; and second, 
+
+there is no analysis in MIP of ongoing inflation--the latter omission being 
+
+particularly striking given Israel’s inflationary history.  
+
+                                                 
+12 See Robert Barro and Herschel Grossman (1976), Money, Employment and Inflation (New York:  
+Cambridge University Press). 
+ 
+
+
+ - 12 - 
+
+III Michael Woodford’s Interest and Prices (2003) 
+
+Now we come to modern times, to Michael Woodford’s 2003 magnum opus, 
+
+Interest and Prices.  Many of the results that appear in the book were developed and 
+
+published earlier, for Michael has been a creative and insightful researcher from the start 
+
+of his career.  But in the interests of time, I will start with the book.  And since the book 
+
+is massive and comprehensive, I will focus on just a few topics of interest selected from 
+
+it.  I also add discussion of Michael’s views on quantitative easing and forward guidance-
+
+-topics that would have received far more attention in MWIP if it had been written a 
+
+decade later than it was.  And let me note explicitly that Michael has continued to be 
+
+remarkably productive, and that the topics I focus on below are among those best known 
+
+by modern macroeconomists, but that there is far more to be learned from reading 
+
+Michael’s work than I am able to discuss today. 
+
+1. The Structure of MWIP.  Interest and Prices (MWIP) is divided into two 
+
+parts.  Part I, Analytic Framework, is essentially an advanced textbook on 
+
+modern macro models and some of their monetary policy implications, which 
+
+introduces the reader to both useful techniques of analysis and recurrent and 
+
+important issues in the field.  Its chapter headings are: Price-Level 
+
+Determination under Interest Rate Rules; Optimizing Models with Nominal 
+
+Rigidities; A Neo-Wicksellian Framework for the Analysis of Monetary 
+
+Policy; and Dynamics of the Response to Monetary Policy.  Part II, Optimal 
+
+Policy, is more directly policy-focused, with chapter headings: Inflation 
+
+Stabilization and Welfare; Gains from Commitment to a Policy Rule; and 
+
+finally, Optimal Monetary Policy Rules. 
+
+
+ - 13 - 
+
+2. The basic model.  MWIP is innovative and impressive.  In almost every 
+
+analysis, it uses a small DSGE model, with variations in assumptions to deal 
+
+with the topic in hand.  Here follows a typical three equation model, 
+
+consisting of log-linear approximations of the non-linear equilibrium 
+
+conditions of an underlying model that includes an intertemporal Euler 
+
+equation, a New Keynesian Phillips curve, and an interest rate rule.13 
+
+𝑥𝑡 = 𝐸𝑡 𝑥𝑡+1 −  𝜎(𝑖̂𝑡 − 𝐸𝑡𝜋𝑡+1 −  �̂�𝑡
+𝑛)                                              (1) 
+
+𝜋𝑡 =  𝜅𝑥𝑡 + 𝛽𝐸𝑡𝜋𝑡+1                                                                         (2) 
+
+𝑖̂𝑡 = 𝑖�̅� + 𝜙𝜋(𝜋𝑡 − �̅�) + 𝜙𝑥(𝑥𝑡 − �̅�)/4                                              (3) 
+
+where 
+
+𝑥𝑡 is the output gap, �̂�𝑡 − �̂�𝑡
+𝑛; 
+
+�̂�𝑡
+𝑛 is an exogenous variable, representing variations in the natural rate of 
+
+output; 
+
+𝜋𝑡 is the rate of inflation; 
+
+𝑖̂𝑡 is the interest rate; 
+
+𝑖�̅� is an exogenous, possibly time-varying, intercept of the Taylor Rule. 
+
+3. Analyzing Monetary Policy without Money.  One of Woodford’s most 
+
+interesting results is that it is often possible to study monetary policy without 
+
+having money in the model.  In these cases, monetary policy is conducted 
+
+using the interest rate as the monetary policy instrument.  As Woodford notes 
+
+in Chapter 4, “A Neo-Wicksellian Framework”, a money demand equation 
+
+                                                 
+13 These are equations (1.12), (1.13), and (1.14), respectively, in chapter 4, which appear on page 246 of 
+
+MWIP, the derivation of which is discussed on pp. 243-45. 
+
+
+ - 14 - 
+
+can under some circumstances be added to the model, with the amount of 
+
+money supplied by the central bank having to be consistent with the money 
+
+demand equation.  But inflation in such a situation is not necessarily caused 
+
+by the quantity of money; rather the quantity of money may be caused by and 
+
+consistent with the inflation rate resulting from the three basic equations in 
+
+which the money stock does not appear--in particular from the gap between 
+
+the natural and actual rates of interest.  For this result to go through, the 
+
+money stock cannot per se be among the variables that determine the 
+
+equilibrium of the remaining--the non-monetary--part of the model.  This 
+
+means that the separation result is not possible if there is a real balance effect 
+
+operating in the goods markets.  Or to put the result differently, the separation 
+
+feature is consistent with an inside money monetary system, while it may well 
+
+not be consistent with an outside money structure.  It is thus consistent with 
+
+the suggestion by Harry Johnson mentioned above, that monetary analysis 
+
+might better be carried out primarily in an inside-money than an outside-
+
+money model. 
+
+This neo-Wicksellian result is somewhat surprising.  It provides 
+
+justification for the behavior of those central banks that think and talk of 
+
+monetary policy purely in terms of the policy interest rate and other financial 
+
+return variables, but not of the money stock.  However, we need to remind 
+
+ourselves that it is built on an assumption that the money stock per se does not 
+
+
+ - 15 - 
+
+appear in the basic three-equation model--and that is an assumption, not a 
+
+theorem.14 
+
+4. The Goals of Policy.  When he turns to optimal policy, Woodford starts 
+
+Chapter 6 by asking what the goals of monetary policy should be.  He states 
+
+that there is a fair amount of consensus in the literature that a desirable 
+
+monetary policy is one that achieves a low expected value of an objective 
+
+function that includes inflation and “some measure of output relative to 
+
+potential.”   He then goes on to point out the many questions such a 
+
+formulation leaves unanswered, including whether to target the price level or 
+
+the inflation rate, should greater priority be given to reducing the variability of 
+
+unforecastable inflation, should one seek to stabilize output deviations from a 
+
+smooth trend or from the short-run aggregate supply curve, and so forth?  And 
+
+then the surprising comment (p.382)  
+
+The aim of the present chapter is to show how economic analysis 
+
+can be brought to bear upon these questions.   
+
+This sounds simple but it is not, for the explanation that Woodford provides is 
+
+that  
+
+we have seen that models founded on individual optimization 
+
+can be constructed that, thanks to the presence of nominal 
+
+rigidities, allow for realistic effects of monetary policy upon real 
+
+variables.  Here we shall see those same nominal rigidities 
+
+provide welfare-economic justification for central bankers’ 
+
+traditional concern for price stability.   
+
+                                                 
+14 It is worth noting that the money stock dropped out of many models in the 1980s because standard 
+
+relationships between money and real variables became unstable and because money aggregates became 
+
+difficult to control.  Or, as Gerald Bouey, former governor of the Bank of Canada, once said to the House 
+
+of Commons Standing Committee on Finance, Trade and Economic Affairs, “We did not abandon M1, M1 
+
+abandoned us.” 
+
+
+ - 16 - 
+
+That is not a simple thought, but it is logical--and that insight enables Michael 
+
+to derive a utility or loss function with inflation in it.   
+
+Interestingly, Woodford recognizes that his result is based on several 
+
+approximations (pp. 383-392), but is nonetheless prepared to go ahead.  While 
+
+that choice is to some extent a matter of taste, it is also highly pragmatic--and 
+
+some might say, a reflection of his MIT training, a comment that I would take 
+
+as a compliment.   
+
+5. The importance of the long-term interest rate.  Another key result is that when 
+
+you solve forward the system above, you find, as Woodford notes (p.244), that  
+
+aggregate demand in this model depends upon all expected 
+
+future short real rates, and not simply upon a current ex ante 
+
+short real rate of return; and unless fluctuations in short rates are 
+
+both highly unforecastable and highly transitory, expectations of 
+
+future short rates are more significant than the current short rate  
+
+
+--and in a footnote he notes that this can also be explained by saying that it is 
+
+the long rate of interest and not the short rate that determines aggregate 
+
+demand in this model. 
+
+6.   What to do at the ZLB, Forward Guidance, The Role of Expectations.  MWIP 
+
+was completed well before the Fed had to contend with the ZLB--zero lower 
+
+bound--which later became the ELB--effective lower bound--even though 
+
+there were discussions in the U.S. economy in 2003 and earlier about what to 
+
+do if the economy were ever to be at the ZLB.15   
+
+                                                 
+15 See Michael Woodford (2012), “Methods of Policy Accommodation at the Interest-Rate Lower Bound,” 
+
+in Proceedings--Economic Policy Symposium--Jackson Hole (Kansas City:  Federal Reserve Bank of 
+
+Kansas City), pp. 185-288. 
+
+
+ - 17 - 
+
+Woodford’s views on forward guidance can be understood from the 
+
+discussion above of the forward solution of the basic model.  Woodford has 
+
+long emphasized the importance of policy commitment, even in the absence of 
+
+a binding ZLB constraint.  At the ZLB, explicit forward guidance can 
+
+potentially offset a lot of the distortion, by, in effect, reducing all interest rates 
+
+across the maturity spectrum at least up to the time that policy changes.  
+
+Indeed, as shown by Eggertson and Woodford (2003), optimal forward 
+
+guidance should commit to maintain lower interest rates during the recovery 
+
+than would otherwise have been warranted by economic conditions. 16  
+
+Importantly, the appropriate commitment can be framed as a history-
+
+dependent policy function responding only to the history of the price level and 
+
+the output gap, in such a way that the impact on policy decisions of economic 
+
+conditions at the lower bound continue, even as the economy recovers.    
+
+A history-dependent policy rule introduces a wedge between what 
+
+the central bank has promised and what contemporary circumstances, taken by 
+
+themselves, would call for.  This wedge may raise difficult questions 
+
+regarding the credibility of the policy.  Woodford believes that credibility can 
+
+be enhanced by spelling out an explicit framework describing the nature of 
+
+any history-dependence.  For example, as Woodford suggests in his 2012 
+
+Kansas City Fed paper,  
+
+A more useful form of forward guidance, I believe, would be one 
+
+that emphasizes the target criterion that will be used to determine 
+
+when it is appropriate to raise the federal funds rate target above 
+
+                                                 
+16 See Gauti B. Eggertsson and Michael Woodford (2003), “The Zero Bound on Interest Rates and Optimal 
+
+Monetary Policy,” Brookings Papers on Economic Activity, no. 1, pp. 139-211.   
+
+
+ - 18 - 
+
+its current level, rather than estimates of the “lift-off” date.  If 
+
+such an explicit criterion made it clear that short-term interest 
+
+rates will not immediately be increased as soon as a Taylor rule 
+
+descriptive of past behavior would justify a funds rate above 25 
+
+basis points, this would provide a reason for market participants 
+
+to expect easier future monetary and financial conditions than 
+
+they may currently be anticipating . . . 
+
+The very powerful effects of forward guidance have been called “the 
+
+forward guidance puzzle”.  But the puzzle is not a deep one, for the ability of 
+
+any central bank to commit to follow a particular monetary policy rule must 
+
+be a diminishing function of the length of the horizon that is being considered.   
+
+This fact serves to limit the extent to which policy can deliberately shape 
+
+private expectations.  However, the strength of forward guidance is just one 
+
+manifestation of a very high interest elasticity in the DSGE models typically 
+
+used by Woodford that shows up pervasively.  For example, any combination 
+
+of shocks that brings the economy to the ZLB for an appreciable length of 
+
+time will display the effects of the elevated interest elasticity in such models, 
+
+whether or not the central bank is assumed to issue explicit forward guidance.  
+
+This high elasticity is also in evidence in attempts to evaluate alternative 
+
+monetary policy regimes.17 
+
+7.   What to do at the Lower Bound, Quantitative Easing.  Woodford is much less 
+
+impressed by the potential power of quantitative easing (or “targeted asset 
+
+purchases” as he describes them in his Jackson Hole paper).  He argues that 
+
+portfolio balance effects do not exist in a modern, general-equilibrium theory 
+
+                                                 
+17 I am grateful to Hess Chung of the Federal Reserve Board for drawing to my attention the general point 
+
+made in this paragraph. 
+
+
+ - 19 - 
+
+of asset prices, and that it does not matter whether a particular risk is held in 
+
+the portfolio of private investors or the central bank, for in the end the gains or 
+
+losses of the central bank are transferred to the government, and via the 
+
+government budget constraint, are returned to private individuals.  This is 
+
+Ricardian equivalence in a slightly different context than examined by Robert 
+
+Barro.18   
+
+Whether it applies in practice is an empirical issue, with empirical 
+
+evidence from many papers written in the Fed and elsewhere suggesting a 
+
+significant impact in the expected direction from quantitative easing actions 
+
+undertaken by the Fed and other central banks.19 
+
+8. Money Supply versus Interest Rate.  At present, the Neo-Wicksellian approach 
+
+developed by Woodford and others is dominant, relative to the explicitly 
+
+monetary approach to monetary policy used by Patinkin and others.  I suspect 
+
+this situation will continue.  But I believe that we need to consider both 
+
+approaches to monetary policy, for monetary policy affects the economy not 
+
+only through the Euler equation as in Woodford, but also through direct 
+
+effects on current demands for goods described by Patinkin’s use of the real-
+
+balance effect and by Wicksell’s explanation of price dynamics described 
+
+earlier. 
+
+9. The fundamental impact of Michael Woodford on Fed thinking:20 The most 
+
+direct impact of Woodford on Fed thinking and analysis comes from his neo-
+
+Wicksellian analysis of monetary policy.  Essentially, Woodford has 
+
+                                                 
+18 See Robert J. Barro (1974), “Are Government Bonds Net Wealth?” Journal of Political Economy, vol. 82 
+
+(November-December), pp. 1095-1117. 
+19 See Joseph E. Gagnon (2016), “Quantitative Easing:  An Underappreciated Success,” Policy 
+
+Brief PB 16-4 (Washington:  Peterson Institute for International Economics, April), 
+
+https://piie.com/system/files/documents/pb16-4.pdf. 
+20 I draw here on notes provided by Michael Kiley of the Federal Reserve Board. 
+
+
+ - 20 - 
+
+developed the links between fluctuations of output and inflation around their 
+
+natural21 or long-run equilibrium values and economic welfare--a point22 
+
+made clear by the discussion above of his analysis of the optimal goals of 
+
+monetary policy.   
+
+Many Fed researchers--among them more than a dozen Woodford 
+
+students--have attempted to measure the natural rates of interest and the 
+
+natural output gap.  Early work on these topics using DSGE models produced 
+
+very volatile estimates of these concepts, leading to the development of DSGE 
+
+models with more realistic features, including important roles for financial 
+
+frictions, which fit the data better--and which bear some resemblance to more 
+
+traditional estimates of the output gap.  As a result, these models are now 
+
+routinely used in monetary policy discussions. 
+
+One key lesson from these models is that measuring the natural rate 
+
+of interest or the output gap is hard.  However, estimates of the natural rate of 
+
+interest from a collection of structural models across the Federal Reserve 
+
+System indicate that the natural rate fell considerably during the financial 
+
+crisis, became quite negative in its aftermath, and has subsequently recovered 
+
+only slowly.23   
+
+                                                 
+21 In Woodford’s and Wicksell’s analyses, natural values are those that would prevail in the absence of 
+
+nominal rigidities. 
+22 See, for example, Katharine Neiss and Edward Nelson (2002), “Inflation Dynamics, Marginal Cost, and 
+
+the Output Gap:  Evidence from Three Countries,” unpublished paper, Bank of England, July; Rochelle 
+
+Edge, Michael Kiley, and Jean-Philippe Laforte (2008), “Natural Rate Measures in an estimated DSGE 
+
+model of the U.S. economy,” Journal of Economic Dynamics and Control, vol. 32, pp. 2512-35.   
+23 See, for example, figure 1 in Janet Yellen (2015), “The Economic Outlook and Monetary Policy,” speech 
+
+delivered at the Economic Club of Washington, Washington, D.C., December 2,  
+
+www.federalreserve.gov/newsevents/speech/yellen20151202a.pdf. 
+
+
+ - 21 - 
+
+While estimates of the natural rate from DSGE models provide some 
+
+information needed for the proper conduct of monetary policy, these estimates 
+
+are closely tied to the structure of the DSGE models, and essentially ignore 
+
+the possibility of long-term structural changes in the balance between saving 
+
+and investment.  As a result, an alternative longer-run concept, the equilibrium 
+
+rate of interest, has also played an important role in recent policy discussions.  
+
+Estimates of this concept, which follow a statistical approach introduced by 
+
+Thomas Laubach and John Williams24, have also fallen to quite low levels. 
+
+A priority for researchers in the field is to develop improved 
+
+estimates of the long-run equilibrium interest rate, and to develop policies that 
+
+can influence it.  In that regard, one should recognize that in a more complete 
+
+model than the basic three equation model laid out above, the natural and 
+
+long-run equilibrium interest rates would be functions of many variables, 
+
+among them fiscal variables--with respect to both infrastructure spending and 
+
+taxation.  In particular, faster trend growth would increase the long-run 
+
+equilibrium interest rate, and what we need most, now that we are near full 
+
+employment and approaching our target inflation rate, is faster potential 
+
+growth.  The neo-Wicksellian and Woodfordian approach to macroeconomics 
+
+is well suited also to study that problem, which is critical to the future of the 
+
+United States and global economies. 
+
+
+                                                 
+24 See Thomas Laubach and John Williams (2003), “Measuring the Natural Rate of Interest,” Review of 
+
+Economics and Statistics, vol. 85, pp. 305-25. 
+
+
+Stanley Fischer
+
+(Money), Interest and Prices
+
+Vice Chairman
+Board of Governors of the Federal Reserve System
+
+May 19, 2016
+
+
+May 19, 2016 2
+
+Inflation  
+
+The subtitle of Wicksell’s Interest and Prices is A 
+
+Study of the Causes Regulating the Value of 
+
+Money.  Its opening paragraph emphasizes the 
+
+problem of inflation:   
+
+“Changes in the general level of prices 
+
+have always excited great interest.  
+
+Obscure in origin, they exert a profound 
+
+and far-reaching influence on the whole 
+
+economic and social life of a country.”
+
+
+The Natural Rate of Interest on Capital and 
+
+Rate of Interest on Loans
+
+“At any moment … there is a certain level of the average rate of interest 
+
+which is such that the general level of prices has no tendency to move 
+
+either upwards or downwards.  This we call the normal rate of interest.  
+
+Its magnitude is determined by the current level of the natural capital rate, 
+
+and rises and falls with it.
+
+If, for any reason whatever, the average rate of interest is set and 
+
+maintained below this normal level, no matter how small the gap, prices 
+
+will rise and will go on rising; or if they were already in process of falling, 
+
+they will fall more slowly and eventually begin to rise.
+
+If, on the other hand, the rate of interest is maintained no matter how little 
+
+above the current level of the natural rate, prices will fall continuously and 
+
+without limit.” (p.120)
+
+May 19, 2016 3
+
+
+May 19, 2016 4
+
+Actual Price Movements in the Light of the 
+
+Preceding Theory
+
+“The theory must … be regarded for the moment as a mere
+
+hypothesis, the complete validity of which can be 
+
+established only by further resort to the facts of experience.
+
+……………
+
+My purpose is to lay down the theoretical principles which 
+
+underlie these phenomena, and once they are correctly 
+
+understood their application can be confidently left to the 
+
+experience and insight of practical men” (pp. 176-7)
+
+
+May 19, 2016 5
+
+Practical Proposals for the Stabilisation of the 
+
+Value of Money
+
+“According to our line of approach, they [proposals for stabilizing the 
+
+value of money] can attain their objective only in so far as they exert 
+
+an indirect influence on the money rate of interest, and bring it into line 
+
+with the natural rate …” (p.188)
+
+But “This does not mean that the [central] banks ought actually to 
+
+ascertain the natural rate before fixing their own rates of interest.  ….. 
+
+The procedure should rather be simply as follows: So long as prices 
+
+remain unaltered, the banks’ rate of interest is to remain unaltered.  If 
+
+prices rise, the rate of interest is to be raised …… “ and likewise 
+
+mutatis mutandis if the price level falls.  (p.189)
+
+
+May 19, 2016 6
+
+Paul Samuelson on Wicksell
+
+“Because Wicksell read the works of his predecessors and contemporaries, and 
+
+acknowledged the fact; because he was eclectic; because he regarded all his own ideas 
+
+as merely tentative hypotheses; because he happened to come to economics after Jevons, 
+
+Menger, Walras, Bohm-Bawerk, Marshall and J.B. Clark – for all these reasons Wicksell
+
+is sometimes regarded as not having been a truly original and creative economist.  I am 
+
+convinced this appraisal is quite wrong.
+
+While Wicksell may have lacked the broad judgment of Marshall and one-track 
+
+concentration of Clark, to savor his genius you have merely to read his works on capital 
+
+and general equilibrium (vide Joan Robinson); on marginal productivity (vide Solow); 
+
+on the impact of technological change (vide Hicks); on marginal cost pricing and 
+
+imperfect competition (vide Hotelling and Chamberlin); on business cycle rhythms 
+
+generated by uneven exogenous trends and random shocks of innovation, which impinge 
+
+on an endogenous system geared to produce quasi-regular rhythms whose periods 
+
+depend on its internal structure (vide Frisch and Tinbergen); on the proper role of 
+
+government expenditure in an affluent and less-than-affluent society (vide Lindahl and 
+
+Musgrave); [and] on the relationship between interest rates set by central banks and 
+
+cumulative trends of inflation or deflation.” (p.1688).
+
+
+May 19, 2016 7
+
+Wicksell and Inside Money
+
+“Only by completely divorcing the value of money from … its commodity 
+
+function, by abolishing all free minting, and by making the minted coin 
+
+or banknotes proper, or more generally the unit employed in the 
+
+accounts of the credit institutions, both the medium of exchange and 
+
+the measure of value, only in this way can the contradiction be 
+
+overcome and the imperfection be remedied.  It is only in this way that 
+
+a logically coherent credit system, combining both economy of 
+
+monetary media and stability in the standard of value, becomes in any 
+
+way conceivable.”  
+
+
+May 19, 2016 8
+
+Patinkin’s Money, Interest, and Prices
+
+The Real Balance Effect
+
+Money, Interest, and Prices builds the integration of 
+
+monetary and value theory around the real balance effect, 
+
+often known as the Pigou effect, the presence of a wealth 
+
+effect in aggregate demand, which produces a stable 
+
+aggregate price dynamics at the level of the economy. 
+
+
+May 19, 2016 9
+
+Harry Johnson’s Comments
+
+“…. the more elegant approach to monetary theory lies along 
+
+inside-money rather than outside-money lines, and … the 
+
+foundation of the theory of monetary equilibrium and 
+
+stability should be the substitution effect rather than the … 
+
+wealth effect of a change in real balances.”
+
+
+May 19, 2016 10
+
+Involuntary Unemployment
+
+Chapters 13 and 14 of MIP deal with the consumption 
+
+function when unemployment takes the household off its 
+
+labor supply curve, and with other interactions between 
+
+markets.  They are based on research by Leijonhufvud and 
+
+Clower, and do an excellent job of clarifying the 
+
+implications of disequilibrium in one market for behavior 
+
+in other markets.  This approach was developed further by 
+
+Robert Barro and Herschel Grossman in their 1976 
+
+volume, Money, Employment, and Inflation, but began to 
+
+go out of use and fashion in the 1980s.
+
+
+May 19, 2016 11
+
+The Basic Model
+
+𝑥𝑡 = 𝐸𝑡 𝑥𝑡+1 − 𝜎  𝑖𝑡 − 𝐸𝑡𝜋𝑡+1 −  𝑟𝑡
+𝑛 (1)  
+
+𝜋𝑡 = 𝜅𝑥𝑡 + 𝛽𝐸𝑡𝜋𝑡+1 (2)
+
+ 𝑖𝑡 =  𝑖𝑡 + 𝜙𝜋 𝜋𝑡 −  𝜋 + 𝜙𝑥(𝑥𝑡 −  𝑥)/4 (3)
+
+where
+
+𝑥𝑡 is the output gap,  𝑦𝑡 −  𝑦𝑡
+𝑛;
+
+ 𝑦𝑡
+𝑛 is an exogenous variable, representing variations in the natural rate of output;
+
+𝜋𝑡 is the rate of inflation;
+
+ 𝑖𝑡 is the interest rate;
+
+ 𝑖𝑡 is an exogenous, possibly time-varying, intercept of the Taylor Rule.
+
+
+Estimates of the Real Natural Rate of Interest 
+
+from Different Economic Models*
+
+May 19, 2016
+12
+
+*This exhibit was drawn from figure 1 in Janet Yellen, “The Economic Outlook and 
+
+Monetary Policy,” remarks at the Economic Club of Washington, December 2.
+
+
+Thank you.
+

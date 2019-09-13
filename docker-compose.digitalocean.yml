@@ -9,7 +9,7 @@
   app:
     image: harbor.dev.o19s.com/pdf-discovery-demo/app:latest
     ports:
-      - 8081:8080
+      - 8080:8080
     links:
       - solr
 
@@ -38,7 +38,7 @@
   init:
     image: harbor.dev.o19s.com/pdf-discovery-demo/init:latest
     ports:
-     - "8080:8080"
+     - "8443:8443"
     links:
       - solr
       - zookeeper

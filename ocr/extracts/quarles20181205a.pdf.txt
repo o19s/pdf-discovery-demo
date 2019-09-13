@@ -1,0 +1,599 @@
+
+For release on delivery 
+8:15 p.m. EST (5:15 p.m. PST) 
+December 5, 2018 
+
+
+Banks as Vital Infrastructure for Rural Communities of the West 
+ 
+ 
+ 
+
+Remarks by 
+ 
+
+Randal K. Quarles 
+ 
+
+Vice Chairman for Supervision 
+ 
+
+Board of Governors of the Federal Reserve System 
+ 
+
+at the 
+ 
+
+Stanford Institute for Economic Policy Research 
+Stanford University 
+
+
+Stanford, California 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+December 5, 2018 
+ 
+
+
+It’s a pleasure to be here at Stanford, an honor to be invited to speak by SIEPR and the 
+
+Bill Lane Center--two institutions for which I have long had fondness and respect--and a great 
+
+luxury to have the chance to talk for an hour with a group of people who share my love for a part 
+
+of the world we call the West.  Most of my day job enmeshes me, of necessity, in either broad 
+
+systemic questions of global financial stability or the impossibly arcane minutiae of our 
+
+convoluted and labyrinthine financial regulatory system.  Both of those are perfectly worthy 
+
+occupations but inescapably require a relentlessly global outlook.  Yet my first intellectual 
+
+passion as a very young man was for the history and life of a specific part of the world--the 
+
+Western United States, as place and idea.  Your own presence here in the audience suggests that 
+
+many of you have been moved at some point in your life, as I have been, by the words of 
+
+Wallace Stegner: 
+
+If there is such a thing as being conditioned by climate and geography, and I think there 
+is, it is the West that has conditioned me.  It has the forms and lights and colors that I 
+respond to in nature and in art.  If there is a western speech, I speak it; if there is a 
+western character or personality, I am some variant of it; if there is a western culture in 
+the small-c, anthropological sense, I have not escaped it.1 
+ 
+So, that is why I say it is a pleasure and an honor but most especially a luxury for me to 
+
+speak to an audience that shares my concern for and love of the West on the topic of how the 
+
+preoccupations of my day job--banking and finance--affect this particular part of the world.  We 
+
+all know that throughout the history of the West, banking and finance have played an important 
+
+role as vital infrastructure for the economy.  That remains true today, although it is often 
+
+overlooked in the traditional litany of issues critical to the West.  A strong banking industry is 
+
+necessary for households and businesses to engage in the spending, saving, and investment that 
+
+constitute economic activity, and one of the purposes of financial regulation is to ensure that 
+
+                                                 
+1 Wallace Stegner, “The American West as Living Space,” University of Michigan Press, 1988. 
+
+
+- 2 - 
+ 
+
+banks continue to be able to serve this purpose.  So it is my plan today to talk about the economy 
+
+of the West and link the recent and future performance of the western economy to the central and 
+
+supportive role banks play as vital infrastructure in their communities. 
+
+Defining the West 
+
+Let’s start by defining our terms. What do we mean by the West?  Before this audience, I 
+
+approach this question with respect and a little caution, because I know that in a broad sense, it is 
+
+what the Center for the American West has been addressing since its founding.  That aside, it 
+
+makes sense to use a definition, as the center often does, that includes parts of states in the 
+
+middle of the country whose economies, heavily dependent on natural resources, ranching, and 
+
+farming, more closely resemble Montana and New Mexico than they do states on the Eastern 
+
+seaboard.   
+
+Nevertheless, for the purposes of these remarks, I am going to use a less expansive 
+
+definition comprising the 13 westernmost states.  I do so partly because this is a common 
+
+definition of the West, and because it is the one used by the U.S. Census Bureau in dividing the 
+
+country into four regions and this has helped me gather data for this speech more readily. (Figure 
+
+1) 
+
+The first thing to mention that distinguishes the West from the rest of the country is 
+
+apparent on this map--land area.  The West is large and would appear even larger of course, if it 
+
+weren’t necessary to shrink the vastness of Alaska to fit on one page.  Even using my more 
+
+modest definition, the West still represents half of the land area of the United States.  This is 
+
+important in this context because of one theme I will be exploring today, which is the economy 
+
+of the rural West and the banking services available there.   
+
+
+- 3 - 
+ 
+
+As this map should make plain, when we talk about rural America, to a significant extent 
+
+we are talking about the rural West.  Another way to put it is that while the West is half of the 
+
+United States geographically, it is only a quarter of its population.2  Eight of the 13 states in our 
+
+definition of the West are among the dozen in the nation with the lowest population density.3  
+
+Even after subtracting the large share of unpopulated government-owned land in the West, the 
+
+overwhelming majority of the West is rural. 
+
+Yet it is also true that, as most of you know, the West is the most urban region of the 
+
+country.  Five of the 15 largest metro areas in the United States are located in the West, and 90 
+
+percent of the entire region’s population lives in cities, compared to 81 percent of the country as 
+
+a whole. 4,5  Nevada and Utah are among the least densely populated states, but 90 percent or 
+
+more of their residents live in cities.  Like the rest of the country, the West is urbanizing.  I will 
+
+return to the differences between urban and rural areas, but first, let’s look at the economy of the 
+
+West. 
+
+The Economy of the West: From Boom to Boom 
+
+The West accounts for 25 percent of U.S. gross domestic product, almost exactly the 
+
+share of the U.S. population in the West.  This isn’t entirely a coincidence, because population 
+
+relates to labor supply, which is one determinant of economic output.  I mention this because it is 
+
+                                                 
+2 Source: Federal Reserve Board staff calculations were done using data from the following website: “List of states 
+and territories of the United States by population,” Wikipedia, last modified November 18, 2018, 
+https://en.wikipedia.org/wiki/List_of_states_and_territories_of_the_United_States_by_population. 
+ 
+3 Source: “List of states and territories of the United States by population density,” Wikipedia, last modified October 
+12, 2018, 
+https://en.wikipedia.org/wiki/List_of_states_and_territories_of_the_United_States_by_population_density. 
+ 
+4 Source: “List of metropolitan statistical areas,” Wikipedia, last modified November 29, 2018, 
+https://en.wikipedia.org/wiki/List_of_metropolitan_statistical_areas. 
+ 
+5 Source: “Urbanization in the United States,” Wikipedia, last modified November 10, 2018, 
+https://en.wikipedia.org/wiki/Urbanization_in_the_United_States. 
+ 
+
+
+- 4 - 
+ 
+
+also true that the change in population over time has a bearing on the economic health of 
+
+communities and regions, and is part of the story for economic growth in the western United 
+
+States. 
+
+In recent years, that story has been a very positive one.  The U.S. economy is strong, and 
+
+the western economy is especially strong.  While we don’t have state or regional numbers for 
+
+this year, from 2015 through 2017, GDP, after adjusting for inflation, grew two to nearly three 
+
+times as fast in the West as in the rest of the United States.  Since the Great Recession ended in 
+
+2010, real GDP has grown twice as fast in the West as in the Northeast, about 50 percent faster 
+
+than in the Midwest, and a third faster than in the South.6    
+
+But there is another distinction to the western economy, one that many in this audience 
+
+know well, that brings these high-flying results down to earth.  While the good times are 
+
+typically very good in the West, the bad times are usually pretty bad, and that was certainly true 
+
+during the Great Recession.  From 2008 through 2010, the western economy contracted four 
+
+times as much as the average for all of the United States.  The same is true for per capita 
+
+personal income, which contracted more sharply in the West than elsewhere, as job losses in the 
+
+western region during the recession were worse than elsewhere.  
+
+Taking a longer perspective, however, even with the booms and the busts that have 
+
+characterized the West for upwards of 200 years, the West is still the fastest growing region of 
+
+the United States.  Since 2000, real GDP has grown twice as fast in the West as in the Northeast 
+
+and Midwest, and about 30 percent faster than in the South.  Since 1988, the numbers are 
+
+roughly the same.  Per capita personal income grew faster in the West during good years, 
+
+                                                 
+6 Statistics presented in this paragraph and the next two paragraphs are derived from the following website: 
+“Comparative Economic Indicators: Year vs. Year Analysis of Growth and Change,” Regional Economic Analysis 
+Project, https://united-states.reaproject.org/analysis/comparative-indicators/year_vs_year/. 
+
+
+- 5 - 
+ 
+
+outweighing the sharper losses during the recession and since 2000 has grown about 20 percent 
+
+faster in the West than in the rest of the country.  
+
+This picture of the West leading the nation in economic growth is also reflected in 
+
+population, a key factor in that growth.  From 2010 to 2017, the population of the West increased 
+
+7.4 percent, compared to 5.3 percent for the nation.7  One might guess that this strong growth is 
+
+primarily in cities, and in fact reflects the drain of population from smaller towns that is reported 
+
+to be happening all over the United States.  But in fact, population gains in the West are quite 
+
+well balanced between cities and towns, and smaller towns are doing better in the West than 
+
+elsewhere in holding and even increasing their populations.   
+
+In the cities of the West, those communities of 50,000 or more, the population grew 7.8 
+
+percent from 2010 to 2017, eclipsed by the 10 percent growth in southern cities but well above 
+
+the 2 percent to 3 percent increase in the cities of the Northeast and Midwest.8  At the same time, 
+
+the West led the other regions of the United States in growth for towns and cities from 10,000 to 
+
+50,000 in size, and likewise for towns between 5,000 and 10,000.    
+
+Now let’s look at small towns, those with 5,000 or fewer residents.  It is this cohort of 
+
+towns and their people that to my mind is really the essence of rural America.  There is a 
+
+widespread impression that small towns all over America are shrinking and that population is 
+
+shifting to larger towns and cities, and that is the story we can see in much of the regional data.  
+
+From 2010 to 2017, the average small town shrank by 2 percent in the Northeast, by 1.4 percent 
+
+in the Midwest, and only grew 1.3 percent in the South, while larger towns and cities grew 
+
+substantially faster there and elsewhere.  
+
+                                                 
+7 Source: https://www.census.gov/popclock/data_tables.php?component=growth 
+8 Statistics presented in this paragraph and the next two paragraphs are derived from the following website: “The 
+West and South Lead the Way,” United States Census Bureau, last modified October 1, 2018, 
+https://www.census.gov/library/visualizations/2018/comm/subcounty-estimates.html. 
+
+
+- 6 - 
+ 
+
+What about the West, where urbanization is happening more quickly than anywhere else? 
+
+In fact, the average western small town grew 7.8 percent in those seven years, which is roughly 
+
+the same healthy pace of growth registered in western towns and cities from the smallest to the 
+
+largest.   
+
+With a nod to Mark Twain, the message here is that reports of the death of small towns, 
+
+at least in the West, have been greatly exaggerated.  I don’t mean to minimize the challenges 
+
+small towns face, because they are considerable, or suggest that western small towns are immune 
+
+to them, because they certainly are not.  But the more positive message I come away with here is 
+
+that a rising tide of prosperity in the West seems to be lifting communities large and small, and 
+
+that the many instances of small towns in decline that we all hear about are counterbalanced by 
+
+other small towns growing healthily.  Another lesson is that population growth and the attendant 
+
+economic growth in the West is not zero sum, and that small towns can still grow healthily while 
+
+the metropolises of the West continue to attract people, partly from outside the region.  I will 
+
+return to the issue of how the economies of the urban and rural West differ, but the backdrop is 
+
+that population data are promising for both. 
+
+Banking in the West 
+
+Now that I have outlined how the economy of the West relates to that of the rest of the 
+
+United States, let me do the same for banking in the West.  There is a lot to this topic, but my 
+
+focus is banking as it is experienced at the retail level by households and small- and medium-
+
+sized businesses.  Again, I use the Census Bureau’s list of 13 states to define the West, and for a 
+
+simpler comparison, and in honor of Frank Church, I will refer to the other 37 states as “eastern” 
+
+even though they cover several regions.  Some of you are old enough to remember Frank 
+
+Church, the U.S. Senator from Idaho--a Stanford grad and hero of mine when I was a teenager.  
+
+
+- 7 - 
+ 
+
+When he ran for president in 1976 and had some success in the primaries, he was challenged by 
+
+the press that said his victories were limited to the West, and he replied “What do you mean I 
+
+can’t win an eastern state?  I won Nebraska!” 
+
+One dimension to how households and most businesses experience banking is the number 
+
+of banks competing for their services, and one difference between the West and the East is that 
+
+the West has fewer banks, even if we count them on a per capita basis.9  In addition, banks in the 
+
+West tend to be larger. One reason for the disparity in the average number and size of banks is 
+
+that historically, a larger share of western states allowed statewide branching or had relatively 
+
+limited branching restrictions, leading to the development of fewer and larger banks.10   
+
+In metropolitan areas of the West, the average number of banks was 23 in 2017, 
+
+compared to 27 in eastern metro areas.   In rural counties of the West, customers had access to an 
+
+average of 4.6 banks in 2017, compared to 5.4 banks in the East.  In both urban and rural areas, 
+
+in both the East and the West, the average number of banks increased in the years leading up to 
+
+the financial crisis but has been declining since then.  While there is certainly more to say about 
+
+banking services in cities, I want to focus on rural areas for the moment.  Over the last 20 years, 
+
+rural westerners have consistently had access to something like 20 percent fewer banks than rural 
+
+easterners, which amounts to about one less bank per rural county.   That may not sound like 
+
+much, but that one less bank, on average, can make a big difference to the households and small 
+
+businesses inhabiting those rural counties.  
+
+                                                 
+9 The source for statistics presented in this paragraph and the next three paragraphs is Federal Reserve Board staff 
+calculations using bank Reports of Condition and Income filed with the Federal Financial Institutions Examination 
+Council, Thrift Financial Reports filed with the Office of Thrift Supervision, and Summary of Deposits filed with 
+the Federal Deposit Insurance Corporation.  
+ 
+10 Even though state banking restrictions were eliminated in most states decades ago, the differences in the number 
+of banks across states have persisted. 
+
+
+- 8 - 
+ 
+
+In any community, access to credit is essential for economic growth.  In any community, 
+
+but especially in rural communities, small businesses are key drivers of growth.  Small 
+
+businesses heavily rely on banks for funding, and community banks, those with less than $10 
+
+billion in assets, account for a disproportionate share of bank lending to small businesses. 
+
+But across the country, the number of community banks has fallen by half over the past 
+
+20 years, mostly due to consolidation.  This fall has been slightly larger in the West than the 
+
+East, but the reason I highlight this trend is that I believe it has significant consequences for rural 
+
+communities in the West.  The reason returns me to that map I showed earlier.  The West is vast, 
+
+and many rural communities in the West must deal with the challenges of isolation from larger 
+
+towns and cities that few communities in the East face.  Rural westerners have access to far 
+
+fewer banks overall than rural easterners, but that understates the disparity when some western 
+
+counties are the size of Maryland or Massachusetts and many are more than a hundred miles 
+
+across, so that access to a limited number of banks can be difficult or out of reach. 
+
+To provide some perspective on this challenge, let me share what westerners in one small 
+
+town have to say about their access to banking services.  This account is culled from a series of 
+
+public meetings that the Federal Reserve is convening in communities all around the country, in 
+
+support of our responsibilities overseeing community banks and promoting community 
+
+development. 
+
+Not quite a month ago, we held one such session in my home state of Utah, in the town of 
+
+Green River, population 940, located on the eastern side of the state.  It is just off an isolated 
+
+stretch of interstate, and its economy depends on those passersby and tourism related to outdoor 
+
+recreation.  In 2014, Green River lost its only bank, and around that time, banks closed in several 
+
+nearby communities.  As a result, most residents of Green River who need banking services must 
+
+
+- 9 - 
+ 
+
+drive the 52 miles to Moab, Utah.  This loss has had a profound effect on households and 
+
+businesses, essentially turning back the clock in Green River by decades, as far as its access to 
+
+the banking system.  Business owners say their work days have been curtailed by the need to 
+
+drive two or three times a week to Moab to obtain change and make deposits.  Businesses have 
+
+become banks for many residents, agreeing to cash their checks.  Because of this new service to 
+
+residents, and the long distance to a real bank, retail businesses say they are carrying much larger 
+
+amounts of cash, which has heightened security concerns and prompted some merchants to 
+
+invest in new safes.  Security is also a concern for residents who no longer have access to safety 
+
+deposit boxes for valuables and important papers.   
+
+Faster and more efficient electronic payments hold some promise to bridge these gaps, 
+
+eventually, and the Federal Reserve is working hard on this and making significant progress.  
+
+But one thing that technology cannot do is replace the knowledge and perspective of a local 
+
+banker who is part of the community.  Relationship-based lending that is the hallmark of 
+
+community banking can stem losses during downturns, since community banks may be able to 
+
+work with borrowers to avoid losses.  Research has shown that small business lending at smaller 
+
+banks declined less severely than at large banks during the last recession. 
+
+Community banks face considerable competition.  One of the reasons that community 
+
+banks continue to succeed in many places is their understanding of their customers’ needs and 
+
+opportunities to invest in families and businesses.  The loss of this relationship, for a community, 
+
+means that needs will go unmet, and opportunities will be lost.  
+
+In some communities, of course, this may be unavoidable, if a town has lost a major 
+
+employer and has no new industry or plan to replace the jobs lost.  But let me remind you of the 
+
+very encouraging data I cited on the growth of small towns in the West.  Overall, rural 
+
+
+- 10 - 
+ 
+
+communities are growing at a healthy pace, and growing communities need banks.  It is my hope 
+
+that the opportunity for the future that this population growth suggests will support the local 
+
+banks that communities need to thrive.  
+
+A significant part of the Federal Reserve’s recent regulatory focus has been aimed at 
+
+streamlining regulations and reducing the regulatory burden on smaller and regional banks.   
+
+The Fed, along with the other banking agencies, recently proposed a community bank 
+
+leverage ratio that is designed to simplify significantly the standards banks must abide by for 
+
+holding capital.11  As a result, qualifying community banks will only need to calculate and meet 
+
+a single measure of capital adequacy, rather than multiple measures.  We have also proposed a 
+
+reduction in the burden of reporting requirements for community banks, and expect soon to 
+
+propose an exemption for community banks to the Volcker rule.12  For a subset of the smallest 
+
+banks--those with less than $5 billion in total assets--we have also lengthened the amount of time 
+
+between supervisory examinations and expanded eligibility of small bank holding companies 
+
+that qualify for an exemption to the Federal Reserve’s capital rules, a policy that was designed to 
+
+promote local ownership of small banks and to help maintain banks in rural areas.13 
+
+Most recently, the Federal Reserve spearheaded a proposal to tailor regulation that 
+
+applies to firms that are larger than community banks, but the potential failure of which generally 
+
+                                                 
+11 See Board of Governors of the Federal Reserve System, “Agencies propose community bank leverage ratio for 
+qualifying community banking organizations,” news releases, November 21, 2018.  
+ 
+12 See Board of Governors of the Federal Reserve System, “Agencies issue proposal to streamline regulatory 
+reporting for qualifying small institutions,” news release, November 7, 2018.  
+ 
+13 See Board of Governors of the Federal Reserve System, “Agencies issue interim final rules expanding 
+examination cycle for qualifying small banks and U.S. branches of foreign banks,” news release, August 23, 2018 
+and Board of Governors of the Federal Reserve System, “Federal Reserve Board issues interim final rule expanding 
+the applicability of the Board’s small bank holding company policy statement,” news release, August 28, 2018.  Of 
+course, while the holding companies of community banks may be eligible for an exemption from capital rules, the 
+subsidiary banks are still subject to capital requirements.  
+ 
+
+
+- 11 - 
+ 
+
+does not pose risks to the financial system.14  These are firms with between $100 billion and 
+
+$250 billion in total assets.  Those changes are designed to reduce unnecessary regulatory 
+
+burdens on specific institutions without any loss of resiliency for the financial system. 
+
+By these steps, I believe the Federal Reserve is helping community banks remain 
+
+competitive and play the central role they have long played as vital infrastructure for rural 
+
+communities.  The future of community banks in these communities is one reason that I’m 
+
+optimistic about the economic prospects of small towns in the West, which continue to grow 
+
+even as the region and the nation overall becomes more urban.  That’s a good thing, because 
+
+small towns, and especially their values, have long helped define the West, and I hope will 
+
+continue to do so.  
+
+
+
+
+
+                                                 
+14 See Board of Governors of the Federal Reserve System, “Federal Reserve Board invites public comment on 
+framework that would more closely match regulations for large banking organizations with their risk profiles,” news 
+release, October 31, 2018.  
+
+
+Banks as Vital Infrastructure 
+For Rural Communities of the West 
+
+Randall K. Quarles
+Vice Chairman for Supervision
+
+Board of Governors of the Federal Reserve System 
+at
+
+Stanford Institute for Economic Policy Research
+
+December 5, 2018
+
+
+U.S. Census Bureau
+

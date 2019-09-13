@@ -1,0 +1,640 @@
+
+For release on delivery 
+2:00 p.m. EDT (1:00 p.m. CDT)  
+September 27, 2017 
+
+Labor Market Disparities and Economic Performance 
+
+Remarks by 
+
+Lael Brainard 
+
+Member 
+
+Board of Governors of the Federal Reserve System 
+
+at 
+
+“Banking and the Economy:  A Forum for Minority Bankers,” a conference hosted by 
+the Federal Reserve Bank of Kansas City 
+
+Kansas City, Missouri 
+
+September 27, 2017 
+
+
+
+I would like to thank President George and her staff at the Federal Reserve Bank 
+
+of Kansas City for inviting me to participate in today’s conference, which is a joint effort 
+
+of the Federal Reserve Banks of Atlanta, Kansas City, Minneapolis, Philadelphia, 
+
+Richmond, and St. Louis as well as the Federal Reserve Board.1  
+
+Diversity in Financial Services  
+
+As you may know, this is the second minority bankers forum hosted by the 
+
+Federal Reserve System.  Diversity and inclusion are important to the strength of the 
+
+banking industry, and therefore I am pleased that the Federal Reserve System is 
+
+sponsoring this conference.  Among other benefits, diversity and inclusion strengthen 
+
+organizations by improving deliberations and decisionmaking.  Banks with more diverse 
+
+workforces are also better able to reach broader groups of customers, especially 
+
+customers who have historically been underbanked, when they show that serving those 
+
+customers is a top priority.  One of the most effective ways of showing a commitment to 
+
+a diverse customer base is showing a commitment to a diverse workforce. 
+
+We now have substantial empirical evidence documenting the benefits of 
+
+diversity in broadening the range of ideas and perspectives that are brought to bear on 
+
+solving problems, and thereby contributing to better outcomes, in research, policy, and 
+
+business.  Studies suggest that increased diversity alters group dynamics and 
+
+decisionmaking in positive ways.  Microeconomic experiments and other research have 
+
+confirmed these ideas.  One experiment found that greater racial diversity helped groups 
+
+of business students outperform other students in solving problems.  And another found 
+
+                                                 
+1 I am grateful to Amanda Roberts and Christopher Smith for their assistance in preparing this text.  The 
+remarks represent my own views, which do not necessarily represent those of the Federal Reserve Board or 
+the Federal Open Market Committee. 
+
+
+ - 2 - 
+
+similar benefits from gender diversity.  A study of 2.5 million research papers across the 
+
+sciences found that those written by ethnically diverse research teams received more 
+
+citations and had a greater influence than papers by authors with the same ethnicity.2 
+
+As a bank regulator, the Federal Reserve has an interest in promoting diversity in 
+
+the financial services industry.  For example, the Federal Reserve Bank of Chicago is 
+
+actively engaged in developing diverse talent in the financial services industry as a key 
+
+partner of the Financial Services Pipeline Initiative (FSP).  The FSP is a collaborative of 
+
+about 20 financial services organizations that are working together to increase the 
+
+representation of Latinos and African Americans, at all levels, within the Chicago-area 
+
+financial services industry. The members of this initiative recognize they have a 
+
+collective interest in developing a diverse pipeline of talent.  They are more likely to be 
+
+more successful in achieving their internal pipeline goals if they succeed in improving 
+
+diversity and inclusion in the finance workforce more broadly.  
+
+Another example of our work to promote diversity at banking institutions is the 
+
+standards developed by the Board’s Office of Minority and Women Inclusion to promote 
+
+transparency and awareness of diversity policies and practices within banking 
+
+institutions.  The Board encourages banking institutions not only to provide their policies, 
+
+practices, and self-assessment information to the Board, but also to disclose this 
+
+information to the public.  We hope that this new self-assessment tool will help 
+
+individual banks achieve their own diversity and inclusion goals and contribute to greater 
+
+diversity in the banking industry more generally.   
+
+                                                 
+2 See Bayer and Rouse (2016). 
+ 
+
+
+ - 3 - 
+
+I also want to take this opportunity to update you on what we are doing to 
+
+preserve and promote Minority Depository Institutions (MDIs).  Though I know that only 
+
+some of you work for MDIs, the Federal Reserve recognizes their vital role in serving 
+
+low- and moderate-income and minority communities as well as bringing diversity to the 
+
+field of banking.  I make a point of meeting with the leadership of MDIs as I travel 
+
+around the country so I can hear firsthand about the challenges these institutions face and 
+
+the important work they are doing to provide financial services to minority and 
+
+historically underserved populations.  I have heard from CEOs of MDIs about how 
+
+challenging it can be to simultaneously serve their target market and be a bank of choice 
+
+in a competitive banking market.  Some have managed to thread that needle successfully 
+
+by remaining firmly rooted and accessible in the communities they serve as well as 
+
+maintaining their focus on trust, loyalty, and personalized relationship banking, which is 
+
+a particular strength and competitive advantage for MDIs. 
+
+The Federal Reserve has developed a national outreach program called the 
+
+Partnership for Progress to assist MDIs in confronting business model challenges, 
+
+cultivating safe banking practices, and competing more efficiently.  Recently, the Board 
+
+doubled its resources for this program to better support MDIs.  We brought to bear the 
+
+resources of our community development function, which promotes economic growth 
+
+and financial stability in lower-income communities.  Combining the resources of our 
+
+banking and supervision staff with our community development staff allows us to be 
+
+more creative in supporting MDIs around the country.  Recognizing that there has been a 
+
+dearth of MDI research in recent decades, last year, for the first time, we commissioned 
+
+two external researchers to develop papers on MDIs.  The resulting new papers, along 
+
+
+ - 4 - 
+
+with another written by economists at the Federal Reserve Bank of Chicago, were 
+
+presented at the interagency biennial MDI conference this past April in Los Angeles.  We 
+
+are in the process of commissioning research for next year in an effort to deepen our 
+
+understanding of these unique institutions. 
+
+Labor Market Disparities  
+
+Turning to the workforce more broadly, I want to spend some of my time today 
+
+talking about disparities and share some findings from a conference we hosted yesterday 
+
+at the Board titled “Disparities in the Labor Market:  What Are We Missing?”  In 
+
+fulfilling its dual mandate, the Federal Open Market Committee (FOMC) has set a target 
+
+of 2 percent for inflation but does not have a similarly fixed numerical goal for maximum 
+
+employment.  That is because the level of maximum employment depends on 
+
+“nonmonetary factors that affect the structure and dynamics of the labor market,” which 
+
+“may change over time and may not be directly measurable.”3  Understanding how close 
+
+the labor market is to our full-employment goal requires consulting a variety of evidence 
+
+along with a healthy dose of judgment.  This approach to maximum employment has 
+
+allowed the FOMC to navigate the current expansion in a way that has likely brought 
+
+more people back into productive employment than might have been the case with a fixed 
+
+unemployment rate target based on pre-crisis standards.  
+
+The Federal Reserve is also keenly interested in disparities in employment, labor 
+
+force participation, income, and wealth because they may have implications for the 
+
+growth capacity of the economy.  When we consider appropriate monetary policy, we 
+
+need to have a good sense of how fast the economy can grow without fueling excessive 
+
+                                                 
+3 The FOMC’s Statement on Longer-Run Goals and Monetary Policy Strategy is available on the Board’s 
+website at https://www.federalreserve.gov/monetarypolicy/files/fomc_longerrungoals.pdf.   
+
+
+ - 5 - 
+
+price inflation.  At a time when the retirement of the baby-boom generation looks likely 
+
+to be something of a drag on the growth of the labor force, it is especially important to 
+
+consider whether relatively low levels of employment and labor force participation for 
+
+some prime working-age groups represent slack that, if successfully tapped, could 
+
+increase the labor force and boost economic activity.  
+
+More broadly, when a person who was previously unemployed or discouraged 
+
+secures a job, not only does it boost the economy, but that person also may gain a greater 
+
+sense of economic security, self-sufficiency, and self-worth and be better able to invest in 
+
+their family’s future.  With a richer understanding of economic or social barriers that 
+
+inhibit labor market success and prosperity for some groups, we may better grasp how 
+
+much these individuals can be helped by broad economic expansion and how much 
+
+targeted intervention is required through other policy means.4   
+
+There is also an important connection between the economy’s potential growth 
+
+rate and equality of opportunity.  Large disparities in opportunity based on race, ethnicity, 
+
+gender, or geography mean that the enterprise, exertion, and investments of households 
+
+and businesses from different groups are not rewarded commensurately.  To the extent 
+
+that disparities in income and wealth across race, ethnicity, gender, or geography reflect 
+
+such disparities in opportunity, families and small businesses from the disadvantaged 
+
+groups will then underinvest in education or business endeavors, and potential growth 
+
+will fall short of the levels it might otherwise attain.5   
+
+                                                 
+4 For evidence on the relationship between monetary policy and labor market disparities between some 
+demographic groups, see Carpenter and Rodgers (2004). 
+5 For more on inequality of opportunity see Marrero and Rodriquez (2013). 
+
+
+ - 6 - 
+
+Aside from reducing the long-run productive potential of the economy, 
+
+persistently high levels of income and wealth inequality may also have implications for 
+
+the robustness of consumer spending, which accounts for roughly two-thirds of aggregate 
+
+spending in the United States.  The gaps in household income and wealth between the 
+
+richest and poorest households are at historically high levels, as income and wealth have 
+
+increasingly accrued to the very richest households.  For example, results from the 
+
+Federal Reserve’s latest Survey of Consumer Finances (SCF), which is due to be released 
+
+soon, indicate that the share of income held by the top 1 percent of households reached 
+
+24 percent in 2015, up from 17 percent in 1988.  The share of wealth held by the top 
+
+1 percent rose to 39 percent in 2016, up from 30 percent in 1989.6  Some research 
+
+suggests that widening income and wealth inequality may damp consumer spending in 
+
+the aggregate, as the wealthiest households are likely to save a much larger proportion of 
+
+any additional income they earn relative to households in lower income groups that are 
+
+likely to spend a higher proportion on goods and services.7   
+
+Disparities by Race and Ethnicity 
+
+ When we disaggregate the economy-wide labor market statistics, we find 
+
+significant and persistent racial and ethnic disparities.8  In August, the national 
+
+unemployment rate of 4.4 percent, which is low by historical standards, masked 
+
+substantial differences across different demographic groups.  As shown in figure 1, 
+
+unemployment rates ranged from 3.9 percent for whites to 4 percent for Asians, 
+
+                                                 
+6 Staff calculations from forthcoming SCF data (to be released on September 27); for additional analysis of 
+these data, see Bricker and others (forthcoming).  
+7 See Bernstein (2013) and Alichi, Kantenga, and Solè (2016) for more on the potential link between 
+income and wealth inequality and consumer spending.  
+8 For a discussion of gender disparities, see Yellen (2015). 
+
+
+ - 7 - 
+
+5.2 percent for Hispanics, and 7.7 percent for African Americans.  Labor force 
+
+participation rates, shown in figure 2, also differ substantially, although by less than 
+
+unemployment rates, with the rate for African Americans lowest at 62.2 percent.  These 
+
+differences are not a recent development--similar differences across racial and ethnic 
+
+dimensions have existed for as long as these data have been collected.  Even more 
+
+striking, a significant portion of the gaps in unemployment rates across racial and ethnic 
+
+groups cannot be attributed to differences in their underlying characteristics, such as age 
+
+and education levels.9   
+
+ Although the differences in employment rates between racial and ethnic groups 
+
+are still quite large, they have narrowed recently, after having widened considerably 
+
+during the recession, and are near their lowest levels in decades.  Differences in 
+
+unemployment rates across racial and ethnic groups tend to widen sharply during 
+
+recessions, as less advantaged groups shoulder an outsized share of total layoffs, and 
+
+these differences shrink during recoveries.  For example, in the second quarter of 2017, 
+
+the unemployment rate for black adult men was a little more than 3 percentage points 
+
+higher than for white adult men.  This differential, while sizable, is nonetheless close to 
+
+the smallest gap seen since comparable data became available in the mid-1970s.  
+
+Differences in unemployment rates are similarly near historical lows for black women 
+
+relative to white women, and for Hispanics relative to whites.  Since racial disparities 
+
+tend to get smaller throughout the course of an economic expansion, it seems likely that 
+
+                                                 
+9 See Cajner and others (2017) for more on racial gaps and the labor market. 
+
+
+ - 8 - 
+
+racial differences in unemployment rates will continue to shrink if the overall 
+
+unemployment rate falls further.10   
+
+More broadly, the persistent disparities in employment outcomes are mirrored in 
+
+significant and persistent racial and ethnic differences in families’ income and wealth.  
+
+According to forthcoming findings from the latest SCF and as shown in figure 3, the 
+
+average income for white families in 2015 was about $123,000 per year, compared with 
+
+$54,000 for black families and $57,000 for Hispanic families.11  Disparities in wealth, 
+
+shown in figure 4, are even larger:  Average wealth holdings for white families in 2016 
+
+were about $933,000, compared with $191,000 for Hispanic families and $138,000 for 
+
+black families.12  Moreover, these racial and ethnic gaps in average family income and 
+
+wealth have generally widened rather than narrowed over the past few decades.  Based on 
+
+SCF data, median family wealth has grown much more rapidly for white families than for 
+
+other families over the past few decades, while median family incomes have risen by 
+
+about the same amount for white, black, and Hispanic families.   
+
+As the economic expansion continues and brings more Americans off the 
+
+sidelines and into productive employment, it seems likely that the positive trends in 
+
+employment and participation rates for historically disadvantaged groups will continue.  
+
+                                                 
+10 Data on recent estimates of unemployment rates for adult men (20 years and older) by race and ethnicity 
+are available from the Bureau of Labor Statistics.  Historical gaps are provided by Cajner and others 
+(2017). 
+11 Staff calculations from forthcoming SCF data.  Recent estimates of household income from Current 
+Population Survey data and reported by the Census in Semega, Fontenot, and Kollar (2017) are 
+qualitatively similar, in that between 2013 and 2016 for both sets of data, family income has increased for 
+whites, blacks, and Hispanics (with greater increases, in percentage terms, for black and Hispanic families). 
+12 Racial and ethnic differences in median income and wealth are somewhat smaller.  For example, in 2016 
+median income for white families was about $61,000, compared with $35,000 for black families and 
+$39,000 for Hispanic families.  Median wealth was about $171,000 for white families, compared with 
+about $20,000 for black and Hispanic families. The larger gap in average income and wealth than median 
+income and wealth reflects a greater concentration of income and wealth among the wealthiest white 
+families than for other races and ethnicities. 
+
+
+ - 9 - 
+
+That said, the benefits of a lengthy recovery can only go so far, as the research points to 
+
+some barriers to labor market outcomes for particular groups that appear to be structural.  
+
+After controlling for sectoral and educational differences, the research suggests that these 
+
+factors include discrimination as well as differences in access to quality education and 
+
+informal social networks that may be an important source of information and support 
+
+regarding employment opportunities.13   
+
+Federal Reserve Work on Labor Market Disparities 
+
+While the policy tools available to the Federal Reserve are not well suited to 
+
+addressing the barriers that contribute to persistent disparities in labor market outcomes, 
+
+understanding these barriers and efforts to address them is vital in assessing maximum 
+
+employment as well as potential growth.  The Federal Reserve is deeply engaged in 
+
+understanding disparities through our data collection, research collaboration, and 
+
+community development work.  One way the Federal Reserve seeks to obtain a clearer 
+
+picture is by collecting data ourselves.  For instance, some of the data I have cited today 
+
+come from the Federal Reserve’s triennial Survey of Consumer Finances, which provides 
+
+detailed information on income and wealth holdings by demographic groups.  The Survey 
+
+of Household Economics and Decisionmaking provides a portrait of household finances, 
+
+employment, housing, and debt; the Survey of Young Workers provides insights into 
+
+younger adults’ employment experiences soon after entering the labor force; and the 
+
+Enterprising and Informal Work Activities Survey provides information about income 
+
+                                                 
+13 For example, see Fryer (2011) and Ritter and Taylor (2011). 
+
+
+ - 10 - 
+
+generating activities that are often outside the scope of other employment and income 
+
+surveys.14   
+
+ Each recent edition of the semiannual Monetary Policy Report (MPR) has focused on 
+
+some aspect of the comparative economic experience of different racial and ethnic groups. In 
+
+addition, as indicated in the minutes published after each meeting of the Federal Open 
+
+Market Committee (FOMC), Federal Reserve staff regularly report on the differential 
+
+labor experiences of different racial and ethnic groups as background for the FOMC’s 
+
+deliberations on monetary policy.   
+
+ Across the Federal Reserve System, a variety of initiatives are aimed at 
+
+understanding economic disparities and how to foster more-inclusive growth.  The 
+
+Opportunity and Inclusive Growth Institute at the Federal Reserve Bank of Minneapolis 
+
+brings together researchers from a variety of fields to analyze barriers to economic 
+
+opportunity and advancement.  The Economic Growth and Mobility Project at the 
+
+Federal Reserve Bank of Philadelphia aims to bring together researchers with community 
+
+stakeholders to focus on differences in poverty and economic mobility across 
+
+demographic characteristics.  The Investing in America’s Workforce Initiative is a 
+
+collaboration between the Federal Reserve System and academic research institutions to 
+
+promote investment in workforce skills that better align with employers’ needs.15 
+
+                                                 
+14 Further information on these surveys are found on the Board’s website; see the Surveys of Consumer 
+Finances, https://www.federalreserve.gov/econres/scfindex.htm; the Survey of Household Economics and 
+Decisionmaking, https://www.federalreserve.gov/consumerscommunities/shed.htm; the Survey of Young 
+Workers, https://www.federalreserve.gov/econresdata/2016-survey-young-workers-executive-
+summary.htm; and the Survey of Enterprising and Informal Work Activities, 
+https://www.federalreserve.gov/consumerscommunities/files/EIWA_Chartbook_2016.pdf.  
+15 For information about the Opportunity and Inclusive Growth Institute, see 
+https://www.minneapolisfed.org/institute, for information about the Economic Growth and Mobility 
+Project, see https://www.philadelphiafed.org/egmp, and for information about the America’s Workforce 
+Initiative, see https://www.investinwork.org. 
+
+
+ - 11 - 
+
+ In short, a deeper understanding of labor market disparities is central to the 
+
+mission of the Federal Reserve because it may help us better assess full employment, 
+
+where resources may be underutilized, and the likely evolution of the labor market and 
+
+overall economic activity.    Let me conclude by thanking you again for having me here 
+
+today and allowing me the opportunity to explore some of the factors that influence labor 
+
+market disparities. 
+
+
+
+
+ - 12 - 
+
+References 
+
+Alichi, Ali, Kory Kantenga, and Juan Solè (2016).  “Income Polarization in the United 
+States,” IMF Working Paper 16/121.  Washington:  International Monetary Fund. 
+https://www.imf.org/external/pubs/ft/wp/2016/wp16121.pdf. 
+
+Bayer, Amanda, and Cecelia Elena Rouse (2016).  “Diversity in the Economics 
+Profession:  A New Attack on an Old Problem,” Journal of Economic 
+Perspectives, vol. 30 (Fall), pp. 221-42. 
+
+Bernstein, Jared (2013).  “The Impact of Inequality on Growth.”  Washington:  Center for 
+American Progress. 
+
+Bricker, Jesse, Lisa J. Dettling, Alice Henriques, Joanne W. Hsu, Lindsay Jacobs, 
+Kevin B. Moore, Sarah Pack, John Sabelhaus, Jeffrey Thompson, and Richard A. 
+Windle (forthcoming).  “Changes in U.S. Family Finances from 2013 to 2016:  
+Evidence from the Survey of Consumer Finances,” Federal Reserve Bulletin.  
+
+Cajner, Tomaz, Tyler Radler, David Ratner, and Ivan Vidangos (2017).  “Racial Gaps in 
+Labor Market Outcomes in the Last Four Decades and over the Business Cycle,” 
+Finance and Economics Discussion Series 2017-071.  Washington:  Board of 
+Governors of the Federal Reserve System, 
+https://www.federalreserve.gov/econres/feds/files/2017071pap.pdf.  
+
+Carpenter, Seth, and William M. Rodgers (2004). “The Disparate Labor Market Impacts 
+of Monetary Policy,” Journal of Policy Analysis and Management, vol. 23 (Fall), 
+pp. 813-30. 
+
+Fryer, Jr., Roland G. (2011).  “Racial Inequality in the 21st Century:  The Declining 
+Significance of Discrimination,” in David Card and Orley Ashenfelter, eds., 
+Handbook of Labor Economics, vol. 4b.  Amsterdam:  North Holland, 
+pp. 855-971. 
+
+Marrero, Gustavo, and Juan Rodrìguez (2013).  “Inequality of Opportunity and Growth,” 
+Journal of Development Economics, vol. 104 (September), pp. 107-22. 
+
+Ritter, Joseph A., and Lowell J. Taylor (2011).  “Racial Disparity in Unemployment,” 
+Review of Economics and Statistics, vol. 93 (February), pp. 30-42. 
+
+Semega, Jessica L., Kayla R. Fontenot, and Melissa A. Kollar (2017).  “Income and 
+Poverty in the United States:  2016,” Current Population Reports, pp. 60-259.  
+Washington:  U.S. Census Bureau, September, 
+https://www.census.gov/content/dam/Census/library/publications/2017/demo/P60
+-259.pdf.   
+
+Yellen, Janet L. (2015).  “So We All Can Succeed: 125 Years of Women's Participation 
+in the Economy,” speech delivered at “125 Years of Women at Brown,” a 
+conference sponsored by Brown University, Providence, Rhode Island, May 5, 
+https://www.federalreserve.gov/newsevents/speech/yellen20170505a.htm. 
+ 
+
+
+Labor Market Disparities and 
+Economic Performance
+
+Lael Brainard
+Governor
+
+Board of Governors of the Federal Reserve System
+
+“Banking and the Economy: A Forum for Minority Bankers” 
+Conference hosted by the Federal Reserve Bank of Kansas City
+
+September 27, 2017
+
+
+Bord of Governors of the Federal Reserve System 
+
+1
+
+September 27, 2017                                 Board of Governors of the Federal Reserve System                         1
+
+Unemployment rates by race and ethnicity
+Figure 1
+
+
+Bord of Governors of the Federal Reserve System 
+
+2
+
+September 27, 2017                                 Board of Governors of the Federal Reserve System                         2
+
+Labor force participation rates by race and ethnicity
+Figure 2
+
+
+Bord of Governors of the Federal Reserve System 
+
+3
+
+September 27, 2017                                 Board of Governors of the Federal Reserve System                         3
+
+Average family income by race and ethnicity
+Figure 3
+
+
+Bord of Governors of the Federal Reserve System 
+
+4
+
+September 27, 2017                                 Board of Governors of the Federal Reserve System                         4
+
+Average family wealth by race and ethnicity
+Figure 4
+

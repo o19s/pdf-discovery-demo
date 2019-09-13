@@ -36,14 +36,13 @@ sleep 5
 
 cd /code
 
-echo "Load sample brainard file"
-#./load_sample_files.sh ./sample_docs http://solr:8983/solr/documents/update
 echo "Load all the extracts"
 ./load_sample_files.sh ./sample_docs http://solr:8983/solr/documents/update
 echo "Done with setup"
 
 # https://github.com/http-party/http-server
-http-server ../files --cors --ssl --cert ./cert.pem --key ./key.pem -p 8443
+#http-server ../files --cors --ssl --cert ./cert.pem --key ./key.pem -p 8443
+http-server ../files --cors -p 8443
 
 #cd /files
 #python3 -m http.server 8080

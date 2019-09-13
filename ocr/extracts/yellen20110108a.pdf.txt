@@ -1,0 +1,1481 @@
+
+For release on delivery 
+4:30 p.m. EST (2:30 p.m. MST) 
+January 8, 2011 
+ 
+
+
+The Federal Reserve’s Asset Purchase Program 
+ 
+ 
+ 
+
+Remarks by 
+ 
+
+Janet L. Yellen 
+ 
+
+Vice Chair  
+ 
+
+Board of Governors of the Federal Reserve System 
+ 
+
+at 
+ 
+
+The Brimmer Policy Forum, Allied Social Science Associations Annual Meeting 
+ 
+
+Denver, Colorado 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+January 8, 2011 
+
+
+
+
+
+
+I am delighted to participate in this Brimmer Policy Forum, not least because this 
+
+year marks the 45th anniversary of Andrew’s appointment by President Johnson as a 
+
+Governor of the Federal Reserve Board.  Andrew’s ongoing work in organizing this 
+
+annual forum reflects his long-standing commitment to fostering economic analysis and 
+
+public discourse on key policy issues.   
+
+In my remarks today, I will discuss the rationale for the decision by the Federal 
+
+Open Market Committee (FOMC) in November to initiate a new program of asset 
+
+purchases, and I will address some frequently asked questions (FAQs) regarding the 
+
+program’s economic and financial effects both here and abroad.1  The purpose of the new 
+
+asset purchase program, like all of the monetary policy actions taken by the FOMC since 
+
+the onset of the global financial crisis, is to fulfill our congressionally mandated 
+
+objectives of promoting maximum employment and price stability.  In pursuit of these 
+
+goals, the FOMC brought the target federal funds rate down close to zero by late 2008; 
+
+conducted large-scale purchases of longer-term securities during 2009 and early 2010; 
+
+and, last summer, modified its reinvestment policy to keep the Federal Reserve’s balance 
+
+sheet from shrinking as mortgage-related securities matured or were redeemed.  In early 
+
+November, the Committee announced that it intends to purchase an additional 
+
+$600 billion in longer-term Treasury securities by the middle of this year. 
+
+
+                                                 
+1 These remarks solely reflect my own views and not necessarily those of any other member of the FOMC.  
+I appreciate assistance from members of the Board staff--David Bowman, James Clouse, William English, 
+Andrew Figura, Steven Kamin, Yuriy Kitsul, Andrew Levin, Fabio Natalucci, David Reifschneider, Clara 
+Vega, William Wascher, and David Wilcox--who contributed to the preparation of these remarks.   
+
+
+ - 2 -
+
+The Rationale for the Asset Purchase Program 
+
+Macroeconomic Conditions 
+
+To understand the rationale for our asset purchase program, it is helpful to review 
+
+the evolution of macroeconomic conditions over the past several years.  The National 
+
+Bureau of Economic Research has dated the recession as having begun in December 
+
+2007, but the pace of economic contraction accelerated in the wake of the Lehman 
+
+Brothers collapse in September 2008 and the ensuing disruption to global financial 
+
+markets.  As shown in figure 1, the unemployment rate rose from around 5 percent in the 
+
+spring of 2008 to about 10 percent by the autumn of 2009 and has stayed well above 
+
+9 percent since then.  Most observers, including myself, judge this level of 
+
+unemployment to be much higher than levels consistent with full employment and stable 
+
+inflation.  For example, in a recent Survey of Professional Forecasters conducted by the 
+
+Federal Reserve Bank of Philadelphia, the median estimate of the current level of 
+
+structural unemployment--often referred to as the non-accelerating inflation rate of 
+
+unemployment (NAIRU)--stood at about 5-3/4  percent, implying that the unemployment 
+
+gap is nearly 4 percentage points. 
+
+In addition, a historically large fraction of the unemployed have been out of a job 
+
+for a very long time.  For example, roughly 4 percentage points of today’s unemployment 
+
+rate reflects individuals who have been unemployed for half a year or more.  Those who 
+
+experience an extended period of unemployment face a risk of losing their ability to 
+
+participate successfully in the workforce, lending additional urgency to the task of 
+
+reviving the demand for labor. 
+
+
+ - 3 -
+
+Such low rates of resource utilization are typically accompanied by falling 
+
+inflation.  And, indeed, as shown in figure 2, measures of inflation for personal 
+
+consumption expenditures (PCE) have declined significantly since 2008.  For the total 
+
+PCE inflation rate, the underlying trend is obscured to some extent by large swings in 
+
+energy prices.  However, the downward trend is clearly evident from the evolution of 
+
+core PCE inflation, which excludes the volatile prices of food and energy.  The 12-month 
+
+change in core PCE prices dropped from about 2-1/2 percent in mid-2008 to around 
+
+1-1/2 percent in 2009 and declined further to less than 1 percent by late 2010.2   
+
+As inflation has trended downward, measures of underlying inflation have fallen 
+
+somewhat below the levels of about 2 percent or a bit less that most Committee 
+
+participants judge to be consistent, over the longer run, with the FOMC’s dual mandate.  
+
+In particular, a modest positive rate of inflation over time allows for a slightly higher 
+
+average level of nominal interest rates, thereby creating more scope for the FOMC to 
+
+respond to adverse shocks.  A modest positive inflation rate also reduces the risk that 
+
+such shocks could result in deflation, which can be associated with poor macroeconomic 
+
+performance.   
+
+Of course, if incoming information last autumn had been pointing to greater 
+
+momentum in the prospects for economic growth or to a rapid escalation in inflation, then 
+
+the case for further monetary policy easing might have seemed less pressing.  However, 
+
+such was not the case.  The Federal Reserve publishes a Summary of Economic 
+
+                                                 
+2 This downward trend in inflation has not been confined to any specific sectors of the economy, such as 
+housing.  For example, the Federal Reserve Bank of Dallas constructs a trimmed-mean rate of PCE 
+inflation by removing the tails of the distribution of monthly price changes for disaggregated spending 
+categories.  That measure of underlying inflation has also declined fairly steadily since mid-2008 and 
+dipped slightly below 1 percent last autumn.  Moreover, diffusion indexes of price changes--which subtract 
+the percentage of items in the consumption basket with price increases from the percentage of items with 
+price decreases--also fell noticeably over this period, providing further evidence that the decline in inflation 
+has been widespread across many categories of consumer spending.   
+
+
+ - 4 -
+
+Projections (SEP) four times a year in conjunction with the FOMC minutes.  As shown in 
+
+the November SEP, most Committee participants anticipated that the economy would 
+
+recover only gradually and projected that the unemployment rate would still be at around 
+
+8 percent at the end of 2012--an outlook that is shared by most outside forecasters.  
+
+Similarly, Committee participants generally expected inflation to rise very gradually 
+
+toward levels consistent with the Federal Reserve’s mandate.  Moreover, continuing 
+
+downside risks to the outlook for economic activity and inflation strengthened the case 
+
+for providing additional monetary policy accommodation, thereby reducing the risk of 
+
+another downturn in economic activity or a further decline in inflation.   
+
+The Design of the Asset Purchase Program  
+
+In weighing its policy options last autumn, the Committee gave careful 
+
+consideration to the question of whether further purchases of longer-term Treasury 
+
+securities were likely to be effective in fostering economic recovery and bringing 
+
+inflation back up to levels judged to be consistent with the dual mandate.3  In my 
+
+judgment, both theoretical analysis and empirical evidence suggested that such purchases 
+
+could provide effective stimulus by keeping longer-term interest rates lower than they 
+
+would otherwise be.  
+
+The underlying theory, in which asset prices are directly linked to the outstanding 
+
+quantity of assets, dates back to the early 1950s.4  For example, in preferred-habitat 
+
+models, short- and long-term assets are imperfect substitutes in investors’ portfolios, and 
+
+                                                 
+3 As indicated in the minutes of the November FOMC meeting, the Committee has also considered the 
+potential costs and benefits of setting a peg for a term interest rate.  While targeting the yield on a term 
+security could be an effective way to reduce longer-term interest rates, such an approach might require the 
+Federal Reserve to make an open-ended commitment to purchasing longer-term securities. 
+4 Examples include Culbertson (1957), Tobin (1958), and Modigliani and Sutch (1966); see also Vayanos 
+and Vila (2009). 
+
+
+ - 5 -
+
+the effect of arbitrageurs is limited by their risk aversion or by market frictions such as 
+
+capital constraints.  Consequently, the term structure of interest rates can be influenced 
+
+by exogenous shocks in supply and demand at specific maturities.  Purchases of longer-
+
+term securities by the central bank can be viewed as a shift in supply that tends to push up 
+
+the prices and drive down the yields on those securities. 
+
+In the context of such an analytical framework, the effect of an asset purchase 
+
+program also depends on investors’ perceptions of the future path of short-term interest 
+
+rates as well as their perceptions of the timing and pace of the central bank’s eventual 
+
+unwinding of its asset purchases.  Thus, central bank communication may play a key role 
+
+in influencing the financial market response to such a program. 
+
+Recent empirical work provides a rough gauge of the quantitative effects of 
+
+longer-term securities purchases.5  For example, event studies have investigated the 
+
+short-term response of asset prices to announcements by the Federal Reserve and the 
+
+Bank of England regarding their respective asset purchase programs.  And regression 
+
+analysis has been used to estimate statistical models that embed predictions from a 
+
+specific theoretical framework.  
+
+Table 1 summarizes the response of selected financial variables on four dates 
+
+associated with the Federal Reserve’s first round of asset purchases.  On November 25, 
+
+2008, the Federal Reserve announced that it would purchase up to $600 billion in agency 
+
+mortgage-backed securities (MBS) and agency debt.  On December 1, Chairman 
+
+                                                 
+5 A burgeoning literature focuses on the experience of asset purchase programs of the Federal Reserve and 
+other central banks; for example, see D’Amico and King (2010); Gagnon, Raskin, Remache, and Sack 
+(2010); Hamilton and Wu (2010); and Joyce, Lasaosa, Stevens, and Tong (2010). 
+
+
+ - 6 -
+
+Bernanke provided further details in a speech.6  On December 16, the program was 
+
+formally launched by the FOMC.7  On March 18, 2009, the FOMC announced that the 
+
+program would be expanded by an additional $850 billion in purchases of agency MBS 
+
+and agency debt and $300 billion in purchases of Treasury securities.  As is evident from 
+
+the table, these announcements were generally associated with a substantial decline in the 
+
+10-year Treasury yield and the yield on 10-year Treasury inflation-protected securities 
+
+(TIPS) as well as in rates on agency MBS and corporate debt.   
+
+Turning now to the macroeconomic effects of the Federal Reserve’s securities 
+
+purchases, there are several distinct channels through which these purchases tend to 
+
+influence aggregate demand, including a reduced cost of credit to consumers and 
+
+businesses, a rise in asset prices that boosts household wealth and spending, and a 
+
+moderate change in the foreign exchange value of the dollar that provides support to net 
+
+exports.  The quantitative magnitude of these effects can be gauged using a 
+
+macroeconometric model such as FRB/US--one of the models developed and maintained 
+
+by Board staff and used routinely in simulations of alternative economic scenarios.   
+
+Figure 3 depicts the results of such a simulation exercise, as reported in a recent 
+
+research paper by four Federal Reserve System economists.8  For illustrative purposes, 
+
+the simulation imposes the assumption that the purchases of $600 billion in longer-term 
+
+Treasury securities are completed within about a year, that the elevated level of securities 
+
+                                                 
+6 See Ben S. Bernanke (2008), “Monetary Policy and Asset Prices Revisited,” speech delivered at the 
+Greater Austin Chamber of Commerce, Austin, Tex., December 1, 
+www.federalreserve.gov/newsevents/speech/bernanke20081201a.htm. 
+7 The December 2008 FOMC announcement also reported the Committee’s decision to reduce the target for 
+the federal funds rate to a range of 0 to 1/4 percent.  
+8 See Chung and others (2011).   
+
+
+ - 7 -
+
+holdings is then maintained for about two years, and that the asset position is then 
+
+unwound linearly over the following five years.9  
+
+This trajectory of securities holdings causes the 10-year Treasury yield to decline 
+
+initially about 1/4 percentage point and then gradually return toward baseline over 
+
+subsequent years.  That path of longer-term Treasury yields leads to a significant pickup 
+
+in real gross domestic product (GDP) growth relative to baseline and generates an 
+
+increase in nonfarm payroll employment that amounts to roughly 700,000 jobs.10  It 
+
+should also be noted that this exercise is performed as a deterministic simulation and 
+
+hence does not capture the potential benefits of the asset purchase program in mitigating 
+
+downside risks to economic activity and inflation. 
+
+ I would also like to note that the same research paper analyzed the 
+
+macroeconomic effects of the FOMC’s full program of securities purchases, including the 
+
+first round of purchases that was initiated in late 2008 and early 2009, the modification of 
+
+the reinvestment policy that was announced last August, and the second round of 
+
+purchases that was initiated in November.  Those simulation results indicate that by 2012, 
+
+the full program of securities purchases will have raised private payroll employment by 
+
+about 3 million jobs.  Moreover, the simulations suggest that inflation is currently a 
+
+percentage point higher than would have been the case if the FOMC had never initiated 
+
+                                                 
+9 In addition, the federal funds rate is assumed to remain unchanged from baseline for several years and 
+then to follow the prescriptions of a simple estimated policy rule; for further details, see Chung and others 
+(2011). 
+10 The simulation results are reported as deviations from baseline and hence eventually return to zero.   
+In effect, under circumstances in which the baseline path involves a large and relatively persistent 
+unemployment gap, these results can be interpreted as gauging the extent to which the policy stimulus 
+accelerates the pace at which the economy returns to its balanced-growth path with maximum sustainable 
+employment and low, stable inflation.  
+
+
+ - 8 -
+
+any securities purchases, implying that, in the absence of such purchases, the economy 
+
+would now be close to deflation.11 
+
+Addressing Some FAQs about the Asset Purchase Program 
+
+Has the Program Been Effective in Promoting the Economic Recovery?  
+
+ Is the program actually proving effective?  My short answer is yes.  Table 2 
+
+depicts financial market responses during three key phases in the rollout of the program:  
+
+(1) August 10, 2010, when the FOMC announced that the Federal Reserve would begin 
+
+reinvesting principal payments on agency MBS and agency debt by purchasing Treasury 
+
+securities; (2) the period between August 11 and November 2; and (3) November 3, the 
+
+date on which the FOMC meeting statement announced the commencement of the 
+
+program.  
+
+ As shown in the table, the initiation of the securities purchase program at the 
+
+November FOMC meeting occasioned only minimal market response.  The reason is that 
+
+it was largely anticipated by investors, having been the subject of extensive public 
+
+discussions by Federal Reserve officials during late summer and early autumn.  
+
+Importantly, as expectations of the program gradually became embedded in asset prices 
+
+during late summer and early autumn, the 10-year TIPS yield dropped nearly 
+
+1/2 percentage point over the period between the August and November FOMC 
+
+meetings; moreover, equity prices rose and corporate bond spreads narrowed.  Over that 
+
+period, of course, asset prices were also responding to economic news and some 
+
+favorable corporate earnings reports, but the overall pattern of the financial market data 
+
+bolstered my confidence in the effectiveness of the Federal Reserve’s securities 
+
+purchases in providing additional monetary policy accommodation.  Indeed, market rates 
+                                                 
+11 See Chung and others (2011) for further details. 
+
+
+ - 9 -
+
+might well have backed up significantly following the November FOMC meeting if the 
+
+Committee had decided not to move ahead with the program.12 
+
+As shown in figure 4, longer-term Treasury yields have risen substantially over 
+
+the past couple of months since the FOMC initiated this round of asset purchases.  I 
+
+believe that this increase in Treasury yields likely reflects a number of significant factors, 
+
+including incoming information suggesting a somewhat stronger economic outlook and 
+
+the fiscal package that was announced by President Obama in early December and 
+
+approved by the Congress about two weeks later; that package will not only support 
+
+economic growth next year but will also increase the amount of federal debt issuance.  
+
+Also, investors appear to have scaled back their expectations about the extent to which 
+
+the FOMC will engage in further purchases beyond those already announced; however, 
+
+the effect of that reassessment on market rates tends to bolster the view that the Federal 
+
+Reserve’s securities purchases do indeed affect yields in the direction indicated by 
+
+analytical and empirical studies.13 
+
+Will the Asset Purchase Program Lead to Excessive Inflation? 
+
+A concern voiced by some observers is that the asset purchase program will lead 
+
+to excessive inflation.  One rationale for this view is that the economy is currently 
+
+operating with little slack--that is, an unemployment rate that is not far from the NAIRU.  
+
+A second rationale is that asset purchases have ballooned the Fed’s balance sheet and the 
+
+supply of bank reserves.  I will consider each argument in turn.   
+
+                                                 
+12 Consistent with the conjecture that bond yields are affected by expected purchase size, the 30-year 
+Treasury yield increased markedly in the days following the November FOMC meeting, as market 
+participants reportedly revised downward their expectations of the amount of purchases by the Federal 
+Reserve in this maturity sector. 
+13 The backup in rates may have been amplified by technical factors such as mortgage-related hedging 
+flows and year-end positioning by leveraged investors. 
+
+
+ - 10 -
+
+Extent of slack in the economy.  Some proponents of the view that the U.S. 
+
+economy is operating close to the NAIRU point to an apparent outward shift in the 
+
+Beveridge curve--the relationship between job vacancies and unemployment--as 
+
+indicating an increase in the structural level of unemployment.  In the simplest 
+
+framework, movements along a downward sloping Beveridge curve are typically 
+
+characterized as cyclical movements in labor market conditions, while persistent inward 
+
+and outward shifts in the curve are frequently attributed to structural forces. 
+
+As shown in figure 5, the Beveridge curve appears to have shifted out in recent 
+
+years.  However, the Beveridge curve can shift out for a variety of reasons, including 
+
+some that are essentially cyclical in nature, so it is important to understand the sources of 
+
+any shift to assess whether it represents persistent structural forces.  
+
+There is some evidence suggesting that structural factors account for a portion of 
+
+the Beveridge curve’s outward shift.  In particular, the shift may partly reflect a decline in 
+
+the efficiency with which unemployed workers are matched to vacant jobs.14  However, 
+
+given that the apparent decline in matching efficiency coincided with a large reduction in 
+
+job vacancies, the two developments may be related.  In particular, weak labor demand 
+
+may be causing the labor market to operate less efficiently than would typically be the 
+
+case, and matching efficiency may return to normal as demand for workers improves.  
+
+Indeed, historically, matching efficiency does appear to move back toward its long-run 
+
+average over time.15  That said, a persistently high level of long-term unemployment 
+
+                                                 
+14 On changes in matching efficiency, see Barnichon and Figura (2010) and Davis, Faberman, and 
+Haltiwanger (2010).  Possible reasons for a decline in matching efficiency include decreased mobility of 
+workers due to the drop in house prices and a mismatch between the skills demanded by businesses and the 
+skills offered by unemployed workers.  On the issue of migration rates and mobility, see Kaplan and 
+Schulhofer-Wohl (2010). 
+15 See Barnichon and Figura (2010). 
+
+
+ - 11 -
+
+could lead to a significant increase in structural unemployment over time as individuals 
+
+who are out of work for long periods face the erosion of their skills.  However, such 
+
+effects would take time to materialize and, in any event, would argue for aggressive 
+
+policies to reduce unemployment promptly. 
+
+Another portion of the recent outward shift in the Beveridge curve is likely due to 
+
+increases in the maximum duration of unemployment benefits, which may have induced 
+
+some unemployed workers to be more selective in the job offers they accept.  However, 
+
+recent research suggests that the increase in unemployment due to extended benefits is 
+
+probably small relative to the overall increase in unemployment, and, regardless of its 
+
+magnitude, the influence of extended unemployment benefits will disappear as the 
+
+economy improves and extended benefits expire.16   
+
+Moreover, at least some of the recent outward shift in the Beveridge curve 
+
+appears to reflect cyclical rather than structural influences.  For example, vacancies 
+
+typically adjust more quickly than unemployment to changes in labor demand, causing 
+
+counterclockwise movements in vacancy-unemployment space that can look like shifts in 
+
+the Beveridge curve.  Indeed, as is evident from the figure, such counterclockwise 
+
+movements have occurred in most previous recessions.   
+
+Finally, it is worth emphasizing that most of the co-movement between 
+
+unemployment and vacancies in recent years does not appear especially unusual.  In 
+
+particular, low vacancies and elevated layoffs--likely driven by weak labor demand--can 
+
+account for much of the increase in unemployment that has occurred since mid-2008.17  
+
+                                                 
+16 On the effect of extended unemployment benefits on the unemployment rate, see Kuang and Valleta 
+(2010). 
+17 Declining demand leads businesses with positive trend growth in employment to reduce vacancies--a 
+movement down the Beveridge curve--and businesses with flat or downwardly trending employment to 
+
+
+ - 12 -
+
+This observation is in accord with the recent behavior of inflation, which, as noted above, 
+
+has trended down over the past three years, consistent with a decline in rates of resource 
+
+utilization.  Likewise, nominal wage growth has fallen noticeably over the past several 
+
+years and remains quite low. 
+
+  In sum, while deficient labor demand may not be the only factor boosting 
+
+unemployment currently, and while disentangling the various influences on 
+
+unemployment is not straightforward, weak labor demand appears to be the predominant 
+
+factor keeping the unemployment rate elevated.  This weakness, in turn, implies that 
+
+current resource utilization is likely well below normal levels, mitigating the risk that the 
+
+policy stimulus from our asset purchase program will lead to excessive inflation. 
+
+Inflation and bank reserves.  A second reason that some observers worry that the 
+
+Fed’s asset purchase programs could raise inflation is that these programs have increased 
+
+the quantity of bank reserves far above pre-crisis levels.  I strongly agree with one aspect 
+
+of this argument--the notion that an accommodative monetary policy left in place too 
+
+long can cause inflation to rise to undesirable levels.  This notion would be true 
+
+regardless of the level of bank reserves and pertains as well in situations in which 
+
+monetary policy is unconstrained by the zero bound on interest rates.  Indeed, it is one 
+
+reason why the Committee stated that it will review its asset purchase program regularly 
+
+in light of incoming information and adjust the program as needed to meet its objectives. 
+
+We recognize that the FOMC must withdraw monetary stimulus once the recovery has 
+
+taken hold and the economy is improving at a healthy pace.  Importantly, the Committee 
+
+remains unwaveringly committed to price stability and does not seek inflation above the 
+
+                                                                                                                                                 
+increase layoffs--an outward shift in the Beveridge curve.  For the response of vacancies and layoffs to 
+changes in firm-level employment, see Davis, Faberman, and Haltiwanger (2010). 
+
+
+ - 13 -
+
+level of 2 percent or a bit less than that, which most FOMC participants see as consistent 
+
+with the Federal Reserve’s mandate.   
+
+In contrast, I disagree with the notion that the large quantity of reserves resulting 
+
+from our asset purchases poses some special barrier to removing policy stimulus when 
+
+the right time comes.  The FOMC will be able to increase short-term rates by raising the 
+
+interest rate that we pay on excess reserves--currently 1/4 percent.  That ability will allow 
+
+us to manage short-term interest rates effectively and thus to tighten policy when needed, 
+
+even if bank reserves remain high. 
+
+Given the very high level of reserve balances, changes in the interest rate on 
+
+reserves might not be fully reflected in the federal funds rate and other short-term market 
+
+rates.  In that event, the Federal Reserve can use tools it has developed and tested to drain 
+
+or immobilize bank reserves, thereby enhancing our control over the federal funds rate.  
+
+To build the capability to drain large quantities of reserves, the Federal Reserve has 
+
+expanded the range of its counterparties for reverse repurchase operations beyond the 
+
+primary dealers and has developed the infrastructure necessary to use agency MBS as 
+
+collateral in such transactions.  The Federal Reserve has also put in place a Term Deposit 
+
+Facility through which it can offer deposits to member institutions that are roughly 
+
+analogous to the certificates of deposit that these institutions offer to their customers.  We 
+
+have tested both of these tools by conducting several small-scale operations and have the 
+
+ability to initiate them quickly if needed.  The use of reverse repurchase operations and 
+
+the Term Deposit Facility would allow the Federal Reserve to drain hundreds of billions 
+
+of dollars of reserves from the banking system should conditions necessitate.  We don’t 
+
+think that draining such large amounts of reserves will be necessary for a smooth exit, but 
+
+
+ - 14 -
+
+it makes sense to be prepared, and hence we have followed this “belt and suspenders” 
+
+approach. 
+
+Finally, we can sell portions of our holdings of MBS, agency debt, and Treasury 
+
+securities if we determine that doing so is an appropriate way of tightening financial 
+
+conditions when the time comes.  The redemption or sale of securities would have the 
+
+effect of reducing the size of the Federal Reserve’s balance sheet as well as further 
+
+reducing the quantity of reserves in the banking system.  Restoring the size and 
+
+composition of the balance sheet to a more normal configuration is a longer-term 
+
+objective of our policies. Any such sales would be at a gradual pace, would be clearly 
+
+communicated to market participants, and would entail appropriate consideration of 
+
+economic conditions. 
+
+In short, the range of tools we have developed will permit us to raise short-term 
+
+interest rates and drain large volumes of reserves when it becomes necessary to achieve 
+
+the policy stance that fosters our macroeconomic objectives--including the objective of 
+
+maintaining price stability.   
+
+Will the Asset Purchase Program Result in Adverse Financial Imbalances? 
+
+The Committee’s intention in implementing asset purchases is to hold down the 
+
+level of longer-term interest rates to make credit more affordable for businesses and 
+
+households.  A reasonable fear is that this process could go too far, encouraging potential 
+
+borrowers to employ excessive leverage to take advantage of low financing costs and 
+
+leading investors to accept less compensation for bearing risks as they seek to enhance 
+
+their rates of return in an environment of very low yields.   
+
+
+ - 15 -
+
+This concern deserves to be taken seriously, and the Federal Reserve is carefully 
+
+monitoring financial indicators for signs of potential threats to financial stability.  While 
+
+there is no single metric we can use to assess these threats, standard financial market 
+
+indicators do not currently signal significant excesses or imbalances in the United States.  
+
+In the stock market, for example, price-to-earnings ratios, by some measures, remain 
+
+below their averages over the past several decades, and other valuation measures also 
+
+indicate that equity prices are not significantly out of alignment with past norms.  In the 
+
+real estate market, price-to-rent ratios for both residential and commercial real estate are 
+
+now within a reasonable range of their long-run averages, in contrast to the severe 
+
+misalignment that occurred prior to the crisis. Again, there is little sign here of 
+
+imbalances relative to fundamentals, at least if history is used as a guide.  In fixed-
+
+income markets, narrow risk spreads and risk premiums could be signs of excessive risk-
+
+taking by investors, and indeed spreads on corporate bonds have dropped dramatically 
+
+since the financial crisis, as the economic outlook has improved and investor sentiment 
+
+has picked up.  Risk premiums on nonfinancial corporate bonds, as measured by forward 
+
+spreads far in the future, are relatively low compared with historical norms, although 
+
+other indicators for this market do not point to overvaluation. 
+
+An alternative way to identify imbalances is to focus more directly on measuring 
+
+credit flows and exposures to credit risk.  Extraordinarily rapid credit growth may be a 
+
+sign that financial institutions are taking greater risks onto their balance sheets.  In recent 
+
+months, nonfinancial corporations have issued large amounts of bonds and syndicated 
+
+leveraged loans, and banks’ provision of consumer credit has shown some signs of 
+
+reviving.  Nonetheless, a portion of the recent corporate issuance has been used to 
+
+
+ - 16 -
+
+refinance existing debt, including leveraged loans; small business lending remains 
+
+especially weak; and commercial and residential mortgage originations continue to 
+
+shrink.  Thus, there is little evidence that financial institutions are significantly expanding 
+
+the level of credit and liquidity provided to households and businesses on net.  Indeed, 
+
+given the current very low level of interest rates and the continuation of the economic 
+
+recovery, credit flows remain stubbornly sluggish. 
+
+Of course, such aggregate measures provide only an imperfect picture of overall 
+
+credit conditions.  Another type of evidence comes from surveying market participants 
+
+about their practices.  For bank lending, we have the Federal Reserve’s Senior Loan 
+
+Officer Opinion Survey on Bank Lending Practices, which provides information about 
+
+changes in supply and demand for bank loans to businesses and households.  Recent 
+
+surveys have indicated that banks have only just begun to reverse the historically large 
+
+tightening in standards and terms that they implemented in the aftermath of the crisis.  In 
+
+fact, considerably more easing of terms and standards will probably be required before 
+
+lending conditions return to normal.  
+
+To monitor leverage provided by dealers to financial market participants, last June 
+
+the Federal Reserve launched the Senior Credit Officer Opinion Survey on Dealer 
+
+Financing Terms.  This survey provides information on credit terms and availability of 
+
+various forms of dealer-intermediated financing, including funding for securities 
+
+positions and over-the-counter derivatives.  The survey results suggest that over the past 
+
+several months there has been some easing of terms applicable to financing for a range of 
+
+counterparty types and many types of collateral, as well as an increase in demand from 
+
+clients to fund most types of securities.  These results indicate that the availability and 
+
+
+ - 17 -
+
+use of leverage by nonbank financial institutions increased somewhat last year.  Overall, 
+
+a variety of indicators suggest that leverage generally remains well below the levels 
+
+reached prior to the financial crisis, but these measures are worth watching closely, and 
+
+the new survey reflects our strong commitment to developing additional tools for this 
+
+purpose. 
+
+The Federal Reserve is closely monitoring many indicators of financial conditions 
+
+to better understand the implications of financial market developments for the economy 
+
+as well as risks to the financial system itself.  We are working with other regulators to 
+
+make the financial system more robust and are attentive in our supervision to 
+
+developments that may affect systemic risk.  If evidence of financial imbalances were to 
+
+develop, I believe that supervision and regulation should provide the first line of defense 
+
+so that monetary policy can concentrate on its longstanding goals of price stability and 
+
+maximum employment.  That said, we cannot categorically rule out using monetary 
+
+policy to address financial imbalances, given the damage that they can cause.   
+
+Will the Asset Purchase Program Have Adverse Effects on Foreign Economies? 
+
+ My final FAQ relates to the concerns that some observers have expressed over the 
+
+potential for the Federal Reserve’s asset purchase program to have adverse effects on 
+
+foreign economies.  One specific concern is that these securities purchases might drive 
+
+down the value of the U.S. dollar, thereby diverting demand from our trading partners.  
+
+Although purchases of longer-term securities are a less conventional means of conducting 
+
+monetary policy than the more familiar approach of managing short-term interest rates, 
+
+the goals and transmission mechanisms are actually very similar, and there is nothing 
+
+
+ - 18 -
+
+special about these asset purchases that would make them especially likely to weigh on 
+
+the dollar.  
+
+ In fact, the evidence available to date suggests that the asset purchases have had 
+
+only moderate effects on the foreign exchange value of the dollar.  This point is 
+
+illustrated in table 3, which reports the change in U.S. dollar exchange rates against four 
+
+other currencies (the Canadian dollar, pound sterling, euro, and yen) on each of the four 
+
+dates referred to in table 1.  These movements in exchange rates are not particularly large 
+
+when compared with the fluctuations that can occur in any given week or month.  Indeed, 
+
+as shown in figure 6, these exchange rate movements are very modest in the broader 
+
+context of developments over the past several years. 
+
+ A related concern raised by some observers is that the Federal Reserve’s asset 
+
+purchases may induce excessive capital inflows to emerging market economies (EMEs)--
+
+inflows that in turn could put unwelcome upward pressure on the currencies of those 
+
+EMEs and perhaps even contribute to asset price bubbles.  As shown in figure 7, net 
+
+private capital flows to Latin American and Asian EMEs (reported as a share of the 
+
+aggregate GDP of those EMEs) were substantial in the second half of 2009 and the first 
+
+half of 2010 but were not obviously outsized compared with levels prior to the crisis.18  A 
+
+similar pattern is evident in figure 8, which depicts the net inflows since 2007 into mutual 
+
+funds investing in EME bonds and equities.  In each case, the strong inflows over the past 
+
+year or so reflect a recovery in the wake of the large outflows that occurred during the 
+
+crisis.  In fact, the stock of claims on EMEs has only returned to its pre-crisis trend.  
+
+                                                 
+18 For the purposes of this discussion, the EMEs comprise Argentina, Brazil, Chile, China, Colombia, Hong 
+Kong, India, Indonesia, Malaysia, Mexico, the Philippines, Singapore, South Korea, Taiwan, Thailand, and 
+Venezuela. 
+
+
+ - 19 -
+
+ Accommodative monetary policies in the advanced economies, including the 
+
+Federal Reserve’s asset purchases, have likely played some role in widening interest rate 
+
+differentials and encouraging capital flows to EMEs.  But this role should not be 
+
+exaggerated.  Other factors--including a reversal of the capital outflows from EMEs 
+
+during the financial crisis and the EMEs’ longer-term favorable growth prospects--likely 
+
+have also been important.  Moreover, it would be a mistake to portray these capital flows 
+
+as an unmitigated negative for the EMEs.  A rebalanced global economy in which EMEs 
+
+depend more on domestic demand for their growth will likely involve ultimately stronger 
+
+and more sustained capital flows to these economies. 
+
+ Finally, I would like to comment on the critique that our asset purchase program 
+
+is meant to promote U.S. growth at the expense of other nations by depreciating the 
+
+dollar and enhancing U.S. competitiveness.  That argument ignores the fact that 
+
+stimulating growth in the United States is also likely to boost our demand for foreign 
+
+goods and promote growth abroad.  This effect will provide an important offset to the 
+
+other implication of U.S. monetary stimulus that I discussed earlier--that it may lead to 
+
+moderate movements in the foreign exchange value of the dollar that tend to lower U.S. 
+
+demand for foreign goods.  Whether foreign demand is ultimately boosted or diminished 
+
+by U.S. monetary policy depends on the relative sizes of these two effects and is 
+
+ultimately an empirical question.19  However, given the moderate exchange rate effects 
+
+that we believe the Federal Reserve’s asset purchases have had, it seems likely to me that, 
+
+as seems to be the case with conventional monetary easing achieved by lowering interest 
+
+rates, our decision to purchase assets will not hinder foreign growth.  In particular, given 
+
+                                                 
+19 Kim (2001), Canova (2005), and Uribe and Yue (2006), among others, find that U.S. monetary stimulus 
+affects aggregate output in emerging market and advanced foreign economies positively. 
+
+
+ - 20 -
+
+the importance of the United States in the global economy, it is hard to believe that any 
+
+foreign country would gain if our economy were to fall back into another recession.  Over 
+
+the longer term, the health and vitality of the global economy will depend importantly on 
+
+the sustained, vigorous recovery in the United States that our asset purchase program is 
+
+intended to support. 
+
+Conclusion 
+
+ In closing, let me reiterate that the program of asset purchases initiated by the 
+
+Federal Open Market Committee in November is intended to support economic recovery 
+
+from an exceptionally deep recession and to restore inflation to, but not above, levels that 
+
+FOMC participants consider consistent with price stability.  It will not be a panacea, but  
+
+I believe it will be effective in fostering maximum employment and price stability. 
+
+
+ - 21 -
+
+References 
+ 
+Barnichon, Regis, and Andrew Figura (2010).  “What Drives Movements  
+
+in the Unemployment Rate?  A Decomposition of the Beveridge Curve,” Finance  
+and Economics Discussion Series 2010-148.  Washington:  Board of Governors of 
+the Federal Reserve System, September, 
+www.federalreserve.gov/Pubs/feds/2010/201048/201048pap.pdf. 
+
+ 
+Canova, Fabio (2005).  “The Transmission of U.S. Shocks to Latin America,” Journal of 
+
+Applied Econometrics, vol. 20 (2), pp. 229-51. 
+
+Chung, Hess, Jean-Philippe Laforte, David Reifschneider, and John C. Williams (2011).  
+“Have We Underestimated the Probability of Hitting the Zero Lower Bound?”  
+Working Paper 2011-01.  San Francisco:  Federal Reserve Bank of San Francisco, 
+January. 
+
+Culbertson, John M. (1957).  “The Term Structure of Interest Rates,” Quarterly Journal 
+of Economics, vol. 71 (November), pp. 485-517. 
+
+D’Amico, Stefania, and Thomas B. King (2010).  “Flow and Stock Effects of Large-
+Scale Treasury Purchases,” Finance and Economics Discussion Series 2010-52, 
+Washington:  Board of Governors of the Federal Reserve System, September, 
+www.federalreserve.gov/pubs/feds/2010/201052/201052abs.html.  
+
+Davis, Steven J., R. Jason Faberman, and John C. Haltiwanger (2010).  “The 
+Establishment-Level Behavior of Vacancies and Hiring,” NBER Working Paper 
+Series 16265.  Cambridge, Mass.:  National Bureau of Economic Research, 
+August, available at www.nber.org/papers/w16265. 
+
+Gagnon, Joseph, Matthew Raskin, Julie Remache, and Brian Sack (2010).  “Large-Scale 
+Asset Purchases by the Federal Reserve:  Did They Work?”  Staff Report 
+No. 441.  New York:  Federal Reserve Bank of New York, March, available at 
+www.ny.frb.org/research/staff_reports/sr441.html. 
+
+ 
+Hamilton, James D., and Jing (Cynthia) Wu (2010).  “The Effectiveness of Alternative 
+
+Monetary Policy Tools in a Zero Lower Bound Environment,” working paper.  
+San Diego:  University of California, San Diego, August (revised October), 
+available at www.bos.frb.org/RevisitingMP/papers/Hamilton.pdf. 
+
+ 
+Joyce, Michael, Ana Lasaosa, Ibrahim Stevens, and Matthew Tong (2010).  “The 
+
+Financial Market Impact of Quantitative Easing,” Working Paper 393.  London:  
+Bank of England, July (revised August), available at 
+www.bankofengland.co.uk/publications/workingpapers/wp393.pdf. 
+
+
+
+
+ - 22 -
+
+Kaplan, Greg, and Sam Schulhofer-Wohl (2010).  “Interstate Migration Has Fallen Less 
+than You Think:  Consequences of Hot Deck Imputation in the Current 
+Population Survey,” NBER Working Paper Series 16536.  Cambridge, Mass.:  
+National Bureau of Economic Research, November, available at 
+www.nber.org/papers/w16536. 
+
+ 
+Kim, Soyoung (2001).  “International Transmission of U.S. Monetary Policy Shocks: 
+
+Evidence from VAR’s,” Journal of Monetary Economics, vol. 48 (October), pp. 
+339-72. 
+
+ 
+Kuang, Katherine, and Rob Valleta (2010).  “Extended Unemployment and UI Benefits,” 
+
+Federal Reserve Bank of San Francisco, FRBSF Economic Letter, 2010-10, April 
+19, available at www.frbsf.org/publications/economics/letter/2010/el2010-
+12.html. 
+
+ 
+Modigliani, Franco, and Richard Sutch (1966).  “Innovations in Interest Rate Policy,” 
+
+American Economic Review, vol. 56 (March), pp. 178-97. 
+ 
+Tobin, James (1958).  “Liquidity Preference as Behavior towards Risk,” Review of 
+
+Economic Studies, vol. 25 (February), pp. 65-86. 
+ 
+Uribe, Martin, and Vivian Z. Yue (2006).  “Country Spreads and Emerging Countries: 
+
+Who Drives Whom?”  Journal of International Economics, vol. 69 (June), 
+pp. 6-36. 
+
+ 
+Vayanos, Dimitri, and Jean-Luc Vila (2009).  “A Preferred-Habitat Model of the Term 
+
+Structure of Interest Rates,” NBER Working Paper Series 15487.  Cambridge, 
+Mass.:  National Bureau of Economic Research, November, available at 
+www.nber.org/papers/w15487. 
+
+
+
+
+Figure 1: The Unemployment Rate
+
+2006 2007 2008 2009 2010
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+Percent
+
+Unemployment rate
+NAIRU from SPF
+
+     Note: In this figure, the solid line represents the quarterly average of the unemployment rate from 2006 through 2010, and the dashed line denotes the median estimate
+of the non-accelerating inflation rate of unemployment (NAIRU) from the Federal Reserve Bank of Philadelphia’s Survey of Professional Forecasters (SPF). 
+     Source: For the unemployment rate, U.S. Dept. of Labor, Bureau of Labor Statistics; for NAIRU, Federal Reserve Bank of Philadelphia.
+
+
+Figure 2: Measures of Consumer Inflation
+
+2005 2006 2007 2008 2009 2010
+-2
+
+-1
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+-2
+
+-1
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+Percent
+
+Nov.
+
+PCE ex. Food and Energy
+PCE
+
+Trimmed-Mean PCE
+
+     Note: This figure displays 12-month percent changes from 2006 to 2010 for the following three price indexes: the price index for personal consumption expenditures
+(PCE) (the thick solid line), the price index for PCE excluding food and energy (the thin solid line), and the trimmed-mean PCE price index (the dashed line). 
+     Source: For trimmed-mean, Federal Reserve Bank of Dallas; for all else, U.S. Dept. of Commerce, Bureau of Economic Analysis.
+
+
+ 
+
+ 
+
+Table 1: Responses of U.S. Interest Rates  
+to News about the First Round of Asset Purchases  
+
+
+Date 
+
+10-Year  
+Treasury 
+
+Yield 
+
+10-Year 
+TIPS 
+Yield 
+
+30-Year 
+MBS 
+Yield 
+
+10-Year BBB 
+Corporate 
+Bond Yield 
+
+Nov. 25, 2008 -21 -24 -44 -16 
+
+Dec. 1, 2008 -20 -22 -12 -25 
+
+Dec. 16, 2008 -16 -21 -29  -8 
+
+March 18, 2009 -50 -49 -15 -47 
+ 
+
+     Note: The table displays basis point changes from close of business on the day before the announcement to close of business on  
+the day of the announcement.  Changes in the 10-year nominal Treasury yield are computed using a smoothed yield curve estimated by 
+staff from off-the-run Treasury coupon securities.  Changes in the yield on 10-year Treasury inflation-protected securities (TIPS) are 
+computed by staff using a smoothed inflation-indexed yield curve.  Changes in the yield on 30-year mortgage-backed securities (MBS) 
+are computed using Bloomberg data on securities issued by Fannie Mae.  Changes in the yield on 10-year BBB corporate bonds are 
+computed using a smoothed yield curve estimated by staff using Merrill Lynch data.  
+
+
+
+
+Figure 3: Illustrative Simulation of the FRB/US Model  
+(deviations from baseline) 
+
+Securities Holdings                   Private Payroll Employment 
+                                                   $ Billions                                                       Thousands 
+
+   
+              0        1         2         3       4                            0         1        2         3        4 
+                            Year                                                                Year 
+     Note:  This figure depicts an illustrative simulation of the Federal Reserve Board staff’s FRB/US model of the U.S. economy,  
+with results expressed as deviations from baseline.  The left panel shows the implied trajectory of the Federal Reserve’s securities 
+holdings (in $ billions), and the right panel shows the level of private payroll employment (in thousands) . 
+
+0
+
+100
+
+200
+
+300
+
+400
+
+500
+
+600
+
+700
+
+0
+
+100
+
+200
+
+300
+
+400
+
+500
+
+600
+
+700
+
+
+ 
+
+ 
+
+Table 2: Responses of U.S. Interest Rates  
+to News about the Second Round of Asset Purchases  
+
+
+Date 
+
+10-Year  
+Treasury 
+
+Yield 
+
+10-Year 
+TIPS 
+Yield 
+
+30-Year 
+MBS 
+Yield 
+
+10-Year BBB 
+Corporate 
+Bond Yield 
+
+Aug. 10, 2010  -7   -9 -2  -1 
+
+Aug. 11 to  
+Nov. 2, 2010 -11 -47 -9 -23 
+
+Nov. 3, 2010   3    2 -2    2 
+ 
+
+     Note: The table displays basis point changes from close of business on the day before the announcement to close of business on the day of  
+the announcement, with the exception of Aug.11 to Nov. 2, 2010, which shows the interperiod change.  Changes in the 10-year nominal Treasury 
+yield are computed using a smoothed yield curve estimated by staff from off-the-run Treasury coupon securities.  Changes in the yield on 10-year 
+Treasury inflation-protected securities (TIPS) are computed by staff using a smoothed inflation-indexed yield curve.  Changes in the yield on  
+30-year mortgage-backed securities (MBS) are computed using Bloomberg data on securities issued by Fannie Mae.  Changes in the yield on  
+10-year BBB corporate bonds are computed using a smoothed yield curve estimated by staff using Merrill Lynch data.  
+
+   
+
+
+Figure 4: Recent Movements in U.S. Treasury Yields 
+
+
+     Note:  This figure depicts the evolution of yields on Treasury securities over the period from November 1 to December 31, 
+2010.  The solid line denotes the 10-year nominal Treasury yield, which is computed using a smoothed yield curve estimated by 
+staff from off-the-run Treasury coupon securities. The dashed line denotes the yield on 10-year Treasury inflation-protected 
+securities (TIPS), which is computed by staff using a smoothed inflation-indexed yield curve. The vertical lines mark the 
+following dates:  the Federal Open Market Committee meeting statements issued on November 3 and December 14;  the 
+employment reports published by the U.S. Bureau of Labor Statistics on November 5 and December 3; and the announcement  
+of a fiscal package on December 6.     
+
+
+     Note. The figure displays a scatter plot of quarterly average observations of the unemployment rate (indicated on the horizontal axis) and a measure of vacancies
+(indicated on the vertical axis) for the following periods: 1973:Q4 to 1976:Q2; 1979:Q2 to 1983:Q4; 1990:Q1 to 1993:Q3; and 2007:Q1 to 2010:Q4. The measure 
+of vacancies is given by an index of help-wanted advertisements divided by the labor force. The 2010:Q4 observation is the average of the October and November 
+readings.
+     Source: For unemployment rate, Dept. of Labor, Bureau of Labor Statistics; for help-wanted advertisements, the Conference Board and Barnichon (2010).
+
+Figure 5: The Evolution of the Beveridge Curve 
+
+Unemployment Rate 
+
+Vacancies 
+
+1973:Q4 to 1976: 2Q
+
+1979:Q2 to 1983:Q4
+1990:Q1 to 1993:Q3
+2007:Q1 to 2010:Q3
+2010:Q4
+
+1.4
+
+2.0
+
+2.6
+
+3.2
+
+3.8
+
+4.4
+
+5.0
+
+5.6
+
+4 5 6 7 8 9 10 11
+
+
+ 
+
+ 
+
+Table 3: Responses of U.S. Dollar Exchange Rates  
+to News about the First Round of Asset Purchases 
+
+
+Date 
+
+Canadian 
+Dollar 
+
+British  
+Pound Euro 
+
+Japanese  
+Yen 
+
+Nov. 25, 2008 -0.6 -2.0 -0.9 -2.2 
+
+Dec. 1, 2008   0.7   3.3  0.6 -2.5 
+
+Dec. 16, 2008 -2.6 -1.8 -2.3 -1.8 
+
+March 18, 2009 -1.9 -1.7 -3.5 -2.4 
+
+     Note:  The table displays the percent change in the value of the U.S. dollar against four other currencies (the Canadian dollar, the  
+British pound, the euro, and the Japanese yen) on selected dates associated with news about the first round of the Federal Reserve’s 
+asset purchases.  Each rate is expressed in units of foreign currency per U.S. dollar; thus, a negative number corresponds to a 
+depreciation in the value of the U.S. dollar against the specified foreign currency. The daily change is computed using Bloomberg  
+data for the close of business on the day of the announcement relative to the close of business the day before the announcement. 
+
+
+Figure 6: The Evolution of U.S. Exchange Rates Since 2007 
+
+     Index 
+
+ 
+     Note: This figure depicts the evolution of U.S. exchange rates over the period from January 2007 through December 2010.  
+The vertical lines mark four dates associated with the Federal Reserve’s first round of securities purchases (November 25, 2008; 
+December 1, 2008; December 16, 2008; and March 18, 2009) and the date on which the Federal Open Market Committee initiated  
+its second round of securities purchases (November 3, 2010).  Source: Federal Reserve Board. 
+
+80
+
+85
+
+90
+
+95
+
+100
+
+105
+
+110
+
+115
+
+120
+
+Jan-07 Jan-08 Jan-09 Jan-10
+
+Broad Currency Index
+
+Major Currency Index
+
+
+Figure 7: International Financial Flows 
+
+                                                                                                      Percent share of GDP 
+
+   
+     Note: The bars denote net private capital flows to emerging market economies (EMEs) in Asia and Latin America as a share  
+of the aggregate gross domestic production (GDP) of those economies, and the solid line denotes the cumulation of these capital  
+flows since 2000 divided by the share of aggregate GDP of those economies.  The 16 EMEs are Argentina, Brazil, Chile, China, 
+Colombia, Hong Kong, India, Indonesia, Malaysia, Mexico, the Philippines, Singapore, South Korea, Taiwan, Thailand, and 
+Venezuela.  Source: Country sources via Haver. 
+ 
+
+
+
+
+Figure 8: Recent Flows to Emerging Market Mutual Funds 
+                                                                                                            $U.S. Billions 
+
+
+     Note: The bars denote monthly net flows to Latin American and Asian emerging market mutual funds (in $U.S. billions).   
+     Source: EmergingPortfolio.com Fund Research. 
+ 
+

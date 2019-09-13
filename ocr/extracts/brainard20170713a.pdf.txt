@@ -1,0 +1,944 @@
+
+For release on delivery 
+1:00 p.m. EDT 
+July 13, 2017 
+ 
+
+
+Cross-Border Spillovers of Balance Sheet Normalization 
+ 
+ 
+ 
+
+Remarks by 
+ 
+
+Lael Brainard 
+ 
+
+Member 
+ 
+
+Board of Governors of the Federal Reserve System 
+ 
+
+at the 
+ 
+
+National Bureau of Economic Research’s Monetary Economics Summer Institute  
+ 
+
+Cambridge, Massachusetts 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+July 13, 2017 
+ 
+
+
+
+
+
+
+When the central banks in many advanced economies embarked on 
+
+unconventional monetary policy, it raised concerns that there might be differences in the 
+
+cross-border transmission of unconventional relative to conventional monetary policy.1  
+
+These concerns were sufficient to warrant a special Group of Seven (G-7) statement in 
+
+2013 establishing ground rules to address possible exchange rate effects of the changing 
+
+composition of monetary policy.2  
+
+Today the world confronts similar questions in reverse.  In the United States, in 
+
+my assessment, normalization of the federal funds rate is now well under way, and the 
+
+Federal Reserve is advancing plans to allow the balance sheet to run off at a gradual and 
+
+predictable pace.  And for the first time in many years, the global economy is 
+
+experiencing synchronous growth, and authorities in the euro area and the United 
+
+Kingdom are beginning to discuss the time when the need for monetary accommodation 
+
+will diminish.  
+
+Unlike in previous tightening cycles, many central banks currently have two tools 
+
+for removing accommodation.  They can therefore pursue alternative normalization 
+
+strategies--first seeking to guide policy rates higher before initiating balance sheet runoff, 
+
+as in the United States, or instead starting to shrink the balance sheet before initiating a 
+
+                                                 
+1 I am grateful to John Ammer, Bastian von Beschwitz, Christopher Erceg, Matteo Iacoviello, and John 
+Roberts for their assistance in preparing this text.   The remarks represent my own views, which do not 
+necessarily represent those of the Federal Reserve Board or the Federal Open Market Committee. 
+2 The new commitment stated: “We reaffirm that our fiscal and monetary policies have been and will 
+remain oriented towards meeting our respective domestic objectives using domestic instruments, and that 
+we will not target exchange rates.”  See Group of Seven (2013), “Statement by G7 Finance Ministers and 
+Central Bank Governors,” February 12, paragraph 1, www.g8.utoronto.ca/finance/fm130212.htm.  The 
+corresponding Group of Twenty statement included the new commitment:  “We will not target our 
+exchange rates for competitive purposes.”  See Group of Twenty (2013), “Communiqué of Meeting of G20 
+Finance Ministers and Central Bank Governors,” February 16, paragraph 5, 
+www.g20.utoronto.ca/2013/2013-0216-finance.html. 
+ 
+
+
+ - 2 - 
+
+tightening of short-term rates, or undertaking both in tandem.  Shrinking the balance 
+
+sheet and raising the policy rate can both contribute to achieving the domestic goals of 
+
+monetary policy, but it is an open question whether alternative normalization approaches 
+
+might have materially different implications for the composition of demand and for cross-
+
+border spillovers, including through exchange rates and other financial channels.   
+
+Before discussing the cross-border effects of normalization, it is worth noting that 
+
+the two tools for removing accommodation--raising policy rates and reducing central 
+
+bank balance sheets--appear to affect domestic output and inflation in a qualitatively 
+
+similar way.  This means that central banks can substitute between raising the policy rate 
+
+and shrinking the balance sheet to remove accommodation, just as both were used to 
+
+support the recovery following the Great Recession.   
+
+Insofar as a range of approaches is likely to be consistent with achieving a central 
+
+bank’s domestic objectives, the choice of normalization strategy may be influenced by 
+
+other considerations, including the ease of implementing and communicating policy 
+
+changes, or the desire to minimize possible credit market distortions associated with the 
+
+balance sheet.  In the case of the Federal Reserve, the Federal Open Market Committee 
+
+(FOMC) decided to delay balance sheet normalization until the federal funds rate had 
+
+reached a high enough level to enable it to be cut materially if economic conditions 
+
+deteriorate, thus guarding against the risk of returning to the effective lower bound (ELB) 
+
+in an environment with a historically low neutral interest rate.3  The greater familiarity 
+
+and past experience with the federal funds rate also weighed in favor of this instrument 
+
+                                                 
+3 See, for example, Board of Governors of the Federal Reserve System (2015), “Federal Reserve Issues 
+FOMC Statement,” press release, December 16, 
+https://www.federalreserve.gov/newsevents/pressreleases/monetary20151216a.htm; and Brainard (2015b).  
+
+
+ - 3 - 
+
+initially.  Separately, for those central banks that, unlike the Federal Reserve, moved to 
+
+negative interest rates, there may be special considerations associated with raising policy 
+
+rates back into positive territory.   
+
+One question that naturally arises is whether the major central banks’ 
+
+normalization plans may have material implications for cross-border spillovers--an 
+
+important issue that until very recently had received scant attention.  This question is a 
+
+natural extension of the literature examining the cross-border spillovers of the 
+
+unconventional policy actions taken by the major central banks to provide 
+
+accommodation.   
+
+Although this literature suggests there are good reasons to expect broadly similar 
+
+cross-border spillovers from tightening through policy rates as through balance sheet 
+
+runoff, the effects may not be exactly equivalent.  The balance sheet might affect certain 
+
+aspects of the economy and financial markets differently than the short-term rate due to 
+
+the fact that the balance sheet more directly affects term premiums on longer-term 
+
+securities, while the short-term rate more directly affects money market rates.  As a 
+
+result, similar to the domestic effects, while the international spillovers of conventional 
+
+and unconventional monetary policy may operate broadly similarly, the relative 
+
+magnitude of the different channels may be sufficiently different that, on net, the two 
+
+policy strategies have distinct effects.  For example, as will be discussed at greater length 
+
+shortly, the two strategies may have very different implications for the exchange rate.  
+
+Moreover, as was evident with the European Central Bank’s (ECB) asset purchases in 
+
+late 2014 and early 2015, and as we have seen again in reverse in recent weeks, in 
+
+addition to the standard demand and exchange rate channels, expected or actual asset 
+
+
+ - 4 - 
+
+purchases may have spillovers to foreign financial conditions--by lowering term 
+
+premiums and the associated longer-term foreign bond yields--that are greater than 
+
+conventional monetary policy.    
+
+To explore possible differences, it is useful to compare two different approaches 
+
+to policy normalization, each of which is designed to have identical effects on aggregate 
+
+domestic activity and thus, at least in the long run, on inflation.  At one extreme, a central 
+
+bank could opt to tighten primarily through conventional policy hikes, while maintaining 
+
+the balance sheet by reinvesting the proceeds of maturing assets.  At the other extreme, a 
+
+central bank could rely primarily on reducing the balance sheet, while keeping policy 
+
+rates unchanged in the near term. 
+
+The question is whether there are circumstances in which the choice of 
+
+normalization strategies, which are similarly effective in achieving domestic mandates, 
+
+might matter for the global economy.  Where the two approaches have entirely equivalent 
+
+effects, the central bank could freely substitute between them without changing the 
+
+composition of home demand, and net exports, the exchange rate, and foreign output 
+
+would also be unaffected.   
+
+Conversely, under different assumptions about the transmission channels of 
+
+monetary policy, alternative approaches to normalization can have quite different 
+
+implications for foreign economies.  Most prominently, the exchange rate may be more 
+
+sensitive to the path of short term rates than to balance sheet adjustments, as some 
+
+research suggests.4  Although several papers using an event study approach find on 
+
+balance little disparity in the exchange rate sensitivity to short-term compared to long-
+
+                                                 
+4 See, for instance, Stavrakeva and Tang (2016).  
+
+
+ - 5 - 
+
+term interest rates, this lack of empirical consensus may simply reflect the difficulty of 
+
+disentangling changes in short-term and longer-term interest rates, which are highly 
+
+correlated.5 
+
+Indeed, the greater sensitivity of exchange rates to expected short-term interest 
+
+rates than to term premiums was a key rationale behind the Operation Twist strategy in 
+
+the early 1960s.6  Under Operation Twist, the Federal Reserve and the Treasury made 
+
+large-scale purchases of longer-term Treasury securities to drive down yields and 
+
+stimulate the economy, which was suffering from an unemployment rate of nearly 7 
+
+percent.  This policy was combined with a modest increase in short-term interest rates 
+
+intended to alleviate the capital outflow pressures that threatened the sustainability of the 
+
+Bretton Woods global monetary system.  Ultimately, this policy mix did succeed in 
+
+reducing long-term interest rates, and also contributed to a reduction in private capital 
+
+outflows that relieved pressure on U.S. international reserves, at least for a time.   
+
+Let’s turn to a simulation of a highly stylized model to explore how a greater 
+
+sensitivity of the exchange rate to conventional policy relative to balance sheet actions 
+
+can make a difference in terms of cross-border transmission.  In particular, let’s assume a 
+
+100-basis-point rise in long-term yields coming from the conventional channel of higher 
+
+policy rates has double the effect on the exchange rate as a 100 basis point rise in yields 
+
+coming from higher term premiums.7  If a large country, which is already at potential, 
+
+experiences a favorable domestic demand shock, it would need to tighten monetary 
+
+                                                 
+5 See Glick and Leduc (2015), Ferrari, Kearns, and Schrimpf (2016), and Swanson (2017); Swanson 
+attempts to identify separately the effects of forward guidance and asset purchases.  
+6 See Ross (1966), Modigliani and Sutch (1966), Stein (1965), and Alon and Swanson (2011).   
+7 This simulation is shown in figure 1 in the appendix.  The stylized model is composed of two identical 
+countries that are linked through trade flows.  The model is calibrated so that either type of policy action 
+keeps the home country’s GDP at baseline.          
+
+
+ - 6 - 
+
+policy to return output to potential.  If the central bank chooses to use the short-term 
+
+interest rate as its active policy tool, and keeps its balance sheet on hold, the current and 
+
+expected path of short-term interest rates rises, putting upward pressure on long-term 
+
+bond yields and causing the real exchange rate to appreciate.  The stronger currency 
+
+coupled with some initial expansion of domestic demand in turn cause a deterioration in 
+
+real net exports.   
+
+Turning to the effects abroad, the decline in domestic real net exports corresponds 
+
+to an increase in foreign net exports, which will tend to boost foreign GDP, other things 
+
+being equal.  How this affects a particular foreign economy will depend on its 
+
+circumstances and the corresponding policy response of the foreign central bank.  In the 
+
+case where the foreign economy is pinned at the effective lower bound, the increase in 
+
+net exports will provide a welcome boost to aggregate demand.  By contrast, if foreign 
+
+output is already near potential, the foreign central bank will need to respond by 
+
+tightening policy in order to keep its economy in balance.   
+
+Now, let’s instead consider tightening through the balance sheet.  If the same 
+
+amount of policy tightening in the country experiencing a positive demand shock is 
+
+achieved exclusively through a reduction in the balance sheet, while keeping the policy 
+
+rate unchanged, the exchange rate would appreciate to a smaller degree, reflecting the 
+
+lower assumed sensitivity of the exchange rate to the term premium than to policy rates.  
+
+Net exports would decline by less--reflecting both the smaller exchange rate appreciation 
+
+and the smaller rise in domestic demand--and similarly this would result in smaller cross-
+
+border spillovers to foreign GDP.     
+
+
+ - 7 - 
+
+Thus, for a foreign economy that is at the effective lower bound, tightening in the 
+
+home country through balance-sheet policy will be less welcome than through short-term 
+
+rates.  The foreign economy will experience less exchange rate depreciation, and so less 
+
+of a boost to net exports.  In addition, the stimulus to the foreign economy could be 
+
+further diluted to the extent that the balance sheet policy boosted term premiums on its 
+
+long-term bonds and hence tightened financial conditions, although this effect has not 
+
+been built into the simulation model.  By contrast, for a foreign economy that is close to 
+
+potential, adjustment through the balance sheet in the home country will mean less of a 
+
+need for the foreign central bank to respond by tightening policy than under home 
+
+country adjustment through conventional policy. 
+
+So far, we have considered the case of central banks with freely floating exchange 
+
+rates and well-anchored inflation expectations.  What about central banks with managed 
+
+exchange rates or weakly anchored inflation expectations?  To keep the analysis simple, 
+
+let’s assume a foreign central bank aims to completely stabilize its exchange rate vis-à-
+
+vis a core country.  Let’s again consider circumstances in which the core country 
+
+experiences a positive demand shock that calls for policy tightening.  Although the 
+
+pegging economy is likely to experience spillovers under either approach to 
+
+normalization in the core country, the spillovers are likely to be greater when the core 
+
+country tightens through the policy rate.  The tightening in the core country will compel 
+
+the country that is fixing its exchange rate to tighten policy in sync and the core country’s 
+
+currency will rise more against its trading partners with conventional tightening, leading 
+
+to greater effective appreciation of the pegging country’s currency as well.  Although the 
+
+pegging economy will benefit somewhat from the stronger demand of the core country, 
+
+
+ - 8 - 
+
+that benefit is likely to be outweighed by the adverse effects of a tightening of domestic 
+
+monetary policy when domestic conditions would not otherwise call for it.  Such 
+
+considerations may have played a role in the market dynamics experienced by China as 
+
+discussions about initiating rate hikes progressed in the United States in the second half 
+
+of 2015 and early 2016.8     
+
+Next let’s explore alternative approaches to policy normalization by countries 
+
+facing a similar need to tighten.  This question is timely; with synchronous expansions 
+
+now underway, we may be approaching a turning point before too long.  In particular, 
+
+let’s consider the case when two large countries, which are assumed identical for the sake 
+
+of simplicity, experience the same positive shock to domestic demand.  Under these 
+
+assumptions, if both economies were to choose the same normalization strategy--putting 
+
+primary reliance on either the balance sheet or short-term interest rates--the implications 
+
+for the exchange rate and net exports are the same:  In both cases, the exchange rate 
+
+between the two countries does not change, and neither do net exports between the 
+
+countries.  Each central bank would adjust interest rates by the same amount--enough to 
+
+offset the stimulus from the demand shock--and with interest differentials unchanged, 
+
+there would be no pressure on the exchange rate between them to move.9  Of course, if 
+
+there are other economies in the rest of the world that do not experience the same shock, 
+
+the choice of normalization strategy does matter, similar to the analysis of spillovers from 
+
+                                                 
+8 See Brainard (2015a).  A number of recent studies have considered financial spillovers to EMEs, 
+including Rey (2014) and Bowman, Londono, and Sapriza (2015).  The analysis of Hofmann, Shim, and 
+Shin (2016) suggests that EMEs may be hurt more if their banks or nonfinancial corporations have 
+relatively large dollar liabilities, as the larger dollar appreciation associated with the policy rate tool would 
+precipitate greater EME balance sheet deterioration in this case. 
+9 In this simple example, in which the two countries are hit by identical shocks, the offset in spillovers 
+between the two economies will be complete.  If one country faces a larger aggregate demand shock than 
+the other, then the situation becomes more like the one-country case we examined before, the policy 
+adjustments lead to spillovers of different magnitudes, and the offset will be partial. 
+
+
+ - 9 - 
+
+the single core country, presumably magnified by the larger combined global weight of 
+
+the two economies. 
+
+Now let’s turn to the case in which the two central banks choose to rely on 
+
+different policy tools. 10  In this case, one country responds to the positive shock by 
+
+hiking its policy rate to reduce output to its initial level, while the second country 
+
+responds by shrinking its balance sheet.  The country that relies on the policy rate to 
+
+make the adjustment experiences an appreciation in the exchange rate, a deterioration in 
+
+net exports and some expansion of domestic demand, while the country that chooses to 
+
+rely solely on the balance sheet for tightening experiences a depreciation of its exchange 
+
+rate and an increase in net exports.  Thus, while both countries achieve their domestic 
+
+stabilization objectives, whether the requisite policy tightening occurs through increases 
+
+in policy rates or reductions in the balance sheet matters for the composition of demand, 
+
+the external balance, and the exchange rate.   
+
+  I highlighted at the outset the commitment adopted by many leading nations to 
+
+set monetary policy to achieve domestic objectives such that the exchange rate would not 
+
+be a primary consideration in the setting of monetary policy.  In the case that balance-
+
+sheet and conventional monetary policies have equivalent effects on both domestic 
+
+spending and the exchange rate, this common principle is straightforward.  But if the 
+
+cross-border spillovers of reductions in the balance sheet and increases in the policy rate 
+
+are not equivalent, the sequencing of policy rate and balance sheet normalization could 
+
+have important implications for the exchange rate and external balance.   
+
+                                                 
+10 This simulation is shown in figure 2 in the appendix. 
+
+
+ - 10 - 
+
+Finally, in circumstances where a major central bank is continuing to expand its 
+
+balance sheet or maintaining a large balance sheet over a sustained period, this policy 
+
+would likely exert downward pressure on term premiums around the globe, especially in 
+
+those foreign economies whose bonds were perceived as close substitutes.  Indeed, until 
+
+very recently, it had been notable how little long yields moved up in the United States 
+
+even as discussions of balance sheet normalization have moved to the forefront.  This 
+
+likely reflects at least in part the expectation that ongoing asset purchase programs in 
+
+other advanced economies would continue holding down long-term yields globally.  The 
+
+tide seems to have turned in recent weeks, as long yields in the U.S. have increased 
+
+notably on market perceptions that foreign officials are beginning to deliberate their own 
+
+normalization strategies.   
+
+I have used a simple stylized model to illustrate circumstances in which the 
+
+choice of normalization strategies adopted by major central banks can potentially be quite 
+
+consequential.  If anything, the analysis presented here serves to highlight the importance 
+
+of research assessing this question from both an empirical and theoretical perspective.      
+
+Let me conclude by returning to the policy choices facing central banks.  The 
+
+Federal Reserve chose to remove accommodation initially through increases in the 
+
+federal funds rate.  In light of recent policy moves, I consider normalization of the federal 
+
+funds rate to be well under way.  If the data continue to confirm a strong labor market 
+
+and firming economic activity, I believe it would be appropriate relatively soon to 
+
+commence the gradual and predictable process of allowing the balance sheet to run off.   
+
+Once that process begins, I will want to assess the inflation process closely before 
+
+making a determination on further adjustments to the federal funds rate in light of the 
+
+
+ - 11 - 
+
+recent softness in core PCE (personal consumption expenditures) inflation.  In my view, 
+
+the neutral level of the federal funds rate is likely to remain close to zero in real terms 
+
+over the medium term.  If that is the case, we would not have much more additional work 
+
+to do on moving to a neutral stance.  I will want to monitor inflation developments 
+
+carefully, and to move cautiously on further increases in the federal funds rate, so as to 
+
+help guide inflation back up around our symmetric target. 
+
+Meanwhile, in recent days, we have begun to hear acknowledgement from other 
+
+major central banks that they too are seeing conditions that suggest policy normalization 
+
+could be on the table before too long, against the backdrop of a brighter global outlook.  
+
+As I just discussed, the pace and timing of how central banks around the world proceed 
+
+with normalization, and the importance of balance sheet policy relative to changes in 
+
+short term rates in these normalization plans, could have important implications for 
+
+exchange rates and financial conditions globally.   
+
+
+
+
+ - 12 - 
+
+Appendix:  Description of Stylized Model and Simulation Results 
+ 
+ 
+
+A.  Model Description 
+
+The model is a stylized open economy model that includes two symmetric 
+
+countries linked through trade flows.  The model is specified in real terms under the 
+
+implicit assumption that inflation is constant (so that real and nominal variables move by 
+
+the same amount).  Moreover, the model abstracts from any financial linkages between 
+
+the two economies, including the possibility that monetary policy actions in one country 
+
+could directly affect yields in the other (e.g., through portfolio balance channels), though 
+
+such effects are clearly important empirically.    
+
+The two countries include a “Home” (H) county and a “Foreign” (F) country of 
+
+equal size.  Variables in the foreign country are denoted with an asterisk.  In each 
+
+country, the national accounting identity specifies that output, y, is equal to the sum of 
+
+absorption d and net exports nx, that is: 
+
+,
+,
+
+nxdy
+nxdy
+−=
+
++=
+∗∗
+
+
+where the second equation incorporates the global resource constraint that nx + nx* = 0.  
+
+Here output (y) and absorption (d) are expressed in percent deviation from their 
+
+respective steady states, while net exports are expressed as share of output, and are equal 
+
+to zero in the steady state (that is, prior to any shocks).  
+
+
+ - 13 - 
+
+Home and foreign absorption depend on long–term interest rates according to the 
+
+following expressions: 
+
+( )
+( ) ,
+
+,
+∗∗∗∗ ++−=
+
+++−=
+
+ururcd
+ururcd
+
+σ
+
+σ
+ 
+
+Here rc is the component of long–term interest rates that is driven by 
+
+conventional monetary policy, ru is the component of long–term interest rates that is 
+
+driven by unconventional monetary policy, and u is an exogenous aggregate demand 
+
+shock (with autocorrelation given by ρ).  These interest rate components are assumed to 
+
+have identical effects on aggregate demand, with the parameter σ determining the 
+
+sensitivity of aggregate demand to either component (n..b., interest rates are expressed in 
+
+percentage points deviation from the steady state). 
+
+Net exports are assumed to fall if the real exchange rate (e) rises/appreciates, and 
+
+also if domestic demand is higher relative to foreign demand (since this boost imports).  
+
+Thus: 
+
+( )∗−−−= ddenx αη  
+
+where η is the elasticity of net exports with respect to the exchange rate, and α is the 
+
+elasticity of net exports to the differential between home and foreign absorption.  The real 
+
+exchange rate is expressed in percent deviation from the steady state. 
+
+The exchange rate is determined according to an interest rate parity condition 
+
+which implies that the exchange rate appreciates when domestic interest rates are higher 
+
+
+ - 14 - 
+
+than foreign interest rates, with elasticities ( φc and φu ) that can differ depending on 
+
+whether interest rate movements are driven by conventional or unconventional policy: 
+
+( ) ( ).∗∗ −+−= rururcrce uc φφ  
+
+The model is closed by specifying the behavior of the monetary authority.  We 
+
+assume that the monetary authority can adjust either the interest rate associated with 
+
+conventional policy (rc), or the interest rate linked to balance sheet actions (ru), or both, 
+
+to affect output (its goal variable).  The conventional feedback rule is thus: 
+
+,
+,
+∗∗∗ =
+
+=
+
+yrc
+yrc
+
+c
+
+c
+
+γ
+
+γ
+ 
+
+whereas the unconventional feedback rule is: 
+
+.∗∗∗ =
+=
+
+yru
+yru
+
+u
+
+u
+
+γ
+
+γ
+ 
+
+The system above contains 10 equations in 10 endogenous variables (y, y*, d, d*, 
+
+nx, e, rc, rc*, ru, ru*), as well two shocks, u and u*, that can move GDP, its components, 
+
+exchange rates 
+
+B.  Simulation Results 
+
+Figures 1 and 2 show the results of simulating the model under alternative 
+
+assumptions about the shocks and monetary policy reaction.  In each case, the economy 
+
+starts in steady state with all variables at zero and experiences a demand shock in period 
+
+1 that dies out with an autocorrelation ρ of 0.95.  All parameter values are reported in 
+
+Table 1. 
+
+
+ - 15 - 
+
+Figure 1.  Home Demand Shock 
+Figure 1 illustrates the case of a favorable demand shock in the home country. 
+
+The solid lines illustrate the case when Home uses the short-term interest rate as its active 
+
+policy tool, and keeps its balance sheet on hold, consistent with a desire to delay balance 
+
+sheet normalization.   
+
+The policy reaction is calibrated to be sufficiently aggressive that home GDP 
+
+always remains at baseline (see column 2 of Table 1).  The higher policy rate path (that 
+
+is, higher rc) causes the long-term interest rate (panel A) to rise, which in turn induces the 
+
+real exchange rate to appreciate (panel B).  The stronger currency and an expansion in 
+
+domestic absorption (panel C) causes a deterioration in net exports (panel D).  At the end 
+
+of the period shown, domestic demand has nearly returned to baseline, while net exports 
+
+are just a bit below baseline--consistent with Home country’s GDP remaining at baseline 
+
+(panel E).  Because foreign monetary policy rates is assumed to remain on hold, foreign 
+
+GDP (panel F) rises by the improvement in its net exports (that is, by the mirror image of 
+
+panel D, given that foreign domestic absorption is unchanged).  
+
+The dashed lines illustrate the case of a favorable demand shock in the Home 
+
+country when the central bank opts to tighten exclusively through reducing its balance 
+
+sheet (again, by enough to keep output at potential--see column 3 of Table 1).  Long-term 
+
+interest rates (panel A) rise in response, but the exchange rate appreciates less in this case 
+
+(panel B), reflecting the lower assumed sensitivity of the exchange rate to unconventional 
+
+monetary policy actions (φu < φc ).  Net exports decline (panel D) by less--reflecting both 
+
+the smaller exchange rate appreciation and a smaller rise in absorption (panel C)--which 
+
+translates into less of a boost to foreign GDP (panel F) than when the home country 
+
+adjusts through conventional policy. 
+
+
+ - 16 - 
+
+Figure 2.  Common Demand Shock, Asymmetric Policy Tightening across Countries 
+
+Figure 2 shows a simulation in which the demand shock is assumed to be 
+
+common across countries ( u = u* ).  The home country is assumed to pursue a policy of 
+
+actively adjusting its policy rate, while the foreign Country is assumed to rely exclusively 
+
+on normalizing through the balance sheet.  In each case, the central banks of the two 
+
+countries tighten policy aggressively enough to keep output at potential (see the 
+
+parameter settings in column 4 of Table 1). 
+
+As policy rates rise in the home country (panel A) and the exchange rate is more 
+
+sensitive to policy rates than to the balance sheet, the home country's exchange rate 
+
+(panel B) appreciates, while its net exports (panel D) decline.  Although GDP remains at 
+
+baseline in each country (panels E and F) given our assumption that monetary policy 
+
+keeps output at potential (which is unchanged), the alternative policy normalization 
+
+choices clearly have important effects--even under a common shock--on both exchange 
+
+rates and the composition of demand in each country.  In particular, because exchange 
+
+rates in the foreign country are less sensitive to balance sheet than to interest rate policy, 
+
+the foreign central bank must enact a relatively larger interest rate tightening in order to 
+
+keep its GDP at potential. 
+
+
+
+
+ - 17 - 
+
+
+Table 1: Parameter Values 
+
+
+
+
+ - 18 - 
+
+
+
+
+
+ - 19 - 
+
+
+
+
+ - 20 - 
+
+References 
+
+Alon, Titan, and Eric Swanson (2011).  “Operation Twist and the Effect of Large-Scale 
+Asset Purchases,” FRBSF Economic Letter 2011-13.  San Francisco:  Federal 
+Reserve Bank of San Francisco, April 25, www.frbsf.org/economic-
+research/publications/economic-letter/2011/april/operation-twist-effect-large-
+scale-asset-purchases.   
+
+ 
+Bowman, David, Juan M. Londono, and Horacio Sapriza (2015), “U.S. Unconventional 
+
+Monetary Policy and Transmission to Emerging Market Economies," Journal of 
+International Money and Finance, vol.  55 (July), pp. 27-59.  
+
+ 
+Brainard, Lael (2015a). "Unconventional Monetary Policy and Cross-Border Spillovers," 
+
+speech delivered at "Unconventional Monetary and Exchange Rate Policies," the 
+16th International Monetary Fund Jacques Polak Research Conference, sponsored 
+by the International Monetary Fund, Washington, November 6, 
+https://www.federalreserve.gov/newsevents/speech/brainard20151106a.htm. 
+
+ 
+Brainard, Lael (2015b), “Normalizing Monetary Policy When the Neutral Interest Rate is 
+
+Low,” speech delivered at the Stanford Institute for Economic Policy Research, 
+Stanford, Calif., December 1, 
+https://www.federalreserve.gov/newsevents/speech/brainard20151201a.htm.   
+
+ 
+Ferrari, Massimo, Jonathan Kearns, and Andreas Schrimpf (2016).  “Monetary Shocks at 
+
+High-Frequency and Their Changing FX Transmission around the Globe,” 
+August. 
+
+ 
+Glick, Reuven, and Sylvain Leduc, (2015).  “Unconventional Monetary Policy and the 
+
+Dollar:  Conventional Signs, Unconventional Magnitudes,” Federal Reserve Bank 
+of San Francisco Working Paper Series 2015-18, November, 
+www.frbsf.org/economic-research/files/wp2015-18.pdf.   
+
+ 
+Hofmann, Boris, Ilhyock Shim, and Hyun Song Shin (2016).  “Risk-Taking Channel of 
+
+Currency Appreciation,” BIS Working Paper No. 538.  Basel, Switzerland:  Bank 
+for International Settlements, January (revised May 2017), 
+www.bis.org/publ/work538.pdf. 
+
+ 
+Modigliani, Franco, and Richard Sutch (1966).  “Innovations in Interest Rate Policy,” 
+
+American Economic Review, vol. 56 (March), pp. 178-97.   
+ 
+Rey, Hélène (2014).  International Channels of Transmission of Monetary Policy and the 
+
+Mundellian Trilemma,” paper presented at the 15th Jacques Polak Annual 
+Research Conference, sponsored by the International Monetary Fund, 
+Washington, November 13-14, 
+https://www.imf.org/external/np/res/seminars/2014/arc/pdf/Rey.pdf. 
+
+
+
+
+ - 21 - 
+
+Ross, Myron H. (1966), “ ‘Operation Twist’:  A Mistaken Policy?” Journal of Political 
+Economy, vol. 74 (April), pp. 195-99.   
+
+ 
+Stavrakeva, Vania, and Jenny Tang (2016).  “Exchange Rates and the Yield Curve,” 
+
+Research Department Working Papers 16-21.  Boston: Federal Reserve Bank of 
+Boston, April, https://www.bostonfed.org/publications/research-department-
+working-paper/2016/exchange-rates-and-the-yield-curve.aspx.   
+
+ 
+Stein, Jerome L. (1965).  “International Short-Term Capital Movements,” American 
+
+Economic Review, vol. 55 (March), pp. 40-66. 
+ 
+Swanson, Eric T. (2017).  “Measuring the Effects of Federal Reserve Forward Guidance 
+
+and Asset Purchases on Financial Markets,” NBER Working Paper 23311.  
+Washington:  National Bureau of Economic Research, April (revised June).   
+ 
+

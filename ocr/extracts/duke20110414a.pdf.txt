@@ -1,0 +1,853 @@
+
+For release on delivery 
+9:00 a.m. EDT 
+April 14, 2011 
+
+
+Small Business Credit Availability 
+ 
+
+
+Remarks by 
+ 
+
+Elizabeth A. Duke 
+ 
+
+Member 
+ 
+
+Board of Governors of the Federal Reserve System 
+ 
+
+to the 
+ 
+
+2011 Factoring Conference 
+ 
+
+Sponsored by the International Factoring Association 
+ 
+
+Washington, D.C. 
+ 
+
+
+
+
+
+
+April 14, 2011 
+
+
+
+
+ 
+
+ It’s a pleasure to be here this morning.  I appreciate the opportunity to take part in 
+
+this conference and to talk with you about credit conditions--especially conditions in the 
+
+small business lending market.  Credit availability is a necessary component of economic 
+
+recovery, and factoring represents an important source of credit for large and small 
+
+businesses.   
+
+Credit markets normally recover slowly following financial crises, and the most 
+
+recent episode was no exception.  However, after declining throughout 2009 and much of 
+
+2010, recent measures of aggregate credit outstanding have shown some signs of 
+
+improvement.  Nonrevolving consumer credit outstanding, which includes auto and 
+
+student lending, has increased for the past seven months.  Issuance of corporate bonds has 
+
+been robust for several quarters, and new issuance of commercial mortgage-backed 
+
+securities picked up in the first quarter of 2011, albeit from very low levels.  Commercial 
+
+and industrial (C&I) loans outstanding have resumed growing modestly on average.   
+
+While credit availability seemed to improve for large companies throughout the 
+
+past year, small businesses still complained of difficulty in gaining access to credit.  
+
+Recent anecdotes lead me to believe that conditions are improving for small businesses, 
+
+but data are scarce for this market.  Today I will pull together information from a variety 
+
+of sources, including surveys of small businesses and surveys of lenders, to paint a 
+
+picture of the credit conditions currently facing small businesses. 
+
+Sources of Financing for New and Existing Small Businesses 
+
+Small businesses are central to creating jobs and to restoring our economic 
+
+prosperity.  The economic importance of small businesses is due in part to the fact that 
+
+about one-half of all Americans are employed by firms with fewer than 500 employees.  
+
+
+- 2 - 
+ 
+
+ 
+ 
+
+In addition, business start-ups are a critical component of the experimentation process 
+
+that contributes to restructuring and growth in the United States on an ongoing basis.  
+
+Indeed, each wave of firm start-ups creates a substantial number of jobs.  Over the past 
+
+two decades, firms less than two years old accounted for about one-fourth of gross job 
+
+creation even though such enterprises employed less than 10 percent of the workforce.1  
+
+But, as a note of caution, these young firms also have high job destruction rates; within 
+
+five years of starting up, about 40 percent of the jobs initially created have been 
+
+eliminated by the firms’ exit from their market.  The “up or out” dynamics of start-ups 
+
+and young firms are consistent with the innovation, learning, and market selection that is 
+
+associated with entrepreneurship.   
+
+Given the key role that start-up and established small businesses play in job 
+
+creation, it is useful to consider how start-ups are typically funded and how the owners of 
+
+more-mature, but still small, businesses tend to support their ongoing operations.  To this 
+
+end, the Federal Reserve’s 2010 Survey of Consumer Finances (SCF) provides some new 
+
+and very preliminary data regarding the primary sources of money used to start, acquire, 
+
+or expand closely held businesses.2  The survey was conducted largely over the second 
+
+half of 2010. 
+
+In this discussion, I will focus on the responses by owners of businesses with 
+
+fewer than 500 employees that were in operation at the time of our survey.  For these 
+
+small and nascent businesses, more than 70 percent were initiated using personal savings 
+
+or assets, about 6 percent were initiated using a personal loan from a bank or savings 
+
+                                                            
+1 See John C. Haltiwanger, Ron S. Jarmin, and Javier Miranda (2010), “Who Creates Jobs?  Small vs. 
+Large vs. Young,” NBER Working Paper Series 16300 (Cambridge, Mass.:  National Bureau of Economic 
+Research, August). 
+2 The report with the results of the 2010 SCF is expected to be released in early 2012 after all data from the 
+survey have been assessed and analyzed.   
+
+
+- 3 - 
+ 
+
+ 
+ 
+
+institution, about 3 percent were initiated using a personal or business credit card, and 
+
+just 3 percent were initiated using a business loan from a bank or savings institution.  
+
+Even smaller percentages of start-up small businesses appear to have received funding 
+
+from credit unions, other institutions, or investors.  In short, our survey data suggest that 
+
+the personal resources of entrepreneurs are the most important funding source for small 
+
+business formation. 
+
+The importance of personal resources in financing small businesses is supported 
+
+by other recent survey evidence.  In our 2009 panel SCF, we found that families make 
+
+loan guarantees for their businesses using personal assets as collateral, and that loans 
+
+between business owners and their businesses are common in both directions.3  
+
+Moreover, according to the most recently available data from the U.S. Census Bureau’s 
+
+Survey of Business Owners, 6 in 10 small business owners use personal savings or assets 
+
+to finance or expand their businesses. 
+
+These responses highlight the role personal wealth plays in business formation.  
+
+Looking back at wealth outcomes in 2009, we found that 43 percent of families saw a 
+
+wealth decline equal to or greater than six months of their usual income, and almost one-
+
+third saw a loss greater than an entire year of the usual income.4  Such wealth declines 
+
+would, of course, reduce the likelihood that such households would start a small business.   
+
+                                                            
+3 Unlike the 2010 Survey of Consumer Finances, which is a point-in-time cross-sectional survey, the 2009 
+survey is based on follow-up interviews with participants in the 2007 SCF that update their information.  
+For a research paper that provides an overview of the 2009 data, see Jesse Bricker, Brian Bucks, Arthur 
+Kennickell, Traci Mach, and Kevin Moore (2011), “Surveying the Aftermath of the Storm:  Changes in 
+Family Finances for 2007 to 2009,” Finance and Economics Discussion Series 2011-17 (Washington:  
+Board of Governors of the Federal Reserve System, March). 
+4 See Elizabeth A. Duke (2011), “Changed Circumstances:  The Impact of the Financial Crisis on the 
+Economic Condition of Workers Near Retirement and of Business Owners,” speech delivered at the 
+Virginia Association of Economists Sandridge Lecture, Richmond, Va., March 24, 
+www.federalreserve.gov/newsevents/speech/duke20110324a.htm. 
+
+
+- 4 - 
+ 
+
+ 
+ 
+
+Over the same period, however, about one-fifth of families saw a gain in wealth 
+
+that was greater than six months of their usual income.  Moreover, a higher percentage of 
+
+business owners who participated in the survey saw larger wealth gains relative to their 
+
+incomes than was the case for the overall population.  These findings suggest that there 
+
+just might be a pool of potential entrepreneurs who have both the resources and relevant 
+
+experience to start successful businesses.   
+
+Turning to the funding needs of more-mature businesses, in the 2010 SCF, we 
+
+asked small business owners whether and to what extent external sources of money were 
+
+used to finance the ongoing operations of or improvements to their primary businesses in 
+
+the past year.  Focusing again on only businesses with fewer than 500 employees, the 
+
+preliminary survey data suggest that for such purposes, slightly less than one-half of these 
+
+businesses did not use any external funding.  Consistent with the funding information on 
+
+the start-up phase for small businesses, a significant proportion of small business owners-
+
+-about one-third--used their personal savings or assets to fund operations or make 
+
+improvements.  And only small percentages of small business owners obtained credit 
+
+from a bank or savings institution for such purposes:  Among these small business 
+
+owners, about 5 percent used personal or business credit cards, slightly less than 
+
+5 percent used business loans, and about 3 percent used personal loans. 
+
+Taken together, these survey data suggest that many small business owners do not 
+
+tap the credit markets, but instead use their own wherewithal to start and fund their 
+
+businesses.  Indeed, a bit less than 80 percent of small business owner survey respondents 
+
+with fewer than 500 employees indicated that they had not even applied for business 
+
+loans in the past five years.  This is not to say that loans are not important--far from it--
+
+
+- 5 - 
+ 
+
+ 
+ 
+
+but that for a broad range of businesses, personal finances may be the determining factor 
+
+in starting a business, and personal finances may also be most important in sustaining the 
+
+health of a business once started. 
+
+ So what happened to the small business owners who did apply for loans?  The 
+
+turndown rate was fairly modest--about 12 percent.  Moreover, for those small business 
+
+owners who received credit, more than 90 percent of those surveyed actually received as 
+
+much credit as they had requested.  These results are perhaps surprising given that two of 
+
+the past five years were ones with very tight credit conditions by historical standards, and 
+
+anecdotal evidence suggests that many lines of credit, for businesses and for households, 
+
+were cut during the recent financial crisis.  
+
+Furthermore, small business lending is an important part of overall bank lending, 
+
+especially at community banks.  According to regulatory data, small loans to businesses, 
+
+a proxy for loans to small businesses, constituted 23 percent of total business loans 
+
+outstanding at commercial banks at the end of 2010.5  Over the past several years, this 
+
+share has fluctuated between 22 and 27 percent of banks’ business lending.  In addition, 
+
+at community banks with less than $1 billion in assets, the share is higher--around 66 
+
+percent--whereas at larger banks with more than $10 billion in assets, the share is lower--
+
+16 percent. 
+
+Small Business Concerns 
+
+The foregoing survey data on turndown rates and credit constraints for small 
+
+business owners are consistent with other survey evidence collected by the National 
+
+Federation of Independent Business (NFIB).  In fact, over the past five years, small 
+
+                                                            
+5 The data are from the quarterly Call Reports, which ask banks to report their holdings of C&I loans made 
+in original amounts of less than $1 million. 
+
+
+- 6 - 
+ 
+
+ 
+ 
+
+business owners identified weak demand, taxes, and government regulations more 
+
+frequently than interest rates and credit conditions as their most important problem.  
+
+During that period, less than 5 percent of small business respondents typically identified 
+
+interest rates and credit conditions as their most important problem.  In contrast, 
+
+25 percent or more of small business owners considered weak demand the most 
+
+important concern during much of the past three-year period (figure 1).  In considering 
+
+responses to this question, however, it is important to remember that the survey allows 
+
+owners to identify only their most important problem, not a set of problems.  It is possible 
+
+that financing was the second-most-important problem, but we would not know it from 
+
+this set of data. 
+
+Even if tight credit is not the most important concern, perceptions of tight credit 
+
+still might significantly influence the decisions made by current and prospective small 
+
+business owners.  Among the small business borrowers surveyed by the NFIB, a fairly 
+
+high net percentage--about 8 percent in March--continues to report that credit is more 
+
+difficult to obtain than it was three months ago (figure 2).  This level of self-reported 
+
+perceptions of tighter credit for small businesses is about the same as was observed in 
+
+2007--a period prior to the recent business cycle peak.  It is also well below the 
+
+16 percent of small business respondents, on net, who perceived that credit had become 
+
+more difficult to obtain in 2009.  
+
+Looking back to 2009, a Ewing Marion Kauffman Foundation longitudinal study 
+
+of small businesses that were founded in 2004 and tracked since then found that 
+
+89 percent of the surviving firms that were denied loans in that year felt that banks’ 
+
+
+- 7 - 
+ 
+
+ 
+ 
+
+heightened requirements played a role in their denials.6  Among the small businesses that 
+
+were tracked, 21 percent had chosen not to apply for loans for fear of being denied credit, 
+
+and 5 percent also refrained from seeking external equity financing for fear of being 
+
+denied such financing.  So it seems that perceptions of credit tightness may lead some 
+
+small business owners to decide not even to try to obtain additional funding.  
+
+At this time, however, the net percentage of survey respondents telling the NFIB 
+
+that they expect credit conditions to become tighter over the next three months has come 
+
+down considerably from what small business owners reported during 2009.  This 
+
+decrease suggests that, compared with the previous few years, far fewer small business 
+
+owners are expecting that credit conditions will remain tight. 
+
+Overall, what seems to matter most with regard to funding, from the small 
+
+business owner’s viewpoint, is one’s personal savings or assets, the internally generated 
+
+funds derived from operating the business, expected sales, and the fact that credit 
+
+conditions seem to be less tight, so money is available, if and when it is needed. 
+
+Business Conditions for Small Businesses  
+
+ Currently, expectations about future sales seem to be more important than 
+
+expectations about the availability of credit in driving business spending decisions and 
+
+demand for business loans.  Recently, small business owners appear to have become 
+
+more optimistic about their outlook for sales.  For example, in recent NFIB surveys, the 
+
+net percentage of respondents who expected their sales to increase rose to levels not seen 
+
+since mid-2007 (figure 3).   
+
+                                                            
+6 See Alicia Robb and E.J. Reedy (2011), An Overview of the Kauffman Firm Survey:  Results from 2009 
+Business Activities (Kansas City, Mo.:  Ewing Marion Kauffman Foundation, March), 
+www.kauffman.org/newsroom/lost-sales-and-tighter-lending-restrictions-challenge-young-firms-in-post-
+recession-economy-according-to-kauffman-study.aspx. 
+
+
+- 8 - 
+ 
+
+ 
+ 
+
+More generally, small business owners surveyed by the NFIB indicate that they 
+
+currently expect business conditions to improve in the near future.  In fact, the net 
+
+percentage of small business respondents who expected business conditions to improve 
+
+six months from now climbed in February to its highest level in several years (figure 4).  
+
+Even with some backtracking in March, this barometer of business conditions remains at 
+
+a level not seen since mid-2007.   
+
+Other survey data collected by the NFIB are also consistent with more-favorable 
+
+conditions for small businesses.  The percentages of small business respondents who 
+
+believe it is a good time to expand, and who plan to make capital expenditures over the 
+
+next three to six months, have recently risen to levels not seen since mid-2007. 
+
+The Bankers’ Perspective on Lending to Small Businesses 
+
+Mirroring small business respondents views with respect to credit conditions are 
+
+bankers’ views on credit standards and their terms of credit.  To consider the bankers’ 
+
+perspective, I will draw on two other Federal Reserve surveys:  the Senior Loan Officer 
+
+Opinion Survey on Bank Lending Practices (SLOOS) and the Survey of Terms of 
+
+Business Lending (STBL).  With regard to credit standards, we found that about 
+
+5 percent of banks, on net, reported in January that they had eased their bank’s lending 
+
+standards on commercial and industrial loans to small firms in the fourth quarter of last 
+
+year (figure 5).7  A similar net fraction of banks reported having eased standards in the 
+
+previous survey.  This finding is consistent with small business owners’ perceptions that 
+
+credit conditions have eased somewhat. 
+
+                                                            
+7 In this and later figures, shaded bars indicate periods of business recession as defined by the National 
+Bureau of Economic Research. 
+
+
+- 9 - 
+ 
+
+ 
+ 
+
+For those small business owners whose loans or credit lines were approved, the 
+
+terms of credit--the interest rate spread over the bank’s cost of funds, the cost of a credit 
+
+line, the maturity, and the size of a loan--are practical measures that can be used to assess 
+
+credit availability.  The January SLOOS indicates that about one-third of banks, on net, 
+
+reported that they had trimmed the spreads of C&I loan rates over their costs of funds on 
+
+loans to small firms (figure 6).  Somewhat smaller net fractions of these loan officers 
+
+reported that they had lowered the costs of credit lines and lengthened the maximum 
+
+maturities of loans to small firms.  Despite the fact that such terms of credit were eased 
+
+for small firms, the banks reported that the maximum sizes of C&I loans, and limits on 
+
+credit lines and business credit card accounts, remained unchanged over the past two 
+
+surveys.  This result means that such lines were not being cut as they were during the first 
+
+half of 2010.  Easing of credit conditions usually does not occur until banks see 
+
+improvement in the credit metrics of existing portfolios.  In the January SLOOS, 77 
+
+percent of bankers reported having seen an improvement in the quality of existing loans 
+
+to small firms. 
+
+The SLOOS does not distinguish between commercial real estate loans to small 
+
+firms and such loans to others, but we know that real-estate-secured lending is an 
+
+important source of credit for small businesses.  The respondents to the January SLOOS 
+
+indicated that there was little movement, on net, in domestic banks’ lending standards for 
+
+commercial real estate loans over the past two surveys (figure 7).  Such standards remain 
+
+relatively tight even though more than one-half of banks expect an improvement in the 
+
+quality of commercial real estate loans.  And, importantly for small business owners, the 
+
+commercial bank Call Reports indicated that as of the end of last year, the loans secured 
+
+
+- 10 - 
+ 
+
+ 
+ 
+
+by owner-occupied property had continued to outperform other commercial real estate 
+
+loans. 
+
+ Information contained in the February STBL also indicated a recent easing of 
+
+terms on bank loans.  More specifically, recent loan rate spreads on C&I loans at 
+
+domestic banks were lower, on average, regardless of the bank’s size, and the average 
+
+number of days to maturity had lengthened.   
+
+The recent easing in banks’ lending policies and banks’ improved expectations 
+
+with respect to credit quality are indications that financing conditions for at least some 
+
+small businesses are likely improving. 
+
+By and large, small business owners’ perceptions about the tightness of credit 
+
+conditions seem to be aligned fairly well with bankers’ perceptions of late.  Such 
+
+perceptions are also consistent with recent turndown statistics.  According to the National 
+
+Small Business Association (NSBA), the percentage of small business owners reporting 
+
+an inability to obtain adequate financing declined to 36 percent at year-end from 41 
+
+percent in July 2010.8  These data, of course, apply to members of the NSBA, whereas 
+
+the SCF data I discussed earlier apply in principle to all small business owners, even 
+
+owners of quite small businesses who might be unlikely to join an association.  This may 
+
+explain the much higher credit use among NSBA members. 
+
+Lending to Small Businesses 
+
+So far, I have discussed measures of business credit.  But, as I noted earlier, small 
+
+businesses also rely on personal accounts and loans, household credit cards, trade credit 
+
+from other nonfinancial firms, and other sources, including factoring.  The effect of these 
+
+                                                            
+8 National Small Business Association (2011), 2010 Year-End Economic Report (Washington:  NSBA), 
+www.nsba.biz/docs/2010_ye_economic_report.pdf.  
+
+
+- 11 - 
+ 
+
+ 
+ 
+
+other sources of funding on businesses’ finances is even more difficult to determine from 
+
+available data.   
+
+Changes in personal wealth during the downturn were not uniform across 
+
+households, and there were some big winners and losers.  While the households that 
+
+disproportionately increased their wealth are more likely to start businesses, those that 
+
+disproportionately lost wealth are less likely to do so.  In particular, the recent housing 
+
+downturn has made it more difficult to use cash-out refinancing or home equity lending 
+
+as a funding vehicle for small business formation.  It has also made it more difficult for 
+
+some small business owners to fund the purchase of equipment or to cover business 
+
+operating expenses. 
+
+Even though our survey data suggest that only 3 to 5 percent of small business 
+
+owners tend to rely on personal or business credit cards, the decline in bank credit card 
+
+outstandings over most of the past two years indicates that this source of credit may still 
+
+be quite limited.   
+
+While balance sheet data for financial institutions are readily available, the 
+
+relative contributions to changes in outstanding balances of new lending, paydowns, and 
+
+write-downs and the levels of line usage are not available.  To focus on the link between 
+
+lending and new business activity, we need measures of loan originations.  Indeed, a loan 
+
+or lease origination is what typically generates an investment in equipment and signals 
+
+business growth.9   
+
+                                                            
+9 Thomson Reuters provides some statistical tests showing that changes in the prior month’s Small 
+Business Lending Index values can predict the current month’s change in the U.S. Leading Economic 
+Indicators Index.  See Andrew Clark and Thomas Ware (2010), “Looking into the Future with the Thomson 
+Reuters/PayNet Small Business Lending Index (SBLI),” white paper (Thomson Reuters, May).   
+
+
+- 12 - 
+ 
+
+ 
+ 
+
+To explore recent loan and lease originations to small businesses, we can look at 
+
+the PayNet/Thomson Reuters Small Business Lending Index (SBLI).  For inclusion in 
+
+this index, a loan or lease must be originated to a business borrower who has total loan 
+
+outstandings across all qualifying lenders of less than $1 million at both the start and the 
+
+end of the month in question.  While some such loans and leases may be to established 
+
+firms that employ more than 500 workers, small businesses are generally viewed as much 
+
+more likely to borrow in these relatively small loan denominations.  The lenders that 
+
+provide the data used to construct the index are banks and finance companies. 
+
+The year-over-year changes in the SBLI are consistent with a view that loan 
+
+originations are a pro-cyclical indicator (figure 8).  Strikingly, such year-over-year 
+
+changes were mainly positive, but smaller through time, until the recent business cycle 
+
+peak in December 2007.  During the recession, however, the year-over-year changes in 
+
+the SBLI were increasingly negative until the business cycle trough, which occurred in 
+
+June 2009.  Then, shortly after the recent business cycle trough, the year-over-year 
+
+negative changes in the index became smaller until they turned positive in early 2010.  In 
+
+February, the most recent month for which data are available, the SBLI measure of 
+
+business loan and lease originations rose 15 percent from a year earlier.  
+
+The seasonally adjusted index, which is normalized to 100 in January 2005, 
+
+provides a different take on small business originations (figure 9).  This measure of 
+
+lending, which allows comparisons across different months, has not yet rebounded to its 
+
+level in mid-2007 even though many of the measures of small business owners’ and 
+
+bankers’ perspectives have returned to their pre-recession levels.  Despite the magnitude 
+
+of the rebound, there has been an apparent turnaround in loan and lease originations using 
+
+
+- 13 - 
+ 
+
+ 
+ 
+
+the seasonally adjusted SBLI measure.  These data add to the evidence that credit 
+
+availability to small businesses is gradually improving.  
+
+While at first glance stronger demand for bank loans by large and medium-sized 
+
+firms may seem irrelevant for analyzing credit to small businesses, that perception would 
+
+ignore the fact that such demand may signal that larger firms are becoming more willing 
+
+to provide trade credit to smaller firms that are their suppliers or customers.  In the most 
+
+recent SLOOS, the net percentage of respondents reporting higher loan demand by large 
+
+and medium-sized firms rose above 20 percent for the first time since 2005 (figure 10).  
+
+That said, banks report that loan demand from smaller firms remains fairly weak.  Only a 
+
+small net percentage of banks reported stronger demand from such firms. 
+
+Conclusion 
+
+To sum up, the financial conditions that would be necessary for small businesses 
+
+to start up and thrive would include positive conditions for personal wealth building and a 
+
+full range of consumer and business credit availability.  In the wake of the financial 
+
+crisis, small business owners and potential small business owners likely experienced a 
+
+substantial reduction in the personal resources necessary to start or sustain a business.  At 
+
+the same time, small business loans became harder to get, and when they were available, 
+
+both price and nonprice credit terms were likely quite restrictive.  Many small business 
+
+owners were so convinced that their requests would be denied that they did not even 
+
+apply for credit.  Despite this restricted credit availability, small business owners, by a 
+
+large margin, still considered their most significant problem to be weak sales.  Although 
+
+no definitive data source exists, the combination of a variety of recent survey results 
+
+
+- 14 - 
+ 
+
+ 
+ 
+
+paints a picture of increasing optimism about future sales and business conditions and a 
+
+corresponding easing of credit availability for small businesses. 
+
+
+Small Business Credit Availability
+
+Elizabeth Duke
+Member
+
+Board of Governors of the Federal Reserve System
+
+Factoring Conference
+Washington, DC
+April 14, 2011
+
+
+Figure 1.  NFIB survey results on most important problem 
+for small businesses (selected categories) 
+
+(Monthly data, 1986-2011)
+
+Board of Governors of the 
+Federal Reserve SystemElizabeth Duke 2
+
+
+Figure 2.  Credit more difficult to obtain 
+than 3 months ago (net)* 
+
+(Monthly data, 1990-2011)
+
+Board of Governors of the 
+Federal Reserve SystemElizabeth Duke 3
+
+
+Figure 3.  Sales expected to increase 
+over next 3 months (net)* 
+
+(Monthly data, 1990-2011)
+
+Board of Governors of the 
+Federal Reserve SystemElizabeth Duke 4
+
+
+Figure 4.  Outlook for general business conditions 
+6 months from now (net)* 
+
+(Monthly data, 1990-2011)
+
+Board of Governors of the 
+Federal Reserve SystemElizabeth Duke 5
+
+
+Figure 5.  Change in standards for commercial 
+and industrial loans to small firms 
+
+(Quarterly data, 1990-2011)
+
+Board of Governors of the 
+Federal Reserve SystemElizabeth Duke 6
+
+
+Figure 6.  Change in spreads of loan rates 
+over cost of funds to small firms
+
+(Quarterly data, 1990-2011) 
+
+Board of Governors of the 
+Federal Reserve SystemElizabeth Duke 7
+
+
+Figure 7.  Change in standards for 
+commercial real estate loans 
+
+(Quarterly data, 1990-2011) 
+
+Board of Governors of the 
+Federal Reserve SystemElizabeth Duke 8
+
+
+Figure 8.  PayNet/Thomson Reuters
+SBLI percent change vs. year prior 
+
+(Monthly data, 2006-11)
+
+Board of Governors of the 
+Federal Reserve SystemElizabeth Duke 9
+
+SBLI  Small Business Lending Index.
+Source:  PayNet/Thomson Reuters.
+
+
+Figure 9.  PayNet/Thomson Reuters
+Small Business Lending Index 
+
+(Monthly data, 2005-11)
+
+Board of Governors of the 
+Federal Reserve SystemElizabeth Duke 10
+
+Source:  PayNet/Thomson Reuters.
+
+
+Figure 10.  Change in demand for 
+consumer and industrial loans 
+
+(Quarterly data, 1991-2011)
+
+Board of Governors of the 
+Federal Reserve SystemElizabeth Duke 11
+

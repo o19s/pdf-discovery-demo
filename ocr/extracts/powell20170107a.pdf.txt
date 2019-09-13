@@ -1,0 +1,915 @@
+
+For release on delivery 
+11:15 a.m. EST (10:15 a.m. CST) 
+January 7, 2017 
+ 
+
+
+Low Interest Rates and the Financial System 
+ 
+ 
+ 
+
+Remarks by 
+ 
+
+Jerome H. Powell 
+ 
+
+Member 
+ 
+
+Board of Governors of the Federal Reserve System 
+ 
+
+at the 
+ 
+
+77th Annual Meeting of the American Finance Association 
+ 
+
+Chicago, Illinois 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+January 7, 2017 
+ 
+
+
+
+Thank you for this invitation to discuss low interest rates and the financial system.  
+
+The framing of this topic raises the question of whether low interest rates have somehow 
+
+undermined the stability and functioning of the financial system.  I will argue that “low 
+
+for long” interest rates have supported slow but steady progress to full employment and 
+
+stable prices, which has in turn supported financial stability.  Indeed, by many measures 
+
+the U.S. financial system is much stronger than before the crisis.  That said, there are 
+
+difficult tradeoffs to manage.  Over time, low rates can put pressure on the business 
+
+models of financial institutions.  And low rates can lead to excessive leverage and 
+
+broadly unsustainable asset prices--things that we watch carefully for and do not observe 
+
+at this point.  I will begin by focusing briefly on the macroeconomic effects of low 
+
+interest rates.  I will then turn to the condition of the financial system--in particular, its 
+
+interplay with low rates.  As always, the views I express here today are mine alone. 
+
+Highly Accommodative Monetary Policy 
+
+The financial crisis and the Great Recession posed the most significant 
+
+macroeconomic challenges for the United States in a half-century, leaving behind high 
+
+unemployment and below-target inflation and calling for highly accommodative 
+
+monetary policies.  Isolating the effects of these policies is challenging, but studies 
+
+generally show that they lowered rates across the curve and moved other asset prices as 
+
+well.1  It is even more challenging to evaluate their effects on aggregate demand.  Low 
+
+rates and higher asset prices should support household and business spending and 
+
+                                                 
+1 Williams (2014) compiles the results from a range of studies estimating the effect of the Federal 
+Reserve’s large-scale asset purchases (LSAPs).  While the exact numbers vary and are subject to 
+substantial uncertainty, typical estimates of the effect of a representative $600 billion in Treasury LSAPs 
+on long-term yields are in the range of 15 to 25 basis points, an effect roughly equivalent to that of three or 
+four rate cuts of 25 basis points. 
+
+
+ - 2 - 
+
+investment through various channels.  But low rates may also perversely induce some 
+
+households to save more in order to meet their targets for retirement.  And low rates have 
+
+clearly not produced a boom in corporate investment, although standard accelerator 
+
+models suggest that investment has largely been consistent with the weak pace of 
+
+economic growth.  Nonetheless, there is good reason to think that low rates have 
+
+provided significant support for demand, and my view is that they have done so.2  As you 
+
+can see in slide 1, we are now close to meeting our dual mandate--a reasonable summary 
+
+statistic for the effects of policy.  While growth has been frustratingly slow, employment 
+
+gains have been solid. This is a reasonably good outcome considering the scope of the 
+
+crisis and the relatively poorer performance of other major advanced economies.   
+
+Other Factors Are Holding Down Rates 
+
+There are also many factors other than monetary policy that are holding down 
+
+long-term interest rates.  Long-term nominal and real rates have been declining for over 
+
+30 years.  The next slide decomposes long-term nominal yields into expected future 
+
+short-term real rates, expected future inflation, and a term premium.  These estimates are 
+
+based on one of the Board’s workhorse term structure models.3  All three components 
+
+have contributed to the downward trend in long-term nominal yields.   
+
+The downward trend in nominal term premiums likely reflects both lower 
+
+inflation risk and the fact that, with inflation expectations anchored, nominal bonds have 
+
+become an increasingly good hedge against market risk.  That has made bonds a more 
+
+                                                 
+2 See Engen, Laubach, and Reifschneider (2015).  The most interest rate sensitive sectors of the economy, 
+such as consumer durables and residential investment, have exhibited higher growth than other sectors 
+since the second round of quantitative easing by the Federal Reserve.  And, for example, Mian, Rao, and 
+Sufi (2013) conclude that the decline in house prices during the recession had a substantial effect on 
+consumption; by the same argument, if low rates supported house prices, then they would have supported 
+consumer spending as well. 
+3 See D’Amico, Kim, and Wei (forthcoming). 
+
+
+ - 3 - 
+
+attractive investment and reduced the term premium.4  As shown in the next slide, a 
+
+regression of the 10-year term premium on measures of 10-year inflation expectations 
+
+and a rolling beta of Treasury returns with respect to equity returns (to proxy for the 
+
+hedging value of bonds) shows that these two factors can account for a large part of the 
+
+decline in the term premium.   
+
+Regulations now require many financial institutions to hold more safe, high-
+
+quality liquid assets, which likely has pushed down term premiums further.  Global 
+
+factors may have put downward pressure on term premiums because of anxiety about the 
+
+foreign outlook, which may have increased demand for U.S. assets, or because low rates 
+
+abroad have depressed U.S. term premiums through a global portfolio balance channel.5  
+
+And real rates are quite low globally, reflecting the step-down of productivity growth 
+
+over the past 10 years as well as shifts in savings and investment demand due to 
+
+demographic change.6 
+
+The Core of the Financial System Is Much Stronger 
+
+Before turning to the interplay between low rates and the financial system, I will 
+
+simply point out that both improved risk management at the largest, most systemically 
+
+important financial institutions (SIFIs) and stronger regulation have made the core of 
+
+the system much stronger and more resilient than before the crisis.7  The SIFIs have more 
+
+                                                 
+4 The changing risk profile of nominal Treasury bonds can be seen from its capital asset pricing model (or 
+CAPM) beta, a measure of the co-movement between returns on longer-term Treasury securities and the 
+equity market.  Figure A.1 shows that the estimated rolling beta of the 10-year Treasury note with respect 
+to the S&P 500 turned from positive to negative around 2000, indicating that Treasury bonds are now likely 
+to act as a safe haven, performing well when equity markets do poorly.   
+5 Figure A.2 shows the response in daily changes in 10-year U.S. Treasury yields to changes in 10-year 
+German bund yields around European Central Bank (ECB) monetary policy decisions since 2010.  The 
+significantly positive regression coefficient is evidence of substantial spillovers from ECB monetary policy 
+to U.S. long-term yields.   
+6 See Rachel and Smith (2015) and Gagnon, Johannsen, and Lopez-Salido (2016).  
+7 See Powell (2015). 
+
+
+ - 4 - 
+
+stable funding, hold much more capital and liquidity, are more conscious of their risks, 
+
+and are far more resolvable should they fail.  Many aspects of our financial market 
+
+infrastructure, including the triparty repurchase agreement (or repo) market, central 
+
+counterparties (CCPs), and money market funds, are more robust as well.    
+
+Low Rates Can Mean Tradeoffs  
+
+So far, I have argued that low rates have supported aggregate demand and brought 
+
+us very close to full employment and 2 percent inflation; that forces other than monetary 
+
+policy have been pushing rates lower for more than 30 years; and that the core of the 
+
+financial system is now much stronger and more resilient than before the crisis.  All of 
+
+that said, I would also agree that monetary policy may sometimes face tradeoffs between 
+
+macroeconomic objectives and financial stability.  Indeed, it would be a divine 
+
+coincidence if that were not the case.  There are times when all of these objectives are 
+
+aligned.  For example, the Fed’s initial unconventional policies supported both market 
+
+functioning and aggregate demand.  More broadly, post-crisis monetary policy supported 
+
+asset values, reduced interest payments, and increased both employment and income.  All 
+
+of these effects are likely to have limited defaults and foreclosures and bolstered the 
+
+balance sheets of households, businesses, and financial intermediaries, leaving the system 
+
+more robust.   
+
+But at times there will be tradeoffs.  Low-for-long interest rates can have adverse 
+
+effects on financial institutions and markets through a number of plausible channels, as 
+
+listed on the next slide.8  After all, low interest rates are intended to encourage some risk-
+
+                                                 
+8 See Adrian and Liang (2014).   
+
+
+ - 5 - 
+
+taking.9  The question is whether low rates have encouraged excessive risk-taking 
+
+through the buildup of leverage or unsustainably high asset prices or through 
+
+misallocation of capital.  That question is particularly important today.  Historically, 
+
+recessions often occurred when the Fed tightened to control inflation.  More recently, 
+
+with inflation under control, overheating has shown up in the form of financial excess.  
+
+Core PCE inflation remained close to or below 2 percent during both the late-1990s stock 
+
+market bubble and the mid-2000s housing bubble that led to the financial crisis.  Real 
+
+short- and long-term rates were relatively high in the late 1990s, so financial excess can 
+
+also arise without a low-rate environment.  Nonetheless, the current extended period of 
+
+very low nominal rates calls for a high degree of vigilance against the buildup of risks to 
+
+the stability of the financial system.   
+
+If we look at the channels listed here, the picture is mixed, but the bottom line is 
+
+that there has not been an excessive buildup of leverage, maturity transformation, or 
+
+broadly unsustainable asset prices.   
+
+Low long-term interest rates have weighed on profitability in the financial sector, 
+
+although firms have so far coped with those pressures.  As shown in the next slide, net 
+
+interest margins (NIMs) for most banks have held up surprisingly well.  NIMs have 
+
+moved down for the largest banks.  Return on assets, shown to the right for both groups, 
+
+has recovered but remains below pre-crisis levels.  Life insurers have substantially 
+
+underperformed the broader equity market since 2007, suggesting that investors see the 
+
+low-rate environment as a drag on profitability for the industry.  Even so, data on asset 
+
+                                                 
+9 See Dell’Ariccia, Laeven, and Suarez (forthcoming), which finds evidence for a risk-taking channel of 
+monetary policy based on supervisory ratings of U.S. bank loans.  Bekaert, Hoerova, and Lo Duca (2013) 
+find that accommodative monetary policy shocks lead to a decline in the VIX, a measure of implied 
+volatility, by lowering both expected volatility and the risk premium. 
+
+
+ - 6 - 
+
+portfolios do not suggest that life insurers have increased risk-taking.  The same is true 
+
+for banks.  Both the regulatory environment and banks’ own attitudes toward risk 
+
+following the financial crisis have helped ensure that the largest banks have not taken on 
+
+excessive credit or duration risks relative to their capital cushions. 
+
+Low rates have provided support for asset valuations--indeed, that is part of their 
+
+design.  But I do not see valuations as significantly out of line with historical experience.  
+
+Equity prices have recently increased considerably, pushing the forward price-earnings 
+
+ratio further above its historical median (slide).  And equity premiums (right)--the 
+
+expected return above the risk-free rate for taking equity risk--have declined but are not 
+
+out of line with historical experience.   
+
+In the nonfinancial sector, valuation pressures are most concerning when leverage 
+
+is high, particularly in real estate markets.  Residential real estate valuations have been in 
+
+line with rents and household incomes in recent years, and the ratio of mortgage debt to 
+
+income is well below its pre-crisis peak and still declining.  In contrast, valuations in 
+
+commercial real estate are high in some markets.10  And in the nonfinancial corporate 
+
+sector, gross leverage is high by historical standards.  Low long-term rates have 
+
+encouraged corporate debt issuance at the same time that some regulations, particularly 
+
+the Volcker rule, have discouraged banks from holding and making markets in such debt.  
+
+High-risk corporate debt (the sum of high-yield bonds and leveraged loans) grew rapidly 
+
+in 2013 and 2014 (slide), although growth has declined sharply since then.11  However, 
+
+                                                 
+10 The Federal Reserve, along with the Office of the Comptroller of the Currency and the Federal Deposit 
+Insurance Corporation, issued guidance regarding prudent management of risks from loans secured by 
+commercial real estate (CRE) in late 2015.  Of course, the annual stress tests typically feature significant 
+declines in CRE prices, suggesting that banks are capitalized against a deterioration in this sector. 
+11 Gilchrist and Zakrajšek’s (2012) measure of the corporate bond spread, shown in figure A.3, is at about 
+its average level, but their estimate of the risk premium in this market is low, so, by this measure, at least 
+pricing is rich.  
+
+
+ - 7 - 
+
+firms also are holding high levels of liquid assets, so net leverage is not elevated.  Firms 
+
+have also lengthened their maturity profiles, and interest coverage ratios are high.  As the 
+
+next slide shows, Greenwood and Hanson’s measure of the share of high-yield debt in 
+
+overall issuance is at a relatively low level.12  And this debt is now held more by 
+
+unlevered investors.  Overall, I do not see leveraged finance markets as posing undue 
+
+financial stability risks.  And if risk-taking does not threaten financial stability, it is not 
+
+the Fed’s job to stop people from losing (or making) money. 
+
+As I said, a mixed picture.  Low interest rates have encouraged risk-taking and 
+
+higher leverage in some sectors and have weighed on profitability in others, but the areas 
+
+where there are signs of excess are isolated. 
+
+Conclusion 
+
+To sum up, low interest rates have supported economic activity and gradually 
+
+brought us back to full employment and 2 percent inflation.  Better regulation and risk 
+
+management have so far minimized the tradeoffs between our macroeconomic objectives, 
+
+on the one hand, and financial stability, on the other.  Still, a period of low rates for a 
+
+long time could present significant challenges for monetary policy.  It could also put 
+
+pressure on the business models of some financial institutions.  Ultimately, the only way 
+
+to get sustainably higher interest rates is to improve the broader environment for growth, 
+
+by adopting policies designed to increase productivity and potential output over the long 
+
+term--policies that are mainly outside the scope of our work at the Federal Reserve.13   
+
+
+                                                 
+12 See Greenwood and Hanson (2013).  
+13 See Powell (2016) and Yellen (2016).  
+
+
+ - 8 - 
+
+References 
+
+Adrian, Tobias, and Nellie Liang (2014).  “Monetary Policy, Financial Conditions, and 
+Financial Stability,” Federal Reserve Bank of New York Staff Reports 690.  New 
+York:  Federal Reserve Bank of New York, September (revised December 2016), 
+available at https://www.newyorkfed.org/research/staff_reports/sr690.html. 
+
+ 
+Bekaert, Geert, Marie Hoerova, and Marco Lo Duca (2013).  “Risk, Uncertainty and 
+
+Monetary Policy,” Journal of Monetary Economics, vol. 60 (October), 
+pp. 771-88. 
+
+ 
+D’Amico, Stefania, Don H. Kim, and Min Wei (forthcoming).  “Tips from TIPS:  The 
+
+Informational Content of Treasury Inflation-Protected Security Prices,” Journal of 
+Financial and Quantitative Analysis.  
+
+ 
+Dell’Ariccia, Giovanni, Luc Laeven, and Gustavo A. Suarez (forthcoming).  “Bank 
+
+Leverage and Monetary Policy’s Risk-Taking Channel:  Evidence from the 
+United States,” Journal of Finance. 
+
+ 
+Engen, Eric M., Thomas Laubach, and David Reifschneider (2015).  “The 
+
+Macroeconomic Effects of the Federal Reserve’s Unconventional Monetary 
+Policies,” Finance and Economics Discussion Series 2015-005.  Washington:  
+Board of Governors of the Federal Reserve System, January, 
+https://www.federalreserve.gov/econresdata/feds/2015/files/2015005pap.pdf. 
+
+ 
+Gagnon, Etienne, Benjamin K. Johannsen, and David Lopez-Salido (2016).  
+
+“Understanding the New Normal:  The Role of Demographics,” Finance and 
+Economics Discussion Series 2016-80.  Washington:  Board of Governors of the 
+Federal Reserve System, October, 
+https://www.federalreserve.gov/econresdata/feds/2016/files/2016080pap.pdf. 
+
+ 
+Gilchrist, Simon, and Egon Zakrajšek (2012).  “Credit Spreads and Business Cycle 
+
+Fluctuations,” American Economic Review, vol. 102 (June), pp. 1692-1720. 
+ 
+Greenwood, Robin, and Samuel G. Hanson (2013).  “Issuer Quality and Corporate Bond 
+
+Returns,” Review of Financial Studies, vol. 26 (June), pp. 1483-1525.  
+ 
+Mian, Atif, Kamalesh Rao, and Amir Sufi (2013).  “Household Balance Sheets, 
+
+Consumption, and the Economic Slump,” Quarterly Journal of Economics, 
+vol. 128 (November), pp. 1687-1726. 
+
+ 
+Powell, Jerome H. (2015).  “Financial Institutions, Financial Markets, and Financial 
+
+Stability,” speech delivered at the Stern School of Business, New York 
+University, New York, February 18,   
+https://www.federalreserve.gov/newsevents/speech/powell20150218a.htm.  
+
+
+
+
+ - 9 - 
+
+ 
+Powell, Jerome H. (2016). “Recent Economic Developments and Longer-Run 
+
+Challenges,” speech delivered at The Economic Club of Indiana, Indianapolis, 
+November 29,   
+https://www.federalreserve.gov/newsevents/speech/powell20161129a.htm. 
+
+ 
+Rachel, Lukasz, and Thomas D. Smith (2015).  “Secular Drivers of the Global Real 
+
+Interest Rate,” Bank of England Staff Working Paper 571.  London:  Bank of 
+England, December, available at 
+www.bankofengland.co.uk/research/Pages/workingpapers/2015/swp571.aspx. 
+
+ 
+Williams, John C. (2014).  “Monetary Policy at the Zero Lower Bound:  Putting Theory 
+
+into Practice,” Hutchins Center Working Papers.  Washington:  Hutchins Center 
+on Fiscal and Monetary Policy, Brookings Institution, January, 
+https://www.brookings.edu/wp-content/uploads/2016/06/16-monetary-policy-
+zero-lower-bound-williams.pdf. 
+
+ 
+Yellen, Janet L. (2016).  “The Federal Reserve’s Monetary Policy Toolkit:  Past, Present, 
+
+and Future,” speech delivered at “Designing Resilient Monetary Policy 
+Frameworks for the Future,” a symposium sponsored by the Federal Reserve 
+Bank of Kansas City, held in Jackson Hole, Wyo., August 26,  
+https://www.federalreserve.gov/newsevents/speech/yellen20160826a.htm. 
+
+
+Note:  PCE is personal consumption expenditures. 
+Source: Haver Analytics; Congressional Budget Office (CBO). 
+
+-4
+
+-2
+
+0
+
+2
+
+4
+
+6
+
+8
+
+10
+
+1960 1965 1970 1975 1980 1985 1990 1995 2000 2005 2010 2015
+
+Figure 1:  U.S. Unemployment and Inflation Gaps
+Percent
+
+Inflation Gap
+(year-over-year core PCE 
+relative to 2%  target)
+
+Unemployment Gap
+(relative to CBO natural
+rate of unemployment)
+
+PercentPercent
+
+
+Source:  Federal Reserve Board staff calculations based on Stefania D'Amico, Don H. Kim, and Min Wei (forthcoming), 
+"Tips from TIPS:  The Informational Content of Treasury Inflation-Protected Security Prices," Journal of Financial and 
+Quantitative Analysis.
+
+-2
+
+0
+
+2
+
+4
+
+6
+
+8
+
+10
+
+1990 1992 1994 1996 1998 2000 2002 2004 2006 2008 2010 2012 2014 2016
+
+Figure 2:  Term-Structure Decomposition of the Nominal 10-Year Rate
+
+10-Year Zero-Coupon Rate
+
+Expected Average Real Short Rate
+
+Expected Average Inflation
+
+Term Premium
+
+Percent
+
+
+Note:  CAPM is capital asset pricing model.
+Source:  Federal Reserve Board staff calculations; Federal Reserve Bank of Philadelphia, Survey of Professional 
+
+Forecasters (SPF).
+
+-1
+
+0
+
+1
+
+2
+
+3
+
+4
+
+1990 1992 1994 1996 1998 2000 2002 2004 2006 2008 2010 2012 2014 2016
+
+Figure 3:  Fitting the Term Premium
+
+10-Year Term Premium
+
+Predicted Value (based on regression
+against SPF inflation expectations and
+rolling CAPM beta)
+
+Percent
+
+
+• Banking Sector 
+o Low rates can hurt net interest margins and may promote greater risk-taking and leverage
+
+• Shadow Banking Sector
+o Low rates may also encourage intermediation outside of the regulated banking sector
+
+• Other Financial Firms
+o Pension funds with fixed target rates or insurance companies selling products with embedded rate 
+
+floors will be less profitable and may take greater risks to meet their targets 
+
+• Asset Markets
+o Low rates may lead to a reach for yield, decreasing risk premiums 
+
+• Nonfinancial Sector
+o Households
+ Low rates may create housing price bubbles and encourage a run-up in household debt
+
+o Nonfinancial Corporations
+ Low rates may promote leverage and excessive risk-taking or low underwriting standards to 
+
+nonfinancial corporates
+
+Low Interest Rates and the Financial System
+
+
+Note:  Net interest margin is equal to net interest income divided by 
+average earning assets. CCAR is Comprehensive Capital Analysis and Review.
+
+Source:  Federal Reserve Board, Form FR Y-9C, Consolidated Financial
+Statements for Holding Companies.
+
+Note:  Return on assets is equal to net income divided by 
+average assets. CCAR is Comprehensive Capital Analysis and Review.
+
+Source:  Federal Reserve Board, Form FR Y-9C, Consolidated Financial
+Statements for Holding Companies.
+
+1.5
+
+2
+
+2.5
+
+3
+
+3.5
+
+4
+
+4.5
+
+5
+
+5.5
+
+2001 2004 2007 2010 2013 2016
+
+Figure 4a:  Net Interest Margins
+
+CCAR Banks
+
+Other Banks
+
+Percent of interest-
+earning assets  (s.a.a.r)
+
+-4
+
+-3
+
+-2
+
+-1
+
+0
+
+1
+
+2
+
+2001 2004 2007 2010 2013 2016
+
+Figure 4b:  Return on Assets
+
+CCAR Banks
+
+Other Banks
+
+Percent of assets
+(s.a.a.r)
+
+
+Source: Bloomberg.
+
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+120
+
+140
+
+160
+
+2007 2008 2009 2010 2011 2012 2013 2014 2015 2016
+
+Figure 5:  Equity Prices of Life Insurers versus the S&P 500
+
+SNL Life Index S&P 500 Index
+
+June 1, 2007 = 100
+
+
+Note:  Aggregate forward price-to-earnings ratio of S&P 500 firms. Based on expected
+earnings for 12 months ahead.
+
+Source: Thomson Reuters Financial. 
+
+Source:  Federal Reserve Board staff projection.
+
+8
+
+13
+
+18
+
+23
+
+28
+
+1986 1989 1992 1995 1998 2001 2004 2007 2010 2013 2016
+
+Figure 6a:  Forward Price-to-Earnings Ratio of S&P 500 Firms
+
+Historical Median
+
+-4
+
+-2
+
+0
+
+2
+
+4
+
+6
+
+8
+
+10
+
+12
+
+14
+
+1986 1989 1992 1995 1998 2001 2004 2007 2010 2013 2016
+
+Figure 6b:  Equity Risk Premium
+Percent
+
+
+Note: Total high-risk debt is the sum of speculative-grade and unrated bonds and leveraged loans. Nominal outstandings
+growth is translated into real terms after subtracting the growth rate of the price deflator for nonfinancial business-sector output.
+
+Disclaimer for S&P data: S&P and its third-party information providers expressly disclaim the accuracy and completeness of 
+the information provided to the Board, as well as any errors or omissions arising from the use of such information. Further, the
+information provided herein does not constitute, and should not be used as, advice regarding the suitability of securities for 
+investment purposes or any other type of investment advice.
+
+Source: Mergent Corporate FISD Daily Feed, Nominal Bonds Outstanding, www.mergent.com/mergent-solutions/fixed-
+income-data; Standard & Poor’s, Leveraged Commentary and Data (LCD).
+
+-5
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+2002 2004 2006 2008 2010 2012 2014 2016
+
+Figure 7:  Year-over-Year Growth of Real Total High-Risk DebtPercent, 
+annual rate
+
+
+Source: Robin Greenwood and Samuel G. Hanson (2013), "Issuer Quality and Corporate Bond Returns," 
+Review of Financial Studies, vol. 26 (June), pp. 1483-1525; Federal Reserve Board staff calculations. 
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+1995 1998 2001 2004 2007 2010 2013 2016
+
+Figure 8:  Greenwood and Hanson High-Yield Share of Corporate Bond Issuance
+Percent
+
+
+Note:  Two-year rolling regressions of the weekly excess holding returns to a 10-Year Treasury note versus the S&P 
+500 stock index. CAPM is capital asset pricing model.
+
+Source:  Federal Reserve Board staff calculations.
+
+-0.4
+
+-0.2
+
+0.0
+
+0.2
+
+0.4
+
+0.6
+
+0.8
+
+1990 1992 1994 1996 1998 2000 2002 2004 2006 2008 2010 2012 2014 2016
+
+Figure A.1:  CAPM Beta for the 10-Year Nominal Treasury Security
+
+
+Note:  ECB is European Central Bank.
+Source:  Federal Reserve Board staff calculations.  
+
+y = 0.7231x + 0.5061
+R² = 0.4943
+
+-20
+
+-15
+
+-10
+
+-5
+
+0
+
+5
+
+10
+
+15
+
+20
+
+-20 -15 -10 -5 0 5 10 15 20
+
+Figure A.2:  Changes in 10-Year German and U.S. Yields around ECB Meetings
+
+Change in German Yield (basis points)
+
+Change in 
+U.S. Yield
+(basis points)
+
+
+Source:  Simon Gilchrist and Egon Zakrajsek (2012), "Credit Spreads and Business Cycle Fluctuations," American Economic Review,
+vol. 102 (June), pp. 1692-1720; Federal Reserve Board staff calculations.
+
+-2
+
+-1
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+1973 1976 1979 1983 1986 1989 1993 1996 1999 2003 2006 2009 2013 2016
+
+Figure A.3:  Gilchrist-Zakrajsek Corporate Bond Spread and Excess Premium
+
+Spread
+
+Excess Bond
+Premium
+
+Percent
+

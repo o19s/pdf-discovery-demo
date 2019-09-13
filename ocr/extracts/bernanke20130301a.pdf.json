@@ -1,11 +1,3 @@
-Extracting 'image1.jpg' (image/jpeg) to ./993890d7-6369-4e48-8f20-5713a2202d4e-image1.jpg
-Extracting 'image2.png' (image/png) to ./image2.png
-Extracting 'image3.png' (image/png) to ./image3.png
-Extracting 'image4.png' (image/png) to ./image4.png
-Extracting 'image5.jpg' (image/jpeg) to ./image5.jpg
-Extracting 'image6.jpg' (image/jpeg) to ./b55c73a3-9777-40f8-ba8e-53c319fd0b1c-image6.jpg
-Extracting 'image7.png' (image/png) to ./image7.png
-Extracting 'image8.jpg' (image/jpeg) to ./image8.jpg
 [
   {
     "Content-Length": "867530",
@@ -106,3 +98,4 @@ Extracting 'image8.jpg' (image/jpeg) to ./image8.jpg
     "xmpTPg:NPages": "24"
   }
 ]
+

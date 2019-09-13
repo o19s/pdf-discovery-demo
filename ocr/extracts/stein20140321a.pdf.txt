@@ -1,0 +1,907 @@
+
+For release on delivery 
+7:20 p.m. EDT   
+March 21, 2014 
+ 
+
+
+Incorporating Financial Stability Considerations into a Monetary Policy Framework 
+ 
+ 
+ 
+
+Remarks by 
+ 
+
+Jeremy C. Stein 
+ 
+
+Member 
+ 
+
+Board of Governors of the Federal Reserve System 
+ 
+
+at the 
+ 
+
+International Research Forum on Monetary Policy 
+ 
+
+Sponsored by the European Central Bank, the Federal Reserve Board, the Center for 
+Financial Studies at the Goethe University, and the Georgetown Center for  
+
+Economic Research at Georgetown University 
+ 
+
+Washington, D.C. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+March 21, 2014 
+ 
+
+
+
+I would like to talk today about how one might explicitly incorporate financial 
+
+stability considerations into a monetary policy framework.1  Doing so involves tackling 
+
+two questions--one that is relatively easy and one that is much harder.  The easier 
+
+question is, should financial stability concerns, in principle, influence monetary policy 
+
+decisions?  To be specific, are there cases in which one might tolerate a larger forecast 
+
+shortfall of the path of the unemployment rate from its full-employment level than one 
+
+would otherwise, because of a concern that a more accommodative policy might entail a 
+
+heightened risk of some sort of adverse financial market outcome?  This question is about 
+
+theory, not empirical magnitudes, and, in my view, the theoretical answer is a clear “yes.”  
+
+I will say a bit more about why shortly, but let me stress that I am not breaking any new 
+
+conceptual ground here; the basic argument has been laid out by a number of others, 
+
+including Woodford and Kocherlakota.2  
+
+The second question is, how does one operationalize the theory?  What sorts of 
+
+data should one look to, and what sorts of empirical methods should one use, to calibrate 
+
+by how much the stance of monetary policy should be altered relative to the case in which 
+
+financial stability considerations are completely set aside?  This question is very difficult.  
+
+In the interests of advancing the conversation, I will venture some tentative thoughts on 
+
+one possible approach, which is somewhat different than what I have seen in other recent 
+
+work on this topic.  While I hope to convince you that this path is worth exploring, I 
+
+cannot say that I know yet exactly where it will lead--and, in particular, whether it will 
+
+ultimately deliver monetary policy prescriptions that differ in a quantitatively meaningful 
+
+                                                 
+1 The views expressed here are my own and are not necessarily shared by other members of the Federal 
+Reserve Board and the Federal Open Market Committee.  I am grateful to David Lopez-Salido and Egon 
+Zakrajsek for a number of helpful conversations and for carrying out the empirical work reported here.  
+Thanks also to William English and Jon Faust for their comments. 
+2 See Woodford (2012) and Kocherlakota (2013, 2014). 
+
+
+ - 2 - 
+
+way from those offered by our current models.  So I do not intend anything that follows 
+
+as a comment on the current stance of our policy.  
+
+Before getting too deep into the details, let me preview my bottom line.  I am 
+
+going to try to make the case that, all else being equal, monetary policy should be less 
+
+accommodative--by which I mean that it should be willing to tolerate a larger forecast 
+
+shortfall of the path of the unemployment rate from its full-employment level--when 
+
+estimates of risk premiums in the bond market are abnormally low.  These risk premiums 
+
+include the term premium on Treasury securities, as well as the expected returns to 
+
+investors from bearing the credit risk on, for example, corporate bonds and asset-backed 
+
+securities.  As an illustration, consider the period in the spring of 2013 when the 10-year 
+
+Treasury yield was in the neighborhood of 1.60 percent and estimates of the term 
+
+premium were around negative 80 basis points.3  Applied to this period, my approach 
+
+would suggest a lesser willingness to use large-scale asset purchases to push yields down 
+
+even further, as compared with a scenario in which term premiums were not so low.4   
+
+The informal intuition I have in mind is that there is a cost associated with 
+
+pushing risk premiums too low, because doing so increases the likelihood that they may 
+
+revert back in a way that hinders the Federal Reserve’s ability to achieve its mandated 
+
+objectives.  In what follows, I will try to make this intuition more precise and to 
+
+generalize its applicability.  
+
+                                                 
+3 The 10-year nominal rate hit 1.63 percent on May 2, 2013.  An estimate of the term premium based on the 
+oft-cited methodology of Kim and Wright (2005) was negative 0.78 percent on this day. 
+4 Again, I stress that this statement is directional, not quantitative--I am not claiming that the magnitude of 
+the adjustment one would want to make is large, or that the policy we had in place at the time was 
+miscalibrated in any absolute sense.  Rather, my point is just that the financial stability costs of asset 
+purchases are likely to loom larger when term premiums are more negative, and that this consideration 
+belongs in the discussion. 
+
+
+ - 3 - 
+
+Do Financial Stability Considerations Belong in a Monetary Policy Framework? 
+
+However, let me start with the conceptual question of whether financial stability 
+
+considerations belong at all in a monetary policy framework.  As I said earlier, I think the 
+
+clear in-principle answer here is “yes.”  The generic argument rests on three assumptions.  
+
+First, suppose that the Federal Reserve focuses only on its traditional dual mandate of 
+
+maximum employment and price stability.  To keep things simple, suppose further that 
+
+these two goals are not in conflict with one another--say, because aggregate demand is 
+
+weak, depressing both employment and inflation--so that we can boil things down to one 
+
+objective:  keeping unemployment close to target.  With the usual quadratic loss objective 
+
+function, this assumption would say that the Federal Reserve cares about minimizing the 
+
+expected value of (U – U*)2.  A little bit of algebra shows that this objective function can 
+
+in turn be decomposed into two pieces:  (1) an “expected shortfall” term, given by the 
+
+squared deviation of expected unemployment from the target level of U*; and (2) a “risk” 
+
+term, given by the variance of realized unemployment, U.5 
+
+Second, the argument assumes that there is some variable summarizing financial 
+
+market vulnerability--I will be abstract for the moment and just call it FMV--which is 
+
+influenced by monetary policy.  That is, easier monetary policy leads to increased 
+
+vulnerability as measured by FMV.  Moreover, when FMV is elevated, there is a greater 
+
+probability of an adverse event--some kind of financial market shock--that, if it were to 
+
+occur, would push up the unemployment rate, all else being equal.6    
+
+                                                 
+5 Kocherlakota (2014) emphasizes the same decomposition of the Federal Reserve’s loss function.  Note 
+that, in focusing only on mean and variance, this functional form sets aside what may be another important 
+aspect of vulnerabilities:  tail risks that are not well captured in variance as opposed to higher moments. 
+6 If I had introduced an explicit time dimension, it might be more natural to assume that easier monetary 
+policy today raises the probability of an adverse event at some medium-run future date, even while 
+reducing the probability in the short run.  In this case, there might be an interesting set of intertemporal 
+
+
+ - 4 - 
+
+The third and final assumption is that the risks associated with an elevated value 
+
+of FMV cannot be fully offset at zero cost with other nonmonetary tools, such as 
+
+financial regulation.  To be clear, this assumption does not imply that regulation is not 
+
+helpful in reducing financial vulnerabilities--it only says that regulation is not a perfect 
+
+instrument.  These imperfections could stem from regulatory arbitrage; political-economy 
+
+constraints; or the fact that too much regulation can also impede economic growth, just 
+
+like overly restrictive monetary policy.7  Thus one way to think of my construct of FMV 
+
+is that it is a stand-in for the level of financial vulnerabilities that remain after regulation 
+
+has done the best that it can do, given the existing real-world limitations. 
+
+In this setting, even with inflation concerns entirely set aside, monetary policy 
+
+faces a tradeoff.  Consider a situation in which unemployment is above target.  A more 
+
+accommodative policy has the usual benefit of lowering expected unemployment and 
+
+thus reducing the expected shortfall term in the objective function.  If, however, it also 
+
+raises the conditional variance of the unemployment rate via an elevated-FMV channel--
+
+thereby increasing the risk term in the objective function--then there is a cost to be 
+
+weighed alongside the benefit.  And importantly, this is true even when financial stability 
+
+is not a separate objective in and of itself; as I have framed it, financial stability matters 
+
+only insofar as it affects the degree of risk around the employment leg of the Federal 
+
+Reserve’s mandate.8  
+
+To be sure, absent a concrete measure of FMV, as well as some sense of the 
+
+responsiveness of FMV to monetary policy, this discussion is all pretty theoretical and 
+
+                                                                                                                                                 
+tradeoffs to be considered, particularly if the economy were in a very vulnerable position today.  In any 
+event, these are just assumptions at this point, meant to illustrate the logic of the argument. 
+7 See, for example, Stein (2013) for an elaboration of these points. 
+8 See Tarullo (2014) for a similar observation. 
+
+
+ - 5 - 
+
+non-operational.  So I will turn to measurement in a moment.  But it is worth noting one 
+
+useful qualitative observation that emerges just from the logic and from the nature of a 
+
+quadratic loss function.  In making the tradeoff I just described, the marginal benefit of 
+
+using easier policy to reduce the expected unemployment gap is greater when the gap 
+
+itself is large--that is, when unemployment is far above target.  In this case, even a quite 
+
+high level of financial vulnerability may not imply a much different stance of monetary 
+
+policy than would fall out of a more traditional analysis.  However, as the unemployment 
+
+gap shrinks, financial stability risks loom larger in relative terms, so an analysis that takes 
+
+them on board may lead to more of an adjustment in the stance of policy. 
+
+Okay, But How Do You Measure Financial Market Vulnerability? 
+
+Financial Sector Leverage 
+
+At an abstract level, the framework that I have sketched corresponds closely to 
+
+that in Woodford’s work, although his model is much more fully articulated.  When it 
+
+gets down to implementation, Woodford suggests that the most natural measure of 
+
+financial market vulnerability is a variable that captures “leverage in the financial sector.”  
+
+In other words, faced with unemployment above target, he would have monetary policy 
+
+be less accommodative, all else being equal, when financial-sector leverage is high.  This 
+
+recommendation rests on three key premises.  First, when financial-sector leverage is 
+
+high, the probability of a severe crisis in which multiple large intermediaries become 
+
+insolvent is elevated--that is, we are more likely to have a replay of what happened in 
+
+2008 and 2009.  Second, easy monetary policy is asserted to increase the incentives for 
+
+the financial sector to lever up.  And, third, focusing on leverage as opposed to asset 
+
+prices avoids putting the central bank in the position of having to “spot bubbles”:  Even if 
+
+
+ - 6 - 
+
+it is impossible for the central bank to know when an asset class is overvalued, the risks 
+
+to the economy associated with overvaluation are presumably greater when 
+
+intermediaries are highly levered.9   
+
+In my view, these are generally sensible arguments, and an approach of the sort 
+
+that Woodford outlines may well turn out to be fruitful.  At the same time, this leverage-
+
+centric approach also has some drawbacks, which suggest that there is likely to be value 
+
+in a parallel exploration of other tracks.  For one thing, the effective degree of leverage in 
+
+the financial system is not easy to measure in a comprehensive fashion.  One can 
+
+certainly look at things like banks’ capital ratios, but some of the important action, from a 
+
+financial stability perspective, is likely to be in subtler forms of leverage that are either 
+
+outside of the traditional banking sector or more prone to shape shifting.  More to the 
+
+point, recall that, for the purposes of informing monetary policy, one wants to focus on 
+
+those sources of financial vulnerability that are least effectively dealt with via regulation.  
+
+And the more reliably a form of leverage can be measured, the better a candidate it is for 
+
+being handled with a regulatory or supervisory approach.  In other words, if we were to 
+
+see signs that banks’ capital ratios were in danger of eroding, we would certainly want to 
+
+do something, but it is hard for me to imagine that the something should involve 
+
+monetary policy--the obvious first line of defense in this case would be to turn to our 
+
+regulatory and supervisory tools.  
+
+                                                 
+9 Woodford (2012) writes, “It is important, I believe, to realize that the real issue is not identifying whether 
+one type of asset or another is currently overvalued.  Instead, what central banks (and potentially other 
+‘macro-prudential’ regulators) need to be able to monitor is the degree to which the positions taken by 
+leveraged institutions pose a risk to financial stability. . . .  A central bank need not be able to identify asset 
+over-valuations in order to recognize situations in which the probability of simultaneous financial distress 
+at several institutions is non-trivial.” 
+
+
+ - 7 - 
+
+In response to this critique, one might instead seek to focus the attention of 
+
+monetary policymakers on broader measures of private-sector leverage that are outside 
+
+the reach of traditional financial regulation.  For example, Borio and Drehmann 
+
+document that the ratio of credit to the private nonfinancial sector relative to gross 
+
+domestic product (GDP), once suitably detrended, has substantial predictive power for 
+
+financial crises, so perhaps it might make sense for monetary policy to condition on this 
+
+kind of broad credit-to-GDP ratio.10  However, if one goes this route, another 
+
+measurement challenge arises:  How, if at all, does monetary policy influence the 
+
+evolution of the ratio?  Without an answer to this question, it is hard to say how much 
+
+one would want to alter the stance of policy when, say, the ratio is abnormally high 
+
+relative to trend.  And the measurement problem is likely to be a difficult one, given that 
+
+the credit-to-GDP ratio is a slow-moving variable:  Unlike with asset prices, there is no 
+
+scope for doing an event-study analysis of the effect of a change in policy on the item of 
+
+interest.11 
+
+Risk Premiums in the Bond Market 
+
+Motivated in part by these observations, I would like to spend the rest of this talk 
+
+exploring an alternative, albeit potentially complementary, approach to the problem.  
+
+Rather than focusing primarily on some measure of intermediary leverage as an input into 
+
+the monetary policy framework, my suggestion is to also look at estimates of risk 
+
+premiums in the bond market.  Thus, at a broad thematic level, I am taking a capital-
+
+                                                 
+10 See Borio and Drehmann (2009).  But here, too, one might argue that macroprudential tools that reach 
+beyond the banking sector to target broad measures of household leverage might be more direct, if such 
+tools were available.  An example would be limits on the loan-to-value ratios of all mortgage loans, 
+irrespective of whether they reside on bank balance sheets.    
+11 A further difficulty lies in the real-time estimation of the underlying trend in the credit-to-GDP ratio and, 
+hence, in the gap relative to trend.  See Edge and Meisenzahl (2011). 
+ 
+
+
+ - 8 - 
+
+markets-centric view of financial stability, as opposed to a purely intermediary-centric 
+
+view.  This is, of course, not to suggest that shocks to large leveraged intermediaries are 
+
+not as important--if not more so--as those that play out primarily in capital markets.  
+
+Rather, the premise is simply that disruptions originating in the capital market can be of 
+
+consequence in their own right, and that they may be less amenable to being dealt with 
+
+via financial regulation.  In this regard, I am echoing a point made recently by Feroli and 
+
+others, who have emphasized the fragilities related to bond fund flows.12      
+
+Let me start by being clear on terminology:  By the “risk premium” on an asset 
+
+category, I mean the ex ante expected return, based on an objective statistical model, that 
+
+an investor can anticipate earning on the asset in excess of that on short-term Treasury 
+
+bills.  So I will use the words “risk premium” and “expected return” interchangeably in 
+
+what follows.  And, for the sake of concreteness, I will focus on two of these bond market 
+
+risk premiums in particular:  the so-called term premium, which is the expected excess 
+
+return on longer-term Treasury bonds relative to short-term bills, and the credit risk 
+
+premium, which is the expected excess return on bonds with credit risk (for example, 
+
+corporate bonds, or asset-backed securities) relative to safe Treasury securities. 
+
+With all of the rhetorical heat that gets generated about whether the Federal 
+
+Reserve can or should try to spot bubbles, it is worth keeping some uncontroversial facts 
+
+in mind.  It is widely accepted among researchers in finance that there is an economically 
+
+large amount of predictable variation in the risk premiums on a wide range of assets 
+
+classes.13  For example, Cochrane and Piazzesi document that the excess returns on 
+
+longer-term Treasury securities can be predicted one year ahead with a simple model that 
+
+                                                 
+12 See Feroli and others (2014). 
+13 See Cochrane (2011) for a recent survey of what is by now an enormous literature.   
+
+
+ - 9 - 
+
+delivers an R-squared in excess of 40 percent.14  Analogously, Greenwood and Hanson 
+
+show that the returns on junk bonds relative to Treasury securities over two- to three-year 
+
+horizons can also be forecast with R-squared values in the ballpark of 30 to 40 percent, in 
+
+this case by using two intuitively appealing forecasting variables:  credit spreads and the 
+
+high-yield share, which is the fraction of total bond issuance that comes from the high-
+
+yield category.15  Figure 1 illustrates the time-series variation in estimates of both of 
+
+these risk premiums. 
+
+Again, these sorts of findings are largely undisputed.  Where there is more 
+
+controversy is over the interpretation of these patterns, with some arguing that they 
+
+reflect waves of irrational investor sentiment and others taking the view that they come 
+
+from more rational factors, such as time variation in either the risks facing investors or 
+
+their tolerance for bearing such risks.  Here is where one can get into hard-to-resolve 
+
+debates about bubble spotting and about whether one can expect the Federal Reserve to 
+
+be smarter than other market participants.  However, at least for some purposes, these 
+
+debates are beside the point.  In particular, the implications for monetary policy that I 
+
+have in mind do not seem to depend critically on the difficult question of why there is so 
+
+much time variation in expected bond market returns; they only require that this variation 
+
+exists, as we know it does.  In other words, there may be scope to make considerable 
+
+practical progress while remaining largely agnostic about the whole metaphysical are-
+
+there-bubbles question.16    
+
+                                                 
+14 See Cochrane and Piazzesi (2005). 
+15 See Greenwood and Hanson (2013). 
+16 This statement admittedly sweeps some important subtleties under the rug.  More precisely, I suspect 
+that, if one takes the Federal Reserve’s legal mandate as given--and, more specifically, takes as given an 
+objective function such as minimizing the expected value of (U – U*)2--then one can remain agnostic about 
+the source of variation in risk premiums and still reach the kinds of conclusions that I do in what follows.  
+However, if one asks whether such a mandate is itself normatively optimal in a fully micro-founded model, 
+
+
+ - 10 - 
+
+Okay.  So let’s stipulate that risk premiums in the bond market move around a lot.  
+
+The next observation to throw into the mix is that monetary policy is one of the factors 
+
+that have an important influence on these movements.  An emerging body of empirical 
+
+work finds that an easing of monetary policy--even via conventional policy tools in 
+
+normal times--tends to reduce both the term premiums on long-term Treasury securities 
+
+and the credit spreads on corporate bonds.17  That is, monetary policy always tends to 
+
+work in part through its effect on capital market risk premiums, perhaps through a risk-
+
+taking or reaching-for-yield mechanism.18   
+
+However, while this empirical observation sheds some interesting light on how 
+
+monetary policy influences the real economy, it does not by itself suggest that there is 
+
+any financial stability dark side--that is, any meaningful increase in what I have been 
+
+calling FMV--to the lowered risk premiums that go with monetary accommodation.  For 
+
+there to be such a dark side, there would have to be some sort of asymmetry in the 
+
+unwinding of the effects of monetary policy on these risk premiums, whereby the 
+
+eventual reversal either happens more abruptly, or causes larger economic effects, than 
+
+the initial compression.   
+
+Let’s take an example.  Suppose that initially, the credit risk premium on high-
+
+yield bonds is 400 basis points, and that, because the unemployment rate is well above 
+                                                                                                                                                 
+my intuition is that the source of variation may matter quite a bit.  For example, I would conjecture that it 
+might be more normatively appropriate, holding fixed the consequences for aggregate activity and 
+unemployment, to lean against a sharp reduction in risk premiums that is driven by investor sentiment 
+rather than against one that is driven by a rational response to changes in the risk environment. 
+17 See, for example, Hanson and Stein (2012); Gertler and Karadi (2013); and Gilchrist, Lopez-Salido, and 
+Zakrajsek (2014). 
+18 Note that, as an econometric matter, it is easier to establish a causal effect of monetary policy on risk 
+premiums than on broad measures of leverage, because asset prices can be measured on a daily or even 
+intraday basis.  So they can be directly related to innovations in the stance of policy, as proxied for by, for 
+example, movements in short-term rates in the wake of an announcement by the Federal Open Market 
+Committee.  A similar identification strategy is not available for linking monetary policy changes to 
+movements in, say, nonfinancial-sector leverage, given that the latter is measured infrequently. 
+ 
+
+
+ - 11 - 
+
+target, the Federal Reserve wants to add monetary accommodation.  Suppose further that 
+
+doing so lowers the credit risk premium to 200 basis points temporarily but also increases 
+
+the odds that this risk premium will, at some point in the next couple of years, revert 
+
+sharply, moving back in the direction of 400 basis points.  What is the downside here?  
+
+Given a desire for accommodation, is it not better to have credit risk premiums pushed 
+
+down to a lower on-average level, even if that potentially involves a more volatile down-
+
+then-up path?  Again, the answer depends critically on whether there is some kind of 
+
+asymmetry, whereby the eventual increase in spreads either is more abrupt, or has a 
+
+larger effect on the real economy, than the initial compression. 
+
+In table 1 and figure 2, I present some new evidence that bears on this asymmetry.  
+
+To do so, I build directly on recent work by Gilchrist and Zakrajsek (hereafter, GZ).19  
+
+GZ show that changes in credit risk premiums have substantial predictive power for 
+
+measures of economic activity like GDP and unemployment.  More specifically, GZ 
+
+construct a variable called the excess bond premium (EBP).  The EBP at any point in 
+
+time is, roughly speaking, a measure of marketwide credit spreads minus an estimate of 
+
+the expected default losses on bonds.  Hence, it can be thought of as a proxy for the 
+
+excess return that bondholders can expect to earn, net of defaults, on a going-forward 
+
+basis--very much in the spirit of the risk premium concept to which I have been referring.  
+
+Not surprisingly, the EBP exhibits considerable time-series variation, reaching a peak in 
+
+the wake of the Lehman Brothers bankruptcy.  Moreover, in simple forecasting 
+
+regressions, changes in the EBP are associated with significant movements in GDP and 
+
+unemployment one year later.  In other words, an increase in the EBP--that is, a widening 
+
+                                                 
+19 See Gilchrist and Zakrajsek (2012). 
+
+
+ - 12 - 
+
+of the non-default-related component of credit spreads--portends a decline in economic 
+
+activity and employment a year later. 
+
+The specifications of GZ are linear, so they impose the assumption that increases 
+
+in the EBP have an effect that is symmetric to decreases.  In table 1 and figure 2, I look 
+
+explicitly for asymmetries, with a specification that allows an upward move in the EBP to 
+
+have a different effect on the economy than a downward move.  The results, which come 
+
+from a sample spanning the period from January 1973 to December 2012, are striking.  
+
+Upward moves in EBP--again, those corresponding to a widening of credit spreads--are 
+
+very informative about the future evolution of the real economy.  The coefficient 
+
+estimates imply that an increase of 50 basis points in the EBP in a single quarter, which is 
+
+roughly a once-every-five-years kind of move, is associated with a two percentage point 
+
+slowing of GDP growth over the next four quarters and slightly more than a one 
+
+percentage point increase in the unemployment rate over the same interval.20  These 
+
+effects are, by any standard, economically important.  By contrast, declines in the EBP 
+
+have no discernible effect at all on economic activity.      
+
+Putting it all together, this reasoning suggests that the credit risk premium--as 
+
+measured, say, by a forecasting model like that of Greenwood and Hanson--may be an 
+
+operationally useful measure of financial market vulnerability. When this risk premium is 
+
+low, there is a greater probability of a subsequent upward spike in credit spreads and the 
+
+EBP.  Moreover, such upward spikes, when they do occur, are associated with significant 
+
+adverse economic effects.  To be clear, we are not necessarily talking about once-in-a-
+
+generation financial crises here, with major financial institutions teetering on the brink of 
+
+                                                 
+20 To be a bit more precise, in the 40-year sample period, there are seven observations in which the EBP 
+increases by more than 50 basis points in a single quarter.  
+
+
+ - 13 - 
+
+failure.  Nevertheless, the evidence suggests that even more modest capital market 
+
+disruptions may have consequences that are large enough to warrant consideration when 
+
+formulating monetary policy.  If so, the indicated directional adjustment would be to be 
+
+less aggressive in providing monetary accommodation in the face of above-target 
+
+unemployment, all else being equal, when risk premiums are abnormally low. 
+
+Of course, there are many caveats.  Foremost among them is the fact that the 
+
+ability of increases in the EBP to predict future economic activity may not reflect a causal 
+
+link from the former to the latter.  Perhaps there are economic slowdowns that are caused 
+
+entirely by nonfinancial factors, and, when investors see one on the horizon, they get 
+
+skittish, causing the EBP to rise.  If so, it would be wrong to conclude that easy monetary 
+
+policy--even if it does, in fact, cause lower risk premiums--has any causal effect on the 
+
+probability of a future slowdown.  So at this point, the evidence that I have reviewed can 
+
+only be thought of as suggestive.   
+
+Making progress on these difficult issues of causality will likely require a clearer 
+
+articulation of the underlying mechanism that leads to such pronounced asymmetries in 
+
+the relationship between credit spreads and economic activity.  If a causal link is, indeed, 
+
+present, what is there about it that leads increases in spreads to have a much stronger 
+
+effect on the economy than decreases?  I suspect that the answer has to do with 
+
+something that mimics the effect of leveraged losses to financial intermediaries--and the 
+
+attendant effect on credit supply.  For example, GZ document that their EBP measure is 
+
+closely correlated with the credit default swap spreads of broker-dealer firms.  The reason 
+
+could be that losses on their inventories of risky bonds erode the capital positions of these 
+
+firms, which might in turn compromise their ability to provide valuable intermediation 
+
+
+ - 14 - 
+
+services.  Alternatively, a similar mechanism may play out with open-end bond funds, 
+
+whereby losses cause large outflows of assets under management, again compromising 
+
+the intermediation function and aggregate credit supply.21     
+
+Conclusion 
+
+To restate my main point, I believe that measures of bond market risk premiums--
+
+for example, estimates of the expected excess returns on long-term Treasury securities 
+
+relative to Treasury bills and on credit-risky bonds relative to Treasury securities--may 
+
+turn out to be useful inputs into the monetary policy framework.  These variables have 
+
+the potential to serve as simple proxies for a particular sort of financial market 
+
+vulnerability that may not be easily addressed by supervision and regulation.  Again, 
+
+however, let me emphasize the conjectural nature of these remarks.  Even if this broad 
+
+way of thinking about the problem turns out to be useful, there is a ways to go--in terms 
+
+of modeling and calibration--before it can be used to make quantitative statements.  Thus, 
+
+at this early stage, I would not want to claim that one is likely to get policy prescriptions 
+
+that differ significantly from those of our standard models.  We will have to do the work 
+
+and see what emerges. 
+
+Finally, a more general theme that has been lurking in the background here is the 
+
+sharp difference in perspective that subfields of economics sometimes bring to a given 
+
+question.  As I noted earlier, one of the central and most widely shared ideas in the 
+
+academic finance literature is the importance of time variation in the risk premiums (or 
+
+expected returns) on a wide range of assets.  At the same time, canonical macro models in 
+
+the New Keynesian genre of the sort that are often used to inform monetary policy tend to 
+
+                                                 
+21 Basset and others (2014) document that changes in the EBP are associated with significant changes in 
+bank lending standards, which suggests a broader pullback in the credit intermediation process. 
+
+
+ - 15 - 
+
+exhibit little or no meaningful risk premium variation.22  Even if most of the specifics of 
+
+what I have had to say in this talk turn out to be off base, I have to believe that our macro 
+
+models will ultimately be more useful as a guide to policy if they build on a more 
+
+empirically realistic foundation with respect to the behavior of interest rates and credit 
+
+spreads.   
+
+
+
+
+                                                 
+22 This is true even of those models that--following in the tradition of Bernanke and Gertler (1989)--
+incorporate some form of financial market friction.  Typically, the friction is modeled as something that 
+effectively changes the expected cash flows associated with financial intermediation, but not the net-of-
+default risk premium earned by investors. 
+
+
+ - 16 - 
+
+References 
+
+Bassett, William F., Mary Beth Chosak, John C. Driscoll, and Egon Zakrajsek (2014).  
+“Changes in Bank Lending Standards and the Macroeconomy,” Journal of 
+Monetary Economics, vol. 62 (March), pp. 23-40. 
+
+ 
+Bernanke, Ben S., and Mark L. Gertler (1989).  “Agency Costs, Net Worth, and Business 
+
+Fluctuations,” American Economic Review, vol. 79 (March), pp. 14-31.  
+ 
+Borio, Claudio, and Mathias Drehmann (2009).  “Assessing the Risk of Banking Crises--
+
+Revisited,” BIS Quarterly Review, March, pp. 29-46, 
+www.bis.org/publ/qtrpdf/r_qt0903e.htm. 
+
+ 
+Cochrane, John H. (2011).  “Presidential Address:  Discount Rates,” Journal of Finance, 
+
+vol. 66 (August), pp. 1047-1108. 
+ 
+Cochrane, John H., and Monika Piazzesi (2005).  “Bond Risk Premia,” American 
+
+Economic Review, vol. 95 (March), pp. 138-60. 
+ 
+Edge, Rochelle M., and Ralf R. Meisenzahl (2011).  “The Unreliability of Credit-to-GDP 
+
+Ratio Gaps in Real Time:  Implications for Countercyclical Capital Buffers,” 
+International Journal of Central Banking, vol. 7 (December), pp. 261-98. 
+
+ 
+Feroli, Michael, Anil K. Kashyap, Kermit Schoenholtz, and Hyun Song Shin (2014).  
+
+“Market Tantrums and Monetary Policy,” paper presented at the 2014 U.S. 
+Monetary Policy Forum, a conference sponsored by the Initiative on Global 
+Markets at the University of Chicago Booth School of Business, held in New 
+York, February 28, 
+http://research.chicagobooth.edu/igm/usmpf/2014.aspx?source=igm-em-usmpf14-
+20140221-initial. 
+
+ 
+Gertler, Mark, and Peter Karadi (2013).  “Monetary Policy Surprises, Credit Costs, and 
+
+Economic Activity,” working paper, October, 
+www.econ.nyu.edu/user/gertlerm/GertlerKaradi2013Oct3draftd-3.pdf. 
+
+ 
+Gilchrist, Simon, David Lopez-Salido, and Egon Zakrajsek (2014).  “Monetary Policy 
+
+and Real Borrowing Costs at the Zero Lower Bound,” Finance and Economics 
+Discussion Series 2014-03.  Washington:  Board of Governors of the Federal 
+Reserve System, December 2013, 
+www.federalreserve.gov/pubs/feds/2014/201403/201403abs.html. 
+
+ 
+Gilchrist, Simon, and Egon Zakrajsek (2012).  “Credit Spreads and Business Cycle 
+
+Fluctuations,” American Economic Review, vol. 102 (June), pp. 1692-1720. 
+ 
+Greenwood, Robin, and Samuel G. Hanson (2013).  “Issuer Quality and Corporate Bond 
+
+Returns,” Review of Financial Studies, vol. 26 (June), pp. 1483-1525. 
+
+
+ - 17 - 
+
+ 
+Hanson, Samuel G., and Jeremy C. Stein (2012).  “Monetary Policy and Long-Term Real 
+
+Rates,” Finance and Economics Discussion Series 2012-46.  Washington:  Board 
+of Governors of the Federal Reserve System, July, 
+www.federalreserve.gov/pubs/feds/2012/201246/201246abs.html. 
+
+ 
+Kim, Don H., and Jonathan H. Wright (2005).  “An Arbitrage-Free Three-Factor Term 
+
+Structure Model and the Recent Behavior of Long-Term Yields and Distant-
+Horizon Forward Rates,” Finance and Economics Discussion Series 2005-33.  
+Washington:  Board of Governors of the Federal Reserve System, August, 
+www.federalreserve.gov/pubs/feds/2005/200533/200533abs.html. 
+
+ 
+Kocherlakota, Narayana (2013).  “Low Real Interest Rates,” speech delivered at the 22nd 
+
+Annual Hyman P. Minsky Conference, Levy Economics Institute of Bard 
+College, Annandale-on-Hudson, N.Y., April 18, 
+www.minneapolisfed.org/news_events/pres/speech_display.cfm?id=5090. 
+
+ 
+------ (2014).  “Discussion of 2014 USMPF Monetary Policy Report,” speech delivered at 
+
+the U.S. Monetary Policy Forum, a conference sponsored by the Initiative on 
+Global Markets at the University of Chicago Booth School of Business, held in 
+New York, February 28, 
+www.minneapolisfed.org/news_events/pres/speech_display.cfm?id=5272. 
+
+ 
+Stein, Jeremy C. (2013).  “Overheating in Credit Markets:  Origins, Measurement, and 
+
+Policy Responses,” speech delivered at “Restoring Household Financial Stability 
+after the Great Recession:  Why Household Balance Sheets Matter,” a symposium 
+sponsored by the Federal Reserve Bank of St. Louis, February 7, 
+www.federalreserve.gov/newsevents/speech/stein20130207a.htm. 
+
+ 
+Tarullo, Daniel K. (2014).  “Monetary Policy and Financial Stability,” speech delivered 
+
+at the 30th Annual National Association for Business Economics Economic 
+Policy Conference, Arlington, Va., February 25, 
+www.federalreserve.gov/newsevents/speech/tarullo20140225a.htm. 
+
+ 
+Woodford, Michael (2012).  “Inflation Targeting and Financial Stability,” NBER 
+
+Working Paper Series 17967.  Cambridge, Mass.:  National Bureau of Economic 
+Research, April. 
+ 
+ 
+
+
+
+
+
+

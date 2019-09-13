@@ -18,7 +18,11 @@
     <field name="path" type="string" indexed="false" stored="true" multiValued="false" />
 
 
-    <field name="publish_date" type="date" indexed="true" stored="true" multiValued="false" />
+    <field name="release_date" type="date" indexed="true" stored="true" multiValued="false" />
+    <field name="speaker" type="string" indexed="true" stored="true" multiValued="false" />
+    <field name="event_name" type="string" indexed="true" stored="true" multiValued="false" />
+    <field name="event_location" type="string" indexed="true" stored="true" multiValued="false" />
+    <field name="document_type" type="string" indexed="true" stored="true" multiValued="false" />
 
     <!--
         Copy fields
@@ -49,11 +53,10 @@
       <analyzer>
         <tokenizer class="solr.WhitespaceTokenizerFactory"/>
         <filter class="solr.DelimitedPayloadTokenFilterFactory" encoder="identity" />
-        <!--filter class="org.osc.ocr.filter.StickPayloadFilterFactory" /-->
         <filter class="solr.LowerCaseFilterFactory" />
         <filter class="solr.WordDelimiterFilterFactory" />
         <filter class="solr.KStemFilterFactory" />
-        <!--filter class="org.osc.ocr.filter.UnstickPayloadFilterFactory" /-->
+
       </analyzer>
     </fieldType>
 

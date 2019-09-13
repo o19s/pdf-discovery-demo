@@ -2,11 +2,13 @@
 
 ## Quickstart!
 
-Just do `docker-compose up` and then browse to http://localhost:8080.  
+Just do `docker-compose up` and then browse to http://localhost:8080.
 
-Solr is running on http://localhost:8983, with a CORS version at http://localhost:8000, and PDF images are served up on https://localhost:8443.
+Solr is running on http://localhost:8983, with a CORS version at http://localhost:8000, and PDF images are served up on http://localhost:8443.
 
 You may need to do `docker-compose down -v` if you have already run the demo.
+
+Online you can access the app at http://165.22.182.252:8080/
 
 # Vue Component
 `cd` into the `pdf-viewer` directory.

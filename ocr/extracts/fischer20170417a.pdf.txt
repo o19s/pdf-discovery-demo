@@ -1,0 +1,787 @@
+
+For release on delivery 
+5:00 p.m. EDT 
+April 17, 2017 
+ 
+
+
+Monetary Policy Expectations and Surprises 
+ 
+ 
+ 
+
+Remarks by 
+ 
+
+Stanley Fischer 
+ 
+
+Vice Chairman 
+ 
+
+Board of Governors of the Federal Reserve System 
+ 
+
+at the 
+ 
+
+School of International and Public Affairs 
+Columbia University  
+
+ 
+New York, New York 
+
+
+April 17, 2017 
+ 
+
+
+
+I will address the topic of central bank communications, with a particular 
+
+emphasis on those times when financial markets and the central bank have different 
+
+expectations about what a central bank decision will be.  Such situations lead to surprises 
+
+and often to market volatility. 
+
+Of course, not all surprises are equal.  For one, communications that shift or 
+
+solidify expectations that are diffuse or not strongly held are less likely to be disruptive 
+
+than communications that run counter to strongly held market beliefs.  Further, there are 
+
+worse things than surprises.  The central bank must provide its views regarding the likely 
+
+evolution of monetary policy, even when this view is not shared by market participants.  
+
+A concern for surprising the market should not be a constraint on following or 
+
+communicating the appropriate path of monetary policy.  That said, there are good 
+
+reasons to avoid unintended surprises in the conduct of policy.1                 
+
+Why should central banks avoid surprising financial markets?  In recent decades, 
+
+it has been increasingly acknowledged that monetary policy implementation relies 
+
+importantly on the management of market expectations.2  In theory, clarity about the 
+
+central bank’s reaction function--that is, how the central bank adjusts the stance of 
+
+monetary policy in response to changing economic conditions--allows the market to alter 
+
+financial conditions smoothly.  This typically helps meet the bank’s policy targets, with 
+
+the result that the markets are working in alignment with the policymaker’s goals.  Under 
+
+                                                 
+1 I am grateful to Joseph Gruber and Don Kim of the Federal Reserve Board for their assistance.  The views 
+expressed are mine and not necessarily those of the Federal Reserve Board or the Federal Open Market 
+Committee. 
+2 Bernanke (2004, 2013a) and Woodford (2005) underscore how central bank efforts to shape market 
+expectations can enhance policy effectiveness.  The critical role of market expectations in determining asset 
+prices and reactions to policy changes has long been recognized; it is the explicit recognition of this link in 
+formal models and the analysis of policy that is the recent major achievement. 
+
+
+ - 2 - 
+
+this theory, repeated market surprises that raise questions about the central bank’s 
+
+reaction function could threaten to disrupt the relationship between the central bank and 
+
+the markets, making the central bank’s job more difficult in the future.3 
+
+How can the Fed avoid surprising markets?  Clear communication of the Federal 
+
+Open Market Committee’s (FOMC’s) views on the economic outlook and the likely 
+
+evolution of policy is essential in managing the market’s expectations.  The Committee 
+
+has a number of communication outlets, including the policy statement, the Chair’s news 
+
+conference, and the Summary of Economic Projections (SEP).  The SEP in particular has 
+
+been useful in providing information on policymakers’ assessments of the potential 
+
+growth rate of the economy and r*, the equilibrium real interest rate, both of which help 
+
+guide the market’s expectations of the eventual path of policy. 
+
+However, avoiding unintended market reactions has not always been easy.  The 
+
+example that immediately comes to mind is the taper tantrum of mid-2013.  To recap, 
+
+over the course of May and June in 2013, the yield on 10-year Treasury securities 
+
+increased almost 1 percentage point amid increased market discussion of the eventual 
+
+tapering of Fed asset purchases and some key communications on the topic (figure 1).4  
+
+In particular, the 10-year yield rose about 10 basis points after then Chairman Bernanke 
+
+discussed tapering in public for the first time during the question-and-answer session of 
+
+his Joint Economic Committee testimony on May 22, commenting that the FOMC could 
+
+                                                 
+3 Historically, there have been times when central banks have preferred to surprise markets--most notably, 
+when changing the value of exchange rate pegs during the era of fixed exchanges.  Indicating that a change 
+in the peg was coming would invite an immediate run on the currency, at a significant cost to the central 
+bank’s foreign reserves--even in economies with extensive capital controls.     
+4 Also notably, Eurodollar futures rates and OIS (overnight index swap) forward rates for intermediate 
+horizons rose sharply, likely in part because some investors who were surprised by the tapering news also 
+revised their expectations about the path of the policy rate. 
+
+
+ - 3 - 
+
+reduce the pace of purchases “in the next few meetings” if it saw continued improvement 
+
+in the labor market that it was confident would be sustained.5  Yields rose even more 
+
+sharply after the June FOMC meeting, when, during his postmeeting press conference, 
+
+Chairman Bernanke noted that if the economy evolved as expected, the FOMC 
+
+anticipated reducing the pace of purchases in the latter part of 2013 and halting purchases 
+
+altogether by the middle of 2014.6         
+
+Information gathering is an important part of managing market expectations--for 
+
+the simple reason that you do not know if you are going to surprise the market unless you 
+
+have a good estimate of what the market is expecting.  A remarkable feature of the taper 
+
+tantrum is that it was a surprise that should not have been a surprise, at least from the 
+
+perspective of the information the FOMC had at the time.  
+
+In assessing market expectations for policy, the FOMC reviews a variety of 
+
+market indicators and also draws heavily on the Federal Reserve Bank of New York’s 
+
+Survey of Primary Dealers, whose respondents are the market makers in government 
+
+securities and the New York Fed’s trading counterparties.  This survey, conducted about 
+
+one week prior to each FOMC meeting, gauges primary dealers’ expectations about the 
+
+economy, monetary policy, and financial market developments.7   
+
+In the June 2013 primary dealer survey, the median expectation was for tapering 
+
+to start in December 2013, with purchases ending in June 2014, a path not significantly 
+
+different from that laid out by Chairman Bernanke in his postmeeting press conference.  
+
+                                                 
+5 See Bernanke (2013b), p. 11.   
+6 See Bernanke (2013c). 
+7 The responses to the survey are received by the Federal Reserve Bank of New York’s Markets Group 
+typically by the penultimate Monday before the FOMC meeting.  At the time of the taper tantrum, there 
+were 21 primary dealer participants.  Currently, there are 23 primary dealers.  Past survey results can be 
+found on the Federal Reserve Bank of New York’s website at 
+https://www.newyorkfed.org/markets/primarydealer_survey_questions.html. 
+
+
+ - 4 - 
+
+Thus, one could view Chairman Bernanke’s remarks during his June 2013 press 
+
+conference as consistent with “market expectations.” 
+
+Why did markets react so sharply to the apparent confirmation of the median 
+
+expectation?  One simple possibility is that the median expectation of the primary dealers 
+
+was not reflective of the median expectation of a wider range of market participants.  
+
+Respondents to the primary dealer survey are more likely to be Fed watchers and 
+
+therefore more likely in tune with Fed thinking than the average market participant.  For 
+
+example, as seen in figure 2, a comparison of the June 2013 primary dealer survey with 
+
+the contemporaneous Blue Chip Economic Indicators survey, which draws from a wider 
+
+sample of forecasters, reveals that Blue Chip respondents were more likely to expect a 
+
+later start of tapering and thus more likely to have been surprised by Chairman 
+
+Bernanke’s communications.   
+
+In a related argument, former Federal Reserve Board Governor Jeremy Stein gave 
+
+an insightful speech in May 2014 addressing how diversity in market expectations could 
+
+have contributed to the taper tantrum.8  Jeremy pointed out that it is unhelpful to view the 
+
+“market” as a single individual, a theme that has been explored by Hyun Song Shin of the 
+
+Bank for International Settlements.9  Rather, the market is a collection of agents that can 
+
+have widely divergent but perhaps strongly held beliefs at the individual level.  Jeremy 
+
+attributes the taper tantrum to the existence of highly leveraged quantitative easing 
+
+optimists--in other words, individuals who expected the Federal Reserve to continue to 
+
+accumulate assets much longer than the median expectation and who put little weight on 
+
+                                                 
+8 See Stein (2014). 
+9 For a recent example, see Shin (2017).  Shin suggests using caution when extrapolating “market” 
+expectations from movements in asset prices, pointing to examples where technical factors likely 
+complicate the interaction of market participants’ actions relative to their expectations.  
+
+
+ - 5 - 
+
+the median market expectation.  Once Chairman Bernanke affirmed the median 
+
+expectation, these optimists had to quickly unwind their trades, with consequent sharp 
+
+movements in asset prices.     
+
+Where does that leave us?  The problem, to quote Jeremy at length, “is that in 
+
+some circumstances there are very real limits to what even the most careful and deliberate 
+
+communications strategy can do to temper market volatility.  This is just the nature of the 
+
+beast when dealing with speculative markets, and to suggest otherwise--to suggest that, 
+
+say, ‘good communication’ alone can engineer a completely smooth exit from a period of 
+
+extraordinary policy accommodation--is to create an unrealistic expectation.”10   
+
+Jeremy was speaking about ending the accumulation of assets onto the Fed’s 
+
+balance sheet.  As reported in the minutes for the March 2017 meeting, the FOMC is now 
+
+discussing a different inflection point, the phasing out of reinvestment and the shrinking 
+
+of the balance sheet.11  Question:  How concerned should we be about a repeat of the 
+
+taper tantrum as we move through this new inflection point?   
+
+We should start answering such a question by recognizing that there is always a 
+
+chance of some market volatility.  Nonetheless, we need to take into account that the 
+
+New York Fed’s Open Market Desk enhanced its information-gathering efforts after and, 
+
+in part, as a response to the experience of the taper tantrum along two important 
+
+dimensions.  First, in 2014, the Desk augmented its Survey of Primary Dealers with a 
+
+Survey of Market Participants, going some way to addressing concerns that primary 
+
+dealers alone were not providing sufficient coverage of market beliefs.12  Second, more 
+
+                                                 
+10 See Stein (2014), paragraph 12. 
+11 See Board of Governors (2017). 
+12 Past market participant surveys can be found on the Federal Reserve Bank of New York’s website at 
+https://www.newyorkfed.org/markets/survey_market_participants.html. 
+
+
+ - 6 - 
+
+recently, questions have been added to the surveys to identify uncertainty about 
+
+reinvestment policy for each individual survey respondent and not just the dispersion of 
+
+beliefs about the expected change across respondents. 
+
+Starting with the market participant survey, as I noted earlier, one informational 
+
+constraint that complicated the Fed’s understanding of market dynamics around the taper 
+
+tantrum was the possible divergence of beliefs between the primary dealers, who were 
+
+surveyed, and the market at large.  The differences between the expectations of the 
+
+primary dealers and those of the panel for the Blue Chip Economic Indicators, shown in 
+
+figure 2, provide some support for the view that the primary dealers’ views may well 
+
+have differed from those of a wider range of market participants, but it would have been 
+
+preferable to have a poll of market participants rather than forecasters.  Not long after the 
+
+taper tantrum, in January 2014, the Desk began its separate Survey of Market 
+
+Participants.  The survey panel currently consists of 30 so-called buy-side firms, 
+
+including hedge funds and asset managers.     
+
+Turning now to measures of individual uncertainty, in the April 2013 primary 
+
+dealer survey, just prior to the taper tantrum, dealers were mostly questioned on their 
+
+point estimates regarding the timing and conditions under which tapering would 
+
+commence.  Respondents were asked to provide their expectation for the monthly pace of 
+
+asset purchases after each of several upcoming policy meetings.  They were also asked to 
+
+provide point estimates, or estimates of single particular values, for the quarter and year 
+
+during which they expected asset purchases in Treasury and agency mortgage-backed 
+
+securities to be completed.  While these questions did provide some notion of the 
+
+variation in beliefs across respondents, they did not provide much information on how 
+
+
+ - 7 - 
+
+strongly these beliefs were held by the individual respondents, nor on the extent to which 
+
+their individual beliefs might have been reflected in the size of their market positions and, 
+
+in particular, the amount of leverage underlying those positions.13        
+
+In contrast, the most recent primary dealer and market participant surveys, 
+
+conducted prior to the March 2017 FOMC meeting, asked survey participants to indicate 
+
+their view of their own uncertainty over several different aspects of policy.  For example, 
+
+in addition to their point estimates, participants were asked to indicate the percent chance 
+
+they assigned to the federal funds rate being at various levels when the FOMC first 
+
+announces a change to the reinvestment policy.  They were also asked to assign 
+
+probabilities to different dates for the first announced change in reinvestment policy.   
+
+Why is this information important?  To go back to Jeremy Stein’s argument about 
+
+the taper tantrum, Jeremy pointed out that market participants’ expectations for tapering 
+
+varied widely, but he conjectured that some of the participants were very certain in their 
+
+expectations and that it was primarily their reaction that fueled the taper tantrum.  When 
+
+the surveys reported only point estimates, we had a measure of dispersion across market 
+
+participants, but we were in the dark on how firmly held these beliefs were.  By asking 
+
+participants to provide a distribution of outcomes, we also obtained a measure of how 
+
+certain they are of a particular outcome.   
+
+To highlight some results from the March 2017 surveys, as shown in figure 3, the 
+
+primary dealers’ median projection for the level of the target federal funds rate when the 
+
+FOMC first announces a change in its reinvestment policy was reported to be 
+
+                                                 
+13 Participants in the April 2013 survey were asked for their probability distribution across the total 
+holdings of the System Open Market Account portfolio at year-end 2013 and year-end 2014, providing 
+some, though incomplete, indication of the extent of uncertainty among market participants.   
+
+
+ - 8 - 
+
+1.63 percent.  The 25th percentile of the distribution across respondents was 1.38 percent, 
+
+and the 75th percentile was 1.88 percent, suggesting a fairly tight range around the 
+
+median expectation.  The reported range was even tighter for the market participants 
+
+around a median projection of 1.63 percent.      
+
+However, it would be a mistake to infer from the narrowness of these ranges a 
+
+firmness in expectations.  As shown in figure 4, when respondents of each survey were 
+
+asked to indicate the percent chance assigned to different fed funds target levels when the 
+
+change in policy is announced, the average of all of their reported distributions was wide 
+
+and flat.  The primary dealer survey places roughly equal weight on rates between 1.26 
+
+and 2.00 percent.  In the underlying nonpublic data for the individual responses, the 
+
+reported distributions were somewhat narrower but still reflected significant uncertainty, 
+
+with no primary dealer placing more than 50 percent probability on any particular target 
+
+range.  Like the dealers, the market participants also report wide individual distributions 
+
+of beliefs.        
+
+Likewise, when primary dealers were asked about the timing of the announced 
+
+change in reinvestment policy, the average of their responses was a relatively flat 
+
+distribution of possible dates, with almost equal probability on the announcement 
+
+occurring in the fourth quarter of 2017, the first two quarters of 2018, or the second half 
+
+of 2018 (figure 5).  Again, the individual distributions were narrower but still showed a 
+
+significant amount of uncertainty.  Highlighting the usefulness of also surveying market 
+
+participants, expectations in the market survey are distinctly shifted toward an early 
+
+announcement date relative to the expectations of the primary dealers.   
+
+
+
+
+ - 9 - 
+
+The surveys reveal that while beliefs are dispersed across participants, 
+
+importantly individual survey participants are also significantly uncertain--in other 
+
+words, any given participant does not appear to have firmly decided on the likely path of 
+
+policy.  The general point is that while we often measure and report differences in views 
+
+across individuals, the uncertainty that individuals feel internally is also relevant.  Recent 
+
+survey results that show that market participants assign a positive probability to a wide 
+
+range of outcomes also suggest that the factors that exacerbated the taper tantrum--
+
+dispersed but firmly held beliefs--may be less pronounced in current circumstances than 
+
+they were at the time of the taper tantrum.      
+
+The market reaction to the release of the minutes of the March 2017 FOMC 
+
+meeting supports this interpretation of the interaction of uncertainty and Fed policy 
+
+communications.  The minutes reported that, “provided that the economy continued to 
+
+perform about as expected, most participants anticipated that gradual increases in the 
+
+federal funds rate would continue and judged that a change to the Committee’s 
+
+reinvestment policy would likely be appropriate later this year.”14  As was shown in 
+
+figure 5, in the March 2017 surveys, respondents placed the most weight, 71 percent for 
+
+the primary dealers and 57 percent for the market participants, on an announced change 
+
+in reinvestment policy not occurring until 2018 at the earliest.  Presumably, the April 
+
+survey will reveal a shift in these distributions.   
+
+It is noteworthy, however, that even though the statement in the minutes of the 
+
+March FOMC meeting regarding Committee members’ expectations for announcing 
+
+changes in the reinvestment policy was not aligned with market expectations, there was 
+
+                                                 
+14 See Board of Governors (2017), p. 3. 
+
+
+ - 10 - 
+
+only a muted market reaction.15  Perhaps in part, that is because the market participant 
+
+survey actually revealed a considerable amount of weight, though not the majority, on an 
+
+announcement occurring this year.  Or it is also possible that the diffuse expectations on 
+
+timing prior to the release of the minutes were a factor in tamping down market volatility 
+
+as market participants adjust their expectations.16   
+
+My tentative conclusion from market responses to the limited amount of 
+
+discussion of the process of reducing the size of our balance sheet that has taken place so 
+
+far is that we appear less likely to face major market disturbances now than we did in the 
+
+case of the taper tantrum.  But, of course, as we continue to discuss and eventually 
+
+implement policies to reduce our balance sheet, we will have to continue to monitor 
+
+market developments and expectations carefully.  
+
+I would like to conclude by briefly discussing two issues.  First, a question:  Can 
+
+the Fed be too predictable?  And, second, I will add a short comment on the SEP, the 
+
+quarterly Summary of Economic Projections of the participants in the FOMC.   
+
+With regard to whether the Fed can be too predictable, it is hard to argue that 
+
+predictability in our reaction to economic data could be anything but positive.  To 
+
+reference the beginning of my talk, clarity about the Fed’s reaction function allows 
+
+markets to anticipate Fed actions and smoothly adjust along with the path of policy.   
+
+But there is a circumstance where it might be reasonable to argue that the Fed 
+
+could be too predictable--in particular, if the path of policy is not appropriately 
+
+                                                 
+15 The immediate reaction in yields was a slight rise, but the action quickly reversed, and yields ended the 
+afternoon down 3 to 4 basis points.  
+16 Of note, Federal Reserve Bank of New York President William Dudley’s comments on March 31, 
+mentioning “sometime later this year or sometime in 2018” (as quoted in Spicer (2017), paragraph 2)) for 
+the timing of a reinvestment policy change, may also have been a factor behind the muted market reaction 
+to the March FOMC minutes. 
+
+
+ - 11 - 
+
+responsive to the incoming economic data and the implications for the economic outlook.   
+
+Standard monetary policy rules suggest that the policy rate should respond to the level of 
+
+economic variables such as the output gap and the inflation rate.  As unexpected shocks 
+
+hit the economy, the target level of the federal funds rate should adjust in response to 
+
+those shocks as the FOMC adjusts the stance of policy to achieve its objectives.  Indeed, 
+
+it is these unexpected economic shocks that give rise to the range of uncertainty around 
+
+the median federal funds rate projection of FOMC participants, represented through fan 
+
+charts, which was recently incorporated into the SEP.  The Federal Reserve could be too 
+
+predictable if this type of fundamental uncertainty about the economy does not show 
+
+through to uncertainty about the monetary policy path, which could imply that the 
+
+Federal Reserve was not being sufficiently responsive to incoming data bearing on the 
+
+economic outlook. 
+
+Let me conclude with a few words on the SEP results as portrayed in the dot 
+
+plots.  The SEP is a highly useful vehicle for providing information to market participants 
+
+and others for whom Fed actions are important.  But we need to remind ourselves that the 
+
+SEP data for an individual show that person’s judgment of the appropriate path of future 
+
+fed funds rates and the corresponding paths of other variables for which the SEP includes 
+
+forecasts. 
+
+Thus, one may say that the SEP shows the basis from which each participant in 
+
+the FOMC discussion is likely to start.  But the task of moving from that information to 
+
+an interest rate decision is not simple and requires a great deal of analysis and back-and-
+
+forth among FOMC participants at each meeting. 
+
+
+
+
+ - 12 - 
+
+References 
+
+Bernanke, Ben S. (2004).  “The Logic of Monetary Policy,” speech delivered at the 
+National Economists Club, Washington, December 2, 
+https://www.federalreserve.gov/boarddocs/speeches/2004/20041202/default.htm. 
+
+  
+-------- (2013a).  “Communication and Monetary Policy,” speech delivered at the 
+
+National Economists Club Annual Dinner, Herbert Stein Memorial Lecture, 
+Washington, November 19, 
+https://www.federalreserve.gov/newsevents/speech/bernanke20131119a.htm. 
+
+ 
+-------- (2013b).  “Statement of Hon. Ben Bernanke, Chairman of the Board of Governors 
+
+of the Federal Reserve System, Washington, DC,” in The Economic Outlook, 
+hearing before the Joint Economic Committee, Congress of the United States, 
+May 22, Senate Hearing 113-62, 113 Cong.  Washington:  Government Printing 
+Office, https://www.gpo.gov/fdsys/pkg/CHRG-113shrg81472/pdf/CHRG-
+113shrg81472.pdf. 
+
+ 
+-------- (2013c).  “Transcript of Chairman Bernanke’s Press Conference,” June 19, 
+
+https://www.federalreserve.gov/mediacenter/files/fomcpresconf20130619.pdf. 
+ 
+Board of Governors of the Federal Reserve System (2017).  “Minutes of the Federal Open 
+
+Market Committee, March 14-15, 2017,” press release, April 5, 
+https://www.federalreserve.gov/newsevents/pressreleases/monetary20170405a.htm. 
+
+ 
+Shin, Hyun Song (2017).  “How Much Should We Read into Shifts in Long-Dated 
+
+Yields?” speech delivered at the U.S. Monetary Policy Forum, New York, 
+March 3, https://www.bis.org/speeches/sp170303.htm. 
+
+ 
+Spicer, Jonathan (2017).  “Fed Could Promptly Begin Shedding Bonds This Year:  
+
+Dudley,” U.S. News, March 31, 
+http://money.usnews.com/investing/news/articles/2017-03-31/fed-could-begin-
+trimming-bond-portfolio-this-year-dudley. 
+
+ 
+Stein, Jeremy C. (2014).  “Challenges for Monetary Policy Communication,” speech 
+
+delivered at the Money Marketeers of New York University, New York, May 6, 
+https://www.federalreserve.gov/newsevents/speech/stein20140506a.htm. 
+
+ 
+Woodford, Michael (2005).  “Central Bank Communication and Policy Effectiveness,” in 
+
+The Greenspan Era:  Lessons for the Future, proceedings of a symposium 
+sponsored by the Federal Reserve Bank of Kansas City, held in Jackson Hole, 
+Wyo., Aug. 25-27.  Kansas City, Mo.:  Federal Reserve Bank of Kansas City, 
+pp. 399-474, 
+https://www.kansascityfed.org/publicat/sympos/2005/pdf/Woodford2005.pdf. 
+
+
+
+
+Monetary Policy Expectations and Surprises
+
+Remarks by
+
+Vice Chairman Stanley Fischer 
+Board of Governors of the Federal Reserve System
+
+at the
+School of International and Public Affairs
+
+Columbia University
+April 17, 2017
+
+
+Figure 1:  10-Year Treasury Yields during the “Taper Tantrum”
+
+
+Figure 2:  Primary Dealer vs. Blue Chip Surveys
+
+
+Figure 3:  March 2017 Primary Dealer Survey and Market Participant Survey
+
+Market Participants:Primary Dealers:
+Level of the Target Fed 
+Funds Rate/Range
+
+25th Percentile 1.38%
+
+Median 1.63%
+
+75th Percentile 1.88%
+
+Level of the Target Fed 
+Funds Rate/Range
+
+25th Percentile 1.38%
+
+Median 1.63%
+
+75th Percentile 1.63%
+
+Source: Federal Reserve Bank of New York, Survey of Primary Dealers (https://www.newyorkfed.org/markets/primarydealer_survey_questions.html)
+and Survey of Market Participants (https://www.newyorkfed.org/markets/survey_market_participants.html).
+
+Note:  Survey responses received by March 6, 2017.  FOMC is Federal Open Market Committee. March FOMC meeting took place on March 14–15, 2017.
+
+Point estimate for the most likely outcome of the level of the target federal funds rate or 
+range when the FOMC first announces a change to its reinvestment policy:
+
+
+Primary Dealers:
+
+Market Participants:
+
+≤ 0.75% 0.76 -
+1.00%
+
+1.01 –
+1.25%
+
+1.26 –
+1.50%
+
+1.51 –
+1.75%
+
+1.76 –
+2.00%
+
+≥ 2.01%
+
+Average 0% 2% 13% 25% 28% 20% 12%
+
+Source: Federal Reserve Bank of New York, Survey of Primary Dealers (https://www.newyorkfed.org/markets/primarydealer_survey_questions.html)
+and Survey of Market Participants (https://www.newyorkfed.org/markets/survey_market_participants.html).
+
+Note:  Survey responses received by March 6, 2017.  FOMC is Federal Open Market Committee. March FOMC meeting took place on March 14–15, 2017.
+
+Percent chance you attach to the following outcomes for the level of the target fed funds rate
+or range when the FOMC first announces a change in its reinvestment policy:
+
+Figure 4:  March 2017 Primary Dealer Survey and Market Participant Survey
+
+≤ 0.75% 0.76 -
+1.00%
+
+1.01 –
+1.25%
+
+1.26 –
+1.50%
+
+1.51 –
+1.75%
+
+1.76 –
+2.00%
+
+≥ 2.01%
+
+Average 0% 2% 12% 28% 32% 15% 11%
+
+
+Indicate the percent chance you attach to the following possible outcomes for the timing of when the
+FOMC first announces a change in its reinvestment policy:
+
+Mar. 14-
+15 FOMC 
+Meeting
+
+Q2 2017 Q3 2017 Q4 2017 Q1 2018 Q2 2018 H2 2018 ≥ 2019
+
+Average 0% 3% 8% 17% 21% 18% 19% 13%
+
+Note:  Survey responses received by March 6, 2017.  FOMC is Federal Open Market Committee.  March FOMC meeting took place on March 14–15, 2017.
+
+Mar. 14-
+15 FOMC 
+Meeting
+
+Q2 2017 Q3 2017 Q4 2017 Q1 2018 Q2 2018 H2 2018 ≥ 2019
+
+Average 1% 4% 11% 27% 21% 17% 10% 9%
+
+Source: Federal Reserve Bank of New York, Survey of Primary Dealers (https://www.newyorkfed.org/markets/primarydealer_survey_questions.html)
+and Survey of Market Participants (https://www.newyorkfed.org/markets/survey_market_participants.html).
+
+Primary Dealers:
+
+Market Participants:
+
+Figure 5:  March 2017 Primary Dealer Survey and Market Participant Survey
+

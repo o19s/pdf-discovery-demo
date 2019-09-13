@@ -18,8 +18,8 @@ if(![System.IO.File]::Exists($extract_file)){
 
   Write-Host "About to Tika Extract PDF file " + $pdf_file
 
-  #$result = curl -T $pdf_file http://pdf-discovery-demo.dev.o19s.com:9998/rmeta --header "X-Tika-OCRLanguage: eng" --header "X-Tika-PDFOcrStrategy: ocr_only" --header "X-Tika-OCRoutputType: hocr"
-  $result = java -cp ./tika-properties:tika-app-1.22.jar org.apache.tika.cli.TikaCLI --xmp --jsonRecursive --extract --pretty-print -x $pdf_file
+  $result = curl -T $pdf_file http://pdf-discovery-demo.dev.o19s.com:9998/rmeta --header "X-Tika-OCRLanguage: eng" --header "X-Tika-PDFOcrStrategy: ocr_and_text_extraction" --header "X-Tika-OCRoutputType: hocr"
+  #$result = java -cp ./tika-properties:tika-app-1.22.jar org.apache.tika.cli.TikaCLI --xmp --jsonRecursive --extract --pretty-print -x $pdf_file
 
   Set-Content -Path $extract_file -Value $result
   Write-Host "Done with extract, now converting"
@@ -32,7 +32,17 @@ $json = (Get-Content $extract_file -Raw) | ConvertFrom-Json
 
 if ($json -eq $null){
   Write-Host "Badly formatted JSON file $extract_file"
-  return
+  Write-Host "Pending fix of TIKA-2931, need to scrub output of lines starting with text Extracting"
+
+  $raw = (Get-Content $extract_file -Raw)
+
+  $json_starts_index = $raw.IndexOf('[')
+
+  $raw = $raw.Substring($json_starts_index)
+
+  #$extract_file =$extract_file + ".cleaned"
+  Set-Content -Path $extract_file -Value $raw
+  $json = (Get-Content $extract_file -Raw) | ConvertFrom-Json
 }
 
 
@@ -44,7 +54,6 @@ $nsmgr.AddNamespace('x','http://www.w3.org/1999/xhtml')
 
 $pages = $tika_content.SelectNodes("//x:div[@class='page']",$nsmgr)
 
-$content_encoded = $pages[0].p
 #Write-Host $content_encoded
 
 $page = $pages[0]
