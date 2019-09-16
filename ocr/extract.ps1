@@ -12,37 +12,43 @@ $outputFile = Split-Path $pdf_file -leaf
 
 Write-Host "Processing $outputFile"
 
-$extract_file = "./extracts/" + $outputFile + ".json"
+$extract_file_json = "./extracts/" + $outputFile + ".json"
 
-if(![System.IO.File]::Exists($extract_file)){
+$extract_file_json = Resolve-Path $extract_file_json
 
-  Write-Host "About to Tika Extract PDF file " + $pdf_file
+#Write-Host "The extract file is $extract_file_json"
+
+if(![System.IO.File]::Exists($extract_file_json)){
+
+  # Recreate it
+  $extract_file_json = "./extracts/" + $outputFile + ".json"
+  Write-Host "About to Tika Extract PDF file $pdf_file"
 
   $result = curl -T $pdf_file http://pdf-discovery-demo.dev.o19s.com:9998/rmeta --header "X-Tika-OCRLanguage: eng" --header "X-Tika-PDFOcrStrategy: ocr_and_text_extraction" --header "X-Tika-OCRoutputType: hocr"
   #$result = java -cp ./tika-properties:tika-app-1.22.jar org.apache.tika.cli.TikaCLI --xmp --jsonRecursive --extract --pretty-print -x $pdf_file
 
-  Set-Content -Path $extract_file -Value $result
+  Set-Content -Path $extract_file_json -Value $result
   Write-Host "Done with extract, now converting"
 
 }
 
 
 
-$json = (Get-Content $extract_file -Raw) | ConvertFrom-Json
+$json = (Get-Content $extract_file_json -Raw) | ConvertFrom-Json
 
 if ($json -eq $null){
-  Write-Host "Badly formatted JSON file $extract_file"
+  Write-Host "Badly formatted JSON file $extract_file_json"
   Write-Host "Pending fix of TIKA-2931, need to scrub output of lines starting with text Extracting"
 
-  $raw = (Get-Content $extract_file -Raw)
+  $raw = (Get-Content $extract_file_json -Raw)
 
   $json_starts_index = $raw.IndexOf('[')
 
   $raw = $raw.Substring($json_starts_index)
 
-  #$extract_file =$extract_file + ".cleaned"
-  Set-Content -Path $extract_file -Value $raw
-  $json = (Get-Content $extract_file -Raw) | ConvertFrom-Json
+  #$extract_file_json =$extract_file_json + ".cleaned"
+  Set-Content -Path $extract_file_json -Value $raw
+  $json = (Get-Content $extract_file_json -Raw) | ConvertFrom-Json
 }
 
 
@@ -52,41 +58,39 @@ Write-Host "Done with Result"
 $nsmgr = New-Object System.XML.XmlNamespaceManager($tika_content.NameTable)
 $nsmgr.AddNamespace('x','http://www.w3.org/1999/xhtml')
 
+
+
 $pages = $tika_content.SelectNodes("//x:div[@class='page']",$nsmgr)
 
-#Write-Host $content_encoded
+$page_number = 0
+foreach ($page in $pages){
+  $page_number++
+  $hocr_output = ""
+  $extract_file_text = "./extracts/" + $outputFile + "_" + $page_number + ".txt"
+  $extract_file_hocr = "./extracts/" + $outputFile + "_" + $page_number + ".hocr"
 
-$page = $pages[0]
+  $page_xml = $page.innerxml
+  $page_xml = "<xhtml>$page_xml</xhtml>"
+  $page_xml = [xml]$page_xml
 
+  $nsmgr = New-Object System.XML.XmlNamespaceManager($page_xml.NameTable)
+  $nsmgr.AddNamespace('x','http://www.w3.org/1999/xhtml')
 
-$words = $tika_content.SelectNodes("//x:span[@class='ocrx_word']",$nsmgr)
+  $words = $page_xml.SelectNodes("//x:span[@class='ocrx_word']",$nsmgr)
+  foreach ($word in $words) {
 
-$hocr_output = ''
+    $split = $word.title.split(";")
+    $payload = $split[0].Replace("bbox ","")
+    $payload = "$page_number $payload"
+    #Write-Host $payload
 
-# We keep the full formatting, and then base 64 encode it as the payload.
-# String payload = "bbox 504 543 626 581; x_wconf 93";
-# We need to also track what page the word is on.  Each word has a id, and if it's word_1_1,
-# that marks a new page.
-$page_counter = 0
-foreach ($word in $words) {
-  if ($word.id -eq 'word_1_1'){
-    $page_counter++
+    $payload=[Convert]::ToBase64String([System.Text.Encoding]::ASCII.GetBytes($payload))
+
+    $hocr_output = $hocr_output + $word.InnerText + "|" + $payload + " "
   }
-  # Can't turn on the page counter yet!
-  $split = $word.title.split(";")
-  $payload = $split[0].Replace("bbox ","")
-  $payload = "$page_counter $payload"
-  #Write-Host $payload
 
-  $payload=[Convert]::ToBase64String([System.Text.Encoding]::ASCII.GetBytes($payload))
+  Set-Content -Path $extract_file_text -Value $page.p
+  Set-Content -Path $extract_file_hocr -Value $hocr_output
 
-  $hocr_output = $hocr_output + $word.InnerText + "|" + $payload + " "
+
 }
-
-$extract_file = "./extracts/" + $outputFile + ".hocr"
-
-Set-Content -Path $extract_file -Value $hocr_output
-
-$extract_file = "./extracts/" + $outputFile + ".txt"
-
-Set-Content -Path $extract_file -Value $pages.p
