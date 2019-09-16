@@ -1,0 +1,52 @@
+
+ - 3 - 
+
+by the ABCP vehicles withdrew funding starting in the late summer of 2007.  The 
+
+volume of assets in the vehicles was large, about $700 billion, and after the run, the 
+
+ability of the financial system to fund credit through many types of asset-backed 
+
+securities became constrained.3  The runs on ABCP also put considerable pressure on the 
+
+banking system because of the liquidity backstops that banks had provided to the 
+
+vehicles.4   
+
+Some of the guarantors also insured mortgage-backed securities, and when doubts 
+
+arose about the ability of the guarantors to pay claims on mortgage-backed securities, the 
+
+credibility of their guarantees of municipal securities was also reduced.  Municipalities 
+
+then found it more difficult and costly to issue debt even though their activities were 
+
+otherwise unrelated to subprime mortgages.5   
+
+Next, the crisis spread to nonbank finance companies, which made a substantial 
+
+fraction of consumer loans in the United States--for example, auto and credit card loans.  
+
+As the crisis went on, the ability of such lenders to fund themselves through 
+
+securitizations and commercial paper became increasingly constrained.  For a period after 
+
+the failure of Lehman Brothers, many investors were unwilling to buy commercial paper 
+
+and asset-backed securities at any price, and, as a result, finance companies faced tight 
+
+3 See Daniel Covitz, Nellie Liang, and Gustavo Suarez (2013), “The Evolution of a Financial Crisis:  
+Collapse of the Asset-Backed Commercial Paper Market,” Journal of Finance, vol. 68 (June), pp. 815-48. 
+4 Runs on the repurchase agreement (repo) funding of asset-backed securities were also troublesome for 
+both banks and nonbanks.  See Gary Gorton and Andrew Metrick (2012), “Securitized Banking and the 
+Run on Repo,” Journal of Financial Economics, vol. 104 (June), pp. 425-51. 
+5 Moreover, state and municipal borrowers had been issuing long-term debt while paying short-term 
+interest rates by using structures such as variable-rate demand notes (VRDNs), which gave holders the right 
+to put the securities back to liquidity providers on short notice.  When the money market fund investors that 
+held VRDNs became worried about their ability to get their money out at short notice, the volume of 
+putbacks rose, and these developments ultimately led to increased payment obligations for some 
+municipalities.   
+ 
+
+
+

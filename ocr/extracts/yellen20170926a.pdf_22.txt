@@ -1,0 +1,51 @@
+
+ - 21 - 
+
+particular factor.  Importantly, the simulations are all dynamic in that the lagged inflation 
+
+term in the core inflation equation is set equal to its simulated value in the preceding 
+
+period rather than its actual value.  As a result, the decompositions incorporate the effects 
+
+of changes in lagged inflation that are attributable to previous movements in the 
+
+explanatory variables. 
+
+ECI Growth Equation 
+
+The estimated equation for the employment cost index (ECI) is: 
+
+𝜋𝜋𝑡𝑡𝑤𝑤 = −0.72 + .58𝜋𝜋𝑡𝑡−1𝑒𝑒 + .10𝜋𝜋𝑡𝑡−1𝑤𝑤 + .12𝜋𝜋𝑡𝑡−2𝑤𝑤 + .10𝜋𝜋𝑡𝑡−3𝑤𝑤 + .11𝜋𝜋𝑡𝑡−4𝑤𝑤 − .19𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑡𝑡 −
+
+.57∆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑡𝑡 + .58𝑅𝑅𝑆𝑆_𝑅𝑅𝑅𝑅𝑃𝑃𝑃𝑃𝑡𝑡 + 𝜀𝜀𝑡𝑡, 
+
+where 𝜋𝜋𝑡𝑡𝑤𝑤 is the annualized log difference of the ECI for hourly compensation of private 
+
+industry workers, 𝜋𝜋𝑡𝑡𝑒𝑒 and 𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑡𝑡 have the same definition as the corresponding variables 
+
+from the PCE price inflation model, ∆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑡𝑡 denotes the first difference of 𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑡𝑡, 
+
+𝑅𝑅𝑆𝑆_𝑅𝑅𝑅𝑅𝑃𝑃𝑃𝑃𝑡𝑡  is a moving average of an estimate of trend productivity growth for the 
+
+business sector, and 𝜀𝜀𝑡𝑡 is an error term.33  The coefficients are obtained from a restricted 
+
+least squares regression using quarterly data from 1988:Q1 to 2017:Q2.34  Trend 
+
+productivity growth is estimated as the low-frequency component of the annualized log 
+
+difference of business-sector output per hour from the Bureau of Labor Statistics 
+
+Productivity and Costs report.35  The moving average of trend productivity growth 
+
+                                                 
+33 The ECI series used here is obtained from a ratio splice of the SIC- and NAICS-based indexes; the SIC-
+based index is used before 2001 and the NAICS-based index used thereafter.  (All data used in the model 
+were current as of September 1, 2017.)   
+34 The estimation procedure imposes the joint restriction that the sum of the coefficients on 𝜋𝜋𝑡𝑡−1𝑒𝑒  and the 
+lagged ECI growth terms are equal to 1, and that the coefficients on 𝜋𝜋𝑡𝑡−1𝑒𝑒  and 𝑅𝑅𝑆𝑆_𝑅𝑅𝑅𝑅𝑃𝑃𝑃𝑃𝑡𝑡 are equal.  This 
+joint restriction receives a p value of 0.57.  
+35 The low-pass component is obtained from a band-pass filter.  The filter width and cutoffs are set equal to 
+the values used in Douglas Staiger, James Stock, and Mark Watson (2001), “Prices, Wages, and the U.S. 
+NAIRU in the 1990s,” in Alan Krueger and Robert Solow, eds., The Roaring Nineties:  Can Full 
+Employment Be Sustained? (New York:  Russell Sage Foundation and Century Foundation Press), pp. 3-60.  
+

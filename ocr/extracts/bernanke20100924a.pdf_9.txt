@@ -1,0 +1,55 @@
+
+-8- 
+ 
+
+Because the runs on the shadow banking system occurred in a historically 
+
+unfamiliar context, outside the commercial banking system, both the private sector and 
+
+the regulators insufficiently anticipated the risk that such runs might occur.  However, 
+
+once the threat became apparent, two centuries of economic thinking on runs and panics 
+
+were available to inform the diagnosis and the policy response.  In particular, in the 
+
+recent episode, central banks around the world followed the dictum set forth by Bagehot 
+
+in 1873:  To avert or contain panics, central banks should lend freely to solvent 
+
+institutions, against good collateral.4
+
+                                                                                                                                                 
+Hole, Wyo., August 21-23; the paper is available at 
+www.kansascityfed.org/publications/research/escp/escp-2008.cfm.  Also see Markus K. Brunnermeier 
+(2009), “Deciphering the Liquidity and Credit Crunch 2007-2008,” Journal of Economic Perspectives, 
+vol. 23 (Winter), pp. 77-100. 
+
+  The Federal Reserve indeed acted quickly to 
+
+provide liquidity to the banking system, for example, by easing lending terms at the 
+
+discount window and establishing regular auctions in which banks could bid for term 
+
+central bank credit.  Invoking emergency powers not used since the 1930s, the Federal 
+
+Reserve also found ways to provide liquidity to critical parts of the shadow banking 
+
+system, including securities dealers, the commercial paper market, money market mutual 
+
+funds, and the asset-backed securities market.  For today’s purposes, my point is not to 
+
+review this history but instead to point out that, in its policy response, the Fed was relying 
+
+4 Bagehot also suggested that “these loans should only be made at a very high rate of interest” (Lombard 
+Street, p. 99; see note 2).  Some modern commentators have rationalized Bagehot’s dictum to lend at a high 
+or “penalty” rate as a way to mitigate moral hazard--that is, to help maintain incentives for private-sector 
+banks to provide for adequate liquidity in advance of any crisis.  However, the risk of moral hazard did not 
+appear to be Bagehot’s principal motivation for recommending a high rate; rather, he saw it as a tool to 
+dissuade unnecessary borrowing and thus help protect the Bank of England’s own finite store of liquid 
+assets.  See Bernanke, “Liquidity Provision,” in note 2 for further documentation.  Today, potential 
+limitations on the central bank’s lending capacity are not nearly so pressing an issue as in Bagehot’s time, 
+when the central bank’s ability to provide liquidity was far more tenuous.  Generally, the Federal Reserve 
+lent at rates above the “normal” rate for the market but lower than the rate prevailing in distressed and 
+illiquid markets.  This strategy provided needed liquidity while encouraging borrowers to return to private 
+markets when conditions normalized. 
+

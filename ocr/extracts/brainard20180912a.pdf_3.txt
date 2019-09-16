@@ -1,0 +1,48 @@
+
+ - 2 - 
+
+Focusing first on the “shorter-run” neutral rate, this does not stay fixed, but rather 
+
+fluctuates along with important changes in economic conditions.  For instance, legislation 
+
+that increases the budget deficit through tax cuts and spending increases can be expected 
+
+to generate tailwinds to domestic demand and thus to push up the shorter-run neutral 
+
+interest rate.  Heightened risk appetite among investors similarly can be expected to push 
+
+up the shorter-run neutral rate.  Conversely, many of the forces that contributed to the 
+
+financial crisis--such as fear and uncertainty on the part of businesses and households--
+
+can be expected to lower the neutral rate of interest, as can declines in foreign demand for 
+
+U.S. exports. 
+
+In many circumstances, monetary policy can help keep the economy on its 
+
+sustainable path at full employment by adjusting the policy rate to reflect movements in 
+
+the shorter-run neutral rate.  In this context, the appropriate reference for assessing the 
+
+stance of monetary policy is the gap between the policy rate and the nominal shorter-run 
+
+neutral rate.   
+
+So far, I have been focusing on the shorter-run neutral rate of interest that is 
+
+responsive to headwinds or tailwinds to demand.  The longer-run equilibrium rate is a 
+
+related concept.  The underlying concept of the “longer run” generally refers to the output 
+
+growing at its longer-run trend, after transitory forces reflecting headwinds or tailwinds 
+
+have played out, in an environment of full employment and inflation running at the 
+
+FOMC objective.4   
+
+                                                   
+The natural rate and the neutral rate are closely related concepts whose technical differences matter for 
+economic theory and estimation, but less for the intuitive discussion here. 
+4 See Brainard (2015). 
+

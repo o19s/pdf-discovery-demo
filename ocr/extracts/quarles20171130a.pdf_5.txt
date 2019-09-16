@@ -1,0 +1,52 @@
+
+- 4 - 
+ 
+
+balancing the benefits of innovation with the safe and reliable operation of systems and critical 
+
+activities.  
+
+ From an analytical perspective, payment systems typically increase in value as more 
+
+people use a system and the more attractive it becomes to others.  In addition, there is an inverse 
+
+relationship between the volume of users of a system and the cost of production--more users 
+
+lower the cost of production.  Until recently, these features may have hindered innovation by 
+
+presenting high barriers to entry and may have also fostered greater concentration into a few key 
+
+entities that could become systemically important.1  Of course, technology may be able to reduce 
+
+the effect of at least some of these hurdles by, for example, attracting high numbers of users 
+
+quickly or reducing the costs of production.  However, the effect of reducing technological 
+
+barriers for financial stability is not clearly positive or negative.  For example, on the one hand, 
+
+new market participants attracted by lower barriers to entry may introduce new and unknown 
+
+risks in the payment system.  On the other hand, new market participants may relieve the 
+
+concentration of activity in a limited number of players. 
+
+Thus, the potential tension between innovation and stability can be more difficult to 
+
+manage in the case of payment systems as compared to other industries that are less affected by 
+
+these hurdles.  One sensible approach to risk management would emphasize “starting small” and 
+
+taking small risks.  But unless a payment system grows a fairly large network of users in a 
+
+reasonable time, it is unlikely to achieve the scope and scale it needs to be successful.  
+
+Conversely, if a system attempts to start on a large scale and is successful, there will surely be 
+
+questions about resilience in adversity, particularly if cutting-edge technologies and methods are 
+
+used to handle people’s money.  The essential problem is how to achieve scale and manage 
+
+                                                           
+1 See Financial Stability Board, Financial Stability Implications from FinTech: Supervisory and Regulatory Issues 
+that Merit Authorities’ Attention, June 27, 2017, www.fsb.org/wp-content/uploads/R270617.pdf. 
+

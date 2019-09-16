@@ -1,0 +1,65 @@
+
+ - 11 - 
+
+policy interest rate and some increase in the term premium.
+13
+
+  A rise of more than 200 
+
+basis points in a year is at the upper end of what is implied by the mean paths and 
+
+uncertainty measures shown in charts 4 and 5, but these measures still admit a substantial 
+
+probability of higher--and lower--paths. 
+
+Overall, then, we anticipate that long-term rates will rise as the recovery 
+
+progresses and expected short-term real rates and term premiums return to more normal 
+
+levels.  The precise timing and pace of the increase will depend importantly on how 
+
+economic conditions develop, however, and is subject to considerable two-sided 
+
+uncertainty.  
+
+Managing Risks Associated with the Future Course of Long-Term Interest Rates 
+
+As I noted when I began my remarks, one reason to focus on the timing and pace 
+
+of a possible increase in long-term rates is that these outcomes may have implications for 
+
+financial stability.  Commentators have raised two broad concerns surrounding the 
+
+outlook for long-term rates.  To oversimplify, the first risk is that rates will remain low, 
+
+and the second is that they will not.  In particular, in an environment of persistently low 
+
+returns, incentives may grow for some investors to engage in an unsafe “reach for yield” 
+
+either through excessive use of leverage or through other forms of risk-taking.  My Board 
+
+colleague Jeremy Stein recently discussed how this behavior may arise in some financial 
+
+markets, including credit markets.
+14
+
+  Alternatively, we face a risk that longer-term rates 
+
+will rise sharply at some point, imposing capital losses on holders of fixed-income 
+
+                                                 
+13
+
+ The two components were intertwined, as measures of uncertainty about the path of policy moved up 
+
+sharply, likely contributing to a rise in term premiums.  Notably, in this episode, the rise in rates created 
+
+some stress in financial markets but did not lead to serious financial instability, nor did it significantly 
+
+impair economic activity.  However, one would not want to conclude from that one case that sharp rises in 
+
+rates do not pose risks. 
+14
+
+ See Stein (2013). 
+

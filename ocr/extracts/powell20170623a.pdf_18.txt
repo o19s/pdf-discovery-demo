@@ -1,0 +1,39 @@
+
+Settlement Banks
+ceased providing credit
+and slowed payments
+
+Payment Banks
+slowed payments
+
+Clearing Members
+ceased providing credit
+and slowed payments
+
+Customer's Banks
+ceased providing credit
+and slowed payments
+
+Payments Chains on October 20, 1987
+
+CCP
+
+Settlement Bank
+
+Payment Bank
+
+Clearing Member
+
+Customer
+
+Customer's Bank
+
+Settlement Bank may provide 
+intraday credit to Clearing Member
+
+Clearing Member may provide  
+credit to Customer
+
+Customer's Bank may provide  
+credit to Customer
+

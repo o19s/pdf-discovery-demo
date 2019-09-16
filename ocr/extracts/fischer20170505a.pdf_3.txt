@@ -1,0 +1,52 @@
+
+ - 2 - 
+
+benefit of hindsight, that emphasis probably derived from three sources:  First, the 
+
+quantity theory of money emphasized the link between the quantity of money and 
+
+inflation; second, that research was carried out when monetarism was gaining credibility 
+
+in the profession; and, third, there was a concern that interest rate rules might lead to 
+
+price-level indeterminacy--an issue disposed of by Bennett McCallum and others.4   
+
+Subsequently, John Taylor’s research, especially his celebrated 1993 paper, was a 
+
+catalyst in changing the focus toward rules for the short-term interest rate.5  Taylor’s 
+
+work thus helped shift the terms of the discussion in favor of rules for the instrument that 
+
+central banks prefer to use.  His 1993 study also highlighted the practical relevance of 
+
+monetary policy rules, as he showed that a particular simple rule--the rule that now bears 
+
+his name--provided a good approximation to the behavior of the federal funds rate during 
+
+the early Greenspan years.  The research literature on monetary policy rules has 
+
+experienced a major revival since Taylor’s seminal paper and has concentrated on rules 
+
+for the short-term interest rate. 
+
+                                                 
+literature on monetary policy:  Examples include Currie and Levine (1987) and Flemming (1993).  In 
+addition, an interest rate was the policy instrument in some key contributions to open-economy monetary 
+theory, such as Meade (1951) and Mundell (1960).  These traditions likely reflected the long-standing use 
+of Bank Rate as a policy instrument in the United Kingdom and the fact that, for most of the period from 
+the Treasury/Federal Reserve Accord of 1951 until the 1990s, central banks in countries other than the 
+United States tended to be more explicit than the Federal Reserve chose to be about their use of short-term 
+interest rates as their primary policy instrument.  Even in the U.S. context, however, there was a certain 
+amount of research on interest rate policies.  For example, it was common practice among builders of large 
+econometric models to consider different Federal Reserve interest rate strategies (see Ando, 1981).  In 
+addition, the empirical and simulation properties of the Federal Reserve’s interest rate reaction function 
+were the concern of such studies as Dewald and Johnson (1963), DeRosa and Stern (1977), Dornbusch and 
+Fischer (1979), and Henderson and McKibbin (1993), while Sargent and Wallace (1975) and McCallum 
+(1981) examined the analytical properties of interest rate rules.  A later magisterial study of the analytics of 
+interest rate rules was Woodford (2003). 
+4 See McCallum (1981).  I should add that when we presented work based on Cooper and Fischer (1972), 
+we were urged by several economists to focus on the interest rate as the monetary policy instrument.  
+Among these economists were Albert Ando and Franco Modigliani, who were then working with others on 
+building the MPS (MIT-Pennsylvania-Social Science Research Council) model.  
+5 See Taylor (1993). 
+

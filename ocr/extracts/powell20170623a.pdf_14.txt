@@ -1,0 +1,49 @@
+
+13 
+ 
+
+Other CCPs are also actively engaged in efforts to increase their efficiency.  FICC is 
+
+looking at potential solutions using distributed ledger technology to clear both legs of overnight 
+
+repo trades, which could allow for greater netting opportunities and thereby reduce potential 
+
+liquidity needs.13  Several CCPs are also looking at ways to expand central clearing to directly 
+
+include more buy-side firms, which could also offer greater netting opportunities.  Doing so 
+
+could also offer new sources of liquidity if the new entrants are able to take part in the CCP’s 
+
+committed liquidity arrangements.  Diversification of sources of liquidity would offer tangible 
+
+benefits--CCPs would avoid relying on the same limited set of clearing members for all of their 
+
+liquidity needs.  As one example, the Options Clearing Corporation established an innovative 
+
+pre-funded, committed repurchase facility with a leading pension fund.   
+
+As regulators, we should encourage innovations that increase clearing efficiency and 
+
+reduce liquidity risks where they meet the PFMI and our supervisory expectations.   
+
+
+Central Bank Accounts 
+
+As I discussed earlier, CCPs have a complicated set of decisions on how and where to 
+
+hold their cash balances.  Title VIII of the Dodd-Frank Act authorized the Federal Reserve to 
+
+establish accounts for DFMUs, and we now have accounts with each of the eight institutions that 
+
+the Financial Stability Oversight Council has so designated.  These accounts permit DFMUs to 
+
+hold funds at the Federal Reserve, but not to borrow from it.14  Allowing DFMUs to deposit 
+
+                                                           
+13 “DTCC & Digital Asset Move to Next Phase after Successful Proof-Of-Concept for Repo Transactions Using 
+Distributed Ledger Technology,” DTCC, February 2017, www.dtcc.com/news/2017/february/27/dtcc-and-digital-
+asset-move-to-next-phase. 
+14 According to title VIII of the Dodd-Frank Act, a designated financial market utility may only borrow from the 
+discount window only in unusual and exigent circumstances and only upon a majority vote of the Board of 
+Governors following consultation with the Secretary of the Treasury. 
+

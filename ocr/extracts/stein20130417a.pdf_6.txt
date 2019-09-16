@@ -1,0 +1,56 @@
+
+- 5 - 
+
+
+do is make on-average statements about scale and scope economies.
+7
+  These studies still leave 
+
+open the possibility of considerable heterogeneity across firms, and that some firms are able to 
+
+add considerable value in a given line of business by being very big, even if the average firm in 
+
+the population is not.  And such heterogeneity alone is enough to create significant drawbacks to 
+
+quantity-based regulation.  
+
+ Consider the following example.  There are three banks:  A, B, and C.  Banks A and B 
+
+both have $1 trillion in assets, while C is smaller, with only $400 billion in assets.  Bank A 
+
+actually generates significant economies of scale, so that it is socially optimal for it to remain at 
+
+its current size.  Banks B and C, by contrast, have very modest economies of scale, not enough to 
+
+outweigh the costs that their size and complexity impose on society.  From the perspective of an 
+
+omniscient social planner, it would be better if both B and C were half their current size.  
+
+ Now let’s ask what happens if we impose a size cap of say $500 billion.  This size cap 
+
+does the right thing with respect to Bank B, by shrinking it to a socially optimal size.  But it 
+
+mishandles both Banks A and C, for different reasons.  In the case of A, the cap forces it to 
+
+shrink when it shouldn’t, because given the specifics of its business model it actually creates a 
+
+substantial amount of value by being big.  And in the case of C, the cap makes the opposite 
+
+mistake.  It would actually be beneficial to put pressure on C to shrink at the margin--that is, to 
+
+move it in the direction of being a $200 billion bank instead of a $400 billion one--but since it 
+
+lies below the cap, it is completely untouched by the regulation. 
+
+ Suppose instead we attack the problem by imposing capital requirements that are an 
+
+increasing function of bank size.  This price-based approach creates some incentive for all three 
+
+banks to shrink, but lets them balance this incentive against the scale benefits that they realize by 
+
+staying big.  In this case, we would expect A, with its significant scale economies, to absorb the 
+
+                                                 
+7
+ See Hughes and Mester (2011) for a recent contribution to the literature on scale economies in banking. 
+

@@ -1,0 +1,53 @@
+
+- 12 - 
+ 
+
+extent to which these difficulties are a function of essentially firm-specific factors or a harbinger 
+
+of market-wide funding stress.    
+
+A revised version of the NSFR has recently been released by the Basel Committee.12  It 
+
+complements the LCR by looking beyond a 30-day period to achieve a stable funding profile for 
+
+firms more generally.  In this regard, it is important to recall that the deterioration of funding 
+
+markets began well before the financial crisis reached its acute stages.  In the summer of 2007, 
+
+responding to signs of trouble in the subprime mortgage markets, creditors reduced the maturities 
+
+of funding they were willing to provide to financial intermediaries that had been creating and 
+
+holding securities backed by subprime--and eventually other--mortgages.13  This process left 
+
+those intermediaries in increasingly fragile funding positions, and by the time Lehman Brothers 
+
+collapsed in September 2008, the system was primed for a devastating run.  Given the possibility 
+
+of this type of sustained erosion of firm funding structures over an extended period, simply 
+
+requiring firms to hold a liquidity buffer against 30-day outflows, as required by the LCR, would 
+
+be insufficient. 
+
+ While there is thus a need for a longer-term structural standard such as the NSFR, the 
+
+conceptual challenges in crafting it were greater than in designing the LCR.  Simply extending 
+
+the LCR to one-year--that is, requiring firms to hold enough liquidity to survive a one-year 
+
+funding market freeze--seemed the kind of excessive self-insurance that would lead to 
+
+undesirably reduced maturity transformation and financial intermediation.  So a different set of 
+
+standards needed to be developed, which themselves occasioned considerable discussion about 
+
+the effects and incentives they would create.  Also, one could argue that the NSFR should have 
+
+12 See www.bis.org/bcbs/publ/d295.htm.  
+13 Gary Gorton, Andrew Metrick, and Lei Xie (2014), “The Flight from Maturity,” NBER Working Paper No. 20027 
+(April), www.nber.org/papers/w20027.pdf. 
+
+
+
+

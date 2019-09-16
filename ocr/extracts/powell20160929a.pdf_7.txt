@@ -1,0 +1,52 @@
+
+ - 6 - 
+
+Looking at the smallest community banks, those with less than $100 million in 
+
+assets, gives some hints for why their numbers have declined.  The average ROA for the 
+
+smallest banks (in purple, with circles) has been consistently lower than that for the next-
+
+smallest class of banks since 1995.  The already lower level of profits for the smallest 
+
+banks began to decline further in 2006.  Since 2009, profits for the smallest banks have 
+
+increased slightly but remain below their levels of profitability prior to the recession and 
+
+below the ROA levels for larger banks.5 
+
+Data on nonperforming loans (NPLs) show a mixed picture.6  A breakdown of 
+
+community banks by size indicates that the ratio of NPLs to total loans peaked for every 
+
+size category in 2010 (figure 8).  Prior to 2007, the smallest community banks 
+
+consistently had a higher ratio of NPLs than did larger community banks; but from 2007 
+
+until 2013, their NPL rate was below that of larger community banks.  In the past two 
+
+years, NPLs on the balance sheets of the smallest banks have declined more slowly than 
+
+for larger banks so that banks with less than $100 million in assets once again have the 
+
+highest NPL ratio. 
+
+Let me turn now to consider changes in the number of community banks over the 
+
+past 20 years at a more local level.  For purposes of this discussion, I define local banking 
+
+markets as counties in rural areas and as Metropolitan Statistical Areas in urban areas.  
+
+                                                 
+5 The patterns for return on equity (ROE) are similar to those for ROA, although community banks as a 
+whole had negative ROE in both 2009 and 2010.  The largest community banks, with $1 billion to 
+$10 billion in assets, suffered much greater negative returns on equity in these years than did smaller 
+community banks.  Midsize community banks, with $300 million to $1 billion in assets, fared better than 
+their larger and smaller counterparts. 
+     The smallest community banks showed an unusual pattern in their ROEs.  (It should be noted that, for 
+banks of this size, ROE can be a questionable measure of profitability because such banks tend to be either 
+privately held or very thinly traded.)  These banks were in the only size category that did not show a 
+negative ROE in 2009, but it was also the only class to show a negative ROE in 2013, and the ROE for 
+these banks has been consistently below that for larger banks since the recession. 
+6 NPLs are defined as nonaccrual loans plus loans that are 90-plus days past due and still accruing.  
+

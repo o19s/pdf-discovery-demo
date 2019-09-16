@@ -1,0 +1,47 @@
+
+ - 6 - 
+
+collectively, although it is difficult to say how much of an effect is due to any one of 
+
+them.   
+
+However, beyond trying to understand the market dynamics that drove changes in 
+
+rates over the period from May through June, it is also useful to ask a question about the 
+
+starting levels:  What explains why real and nominal rates were as low as they were at the 
+
+beginning of May?  Clearly, our accommodative policies--the combination of forward 
+
+guidance and asset purchases--played an important role.  But I want to draw a key 
+
+distinction between two views of how our policies might have mattered.  One view would 
+
+be that the configuration of market rates in early May was largely a direct hydraulic 
+
+outcome of our policies.  For example, according to this view, a nominal 10-year yield of 
+
+1.63 percent in early May could be explained to a first approximation based on the 
+
+expected path of the federal funds rate, plus a negative term premium that was itself 
+
+primarily a function of the cumulative amount of duration that we were expected to 
+
+remove from the market via our asset purchase program.  Let’s call this the “direct Fed 
+
+control” view. 
+
+An alternative hypothesis is that our policies were indeed responsible for the very 
+
+low level of long-term rates, but in part through a more indirect channel.  According to 
+
+this view, real and nominal term premiums were low not just because we were buying 
+
+long-term bonds, but because our policies induced an outward shift in the demand curve 
+
+of other investors, which led them to do more buying on our behalf--because we both 
+
+gave them an incentive to reach for yield, and at the same time provided a set of implicit 
+
+assurances that tamped down volatility and made it feel safer to lever aggressively in 
+

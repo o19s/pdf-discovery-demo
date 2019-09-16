@@ -1,0 +1,12 @@
+
+What About Leverage?
+
+• Maybe sentiment forecasts economic activity through some other
+channel, rather than through its effect on future credit market conditions.
+
+• Example: frothy credit markets \( \Rightarrow \) nonfinancial firms lever up  \( \Rightarrow \) 
+subsequent macroeconomic fragility
+
+• Controlling for changes in nonfinancial sector leverage has no effect on 
+results.
+

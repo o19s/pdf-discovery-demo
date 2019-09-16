@@ -1,0 +1,49 @@
+
+ - 6 - 
+
+increasingly prefer to rely on cards and mobile phones.  Payment cards have improved 
+
+convenience and security in certain ways, like reducing the impact of a stolen wallet. 
+
+But history has also shown that new technologies must be adopted in a prudent 
+
+fashion.  Technological innovations can provide substantial benefits to payment system 
+
+efficiency and security in the long run, but they often introduce new, unanticipated risks. 
+
+For example, although payments cards reduced the impact of a stolen wallet, they’ve also 
+
+introduced new risks, like counterfeit card fraud.  It is important that we identify and 
+
+address the unanticipated risks that inevitably result when we try new things.  These risks 
+
+may be tolerable in the short run, so long as we work to identify, prevent, and mitigate 
+
+them early on in the design and implementation process.  In the case of payment cards, 
+
+over time, technologies have been broadly implemented to mitigate many of the risks.  
+
+For instance, computer algorithms now analyze transactions in real time and can prevent 
+
+the same card number from being used to make purchases in Washington, D.C. and in 
+
+Kansas City five minutes apart.  
+
+We also need to consider the complexity of the payment system.  It is a vast 
+
+network with millions of endpoints and a wide variety of participants.  Many innovators 
+
+do a good job of incorporating advanced security features into their individual products. 
+
+But new products also need to be securely integrated into the payment system as a whole. 
+
+To innovate safely, payment system participants must work together by 
+
+participating in coordinated efforts to improve the payment system.  At a minimum, 
+
+banks, merchants, and other institutions that process or store sensitive financial 
+
+information need to keep their hardware and software current to the latest industry 
+
+standards.  Network operators and standards-setting bodies play an important role by 
+

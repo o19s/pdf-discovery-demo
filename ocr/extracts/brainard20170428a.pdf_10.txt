@@ -1,0 +1,53 @@
+
+- 9 - 
+
+agreements often impose specific requirements rather than simply facilitating structured data 
+
+feeds.  These banks negotiate for greater control over their systems by limiting who is accessing 
+
+their data--often to a specific third party’s suite of products.  Likewise, many banks use these 
+
+agreements to limit what types of data will be shared.  For instance, banks may share information 
+
+about the balances in consumers’ accounts but decline to share information about fees or other 
+
+pricing.  While recognizing the legitimate need for vetting of third parties for purposes of the 
+
+banks fulfilling their responsibilities, including for data privacy and security, some consumer 
+
+groups have suggested that the standards for vetting should be commonly agreed to and 
+
+transparent to ensure that banks do not restrict access for competitive reasons and that consumers 
+
+should be able to decide what data to make available to third-party fintech applications.20  
+
+A third set of banks may be unable or unwilling to provide permissioned access, for 
+
+reasons ranging from fears about increased competition to concerns about the cost and 
+
+complexity of ensuring compliance with underlying laws and regulations.  At the very least, 
+
+banks may have reasonable concerns about being able to see, if not control, which third-party 
+
+developers will have access to the banking data that is provided by the data aggregators.  
+
+Accordingly, even banks that have previously provided structured data feeds to data aggregators 
+
+may decide to limit or block access.21  In such cases, however, data aggregators can still move 
+
+                                                           
+16, 2014, www.svb.com/News/Company-News/Xero-and-Silicon-Valley-Bank-Partner-to-Offer-Innovative-
+Companies-Next-Generation-Financial-Management/.  
+20 See, e.g., Center for Financial Services Innovation, “Consumer Data Sharing Principles: A Brief on the 
+Framework for Industry-Wide Collaboration,” October 20, 2016, http://cfsinnovation.org/research/consumer-data-
+sharing-principles-a-brief-on-the-framework-for-industry-wide-collaboration/.  Indeed, many of the developers that 
+make use of the bank data obtained by data aggregators are actually other banks. Steven Boms, “Yodlee Response to 
+Consumer Financial Protection Bureau Request for Information Regarding Consumer Access to Financial Records,” 
+Docket No. CFPB 2016-0048, February 21, 2017, www.regulations.gov/document?D=CFPB-2016-0048-0033.  
+(“Over our almost two-decade history, Yodlee has built a client base that includes 12 of the 20 largest banks in the 
+United States and the largest banks in more than 20 countries.”) 
+21 See, e.g., Envestnet, Inc., 2016 Annual Report, March 24, 2016.  (“[O]ne or more of our current customers could 
+decide to limit or block our access to the data feeds we currently have in place with these customers due to factors 
+outside of our control such as more burdensome regulation of our or our customers’ industry, increased compliance 
+requirements or changes in business strategy.  If the sources from which we obtain information that is important to 
+

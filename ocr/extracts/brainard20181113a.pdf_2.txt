@@ -1,0 +1,49 @@
+
+-1- 
+ 
+
+
+Although it is still early days, it is already evident that the application of artificial 
+
+intelligence (AI) in financial services is potentially quite important and merits our attention.  
+
+Through our Fintech working group, we are working across the Federal Reserve System to take a 
+
+deliberate approach to understanding the potential implications of AI for financial services, 
+
+particularly as they relate to our responsibilities.  In light of the potential importance of AI, we 
+
+are seeking to learn from industry, banks, consumer advocates, researchers, and others, including 
+
+through today’s conference.  I am pleased to take part in this timely discussion of how 
+
+technology is changing the financial landscape.1 
+
+The Growing Use of Artificial Intelligence in Financial Services 
+
+My focus today is the branch of artificial intelligence known as machine learning, which 
+
+is the basis of many recent advances and commercial applications.2  Modern machine learning 
+
+applies and refines, or “trains,” a series of algorithms on a large data set by optimizing iteratively 
+
+as it learns in order to identify patterns and make predictions for new data.3  Machine learning 
+
+essentially imposes much less structure on how data is interpreted compared to conventional 
+
+approaches in which programmers impose ex ante rule sets to make decisions.   
+
+                                                 
+1 I am grateful to Kelvin Chen and Carol Evans for their assistance in preparing this text. These remarks represent 
+my own views, which do not necessarily represent those of the Federal Reserve Board or the Federal Open Market 
+Committee. 
+2 Executive Office of the President, National Science and Technology Council Committee on Technology, 
+Preparing for the Future of Artificial Intelligence (Washington: Executive Office of the President, October 2016) 
+https://obamawhitehouse.archives.gov/sites/default/files/ 
+whitehouse_files/microsites/ostp/NSTC/preparing_for_the_future_of_ai.pdf; and American Bankers Association, 
+“Understanding Artificial Intelligence” (Washington: American Bankers Association, November 2018), 
+https://www.aba.com/Tools/Function/Technology/Documents/understanding-artificial-intelligence.pdf. 
+3 Executive Office of the President, Preparing for the Future of Artificial Intelligence; and Financial Stability Board, 
+Artificial Intelligence and Machine Learning in Financial Services (Basel: Financial Stability Board, November 1, 
+2017), http://www.fsb.org/wp-content/uploads/P011117.pdf. 
+

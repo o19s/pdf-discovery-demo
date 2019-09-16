@@ -1,0 +1,51 @@
+
+- 17 - 
+ 
+
+This path illustrates one of the key features of optimal policy under a balanced 
+
+approach to the dual mandate.  Provided that long-term inflation expectations are firmly 
+
+anchored, the federal funds rate is set to balance the benefits from a faster reduction of 
+
+the unemployment rate against the losses from a temporary and modest increase of 
+
+inflation above 2 percent.  The more rapid reduction in unemployment along the optimal 
+
+control path than in the baseline reflects the stimulus to demand provided by lower 
+
+nominal and real interest rates, higher asset prices, and the expectation of more rapid 
+
+growth in employment and income.19   
+
+The computation of an optimal path for monetary policy is obviously 
+
+complicated, and, as I’ll discuss, it’s challenging to communicate.  It rests on many 
+
+assumptions about the outlook for the economy and its structure.  An alternative and 
+
+much simpler approach would entail setting the federal funds rate according to the 
+
+prescriptions of a policy rule, such as the well-known Taylor rule or a variant.  Many 
+
+studies have shown that, in normal times, when the economy is buffeted by typical 
+
+shocks--not the extraordinary shock resulting from the financial crisis--simple rules can 
+
+come pretty close to approximating optimal policies.  In fact, empirical research suggests 
+
+that a modified version of the original Taylor rule fits the behavior of the Fed reasonably 
+
+well from the late 1980s until the financial crisis.  Given that participants in financial 
+
+markets are familiar with both the FOMC’s historical behavior and simple rules, the 
+
+communications challenges might arguably be less severe if the FOMC followed such a 
+
+                                                 
+19 It is also worth noting that the “Exit Strategy Principles” adopted by the FOMC in June 2011 indicate 
+that the Committee intends to gradually sell off agency securities to normalize the size and composition of 
+its portfolio after liftoff of the federal funds rate.  This assumption pertaining to asset sales is incorporated 
+into the FRB/US simulations, and provides a further reason why, along the optimal control path, the federal 
+funds rate stays low for so long, rising only gradually after liftoff.  
+

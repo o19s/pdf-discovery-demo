@@ -1,0 +1,54 @@
+
+- 3 - 
+ 
+
+
+complete liquidity; through market-making, by which dealers provide liquidity to investors in 
+
+various instruments; or through other forms of intermediation.2   
+
+Precisely because financial intermediaries provide these liquidity services, they are 
+
+subject to funding strains when customers or counterparties become uncertain of the value of the 
+
+loans, securities, or other assets held by the intermediaries.  Where those assets are opaque—as 
+
+can be the case, for example, with a portfolio of conventional loans or with securities backed by 
+
+many loans bundled together from various originators—the incentive  to withdraw funding 
+
+increases, particularly in periods of stress when the value of broadly held asset classes may be at 
+
+risk of precipitous decline.   
+
+This familiar dynamic is obviously a potential problem for the intermediary.  It becomes 
+
+a problem for society when one or both of two things follow:  First, as in the classic case of bank 
+
+runs, problems at one bank lead depositors or counterparties at other banks to withdraw their 
+
+own funds, fearing that their own banks may have similar difficulties repaying them because 
+
+they hold similar assets.  Or, second, the liquidity squeeze leads a sizeable financial firm to 
+
+engage in a fire sale of its assets in order to raise the funds necessary to compensate for the 
+
+disruption of its normal funding channels.  Dumping a sizeable book of assets on the market, in 
+
+turn, can lead to the adverse feedback loop observed during the crisis: Downward pressure is 
+
+placed on similar assets held by others, thereby accelerating margin calls on leveraged actors and 
+
+amplifying mark-to-market losses for all holders of the assets, thereby prompting fire sales by 
+
+others.  In either or both of these eventualities, the potential insolvency of the financial firm is a 
+
+problem not just for shareholders, employees, and creditors, but for the financial system as a 
+
+whole. 
+
+                                                 
+2 The long-standing special resolution powers of the FDIC for insured depository institutions, on which Title II was 
+in part modeled, themselves reflect some relevant peculiarities of banking, and financial markets more generally, 
+compared to other industries. 
+

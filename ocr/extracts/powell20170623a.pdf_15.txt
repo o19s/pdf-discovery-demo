@@ -1,0 +1,46 @@
+
+14 
+ 
+
+balances at the Federal Reserve helps them avoid some of the risk involved in holding balances 
+
+with their clearing members.  Doing so also provides CCPs with a flexible way to hold balances 
+
+on days when margin payments unexpectedly spike and it is difficult to find banks that are 
+
+willing to accept an unexpected influx in deposits.  In such a case, it may also be too late in the 
+
+day to rely on the repo market.  The availability of Fed accounts could help avoid potential 
+
+market disruptions in those types of circumstances. 
+
+
+Cross-Border Cooperation 
+
+The lessons from Brexit also point to the need for cross-border cooperation.  Brexit 
+
+triggered payments flows to CCPs across many jurisdictions.  As far as liquidity risks are 
+
+concerned, it is immaterial whether a CCP is based in the United States or abroad so long as it 
+
+clears U.S. dollar denominated assets and must make and receive U.S. dollar payments.   There 
+
+are different possible approaches to such cross-border issues.  Efforts to address these liquidity 
+
+risks should carefully take into consideration the effect that they would have on the broader 
+
+financial system.  For example, splintering central clearing by currency area would fragment 
+
+liquidity and reduce netting opportunities, which in the case of events like Brexit could actually 
+
+trigger even greater liquidity risk.  In my opinion, we should be searching for cooperative 
+
+solutions to these issues. 
+
+
+Conclusion 
+
+In the years following the financial crisis, one of the primary lessons for market 
+
+participants and their regulators was the criticality of liquidity risk management.  Financial firms 
+

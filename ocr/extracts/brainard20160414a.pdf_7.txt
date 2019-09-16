@@ -1,0 +1,49 @@
+
+ - 6 - 
+
+For derivatives, there is interest in the potential for digital ledger protocols to 
+
+enable self-execution and possibly self-enforcement of contractual clauses, in the context 
+
+of “smart contracts.”  
+
+As we engage with industry and stakeholders to assess the potential applications 
+
+of digital ledger and related technologies in the payment, clearing, and settlement arena, 
+
+we will be guided by the principles of efficiency, safety and integrity, and financial 
+
+stability. 
+
+Efficiency  
+
+Many are excited about the potential for these new technologies to reduce costs 
+
+and frictions, such as those associated with collateral management and custodial services, 
+
+reduce settlement risk, enhance security, increase transparency, and offer new services.  
+
+But there are also concerns about the costs and risks from the early adoption of rapidly 
+
+evolving and uncertain technologies and technological hurdles in integrating new 
+
+technologies into legacy systems and achieving interoperability across different ledgers 
+
+and networks.  There are questions about the need for substantial new investments to 
+
+obtain capabilities like real-time processing where these capabilities already exist at some 
+
+of the industry’s core infrastructures.  There are also cautions that realizing the full 
+
+potential of distributed ledger technologies could take many years. 
+
+Much of the case for adopting distributed ledger technologies revolves around 
+
+achieving greater efficiency and reducing time and risks to post-trade clearing and 
+
+settlement.  But first, important technological challenges will need to be addressed to 
+
+permit widespread adoption and migration away from legacy systems and networks.  
+
+These include the need for standardization, the development of protocols that will permit 
+

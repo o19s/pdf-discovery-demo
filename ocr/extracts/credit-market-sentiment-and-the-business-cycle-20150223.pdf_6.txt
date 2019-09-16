@@ -1,0 +1,21 @@
+
+What About the Stock Market?
+
+• S p ec ifica tio n :
+
+\[ r_t^M = \theta \̂prime 
+
+\mathrm z_{t-1} + \nu_t \\  \Delta 
+
+y_•{ Ct+ah}n = f \ibnedta\ h\(a tt{-1r} \_) t “̂Ms e+n \gtaimmmean̂\tp”ri mvea \rmiaatbhrlme sx _tth +a \te pfsoilorne_c{at+sht}  \\( r]_t̂M \):
+
+• \( \mathrm z_{t-1} \): d iv idend  yield , equ ity  issuance  share, cyclica lly  ad ju s ted  P /E  ra tio
+Cochrane (2008,2012); Baker & Wurgler (2000); Shiller (2000)
+
+• E q u ity -m ark et sen tim en t d o e s  n o t fo reca st e c o n o m ic  a c tiv ity  \( \hat{\beta} = 0 \):
+
+• Suggests fundamental difference between the equity and credit markets.
+• Conjecture: Drop in the stock market has less of an effect on the 
+
+availability of financing than disruptions in credit markets.
+

@@ -1,0 +1,64 @@
+
+- 11 - 
+ 
+
+correlated, creating significant common risk exposures.
+5
+  In such instances, a common shock to a 
+
+class of assets held by the large firms could be expected to have systemic effects through some 
+
+combination of domino and fire-sale effects.
+6
+  There would be considerable value in further 
+
+research that explored the potential tradeoffs between industry structures in which relatively 
+
+smaller, less diversified firms are more prone to idiosyncratic failure versus industry structures in 
+
+which very large, diversified firms are individually less vulnerable to idiosyncratic failure but 
+
+collectively more likely to create systemic risk because of their common exposures. 
+
+One can imagine other strands of IO literature providing insights when applied to the 
+
+financial sector.  Let me suggest a couple of possibilities.  First is the subject of financial 
+
+innovation.  This audience hardly needs reminding that certain forms of financial engineering lay 
+
+at the heart of the recent financial crisis.  Indeed, analysis of these practices has yielded some of 
+
+the most important finance work of the last few years.  The observation that some forms of 
+
+financial innovation were profit-maximizing for the individual firms that pursued them, while 
+
+simultaneously increasing systemic risk, has a parallel in IO research.  Work in this area shows 
+
+how the competitive structure of an industry can create incentives for socially suboptimal 
+
+behavior through, for example, inefficiently low levels of information acquisition or excessive 
+
+product variety.  In thinking about this issue, I was also reminded of the older work on how 
+
+product differentiation may substitute for price competition in concentrated industries.
+ 7
+
+
+We are unlikely to see renewed use of the specific financial products that precipitated or 
+
+amplified the financial crisis.  But financial regulation faces an ongoing challenge in trying to 
+
+                                                           
+5
+ Wolf Wagner (2010), ―Diversification at Financial Institutions and Systemic Crises,‖ Journal of Financial 
+
+Intermediation, vol. 19 (July), pp. 373–86. 
+6
+ See Daniel K. Tarullo (2011), ―Regulating Systemic Risk,‖ remarks delivered at the 2011 Credit Markets 
+
+Symposium, Charlotte, NC, March 31, www.federalreserve.gov/newsevents/speech/tarullo20110331a.htm. 
+7
+ See, for example, Simon P. Anderson, Andre de Palma, and Jacques-Francois Thisse (1992),  Discrete Choice 
+
+Theory of Product Differentiation (Cambridge, MA: MIT Press). 
+

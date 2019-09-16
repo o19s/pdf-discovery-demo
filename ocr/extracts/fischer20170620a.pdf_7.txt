@@ -1,0 +1,49 @@
+
+ - 6 - 
+
+However, some other research suggests that the effectiveness of LTV limits is not 
+
+significant or somewhat temporary.19  
+
+Other macroprudential policies focus on lenders.  First and foremost, tightening 
+
+bank capital regulation enhances loss-absorbing capacity, strengthening financial system 
+
+resilience.  In addition, bank capital requirements for mortgages that increase when house 
+
+prices rise may be used to lean against mortgage credit growth and house price 
+
+appreciation.20  These policies are intended to make bank mortgage lending more 
+
+expensive, leading borrowers to reduce their demand for credit, which tends to push 
+
+house prices down.  Estimates of the effects of such changes vary widely:  After 
+
+consideration of a range of estimates from the literature, an increase of 50 percentage 
+
+points in the risk weights on mortgages would result in a house price decrease from as 
+
+low as 0.6 percent to as high as 4.0 percent.21  These policies are more effective if 
+
+borrowers are fairly sensitive to a rise in interest rates and if migration of intermediation 
+
+outside the banking sector to nonbanks is limited.   
+
+Of course, regulatory reforms and in some countries, macroprudential 
+
+policies--are still being implemented, and analysis is currently under way to monitor the 
+
+effects.  So far, research suggests that macroprudential tightening is associated with 
+
+slower bank credit growth, slower housing credit growth, and less house price 
+
+                                                 
+19 See Kuttner and Shim (2016) and International Monetary Fund (2014). 
+20 For example, in 2016, the Norges Bank used house price appreciation as a criterion for raising its 
+countercyclical capital buffer. 
+21 Based on a range of estimates for banks’ cost of capital and for the elasticity of house prices with respect 
+to interest rates.  See Macroeconomic Assessment Group (2010); Baker and Wurgler (2013); Hanson, 
+Kashyap, and Stein (2011); and Van den Heuvel (2008) for a range of estimates for banks’ cost of capital.  
+See Adelino, Schoar, and Severino (2012); Glaeser, Gottlieb, and Gyourko (2010); and Rappoport (2016) 
+for a range of estimates for the elasticity of house prices with respect to interest rates. 
+

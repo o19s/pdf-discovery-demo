@@ -1,0 +1,50 @@
+
+1997 1998 1999 2000 2001 2002 2003
+98
+
+100
+
+102
+
+104
+
+106
+
+108
+
+110
+
+112
+
+114  
+
+98
+
+100
+
+102
+
+104
+
+106
+
+108
+
+110
+
+112
+
+114
+Index, NBER trough = 100
+
+Exhibit 1: Predicted and Actual Recovery in U.S. Real GDP
+
+- 3 years                                                                                               Trough                                                                                                  3 years
+
+   Note: Prediction based on depth and duration of 2007-09 recession in the United States using a regression model for advanced economies since the 1970s. Last observation
+for actual real GDP is 2012:Q3.
+   Source: U.S. Department of Commerce, Bureau of Economic Analysis; National Bureau of Economic Research (NBER); and Federal Reserve Board staff calculations.
+
+Prediction
+Actual
+

@@ -1,0 +1,49 @@
+
+ - 2 -
+
+(GHOS).  The revision expands the range of assets that can count as HQLA and also 
+
+adjusts some of the assumptions that govern the modeling of net outflows in a stress 
+
+scenario.  In addition, the committee agreed in January to a gradual phase-in of the LCR, 
+
+so that it only becomes fully effective on an international basis in January 2019.  On the 
+
+domestic front, the Federal Reserve expects that the U.S. banking agencies will issue a 
+
+proposal later this year to implement the LCR for large U.S. banking firms. 
+
+While this progress is welcome, a number of questions remain.  First, to what 
+
+extent should access to liquidity from a central bank be allowed to count toward 
+
+satisfying the LCR?  In January, the GHOS noted that the interaction between the LCR 
+
+and the provision of central bank facilities is critically important.  And the group 
+
+instructed the Basel Committee to continue working on this issue in 2013. 
+
+Second, what steps should be taken to enhance the usability of the LCR buffer--
+
+that is, to encourage banks to actually draw down their HQLA buffers, as opposed to fire-
+
+selling other less liquid assets?  The GHOS has also made clear its view that, during 
+
+periods of stress, it would be appropriate for banks to use their HQLA, thereby falling 
+
+below the minimum.  However, creating a regime in which banks voluntarily choose to 
+
+do so is not an easy task.  A number of observers have expressed the concern that if a 
+
+bank is held to an LCR standard of 100 percent in normal times, it may be reluctant to 
+
+allow its ratio to drop below 100 percent when facing large outflows, even if regulators 
+
+were to permit this temporary deviation, for fear that a decline in the ratio could be 
+
+interpreted as a sign of weakness. 
+
+My aim here is to sketch a framework for thinking about these and related issues.  
+
+Among them, the interplay between the LCR and central bank liquidity provision is 
+

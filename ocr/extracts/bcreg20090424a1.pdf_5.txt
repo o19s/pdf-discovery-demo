@@ -1,0 +1,47 @@
+
+[page 3] 
+
+traditional role of capital, especially common equity, is to absorb unexpected losses and thus to protect 
+depositors and other creditors. Given the heightened uncertainty about the economy and potential 
+losses in the banking system, and the potential in the current environment for adverse economic 
+outcomes to be magnified through the banking system, supervisors believe it prudent for large BHCs to 
+hold substantial capital to absorb losses should the economic downturn be longer and deeper than now 
+anticipated. The SCAP was designed to assess these capital needs as part of the ongoing supervisory 
+process. The program is consistent with current regulatory capital guidelines, which require BHCs to 
+hold capital commensurate with their risks, and to generally hold a dominant share of their regulatory 
+capital in the form of common equity. 
+The SCAP was designed under the assumption that the institutions continue to operate under 
+the regulatory and accounting frameworks existing as of December 31, 2008 and considering the effect 
+of significant changes that have or are expected to occur during the next two years.2 [Footnote 2. Significant 
+changes in accounting considered included the recently issued Financial Accounting Standards Boards Financial 
+Staff Position FAS 115-2 and FAS 124-2, Recognition and Presentation of Other-Than-Temporary Impairments 
+that is effective in 2009 and expected changes to consolidation accounting that will be effective in 2010. 
+End footnote 2.] Loans held in portfolio subject to accrual accounting are carried at amortized cost, net of an 
+allowance for loan losses. The use of accrual accounting for these assets is based on BHCs' intent and ability to 
+hold these loans to maturity, which reflects, in part, a combination of more stable deposit funding and information 
+advantages about the quality of the loans they underwrite. The economic value of loans in the accrual 
+book is reduced through the loan loss reserving process when repayment becomes doubtful, but is not 
+reduced for fluctuations in market prices, which may be driven by market liquidity considerations, if 
+those factors do not affect the ultimate likelihood of repayment. The adherence of SCAP to current 
+practices is important because the majority of assets at most of the BHCs participating in the SCAP are 
+loans that are booked on an accrual basis. As a result of the loss recognition framework for assets in the 
+accrual loan book, the results of this exercise are not comparable with those that would evaluate such 
+assets on a mark-to-market basis. 
+The SCAP analysis is forward looking, but over a limited time horizon. Losses and resources are 
+projected over a two-year period (2009 to 2010) and include an assessment of the sufficiency of loan 
+loss reserves expected at the end of 2010, which captures expected losses in 2011. This choice of 
+horizon reflects a tradeoff between capturing the full extent of losses that might be incurred on assets 
+that were originated when underwriting standards were more lax in 2006 and 2007 and a reasonable 
+ability to project with some degree of confidence the losses and resources at more distant future points. 
+Given the profile of the consensus baseline outlook for the macro economy and the alternative more 
+adverse scenario that includes a return to positive real GDP growth within the two years, this horizon 
+seems likely to capture a large portion of losses from positions held as of the end of 2008. 
+While this approach likely captures the bulk of the losses that might be realized on these assets, 
+it is important to note that it does not include the substantial losses that have already been taken. That 
+is, forward-looking losses in the SCAP are not "lifetime" losses which occur from origination to the life-
+end of the assets, but they do represent a substantial addition to those losses that have already been 
+realized and, as noted above, when combined with losses already taken, are likely to represent a 
+substantial share of the losses associated with loans originated from 2005 to 2007. Losses taken in the 
+6 quarters through the end of 2008 by these firms and firms they acquired are substantial, estimated at 
+approximately $400 billion for the 19 BHCs participating in the SCAP. They include charge-offs, write-
+

@@ -1,0 +1,52 @@
+
+
+- 2 - 
+
+too much into these introductory points, let me also note that an emphasis on a firm’s liabilities is 
+
+related to, but not synonymous with, an emphasis on its activities.  Thus, for example, simply 
+
+deciding that an intermediary provides mostly commercial banking services or insurance 
+
+products does not fully answer the question of what its capital requirements should be. 
+
+My purpose today is not to offer specific proposals, or even a comprehensive conceptual 
+
+framework, but instead to propose an approach for thinking about the purposes of capital 
+
+regulation across types of financial intermediaries that will suggest appropriate starting points for 
+
+shaping--or reshaping--applicable capital regulation.  This seems to me a particularly important 
+
+effort at a time when the financial system is undergoing significant change. 
+
+Liability Structure and Capital Regulation 
+
+ To begin, we should remind ourselves that capital regulation of private corporations is 
+
+unusual.  Generally, market actors with actual or contemplated claims on a nonfinancial 
+
+corporation are left to their own devices in protecting their interests, though various features of 
+
+contract, securities, and insolvency law are designed to help them make these judgments more 
+
+efficiently.  In many kinds of financial intermediaries, on the other hand, capital levels are 
+
+regulated, usually because of market failures attributable to some combination of information 
+
+problems, moral hazard, collective action problems, and systemic risk.  Scrutiny of the liability 
+
+side of the balance sheet reveals whether and how these various justifications are present for 
+
+different financial intermediaries.  Let me start with a couple of straightforward examples, well-
+
+established in regulatory practice. 
+
+ The first example arises from the fact that, by the very nature of their business, many 
+
+intermediaries have substantially more customer-facing liabilities1 on their balance sheets than 
+
+                                                 
+1 By “customer facing liabilities,” I mean liabilities to households, retail investors, and businesses.  In financial 
+intermediaries, these liabilities are not only greater than in similarly sized balance sheets of non-financial firms.  
+

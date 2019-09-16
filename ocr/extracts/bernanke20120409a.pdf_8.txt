@@ -1,0 +1,52 @@
+
+  - 7 -  
+
+
+
+
+repurchase (repo) agreements, with money market funds and institutional investors 
+
+serving as lenders.  
+
+Although the shadow banking system taken as a whole performs traditional 
+
+banking functions, including credit intermediation and maturity transformation, unlike 
+
+banks, it cannot rely on the protections afforded by deposit insurance and access to the 
+
+Federal Reserve’s discount window to help ensure its stability.  Shadow banking depends 
+
+instead upon an alternative set of contractual and regulatory protections--for example, the 
+
+posting of collateral in short-term borrowing transactions.  It also relies on certain 
+
+regulatory restrictions on key entities, such as the significant portfolio restrictions on 
+
+money market funds required by rule 2a-7 of the Securities and Exchange Commission 
+
+(SEC), which are designed to ensure adequate liquidity and avoid credit losses.  During 
+
+the financial crisis, however, these types of measures failed to stave off a classic and self-
+
+reinforcing panic that took hold in parts of the shadow banking system and ultimately 
+
+spread across the financial system more broadly.   
+
+ An important feature of shadow banking is the historical and continuing 
+
+involvement of commercial and clearing banks--that is, more “traditional” banking 
+
+institutions.  For example, commercial banks sponsored securitizations and ABCP 
+
+conduits, arrangements which, until recently, permitted those banks to increase their 
+
+leverage by keeping the underlying assets off their balance sheets.  Clearing banks stand 
+
+in the middle of triparty repo agreements, managing the exchange of cash and securities 
+
+while providing protection and liquidity to both transacting parties.  Moreover, to ease 
+
+operational frictions, clearing banks extend very large amounts of temporary intraday 
+
+credit to borrowers and lenders each day.  This temporary intraday credit--averaging 
+

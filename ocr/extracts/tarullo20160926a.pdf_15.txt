@@ -1,0 +1,51 @@
+
+
+14 
+ 
+
+of how much stress the bank was under and, on the other, the concept of a capital conservation 
+
+buffer above minimum capital requirements as it has been added to the capital rules.  The second 
+
+is a soft limitation on dividends put in place by the Board at the inception of CCAR.  Both of 
+
+these features of CCAR reflected supervisory concerns with the fact that, even as the financial 
+
+crisis was clearly unfolding, some of the largest banks continued to repurchase shares and pay 
+
+dividends to shareholders and, thereby, depleted capital that proved to be needed later.12 
+
+The SCB approach addresses the first of these issues by providing a continuous constraint 
+
+on any planned distributions that would bring capital levels below the sum of the minimum 4.5 
+
+percent of risk-weighted assets plus the firm-specific SCB, plus any applicable GSIB 
+
+surcharge.13  However, because declines in observed and reported capital levels usually occur 
+
+with a lag, and the historical evidence that dividends are less likely to be curtailed than share 
+
+repurchases,14 we would assume a firm will maintain its dividends for one year while reducing 
+
+its repurchases.  This would have the effect of requiring a firm to hold capital to meet its stress 
+
+losses and fund its planned dividends over the next year. 
+
+The switch to an SCB approach would also give us an opportunity to address a second 
+
+issue, the soft limit on dividends in CCAR.  Since its inception, our policy statements on CCAR 
+
+have indicated that a capital plan with a planned dividend payout ratio above 30 percent would 
+
+be subjected to particularly close scrutiny.  When this policy was adopted in late 2010, we 
+
+expected that it would be a useful guideline during a period when most of the CCAR banks 
+
+                                                 
+12 See Beverly Hirtle (2014), “Bank Holding Company Dividends and Repurchases during the Financial Crisis,” 
+Staff Report No. 666 (New York: Federal Reserve Bank of New York, March). 
+13 Were a countercyclical capital buffer to be imposed, it would be added to the buffers above the 4.5 percent 
+minimum capital requirement. 
+14 During the financial crisis, firms began to curtail share repurchases beginning in 2007 but generally did not cut 
+dividends until late 2008. See Hirtle (2014). 
+

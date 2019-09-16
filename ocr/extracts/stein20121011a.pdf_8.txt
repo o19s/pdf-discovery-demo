@@ -1,0 +1,53 @@
+
+- 7 - 
+ 
+
+
+Treasury rate by 20 basis points.  A simple way to proceed would be to plug this 20 basis 
+
+point change into one of our econometric models and ask what the consequences are for 
+
+gross domestic product growth and unemployment.  As a concrete case, if you did this 
+
+exercise  with the Fed’s workhorse FRB/US model, it would tell you that the $500 billion 
+
+LSAP should bring down the unemployment rate by approximately two-tenths of a 
+
+percentage point at a two-year horizon.8  This effect is economically meaningful. 
+
+Naturally, all models rely on a host of assumptions, so the true effect could be 
+
+larger or smaller than what comes out of the FRB/US model.  But I will focus on two 
+
+sources of uncertainty in particular.  A first uncertainty relates to a point raised earlier--
+
+that a given impact on Treasury bonds may not pass through fully to other rates that are 
+
+more relevant for consumption and investment decisions, such as corporate bond rates or 
+
+primary mortgage market rates.  The recent academic literature seems divided on this 
+
+point, as some papers argue that the pass-through is near 100 percent while others claim 
+
+that it is quite low.9  My own reading of the evidence is that, thus far, there has been 
+
+substantial pass-through from LSAPs to corporate bonds and mortgages, and some, but 
+
+considerably less, to other, more distant asset categories like equities.   
+
+Leaving aside this set of complications--so that we suppose our $500 billion 
+
+LSAP has an impact of 20 basis points on corporate bond rates as well as on Treasury 
+
+rates--there is a second, perhaps more fundamental, issue.  How should one expect a 
+
+company to respond when its long-term borrowing costs fall not because of a change in 
+
+                                                 
+8 See Chung and others (2012). 
+9 Papers that examine the pass-through issue include Gagnon and others (2011), Wright (2011), 
+Krishnamurthy and Vissing-Jørgensen (2011), Swanson (2011), and Hancock and Passmore (2011).  
+Primary mortgage rates, of course, are distinct from secondary-market rates for assets traded in centralized 
+markets.  A variety of factors affect the wedge between the secondary MBS rate and the primary mortgage 
+rate, and these factors, and hence the degree of pass-through, may vary over time. 
+

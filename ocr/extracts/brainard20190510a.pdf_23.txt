@@ -1,0 +1,30 @@
+
+      Note:  Wealth values are reported in 2018 dollars using personal consumption expenditures prices and indexed to 1989:Q3. 
+      Source:  Federal Reserve Board, Distributional Financial Accounts; Bureau of Economic Analysis; calculations by Board staff. 
+
+50
+
+100
+
+150
+
+200
+
+250
+
+300
+
+1989:Q3 1992:Q3 1995:Q3 1998:Q3 2001:Q3 2004:Q3 2007:Q3 2010:Q3 2013:Q3 2016:Q3
+
+Figure 1.  Change in household wealth since 1989, by income percentiles1989:Q3 = 100
+
+70-90%
+
+0-40%
+
+40-70%
+
+90-100%
+
+2018:Q4
+

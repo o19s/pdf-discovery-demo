@@ -1,0 +1,55 @@
+
+Conditional Forecasts for the 
+d l d d iFederal Funds Rate and House Prices
+
+Federal Funds Rate Real House Prices
+
+6
+
+8
+
+50
+
+60
+Federal Funds Rate Real House Prices
+
+2
+
+4
+
+Pe
+rc
+
+en
+t
+
+30
+
+40
+
+Lo
+g 
+
+po
+in
+
+ts
+
+0
+10
+
+20
+
+-2
+00 01 02 03 04 05 06 07 08
+
+0
+00 01 02 03 04 05 06 07 08
+
+Note:  Shaded areas denote values within 2 standard deviations of the conditional forecast of each variable.
+
+Source:  Federal Reserve Board, Bureau of Economic Analysis, FirstAmerican LoanPerformance, and Federal
+Reserve staff calculations.
+
+6
+

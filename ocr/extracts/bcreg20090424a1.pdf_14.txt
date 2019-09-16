@@ -1,0 +1,79 @@
+
+[page 12] 
+
+Loss and revenue projections submitted by the firms were adjusted to ensure consistency across 
+
+institutions and consistency with the macroeconomic scenarios defined for the exercise. These 
+
+adjustments reflect a combination of the analysis of the supervisory teams, benchmarks developed by 
+
+the teams and by economists and analysts working at the agencies, and supervisory judgment and 
+
+knowledge of the individual firms in the exercise. A synopsis of the assessment process by category is 
+
+described below. 
+
+III. B. Supervisory Review and Benchmark Assessments by Category 
+
+First and Second Lien Mortgages 
+
+Supervisory teams for the residential mortgage portfolios evaluated the firms' submissions, 
+
+which described the portfolios, methods used to project losses, and important assumptions in those 
+
+methods. As part of a special request for this exercise, the participating BHCs provided detailed and 
+
+uniform descriptions of their residential mortgage portfolio risk characteristics. In particular, firms 
+
+provided information on type of product, loan-to-value (LTV) ratio, FICO score, geography, level of 
+
+documentation, year of origination, and other features. First mortgages, home equity lines of credit 
+
+(HELOCs), and closed-end second-mortgage products were each evaluated separately. Each firm's 
+
+models, assumptions, and circumstances were evaluated independently and relative to those of peer 
+
+firms to determine adjustments to the firm's submission. Assumptions about prepayments and new 
+
+originations were normalized to be generally consistent across firms. Portfolios were then analyzed 
+
+using firm-specific portfolio attributes and common loss estimation methodologies calibrated to 
+
+industry-wide data. Certain attributes, in particular FICO, LTV bands, vintage, product type, and 
+
+geography, were found to be strongly predictive of default. These attributes were used to further 
+
+evaluate submissions by the firms, and where necessary, loss estimates were adjusted to better reflect 
+
+portfolio characteristics in a consistent way across firms. 
+
+Credit Cards and Other Consumer Loans 
+
+For credit cards, the supervisory teams evaluated methods used to project losses and 
+
+benchmarked each firm's results against historical trends in these portfolios (for example, loss, paydown 
+
+/ runoff, roll rates, utilization) in the context of the two macroeconomic scenarios. Firms submitted 
+
+detailed information on their credit card portfolios. Data included FICO scores, payment rates, 
+
+utilization rates, and geographic concentrations. The teams developed specific portfolio risk profiles in 
+
+order to make cross-firm comparisons to gauge the reasonableness of the loss estimates submitted by 
+
+the firms. Once normalized for assumptions, adjustments to loss rates were made where necessary, but 
+
+in general the supervisory results were relatively close to the BHCs' estimates. 
+
+For other consumer loans, which are composed mainly of auto loans, personal loans, and 
+
+student loans, firms provided information on FICO scores, LTV, term, vehicle age, and geographic 
+
+concentration. This detailed data were evaluated along with the analysis of the underlying components 
+
+of each firm's portfolio, including historical loss experience. Supervisors also examined various 
+
+performance measures to assess the relative riskiness of the portfolios across firms to arrive at 
+
+projected loss rates. 
+

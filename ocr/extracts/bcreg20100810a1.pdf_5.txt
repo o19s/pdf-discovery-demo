@@ -1,0 +1,56 @@
+
+
+ 5
+
+Regulations and Legislation Division, (202) 906-6639, Office of Thrift Supervision, 1700 
+G Street, NW, Washington, DC 20552. 
+ 
+
+I. BACKGROUND  
+
+ The agencies’ regulations and capital standards include various references to and 
+regulatory requirements based on the use of credit ratings issued by NRSROs.1  Section 
+939A of the Act requires each Federal agency to review “(1) any regulation issued by 
+such agency that requires the use of an assessment of the credit-worthiness of a security 
+or money market instrument; and (2) any references to or requirements in such 
+regulations regarding credit ratings.” 2  Each Federal agency must then “modify any such 
+regulations identified by the review … to remove any reference to or requirement of 
+reliance on credit ratings and to substitute in such regulations such standard of credit-
+worthiness as each respective agency shall determine as appropriate for such 
+regulations.”  In developing substitute standards of credit-worthiness, an agency “shall 
+seek to establish, to the extent feasible, uniform standards of credit-worthiness” for use 
+by the agency, taking into account the entities it regulates that would be subject to such 
+standards.3   
+
+ Through this advanced notice of proposed rulemaking (ANPR), the agencies are 
+seeking to gather information as they begin to work toward revising their regulations and 
+capital standards to comply with the Act.  This ANPR describes the areas in the agencies’ 
+general risk-based capital rules,4 market risk rules,5 and advanced approaches rules6 
+(collectively, the risk-based capital standards) where the agencies rely on credit ratings, 
+as well as the Basel Committee on Banking Supervision’s (Basel Committee) recent 
+amendments to the Basel Accord.7  The ANPR requests comment on potential 
+
+                                                 
+1A nationally recognized statistical rating organization (NRSRO) is an entity registered with the U.S. 
+Securities and Exchange Commission (SEC) as an NRSRO under section 15E of the Securities Exchange 
+Act of 1934.  See 15 U.S.C. 78o-7, as implemented by 17 CFR 240.17g-1.  On September 29, 2006, the 
+President signed the Credit Rating Agency Reform Act of 2006 (“Reform Act”) (Pub. L. 109-291) into law.  
+The Reform Act requires a credit rating agency that wants to represent itself as an NRSRO to register with 
+the SEC. 
+ 
+2 Pub. L. No. 111-203, 124 Stat. 1376, section 939A (July 21, 2010).  Although the agencies have 
+conducted a broad review of their risk-based capital regulations to identify all references to credit ratings 
+and consider alternatives, the agencies note that section 939A of the Dodd-Frank Act limits the required          
+review of agency regulations to those pertaining to a credit-worthiness assessment of a security or money 
+market instrument.  
+3 Id. 
+4 See 12 CFR Part 3, Appendix A (OCC); 12 CFR parts 208 and 225, Appendix A (Board); 12 CFR part 
+325, Appendix A (FDIC); 12 CFR part 567, subpart B (OTS). 
+5 See 12 CFR Part 3, Appendix B (OCC); 12 CFR parts 208 and 225, Appendix E (Board); 12 CFR part 
+325, Appendix C (FDIC); OTS does not have a market risk rule. 
+6 See 12 CFR Part 3, Appendix C (OCC); 12 CFR part 208, Appendix F and 12 CFR part 225, Appendix G 
+(Board); 12 CFR part 325, Appendix D (FDIC); 12 CFR part 567, Appendix C (OTS). 
+7 See “International Convergence of Capital Measurement and Capital Standards, a Revised Framework, 
+Comprehensive Version,” the Basel Committee on Banking Supervision, June 2006.  The full text is 
+available on the Bank for International Settlement’s website, http://www.bis.org/publ/bcbs128.htm. 
+

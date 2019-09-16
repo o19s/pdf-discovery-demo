@@ -1,0 +1,39 @@
+
+4.25
+
+4.50
+
+4.75
+
+5.00
+
+5.25
+
+5.50
+
+5.75
+
+6.00
+
+Percent
+
+2009 2010 2011 2012 2013 2014 2015 2016 2017 2018
+
+FOMC
+Blue Chip
+SPF
+CBO
+
+Figure 9.  Real−Time Assessments of the Natural Rate
+of Unemployment
+
+      Note: The Federal Open Market Committee (FOMC) data are quarterly, extend through September 2018, and are projections of 
+longer−term normal. The Blue Chip data are biannual, extend through March 2018, and are projections for 6 to 10 years in the future. 
+The Survey of Professional Forecasters (SPF) data are annual, extend through August 2018, and are projections of longer−run normal. 
+The Congressional Budget Office (CBO) data are biannual, extend through August 2018, and are the natural rate projection for the 
+current quarter at the time of the projection.
+      Source:  For FOMC, Summary of Economic Projections, available on the Board’s website at https://www.federalreserve.gov/
+monetarypolicy/fomccalendars.htm; for Blue Chip, Wolters Kluwer, Blue Chip Economic Indicators; for SPF, Survey of Professional 
+Forecasters (retrieved from Federal Reserve Bank of Philadelphia Real−Time Data Center); for CBO, Congressional Budget Office (The 
+Budget and Economic Outlook) and Federal Reserve Bank of St. Louis (ALFRED).
+

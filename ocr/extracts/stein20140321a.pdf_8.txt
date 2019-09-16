@@ -1,0 +1,52 @@
+
+ - 7 - 
+
+In response to this critique, one might instead seek to focus the attention of 
+
+monetary policymakers on broader measures of private-sector leverage that are outside 
+
+the reach of traditional financial regulation.  For example, Borio and Drehmann 
+
+document that the ratio of credit to the private nonfinancial sector relative to gross 
+
+domestic product (GDP), once suitably detrended, has substantial predictive power for 
+
+financial crises, so perhaps it might make sense for monetary policy to condition on this 
+
+kind of broad credit-to-GDP ratio.10  However, if one goes this route, another 
+
+measurement challenge arises:  How, if at all, does monetary policy influence the 
+
+evolution of the ratio?  Without an answer to this question, it is hard to say how much 
+
+one would want to alter the stance of policy when, say, the ratio is abnormally high 
+
+relative to trend.  And the measurement problem is likely to be a difficult one, given that 
+
+the credit-to-GDP ratio is a slow-moving variable:  Unlike with asset prices, there is no 
+
+scope for doing an event-study analysis of the effect of a change in policy on the item of 
+
+interest.11 
+
+Risk Premiums in the Bond Market 
+
+Motivated in part by these observations, I would like to spend the rest of this talk 
+
+exploring an alternative, albeit potentially complementary, approach to the problem.  
+
+Rather than focusing primarily on some measure of intermediary leverage as an input into 
+
+the monetary policy framework, my suggestion is to also look at estimates of risk 
+
+premiums in the bond market.  Thus, at a broad thematic level, I am taking a capital-
+
+                                                 
+10 See Borio and Drehmann (2009).  But here, too, one might argue that macroprudential tools that reach 
+beyond the banking sector to target broad measures of household leverage might be more direct, if such 
+tools were available.  An example would be limits on the loan-to-value ratios of all mortgage loans, 
+irrespective of whether they reside on bank balance sheets.    
+11 A further difficulty lies in the real-time estimation of the underlying trend in the credit-to-GDP ratio and, 
+hence, in the gap relative to trend.  See Edge and Meisenzahl (2011). 
+ 
+

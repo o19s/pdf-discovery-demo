@@ -1,0 +1,54 @@
+
+- 6 - 
+ 
+
+
+that block.  For instance, in a life insurance building block, subsidiaries within this block would 
+
+be treated in the BBA the way they would be treated under life insurance capital requirements.   
+
+In a depository institution building block, subsidiaries would be subject to bank 
+
+regulatory capital requirements.  The financial crisis taught us that certain activities in an 
+
+insurance enterprise--for instance, derivatives activity--could pose risks to the enterprise that 
+
+may not always be reflected through affiliates subject to capital regimes.  To address regulatory 
+
+gaps and arbitrage risks, like those made manifest in the financial crisis, the BBA generally 
+
+would apply bank regulatory capital requirements to nonbank/non-insurance building blocks.   
+
+Once the enterprise’s entities are grouped into building blocks, and capital resources and 
+
+requirements are computed for each building block, the enterprise’s capital position is produced 
+
+by generally adding up the capital positions of each building block. 
+
+In order for the BBA’s aggregation to function appropriately, and to reflect the Board’s 
+
+supervisory objectives, the BBA needs to make certain adjustments to the building blocks.  For 
+
+instance, to compare similar activities across building blocks, the BBA would apply insurance 
+
+capital rules consistently, without regard to permitted accounting practices granted by an 
+
+individual state, thus uniformly applying statutory accounting principles as set forth by the 
+
+NAIC.  Measures to avoid double-counting, including double-leverage, that could arise from 
+
+intercompany transactions would be built into the BBA’s aggregation process.  Other areas 
+
+where adjustments would be made include provisions to comply with the Collins Amendment of 
+
+the Dodd-Frank Act9--for instance, allowing only instruments meeting the criteria under the 
+
+                                                 
+9 The so-called Collins Amendment (Section 171) of the Dodd-Frank Act requires, among other things, that the 
+Board establish consolidated, minimum risk-based capital requirements that are not less than the current generally 
+applicable capital requirements for insured depository institutions nor quantitatively lower than the generally 
+applicable capital requirements for these institutions in effect at the time of the Dodd-Frank Act’s enactment.  
+A 2014 amendment to this provision set out that, in applying these minimum capital requirements, the Board is not 
+required to include a person regulated by a state insurance regulator or a regulated foreign subsidiary or affiliate of 
+such person engaged in the business of insurance. 
+

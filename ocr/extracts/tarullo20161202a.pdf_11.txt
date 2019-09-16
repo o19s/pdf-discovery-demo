@@ -1,0 +1,50 @@
+
+10 
+ 
+
+A second important feature of the post-crisis regulatory regime for large banks has been 
+
+the introduction of quantitative liquidity regulations.  The financial crisis was, in the first 
+
+instance, as much about liquidity as solvency.  What proved in retrospect to be excessive 
+
+liquidity for some types of assets turned into scarcity nearly overnight, confirming the view that 
+
+liquidity is most available when you need it least and least available when you need it most.  The 
+
+period was defined by runs, not on bank deposits (at least not insured bank deposits), but on 
+
+short-term wholesale funding.  Because of deep uncertainty about the condition of counterparties 
+
+and the value of assets serving as collateral, investors refused to roll over existing repurchase 
+
+agreements (or repos) and similar extensions of credit, much less to offer new lending.  Many 
+
+trading activities ground to a near halt, and dealers were forced into fire sales of the assets on 
+
+their balance sheets that remained liquid.  Indeed, it was difficult at times to distinguish between 
+
+liquidity and solvency crises at particular firms. 
+
+The Liquidity Coverage Ratio (LCR) and Net Stable Funding Ratio (NSFR) have placed 
+
+the funding of large banks on a firmer footing.  The LCR requires a large bank to hold enough 
+
+high-quality liquid assets to cover the net cash outflows the bank would expect to occur over a 
+
+30-day stress scenario.  This requirement establishes a buffer against liquidity risk that reduces 
+
+the bank’s vulnerability to a run, such as materialized in the recent crisis.  In the event a bank 
+
+does encounter liquidity difficulties, the LCR’s 30-day buffer will give the authorities time to 
+
+assess the bank’s condition and react as appropriate. 
+
+The NSFR complements the LCR by requiring an amount of stable funding that is 
+
+tailored to the liquidity risk of a bank’s assets and liabilities, based on a one-year time horizon.  
+
+The NSFR creates an incentive for banks to extend the maturity of their funding, making them 
+
+more resilient to market stress.  To offset the risks of the short-term wholesale funding structures 
+

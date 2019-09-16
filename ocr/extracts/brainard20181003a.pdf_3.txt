@@ -1,0 +1,51 @@
+
+- 2 - 
+ 
+
+
+safe, efficient, and widely accessible payment infrastructure has been a crucial aspect of the 
+
+Fed’s mission from its founding in 1913.  By creating a new core infrastructure for clearing and 
+
+settling checks, the Fed was able to boost confidence in banks and America’s payment system, 
+
+ensure Americans received the full value of their checks, and speed up payments.  
+
+That was the first, but not the last, time that the Fed played a central role in transforming 
+
+America’s retail payment system.  By the 1970s, the payment system was staggering under the 
+
+weight of paper checks.  In 1973, Governor Jeffrey Bucher of the Federal Reserve Board 
+
+described the exponential growth in check volume and the time-consuming and expensive 
+
+process to clear paper checks as a “time bomb.”3  The Federal Reserve and payment system 
+
+stakeholders faced a choice:  continue making incremental changes to manage the growing 
+
+avalanche of checks, or look to technology to facilitate transformational change.     
+
+Working with the private sector, the Federal Reserve chose transformation, and the effect 
+
+was dramatic.  In partnership with the private sector, the Federal Reserve supported the 
+
+implementation of the automated clearinghouse, or ACH system, to process payroll payments for 
+
+individuals, bill payments for households, and vendor payments for businesses.  Before the 
+
+advent of the ACH, it would typically take a week for an employee to be able to access the funds 
+
+from a paycheck.  It would require first a trip to the bank during business hours to deposit the 
+
+paycheck and then several business days for that bank to complete the time-consuming process 
+
+of collecting the funds from the employer’s bank.4  With the advent of ACH, an employee could 
+
+expect to access their pay from their bank on the same day it was deposited electronically by 
+
+                                                            
+3 Jeffrey Bucher, “The Check,” (remarks at the Annual Meeting, Bank Stationers Association, Colorado Springs, 
+CO, June 4, 1973), https://fraser.stlouisfed.org/title/931/item/36180. 
+4 Andre Pollack, “The New Look to Bankers’ Hours,” New York Times, April 8, 1989, 
+www.nytimes.com/1989/04/08/business/the-new-look-to-bankers-hours.html. 
+

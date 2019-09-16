@@ -1,0 +1,53 @@
+
+
+
+- 8 - 
+
+By contrast, when the spread between the 10-year and 3-month Treasury yields was at its 
+
+peak in early 2010, this measure of the term premium was close to 100 basis points.10 
+
+Other things being equal, a smaller term premium will make the yield curve flatter 
+
+by lowering the long end of the curve.  With the term premium today very low by 
+
+historical standards, this may temper somewhat the conclusions that we can draw from a 
+
+pattern that we have seen historically in periods with a higher term premium.  With a 
+
+very low term premium, any given amount of monetary policy tightening will lead to an 
+
+inversion sooner so that even a modest tightening that might not have led to an inversion 
+
+in the past could do so today. 
+
+There are a number of possible explanations of the low level of the term premium.  
+
+The asset purchases of the Federal Reserve and other central banks may be contributing 
+
+factors.  The goal of these policies was to lower longer-term interest rates--and in many 
+
+cases, expressly by lowering term premiums.  A number of studies suggest that these 
+
+polices have indeed been successful in lowering term premiums.11   
+
+A second reason the term premium may be lower than in the past is the changing 
+
+correlation between stock and bond returns, likely caused by changes in expected 
+
+inflation outcomes.12  While in the 1970s and 1980s stock and bond returns tended to be 
+
+positively correlated, more recently the correlation has tended to be negative.  With an 
+
+inverse correlation, bonds recently have been a good hedge for stocks, and that 
+
+correlation may have contributed to lower bond term premiums by increasing the demand 
+
+for bonds as an instrument for hedging portfolio risks.  This changed correlation between 
+
+                                                 
+10 See Kim and Wright (2005) for technical details; the latest estimates are available on the Board’s website 
+at https://www.federalreserve.gov/pubs/feds/2005/200533/200533abs.html. 
+11 See, for example, Li and Wei (2013). 
+12 See Chen, Engstrom, and Grishchenko (2016). 
+

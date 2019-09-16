@@ -1,0 +1,50 @@
+
+ - 11 - 
+
+target, the Federal Reserve wants to add monetary accommodation.  Suppose further that 
+
+doing so lowers the credit risk premium to 200 basis points temporarily but also increases 
+
+the odds that this risk premium will, at some point in the next couple of years, revert 
+
+sharply, moving back in the direction of 400 basis points.  What is the downside here?  
+
+Given a desire for accommodation, is it not better to have credit risk premiums pushed 
+
+down to a lower on-average level, even if that potentially involves a more volatile down-
+
+then-up path?  Again, the answer depends critically on whether there is some kind of 
+
+asymmetry, whereby the eventual increase in spreads either is more abrupt, or has a 
+
+larger effect on the real economy, than the initial compression. 
+
+In table 1 and figure 2, I present some new evidence that bears on this asymmetry.  
+
+To do so, I build directly on recent work by Gilchrist and Zakrajsek (hereafter, GZ).19  
+
+GZ show that changes in credit risk premiums have substantial predictive power for 
+
+measures of economic activity like GDP and unemployment.  More specifically, GZ 
+
+construct a variable called the excess bond premium (EBP).  The EBP at any point in 
+
+time is, roughly speaking, a measure of marketwide credit spreads minus an estimate of 
+
+the expected default losses on bonds.  Hence, it can be thought of as a proxy for the 
+
+excess return that bondholders can expect to earn, net of defaults, on a going-forward 
+
+basis--very much in the spirit of the risk premium concept to which I have been referring.  
+
+Not surprisingly, the EBP exhibits considerable time-series variation, reaching a peak in 
+
+the wake of the Lehman Brothers bankruptcy.  Moreover, in simple forecasting 
+
+regressions, changes in the EBP are associated with significant movements in GDP and 
+
+unemployment one year later.  In other words, an increase in the EBP--that is, a widening 
+
+                                                 
+19 See Gilchrist and Zakrajsek (2012). 
+

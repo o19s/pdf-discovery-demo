@@ -1,0 +1,56 @@
+
+ - 8 - 
+
+had taken out bank loans or issued bonds.12  Of course, in this situation, lenders would be 
+
+receiving more real income.  But the net effect on the economy is likely to be negative, in 
+
+large part because borrowers typically have only a limited ability to absorb losses.  And if 
+
+the increased debt-service burdens and declines in collateral values are severe enough to 
+
+force borrowers into bankruptcy, then the resultant hardship imposed on families, small 
+
+business owners, and laid-off workers may be very severe.13   
+
+Monetary Policy Actions since the Financial Crisis 
+
+As I noted earlier, after weighing the costs associated with various rates of 
+
+inflation, the FOMC decided that 2 percent inflation is an appropriate operational 
+
+definition of its longer-run price objective.14  In the wake of the 2008 financial crisis, 
+
+                                                 
+12 See Fisher (1933) for an early discussion of debt deflation and its effects on the economy. 
+13 Very low inflation also can result in chronically higher unemployment by closing off an important way in 
+which the labor market can respond to adverse shocks.  In sectors where productivity is lagging or demand 
+is slowing, declines in real wages might be necessary to avoid even worse outcomes, such as layoffs.  For 
+various reasons, however, employers often try to avoid nominal wage cuts.  (Bewley (1999) suggests a 
+number of reasons that firms find cutting nominal wages difficult, including the effect that such cuts have 
+on employee morale.  Inflation is therefore often said to “grease the wheels of the labor market” because it 
+permits these required adjustments in real wages to occur through a combination of unchanged nominal 
+wages and rising prices.)  But when inflation falls to a very low level, this passive approach to wage 
+reductions may no longer be viable for many firms, causing relatively more of the burden of adjustment to 
+fall on employment. 
+14 Blanchard, Dell’Ariccia and Mauro (2010), among others, have recently suggested that central banks 
+should consider raising their inflation targets, on the grounds that conditions since the financial crisis have 
+demonstrated that monetary policy is more constrained by the effective lower bound (ELB) on nominal 
+interest rates than was originally estimated.  Ball (2013), for example, has proposed 4 percent as a more 
+appropriate target for the FOMC.  While it is certainly true that earlier analyses of ELB costs significantly 
+underestimated the likelihood of severe recessions and slow recoveries of the sort recently experienced in 
+the United States and elsewhere (see Chung and others, 2012), it is also the case that these analyses did not 
+take into account central banks’ ability to use large-scale asset purchases and other unconventional tools to 
+mitigate the costs arising from the ELB constraint.  In addition, it is not obvious that a modestly higher 
+target rate of inflation would have greatly increased the Federal Reserve’s ability to support real activity in 
+the special conditions that prevailed in the wake of the financial crisis, when some of the channels through 
+which lower interest rates stimulate aggregate spending, such as housing construction, were probably 
+attenuated.  Beyond these tactical considerations, however, changing the FOMC’s long-run inflation 
+objective would risk calling into question the FOMC’s commitment to stabilizing inflation at any level 
+because it might lead people to suspect that the target could be changed opportunistically in the future.  If 
+so, then the key benefits of stable inflation expectations discussed below--an increased ability of monetary 
+policy to fight economic downturns without sacrificing price stability--might be lost.  Moreover, if the 
+purpose of a higher inflation target is to increase the ability of central banks to deal with the severe 
+recessions that follow financial crises, then a better strategic approach might be to rely on more vigorous 
+supervisory and macroprudential policies to reduce the likelihood of such events.  Finally, targeting 
+

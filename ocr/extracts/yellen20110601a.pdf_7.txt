@@ -1,0 +1,53 @@
+
+- 6 - 
+ 
+
+ 
+ 
+
+example, the Federal Reserve’s Senior Loan Officer Opinion Survey on Bank Lending Practices 
+
+provides information about changes in the supply of and demand for bank loans to businesses 
+
+and households.4  As shown in figure 4, recent surveys indicate that banks have reversed only a 
+
+portion of the substantial tightening in credit standards and terms put in place after the crisis.  
+
+Dealer-Intermediated Leverage 
+
+In the wake of the crisis, the Federal Reserve has intensified its efforts to monitor 
+
+leverage, particularly outside of the traditional banking system.  Information on the use of 
+
+leverage is incomplete at best, and in our attempts to better measure leverage, we must grapple 
+
+with several complexities.  For instance, in recent years a significant volume of credit 
+
+intermediation has migrated outside the traditional banking system, where it is not only 
+
+unprotected by a formal government backstop but also difficult to capture by traditional 
+
+accounting measures.  A further complication stems from the fact that dealers in securities and 
+
+OTC derivatives--the key providers of leverage outside of the traditional banking system--can 
+
+facilitate a particular economic exposure using a variety of transactional structures including, for 
+
+example, combinations of securities financing, OTC derivatives, and prime brokerage activities. 
+
+To obtain information on the usage and pricing of such leverage, the Federal Reserve 
+
+relies on a number of different indicators, including supervisory and market surveillance data, as 
+
+well as ongoing dialog with a range of market participants to construct a composite picture of the 
+
+extent to which leverage is being deployed, on what terms, and the channels through which 
+
+leverage is being facilitated by dealers.  These indicators include results from the Senior Credit 
+
+Officer Opinion Survey on Dealer Financing Terms (SCOOS), which was launched by the 
+
+                                                            
+4 Results of the Senior Loan Officer Opinion Survey on Bank Lending Practices are available on the Board’s 
+website at www.federalreserve.gov/boarddocs/SnLoanSurvey. 
+

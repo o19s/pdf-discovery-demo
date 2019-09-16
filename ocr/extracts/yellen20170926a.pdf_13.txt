@@ -1,0 +1,52 @@
+
+ - 12 - 
+
+could be interpreted as a significant drop in market participants’ expectations for the most 
+
+likely outcome for inflation in the longer run.  However, research suggests that the fall in 
+
+TIPS inflation compensation instead primarily reflects a decline in inflation risk 
+
+premiums and differences in the liquidity of nominal and indexed Treasury securities.21  
+
+This research notwithstanding, the notable decline in inflation compensation may be a 
+
+sign that longer-term inflation expectations have slipped recently. 
+
+Misspecified Inflation Dynamics 
+
+Another risk is that our framework for understanding inflation dynamics could be 
+
+misspecified in some fundamental way, perhaps because our econometric models 
+
+overlook some factor that will restrain inflation in coming years despite solid labor 
+
+market conditions.  One possibility in this vein is a continuation of the subdued growth in 
+
+health-care prices that we have seen in recent years--a sector-specific factor not 
+
+controlled for in standard models.  Because health care accounts for a large share of total 
+
+consumer spending, this slow growth has restrained overall inflation materially and may 
+
+continue to do so for some time.22  A similar situation occurred during the 1990s, when a 
+
+significant shift in health insurance enrollment away from fee-for-service and toward 
+
+HMO (that is, Health Maintenance Organization) plans reduced cost pressures and held 
+
+                                                 
+21 For example, Andreasen and Christensen (2016) show that once TIPS liquidity premiums are taken into 
+account, the model-implied one-year inflation expectation becomes more stable and shows a smaller 
+decline since 2013.  In addition, quotes on inflation derivatives suggest that most of the decline in inflation 
+compensation over this period is associated with investor perceptions of reduced risks of above-target 
+inflation outcomes rather than increased risks of below-target inflation outcomes. 
+22 Personal consumption expenditures include all medical services, including those paid by Medicare and 
+Medicaid; prices for the latter may be viewed as “administered” because they are essentially set by the 
+government.  The formulas used to set Medicare prices were adjusted by the 2010 Affordable Care Act and 
+additional legislation passed in 2015, resulting in smaller increases in prices for the same increase in costs 
+than would have been the case in the prior decade.  In addition, Medicaid prices have probably been 
+restrained somewhat by budget pressures on state governments.  Aside from these direct influences of 
+government policy on healthcare prices, some research suggests that lower Medicare prices tend to lead to 
+lower negotiated prices by private insurers as well (see Clemens, Gottlieb, and Shapiro, 2016).   
+

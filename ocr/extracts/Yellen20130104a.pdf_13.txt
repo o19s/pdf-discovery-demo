@@ -1,0 +1,57 @@
+
+ - 12 - 
+
+funding and interbank markets.  While some participants in each of these sectors had 
+
+direct exposures to Lehman, many more did not.  Moreover, even in cases in which direct 
+
+exposures to Lehman were manageable, the turmoil caused by Lehman’s failure added 
+
+stress to the system at a particularly unwelcome time.  In this way, the failure of a highly 
+
+interconnected institution such as Lehman imposes costs on society well in excess of 
+
+those borne by the firm’s shareholders and direct creditors.  Accordingly, tying enhanced 
+
+capital requirements to interconnectedness improves the resilience of the system.  Of 
+
+course, higher capital requirements are not costless; they may raise financing costs for 
+
+some borrowers, and they have the potential to induce institutions to engage in regulatory 
+
+arbitrage.  An important ongoing agenda for research and policy is the design and 
+
+implementation of data-based measures of interconnectedness to ensure that our 
+
+understanding of financial system interconnections evolves in tandem with financial 
+
+innovation.       
+
+While enhanced capital standards for GSIBs are an important tool for managing 
+
+systemic risk that arises through interconnectedness, they are not the only tool.  The 
+
+Basel Committee’s program contains a number of initiatives that will help manage 
+
+interconnectedness and systemic risk.  These measures include countercyclical capital 
+
+buffers, liquidity requirements, increased capital charges for exposures to large financial 
+
+institutions, large exposure rules, and deductions from capital for equity investments in 
+
+banks.
+15
+
+  These and other initiatives will all play a role in managing the effect of 
+
+complexity and interconnectedness on financial stability.  In fact, the multifaceted nature 
+
+of the reform program is an important design principle.  One of the lessons of the recent 
+
+                                                 
+15
+
+ For a description of these and related regulatory initiatives, see Bank for International Settlements 
+
+(2010). 
+

@@ -1,0 +1,51 @@
+
+- 30 - 
+ 
+
+                                                                                                                                                                                                
+conditions under which it would determine that a "threat to financial stability" may exist and the transmission 
+channels through which distress at a firm could affect the broader economy.  What is noteworthy for my purposes 
+today – beyond the elaborate nature of this exercise – is that ultimately the FSOC will make each determination on a 
+very company-specific basis, with attention to the particular risks posed by each individual company.  Indeed, 
+recognizing that the assessment of different kinds of financial firms may require varying analytic frameworks, the 
+FSOC has segmented its work.  So, for example, it will consider asset managers and hedge funds separately from 
+other forms of financial intermediaries.   
+32 In fact, of course, the antitrust agencies and the courts have over the years given greater or lesser weight to 
+possible efficiencies resulting from a merger, thereby introducing a consideration other than competition as such. 
+33 As noted earlier, the two governing provisions in the Bank Holding Company Act differ somewhat.  For the 
+present purpose of discussing financial stability analysis, however, we need not dwell on these differences. 
+34 The HHI is calculated by squaring the market share of each firm in a particular market and then adding those 
+squared market shares.  The antitrust agencies have specified the relative level of scrutiny that can be expected from 
+particular combinations of changes in, and post-merger HHIs, although they are careful to point out that HHI is not a 
+"rigid screen."  U.S. Department of Justice, Horizontal Merger Guidelines §5.3 (Aug. 19, 2009).  
+35 In the Wells-Wachovia and JPMorgan-Washington Mutual cases, concerns about the impact of Wachovia’s 
+failure on the Deposit Insurance Fund may also have played a role. 
+36 Board of Governors of the Federal Reserve, Capital One Financial Corporation, McLean, Virginia, Order 
+Approving the Acquisition of a Savings Association and Nonbanking Subsidiaries, FRB Order No. 2012-2 (Feb. 14, 
+2012) at p. 28. 
+37 Board of Governors of the Federal Reserve, Order Approving Acquisition, pp. 28-29. 
+38 Board of Governors of the Federal Reserve, Order Approving Acquisition, p. 30. 
+39 There are eight U.S. banks on this list, as well as many foreign-based firms with significant U.S. operations.  
+However, the buckets to which they will be assigned will not be finalized under more up-to-date data is available 
+and analyzed next year.  Once final agreement has been reached by the Basel Committee, ordering  the systemically 
+important banks into categories with progressively increasing surcharges, the Federal Reserve Board intends to 
+propose matching provisions for covered U.S. banks under its Section 165 authority.  In conducting our annual 
+reviews of the capital levels and planning processes of major U.S. bank holding companies, we have already 
+instructed the eight firms on the Basel Committee list to include their estimated required surcharge in their plan for 
+reaching their ultimate capital requirement. 
+40 The Basel Committee has not yet completed its work on this initiative.  Its proposal has been published in Basel 
+Committee on Banking Supervision, Consultative Document on a Framework for Dealing with Domestic 
+Systemically Important Banks (June 2012).  The proposal is that national authorities would designate these 
+institutions (as compared to the global systemically important banks, which are to be designated by the Basel 
+Committee itself), and that the nature of the enhanced loss absorbency for any such institutions also be left to 
+national discretion (as compared to the global systemically important banks, for which capital surcharges are to be 
+required and their amounts specified by the Basel Committee). 
+41 A paper by Katharina Pistor explains how the regulatory implications of three different theories of financial 
+stability would differ.  Katharina Pistor (2012), “On the Theoretical Foundations for Regulating Financial Markets,” 
+Columbia Law School Public Law & Legal Theory Working Paper 12-304, June. 
+42 Daniel K. Tarullo (2012), “Shadow Banking After the Financial Crisis,” remarks delivered at the Federal Reserve 
+Bank of San Francisco Conference on Challenges in Global Finance, San Francisco, California, June 12, 
+www.federalreserve.gov/newsevents/speech/tarullo20120612a.htm. 
+43 Treasury Secretary Timothy F. Geithner (2012), letter to members of the Financial Stability Oversight Council, 
+September 27. 
+

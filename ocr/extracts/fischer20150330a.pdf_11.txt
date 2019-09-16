@@ -1,0 +1,52 @@
+
+ - 10 - 
+
+is an important mechanism through which agencies can cooperate in responding to 
+
+practices or firms that migrate outside of traditional regulatory perimeters.   
+
+Second:  securitization reform.  A regulation that is now in the process of 
+
+implementation requires securitizers to retain some of the risk of the securities that they 
+
+create.  That should incentivize them to structure securitizations in ways that better 
+
+protect the holders of senior tranches from credit risk, although qualifying residential 
+
+mortgages are exempt from the requirement.   
+
+A third area is derivative reforms.  To reduce complexity and pro-cyclicality, 
+
+these reforms include moving standardized derivatives to central counterparties (CCPs) 
+
+and requiring initial and variation margin for noncleared derivatives.  Relatedly, as CCPs 
+
+have gained prominence, regulators have become more focused on and concerned with 
+
+their resilience, recovery, and resolution.  In addition, regulators are working to improve 
+
+the quality and standardization of data reported to swap data repositories, and are actively 
+
+participating in international efforts to develop uniform identification standards to 
+
+facilitate the aggregation of such data.9  A key issue is to understand how and to what 
+
+extent market participants who use derivatives are exposed to each other. 
+
+Besides the new money market mutual fund rules that I have already mentioned, a 
+
+fourth example is additional data collection on specific holdings of money funds, which 
+
+has enhanced stability by providing investors with more information to better evaluate 
+
+risks.  In addition, the Dodd-Frank Act mandated the establishment of the Office of 
+
+Financial Research in order to help promote financial stability through the measurement 
+
+9 Due to the critical nature of overseas derivatives data and the need to standardize these data for regulatory 
+analysis, the CFTC and the OFR in 2014 formed a partnership to standardize and enhance the quality of the 
+data collected by CFTC-registered swap data repositories.  Important work on standardizing derivatives 
+data is also under way at the international level. 
+
+
+

@@ -1,0 +1,51 @@
+
+- 13 - 
+
+that would not have to worry about developing the best consumer interface, mobile app, digital 
+
+wallet, or lending product.  The bank would only have to worry about getting the connections to 
+
+an open API right and then reap the benefits of the innovation by third parties.  
+
+Regulatory Developments 
+
+As regulators, we have a responsibility to ensure that the institutions subject to our 
+
+supervision are operated safely and soundly and that they comply with applicable statutes and 
+
+regulations.  More broadly, we have a strong interest in permitting socially beneficial 
+
+innovations to flourish, while ensuring the risks that they may present are appropriately 
+
+managed, consistent with the legal requirements.  We do not want to unnecessarily restrict 
+
+innovations that can benefit consumers and small businesses through expanded access to 
+
+financial services or greater efficiency, convenience, and reduced transaction costs.  Nor do we 
+
+want to drive these activities away from regulated banks and toward less governed spaces in the 
+
+financial system.  
+
+Regulators in the United Kingdom and continental Europe have recently outlined new 
+
+approaches to facilitate connectivity in financial services, while attempting to mitigate the 
+
+associated risks.  In August 2016, the UK Competition & Markets Authority (CMA) released a 
+
+package of mandates aimed at increasing competition for consumer and small business current 
+
+accounts (akin to U.S. checking accounts).27  This year nine of the country’s largest banks were 
+
+                                                           
+Growth,” press release, April 3, 2016, www.kabbage.com/blog/kabbage-santander-uk-partner-accelerate-smb-
+growth/.  
+27 UK Competition & Markets Authority, “CMA Paves the Way for Open Banking Revolution,” press release, 
+August 9, 2016, www.gov.uk/government/news/cma-paves-the-way-for-open-banking-revolution.  (“[O]lder and 
+larger banks do not have to compete hard enough for customers’ business, and smaller and newer banks find it 
+difficult to grow.  This means that many people are paying more than they should and are not benefiting from new 
+services.  To tackle these problems, the CMA is implementing a wide-reaching package of reforms.  Central to the 
+CMA’s remedies are measures to ensure that customers benefit from technological advances and that new entrants 
+and smaller providers are able to compete more fairly.”); UK Competition & Markets Authority, Retail Banking 
+Market Investigation: Final Report,” August 9, 2016, 
+

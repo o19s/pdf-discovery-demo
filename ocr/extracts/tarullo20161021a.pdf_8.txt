@@ -1,0 +1,50 @@
+
+7 
+ 
+
+One might fairly characterize the current regulatory approach to shadow banking as one 
+
+that examines, in turn, significant forms of credit intermediation outside the banking system and 
+
+determines whether some type of prudential regulation is needed.  In the terms I introduced a 
+
+moment ago, regulators look at a particular form, such as money market funds.  If no significant 
+
+risks to financial stability are identified, or if some regulation to counteract those risks is 
+
+implemented, the form of intermediation may then be thought of as relatively safe (at least from 
+
+a systemic perspective) market-based finance.  The virtue of this approach is that it allows for a 
+
+very tailored regulatory response.  But, as you can imagine, this approach necessarily involves a 
+
+good bit of active oversight on an ongoing basis, both of measures previously taken and of new 
+
+channels of nonbank intermediation as they arise. 
+
+An alternative approach would be to define shadow banking in broadly applicable terms, 
+
+with specified regulatory consequences that ensue more or less automatically, regardless of 
+
+whether the entity conducting the shadow banking is otherwise subject to prudential regulation.  
+
+To date, the attempts I have seen along these lines look likely to entail substantial overinclusion, 
+
+substantial underinclusion, or regulatory consequences that are inappropriately uniform.  And, in 
+
+the United States and other jurisdictions, it is not clear that authority exists to take this approach, 
+
+either by an individual regulatory agency or even collectively.  But, as with hypothesizing a 
+
+functionally-based regulatory system more generally, hypothesizing a broadly applicable 
+
+regulatory definition can usefully inform the direction of the current regulatory approach of 
+
+activity-by-activity scrutiny. 
+
+Of course, while the current approach allows for an ad hoc consideration of the 
+
+particulars of each activity, it still requires at least a general filter for identifying sources of 
+
+systemic risk.  My own sense is that the greatest risks to financial stability lie in activities with 
+

@@ -1,0 +1,52 @@
+
+ - 8 - 
+
+Some argue that the downward march of the dots has damaged the Committee’s 
+
+credibility.  For me, the story is both more complicated and more interesting.  Like Jon, I 
+
+do not think of the dot plot as a useful predictor of near-term policy moves.  But that is 
+
+not to say that the dot plot is without value.  Indeed, changes in the SEP and the dot plot 
+
+over time have been quite revealing about the evolution of policymakers’ views about the 
+
+path of policy. 
+
+In recent years, FOMC participants have significantly revised their views about 
+
+the values to which key economic variables will converge over the longer run.  The same 
+
+is true of many other economic forecasters.  Since the beginning of 2012, participants’ 
+
+views about the longer-run annual growth potential of the economy have dropped from 
+
+2.45 percent to 1.85 percent (figure 4).15  Much of the downward revision in estimates of 
+
+longer-run potential growth reflects the implications of demographic trends and the 
+
+slowdown in productivity growth.16  These structural factors have also weighed on 
+
+participants’ assessments of the longer-run neutral federal funds rate--the rate that would 
+
+be neither expansionary nor contractionary if the economy were operating near its 
+
+                                                 
+overnight index swap (OIS) paths are estimated using a spline approach; each line corresponds to the 
+estimated path on the day before the release of SEP projections.  OIS paths are mean forecasts of market 
+participants and may be influenced by variations in risk premiums over time.  The primary dealer survey 
+paths are medians of modal forecasts, and the survey responses are collected about a week before the SEP 
+projections are released. 
+15 Other forecasters--for instance, Blue Chip and the Survey of Professional Forecasters--have also revised 
+down their estimates for longer-run real gross domestic product (GDP) growth.  See Jerome H. Powell 
+(2016), “Recent Economic Developments, the Productive Potential of the Economy, and Monetary Policy,” 
+speech delivered at the Peterson Institute for International Economics, Washington, May 26, 
+https://www.federalreserve.gov/newsevents/speech/powell20160526a.htm.  In making these comparisons, I 
+use the midpoint of the central tendency for real GDP growth and the unemployment rate. 
+16 See John G. Fernald (2015), “Productivity and Potential Output before, during, and after the Great 
+Recession,” in Jonathan A. Parker and Michael Woodford, eds., NBER Macroeconomics Annual 2014, 
+vol. 29 (Chicago:  University of Chicago Press), pp. 1-51; and Etienne Gagnon, Benjamin K. Johannsen, 
+and David Lopez-Salido (2016), “Understanding the New Normal:  The Role of Demographics,” Finance 
+and Economics Discussion Series 2016-080 (Washington:  Board of Governors of the Federal Reserve 
+System, October), https://www.federalreserve.gov/econresdata/feds/2016/files/2016080pap.pdf.  
+

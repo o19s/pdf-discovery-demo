@@ -1,0 +1,51 @@
+
+13 
+ 
+
+
+costs of requiring a move to some non-U.S. GAAP form of consolidated approach may well not 
+
+be worth the incremental safety and soundness benefits of doing so.  Together, these 
+
+considerations are leading us to what we refer to as the building block approach (BBA), which is 
+
+likely the approach that we will put forth for comment in the ANPR for this group of firms.   
+
+The BBA would aggregate capital resources and capital requirements across the different 
+
+legal entities in the group to calculate combined, group-level capital resources and requirements.  
+
+A firm’s aggregate capital requirements generally would be the sum of the capital requirements 
+
+at each subsidiary.  The capital requirement for each regulated insurance or depository institution 
+
+subsidiary generally would be based on the regulatory capital rules of that subsidiary’s lead 
+
+regulator--whether a state or foreign insurance regulator or a federal banking regulator for 
+
+depository institutions.  The regulatory capital requirement for any non-insurance, non-banking 
+
+subsidiaries--which at present are relatively minor parts of these firms--would probably be 
+
+determined under the standardized risk-based capital rules applicable to affiliates of bank holding 
+
+companies.  
+
+Should we adopt this approach, we will need to develop a formula or scalar to put the 
+
+different regulatory regimes on a comparable basis.  With an eye towards the kind of issues that 
+
+are usually addressed by a consolidated capital approach, we will also need to fashion standards 
+
+for adjustments to address inter-company transactions and possibly some other exposures.  An 
+
+example of the latter would be potential adjustments to harmonize permitted accounting practices 
+
+that vary across states.     
+
+The BBA would efficiently leverage existing legal-entity-level regulatory capital 
+
+frameworks that already apply to the various units of the supervised insurance group.  As such, 
+
+it would involve relatively low regulatory burden for these entities, even as it produces 
+

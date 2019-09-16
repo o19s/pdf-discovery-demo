@@ -1,0 +1,51 @@
+
+ - 8 - 
+
+neutral rate.  To the extent that investors or firms are more attuned to the risks associated 
+
+with capital investments than before the financial crisis, it increases the premium for 
+
+risky investments, or the difference in return between a risk-free investment, such as 
+
+overnight reserves, and somewhat riskier investment opportunities.  A higher risk 
+
+premium necessitates a lower risk-free rate to encourage the same amount of riskier 
+
+investments as previously.  Consistent with this explanation, there is evidence that the 
+
+gap between the return to capital investment and the risk free rate has risen.  For example, 
+
+according to dynamic stochastic general equilibrium models estimated by the Federal 
+
+Reserve Board and the Federal Reserve Bank of New York, the natural rate of interest 
+
+has been held down during the recovery by shocks that increase the difference between 
+
+the marginal product of capital and the risk free rate, pushing down investment and 
+
+reducing the level of capital.14  In addition, a simple measure of the marginal product of 
+
+capital suggests that the return to capital investment has not changed very much, or 
+
+perhaps has even increased, over the past decade despite the decline in risk free rates.15 
+
+Implications for the Path of Monetary Policy 
+
+Before addressing what a persistently low neutral interest rate might mean for the 
+
+normalization of monetary policy, it is helpful to review inflation developments.  Because 
+
+the federal funds rate is the real rate plus the expected rate of inflation and because it is 
+
+the real rate that influences economic activity, the amount of monetary accommodation 
+
+represented by a given nominal level of the federal funds rate decreases as expected 
+
+inflation declines.  In a low neutral rate environment, it is especially important to guard 
+
+                                                 
+14 See Del Negro and others (2015).  In these models, the natural rate of interest is defined as the “rate of 
+interest that would obtain if all prices and wages had adjusted so as to bring the level of economic activity 
+to its full-employment rate.” 
+15 See Gomme, Ravikumar, and Rupert (2015). 
+

@@ -1,0 +1,65 @@
+
+
+
+- 5 - 
+
+dynamism and ensuring that firms have sufficient notice regarding the capital 
+
+requirements to which they are held.   
+
+In the first years after the financial crisis, as the banking system was dramatically 
+
+ramping up the total amount of capital in the system, this volatility was less of a 
+
+management problem: until we reached reasonably full capitalization, each year every 
+
+bank needed to increase its capital.  If one year that increment was a little higher or a 
+
+little lower than the previous year, that was simply a modest difference of velocity, not 
+
+direction.  At the current juncture, however, both our system as a whole and each of the 
+
+largest banks in that system are fully meeting their capital requirements.  In these 
+
+circumstances, having a highly variable capital requirement presents a significant 
+
+management challenge. 
+
+We are considering ways of preserving the dynamism of stress testing while 
+
+reducing its volatility, and plan to seek comment on a proposal in this area in the not-too-
+
+distant future.  In addition, we are also exploring ways of improving our approach to 
+
+measuring risks in the trading book.  Firms’ trading books are dynamic and complex, as 
+
+firms hold both long and short positions.  Many have noted that a single market shock 
+
+does not adequately capture risks in firms’ trading book, and we agree with those 
+
+comments.  We are exploring ways to incorporate multiple market shocks in our stress 
+
+test without adding volatility to the results and without increasing the compliance burden. 
+
+We are also considering adjusting another element of the SCB proposal in order 
+
+to provide more notice to firms.  Currently, and under the SCB proposal, a firm must 
+
+decide whether to increase or decrease its planned dividends and share repurchases for 
+
+the upcoming year without knowledge of a key constraint: the results of the stress test.  In 
+
+other words, we require a firm to give us a formal plan for dividends and stock 
+
+repurchases without knowing what its effective capital requirement is.  If it guesses 
+
+wrong, it could be publicly shamed for failing the stress test (if its dividends are too high 
+
+relative to capital), or penalized in the markets for inadequate distribution of income (if 
+
+its dividends are too low relative to capital).  Now, while this might at first blush appear 
+
+to be pointless and obdurate cruelty, the reasoning behind the practice was initially 
+
+perfectly sensible:  it reflected the view that firms should think rigorously about their 
+

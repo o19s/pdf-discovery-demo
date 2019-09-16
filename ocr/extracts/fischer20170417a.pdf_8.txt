@@ -1,0 +1,50 @@
+
+ - 7 - 
+
+strongly these beliefs were held by the individual respondents, nor on the extent to which 
+
+their individual beliefs might have been reflected in the size of their market positions and, 
+
+in particular, the amount of leverage underlying those positions.13        
+
+In contrast, the most recent primary dealer and market participant surveys, 
+
+conducted prior to the March 2017 FOMC meeting, asked survey participants to indicate 
+
+their view of their own uncertainty over several different aspects of policy.  For example, 
+
+in addition to their point estimates, participants were asked to indicate the percent chance 
+
+they assigned to the federal funds rate being at various levels when the FOMC first 
+
+announces a change to the reinvestment policy.  They were also asked to assign 
+
+probabilities to different dates for the first announced change in reinvestment policy.   
+
+Why is this information important?  To go back to Jeremy Stein’s argument about 
+
+the taper tantrum, Jeremy pointed out that market participants’ expectations for tapering 
+
+varied widely, but he conjectured that some of the participants were very certain in their 
+
+expectations and that it was primarily their reaction that fueled the taper tantrum.  When 
+
+the surveys reported only point estimates, we had a measure of dispersion across market 
+
+participants, but we were in the dark on how firmly held these beliefs were.  By asking 
+
+participants to provide a distribution of outcomes, we also obtained a measure of how 
+
+certain they are of a particular outcome.   
+
+To highlight some results from the March 2017 surveys, as shown in figure 3, the 
+
+primary dealers’ median projection for the level of the target federal funds rate when the 
+
+FOMC first announces a change in its reinvestment policy was reported to be 
+
+                                                 
+13 Participants in the April 2013 survey were asked for their probability distribution across the total 
+holdings of the System Open Market Account portfolio at year-end 2013 and year-end 2014, providing 
+some, though incomplete, indication of the extent of uncertainty among market participants.   
+

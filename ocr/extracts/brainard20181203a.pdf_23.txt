@@ -1,0 +1,301 @@
+
+0
+
+50
+
+100
+
+150
+
+200
+
+250
+
+300
+
+350
+
+0
+
+5,000
+
+10,000
+
+15,000
+
+20,000
+
+25,000
+
+30,000
+
+35,000
+8:
+
+00
+ A
+
+M
+9:
+
+00
+ A
+
+M
+10
+
+:0
+0 
+
+AM
+11
+
+:0
+0 
+
+AM
+12
+
+:0
+0 
+
+PM
+1:
+
+00
+ P
+
+M
+2:
+
+00
+ P
+
+M
+3:
+
+00
+ P
+
+M
+4:
+
+00
+ P
+
+M
+5:
+
+00
+ P
+
+M
+8:
+
+00
+ A
+
+M
+9:
+
+00
+ A
+
+M
+10
+
+:0
+0 
+
+AM
+11
+
+:0
+0 
+
+AM
+12
+
+:0
+0 
+
+PM
+1:
+
+00
+ P
+
+M
+2:
+
+00
+ P
+
+M
+3:
+
+00
+ P
+
+M
+4:
+
+00
+ P
+
+M
+5:
+
+00
+ P
+
+M
+8:
+
+00
+ A
+
+M
+9:
+
+00
+ A
+
+M
+10
+
+:0
+0 
+
+AM
+11
+
+:0
+0 
+
+AM
+12
+
+:0
+0 
+
+PM
+1:
+
+00
+ P
+
+M
+2:
+
+00
+ P
+
+M
+3:
+
+00
+ P
+
+M
+4:
+
+00
+ P
+
+M
+5:
+
+00
+ P
+
+M
+8:
+
+00
+ A
+
+M
+9:
+
+00
+ A
+
+M
+10
+
+:0
+0 
+
+AM
+11
+
+:0
+0 
+
+AM
+12
+
+:0
+0 
+
+PM
+1:
+
+00
+ P
+
+M
+2:
+
+00
+ P
+
+M
+3:
+
+00
+ P
+
+M
+4:
+
+00
+ P
+
+M
+5:
+
+00
+ P
+
+M
+
+2/2/2018 2/5/2018 2/6/2018 2/7/2018
+
+M
+illions of DollarsM
+
+ill
+io
+
+ns
+ o
+
+f D
+ol
+
+la
+rs
+
+TRACE Volume (LHS) Market Depth (Top 3 Levels, RHS)
+7
+
+Figure 6
+February 2-7, 2018, Intraday Market Depth and Volume
+
+Source: Board staff calculations, based on Trade Reporting and Compliance Engine (TRACE) data from the Financial Industry 
+Regulatory Authority (FINRA); Brokertec. Volumes are over five-minute intervals. 
+
+Feb 5, 2018 3:05 to 3:10 PM
+

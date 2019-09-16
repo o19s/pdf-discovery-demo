@@ -1,0 +1,51 @@
+
+
+
+- 10 - 
+
+lower rate of return on claims that can be made completely safe.  These latter safe claims 
+
+can be interpreted as privately created money. 
+
+Given these household preferences, the name of the game for financial 
+
+intermediaries is to create as much in the way of safe money-like claims from each asset 
+
+category i as possible.  And given the structure of the model, there are two distinct 
+
+technologies for creating safe claims. 
+
+The first technology we label “traditional banking.”  A traditional bank is 
+
+relatively conservative in issuing safe claims.  In particular, for each dollar it holds of 
+
+asset i, it issues zi of deposits and finances the rest with equity.  Since asset i always pays 
+
+off at least zi, even in the worst-case scenario, a depositor in a traditional bank can sleep 
+
+through whatever news comes in at time 1 and still be assured of having a safe claim.  In 
+
+other words, a bank backs its deposits with enough capital so as to make these deposits 
+
+safe over a two-period horizon and hence endogenously sticky; there is no reason for 
+
+bank depositors ever to run at time 1.  Alternatively, one can think of the bank as having 
+
+acquired deposit insurance--which allows depositors to sleep through time 1--and the 
+
+deposit insurer as having imposed a capital requirement of (1- zi) on the bank so as to 
+
+reduce its expected losses to zero. 
+
+The second technology for creating safe claims we label “shadow banking.”  
+
+Shadow banks are more aggressive:  They rely less on capital, and more on the exit 
+
+option at time 1, to create safety for their investors.  Specifically, a shadow bank issues 
+
+kiFi of short-term collateralized claims for each dollar of asset i it holds, where kiFi > zi.  
+
+The way these claims are kept safe is that if there is bad news at time 1, the investors 
+
+seize the collateral and dump it at the fire-sale price, realizing kiFi.  In other words, unlike 
+

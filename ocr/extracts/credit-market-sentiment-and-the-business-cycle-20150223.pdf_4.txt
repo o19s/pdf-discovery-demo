@@ -1,0 +1,13 @@
+
+Standard Empirical Approach
+
+•  Forecasting regression specification:
+
+• \( \Delta y_{t+h} \) =  change in  a  m easure  o f  econom ic  activ ity
+• \( \Delta s_t \) =  change in the c red it spread
+• \( \mathrm x_t \) =  con tro l variables
+
+\[ \Delta y_{t+h} = \beta\Delta s_t + \gammâ \prime \mathrm x_t + \epsilon_{t+h}; h \geq 1 \]
+
+•  OLS estimate of \( \beta \)  suffers from obvious reverse causality.
+

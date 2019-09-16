@@ -1,0 +1,52 @@
+
+
+7 
+ 
+
+account of a variety of risks to the financial system and in a way that reduces procyclical effects.7  
+
+We vary the market shock over time to reduce the incentive for firms to correlate their asset 
+
+holdings or adopt correlated hedging strategies that are treated relatively favorably under one 
+
+particular market shock scenario.  And we do not allow firms to plan on a reduction in their 
+
+balance sheets as a way to meet capital ratio requirements under stress. 
+
+Still, as currently conceived and implemented, our stress testing regime emphasizes the 
+
+direct risks to bank capital from a severe recession and associated market dislocation via the 
+
+usual channels of reduced operating revenues combined with credit, market, counterparty, and 
+
+operational losses.  However, as noted by some academics and policy analysts, a fully developed 
+
+macroprudential dimension to stress testing would incorporate indirect risks to bank capital 
+
+through channels such as market-wide funding and liquidity disruptions, fire sales, and so on.8  
+
+These amplification effects are obviously particularly important for firms that have relatively 
+
+larger trading books or that rely relatively more on short-term funding, or both.  Indeed, many of 
+
+the academics with whom we discussed stress testing during our review emphasized the 
+
+importance of building out the macroprudential elements of our stress testing program. 
+
+The third topic we had identified for review was the nature of the qualitative assessment 
+
+as it applied to the relatively smaller, less complex firms within the CCAR exercise.  While we 
+
+had always explicitly differentiated our risk management and capital planning expectations for 
+
+these firms, our supervisors had observed that many such firms seemed uncertain of whether 
+
+they would nonetheless be held to the more stringent standards intended for the largest, most 
+
+                                                 
+7 Daniel K. Tarullo (2013), “Macroprudential Regulation,” speech delivered at the Yale Law School Conference on 
+Challenges in Global Financial Services, New Haven, CT, September 20.  
+8 See, for example, David Greenlaw, Anil Kashyap, Kermit Schoenholtz, and Hyun Song Shin  (2012), “Stressed 
+Out: Macroprudential Principles for Stress Testing.” Chicago Booth Research Paper No. 12-08, Fama-Miller 
+Working Paper (Chicago: University of Chicago Booth School of Business, February 13). 
+

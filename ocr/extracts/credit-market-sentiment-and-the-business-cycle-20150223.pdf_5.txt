@@ -1,0 +1,15 @@
+
+Our Approach
+
+• R e p l a c e  \( \Delta s_t \) w i t h  t i m e  \( t-2 \) p r e d ic t o r s  o f  e x p e c t e d  c r e d i t  r e tu r n s  \( \mathrm z_{t-2} \):
+
+\[ \Delta s_t = \thetâ\prime \mathrm z_{t-2} + \nu_t 
+
+\\  \Delta y_{t+h} = \beta\Delta \hat{s}_t + \gammâ\prime \mathrm x_t + \epsilon_{t+h} \]
+
+• \( \beta \) cap tures the e ffe c t  o f  \( \Delta s_t \) that c o m e s  from  u n w in d in g  o f  p a st sen tim en t  
+
+and  n o t from  ch a n g es  in  ex p e c te d  d e fa u lts .
+
+• S ep arates d iscou n t-ra te  variation  from  varia tion  in  ex p e c te d  ca sh flo w s.
+

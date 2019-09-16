@@ -1,0 +1,54 @@
+
+- 11 - 
+ 
+
+After a somewhat lengthy gestation period, there has been considerable recent progress 
+
+on measures that reflect the role for liquidity regulation I have just described.  The U.S. banking 
+
+agencies have worked with other regulators in the Basel Committee on Banking Supervision to 
+
+develop two quantitative liquidity standards--the LCR and the NSFR.  These standards 
+
+complement the bank capital framework and resolution mechanisms that have been agreed 
+
+internationally.  They will also help central banks limit the use of LOLR.  In addition, as I have 
+
+previously noted, the Federal Reserve is working on a proposal to tie risk-based capital 
+
+surcharges for each U.S. global systemically important bank (G-SIB) to that G-SIB’s reliance on 
+
+short-term wholesale funding.10  Together, these standards are designed to mitigate the risks 
+
+associated with banks’ reliance on unstable funding structures and to encourage them to embrace 
+
+more resilient funding models.  
+
+Under the LCR, banking organizations11 must hold a buffer of high-quality liquid assets 
+
+sufficient to cover net cash outflows during a 30-day stress scenario.  This requirement serves 
+
+several of the purposes discussed earlier.  A buffer of high-quality liquid assets is a form of self-
+
+insurance against liquidity risk that allows banks to meet short-term needs in the event of 
+
+creditor runs.  Because holding the buffer is likely to be somewhat costly, the LCR should also 
+
+encourage banks to reduce use of very short-term wholesale funding that increases buffer 
+
+requirements.  The buffer will also provide central banks and other national authorities time to 
+
+assess the financial condition of a firm encountering liquidity difficulties and to determine the 
+
+10 See Daniel K. Tarullo (2014), “Dodd-Frank Implementation,” testimony before the U.S. Senate Committee on 
+Banking, Housing, and Urban Affairs, September 9, 
+www.federalreserve.gov/newsevents/testimony/tarullo20140909a.htm.  
+11 Under the U.S. rule implementing the LCR, the LCR would apply to banking organizations with total 
+consolidated assets of $250 billion or more or total consolidated on-balance-sheet foreign exposures of $10 billion 
+or more.  In addition, a simpler, less stringent version of the LCR would apply to other banking organizations with 
+$50 billion or more in total consolidated assets.  LCR requirements would not apply to banking organizations with 
+total assets of less than $50 billion. 
+
+
+
+

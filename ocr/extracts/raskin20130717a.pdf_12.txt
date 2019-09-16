@@ -1,0 +1,49 @@
+
+ - 11 - 
+
+The final class of policies that I’ll discuss involves underwriting restrictions that can 
+
+directly address asset bubbles and their consequences.  
+
+When assets like houses are largely financed with borrowed money, it is possible 
+
+to use tighter underwriting requirements to lean against credit extension and growing 
+
+leverage.  This could be done, for example, through regulatory actions that raise lenders’ 
+
+minimum down payment requirements or reduce borrowers’ maximum permissible debt-
+
+to-income ratios.  Such measures can be taken either on a one-time basis or as part of an 
+
+explicitly countercyclical regime that “switches on” during a building asset bubble. 
+
+  In particular, regulators might impose minimum down payment requirements for 
+
+property loans or their functional equivalent--maximum loan-to-value ratios.  Such 
+
+policies could both build resilience in the financial system and lean against developing 
+
+credit excesses.  They would build resilience in two ways.  First, other things the same, 
+
+higher minimum down payment requirements reduce the probability of default on loans. 
+
+And second, higher requirements also imply a lower loss given default.  Both effects 
+
+imply greater resilience for the bank or other entity that made the loan or has an interest 
+
+in it. Even a structural one-time upward adjustment in minimum down payment 
+
+requirements--to a prudent level, above industry norms in buoyant times--could have a 
+
+countercyclical effect in building resilience.  Such a requirement could also moderate 
+
+lender adjustments in minimum down payment requirements over the credit cycle: 
+
+Minimum requirements would fall less in boom times, implying lower future loan losses 
+
+than otherwise, and so would increase less in reaction during busts.  In addition, by 
+
+leaning against excessive credit expansion, such a policy could lean against developing 
+
+asset bubbles and growing financial vulnerabilities.  
+

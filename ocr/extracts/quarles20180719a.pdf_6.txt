@@ -1,0 +1,50 @@
+
+- 5 - 
+ 
+
+
+would issue a floating rate note paying a compound average of Sterling Overnight Index Average 
+
+(SONIA) shows that this can be done.1  In the spirit of encouraging this type of use of SOFR, I 
+
+think it is appropriate for the Federal Reserve to consider publishing a compound average of 
+
+SOFR that market participants could then use.  It has been suggested that we could call it SAFR, 
+
+for secured average financing rate, and this is something that we are encouraging our staff to 
+
+explore.  Publishing a compound average rate that encourages broader use of SOFR would help 
+
+make our financial system more resilient. Sandie will talk more about the creation of the 
+
+forward-looking term version of SOFR in her remarks.  SAFR would not be a competitor to this 
+
+forward-looking rate, it would be in alliance with it.  If there were a large volume of products 
+
+referencing the compound average rate, there would likely be related demand for futures 
+
+contracts to hedge those positions, helping to make the forward rate more robust.   
+
+  It is important that we find ways to make it as easy as possible to use SOFR because the 
+
+risks to LIBOR are, at this stage, quite considerable.  Even as the ARRC and similar currency 
+
+groups in other jurisdictions were being formed, the FCA was exerting considerable effort to 
+
+convince banks to continue submitting to LIBOR.  We have to be aware that two banks left the 
+
+U.S. dollar panels despite this encouragement, and that the agreement that the FCA reached with 
+
+the remaining banks to continue submitting voluntarily through the end of 2021 now has just 
+
+three-and-a-half years left.  And as Andrew Bailey noted last week, there is also the prospect that 
+
+LIBOR could be judged to be nonrepresentative under the European Union’s Benchmark 
+
+Regulations, which would severely curtail the liquidity of products referencing LIBOR.   
+
+                                                            
+1 See the European Investment Bank’s announcement at www.eib.org/investor_relations/press/2018/fi-2018-12-
+EIB%20issues%20markets%20first%20SONIA%20GBP%20benchmark%20with%20GBP%201bn%205y%20issua
+nce.htm. 
+

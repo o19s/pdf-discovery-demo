@@ -1,0 +1,48 @@
+
+ - 10 - 
+
+the transaction is the “haircut.” Haircuts protect the cash lender, since, if the borrower 
+
+cannot repay, or chooses not to because collateral values have fallen, the lender can take 
+
+and sell the collateral to satisfy its loan. The larger the haircut is at the time of the 
+
+transaction, the greater the lender’s protection; that is, the greater the likelihood that that 
+
+the value of the security, when sold, will exceed the amount owed plus interest.  
+
+Presumably, lenders assess their borrowers’ riskiness and calibrate the amount of 
+
+the appropriate haircut. Regulators should require them to do this consistently and 
+
+prudently across the credit cycle.  
+
+Haircuts tend to be cyclical: falling in good times, which adds to the growth of 
+
+credit, and rising in busts, which contracts credit. A regulator could mitigate the cyclical 
+
+behavior of haircuts and its consequences by establishing minimum haircuts that apply in 
+
+both good and bad times. Calibrating minimum haircuts to the risks and volatility 
+
+expected during bad times would make lenders more secure, increasing their resilience to 
+
+losses. It could also make it more expensive to fund the purchase of the securities, and so 
+
+could limit the amount of borrowing that could be supported by an asset of given value; 
+
+this, in turn, might limit credit-fueled increases in the asset’s price.  
+
+In other words, by requiring increased margin, the growth of credit can be slowed 
+
+and resiliency can be strengthened. Regulators can also simply require margin 
+
+requirements to be increased in good times. This would lean against the growth of 
+
+bubbles even if regulators had not yet discerned the particular type of asset bubble 
+
+growing.  
+
+
+Underwriting Restrictions 
+

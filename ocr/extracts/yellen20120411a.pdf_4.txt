@@ -1,0 +1,62 @@
+
+
+
+- 3 - 
+
+Chip consensus and the blue shading denotes the range between the top 10 and bottom 10 
+
+projections of forecasters in the March Blue Chip survey.  The figure also shows the 
+
+central tendency of the unemployment projections that my FOMC colleagues and I made 
+
+at our January meeting:  Those projections reflect our assessments of the economic 
+
+outlook given our own individual judgments about the appropriate path of monetary 
+
+policy.  As in the Blue Chip consensus outlook, FOMC participants’ projections indicate 
+
+that unemployment will decline gradually from current levels.  Included in the figure as 
+
+well is the central tendency of FOMC participants’ estimates of the longer-run normal 
+
+unemployment rate, which ranges from 5.2 percent to 6 percent.  The unemployment rate 
+
+is expected to remain well above its longer-run normal value over the next several years. 
+
+As you know, economic forecasts always entail considerable uncertainty.  
+
+Figure 2 illustrates the degree of uncertainty surrounding projections of unemployment.  
+
+The gray shading denotes a model-based 70 percent confidence interval for the 
+
+unemployment rate, based on the sorts of shocks that have hit the economy over the past 
+
+40 years.
+3
+  Judging from historical experience, the consensus projection could be quite far 
+
+off, in either direction.  That said, the figure also shows that labor market slack at present 
+
+is so large that even a very large and favorable forecast error would not change the 
+
+conclusion that slack will likely remain substantial for quite some time. 
+
+                                                                                                                                                 
+to the April edition of the Blue Chip survey, which was released yesterday, “The consensus outlook for 
+
+U.S. economic growth this year and next underwent minimal change over the past month.”  
+3
+ The forecast confidence interval is generated using stochastic simulations of the Federal Reserve staff’s 
+
+FRB/US model.  Specifically, a baseline is constructed centered on the midpoint of the central tendency of 
+
+the FOMC’s projections released in January, and then the model is repeatedly simulated with shocks drawn 
+
+randomly for the set of historical disturbances experienced over the period from 1968 to 2011.  Similar 
+
+estimates of forecast confidence intervals would be obtained if the intervals were instead constructed using 
+
+the actual historical forecasting errors of private forecasters; for further discussion, see Table 2 of the 
+
+FOMC’s Summary of Economic Projections. 
+

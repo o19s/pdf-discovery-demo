@@ -1,0 +1,51 @@
+
+- 8 - 
+ 
+
+the choice of inflation measure matters for the interpretation of this episode, as alternative 
+
+measures gave policymakers somewhat different signals.  Notably, core PCE inflation for 
+
+2003 was initially reported, in the first quarter of 2004, as having slowed to about 
+
+1 percent, and it appeared to be on a steep downward trajectory.7  These data heightened 
+
+concerns about deflation on the FOMC.  In contrast, the CPI data released at the same 
+
+time showed core inflation for 2003 of about 2 percent.  In this case, data revisions 
+
+ultimately raised estimates of PCE inflation for that period, implying that deflation was 
+
+less of a risk than was thought at the time.  But that such revisions would occur could not 
+
+be known in advance, and policy decisions, of course, must be made based on the 
+
+information available at the time. 
+
+ For my purposes today, however, the most significant concern regarding the use 
+
+of the standard Taylor rule as a policy benchmark is its implication that monetary policy 
+
+should depend on currently observed values of inflation and output.  In particular, the 
+
+Taylor rule recommendation shown in Slide 3 relates the prescribed policy interest rate to 
+
+the inflation rate and output gap that correspond to the same quarter in which the policy 
+
+decision was made.8  However, because monetary policy works with a lag, effective 
+
+monetary policy must take into account the forecast values of the goal variables, rather 
+
+than the current values.  Indeed, in that spirit, the FOMC issues regular economic 
+
+projections, and these projections have been shown to have an important influence on 
+
+policy decisions (Orphanides and Wieland, 2008). 
+
+                                                       
+7 Inflation measures are on a four-quarter basis.  Core inflation excludes the prices of food and energy.  
+Because it excludes the most volatile components of the price index, core inflation was often used by the 
+FOMC as an indicator of the underlying trend of inflation. 
+8 More precisely, because inflation is measured on a four-quarter basis, the current inflation rate 
+corresponds to the rate of price increase over the current quarter and the prior three quarters. 
+

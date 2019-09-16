@@ -1,0 +1,192 @@
+
+1. U.S. Inflation and Unemployment Rate Gaps
+
+1
+
+-4
+
+-2
+
+0
+
+2
+
+4
+
+6
+
+8
+
+10
+19
+
+60
+ - 
+
+Ja
+n
+
+19
+63
+
+ - 
+Ja
+
+n
+
+19
+66
+
+ - 
+Ja
+
+n
+
+19
+69
+
+ - 
+Ja
+
+n
+
+19
+72
+
+ - 
+Ja
+
+n
+
+19
+75
+
+ - 
+Ja
+
+n
+
+19
+78
+
+ - 
+Ja
+
+n
+
+19
+81
+
+ - 
+Ja
+
+n
+
+19
+84
+
+ - 
+Ja
+
+n
+
+19
+87
+
+ - 
+Ja
+
+n
+
+19
+90
+
+ - 
+Ja
+
+n
+
+19
+93
+
+ - 
+Ja
+
+n
+
+19
+96
+
+ - 
+Ja
+
+n
+
+19
+99
+
+ - 
+Ja
+
+n
+
+20
+02
+
+ - 
+Ja
+
+n
+
+20
+05
+
+ - 
+Ja
+
+n
+
+20
+08
+
+ - 
+Ja
+
+n
+
+20
+11
+
+ - 
+Ja
+
+n
+
+20
+14
+
+ - 
+Ja
+
+n
+
+20
+17
+
+ - 
+Ja
+
+n
+
+Unemployment Rate Gap
+(Relative to CBO Natural Rate)
+
+Percent
+
+Note:  PCE is personal consumption expenditures.
+Source:  U.S. Department of Labor, Bureau of Labor Statistics; Congressional Budget Office (CBO).
+
+Inflation Gap
+(Core PCE Inflation 
+Relative to 2%)
+

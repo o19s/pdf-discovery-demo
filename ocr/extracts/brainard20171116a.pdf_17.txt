@@ -1,0 +1,66 @@
+
+- 16 - 
+
+
+her authority, until the consumer notifies the bank.42  As the industry matures, the various 
+
+stakeholders will need to develop a shared understanding of who bears responsibility in the event 
+
+of a breach.43 
+
+Shared Responsibility and Shared Benefit Moving Forward 
+
+So what can be done to make sure consumers have the requisite information and control 
+
+to remain squarely in the driver’s seat?  Establishing and implementing new norms is in the 
+
+shared interest of all of the participants in the fintech stack.  For instance, in the case of credit 
+
+cards, mortgages, and many other products, it is often banks or parties closely affiliated with 
+
+banks that pay fees to fintech advisors to generate leads for their products, pursuant to a contract. 
+
+Through these contractual relationships with fintech advisors, banks have considerable influence 
+
+in the lead generation relationship, including through provisions describing how a sponsored 
+
+product should be described or displayed.  Banks have a stake in ensuring that their vendors and 
+
+third-party service providers act appropriately, that consumers are protected and treated fairly, 
+
+and that the banks’ reputations aren’t exposed to unnecessary risk.44  Likewise, some of the 
+
+leading speech-only financial products are currently credit card and bank products.45 
+
+                                                 
+42 Comment 2(m)-2 clarifies that if “a consumer furnishes an access device and grants authority to make transfers to 
+
+a person . . . who exceeds the authority given, the consumer is fully liable for the transfers unless the consumer has 
+
+notified the financial institution that transfers by that person are no longer authorized.” 
+43 See Kaitlin Asrow and Beth Brockland, Liability, Transparency and Consumer Control in Data Sharing 
+
+(Washington: Center for Financial Services Innovation, September 18, 2017), 
+
+http://cfsinnovation.org/research/liability-transparency-consumer-control-in-data-sharing/. (“There are differing 
+
+interpretations of how regulations, such as the OCC’s Third Party Risk Management guidance, the Gramm-Leach-
+
+Bliley Act’s privacy and safeguard rules, and Regulation E liability limits, should be applied to data sharing between 
+
+financial institutions and third parties like data aggregators and financial technology applications.”) 
+
+See also JPMorgan Chase, “How You Can Protect Yourself,” (last visited October 18, 2017), 
+
+www.chase.com/digital/resources/privacy-security/security/how-you-can-protect; Liz Weston, “Why Banks Want 
+
+You to Drop Mint, Other ‘Aggregators,’” Reuters, November 9, 2015, www.reuters.com/article/us-column-weston-
+
+banks/why-banks-want-you-to-drop-mint-other-aggregators-idUSKCN0SY2GC20151109.  
+44 See, e.g., Board of Governors of the Federal Reserve System, “Guidance on Managing Outsourcing Risk,” SR 
+
+letter 13-19/CA letter 13-21, December 5, 2013, www.federalreserve.gov/supervisionreg/srletters/sr1319a1.pdf.  
+45  See, e.g., American Express, “Introducing the Amex Skill for Amazon Alexa” (last visited October 18, 2017), 
+
+www.americanexpress.com/us/content/alexa/.; Leena Rao, “American Express Debuts Its First Amazon Alexa 
+

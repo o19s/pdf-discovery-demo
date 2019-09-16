@@ -1,0 +1,19 @@
+
+Expanding the Measures of Credit-Market Sentiment
+
+• S p ec ifica tio n :
+
+\[ \Delta s_t = \thetâ\prime \mathrm z_{t-2} + \nu_t 
+
+\\  \Delta y_{t+h} = \beta\Delta \hat{s}_t + \gammâ\prime \mathrm x_t + \epsilon_{t+h} \]
+
+• \( \Delta y_t \) =  log -d ifference  o f  rea l G D P (per capita)
+
+• \( \Delta s_t \) =  change in B aa-T reasury  sp read
+
+• \( \mathrm x_t \) =  \( \Delta y_{t-1} \), W W -II and  K orean  W ar dum m ies
+
+• \( \mathrm z_{t-2} \): \( s_{t-2} \), \( \log{\mathrm{HYS}_{t-2}} \), a n d  \( {TS}_{t-2} \)
+• Term spread at \( t-2\ ({TS}_{t-2}) \) helps predict \( \Delta s_t \).
+• Im p lic a tio n s : M o re  varia tion  in  cred it-m arke t sen tim en t (i.e., \( \Delta \hat{s}_t \)).
+

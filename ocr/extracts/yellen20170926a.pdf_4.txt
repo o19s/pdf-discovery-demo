@@ -1,0 +1,50 @@
+
+ - 3 - 
+
+special factors, including movements in the relative prices of food, energy, and imports, 
+
+will wane in coming quarters.   
+
+To understand this assessment, it is useful to decompose the forces driving 
+
+movements in inflation since the financial crisis, as estimated using a simple model of 
+
+inflation that I presented in a speech two years ago.2  Figure 3 reports this decomposition 
+
+as the contributions made by various factors to the shortfall of PCE price inflation from 
+
+2 percent, year by year.  As illustrated by the purple dotted portion of the bars, labor 
+
+underutilization, or “slack,” accounts for a shrinking share of the shortfall since 2012 and 
+
+is now having a negligible effect.  By comparison, the influence of changes in relative 
+
+food, energy, and import prices--the solid blue and checkered red portions--has been 
+
+more substantial in the past few years, although their contribution is estimated to have 
+
+greatly diminished this year.3  
+
+Not surprisingly, the simple model does not account for all of the year-to-year 
+
+movements in inflation.  As indicated by the green striped portion of the bars, the residual 
+
+component of the shortfall was modestly positive on average from 2008 through last year.  
+
+This year, however, inflation has been unexpectedly weak from the model’s perspective.  
+
+This unusually large error does not necessarily imply that inflation is more likely to 
+
+                                                 
+2 The simple model links the current rate of inflation to several factors, including lagged inflation, long-run 
+inflation expectations, labor utilization, and changes in the relative prices of food, energy and imports 
+(Yellen, 2015).  Additional details on the model can be found in the appendix.      
+3 In the decomposition procedure, movements in core inflation affect headline inflation one-for-one; as a 
+result, the contributions of food and energy price inflation are defined as each component’s price change 
+relative to the core, weighted by its share in total nominal consumer spending.  The estimated contribution 
+of movements in import prices is also computed relative to core inflation; thus, if import prices are rising at 
+the same rate as core inflation, they have no estimated effect on the shortfall of overall inflation from 
+2 percent.  In addition, the decomposition takes account of lags in the adjustment of core inflation to 
+movements in resource utilization and other factors.  More details on the decomposition procedure can be 
+found in the appendix. 
+

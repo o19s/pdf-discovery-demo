@@ -1,0 +1,62 @@
+
+
+Let me start by thanking the organizers for including me in this event.  It’s a great 
+
+pleasure to be here with other old friends and colleagues to pay tribute to Raghu, and to 
+
+congratulate him not only on winning the Deutsche Bank prize for Financial Economics, 
+
+but also on his new job as governor of the Reserve Bank of India.  It’s an understatement 
+
+to say that Raghu has a few challenges on his hands in this new role, but having known 
+
+him for more than 20 years, I can’t imagine anybody being better equipped--in terms of 
+
+intellect, judgment, and strength of character--to handle these challenges.   
+
+I would like to talk briefly about some recent research of mine, done jointly with 
+
+Sam Hanson of Harvard Business School, on the monetary transmission mechanism.
+1
+  As 
+
+will become clear, our work is heavily influenced by some of Raghu’s earlier writing, and 
+
+in particular his famous 2005 Jackson Hole paper.
+2
+  After describing what we find, I will 
+
+try to draw some connections to the current monetary policy environment as well as some 
+
+lessons about the interplay of monetary policy and financial stability.  As always, I am 
+
+speaking for myself, and my views are not necessarily shared by other members of the 
+
+Federal Open Market Committee (FOMC). 
+
+In our paper, Sam and I begin by documenting the following fact about the 
+
+working of conventional monetary policy:  Changes in the stance of policy have 
+
+surprisingly strong effects on very distant forward real interest rates.  Concretely, over a 
+
+sample period from 1999 to 2012, a 100 basis point increase in the 2-year nominal yield 
+
+on FOMC announcement day--which we take as a proxy for a change in the expected 
+
+                                                 
+1
+ See Samuel G. Hanson and Jeremy C. Stein (2012), “Monetary Policy and Long-Term Real Rates,” 
+
+Finance and Economics Discussion Series 2012-46 (Washington:  Board of Governors of the Federal 
+
+Reserve System, July), www.federalreserve.gov/pubs/feds/2012/201246/201246pap.pdf. 
+2
+ See Raghuram G. Rajan (2005), “Has Financial Development Made the World Riskier?” in The 
+
+Greenspan Era:  Lessons for the Future, A Symposium Sponsored by the Federal Reserve Bank of Kansas 
+
+City, Jackson Hole, Wyoming, August 25-27, 2005 (Kansas City:  Federal Reserve Bank of Kansas City), 
+
+pp. 313-69, www.kansascityfed.org/publicat/sympos/2005/pdf/Rajan2005.pdf. 
+

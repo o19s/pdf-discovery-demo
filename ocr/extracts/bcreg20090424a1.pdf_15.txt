@@ -1,0 +1,85 @@
+
+[page 13] 
+
+Commercial and Industrial Loans 
+
+Analysis of C&I loan loss projections was based on the distribution of exposures by industry and 
+
+by internal rating provided by the firms. In many cases, these ratings were mapped to default 
+
+probabilities by the f i rm; in other cases, this association was established by supervisory analysts. This 
+
+information was confirmed and supplemented by external measures of risk, such as expected default 
+
+frequencies from third party vendors. Supervisors evaluated f i rm loss estimates using a Monte Carlo 
+
+simulation that projected a distribution of losses by examining potential dispersion around central 
+
+probabilities of default. The approach produced a consistently-prepared set of loss estimations across 
+
+all the BHCs by combining firm-specific exposure and rating information with standardized assumptions 
+
+of the performance of similar exposures. The results of this analysis were compared to the f irms' 
+
+submissions and adjustments made to ensure consistency across BHCs. 
+
+Commercial Real Estate Loans 
+
+For commercial real estate (CRE) loans, firms were asked to submit detailed portfolio 
+
+information on property type, loan to value (LTV) ratios, debt service coverage ratios (DSCR), geography, 
+
+and loan maturities. The supervisors analyzed loans for construction and land development, mult i-
+
+family property, and non-farm non-residential projects separately. The supervisors employed common 
+
+industry vendor models, and developed proprietary models, to generate independent loss estimates for 
+
+each portfolio. Specifically, for loans maturing in 2009 to 2010, the supervisors constructed a model that 
+
+compared current LTV ratios to benchmark LTVs in order to assess the probability that borrowers would 
+
+be able to refinance their exposure. For loans maturing beyond 2010, the team used vendor models 
+
+that incorporate factors such as property type, LTV, DSCR, and geographic market factors. For 
+
+construction loans, the geography and nature of the project received special attention. The resulting 
+
+loss estimates were compared with the firms' submissions. 
+
+Other Loans 
+
+This category is highly heterogeneous, including farmland lending, loans to depository 
+
+institutions, loans to governments, and other categories. For most categories of other loans, a firm's 
+
+loss record over the past five years was used to provide a relative ranking, and to assess the firm's 
+
+submission. 
+
+Securities in AFS and HTM Portfolios 
+
+The majority of securities in the AFS and HTM portfolios are Treasury securities, government 
+
+agency securities, sovereign debt, and high-grade municipal securities. Private-sector securities include 
+
+corporate bonds, equities, asset-backed securities, commercial mortgage-backed securities (CMBS), and 
+
+non-agency residential mortgage backed securities (RMBS). About 15 percent of the portfolio is non-
+
+agency RMBS or CMBS. Supervisors focused their efforts on evaluating the private-sector securities 
+
+portfolio for possible impairment, obtaining details of each security, such as collateral type, vintage, 
+
+metropolitan area, and property type, as well as elements of each security's structure, such as credit 
+
+ratings, current credit support, and carrying and market values. Each security was tested to determine if 
+
+the security would become impaired during its lifetime. Loss estimates were based on an examination 
+
+of more than 100,000 securities identified by the Committee on Uniform Security Identification 
+
+Procedures, or CUSIP. For each securitized asset, credit loss rates on underlying collateral, consistent 
+
+with those loss rates used for unsecuritized accrual loan portfolios, were weighed against current credit 
+

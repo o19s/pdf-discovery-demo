@@ -1,0 +1,57 @@
+
+ - 12 - 
+
+with total consolidated assets of $50 billion or more and for nonbank financial companies 
+
+designated by the FSOC as systemically important, “[i]n order to prevent or mitigate risks 
+
+to the financial stability of the United States.”
+14
+
+ The required standards include capital 
+
+requirements, liquidity requirements, stress testing, single-counterparty credit limits, an 
+
+early remediation regime, and risk-management and resolution-planning requirements.  
+
+These requirements are to increase in stringency in accordance with the relative systemic 
+
+importance of the companies.   
+
+The capital surcharges that we will apply under this authority provide a clear 
+
+example of this kind of macroprudentially motivated regulation.  A microprudential 
+
+requirement is informed by asking what level of capital would be necessary to allow the 
+
+firm to remain a viable financial intermediary even after absorbing losses that, within a 
+
+fairly high level of confidence, might be encountered over some relevant timeframe.  A 
+
+macroprudential capital requirement should take account of the fact that there would be 
+
+very large negative externalities associated with the disorderly failure of any systemically 
+
+important financial institution (SIFI), distinct from the costs incurred by the firm, its 
+
+stakeholders, and the federal deposit insurance fund.  
+
+As already suggested, the failure of such a firm, especially in a period of stress, 
+
+significantly increases the chances that other financial firms will themselves experience 
+
+great stress, for two reasons.  First, direct counterparty impacts can lead to a classic 
+
+domino effect.  Second, because losses in a tail event are much more likely to be 
+
+correlated for firms deeply engaged in trading, structured products, and other capital 
+
+market instruments, all such firms are vulnerable to accelerating losses as troubled firms 
+
+sell their assets into a declining market.  Enhanced capital requirements should take into 
+
+                                                 
+14
+
+ Dodd-Frank Act, Section 165. 
+

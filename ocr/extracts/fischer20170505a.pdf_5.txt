@@ -1,0 +1,51 @@
+
+ - 4 - 
+
+Kohn noted that policy rule prescriptions served two functions:  as a “benchmark 
+
+for the stance of policy” and “to structure thinking about the implications of incoming 
+
+information for the direction of policy action.”9  These two functions continue to be 
+
+important:  Policy rule prescriptions provide a useful starting point for FOMC 
+
+deliberations and a convenient way of organizing alternative arguments about the 
+
+appropriate policy decision.  Policy rule prescriptions, particularly prescriptions that are 
+
+obtained from a dynamic model simulation, also help policymakers take to heart a key 
+
+message of the literature on policy rules--namely, that monetary policy decisions should 
+
+concern the appropriate path for the policy instrument and not merely the current setting 
+
+of that instrument. 
+
+Kohn also observed, however, that “in truth, only a few members look at this or 
+
+similar information regularly, and the number does not seem to be growing.”  That state 
+
+of affairs has probably changed in the two decades since Kohn wrote.  It is clear from 
+
+transcripts in the public record that rule prescriptions have frequently been cited at 
+
+FOMC meetings.10  The prominence that interest rate rules have achieved in Federal 
+
+Reserve policymakers’ analysis of monetary policy was underscored by Chair Yellen in 
+
+her speech at Stanford University earlier this year.11 
+
+Further, as is clear from Taylor’s econometric derivation of his 1993 rule, actual 
+
+monetary policy decisions may--and probably should--exhibit systematic patterns that 
+
+can be described as a rule.  In fact, as I have already noted, one attraction of the 1993 
+
+                                                 
+9 See Kohn (1999, p. 195).  The first of these functions of policy rule prescriptions was one I also had 
+highlighted.  In Fischer (1994, p. 289), when considering McCallum’s (1988) proposed rule for monetary 
+base growth, I described it as “a useful benchmark against which to judge policy.” 
+10 Searchable transcripts of FOMC meetings up to 2011 are available on the Board’s website at 
+https://www.federalreserve.gov/monetarypolicy/fomc_historical.htm. 
+11 See Yellen (2017). 
+

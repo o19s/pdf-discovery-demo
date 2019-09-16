@@ -1,0 +1,50 @@
+
+- 9 - 
+
+
+lending decisions are driven solely, or even primarily, by regulatory capital requirements.  Bank 
+
+lending is influenced by a variety of factors--capital requirements are just one.  But at the 
+
+margin, we shouldn’t be surprised to see banks in aggregate making lending and investment 
+
+decisions that have favorable risk-based capital treatment or that generate higher returns on a 
+
+given amount of regulatory capital.  So, for example, in Europe a number of banks had 
+
+significant sovereign holdings going into the financial crisis, not only because capital 
+
+requirements were so low, but also because high credit spreads made these particularly attractive 
+
+investments.  Likewise, here in the United States, banks piled into mortgage lending in the early- 
+
+to mid-2000s not only because it offered generous returns, but also because regulatory capital 
+
+requirements did not adequately capture the risks in this lending, particularly for subprime 
+
+exposures.   
+
+Leverage Ratio 
+
+One of the ways that supervisors, particularly here in the United States, have addressed 
+
+shortcomings in the risk-based capital regime has been to also impose a simple capital-to-assets 
+
+requirement, or leverage ratio, to supplement the risk-based measures.  A leverage ratio has a 
+
+number of things that make it intuitively appealing, if it can be set correctly.  First and foremost, 
+
+it has the virtue of simplicity.  Not only is it easy to calculate and easy for market participants 
+
+and the public to understand, it also provides a single benchmark by which to easily compare and 
+
+calibrate institutions’ capital positions.  In addition, a leverage ratio provides a relatively 
+
+straightforward gauge of how close an institution is to insolvency.  In simple terms--and I should 
+
+caution that reality is seldom this simple--if an institution has a leverage ratio of 3 percent, a 
+
+decline in value of assets on the balance sheet of greater than 3 percent is likely to render the 
+
+institution insolvent.   
+

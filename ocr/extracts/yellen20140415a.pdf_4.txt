@@ -1,0 +1,47 @@
+
+ - 3 - 
+
+on the financial system as a whole.  They only apply to internationally active banks, and 
+
+not directly to shadow banks, despite the fact that liquidity shocks within the shadow 
+
+banking system played a major role in the crisis.  Furthermore, the current versions of the 
+
+LCR and NSFR do not address financial stability risks associated with so-called matched 
+
+books of securities financing transactions.   
+
+Federal Reserve staff are actively considering additional measures that could 
+
+address these and other residual risks in the short-term wholesale funding markets.  Some 
+
+of these measures--such as requiring firms to hold larger amounts of capital, stable 
+
+funding, or highly liquid assets based on use of short-term wholesale funding--would 
+
+likely apply only to the largest, most complex banking organizations.  Other measures--
+
+such as minimum margin requirements for repurchase agreements and other securities 
+
+financing transactions--could, at least in principle, apply on a marketwide basis.  In 
+
+designing such measures, we are carefully thinking through questions about the tradeoffs 
+
+associated with tighter liquidity regulation that will be discussed at this conference. 
+
+While these cost-benefit questions are difficult to answer with either certainty or 
+
+precision, let me highlight one data point that suggests that there may be net social gains 
+
+from introducing further reforms to address short-term wholesale funding risks.  In 2010, 
+
+the Basel Committee assessed the long-term economic impact of stronger capital and 
+
+liquidity requirements for global banks.  Factoring in the Basel III capital requirements 
+
+and the NSFR, the Basel study suggested that tightening risk-based capital and liquidity 
+
+requirements would, on net, provide economic benefits, and that benefits would continue 
+
+to accrue at even higher levels of risk-based capital than are part of Basel III.   
+

@@ -1,0 +1,49 @@
+
+ - 10 - 
+
+3. Leverage ratio 
+
+If a broker-dealer firm faces a binding leverage ratio, this constraint can act as a 
+
+significant tax on two types of SFTs that are largely untouched either by risk-based 
+
+capital requirements or by liquidity regulations.  The first is when the dealer, acting as a 
+
+principal, uses repo to finance its holdings of Treasury securities or agency mortgage-
+
+backed securities, assets that generally have only modest risk weights when held as 
+
+trading positions.  The second is when the dealer acts as an intermediary and has a 
+
+matched repo book.  In both cases, the SFTs blow up the firm’s balance sheet and, hence, 
+
+the denominator of the leverage ratio, even while having little impact on risk-based 
+
+capital or LCR calculations. 
+
+The crucial issue here, however, is whether the leverage ratio does, in fact, bind.  
+
+A traditional view among regulators has been that the leverage ratio should be calibrated 
+
+so as to serve as a meaningful “backstop” for risk-based capital requirements, but that 
+
+under ordinary circumstances it should not actually be the binding constraint on firms. 
+
+For if it were to bind, this would put us in a regime of completely un-risk-weighted 
+
+capital requirements, where the effective capital charge for holding short-term Treasury 
+
+securities would be the same as that for holding, say, risky corporate debt securities or 
+
+loans. 
+
+Recently, U.S. regulators have issued a proposed rulemaking that seeks to raise 
+
+the Basel III supplementary leverage ratio requirement to 5 percent for the largest U.S. 
+
+bank holding companies, and to 6 percent for their affiliated depository institutions.  
+
+While this increase might be considered a parallel shift that preserves the backstop 
+
+philosophy in light of the fact that risk-based requirements have also gone up 
+

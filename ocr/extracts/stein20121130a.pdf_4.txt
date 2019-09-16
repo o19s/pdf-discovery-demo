@@ -1,0 +1,52 @@
+
+- 3 - 
+
+
+
+
+adjustments all yield an effective return of 3 percent.  As a result, the hurdle rate for new 
+
+investment should remain pinned at 3 percent.  In other words, the negative term 
+
+premium matters a lot for financing behavior, but in this stylized world, investment 
+
+spending is decoupled from the term premium and is determined instead by the expected 
+
+future path of short rates.  
+
+This reasoning suggests why one might expect future rounds of Treasury-based 
+
+LSAPs to have diminishing returns, at least for corporate investment.  As noted earlier, 
+
+the data make clear that past rounds of LSAPs have pushed down interest rates and term 
+
+premiums.  But the further the term premium is driven into negative territory, and the 
+
+more financing constraints are thereby relaxed, the more the previous logic comes into 
+
+play, and hence the weaker is likely to be the response of aggregate spending to further 
+
+downward pressure on long-term rates.  
+
+The corporate finance example is also consistent with what we have observed in 
+
+markets in recent months.  Issuance of both investment-grade and high-yield bonds has 
+
+been robust.  Indeed, domestic nonfinancial corporate bond issuance is on pace to set a 
+
+record in 2012, and the speculative-grade segment appears on track to register a new high 
+
+for the year.  At the same time, a large fraction of issuance has been devoted to 
+
+refinancing--either to retiring existing debt or to payouts to equity holders via dividends 
+
+and share buybacks.  These uses of proceeds have accounted for about two-thirds of all 
+
+issuance by speculative-grade firms so far this year.  Such patterns are what one would 
+
+expect based on the logic I have just discussed.   
+
+Another way to make a similar point is to note that as borrowing costs have fallen, 
+
+Federal Reserve staff estimates of the expected return on the stock market (using a model 
+

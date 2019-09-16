@@ -1,0 +1,52 @@
+
+ - 9 - 
+
+The first-difference rule is the most hawkish in figure 2:  It raises the federal 
+
+funds rate more rapidly than the other three rules whose results are shown.  
+
+Correspondingly, in the panels to the right of figure 2, the unemployment rate is higher 
+
+on the broken green line than on the other paths for unemployment that are associated 
+
+with lower interest rates.  And you can figure out why the broken green line for core PCE 
+
+inflation is lower than for the other paths in the panel on the right-hand side of figure 2. 
+
+How does the FOMC choose its interest rate decision?  Fundamentally, it uses 
+
+charts like those shown in figure 2 as an important input into the discussion.  And in their 
+
+discussion, members of the FOMC explain their policy choices, and try to persuade other 
+
+members of the FOMC of their viewpoints. 
+
+One Monetary Policy Decision:  August 2011 
+
+As an example of such a process, I want to discuss the important decision taken at 
+
+the August 2011 meeting.  At the time policymakers gathered in Washington for the 
+
+meeting, the FOMC’s target for the federal funds rate had been set to nearly zero for 
+
+more than 2-1/2 years.  And although the economy had improved from the depths of the 
+
+Great Recession, the unemployment rate was still above 9 percent. 
+
+Over the summer, the economic outlook darkened considerably.  In response, in 
+
+August, the staff’s Tealbook forecast projected that the federal funds rate would remain 
+
+near zero three quarters longer than what the staff had expected in June.  Figure 3, taken 
+
+from the August 2011 Tealbook, illustrates how the change in the economic outlook 
+
+affected FRB/US simulations of optimal monetary policy.19  As you know, an optimal 
+
+policy is a path for the policy instrument that minimizes the shortfalls in economic 
+
+                                                 
+19 I rely on optimal policy simulations here because the August 2011 Tealbook did not include a figure like 
+
+that shown in figure 2. 
+

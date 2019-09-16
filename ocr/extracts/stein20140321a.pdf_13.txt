@@ -1,0 +1,51 @@
+
+ - 12 - 
+
+of the non-default-related component of credit spreads--portends a decline in economic 
+
+activity and employment a year later. 
+
+The specifications of GZ are linear, so they impose the assumption that increases 
+
+in the EBP have an effect that is symmetric to decreases.  In table 1 and figure 2, I look 
+
+explicitly for asymmetries, with a specification that allows an upward move in the EBP to 
+
+have a different effect on the economy than a downward move.  The results, which come 
+
+from a sample spanning the period from January 1973 to December 2012, are striking.  
+
+Upward moves in EBP--again, those corresponding to a widening of credit spreads--are 
+
+very informative about the future evolution of the real economy.  The coefficient 
+
+estimates imply that an increase of 50 basis points in the EBP in a single quarter, which is 
+
+roughly a once-every-five-years kind of move, is associated with a two percentage point 
+
+slowing of GDP growth over the next four quarters and slightly more than a one 
+
+percentage point increase in the unemployment rate over the same interval.20  These 
+
+effects are, by any standard, economically important.  By contrast, declines in the EBP 
+
+have no discernible effect at all on economic activity.      
+
+Putting it all together, this reasoning suggests that the credit risk premium--as 
+
+measured, say, by a forecasting model like that of Greenwood and Hanson--may be an 
+
+operationally useful measure of financial market vulnerability. When this risk premium is 
+
+low, there is a greater probability of a subsequent upward spike in credit spreads and the 
+
+EBP.  Moreover, such upward spikes, when they do occur, are associated with significant 
+
+adverse economic effects.  To be clear, we are not necessarily talking about once-in-a-
+
+generation financial crises here, with major financial institutions teetering on the brink of 
+
+                                                 
+20 To be a bit more precise, in the 40-year sample period, there are seven observations in which the EBP 
+increases by more than 50 basis points in a single quarter.  
+

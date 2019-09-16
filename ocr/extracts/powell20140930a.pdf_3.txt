@@ -1,0 +1,52 @@
+
+ - 2 - 
+
+Second, in describing the costs of the existing arrangements, the paper estimates 
+
+that the Treasury’s post-2008 extension of the weighted average maturity (or duration) of 
+
+the Federal debt offset--in a purely mechanical sense--about 35 percent of the effect of 
+
+the Federal Reserve’s large-scale asset purchase (LSAP) programs on the level of 10-year 
+
+Treasury yields.2  I would challenge this ex post framing of the issue.  Maturity extension 
+
+merely continued a policy begun by the Treasury well before the crisis and was also 
+
+broadly consistent with the Treasury’s past behavior at times of substantial increases in 
+
+borrowing.  My starting point would be that the Federal Open Market Committee did 
+
+what it thought was appropriate ex ante to return the economy to full employment and 
+
+stable prices, taking Treasury decisions concerning debt management as exogenous.   
+
+As the authors acknowledge, there are good reasons to think that any term 
+
+premium effect of the maturity extension must have been much smaller than the 
+
+“35 percent” figure implies.  The paper’s estimate is based solely on what is sometimes 
+
+referred to as the “duration removal” channel.  There are other channels that would not be 
+
+offset by maturity extension--in particular, a channel by which the Federal Reserve 
+
+signals the strength of its commitment to achieving the dual mandate.  My view is that it 
+
+is quite difficult to explain the observed effects of LSAPs on asset prices without 
+
+reference to these other channels.  In addition, according to the authors’ estimates, the 
+
+“announcement effects” of the Treasury’s maturity extension policy seem to be only half 
+
+the size of the effects of comparable Fed announcements. 
+
+The LSAPs tripled the Federal Reserve’s share of outstanding 10-year duration, 
+
+from 12 percent to 36 percent, and had quite significant effects on the prices of financial 
+
+                                                 
+2 The term “LSAPs” is used here to include QE1 (that is, the first round of quantitative easing by the Fed), 
+
+QE2 (the second round), the maturity extension program, and QE3 (the third round). 
+

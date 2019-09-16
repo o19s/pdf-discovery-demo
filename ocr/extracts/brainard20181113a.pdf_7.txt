@@ -1,0 +1,51 @@
+
+-6- 
+ 
+
+
+with compensating controls.  Similarly, when our own examiners evaluate model risk, they 
+
+generally begin with an evaluation of the processes firms have for developing and reviewing 
+
+models, as well as the response to any shortcomings in a model or the ability to review it.  
+
+Importantly, the guidance recognizes that not all aspects of a model may be fully transparent, as 
+
+with proprietary vendor models, for instance.  Banks can use such models, but the guidance 
+
+highlights the importance of using other tools to cabin or otherwise mitigate the risk of an 
+
+unexplained or opaque model.  Risks may be offset by mitigating external controls like “circuit-
+
+breakers” or other mechanisms.  And importantly, models should always be interpreted in 
+
+context.    
+
+Second, our guidance on vendor risk management (SR 13-19/CA 13-21), along with the 
+
+prudential regulators’ guidance on technology service providers, highlights considerations firms 
+
+should weigh when outsourcing business functions or activities--and could be expected to apply 
+
+as well to AI-based tools or services that are externally sourced.15  The vast majority of the banks 
+
+that we supervise will have to rely on the expertise, data, and off-the-shelf AI tools of nonbank 
+
+vendors to take advantage of AI-powered processes.  Whether these tools are chatbots, anti-
+
+money-laundering/know your customer compliance products, or new credit evaluation tools, it 
+
+seems likely that they would be classified as services to the bank.  The vendor risk-management 
+
+guidance discusses best practices for supervised firms regarding due diligence, selection, and 
+
+contracting processes in selecting an outside vendor.  It also describes ways that firms can 
+
+provide oversight and monitoring throughout the relationship with the vendor, and considerations 
+
+                                                 
+15 See, e.g., FFIEC Outsourcing Technology Services Booklet (June 2004), http://ithandbook.ffiec.gov/it-
+booklets/outsourcing-technology-services.aspx; and Board of Governors, “Guidance on Managing Outsourcing 
+Risk,” Supervision and Regulation Letter SR 13-19/Consumer Affairs Letter CA 13-21 (December 5, 2013), 
+https://www.federalreserve.gov/supervisionreg/srletters/sr1319.htm.  
+

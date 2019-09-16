@@ -1,0 +1,24 @@
+
+Cross-Sectional Investment Implications
+
+•  Panel-data investment specification:
+
+\[ \Delta \log{I_{jt}} = \alpha_1\Delta \log{Y_{jt}} + \alpha_2 r_{jt}^M + \beta\Delta \hat{s}_t + \gamma\Delta \log{\mathrm{IP}_t^I} + \mu_j + \epsilon_{jt} \]
+
+• \( I_{jt} \) =  real capital expenditures o f  firm \( j \)
+• \( Y_{jt} \) = real sales o f  firm \( j \)
+•  \( r_{jt}̂M \) = (log) equity return o f  firm \( j \)
+
+•  \( \mathrm{IP}_t̂I \) =  industry-level (3-d igit N A IC S) industrial production
+
+•  R e g r e ss io n  c o e ff ic ie n ts  are a llo w e d  to d iffer  b e tw e e n  firm s o f  d ifferen t  
+cred it q u a lity  \( \mathrm{RTG}_{j,t-1} \):
+
+(a) Unrated =  no credit rating
+
+(b) A ll H Y  (high yield) = Ba1, Ba2, Ba3, B 1, B 2, B 3, Caa1, Caa2, Caa3, Ca
+
+(c) L ow  IG (lower investm ent grade)= A 1, A 2, A 3, Baa1, Baa2, Baa3
+
+(d) H igh IG (high investm ent grade) = Aaa, A a1, A a2, Aa3
+

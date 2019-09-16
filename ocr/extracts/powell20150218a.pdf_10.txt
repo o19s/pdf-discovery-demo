@@ -1,0 +1,52 @@
+
+ - 9 - 
+
+The case of the leveraged loan market is an interesting one, because it sits at the 
+
+intersection between core financial institutions and credit markets and illustrates the 
+
+challenges supervisors face in thinking about intervention in credit markets.  I will turn to 
+
+that market now in some detail.   
+
+The term portions of leveraged loans are typically not held in the arranging banks’ 
+
+portfolios, but rather sold to a wide range of institutional investors--collateralized loan 
+
+obligations (CLOs), retail loan funds, pension funds, insurance companies, hedge funds, 
+
+and others (figures 1 and 2).  This “originate-to-distribute” model is now dominant across 
+
+a range of markets and reflects the movement over several decades of credit 
+
+intermediation from portfolio lending (from the firm’s perspective, the “storage 
+
+business”) to the capital markets (the “moving business”).  This practice transfers and 
+
+disperses credit and liquidity risks from the core of the financial sector to capital market 
+
+investors that are willing to bear such risks for what they deem appropriate compensation.  
+
+While the risks do not disappear, the system can, in principle, be safer if the ultimate 
+
+institutional investors pose lower risk to the system than banks.  For example, movement 
+
+of credit exposure to speculative grade firms from a bank’s balance sheet to a vehicle that 
+
+is stably funded by sophisticated, deep-pocket institutional investors could be a net gain 
+
+to financial stability.  Movement of such loans to a highly leveraged, runnable vehicle 
+
+beyond the regulatory perimeter could have the opposite effect.   
+
+Pre-crisis conditions in leveraged finance markets were, with the benefit of 
+
+hindsight, clearly in bubble territory.  Deal leverage was at historically high levels (figure 
+
+3), and spreads were at historic lows (figure 4).  Interest coverage ratios were quite low 
+
+over a five-to-seven-year period; differences across industries and companies are also to be taken into 
+consideration. 
+
+
+

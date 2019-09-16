@@ -1,0 +1,52 @@
+
+- 7 - 
+ 
+
+The solid blue bars in figure 4 present a snapshot of the distribution of nominal wage 
+
+changes for individual jobs during the depth of the current labor market slump, based on data 
+
+collected by the Bureau of Labor Statistics.6  For comparison, the dashed red line presents a 
+
+hypothetical distribution of wage changes, using a normal distribution that approximates the 
+
+actual distribution of wage changes greater than zero.  The distribution of actual wage changes 
+
+shows that a relatively high percentage of workers saw no change in their nominal wage, and 
+
+relatively few experienced modest wage cuts.  This pile-up phenomenon at zero suggests that, 
+
+even when the unemployment rate was around 10 percent, many firms were reluctant to cut 
+
+nominal wage rates.  In the absence of this barrier, nominal gains in wages and unit labor costs 
+
+would have likely been even more subdued given the severity of the economic downturn, with 
+
+the result that inflation would probably now be running at a lower rate.   
+
+Anchored inflation expectations are another reason why inflation has remained close to 2 
+
+percent in the face of very low resource utilization.  As shown in figure 5, survey measures of 
+
+longer-horizon inflation expectations have remained nearly constant since the mid-1990s even as 
+
+actual inflation has fluctuated.  As a result, the current slump has not generated the downward 
+
+spiral of falling expected and actual inflation that a simple accelerationist model of inflation 
+
+might have predicted.  Indeed, keeping inflation expectations from declining has been an 
+
+important success of monetary policy over the past few years.  At the same time, the fact that 
+
+longer-term inflation expectations have not risen above 2 percent has also proved extremely 
+
+                                                            
+6 The data shown in figure 4 refer to the change in wages over the 12 months to March 2010.  See Bruce Fallick, 
+Michael Lettau, and William Wascher (2011), “Downward Nominal Wage Rigidity in the United States during the 
+Great Recession,” unpublished manuscript, November.  Similar results, based on a different source of data, are 
+reported in Mary Daly, Bart Hobijn, and Brian Lucking (2012), “Why Has Wage Growth Stayed Strong?” Federal 
+Reserve Bank of San Francisco, FRBSF Economic Letter 2012-10, April 2, 
+www.frbsf.org/publications/economics/letter/2012/el2012-10.html.  I have explored the implications of downward 
+nominal rigidity for the Phillips curve and stabilization policy in greater depth in Janet L. Yellen and George A. 
+Akerlof (2006), “Stabilization Policy:  A Reconsideration,” Economic Inquiry, vol. 44 (January), pp. 1-22. 
+

@@ -1,0 +1,56 @@
+
+- 2 - 
+ 
+
+ 
+ 
+
+some markets and a moderate increase in leverage provided by dealers.  I will also briefly touch 
+
+on the role of supervision and regulation in this context and the development of new 
+
+macroprudential tools for addressing financial imbalances. 
+
+Monetary Policy and Financial Imbalances 
+
+ In the aftermath of the crisis, the primary objective of U.S. monetary policy was to 
+
+promote financial conditions likely to spur spending on goods and services through a number of 
+
+channels.  To this end, the Federal Reserve first lowered the federal funds rate and other rates at 
+
+the short end of the yield curve and, once the zero lower bound was binding, sought to push 
+
+down yields at the longer end through large-scale purchases of longer-term Treasury and agency 
+
+securities.  We anticipated that lowering rates on these securities would place downward pressure 
+
+on a range of private yields as well, in turn supporting home values, equity prices, and other asset 
+
+prices.  After all, this is the primary mechanism through which monetary policy in its 
+
+conventional form stimulates the economy.  But a sustained period of very low and stable yields 
+
+may incent a phenomenon commonly referred to as “reaching for yield,” in which investors seek 
+
+higher returns by purchasing assets with greater duration or increased credit risk.   
+
+The shift toward riskier assets is a normal channel through which monetary policy 
+
+supports economic activity.  But taken too far, this dynamic has the potential to facilitate the 
+
+emergence of financial imbalances.  For example, with interest rates at very low levels for a long 
+
+period of time, and in an environment of low volatility, investors, banks, and other market 
+
+participants may become complacent about interest rate risk.2  Similarly, in such an environment, 
+
+                                                            
+2 In January 2010, financial regulators issued an interagency advisory to remind financial institutions about 
+supervisory expectations regarding sound practices for the management of interest rate risk. Regulators noted that in 
+an environment of historically low short-term interest rates, it is important for institutions to have robust processes 
+for measuring and, where necessary, mitigating their exposure to potential increases in interest rates.  See Board of 
+Governors of the Federal Reserve System, Division of Banking Supervision and Regulation (2010), “Interagency 
+Advisory on Interest Rate Risk,” Supervision and Regulation Letter SR 10-1 (January 11), 
+www.federalreserve.gov/boarddocs/srletters/sr1001.htm. 
+

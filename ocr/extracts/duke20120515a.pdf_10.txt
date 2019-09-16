@@ -1,0 +1,49 @@
+
+ - 9 -
+
+Responses confirmed that lenders today are less likely--and often much less likely--to 
+
+originate loans to GSE borrowers with credit scores of 620 even when borrowers were 
+
+making down payments of 20 percent.  In fact, the only category of borrower to have 
+
+experienced no net reduction in reported credit availability was the category with the 
+
+highest credit profile asked about in the survey--those with down payments of 20 percent 
+
+and credit scores of 720. 
+
+Lenders who responded in the April SLOOS that they were less likely to originate 
+
+loans were asked to identify the reasons why.  About 80 percent of the respondents 
+
+reported greater borrower difficulty in obtaining affordable private mortgage insurance, a 
+
+less favorable economic outlook, or the outlook for home prices as being at least 
+
+somewhat important.  But policy concerns played a role as well.  In an indication that 
+
+delinquency risk is now considered in addition to the risk of credit loss, more than half 
+
+the respondents cited risks associated with loans becoming delinquent as being at least 
+
+somewhat important--in particular, higher servicing costs of past due loans or the risk that 
+
+GSEs would require banks to repurchase delinquent loans (known as putback risk). 
+
+The ability of the GSEs to put back loans when lenders have misrepresented their 
+
+riskiness helps protect taxpayers from losses; however, if lenders perceive that minor 
+
+errors can result in significant losses from putback loans, they may respond by being 
+
+more conservative in originating those loans.  In its recently released strategic plan, the 
+
+Federal Housing Finance Agency (FHFA), the regulator of Fannie Mae and Freddie Mac, 
+
+has identified the use of standardized data as a strategy for improving risk management 
+
+for the GSEs while reducing repurchase risk for lenders.  If technology and data 
+
+standardization can be used to enhance quality control reviews at the time of purchase 
+

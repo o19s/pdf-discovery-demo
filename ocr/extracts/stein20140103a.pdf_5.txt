@@ -1,0 +1,58 @@
+
+
+
+- 4 - 
+
+degree of exposure to fire-sale risk.  That synergy, in our view, is at the heart of the 
+
+business of traditional banking. 
+
+We have developed a simple theoretical model that captures the main ingredients 
+
+of this story and makes some further testable predictions.  It’s probably ill-advised over 
+
+lunch, but I will take a crack at sketching this model for you here.  However, let me start 
+
+with three stylized facts to motivate the theory.   
+
+Stylized Facts   
+
+The first fact, and the one that I suspect will surprise you the least, is the strong 
+
+homogeneity of the liability side of banks’ balance sheets:  Banks are almost always and 
+
+everywhere largely deposit financed.  For example, in the cross section, and using year-
+
+end 2012 data, a bank at the 10th percentile of the distribution had a ratio of deposits to 
+
+assets of 73.6 percent, while a bank at the 90th percentile had a ratio of 88.9 percent.
+6
+  A 
+
+similar homogeneity is apparent in the time series:  Over the past 115 years, deposits 
+
+have averaged 80 percent of bank assets, with a standard deviation of only 8 percent.  
+
+These patterns are in sharp contrast to those for nonfinancial firms, for which capital 
+
+structure tends to be much less determinate, both within an industry and over time.  They 
+
+suggest that for banks--unlike non-financials, and counter to the spirit of Modigliani and 
+
+Miller (1958)--an important part of their economic value creation happens on the liability 
+
+side of the balance sheet, via deposit-taking. 
+
+                                                 
+6
+ In this calculation and those that follow, we eliminated from the sample the very smallest banks--those 
+
+with less than $1 billion in assets.  We did so because otherwise, these banks--which are extremely 
+
+numerous but account for only a small fraction of total banking system assets--would dominate any 
+
+statements we might make about percentiles of the population distribution. 
+
+
+
+

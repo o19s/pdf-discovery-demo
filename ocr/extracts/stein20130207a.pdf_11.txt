@@ -1,0 +1,49 @@
+
+ - 10 - 
+
+returns to junk bond and leveraged-loan investors, it need not follow that this risk-taking 
+
+has ominous systemic implications.  That is, even if at some point junk bond investors 
+
+suffer losses, without spillovers to other parts of the system, these losses may be confined 
+
+and therefore less of a policy concern. 
+
+In this regard, one lesson from the crisis is that it is not just bad credit decisions 
+
+that create systemic problems, but bad credit decisions combined with excessive maturity 
+
+transformation.  A badly underwritten subprime loan is one thing, and a badly 
+
+underwritten subprime loan that serves as the collateral for asset-backed commercial 
+
+paper (ABCP) held by a money market fund is something else--and more dangerous.  
+
+This observation suggests an idealized measurement construct.  In principle, what we’d 
+
+really like to know, for any given asset class--be it subprime mortgages, junk bonds, or 
+
+leveraged loans--is this:  What fraction of it is ultimately financed by short-term 
+
+demandable claims held by investors who are likely to pull back quickly when things 
+
+start to go bad?  It is this short-term financing share that creates the potential for systemic 
+
+spillovers in the form of deleveraging and marketwide fire sales of illiquid assets. 
+
+This short-term financing share is difficult to measure comprehensively, but 
+
+exhibit 5 presents one graph that gives some comfort.  The graph shows dealer financing 
+
+of corporate debt securities, much of which is done via short-term repurchase agreements 
+
+(repos).  This financing rose rapidly in the years prior to the crisis, then fell sharply, and 
+
+remains well below its pre-crisis levels today.  So, on this score, there appears to be only 
+
+modest short-term leverage behind corporate credit, which would seem to imply that even 
+
+if the underlying securities were aggressively priced, the potential for systemic harm 
+
+resulting from deleveraging and fire sales would be relatively limited. 
+

@@ -1,0 +1,53 @@
+
+4 
+ 
+
+ 
+ 
+
+Reforming Minimum Capital Requirements 
+
+Although they had long used bank capital ratios as a supervisory tool, U.S. bank 
+
+regulators did not impose explicit minimum capital requirements until the 1980s.  The proximate 
+
+reason for this change was regulatory concern over the decline in capital ratios of the largest 
+
+banks--a concern reinforced by Congress, as it saw some of those large banks facing enormous 
+
+losses on their loans to foreign sovereigns.  This U.S. regulatory innovation was effectively 
+
+internationalized a few years later in the original Basel Accord.   
+
+At the same time, regulators came to regard capital requirements as a supple prudential 
+
+tool.  As activity and affiliation restrictions were loosened in the United States, capital 
+
+requirements seemed a promising way to protect the public’s interest in the stability of financial 
+
+institutions that had access to the Federal Reserve’s discount window and Federal Deposit 
+
+Insurance Corporation insurance.  Capital requirements promised to provide a buffer against 
+
+bank losses from any activities in which the bank or its affiliates might engage, a consideration 
+
+of equal or greater relevance in countries with universal banking models.  Some support also 
+
+developed for the proposition that minimum capital levels could, by maintaining a material 
+
+equity value for the bank, serve as a disincentive for excessive risk-taking by management and 
+
+shareholders.   
+
+In the ensuing quarter century, the attention of banking regulators around the world had 
+
+been heavily oriented toward elaborating capital requirements to reflect more precisely the 
+
+particular risks faced by a financial institution.  Capital requirements had, to a considerable 
+
+extent, become the dominant prudential regulatory tool. 
+
+The financial crisis showed that the concentrated, almost all-consuming regulatory focus 
+
+on refining bank capital requirements in Basel II had come at the expense of attention to other 
+

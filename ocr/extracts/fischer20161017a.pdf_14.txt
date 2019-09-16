@@ -1,0 +1,50 @@
+
+Appendix 
+
+Here we review the simulations that underlie the estimates of the effects of 
+
+various economic disturbances for their implications for the long-run equilibrium real 
+
+federal funds rate, using simulations of the staff’s FRB/US model.  We first provide 
+
+background on the methodology we use.  We then review the nature of the shocks that 
+
+are discussed in the speech and show the effects of those shocks on the long-run federal 
+
+funds rate.  Finally, we provide details about the results shown in the figures. 
+
+1.  Background 
+
+Our point of departure is a definition of the equilibrium interest rate that 
+
+corresponds with the neutral rate of interest.  In particular, we use the definition of the 
+
+neutral rate of interest that Chair Yellen used in a 2015 speech:  “the real rate consistent 
+
+with the economy achieving maximum employment and price stability over the medium 
+
+term,” which, in an elaboration in a footnote, is said to be “usually thought of as 
+
+independent of the cyclical disturbances that routinely buffet the economy . . . [that] fade 
+
+away after a few years.”1  The sort of disturbances being captured under the rubric of 
+
+shifts in r* are thus rarer and more persistent than the usual business cycle phenomena 
+
+and are associated with the “various adjustment processes that are unusually drawn out 
+
+by historical standards . . . [and have] slow-moving influences on both aggregate demand 
+
+and supply.”2  This definition corresponds reasonably closely with the (possibly time-
+
+varying) intercept of a Taylor-type rule in that the standard arguments of the 
+
+                                                 
+1 See Yellen (2015a), paragraph 15 and footnote 4. 
+2 See Yellen (2015a), footnote 4.  Other definitions of the neutral rate used by the Chair in her public 
+communications include the short-term real interest rate “that would be neither expansionary nor 
+contractionary if the economy was operating near potential” (Yellen, 2015c, 2016) and the short-term real 
+interest rate “that would be consistent with real GDP expanding in line with potential” (Yellen, 2015b).  
+There may be circumstances in which the nuances of these definitions would matter, but, for our purposes, 
+we can take them as one and the same. 
+

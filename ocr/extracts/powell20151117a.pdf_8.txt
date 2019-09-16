@@ -1,0 +1,39 @@
+
+7 
+ 
+
+balance sheet costs for dealers affiliated with a bank holding company.  The 
+
+evolution of repo markets and central clearing can serve to illustrate both the 
+
+potential benefits and the complexities that arise as the market seeks new 
+
+infrastructure models. 
+
+
+Repo Clearing 
+
+The U.S. repo market is composed of several segments, as illustrated in 
+
+Figure 3.  Dealers are at the center of the figure and operate in all five of the 
+
+segments shown.  In the bilateral market (segments 1 through 3), participants often 
+
+impose narrow restrictions on the specific securities eligible for collateral.  In this 
+
+portion of the market, cash providers tend to be professional investors such as asset 
+
+managers (segment 1), or the securities dealers themselves.  Cash borrowers 
+
+include prime brokerage clients (segment 3).  Securities dealers may also borrow 
+
+cash in this market, or may borrow it and then redistribute it to other dealers 
+
+(segment 2).   
+
+The tri-party repo market (segments 4 and 5) is used to finance general 
+
+collateral pools rather than specific securities, and trades in this portion of the 
+
+market are settled on the books of the two clearing banks, Bank of New York 
+

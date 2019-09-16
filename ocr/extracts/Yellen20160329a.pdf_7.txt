@@ -1,0 +1,52 @@
+
+ - 6 - 
+
+(PCE), which excludes food and energy.  Thus, the current stance of monetary policy 
+
+appears to be consistent with actual economic growth modestly outpacing potential 
+
+growth and further improvements in the labor market.4 
+
+Looking beyond the near term, I anticipate that growth will also be supported by a 
+
+lessening of some of the headwinds that continue to restrain the U.S. economy, which 
+
+include weak foreign activity, dollar appreciation, a pace of household formation that has 
+
+not kept up with population and income growth and so has depressed homebuilding, and 
+
+productivity growth that has been running at a slow pace by historical standards since the 
+
+end of the recession.  If these headwinds gradually fade as I expect, the neutral federal 
+
+funds rate will also rise, in which case it will, all else equal, be appropriate to gradually 
+
+increase the federal funds rate more or less in tandem to achieve our dual objectives.  
+
+Otherwise, monetary policy would eventually become overly accommodative as the 
+
+economy strengthened.5 
+
+Implicitly, this expectation of fading headwinds and a rising neutral rate is a key 
+
+reason for the FOMC’s assessment that gradual increases in the federal funds rate over 
+
+time will likely be appropriate.  That said, this assessment is only a forecast.  The future 
+
+path of the federal funds rate is necessarily uncertain because economic activity and 
+
+inflation will likely evolve in unexpected ways.  For example, no one can be certain 
+
+about the pace at which economic headwinds will fade.  More generally, the economy 
+
+                                                 
+4 Assuming that the current gap between the actual federal funds rate and its neutral value is about 
+125 basis points, simulations of the FRB/US model under vector-autoregression-based expectations suggest 
+that maintaining this interest rate gap for the next couple of years would lower the unemployment rate 
+1/2 percentage point or so below what it otherwise would be if the gap were instead immediately closed.  
+Under rational expectations, the predicted effect would be smaller.  For further information, see Brayton, 
+Laubach, and Reifschneider (2014). 
+5 Of course, any gap between the real federal funds rate and the neutral rate will eventually need to be 
+closed in order to stabilize inflation at 2 percent, keep employment at its maximum level, and the economy 
+growing in line with its potential rate. 
+

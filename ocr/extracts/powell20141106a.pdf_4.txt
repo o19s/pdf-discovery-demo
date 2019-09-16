@@ -1,0 +1,49 @@
+
+ - 3 - 
+
+international standards have been implemented at CCPs around the world can the risk 
+
+reduction promised by the global clearing mandate be fully realized. 
+
+Further Challenges Facing Central Clearing  
+
+The task is far from complete.  We must consider how central clearing and CCPs 
+
+fit into the rest of the financial system.  From this systemwide perspective, central 
+
+clearing raises a number of important issues that should be kept in mind as its use 
+
+increases.  I will now consider several of those issues and associated challenges in some 
+
+detail.   
+
+A number of commentators have argued that the move to central clearing will 
+
+further concentrate risk in the financial system.  There is some truth in that assertion.  
+
+Moving a significant share of the $700 trillion OTC derivatives market to central clearing 
+
+will concentrate risk at CCPs.  But the intent is not simply to concentrate risk, but also to 
+
+reduce it--through netting of positions, greater transparency, better and more uniform 
+
+risk-management practices, and more comprehensive regulation.  This strategy places a 
+
+heavy burden on CCPs, market participants, and regulators alike to build a strong market 
+
+and regulatory infrastructure and to get it right the first time.   
+
+It has also been frequently observed that central clearing simplifies and makes the 
+
+financial system more transparent.  That, too, has an element of truth to it, but let’s take a 
+
+closer look.  Charts similar to the ones shown in figure 1 are frequently offered to 
+
+illustrate the point that, as a CCP becomes a buyer to every seller and a seller to every 
+
+buyer, it causes risks to be netted and simplifies the network of counterparties.  The 
+
+dizzying and opaque constellation of exposures that exists in a purely bilateral market, 
+
+illustrated in the chart on the left, is replaced by a neat hub-and-spoke network that is 
+

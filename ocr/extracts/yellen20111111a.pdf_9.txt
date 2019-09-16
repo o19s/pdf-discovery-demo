@@ -1,0 +1,47 @@
+
+ - 8 -
+
+financial market perceptions of the risk such a firm could impose on the broader financial 
+
+system were it to become stressed.  Such measures are based on firms’ stock prices, 
+
+credit default swap premiums, and stock price volatility, as well as the correlation in asset 
+
+prices across firms.    
+
+In addition, we use regular stress tests of the nation’s largest banking 
+
+organizations to evaluate the ability of these firms to withstand worse-than-expected 
+
+outcomes for the economy.  These tests are based on detailed confidential data about the 
+
+balance sheets of the large banks and provide a comprehensive and rigorous assessment 
+
+of how their financial conditions would evolve over a multiyear period if economic and 
+
+financial conditions were to deteriorate.  The stress tests started in 2009 with the 
+
+Supervisory Capital Assessment Program (SCAP), and they continued with the 
+
+Comprehensive Capital Analysis and Review (CCAR) in late 2010 and early 2011, in 
+
+which we evaluated the capital planning processes of the firms and responded to requests 
+
+to resume or increase shareholder payouts. 
+
+In a couple of weeks, we will begin CCAR 2012, building on the previous CCAR, 
+
+and roughly a year from now, we will conduct the annual supervisory stress tests 
+
+mandated by the Dodd-Frank Act.  The Dodd-Frank tests will involve a larger group of 
+
+banking organizations than the 19 firms covered in the SCAP and will be extended to 
+
+include any financial institution the FSOC designates as systemically important.  As 
+
+additional data are collected on significant credit exposures, stress tests may evolve into 
+
+an effective way to identify linkages across systemically important institutions that could 
+
+lead them to fall into financial distress at the same time.   
+

@@ -1,0 +1,63 @@
+
+
+
+- 4 - 
+
+When we made our SCB proposal last April, we had aimed to make the SCB final 
+
+for the 2019 stress test cycle.  However, the comments we received have been extensive 
+
+and thoughtful, and have raised issues that require a carefully considered response.  
+
+While I don’t believe these issues will prevent us from ultimately implementing the SCB, 
+
+they have flagged certain elements of the regime that could benefit from further 
+
+refinement.  Accordingly, I expect we will adopt a final rule in the near future that will 
+
+settle the basic framework of the SCB, but re-propose certain elements.  To enable this 
+
+process to run its course, I expect that the first SCB would not go into effect before 2020.  
+
+For 2019, I expect CCAR will remain in place for firms with over $250 billion in assets 
+
+or that are otherwise complex; however, we will consider whether we can move forward 
+
+with any aspects of the SCB proposal for CCAR 2019, such as assumptions related to 
+
+balance sheet growth.  I will also ask the Board to exempt firms with less than $250 
+
+billion in assets from the CCAR quantitative assessment and supervisory stress testing in 
+
+2019 in light of the every-other-year cycle contemplated in the tailoring proposal that the 
+
+Board approved two weeks ago.2 
+
+Returning to the SCB proposal, I would like to give you a sense of the comments 
+
+we received and our approach to addressing those concerns.  The issue foremost on my 
+
+mind is the volatility of the stress test results.  One concern frequently expressed is that 
+
+the results of the supervisory stress test can lead to capital requirements that change 
+
+significantly from year to year, which limits a firm’s ability to manage its capital 
+
+effectively.  Some amount of volatility is necessary to preserve the dynamism of the 
+
+stress test--by nature, the stress test will differ year-over-year based on macroeconomic 
+
+conditions and contemporary understanding of salient risks in the economy.  In addition, 
+
+the stress test results are sensitive to changes in a firm’s balance sheet, which means that 
+
+a firm’s capital requirements will evolve as the firm’s activities and exposure evolve.  
+
+However, I do think there is an important balance to be struck between preserving this 
+
+                                                 
+2 See Board of Governors of the Federal Reserve System, “Federal Reserve Board invites public comment 
+on framework that would more closely match regulations for large banking organizations with their risk 
+profiles,” news release, October 31, 2018, 
+www.federalreserve.gov/newsevents/pressreleases/bcreg20181031a.htm. 
+

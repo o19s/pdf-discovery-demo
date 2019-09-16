@@ -1,0 +1,63 @@
+
+ - 15 - 
+
+and that is explored in the research of Caballero and Simsek.  Moreover, because market 
+
+participants commonly have partially or fully offsetting positions with multiple 
+
+counterparties, a fully bilateral network is inefficient from a risk-management standpoint:  
+
+Gains in the value of positions with one counterparty cannot be netted against losses in 
+
+the value of positions with other counterparties.   
+
+By taking one side of every trade, a central counterparty serves to transform the 
+
+mesh network shown in panel A of figure 3 into something that looks more like the hub-
+
+and-spoke network illustrated in panel B.  This network structure has no effect on the 
+
+exposure of individual market participants to the assets or indexes underlying the 
+
+derivatives contracts in question, but it dramatically simplifies and improves the 
+
+transparency of the network of counterparty risk exposures.
+17
+
+
+Central clearing can yield important advantages over a fully bilateral market 
+
+structure.  The simpler hub-and-spoke network structure is more transparent, and the 
+
+central counterparty is well positioned to impose common margin requirements on all 
+
+market participants.  Central clearing facilitates the netting of gains and losses across 
+
+multiple market participants, which has the potential to significantly reduce each 
+
+participant’s aggregate counterparty risk exposure.  Rather than managing its 
+
+counterparty risk exposure to all other trading partners, a market participant needs to 
+
+manage only its exposure to the central counterparty.  The central counterparty acts as a 
+
+                                                 
+17
+
+ For clarity, figure 3, panel B, illustrates an idealized centrally cleared network in which only one central 
+
+counterparty clears all trades.  In practice, it is entirely possible that more than one central counterparty 
+
+may accept a given class of contracts for clearing.  Research by Darrell Duffie and Haoxiang Zhu, among 
+
+others, shows that central clearing exhibits significant economies of scale and scope (Duffie and Zhu, 
+
+2011).  As in other economic enterprises that exhibit strong positive network effects, the potential 
+
+efficiency gains from consolidation in central clearing need to be appropriately weighed against the 
+
+countervailing benefits afforded by greater competition among central counterparties.    
+
+
+
+

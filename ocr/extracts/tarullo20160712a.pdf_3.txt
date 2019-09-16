@@ -1,0 +1,54 @@
+
+2 
+ 
+
+
+financial activities and institutions that are most likely to pose risks to financial stability and to 
+
+the economy more generally.1  Front and center among these risks is that of runnable liabilities.2  
+
+As has been frequently observed, the recent financial crisis began, like most banking crises, with 
+
+a run on short-term liabilities by investors who had come to doubt the value of the assets they 
+
+were funding through various kinds of financial intermediaries.  The difference, of course, was 
+
+that the run was not principally on depository institutions, as in the 1930s, but on asset-backed 
+
+commercial paper programs, broker-dealers, money market funds, and other intermediaries that 
+
+were heavily dependent on short-term wholesale funding.   
+
+Lacking enough liquidity to repay all the counterparties who declined to roll over their 
+
+investments, these intermediaries were forced into fire sales that further depressed asset prices, 
+
+thereby reducing the values of assets held by many other intermediaries, raising margin calls, and 
+
+leading to still more asset sales.  Those financial market actors who did have excess liquidity 
+
+tended to horde it, in light of their uncertainty as to whether their balance sheets might come 
+
+under greater stress and their reluctance to catch the proverbial falling knife by purchasing assets 
+
+whose prices were plummeting with no obvious floor. 
+
+                                                           
+1 Some of the issues mentioned in these brief opening remarks are addressed at greater length in Daniel K. Tarullo 
+(2015), “Thinking Critically about Nonbank Financial Intermediaries,” remarks at the Brookings Institution, 
+Washington, November 17. 
+ 
+2 A working definition of runnable liabilities is provided by Jack Bao, Josh David, and Song Han in “The 
+Runnables,” FEDS Notes, September 3, 2015, www.federalreserve.gov/econresdata/notes/feds-notes/2015/the-
+runnables-20150903.html: 
+
+We define “runnables” as “pay-on-demand” transactions which embed defaultable promises made by 
+private agents or state and local governments without explicit insurance from the federal government. A 
+transaction is considered “pay-on-demand” if its term to maturity is short or the claimholder of the long-
+term debt has a put option that can be exercised on short notice. In general, the pay-on-demand feature 
+implies that in the event of stress--caused by credit-risk concerns, large swings in short-term interest rates, 
+or deteriorations in market liquidity--investors may exhibit bank-run-like behavior by redeeming their 
+shares, unwinding their transactions, or deciding not to roll over their positions. 
+
+
+

@@ -1,0 +1,17 @@
+
+Warmup OLS Regressions
+
+• S a m p le  p e r io d : annual data, 1929-2013
+
+• \( \Delta y_{t+1} \) =  log -d ifference  o f  rea l G D P (per capita)
+
+• \( \Delta s_t \) =  change in B aa-T reasury  sp read
+
+• \( r_t̂M \) =  stock  m arke t (log) re tu rn
+
+• \( \mathrm x_t \) =  \( \Delta y_{t-1} \), \( \Delta i_t̂{(3m)} \), \( \pi_t \), W W - I I  a n d  K o r e a n  W a r  d u m m i e s
+
+\[ \Delta y_{t+1} = \beta_1\Delta s_t + \beta_2 r_t̂ M + \gammâ \prime \mathrm x_t + \epsilon_{t+1} \]
+
+• Standard forecasting regression:
+

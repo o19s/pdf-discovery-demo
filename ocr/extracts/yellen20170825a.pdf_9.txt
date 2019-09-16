@@ -1,0 +1,54 @@
+
+ - 8 - 
+
+stress tests.  In addition to contributing to greater loss-absorbing capacity, the CCAR 
+
+improves public understanding of risks at large banking firms, provides a forward-
+
+looking examination of firms’ potential losses during severely adverse economic 
+
+conditions, and has contributed to significant improvements in risk management. 
+
+Reforms have also addressed the risks associated with maturity transformation.  
+
+The fragility created by deposit-like liabilities outside the traditional banking sector has 
+
+been mitigated by regulations promulgated by the Securities and Exchange Commission 
+
+affecting prime institutional money market funds.  These rules require these prime funds 
+
+to use a floating net asset value, among other changes, a shift that has made these funds 
+
+less attractive as cash-management vehicles.  The changes at money funds have also 
+
+helped reduce banks’ reliance on unsecured short-term wholesale funding, since prime 
+
+institutional funds were significant investors in those bank liabilities.  Liquidity risk at 
+
+large banks has been further mitigated by a new liquidity coverage ratio and a capital 
+
+surcharge for global systemically important banks (G-SIBs).  The liquidity coverage ratio 
+
+requires that banks hold liquid assets to cover potential net cash outflows over a 30-day 
+
+stress period.  The capital surcharge for U.S. G-SIBs links the required level of capital for 
+
+the largest banks to their reliance on short-term wholesale funding.11 
+
+While improvements in capital and liquidity regulation will limit the reemergence 
+
+of the risks that grew substantially in the mid-2000s, the failure of Lehman Brothers 
+
+demonstrated how the absence of an adequate resolution process for dealing with a 
+
+                                                 
+11 Moreover, the Federal Reserve’s Comprehensive Liquidity Analysis and Review, in which supervisors 
+
+analyze the liquidity risks and practices at large banks, has promoted improvements in liquidity-risk 
+
+management.  The U.S. banking agencies also have proposed a net stable funding ratio (NSFR) to help 
+
+ensure that large banks have a stable funding profile over a one-year horizon, and we are working toward 
+
+finalization of the NSFR. 
+

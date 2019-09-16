@@ -1,0 +1,51 @@
+
+ - 12 - 
+
+ These observations raise the question of whether there are other tools that might 
+
+be better suited to dealing with SFT-related fire-sales externalities.  I will touch briefly on 
+
+three of these. 
+
+1.  Capital surcharges 
+
+In his May speech, Governor Tarullo alluded to the possibility of liquidity-linked 
+
+capital surcharges that would effectively augment the existing regime of risk-based 
+
+capital requirements.12  Depending on how these surcharges are structured, they could act 
+
+in part as a tax on both the dealer-as-principal and dealer-as-intermediary types of SFTs.  
+
+Accomplishing the latter would require a capital surcharge based on something like the 
+
+aggregate size of the dealer’s matched repo book; this comes quite close to the Pigouvian 
+
+notion of directly taxing this specific activity.  As compared to relying on the leverage 
+
+ratio to implement the tax, this approach has the advantage that it is more likely to treat 
+
+institutions uniformly: the tax on SFTs would not be a function of the overall business 
+
+model of a given firm, but rather just the characteristics of its SFT book.  This is because 
+
+the surcharge is embedded into the existing risk-based capital regime, which should in 
+
+principle be the constraint that binds for most firms.  
+
+There are a couple of important qualifications, however.  First, going this route 
+
+would involve a significant conceptual departure from the notion of capital as a 
+
+prudential requirement at the firm level.  As noted previously, a large matched repo book 
+
+may entail relatively little solvency or liquidity risk for the broker-dealer firm that 
+
+intermediates this market. So, to the extent that one imposes a capital surcharge on the 
+
+broker-dealer, one would be doing so with the express intention of creating a tax that is 
+
+passed on to the downstream borrower (i.e., to the hedge fund, in my example).  
+                                                 
+12 Tarullo (2013) 
+

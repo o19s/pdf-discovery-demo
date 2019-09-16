@@ -1,0 +1,53 @@
+
+
+
+- 12 - 
+
+Specifically, we adopt the following reduced form:  ki = k(μi, φi), where μi is the 
+
+fraction of asset i held by the shadow banking sector and φi is an index of asset 
+
+illiquidity, with higher values of φi corresponding to less-liquid assets.  We assume that 
+
+dki/dμi < 0, meaning that a greater shadow banking share results in a lower fire-sale price, 
+
+and that d
+2
+ki/dμidφi < 0, meaning that this adverse price-pressure effect is amplified in 
+
+more-illiquid assets.   
+
+With all of this machinery in place, I can now state our main results, which 
+
+characterize how banks’ equilibrium market shares depend on the two primitive asset-
+
+level parameters, φi and zi.  First, we have that dμi/di < 0, which means that banks have a 
+
+bigger share relative to shadow banks in more-illiquid assets, all else being equal.  
+
+Second, we have that dμi/dzi < 0, which means that banks have a bigger share in assets 
+
+that have less long-run solvency risk, all else being equal. 
+
+Taken together, these two results suggest that banks have a comparative 
+
+advantage in holding assets that can experience significant temporary price dislocations 
+
+but, at the same time, have only modest fundamental risk.  Agency MBS might be a 
+
+leading example of such an asset, since they are insured against default risk but are less 
+
+liquid than Treasury securities and, for a given duration, have more price volatility, as the 
+
+MBS-Treasury spread varies significantly. 
+
+The model also explains why, even absent any institutional or regulatory 
+
+constraints, banks would endogenously choose to avoid equities--they simply have too 
+
+much fundamental risk.  Because their value can fall very far over an extended period of 
+
+time--that is, because their zi is close to zero--equities cannot be efficiently used as 
+
+backing to create safe two-period claims.  So they are not good collateral for bank 
+

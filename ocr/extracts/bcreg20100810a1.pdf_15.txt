@@ -1,0 +1,53 @@
+
+
+ 15
+
+ Require that banks apply the aforementioned “gross-up” treatment under which a 
+bank must maintain capital against its securitization exposure, as well as against all 
+more senior exposures that the bank’s exposure supports in the structure.  The 
+grossed-up exposure would then be assigned to the risk weight appropriate to the 
+underlying securitized exposures.  
+
+ Differentiate the credit risk of the “grossed-up” securitization exposure based on 
+financial and structural parameters of the underlying or reference pool of 
+instruments, as well as the exposure itself.  For example, risk weights could be 
+assigned based on the securitization transaction’s overcollateralization ratio, 
+interest coverage ratio, or priority in the cash flow waterfall. 
+
+ Assign the most senior securitization exposure in a transaction a risk weight based 
+on the underlying exposure type and the aggregate amount of subordination that 
+provides credit enhancement to the exposure.  For example, the greater the amount 
+of subordination, the lower the risk weight to which the senior exposure would be 
+assigned.  However, this approach would only apply to the senior-most tranche 
+and would not distinguish between exposures with significant credit support and 
+those where the support had been reduced or eliminated by losses.   
+
+ Adopt the Basel Committee’s approach to calculating capital requirements for 
+securitization exposures that is based on the level of subordination and the type of 
+underlying exposures in the Revisions Document.  The approach would use a 
+“concentration ratio” to set the minimum risk-based capital requirements for 
+securitization positions.  The concentration ratio is equal to the sum of the notional 
+amounts of all the tranches divided by the sum of the notional amounts of the 
+tranches junior to or pari passu with the tranche in which the position is held 
+including that tranche itself.  The capital requirement is 8 percent of the weighted-
+average risk weight that would be applied to the underlying securitized exposures 
+multiplied by the concentration ratio. If the concentration ratio is 12.5 or higher, 
+the position would be deducted from capital.  Under this approach, the capital 
+requirement would be no less than that which would result from a direct exposure 
+to the underlying assets.   
+
+ Design a risk-weighting approach based on a supervisory formula.  Building on the 
+capital requirements of the underlying exposures, the agencies could recognize 
+multiple sources of risk related to securitizations and impose provisions that limit 
+some forms of arbitrage.  Under the advanced approaches rules, for example, 
+banking organizations are allowed to use the supervisory formula approach (SFA) 
+to calculate minimum regulatory capital requirements for certain securitization 
+exposures.32  This approach uses exposure-specific inputs, including the capital 
+requirement of the underlying exposures as if held directly by the banking 
+organization.  The inputs required for calculating the capital requirement of the 
+
+                                                 
+32 12 CFR part 3, Appendix C § 45 (OCC); 12 CFR part 208, Appendix F § 45 and 12 CFR part 225, 
+Appendix G § 45 (Board); 12 CFR part 325, Appendix D, § 45 (FDIC); 12 CFR part 567, Appendix C, 
+section 45 (OTS). 
+

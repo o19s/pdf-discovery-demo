@@ -1,0 +1,80 @@
+
+- 5 - 
+
+
+complex issues in their financial lives.  These tools build on important advances in our 
+
+understanding of consumer financial behavior and the applications, or “app,” ecosystem.  
+
+Researchers have invested decades of work exploring how consumers actually make 
+
+decisions.  We all tend to use shortcuts to simplify financial decisions, and it turns out many of 
+
+these can prove faulty, particularly when dealing with complex problems.17  For example, 
+
+empirical evidence consistently shows that consumers overvalue the present and undervalue the 
+
+future.18  Researchers have documented that consumers make better savings decisions when they 
+
+are presented with fewer options.19  They have shown the importance of “anchoring” bias--the 
+
+tendency to place disproportionate weight on the first piece of information presented. This bias 
+
+can lead consumers either to make poor financial choices or instead to tip the scales in favor of 
+
+beneficial choices, as with automatic savings defaults.20  Similarly, “nudges” can help consumers 
+
+                                                 
+17 See, e.g., Krista Tippett, On Being, radio interview with Daniel Kahneman, October 5, 2017, 
+
+https://onbeing.org/programs/daniel-kahneman-why-we-contradict-ourselves-and-confound-each-other-oct2017/. 
+
+(“…[It] is actually completely not possible for a finite human mind to be rational or to obey the axioms of 
+
+rationality. You’d have to know too much . . . [T]he cognitive rules are, to a large extent, simplifying rules. They are 
+
+shortcuts.”) 
+18 See, e.g., David Laibson, Andrea Repetto, and Jeremy Tobacman, “Estimating Discount Functions with 
+
+Consumption Choices over the Lifecycle,” National Bureau of Economic Research Working Paper 13314 
+
+(Cambridge, Mass.: NBER, August 2007), www.nber.org/papers/w13314.pdf.  
+19 See, e.g., John Beshears, James J. Choi, David Laibson, and Bridgitt C. Madrian, “Simplification and Saving,” 
+
+National Bureau of Economic Research Working Paper 12659 (Cambridge, Mass.: NBER, 2006), 
+
+https://sites.hks.harvard.edu/fs/bmadria/Documents/Madrian%20Papers/Simplification%20and%20Saving.pdf. 
+
+(“Many financial decisions that individuals face are complicated and daunting for those who are not financial 
+
+experts. .By collapsing a multidimensional set of options into a binary choice between the status quo and the pre-
+
+selected alternative, this intervention increases participation rates by 10 to 20 percentage points among affected 
+
+employees.”); Sheena S. Iyengar, Wei Jiang, and Gur Huberman, “How Much Choice is Too Much?: Contributions 
+
+to 401(k) Retirement Plans,” Pension Research Council Working Paper (Philadelphia: University of Pennsylvania, 
+
+The Wharton School, PRC, 2003), 
+
+https://pdfs.semanticscholar.org/04f0/7b37fc9deb167e56c729e1f35e052998ba4a.pdf. (“Using data from nearly 
+
+800,000 employees, …[our] results confirm that participation in 401(k) plans is higher in plans offering a handful of 
+
+funds, as compared to plans offering ten or more options.”) 
+20 See, e.g., Daniel Navarro-Martinez, et al., “Minimum Required Payment and Supplemental Information 
+
+Disclosure Effects on Consumer Debt Repayment Decisions,” Journal of Marketing Research, vol. 48 (November 
+
+2011), http://journals.ama.org/doi/pdf/10.1509/jmkr.48.SPL.S60?code=amma-site. (“They find that while presenting 
+
+minimum required payment information has a negative impact on repayment decisions, increasing the minimum 
+
+required level has a positive effect on repayment for most consumers.”) See, e.g., Bridgette C. Madrian, “Matching 
+
+Contributions and Savings Outcomes: A Behavioral Economics Perspective,” National Bureau of Economic 
+
+Research Working Paper 18220 (Cambridge, Mass.: NBER, July 2012), 
+
+https://sites.hks.harvard.edu/fs/bmadria/Documents/Madrian%20Papers/Matching%20Contributions%20and%20Sav
+

@@ -1,0 +1,50 @@
+
+‐ 6 ‐ 
+ 
+
+normal times but would convert to equity upon the triggering event.  The other is a requirement 
+
+that all instruments qualifying as Tier 2 regulatory capital convert to common equity under 
+
+specified circumstances, such as a determination that the firm would otherwise be on the brink of 
+
+insolvency. 
+
+The market discipline effects of both variants could be considerable, since holders of 
+
+certain kinds of capital instruments would know that their debt-like interests in the firm would be 
+
+lost if the firm's financial situation deteriorated.  However, there are also significant questions 
+
+about the feasibility of both.  The specification of the trigger is critical.  If supervisors can trigger 
+
+the conversion, investors cannot be certain as to when the government will exercise the trigger.  
+
+That uncertainty would make it difficult to price a convertible capital instrument and diminish 
+
+investors’ willingness to hold it.  Tying the trigger to the capital level of the firm runs headlong 
+
+into the serious problem that capital has traditionally been a lagging indicator of the health of a 
+
+firm.  Using a market-based trigger could invite trading against the trigger, which, in extreme 
+
+cases, could lead to a so-called death spiral for the firm's stock.   
+
+Despite the work that has been done on contingent proposals, it is not yet clear if there is 
+
+a viable form of contingent capital that would increase market discipline and provide additional 
+
+equity capital in times of stress without raising the price of the convertible debt close to common 
+
+equity levels.  The appeal of the concept is such as to make further work very worthwhile but, for 
+
+the moment at least, there is no proposal ready for implementation. 
+
+Before closing the discussion of mechanisms to increase market discipline, I want to add 
+
+a complementary thought to my earlier observation that these mechanisms are designed to ensure 
+
+that investors and counterparties suffer losses.  If we are committed to achieving this end--as I 
+
+believe we should be--we also need to provide market participants with the information needed 
+

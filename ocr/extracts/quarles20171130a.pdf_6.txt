@@ -1,0 +1,51 @@
+
+- 5 - 
+ 
+
+financial and technical risk at the same time.  Not surprisingly, because striking the right balance 
+
+takes time, genuine innovation in payment systems over history has often been measured in 
+
+decades, not years.  
+
+Private Digital Currencies   
+
+As part of the new technology associated with fintech, we are now seeing the emergence 
+
+of privately developed digital currencies using new decentralized technologies.  Fundamental to 
+
+these digital currencies is the establishment of a new asset, the unit of the digital currency--for 
+
+example, a bitcoin--and a new record-keeping and transfer mechanism that enables users to store 
+
+and trade those units--for example, a blockchain--often without reliance on traditional financial 
+
+institutions.   
+
+I believe the financial industry is increasingly recognizing that we should separate the 
+
+concept of digital currencies from the innovative new technologies that they have employed to 
+
+transfer assets.  Those technologies, such as distributed ledgers, may offer useful new ways to 
+
+store, transfer, and protect data and traditional financial assets.  The industry is now moving 
+
+cautiously from pilot projects in many of these areas to the use of these new technologies in 
+
+limited production settings.  This cautious approach to using new technology appears to reflect 
+
+the weight of responsibility the financial industry bears for protecting both their customers and 
+
+their reputations.  Continued monitoring of developments is in order, and time will tell how these 
+
+new technologies--and others--can contribute to a safe and secure payment system and broader 
+
+financial system.  The Federal Reserve has been actively monitoring these developments and will 
+
+continue to do so.2 
+
+                                                           
+2 See David Mills, Kathy Wang, Brendan Malone, Anjana Ravi, Jeff Marquardt, Clinton Chen, Anton Badev, 
+Timothy Brezinski, Linda Fahy, Kimberley Liao, Vanessa Kargenian, Max Ellithorpe, Wendy Ng, and Maria Baird, 
+“Distributed Ledger Technology in Payments, Clearing, and Settlement,” Finance and Economics Discussion Series 
+

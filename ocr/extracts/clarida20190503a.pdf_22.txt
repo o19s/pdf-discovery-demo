@@ -1,0 +1,12 @@
+
+Figure 5.  Market- and Survey-Based Measures of Longer-Run Inflation
+Expectations
+
+Note: Estimates based on smoothed nominal and inflation-indexed Treasury yield curves.  Michigan survey expectations represent median responses.  
+TIPS is Treasury Inflation-Protected Securities; CPI is consumer price index.
+
+* Adjusted for lagged indexation of Treasury Inflation-Protected Securities (the carry effect).
+Source: Federal Reserve Bank of New York; Federal Reserve Board staff calculations; Bloomberg Finance LP; University of Michigan, Surveys of 
+
+Consumers, http://new.sca.isr.umich.edu.
+

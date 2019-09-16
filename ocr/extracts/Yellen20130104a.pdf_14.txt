@@ -1,0 +1,51 @@
+
+ - 13 - 
+
+financial crisis was that capital alone is not sufficient to prevent or stem a crisis.  Multiple 
+
+channels for reform initiatives will enhance systemic stability.  
+
+Managing Tradeoffs between Reducing Systemic Risk and Increasing Costs:  
+
+OTC Derivatives Market Reforms  
+
+In addition to the banking reforms I just discussed, the G-20 also committed to 
+
+reduce risk in OTC derivatives markets by enacting reforms to improve transparency and 
+
+decrease counterparty exposures among market participants.  These policies must be 
+
+considered carefully, as they are apt to increase the cost of financial intermediation and 
+
+that of hedging risk.  To illustrate the tradeoffs policymakers and regulators must manage 
+
+when crafting such policies, I’ll next discuss in some detail a set of initiatives currently 
+
+being implemented by prudential, market, and systemic risk regulators around the world 
+
+to address weaknesses in OTC derivatives markets.  
+
+An OTC derivative is a privately negotiated contract between a pair of 
+
+counterparties to exchange future cash flows that depend on the performance of an 
+
+underlying asset or benchmark index.  Unlike an immediate purchase or sale of assets, 
+
+OTC derivatives require one or both sides of the transaction to make payments in the 
+
+future.  Counterparty risk is therefore a key element of OTC derivatives transactions.  
+
+The scale and significance of counterparty risks in the OTC derivatives markets are large 
+
+and, as we saw, can have economy-wide implications.  The prudent management, 
+
+regulation, and oversight of these risks are critical to ensuring that derivatives markets 
+
+serve to diversify, rather than exacerbate, systemic risk. 
+
+Significant problems with the functioning, regulation, and oversight of derivatives 
+
+markets became apparent during the financial crisis.  These problems are perhaps best 
+
+exemplified by the widespread effects of large losses by American International Group, 
+

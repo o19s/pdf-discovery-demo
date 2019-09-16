@@ -1,0 +1,51 @@
+
+- 8 - 
+ 
+
+
+In his article, Ira Goldstein emphasizes the difference between stabilizing neighborhoods 
+
+and impacting individual properties.  He describes a data-based tool developed by the 
+
+Reinvestment Fund to characterize the underlying dynamics of local real estate markets.  Their 
+
+Market Value Analysis is based on a set of indicators drawn from local administrative records 
+
+and third-party data sources.  Indicators include such things as median sales prices, number of 
+
+sales as a percent of housing units, foreclosure filings as a percentage of sales, percentage of 
+
+commercial properties, percentage of tax abated properties or newly constructed properties, 
+
+percentage of owner-occupied properties, and residential vacancy rates.  Data such as these are 
+
+analyzed on a census tract basis, making them small enough to capture slight variations in 
+
+community character but large enough to be reliably aggregated for mapping and statistical 
+
+analysis.     
+
+Using such analysis, communities can more effectively decide where NSP funds will 
+
+have the greatest impact.  For example, using Philadelphia data, Goldstein begins by identifying 
+
+neighborhoods eligible for use of NSP funds.  He further calculates the percentage of 
+
+foreclosures in each neighborhood that could be addressed using NSP funds.  He argues that, 
+
+from the standpoint of neighborhood stabilization, the best use of funds is in neighborhoods 
+
+where there is the intersection of 1) a demonstrated need combined with the ability to impact a 
+
+significant fraction of foreclosures, 2) the absence of other significant barriers to revitalization, 
+
+and 3) the presence of additional strengthening factors, such as the strength of surrounding 
+
+neighborhoods.  Combining indicators-of-need with indicators-of-probable-success within data-
+
+driven analytical tools can help communities strategically invest scarce dollars to build on 
+
+community strengths and remove barriers to community success.  This approach also helps 
+
+communities to leverage other funding in the context of a larger community stabilization plan.     
+

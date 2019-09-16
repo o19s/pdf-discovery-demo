@@ -1,0 +1,49 @@
+
+- 12 - 
+ 
+
+Reserve Board staff calculations, of the cumulative reduction of the term premium on 10-year 
+
+Treasury securities from the three balance sheet programs.  These results suggest that our 
+
+portfolio actions are currently keeping 10-year Treasury yields roughly 60 basis points lower 
+
+than they otherwise would be.11  Other evidence suggests that this downward pressure has had 
+
+favorable spillover effects on other financial markets, leading to lower long-term borrowing 
+
+costs for households and firms, higher equity valuations, and other improvements in financial 
+
+conditions that in turn have supported consumption, investment, and net exports.  Because the 
+
+term premium effect depends on both the Federal Reserve’s current and expected future asset 
+
+holdings, most of this effect--without further actions--will likely wane over the next few years as 
+
+                                                                                                                                                                                                
+Scale Asset Purchases by the Federal Reserve:  Did they Work?” Staff Report no. 441 (New York:  Federal Reserve 
+Bank of New York, March), www.ny.frb.org/research/staff_reports/sr441.html; Hess Chung, Jean-Philippe Laforte, 
+David Reifschneider, and John Williams (2012), “Have We Underestimated the Likelihood and Severity of Zero 
+Lower Bound Events?” supplement, Journal of Money, Credit and Banking, vol. 44 (S1, February), pp. 47-82; 
+Arvind Krishnamurthy and Annette Vissing-Jorgensen (2011), “The Effects of Quantitative Easing on Interest 
+Rates:  Channels and Implications for Policy,” Brookings Papers on Economic Activity, Fall, pp. 215-65, 
+www.brookings.edu/about/projects/bpea/editions/fall-2011; and James Hamilton and Jing Cynthia Wu (2012), “The 
+Effectiveness of Alternative Monetary Policy Tools in a Zero Lower Bound Environment,” Journal of Money, 
+Credit and Banking, vol. 44, Issue Supplement s1 (February), pp. 3-46.  Estimates of the effects of large-scale asset 
+purchases in the United Kingdom are provided in Michael Joyce, Matthew Tong, and Robert Woods (2011), “The 
+United Kingdom’s Quantitative Easing Policy:  Design, Operation and Impact,” Bank of England Quarterly Bulletin, 
+Third Quarter, pp. 200-12. 
+11 The estimates shown in figure 9 employ the methodology discussed by Li and Wei, “Term Structure Modeling 
+with Supply Factors,” in note 10.  These calculations require an assumption for market participants’ expectations for 
+the future path of the Federal Reserve’s portfolio at different points in time, both in the past and going forward; 
+accordingly, the estimates are somewhat sensitive to alternative assumptions for market expectations.  In estimating 
+the current and future effect of the Federal Reserve’s securities holdings on term premiums, market participants are 
+assumed to have expectations consistent with the illustrative baseline discussed in note 16 and the exit principles 
+outlined by the FOMC in June 2011 (see note 18).  In particular, investors are assumed to expect that the overall size 
+and composition of the portfolio will remain roughly constant from the end of 2012:Q2 through late 2014 because 
+principal payments on the Federal Reserve’s security holdings will be reinvested until a few months prior to the 
+liftoff of the federal funds rate assumed in the illustrative baseline.  At that point, the portfolio is assumed to begin to 
+contract through redemptions and, after the assumed liftoff of the federal funds rate, through sales of mortgage-
+backed securities that bring the Federal Reserve’s holdings of such securities to zero over a three-to-five-year 
+period.  As a result, the size of the portfolio returns to normal within a few years after liftoff. 
+

@@ -1,0 +1,85 @@
+
+[page 16] 
+
+loan growth represented the replacement of estimated loan losses between 2009 and 2010. Reserve 
+
+needs for the vintage and new loan portfolios were determined by assessing potential losses on these 
+
+portfolios in 2011 and assuming reserves sufficient to cover these losses. Loss rates for vintage loans 
+
+were calculated as each firm's 2010 loss rate by loan category, reduced by the anticipated average 
+
+percentage reduction in loan losses in 2011 as calculated from firms that reported this information. For 
+
+newly extended credits, which would likely be underwritten under more prudent lending standards, loss 
+
+rates by loan category from 2007 were used to represent the expected losses in 2011. 
+III. C. Accounting Adjustments 
+
+The supervisory team assessing consumer credit losses worked closely with accounting 
+
+specialists in the agencies to ensure that the firms' projections were consistent with accounting 
+
+standards. Additionally, supervisors evaluated the potential impact of the proposed changes to FAS 140 
+
+which are expected to be implemented in January 2010. Based on information provided by the BHCs, 
+
+implementation of the proposed changes to FAS 140 could result in approximately $900 billion in assets 
+
+being brought onto the balance sheets of these institutions. Risk-weighted assets were increased by 
+
+about $700 billion to reflect this projected consolidation. The on-boarding of assets also factored into 
+
+our assessment of ALLL needs, and those assets were treated as new loans. 
+
+A second critical set of adjustments were made to recognize the impact of discounts taken by 
+
+institutions on purchased impaired loan portfolios acquired during mergers, as governed by SOP 03-03. 
+
+Several of the participating BHCs acquired loans at significant discounts as part of mergers. Based on 
+
+the information provided by the BHCs, these discounts totaled more than $90 billion.10 [Footnote 10. The 
+
+reduction in projected losses relating to purchase accounting adjustment for the two scenarios is less than this 
+
+amount. Some portion of the credit losses reflected in this discount may take place after the end of the scenario or 
+
+may reflect market loss assumptions at the time of acquisition that are more severe than those assumed by the 
+
+BHCs and supervisors in the supervisory loss projections. Some of the discount not related to credit losses is 
+
+captured by the BHC in "accretable yield", which is part of pre-provision net revenue (such amounts are amortized 
+
+into income over the estimated life of the loan in accordance with GAAP). End footnote 10.] These discounts 
+
+were considered in assessing possible future losses for these firms under the two scenarios, since such 
+
+discounts make up a large portion, and possibly all, of projected future losses on impaired acquired 
+
+loans in the two scenarios. The approach used in the SCAP was to project losses on the original balances 
+
+of the impaired acquired loans (that is, balances with the discounts added back to bring the impaired 
+
+loan balances back to their contractual principal at the date of acquisition) and then to net these losses 
+
+against the discount that the BHCs took at the time they acquired the loans. 
+
+III. D. Determination of Capital Needs 
+As part of the submission process, each BHC reported projections of Tier 1 capital and common 
+
+stockholders' equity for the end of 2009 and 2010. The BHCs' projected evolution of capital over the 
+
+scenarios reflects a combination of credit losses, PPNR to absorb losses, and the need to generate 
+
+appropriate ALLL at the end of the assessment horizon. These estimates served as a useful benchmark 
+
+for the SCAP, but were not necessarily consistent with the final projections of losses and revenue the 
+
+supervisors made for the BHC. 
+
+As a result, supervisors projected pro forma capital for 2010 for each BHC using the revised 
+
+estimates of credit losses and revenue. The basic algorithm began with 2008 Q4 measures of equity 
+
+capital and regulatory capital from Y-9C reports. Pro forma equity capital was estimated by rolling tax-
+

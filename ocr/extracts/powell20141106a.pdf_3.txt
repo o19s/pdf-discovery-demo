@@ -1,0 +1,55 @@
+
+ - 2 - 
+
+these markets.  According to public data, roughly 20 percent of all credit derivatives and 
+
+45 percent of all interest rate derivatives are now centrally cleared--amounts that have 
+
+grown substantially since 2009, when central clearing of credit derivatives began and the 
+
+amount of cleared interest rate derivatives was at roughly one-half of its current level.3  
+
+These amounts should continue to grow over time as central clearing and, especially, 
+
+client clearing requirements take effect in more jurisdictions. 
+
+Given the global nature of derivatives markets, the success of the reform agenda 
+
+depends critically on international coordination.  Thus, to support the move to central 
+
+clearing and address other lessons from the financial crisis, regulators developed the new 
+
+Principles for Financial Market Infrastructures (PFMIs) for the infrastructures that clear 
+
+derivatives, securities, and payments.4  The PFMIs are comprehensive international 
+
+standards for the governance, risk management, and operation of central counterparties 
+
+(CCPs) and other financial market infrastructures.  Such standards are essential given 
+
+that, in the interest of transparency and improved risk management, policymakers have 
+
+encouraged the concentration of activities at these key nodes.  And it is particularly 
+
+important that the standards be promulgated globally, given the potential for OTC 
+
+derivatives to span multiple jurisdictions and to migrate to jurisdictions where standards 
+
+and risk management are less robust.  Regulators are now engaged in the important work 
+
+of translating these principles into national regulations.  Only when these strong 
+
+                                                 
+3 Financial Stability Board (2014), OTC Derivatives Market Reforms:  Seventh Progress Report on 
+
+Implementation (Basel, Switzerland:  FSB, April), 
+
+www.financialstabilityboard.org/publications/r_140408.pdf. 
+4 See Committee on Payment and Settlement Systems and Technical Committee of the International 
+
+Organization of Securities Commissions (2012), Principles for Financial Market Infrastructures (Basel, 
+
+Switzerland:  Bank for International Settlements and International Organization of Securities Commissions, 
+
+April), www.bis.org/cpmi/publ/d101a.pdf.  
+

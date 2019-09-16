@@ -1,0 +1,41 @@
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+2006 2008 2010 2012 2014 2016 2018 2020
+
+Percent
+
+Projections
+
+Quarterly averages
+
+Figure 1.  Federal Reserve Liabilities as a Share of GDP
+
+Reserve Balances
+
+Other Liabilities
+
+Treasury General Account
+
+Currency in Circulation
+
+      Note:  Key identifies regions in order from top to bottom.  In this figure, currency in circulation is Federal Reserve notes outstanding. 
+Projections of liabilities are based on responses to surveys of primary dealers and market participants conducted by the Federal Reserve 
+Bank of New York.  Nominal GDP projections are from the Congressional Budget Office, The Budget and Economic Outlook: 2019 to 2029.   
+      Source: Federal Reserve Board, Statistical Release H.4.1, "Factors Affecting Reserve Balances," https://www.federalreserve.gov/
+releases/h41; Federal Reserve Board staff calculations; Federal Reserve Bank of New York Primary Dealer Survey and Survey of Market 
+Participants;  Congressional Budget Office (2019), The Budget and Economic Outlook: 2019 to 2029.  (Washington:  CBO), https://
+www.cbo.gov/system/files?file=2019−03/54918−Outlook−2.pdf.
+

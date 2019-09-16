@@ -1,0 +1,11 @@
+
+ 
+Figure 4.  Corporate Bond Trading Volume  
+
+
+Note:  Only use trades of bonds that have been issued for 60 days or more at the time of trading are included. 
+We exclude 144a bonds.  
+
+Source:  BTDS Data provided by FINRA's TRACE System; Mergent Corporate FISD Daily Feed (FITF); Moody's 
+Analytics:  Default and Recovery Database (DRD). 
+

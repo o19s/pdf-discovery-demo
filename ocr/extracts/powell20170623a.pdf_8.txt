@@ -1,0 +1,49 @@
+
+7 
+ 
+
+arranged” in describing qualifying liquid resources.  Indeed, the PFMI does not view spot 
+
+transactions on the open market as reliable sources of liquidity during times of stress.  The 
+
+Federal Reserve has strongly supported this approach.  Liquidity plans should not take for 
+
+granted that, at a time of stress involving a member default, lines of credit, repurchase 
+
+agreements, or FX swaps could be arranged on the spot.  Committed sources of liquidity are 
+
+more likely to be available.  They also allow market participants and regulators to make sure that 
+
+plans are mutually consistent.  If a CCP has arranged for a committed liquidity source, then the 
+
+provider should account for it in its own plans and demonstrate that it can meet its commitment.  
+
+Of course, this liquidity is not free, nor should it be.  Regulatory changes have forced 
+
+banks to closely examine their liquidity planning and to internalize the costs of liquidity 
+
+provision.  The costs of committed liquidity facilities will be passed on to clearing members.  
+
+These costs are perhaps highest in clearing Treasury securities, where liquidity needs can be 
+
+especially large.  To meet its estimated needs, DTCC’s Fixed Income Clearing Corporation 
+
+(FICC) is planning to institute a committed repo arrangement with its clearing members.  Despite 
+
+initial concerns, the industry seems prepared to absorb these costs, but they will not be trivial for 
+
+many members.4  
+
+
+Payment Flows to CCPs 
+
+While initial and variation margin help mitigate credit risk in central clearing, they can 
+
+also create liquidity risk.  Clearing members and their clients are required to make margin 
+
+payments to CCPs on a daily basis, and in times of market volatility these payments may rise 
+
+                                                           
+4 “Treasury repos may hit 20bp under DTCC liquidity plan,” Risk.net, November 25, 2015, 
+www.risk.net/derivatives/2435384/treasury-repos-may-hit-20bp-under-dtcc-liquidity-plan. 
+

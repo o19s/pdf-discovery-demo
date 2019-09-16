@@ -1,0 +1,45 @@
+
+ - 11 - 
+
+A fair summary is that, while the shadow banking sector is smaller today than 
+
+before the crisis and some of its least stable components have either disappeared or been 
+
+reformed, regulators and the private sector need to address remaining vulnerabilities.  For 
+
+example, although money market funds were strengthened by reforms undertaken by the 
+
+Securities and Exchange Commission (SEC) in 2010, the possibility of a run on these 
+
+funds remains--for instance, if a fund should “break the buck,” or report a net asset value 
+
+below 99.5 cents, as the Reserve Primary Fund did in 2008.  The risk is increased by the 
+
+fact that the Treasury no longer has the power to guarantee investors’ holdings in money 
+
+funds, an authority that was critical for stopping the 2008 run.  In November 2012, the 
+
+FSOC proposed for public comment some alternative approaches for the reform of 
+
+money funds.  The SEC is currently considering these and other possible steps. 
+
+With respect to the triparty repo platform, progress has been made in reducing the 
+
+amount of intraday credit extended by the clearing banks in the course of the daily 
+
+settlement process, and, as additional enhancements are made, the extension of such 
+
+credit should be largely eliminated by the end of 2014.  However, important risks remain 
+
+in the short-term wholesale funding markets.  One of the key risks is how the system 
+
+would respond to the failure of a broker-dealer or other major borrower.  The Dodd-
+
+Frank Act has provided important additional tools to deal with this vulnerability, notably 
+
+the provisions that facilitate an orderly resolution of a broker-dealer or a broker-dealer 
+
+holding company whose imminent failure poses a systemic risk.  But, as highlighted in 
+
+the FSOC’s most recent annual report, more work is needed to better prepare investors 
+

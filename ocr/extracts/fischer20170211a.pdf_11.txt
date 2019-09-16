@@ -1,0 +1,61 @@
+
+ - 10 - 
+
+outcomes relative to policymakers’ goals; in this case, the optimal policy path is 
+
+computed using the FRB/US model and takes the staff’s baseline outlook as given.20  In 
+
+principle, optimal policy simulations deliver better outcomes than simple policy rules, but 
+
+those outcomes are conditional on some strong assumptions.21 
+
+The black line in figure 3 shows the optimal policy path in the August 2011 
+
+Tealbook conditional on interest rates being constrained to remain above zero.  
+
+Comparing the black line with its counterpart from the Tealbook prepared for the 
+
+previous FOMC meeting in June--the red dotted line--you can see that the date at which 
+
+the policy rate was expected to rise above zero had moved out by about a year.  Even an 
+
+optimal policy path (the blue dashed line) that was not constrained by the zero lower 
+
+bound--and was therefore infeasible--did not cross into positive territory until mid-2014.  
+
+Thus, the prescriptions of optimal policy were saying not only that the Committee’s 
+
+interest rate should remain at zero for some time to come, but also that that period of time 
+
+should be considerably longer than previously thought. 
+
+At the August 2011 FOMC meeting, most members agreed that the economic 
+
+outlook had deteriorated by enough to warrant a response.  Some of them judged that 
+
+additional stimulus was called for because they thought the economy would not get back 
+
+                                                 
+20 More formally, optimal policies are the solution to an optimal control problem in which a search 
+
+procedure is used to solve for the path of the federal funds rate that minimizes the value of an assumed loss 
+
+function, conditional on a baseline outlook and on allowing for feedback of differences in the federal funds 
+
+rate from its baseline to real activity and inflation.  See, for example, Svensson and Tetlow (2005).  For a 
+
+concise description of its computation in conjunction with the FRB/US model, see Brayton, Laubach, and 
+
+Reifschneider (2014b); for an exposition of the use of optimal control, see Yellen (2012). 
+21 Optimal policy simulations assume that policymakers do not doubt their model or the baseline outlook.  
+
+In addition, the particular optimal policy shown in figure 3 is known as a “commitment policy,” meaning 
+
+that it is assumed that policymakers can bind themselves and future committees to follow the strategy--but 
+
+not necessarily the precise policy rule prescriptions--that comprises the optimal plan.  The restrictiveness of 
+
+these assumptions is one reason why optimal policy simulations are best considered in conjunction with 
+
+other forms of policy advice such as prescriptions from simple rules. 
+

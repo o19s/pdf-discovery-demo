@@ -1,0 +1,51 @@
+
+ - 6 - 
+
+monetary policy.  This information on where the economy is relative to the goals of 
+
+monetary policy is an important input into the policy decision.  If, for example, incoming 
+
+data in the months ahead were to reveal that inflation and inflation expectations are 
+
+running higher than projected at present and in ways that are inconsistent with our 2 
+
+percent objective, then I would be receptive to increasing the policy rate by more than I 
+
+currently expect will be necessary.  Data dependence in this sense is easy to understand, 
+
+as it is of the type implied by a large family of policy rules in which the parameters of the 
+
+economy are known.5 
+
+But what if key parameters that describe the long-run destination of the economy 
+
+are unknown?  This is indeed the relevant case that the FOMC and other monetary 
+
+policymakers face in practice.  The two most important unknown parameters needed to 
+
+conduct--and communicate--monetary policy are the rate of unemployment consistent 
+
+with maximum employment, u*, and the riskless real rate of interest consistent with price 
+
+stability, r*.  As a result, in the real world, monetary policy should, I believe, be data 
+
+dependent in a second sense:  that incoming data can reveal at each FOMC meeting 
+
+signals that will enable it to update its estimates of r* and u* in order to obtain its best 
+
+estimate of where the economy is heading.6  And, indeed, as indicated by the SEP, 
+
+                                                 
+5 See the Board of Governors of the Federal Reserve System (2018), Monetary Policy Report (Washington:  
+Board of Governors, July), pp. 37-41, 
+https://www.federalreserve.gov/monetarypolicy/files/20180713_mprfullreport.pdf, or the webpage 
+“Monetary Policy Principles and Practice” available on the Federal Reserve Board’s website at 
+https://www.federalreserve.gov/monetarypolicy/monetary-policy-principles-and-practice.htm for a 
+discussion of the policy rate paths implied by five different policy rules using parameter values typically 
+assumed in the literature. 
+6 If the economy can be described by a linear model in which the only two unknown parameters are r* and 
+u* and the shocks that hit the economy are normal, Kalman filtering can be used to derive a closed form 
+mathematical expression for how to update one’s estimate of r* and u* as new macro data arrive.  But, in 
+practice, “the” model of the economy is neither known, nor linear, and the shocks that strike it are not 
+normal.  Thus, monetary policy in practice is, of necessity, as much or more an art than a science.  
+

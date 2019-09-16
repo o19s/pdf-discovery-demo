@@ -1,0 +1,49 @@
+
+ - 12 - 
+
+Federal Reserve staff analysis reveals that the 3 p.m. spike in trading volumes tends to be 
+
+fairly evenly divided between the DTC and IDB market segments, suggesting that both 
+
+dealers and proprietary trading firms play an important role during this narrow window of 
+
+activity.  In the DTC market, the increase around 3 p.m. would be consistent with trading 
+
+related to mutual fund daily and end-of-month portfolio rebalancing.  In the electronic 
+
+IDB market, the increase around 3 p.m. would be consistent with the increased role of 
+
+proprietary trading firms in intraday intermediation and the possible closeout of positions 
+
+toward the end of the main part of the trading day.  From a market resilience perspective, 
+
+it would be valuable to analyze these systematic intraday spikes in trading volumes, 
+
+particularly as they may influence price formation and liquidity provision in the Treasury 
+
+market.   
+
+The large spike in flows toward the end of the trading day points to a financial 
+
+stability consideration that is worth flagging.  The Treasury Market Practices Group 
+
+(TMPG) has done valuable work in mapping out clearing and settlement patterns in the 
+
+Treasury market.  One issue that this analysis highlights is the currently limited potential 
+
+for same day, or T+0, settlement on transactions conducted near the end of the day.  The 
+
+flash events we have seen in the Treasury market so far have occurred early enough in the 
+
+day to allow time for prices to recover before market close, and they have not been 
+
+accompanied by any participant’s failure to perform, let alone a major participant, 
+
+platform, or exchange.   
+
+As the TMPG’s work shows, most transactions in the Treasury market settle the 
+
+next day, or T+1.  As can be seen in figure 8, Federal Reserve staff analysis based on the 
+
+transactions recorded in TRACE shows that same-day settlement volumes, on average, 
+

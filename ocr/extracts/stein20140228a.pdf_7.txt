@@ -1,0 +1,53 @@
+
+ - 6 - 
+
+manager will be inclined to accommodate early exits by drawing down on the fund’s cash 
+
+reserve while planning to sell securities and replenish the cash stock later.  
+
+Why, at the end of the day, should one care if run-like incentives come 
+
+predominantly from the strategic behavior of fund investors, as opposed to that of fund 
+
+managers?  Isn’t there the same worrisome fragility in either case?  Perhaps, but the 
+
+policy response may differ depending on the exact diagnosis.  In the former case, when 
+
+the primary worry is AUM runs on the part of investors, there is at least in principle a 
+
+natural regulatory fix:  One could impose exit fees on open-end funds that are related to 
+
+the illiquidity of the funds’ assets, in an effort to make departing investors more fully 
+
+internalize the costs that they impose on those who stay behind.  In the latter case, when 
+
+the problem is driven more by the portfolio choices of fund managers, it is harder for me 
+
+to see an obvious regulatory response, so I am more inclined to share the authors’ view 
+
+that if there is, indeed, a significant financial stability problem, monetary policy would be 
+
+left to take up some of the slack. 
+
+To be clear, I am not advocating for exit fees of the sort I just described; I do not 
+
+think we know enough about the empirical relevance of the AUM-run mechanism, to say 
+
+nothing of its quantitative importance, to be making such recommendations at this point.  
+
+But, given the detailed nature of the microdata that are available on individual fund 
+
+holdings and returns, there is clearly room to make significant further progress on this 
+
+front.  Indeed, recent work by Chen, Goldstein, and Jiang is very much in this spirit, 
+
+although it restricts its analysis to equity funds and doesn’t consider the fixed-income 
+
+categories that are the focus of the current paper.
+7
+ 
+
+                                                 
+7
+ See Chen, Goldstein, and Jiang (2010). 
+

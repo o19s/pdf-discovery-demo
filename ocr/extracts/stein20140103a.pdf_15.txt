@@ -1,0 +1,74 @@
+
+
+
+- 14 - 
+
+insurers, and finance companies.
+10
+
+  The flow of funds data include breakdowns of the 
+
+different assets and liabilities of each of these intermediaries.  Our test then requires us to 
+
+measure the “illiquidity” of each category of asset and the “stickiness” of each category 
+
+of liability, which we do using homemade indexes that vary from 0 to 1.  Although there 
+
+is inevitably some subjectivity involved in constructing these indexes, we try to minimize 
+
+this subjectivity by relying as heavily as possible on the parameters in Basel III’s Net 
+
+Stable Funding Ratio and Liquidity Coverage Ratio.
+11
+
+  With these indexes in hand, we 
+
+can then aggregate up to create values for the asset illiquidity and liability stickiness of an 
+
+entire intermediary sector.
+12
+
+
+Figure 4 plots the results of this exercise using data as of year-end 2012.  As can 
+
+be seen, there is a very tight cross-intermediary correlation between liability stickiness 
+
+and asset illiquidity.  At one end of the spectrum are money market funds and broker-
+
+dealers--prototypical shadow-bank-type institutions--with very low values of both, and at 
+
+the other end are banks and life insurance companies.  While there are only eight data 
+
+points, the close fit of the regression line is consistent with the broad thrust of our story. 
+
+To further highlight the importance of stable bank liabilities, figure 5 takes an 
+
+approach similar to that of figure 4 but plots asset illiquidity versus the contractual 
+
+maturity of liabilities, rather than their effective stickiness.  Now the banking sector 
+
+                                                 
+10
+
+ The data are from the Federal Reserve Board’s Statistical Release Z.1, “Flow of Funds Accounts of the 
+
+United States” (in June 2013, the release was renamed “Financial Accounts of the United States”), 
+
+www.federalreserve.gov/releases/z1.     
+11
+
+ See Basel Committee on Banking Supervision (2010, 2013).  
+12
+
+ As an example, using this approach, we assigned values of the illiquidity index of 0 for Treasury 
+
+securities, 0.15 for agency MBS, 0.5 for corporate equities, and 1.0 for unsecured commercial and 
+
+industrial loans and commercial real estate loans.  Similarly, we assigned values of the stickiness index of 
+
+0 for nondeposit short-term funding, 0.7 for wholesale bank deposits, 0.8 for retail time and savings 
+
+deposits, and 0.9 for transactions deposits. 
+
+
+

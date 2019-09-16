@@ -1,0 +1,58 @@
+
+ - 5 - 
+
+then the model’s fiscal policy reaction function is allowed to adjust the tax rate so as to 
+
+return the ratio of federal deficits to GDP to its previous target level.  The government-
+
+debt-to-GDP ratio is therefore allowed to permanently increase. 
+
+Tax cut.  The model’s fiscal policy reaction function is suspended for 10 years, 
+
+similar to the case of the government spending shock described previously.  A sequence 
+
+of shocks to the FRB/US model’s equation for the average federal personal income tax 
+
+rate (TRFP) is constructed such that the resulting decrease in taxes increases the federal 
+
+budget deficit very similarly to the government spending shock described previously, in 
+
+order to make the two simulations of comparable magnitude.  After 10 years, the personal 
+
+federal tax rate is allowed to adjust to bring the ratio of government deficits to GDP back 
+
+to the baseline target level.  The government-debt-to-GDP ratio is permanently increased. 
+
+
+Table A.1 
+Summary of Shocks Affecting the Neutral Rate of Interest 
+
+
+Shock 
+FRB/US 
+Mnemonic 
+
+ 
+Specification of shock 
+
+ 
+*rr∆  
+
+     
+1 Population growth N16 1 ppt, 20 years 1.15 
+     
+2 Productivity growth HMFPT 1 ppt, 40 years 0.85 
+     
+3 Investment EPD, EPS, EPI 1 pct of GDP, 25 years 0.29 
+     
+4 Cost of capital  RPD 2 ppts, 20 years 0.63 
+     
+5 Foreign interest rates FRSTAR 1 ppt, indefinitely 0.27 
+     
+6 Government spending EGFO 1 pct of GDP, 25 years 0.50 
+     
+7 Tax cut  TRFP Deficits as in line 6 0.41 
+     
+
+* In the current context, *rr is defined as the intercept of the Taylor (1999) rule. 
+

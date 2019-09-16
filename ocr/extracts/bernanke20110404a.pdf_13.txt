@@ -1,0 +1,53 @@
+
+
+
+- 12 -
+
+financial market utilities that would be supervised by the Board under title 8.  These 
+
+standards track the existing standards published in the Board’s Payment System Risk 
+
+Policy, which in turn are based on existing international standards.     
+
+ For the longer term, the Federal Reserve is working closely with the SEC and the 
+
+CFTC as well as securities regulators and central banks from more than 20 other 
+
+countries to revise and strengthen the existing international standards for the major types 
+
+of financial market utilities.  This work is being carried out by the Committee on 
+
+Payment and Settlement Systems and by the Technical Committee of the International 
+
+Organization of Securities Commissions.  These two committees published new 
+
+international standards for public consultation in March.  We hope that the regulatory 
+
+agencies in the United States, and those in other major countries, can adopt a single set of 
+
+enhanced risk-management standards that will apply to all systemically important 
+
+financial market utilities globally.   
+
+Coordination among regulators, both within and between countries, is especially 
+
+important in light of the increasing interdependencies among financial market utilities 
+
+around the world.15  What was once a landscape of numerous, separate clearinghouses 
+
+that operated largely independently from one another has now become dominated by 
+
+fewer and larger clearinghouses supporting more integrated markets and consolidated, 
+
+global financial firms.  Moreover, the same globally active banks participate in all of the 
+
+major clearinghouses, and the major clearinghouses often rely on similar sets of banks for 
+
+payment services, funding, settlement, and emergency liquidity.  In such a world, 
+
+                                                 
+15 Reflecting on these changes, a 2008 report by the Bank for International Settlements Committee on 
+Payment and Settlement Systems noted the extensive scope of interdependencies among these financial 
+market utilities.  See Committee on Payment and Settlement Systems (2008), The Interdependencies of 
+Payment and Settlement Systems (Basel, Switzerland: BIS, June), www.bis.org/publ/cpss84.pdf. 
+

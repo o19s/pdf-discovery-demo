@@ -1,0 +1,71 @@
+
+
+
+- 2 - 
+
+narrow-banking proposals, whereby bank-created money is backed by very safe liquid 
+
+assets, such as Treasury bills.
+3
+   
+
+A second class of theories emphasizes the asset side of banks’ balance sheets and 
+
+their role as delegated monitors in the lending process.
+4
+  Here banks are seen as a 
+
+mechanism for dealing with the information and incentive problems that would otherwise 
+
+make it difficult for credit to be extended to opaque borrowers such as small businesses.  
+
+Because this work is silent on the precise structure of the liability side, it does not draw 
+
+much of a distinction between banks and other, nonbank lending intermediaries, such as 
+
+finance companies. 
+
+Finally, a third class of theories explicitly addresses the question of what ties 
+
+together the asset and liability sides of banks’ balance sheets--that is, why do the same 
+
+institutions that create private money choose to back their safe claims by investing in 
+
+loans and other relatively illiquid assets?
+5
+  What is the nature of the synergy between the 
+
+two activities? 
+
+Our work fits into this third category, with two twists relative to previous 
+
+research.  First, we stress the fact that on the asset side, banks hold not only loans, but 
+
+like their shadow-banking counterparts, they also hold securities, often in very substantial 
+
+amounts.  Moreover, these securities holdings have a particular pattern.  Banks tend to 
+
+stay away from the safest and most liquid securities, such as Treasury securities, and 
+
+                                                 
+3
+ See Pennacchi (2012) for a detailed discussion of narrow-banking proposals. 
+
+4
+ See Diamond (1984). 
+
+5
+ Diamond and Dybvig (1983) is the classic reference in this area.  They argue that banks allow households 
+
+that are unsure of the timing of their consumption needs to more efficiently invest in long-lived projects.  
+
+Other papers include Diamond and Rajan (2001), who suggest that the fragility inherent in runnable deposit 
+
+finance acts as a useful disciplinary device for bank management, and Kashyap, Rajan, and Stein (2002), 
+
+who emphasize the similarities between deposits and loan commitments, and the cost savings that accrue to 
+
+an institution that offers both products. 
+
+
+

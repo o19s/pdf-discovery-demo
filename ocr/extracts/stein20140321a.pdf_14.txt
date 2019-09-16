@@ -1,0 +1,49 @@
+
+ - 13 - 
+
+failure.  Nevertheless, the evidence suggests that even more modest capital market 
+
+disruptions may have consequences that are large enough to warrant consideration when 
+
+formulating monetary policy.  If so, the indicated directional adjustment would be to be 
+
+less aggressive in providing monetary accommodation in the face of above-target 
+
+unemployment, all else being equal, when risk premiums are abnormally low. 
+
+Of course, there are many caveats.  Foremost among them is the fact that the 
+
+ability of increases in the EBP to predict future economic activity may not reflect a causal 
+
+link from the former to the latter.  Perhaps there are economic slowdowns that are caused 
+
+entirely by nonfinancial factors, and, when investors see one on the horizon, they get 
+
+skittish, causing the EBP to rise.  If so, it would be wrong to conclude that easy monetary 
+
+policy--even if it does, in fact, cause lower risk premiums--has any causal effect on the 
+
+probability of a future slowdown.  So at this point, the evidence that I have reviewed can 
+
+only be thought of as suggestive.   
+
+Making progress on these difficult issues of causality will likely require a clearer 
+
+articulation of the underlying mechanism that leads to such pronounced asymmetries in 
+
+the relationship between credit spreads and economic activity.  If a causal link is, indeed, 
+
+present, what is there about it that leads increases in spreads to have a much stronger 
+
+effect on the economy than decreases?  I suspect that the answer has to do with 
+
+something that mimics the effect of leveraged losses to financial intermediaries--and the 
+
+attendant effect on credit supply.  For example, GZ document that their EBP measure is 
+
+closely correlated with the credit default swap spreads of broker-dealer firms.  The reason 
+
+could be that losses on their inventories of risky bonds erode the capital positions of these 
+
+firms, which might in turn compromise their ability to provide valuable intermediation 
+

@@ -1,0 +1,52 @@
+
+ - 8 - 
+
+that benefit is likely to be outweighed by the adverse effects of a tightening of domestic 
+
+monetary policy when domestic conditions would not otherwise call for it.  Such 
+
+considerations may have played a role in the market dynamics experienced by China as 
+
+discussions about initiating rate hikes progressed in the United States in the second half 
+
+of 2015 and early 2016.8     
+
+Next let’s explore alternative approaches to policy normalization by countries 
+
+facing a similar need to tighten.  This question is timely; with synchronous expansions 
+
+now underway, we may be approaching a turning point before too long.  In particular, 
+
+let’s consider the case when two large countries, which are assumed identical for the sake 
+
+of simplicity, experience the same positive shock to domestic demand.  Under these 
+
+assumptions, if both economies were to choose the same normalization strategy--putting 
+
+primary reliance on either the balance sheet or short-term interest rates--the implications 
+
+for the exchange rate and net exports are the same:  In both cases, the exchange rate 
+
+between the two countries does not change, and neither do net exports between the 
+
+countries.  Each central bank would adjust interest rates by the same amount--enough to 
+
+offset the stimulus from the demand shock--and with interest differentials unchanged, 
+
+there would be no pressure on the exchange rate between them to move.9  Of course, if 
+
+there are other economies in the rest of the world that do not experience the same shock, 
+
+the choice of normalization strategy does matter, similar to the analysis of spillovers from 
+
+                                                 
+8 See Brainard (2015a).  A number of recent studies have considered financial spillovers to EMEs, 
+including Rey (2014) and Bowman, Londono, and Sapriza (2015).  The analysis of Hofmann, Shim, and 
+Shin (2016) suggests that EMEs may be hurt more if their banks or nonfinancial corporations have 
+relatively large dollar liabilities, as the larger dollar appreciation associated with the policy rate tool would 
+precipitate greater EME balance sheet deterioration in this case. 
+9 In this simple example, in which the two countries are hit by identical shocks, the offset in spillovers 
+between the two economies will be complete.  If one country faces a larger aggregate demand shock than 
+the other, then the situation becomes more like the one-country case we examined before, the policy 
+adjustments lead to spillovers of different magnitudes, and the offset will be partial. 
+

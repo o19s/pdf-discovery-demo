@@ -1,0 +1,47 @@
+
+ - 5 - 
+
+Systemically Important Financial Institutions 
+
+SIFIs are financial firms whose distress or failure has the potential to create 
+
+broader financial instability sufficient to inflict meaningful damage on the real economy.  
+
+SIFIs tend to be large, but size is not the only factor used to determine whether a firm is 
+
+systemically important; other factors include the firm’s interconnectedness with the rest 
+
+of the financial system, the complexity and opacity of its operations, the nature and extent 
+
+of its risk-taking, its use of leverage, its reliance on short-term wholesale funding, and the 
+
+extent of its cross-border operations.  Under the Dodd-Frank Act, the largest bank 
+
+holding companies are treated as SIFIs; in addition, as I mentioned, the act gives the 
+
+FSOC the power to designate individual nonbank financial companies as systemically 
+
+important.  This designation process is under way. 
+
+Dodd-Frank also establishes a framework for subjecting SIFIs to comprehensive 
+
+supervisory oversight and enhanced prudential standards.  For all such companies, the 
+
+Federal Reserve will have access to confidential supervisory information and will 
+
+monitor standard indicators such as regulatory capital, leverage, and funding mix.  
+
+However, some of these measures, such as regulatory capital ratios, tend to be backward 
+
+looking and thus may be slow to flag unexpected, rapid changes in the condition of a 
+
+firm.  Accordingly, we supplement the more standard measures with other types of 
+
+information. 
+
+One valuable source of supplementary information is stress testing.  Regular, 
+
+comprehensive stress tests are an increasingly important component of the Federal 
+
+Reserve’s supervisory toolkit, having been used in our assessment of large bank holding 
+

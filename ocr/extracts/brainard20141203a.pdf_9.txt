@@ -1,0 +1,51 @@
+
+ - 8 - 
+
+The countercyclical capital buffer may enhance financial stability by building 
+
+additional resilience at systemic banking institutions near the height of the credit cycle.  
+
+However, it may prove to be less effective in leaning against credit growth, since, as 
+
+credit booms progress, there is greater potential for capital to be relatively cheap, asset 
+
+valuations to be inflated, and risk weights to be incorrect.  Moreover the countercyclical 
+
+capital buffer has some practical limitations:  It applies to a subset of the U.S. banking 
+
+system and is designed to act with a one-year lag.  It also cannot be used efficiently to 
+
+target specific asset classes that appear frothy, a challenge I turn to next.  
+
+Tool three:  Time-varying sector-specific tools 
+
+The countercyclical buffer may be a relatively blunt tool for circumstances where 
+
+the buildup of risk is highly concentrated in a particular sector.  This was, of course, the 
+
+challenge U.S. policymakers faced early in the recent housing bubble, with home prices 
+
+rising and capital markets developing the complicated, opaque securities built on 
+
+subprime mortgages that would ultimately cause damage throughout the financial system. 
+
+Indeed, property booms are perhaps the most common macroprudential challenge that 
+
+have confronted financial authorities in advanced economies over the years, although 
+
+macroprudential challenges have also surfaced in other sectors, such as the corporate 
+
+lending boom that confronted Korea in the mid-to-late 1990s.   
+
+In addition to time-varying broad macroprudential tools, such as countercyclical 
+
+capital buffers and dynamic provisioning, many financial authorities have the authority to 
+
+promulgate rules that target activity in a specific sector.  For instance, Swiss authorities 
+
+activated, in early 2013, a countercyclical capital buffer that added 1 percentage point of 
+
+capital requirement for direct and indirect mortgage-backed positions secured by Swiss 
+
+residential property, and then increased this amount in 2014 to 2 percentage points.   
+

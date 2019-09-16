@@ -1,0 +1,49 @@
+
+ - 4 -
+
+Identifying and Addressing Structural Forms of Systemic Risk 
+
+I want to turn now to structural sources of systemic risk and discuss how 
+
+macroprudential policy can be used to mitigate them.  Structural vulnerabilities may go 
+
+largely unnoticed until they are exposed in financial crises--and at considerable cost.  
+
+Indeed, many of the regulations now being implemented under the Dodd-Frank Act, as 
+
+well as the international agreements relating to bank capital and liquidity standards, are a 
+
+reaction to the events of 2007 through 2009.  Such responses include regulations and 
+
+reforms that address risks resulting from the existence of SIFIs and systemically 
+
+important financial market utilities (FMUs) as well as other efforts to improve the 
+
+resilience of important financial markets and infrastructure. 
+
+Because the material distress or failure of a SIFI can have outsized effects on the 
+
+financial sector and the real economy, the Dodd-Frank Act empowers the Federal 
+
+Reserve to reduce the probability of such events through tougher prudential standards, 
+
+including enhanced risk-based capital and leverage requirements, liquidity requirements, 
+
+an early remediation regime, and restrictions on activities.  The act also requires the 
+
+Federal Reserve to consider systemic risk effects when reviewing and ruling on 
+
+applications for mergers among financial firms.  In addition, to ensure that the failure of a 
+
+SIFI can occur without serious damage to the financial system, the act gives the Federal 
+
+Reserve and the Federal Deposit Insurance Corporation new tools, such as improved 
+
+resolution planning by firms and an orderly liquidation authority.  The act also requires 
+
+centralized clearing of standardized over-the-counter (OTC) derivatives and introduces 
+
+margin requirements for noncleared derivatives and other measures to strengthen the 
+
+integrity and functioning of financial markets. 
+

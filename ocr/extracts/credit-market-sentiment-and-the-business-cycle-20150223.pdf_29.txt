@@ -1,0 +1,18 @@
+
+How About Corporate Leverage?
+
+•  Does credit-market sentiment forecasts economic activity because of its 
+impact on future credit spreads?
+
+•  Do frothy credit-market conditions forecast economic activity because 
+they lead to higher corporate leverage?
+
+•  Our approach:
+• 1929-2013: control for changes in aggregate measures of corporate 
+
+leverage
+Graham, Leary & Roberts (2014)
+
+• 1952-2013: control for changes in leverage at different points of the 
+cross-sectional distribution (i.e., most highly leveraged firms)
+

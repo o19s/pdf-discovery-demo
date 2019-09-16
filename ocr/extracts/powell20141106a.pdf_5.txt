@@ -1,0 +1,52 @@
+
+ - 4 - 
+
+both known and more comprehensible, illustrated in the chart on the right.  The CCP and 
+
+its regulators are then in a position to observe the CCP’s entire network, which can be 
+
+important in the event that one or more clearing members become impaired.  CCPs may 
+
+also be able to coordinate a response to problems in their markets in ways that individual 
+
+clearing members would find very difficult.   
+
+Figure 2 shows that, at the same time, in the real world CCPs bring with them 
+
+their own complexities.  As the figure shows, we do not live in a simple world with only 
+
+one CCP.  We do not even live in a world with one CCP per product class, since some 
+
+products are cleared by multiple, large CCPs.5  Also, significant clearing members are 
+
+often members of multiple CCPs in different jurisdictions.  The disruption of a single 
+
+member can have far-reaching effects.  Accordingly, while CCPs simplify some aspects 
+
+of the financial system, in reality, the overall system supporting the OTC derivatives 
+
+markets remains quite complex. 
+
+To carry out their critical functions, CCPs rely on a wide variety of financial 
+
+services from other financial firms, such as custody, clearing, and settlement.  Many of 
+
+these services are provided by the same global financial institutions that are also the 
+
+largest clearing members of the CCPs.  The failure of a large clearing member that is also 
+
+a key service provider could disrupt the smooth and efficient operation of one or multiple 
+
+CCPs, and vice versa.  In the event of disorderly CCP failures, the netting benefits and 
+
+other efficiencies that CCPs offer would be lost at a point when the financial system is 
+
+already under significant stress.  Ultimately, the system as a whole is only as strong as its 
+
+weakest link.         
+
+                                                 
+5 As an example, both the Chicago Mercantile Exchange and the Intercontinental Exchange clear credit 
+
+default swaps. 
+

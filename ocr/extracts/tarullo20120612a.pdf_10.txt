@@ -1,0 +1,58 @@
+
+- 9 - 
+
+
+reinvestment activities provide a significant amount—in some cases, all—of the compensation to 
+
+the securities lender associated with participating in the lending program.
+4
+ 
+
+The custodian banks all but universally provided a contractual indemnification to the 
+
+securities lender that required them to absorb any losses to the securities lenders if the securities 
+
+were not returned.  But the investment returns, and risk of loss on the reinvestment of cash 
+
+collateral that would have to be returned to the borrowers of securities, generally were not 
+
+covered by such indemnifications.  Nonetheless, a number of securities lenders seemed to 
+
+believe otherwise, and in many cases their expectations were fulfilled as custodian banks agreed 
+
+during the financial crisis to bear at least some of the losses from cash collateral reinvestment 
+
+programs.  
+
+Although the experiences of money market funds, triparty repos, and securities lending 
+
+vary in the details, they all share a common underlying pathology:  Offering documents with 
+
+stern warnings notwithstanding, explicit and implicit commitments combined with a history of 
+
+discretionary support to create an assumption, even among sophisticated investors, that low-risk 
+
+assets were free of credit and liquidity risk – effectively cash, but with a slightly higher return.  
+
+This risk illusion led to pervasive underpricing of the risks embedded in these money-like 
+
+instruments and made them an artificially cheap source of funding.  The consequent oversupply 
+
+of these instruments contributed importantly to systemic risk.   
+
+Reliance on private mechanisms to create seemingly riskless assets generally worked in 
+
+the relatively calm years leading up to the financial crisis and, to some extent, well into the crisis.  
+
+But, in many cases, discretionary support came into question at the time of acute financial-
+
+market stress, precisely when it was needed most, as questions arose about the ability or 
+
+                                                 
+4
+ Much of the attention devoted to securities lending in the wake of the crisis focused on the program run by AIG.  
+
+In addition to general issues involving the reinvestment of cash collateral, AIG’s securities lending program had 
+
+more specific and fundamental flaws that go beyond the concerns discussed here. 
+

@@ -1,0 +1,52 @@
+
+ - 5 - 
+
+In the Mundell-Fleming framework, as well as in modern developments of the 
+
+same theme, a shift toward a more accommodative monetary policy in the United States 
+
+spills over to foreign economies by causing their interest rates to fall--though typically by 
+
+less than in the United States--and their currencies to appreciate against the dollar.  At the 
+
+same time, international capital flows tend to shift toward foreign economies in response 
+
+to their relatively more attractive interest rates.   
+
+The pass-through of changes in U.S. policy rates abroad depends importantly on 
+
+how foreign monetary authorities respond.  A decline in U.S. policy rates has a relatively 
+
+large effect on foreign policy rates in economies that opt to limit exchange rate 
+
+fluctuations, at least for economies with reasonably open capital accounts.  Thus, for 
+
+example, a fall in U.S. policy rates has a commensurate effect on interest rates in Hong 
+
+Kong.  By contrast, the central bank in an economy with a freely floating exchange rate 
+
+might choose to lower its interest rate by a much smaller amount than in the United States 
+
+if it believes that domestic conditions so warrant.  In this case, the country’s exchange 
+
+rate would appreciate as investors rebalance their portfolios in favor of assets 
+
+denominated in its currency in response to the higher interest rate differential.5   
+
+Moving beyond the Mundell-Fleming framework, there is also evidence that 
+
+monetary policy actions can influence investors’ willingness to hold risky assets, the so-
+
+called risk-taking channel.6  Such effects seem to be most potent when financial 
+
+5 See Mundell (1963) and Fleming (1962).  One key implication of the Mundell-Fleming framework is that 
+a central bank can exercise full control over both the exchange rate and the domestic interest rate only 
+when there are significant barriers to the international capital mobility.  Accordingly, policymakers face the 
+constraint of the “impossible trinity,” which states that a country cannot simultaneously have an 
+independent monetary policy, free capital movement, and a fixed exchange .  
+6  Several recent papers discuss risk-taking channels through which monetary policy influences financial 
+conditions more broadly than the level of safe interest rates.  See Borio and Zhu (2012), Rey (2013), Morris 
+
+
+
+

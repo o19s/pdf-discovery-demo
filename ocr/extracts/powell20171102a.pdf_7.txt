@@ -1,0 +1,38 @@
+
+- 6 - 
+ 
+
+
+to devise better language for derivatives, and ISDA’s Scott O’Malia and Katherine Tew Darras 
+
+will discuss that work later this morning.  As people now consider the risks around LIBOR for 
+
+other types of contracts, they will need to go through their documentation to understand what the 
+
+fallback language is and how it can be improved.  We will also discuss those issues today.  This 
+
+is important work, both for the parties to these contracts and for our financial stability.  While 
+
+there may be no perfect contract language or fallback, good risk management requires that we 
+
+work together to find language and fallbacks that are robust and that limit unintended valuation 
+
+changes.  
+
+So, while much work has been done, there is more still to do.  I have been heartened in 
+
+seeing that many market participants are already confronting these issues.  For some, Andrew 
+
+Bailey’s speech was a difficult wake-up call.  But the efforts we have undertaken with the ARRC 
+
+show what is possible when the official sector works collectively with market participants.  If 
+
+market participants are willing to continue to work together, then we can safely achieve the 
+
+transitions needed to create a better and more robust system that will help to ensure our ongoing 
+
+financial stability.   
+
+
+
+

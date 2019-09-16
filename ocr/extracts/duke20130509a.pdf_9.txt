@@ -1,0 +1,66 @@
+
+ - 8 - 
+
+the QM standard, however, the lender receives greater protection from such potential 
+
+lawsuits because it is presumed that the borrower had the ability to repay the loan.   
+
+Loans that fall outside the QM standard may be more costly to originate than 
+
+loans that meet the standard for at least four reasons, all else being equal.  The first 
+
+reason is the possible increase in foreclosure losses and litigation costs.  Although these 
+
+costs, in the aggregate, are expected to be small, their full extent will not be known until 
+
+the courts settle any ability-to-repay suits that may be brought forward.
+14
+
+  The second 
+
+reason is that mortgages that do not meet the QM definition will also not qualify as 
+
+QRMs, so lenders will be required to hold some of the risk if these loans are securitized.
+15 
+
+
+The third reason is that loan originators will have better information than investors on the 
+
+quality of the underwriting decision.  Investors may demand a premium to compensate 
+
+them for the concern that originators might sell them the loans most vulnerable to ability-
+
+to-repay lawsuits.  The fourth reason is that the non-QM market, at least initially, may be 
+
+small and illiquid, which would increase the cost of these loans. 
+
+The higher costs associated with non-QM loans should have very little effect on 
+
+access to credit in the near term because almost all current mortgage originations meet 
+
+the QM standard.  The vast majority of current originations are eligible to be purchased, 
+
+insured, or guaranteed by Fannie Mae, Freddie Mac, the FHA, the VA, or the RHS.  
+
+                                                 
+14
+
+ The CFPB estimates of these costs are available at www.federalregister.gov/articles/2013/01/30/2013-
+
+00736/ability-to-repay-and-qualified-mortgage-standards-under-the-truth-in-lending-act-regulation-z#h-
+
+201, section VII.E.3. 
+15
+
+ If a mortgage-backed security is collateralized by “qualified residential mortgages,” as defined by federal 
+
+regulators consistent with section 941 of the Dodd-Frank Act, the securitizer is not required to retain any 
+
+risk in the securitization transaction.  Otherwise, the securitizer must retain an economic interest in the 
+
+transaction consistent with section 941 and any regulations established thereunder, which may increase the 
+
+securitizer’s costs.  The Dodd-Frank Act requires that Federal regulators set the definition of a QRM to be 
+
+no broader than the definition of a QM. 
+

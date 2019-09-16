@@ -1,0 +1,50 @@
+
+- 10 - 
+ 
+
+literature by academics such as Markus Brunnermeier, Gary Gorton, Perry Mehrling, Andrew 
+
+Metrick, Hyun Song Shin, Andrei Shleifer, and Jean Tirole,24 although differing in some 
+
+important specifics, all paint a picture of a financial system prone to instability for reasons in 
+
+addition to, and quite independent of, classic too-big-to-fail concerns.  Their various analyses 
+
+suggest the possibility of destabilization even in a financial world with no dominant firms, but 
+
+many medium-sized entities. 
+
+ This perspective focuses on one of the most important effects of the progressive 
+
+integration of capital markets and conventional lending activities, something now popularly 
+
+known as “shadow banking” – that is, credit intermediation involving maturity transformation, 
+
+and often significant leverage, that is wholly or partly outside the traditional banking system.  
+
+This intermediation depends critically on the creation of instruments that are thought to be safe 
+
+and liquid, and as such, “cash equivalents” similar in function to insured deposits in the 
+
+commercial banking system.  These instruments, much desired by certain kinds of investors, are 
+
+short-term liabilities of the shadow banking intermediary, which backs them with a portfolio of 
+
+longer-term assets that, because of some combination of high diversification and low-default 
+
+risk, are expected to perform very well under nearly all circumstances, but carry significant tail 
+
+risks that are not fully appreciated ex ante.     
+
+ A now notorious example of a shadow banking intermediary was a special investment 
+
+vehicle (SIV) sponsored by a financial firm.  A SIV bought tranches of securitized mortgages 
+
+with AAA credit ratings, which it financed through the issuance of short-term instruments that 
+
+were regarded by investors as essentially a cash equivalent.  But during the crisis, when tail risk 
+
+materialized, investors came to understand that even the upper tranches of subprime and other 
+
+mortgage securitizations might not be spared significant losses because of the dramatic fall in 
+

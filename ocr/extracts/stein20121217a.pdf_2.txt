@@ -1,0 +1,51 @@
+
+
+Thanks very much. It’s a pleasure to be part of this panel on the future of financial 
+
+globalization.  I will focus my remarks on one important aspect of this issue--namely, the 
+
+growing use of wholesale dollar funding by global financial institutions.  I’ll begin by 
+
+briefly discussing research I’ve been doing, along with my coauthors Victoria Ivashina 
+
+and David Scharfstein, which examines some of the consequences of this funding model 
+
+during times of market stress.1  I’ll then touch on the policy implications of this and 
+
+related work.  But first, the usual disclaimer:  The views that follow are my own and do 
+
+not necessarily reflect the thinking of my colleagues on the Federal Open Market 
+
+Committee. 
+
+By way of background, the dollar liabilities of foreign banks have grown rapidly 
+
+in the past two decades and now stand at about $8 trillion, roughly on par with those of 
+
+U.S. banks.2  A significant proportion of foreign banks’ dollar liabilities are raised via 
+
+U.S. branches, most of which are legally precluded from raising deposits insured by the 
+
+Federal Deposit Insurance Corporation.  The main source of funding for these branches, 
+
+therefore, comes from uninsured wholesale claims such as large time deposits, making 
+
+the cost and availability of such dollar funding highly sensitive to changing perceptions 
+
+of these banks’ creditworthiness. 
+
+In our work, we asked how shocks to the ability of foreign banks to raise dollar 
+
+funding might lead to changes in their lending.  We began with a simple conceptual 
+
+model:  Imagine a European bank that lends in euros to European firms and in dollars to 
+                                                 
+1 See Victoria Ivashina, David S. Scharfstein, and Jeremy C. Stein (2012), “Dollar Funding and the 
+Lending Behavior of Global Banks,” Finance and Economics Discussion Papers 2012-74 
+(Washington: Board of Governors of the Federal Reserve System, October),  
+http://www.federalreserve.gov/pubs/feds/2012/201274/201274pap.pdf 
+2 For the dollar assets and liabilities of foreign banks, see Bank for International Settlements (2012), 
+“Locational Banking Statistics,” December, http://www.bis.org/publ/qtrpdf/r_qa1212_anx5a.pdf.  For the 
+assets and liabilities of domestically chartered U.S. banks, see Table H.8, Board of Governors of the 
+Federal Reserve System, http://www.federalreserve.gov/releases/h8/current/default.htm.  
+

@@ -1,0 +1,78 @@
+
+table 1). Firms were allowed to diverge f rom the indicative loss rates where they could provide 
+
+evidence that their estimated loss rates were appropriate. 
+
+Table 1: Indicative Loss Rates Provided to BHCs for SCAP 
+(cumulative two-year, in percent) 
+
+Baseline More Adverse 
+First Lien Mortgages 5 – 6 7 – 8.5 
+
+First Lien Mortgages: Prime 1.5 – 2.5 3 – 4 
+First Lien Mortgages: Alt-A 7.5 – 9.5 9.5 – 13 
+First Lien Mortgages: Subprime 15 – 20 21 – 28 
+
+Second/Junior Lien Mortgages 
+9 – 12 12 – 16 
+
+Second/Junior Lien Mortgages: Closed-end Junior Liens 18 – 20 22 – 25 
+Second/Junior Lien Mortgages: HELOCs 6 – 8 8 – 11 
+
+C&I Loans 
+3 – 4 5 – 8 
+
+CRE 
+5 – 7.5 9 – 12 
+
+CRE: Construction 8 – 12 15 – 18 
+CRE: Multifamily 3.5 – 6.5 10 – 11 
+CRE: Nonfarm, Non-residential 4 – 5 7 – 9 
+
+Credit Cards 
+12 – 17 18 – 20 
+
+Other Consumer 
+4 – 6 8 – 12 
+
+Other Loans 
+2 – 4 4 – 10 
+
+The indicative loss rate ranges were derived using a variety of methods for predicting loan 
+
+losses, including analysis of historical loss experience at large BHCs and quantitative models relating the 
+
+performance of loans or groups of loans to macroeconomic variables. Supervisors viewed these 
+
+indicative ranges as useful indicators of industry loss rates and in that way they can serve as a general 
+
+guide, but recognized that they might not adequately capture differences across individual firms that 
+
+could affect the performance and losses in significant ways. Thus, supervisors asked firms to provide 
+
+granular data about the particular characteristics of their portfolios in order to make more tailored 
+
+quantitative assessments of loss. Loss estimates for the SCAP thus relied ultimately on firm-specific 
+
+information about factors such as past performance, origination year, borrower characteristics, and 
+
+geographic distribution. 
+
+II.B. Aggregate Loss Estimates 
+
+The two-year loss estimates total close to $600 billion in the more adverse scenario for the 19 
+
+BHCs (table 2). Estimated SCAP losses on residential mortgages are substantial over the two-year 
+
+scenario, consistent wi th the sharp drop in residential house prices in the past two years and their 
+
+projected continued steep fall in the more adverse scenario. Expected loss rates on first-liens and 
+
+second/junior liens are well outside the historical experience of commercial banks. The effects of 
+
+reduced home prices on household wealth and the indirect effects through reduced economic activity, 
+
+also push up estimated losses on consumer credit, including losses on credit cards and on other 
+
+consumer loans. Together, residential mortgages and consumer loans (including credit card and other 
+

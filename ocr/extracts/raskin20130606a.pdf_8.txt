@@ -1,0 +1,62 @@
+
+- 7 - 
+
+
+There is significant justification for both higher levels, and higher quality, of capital.  In 
+
+particular, we have seen that highly capitalized banks are more likely to maintain their lending 
+
+activity through good times and bad, as evidenced during the recent crisis, a trend that helps their 
+
+customers and the overall economy.
+5
+  A framework requiring higher quality and quantity of 
+
+capital should be established post-haste.  At the same time, however, for community banks in 
+
+particular, more and better capital should be achieved without significantly increasing the 
+
+complexity of capital calculations.  It is not only possible and desirable, but also necessary, to 
+
+ensure that our capital requirements for community banks remain relatively simple and effective.  
+
+Otherwise, we risk drowning banks in a capital adequacy system that is so complex that it both 
+
+misses the mark of addressing meaningful emerging risks and piles regulatory costs on banks 
+
+with no public benefit.  I should note here that the proposed Basel III rules include complex 
+
+models-based approaches for internationally-active banks and for banks with significant trading 
+
+activities.  These models-based approaches are clearly inappropriate for, and will not apply to, 
+
+community banks. 
+
+Risk-Weighted Assets 
+
+To step back, the first framework for risk-based capital was implemented in the United 
+
+States in 1989 and entailed assigning assets to one of four defined risk-weighting categories: zero 
+
+percent, 20 percent, 50 percent, and 100 percent, with a higher percentage signifying higher 
+
+inherent risk.
+6
+  This had the advantage of making the framework more risk-sensitive than the 
+
+simpler, one-size-fits-all, leverage-based approach that I will discuss later.  As a result, a 
+
+Treasury security and an unsecured loan to a start-up business were no longer treated identically 
+
+                                                 
+5
+ See R. Alton Gilbert, Andrew P. Meyer, and James W. Fuchs (2013), “The Future of Community Banks:  Lessons 
+
+From Banks That Thrived During the Recent Financial Crisis,” Federal Reserve Bank of St. Louis Review 
+
+(March/April), pp. 115-144, at http://research.stlouisfed.org/publications/review/13/03/gilbert.pdf. 
+6
+ Note that the number of risk weight buckets would increase under the Basel III notices of proposed rulemaking 
+
+(77 Fed. Reg. 52791 and 77 Fed. Reg. 52887), but would still remain relatively small. 
+

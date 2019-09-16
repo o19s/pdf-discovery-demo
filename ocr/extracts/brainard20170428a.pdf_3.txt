@@ -1,0 +1,50 @@
+
+- 2 - 
+
+apps were not created or even envisaged by Apple.  These apps have been downloaded 130 
+
+billion times, generating over $50 billion in revenue for third-party developers.6  
+
+The iPhone is a key platform on which that app ecosystem operates.  How did that 
+
+happen?  Apple essentially made the smartphone a toolkit for third-party developers to 
+
+experiment, innovate, build, and scale new apps.  It did so by investing heavily in developing 
+
+open application programming interfaces (APIs) that provided third-party developers clear 
+
+instructions and open access to the iPhone platform. This strategy enabled those outside 
+
+developers to build new applications that delivered Apple’s customers additional value by taking 
+
+advantage of the existing functionality of the iPhone.  Specifically, this open architecture makes 
+
+available to outside developers clear instructions that enable them to use the iPhone’s various 
+
+sensors, processors, displays, and other interfaces in combination with their own code to develop 
+
+new products. 
+
+On top of that, a robust secondary layer of developers use the APIs of other developers in 
+
+their technology stacks to quickly assemble new business models.  Take ride-sharing services, 
+
+for instance. They have built multibillion-dollar businesses that are, in large part, dependent on 
+
+combinations of APIs from different companies.  They may use Google Maps’ APIs for location 
+
+services, Stripe or Braintree’s APIs for payments, Twilio’s APIs for text messaging, and Amazon 
+
+Web Services’ or IBM’s APIs for computing power.  All of these products, and more, work 
+
+seamlessly together in real time to provide products that are so ubiquitous that we now use them 
+
+as verbs for how we navigate the world.  We “Uber” to the store or “Snapchat” a friend. 
+
+                                                           
+6 See, e.g., Sarah Perez, “Apple’s App Store hits 2M apps, 130B downloads, $50B paid to developers,” TechCrunch 
+June 13, 2016, https://techcrunch.com/2016/06/13/apples-app-store-hits-2m-apps-130b-downloads-50b-paid-to-
+developers/.  On August 3, 2016, Apple CEO Tim Cook noted on Twitter that the $50 billion figure had been 
+surpassed. Tim Cook, Twitter, Aug. 3, 2016, https://twitter.com/tim_cook/status/760929629226041345 (last 
+accessed April 4, 2017).  
+

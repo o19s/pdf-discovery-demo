@@ -1,0 +1,42 @@
+
+- 9 - 
+ 
+
+Second, firms are still grappling with the business case for upgrading and 
+
+streamlining payment, clearing, settlement, and related functions with DLT.  
+
+Promoters of DLT offer a vision of streamlined processes that lead to faster 
+
+processing, reduced reconciliation, and lower long-run operating costs.  Some 
+
+argue that in certain markets, faster and more predictable processing will also 
+
+reduce the capital and liquidity costs of operations.  But upgrades are often costly, 
+
+lengthy, and risky, particularly if the technology is still being proven, as is the case 
+
+for DLT.  Network effects can also affect adoption, since multiple firms may all 
+
+need to adopt a particular implementation of DLT in order to justify its use in a 
+
+specific market. 
+
+Third, technical issues remain.  Practical issues such as whether a particular 
+
+version of DLT will work for the intended purpose are still being explored.  Issues 
+
+of reliability, scalability, and security remain very important.  Beyond these issues, 
+
+standardization and interoperability across different versions of DLT will need to 
+
+be addressed to allow technology integration and avoid market fragmentation. In 
+
+general, industry members and technology providers recognize these important 
+
+issues and have taken initial steps to address problems.  It will be important to keep 
+
+these challenges firmly in mind as we move beyond experimentation and into the 
+
+development and deployment of new products and processes.  
+

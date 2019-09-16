@@ -1,0 +1,50 @@
+
+ - 6 - 
+
+Recession’s long duration and the subsequent slow recovery.10  More generally, if larger 
+
+firms seeking to expand have better access to credit than smaller ones, overall growth in 
+
+investment and employment could depend in part on the distribution of sales across 
+
+different types of businesses.  Modeling any of these issues quantitatively will likely 
+
+require the use of a heterogeneous-agent framework.     
+
+Economists’ understanding of how changes in fiscal and monetary policy affect 
+
+the economy might also benefit from the recognition that households and firms are 
+
+heterogeneous.  For example, in simple textbook models of the monetary transmission 
+
+mechanism, central banks operate largely through the effect of real interest rates on 
+
+consumption and investment.  Once heterogeneity is taken into account, other important 
+
+channels emerge.  For example, spending by many households and firms appears to be 
+
+quite sensitive to changes in labor income, business sales, or the value of collateral that in 
+
+turn affects their access to credit--conditions that monetary policy affects only indirectly.  
+
+Studying monetary models with heterogeneous agents more closely could help us shed 
+
+new light on these aspects of the monetary transmission mechanism. 
+
+While the economics profession has long been aware that these issues matter, 
+
+their effects had been incorporated into macro models only to a very limited extent prior 
+
+to the financial crisis.11  I am glad to now see a greater emphasis on the possible 
+
+macroeconomic consequences of heterogeneity, including in work by economists at the 
+
+                                                 
+10 On the role of financing constraints for firm employment, see Siemer (2014); Chodorow-Reich (2014); 
+and Duygan-Bump, Levkov, and Montoriol-Garriga (2015).  A general-equilibrium model with 
+heterogeneity among firms and credit frictions is studied in Khan and Thomas (2013).  For the role of entry 
+and exit in macroeconomic dynamics, see Clementi and Palazzo (2016) as well as Gourio, Messer, and 
+Siemer (2016). 
+11 For early quantitative work on the relationship between income and wealth heterogeneity and the 
+macroeconomy, see Krusell and Smith (1998).   
+

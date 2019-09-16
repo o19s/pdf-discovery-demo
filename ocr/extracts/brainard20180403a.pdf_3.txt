@@ -1,0 +1,49 @@
+
+- 2 -
+
+research on key indicators of building imbalances.3 Instead of attempting to forecast 
+
+particular adverse shocks that could buffet the economy, the focus is on vulnerabilities--
+
+that is, on features of the financial system that amplify bad shocks, spreading damage to 
+
+households and businesses.  Each quarter, Federal Reserve Board staff assess a set of 
+
+vulnerabilities relevant for financial stability:  asset valuations and risk appetite, 
+
+borrowing by the nonfinancial sector (households and nonfinancial businesses), liquidity 
+
+risks and maturity transformation by the financial system, and leverage in the financial 
+
+system.
+
+It may be illuminating to briefly describe our current assessment in each of these 
+
+areas.  Valuations in a broad set of markets appear elevated relative to historical norms, 
+
+even after taking into account recent movements. Estimates of risk premiums and 
+
+spreads in a range of markets remain narrow by historical standards. Corporate bond 
+
+yields remain low by historical comparison, and spreads of yields on junk bonds above
+
+those on comparable-maturity Treasury securities are near the lower-end of their 
+
+historical range. Spreads on leveraged loans and securitized products backed by those 
+
+loans remain narrow. Prices of multifamily residential and industrial commercial real 
+
+estate (CRE) have risen, and capitalization rates--the ratios of operating income relative 
+
+to the sale price of commercial properties--for these segments have reached historical 
+
+lows. However, measures of credit conditions suggest that lenders are, to an extent, 
+
+taking into account the potential for a reversion of valuations.
+
+3 In addition to cyclical vulnerabilities, structural vulnerabilities, such as those that arise from the 
+complexity and interconnectedness of large financial institutions, also remain potential sources of risk to 
+the financial system. The Federal Reserve assesses structural vulnerabilities in support of its financial 
+stability and supervision and regulation responsibilities.  For instance, cybersecurity is the subject of
+ongoing monitoring and policy efforts.
+

@@ -1,0 +1,47 @@
+
+ - 10 - 
+
+Key Additional Reform Measures 
+
+ In sketching out the kinds of steps needed to address these remaining 
+
+vulnerabilities, let me begin with wholesale funding generally, and then circle back to 
+
+too-big-to-fail.    
+
+Short-Term Wholesale Funding.  At a conceptual level, the policy goal is fairly 
+
+easy to state: a regulatory charge or other measure that applies more or less 
+
+comprehensively to all uses of short-term wholesale funding, without regard to the form 
+
+of the transactions or whether the borrower was a prudentially regulated institution.  The 
+
+aspiration to comprehensiveness is important for two reasons.  First, the risks associated 
+
+with short-term funding are as much or more macroprudential as they are firm-specific.  
+
+From a microprudential perspective, SFTs are low risk, because the borrowing is short-
+
+dated, overcollateralized, marked-to-market daily, and subject to remargining 
+
+requirements.  The dangers arise in the tail and apply to the entire financial market when 
+
+the normally safe, short-term lending contracts dramatically in the face of sudden and 
+
+significant uncertainty about asset values and the condition of counterparties.  A 
+
+regulatory measure should force some internalization by market actors of the systemic 
+
+costs of this intermediation.   
+
+Second, to the degree that regulatory measures apply only to some types of 
+
+wholesale funding, or only to that used by prudentially regulated entities, there will be a 
+
+growing risk of regulatory arbitrage.  Ideally, the regulatory charge should apply whether 
+
+the borrower is a commercial bank, broker-dealer, agency Real Estate Investment Trust 
+
+(REIT), or hedge fund. 
+

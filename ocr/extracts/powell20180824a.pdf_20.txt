@@ -1,0 +1,69 @@
+
+FOMC Blue Chip CBO
+
+0.50
+
+0.75
+
+1.00
+
+1.25
+
+1.50
+
+1.75
+
+2.00
+
+2.25
+
+2012 2013 2014 2015 2016 2017 2018
+
+Percent
+
+Neutral Real Rate of Interest
+
+1.75
+
+2.00
+
+2.25
+
+2.50
+
+2012 2013 2014 2015 2016 2017 2018
+
+Percent
+
+Real GDP Growth
+
+4.50
+
+4.75
+
+5.00
+
+5.25
+
+5.50
+
+5.75
+
+2012 2013 2014 2015 2016 2017 2018
+
+Percent
+
+Unemployment Rate
+
+    Figure 1.  Real−Time Projections of Longer−Run Normal Values
+
+     Note: The Federal Open Market Committee (FOMC) data are quarterly, extend through June 2018, and are projections of longer−term normal. The Blue Chip          
+data are biannual, extend through June 2018, and are projections for 6 to 10 years in the future.  The Congressional Budget Office (CBO) data are biannual and 
+extend through August 2018. For the left two panels, the projections are for 10 years in the future; the right panel shows the natural rate projection for the current 
+quarter at the time of the projection.  The neutral real interest rate is the three−month Treasury bill rate projection (Blue Chip and CBO) or the federal funds rate          
+projection (FOMC) minus the source’s inflation projection. GDP is gross domestic product.
+     Source:  For FOMC, Summary of Economic Projections, available on the Board’s website at https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm; 
+for Blue Chip, Wolters Kluwer, Blue Chip Economic Indicators and Blue Chip Financial Forecasts; for CBO, Congressional Budget Office (The Budget and          
+Economic Outlook) and Federal Reserve Bank of St. Louis (ALFRED).
+     Correction: In the original figure, CBO potential output growth as of August 2018 was incorrectly reported; the value has been corrected to 1.8 percent.
+

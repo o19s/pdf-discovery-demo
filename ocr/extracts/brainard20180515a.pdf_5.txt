@@ -1,0 +1,51 @@
+
+- 4 - 
+ 
+
+ledger little to no information about the identity of owners of the cryptocurrency, this essentially 
+
+mimics a bearer instrument--that is, an instrument whereby the holder of the instrument is 
+
+presumed to be its owner.  Further, cryptocurrencies are easy to transfer across borders.  Indeed, 
+
+a cryptocurrency that mimics a bearer instrument and provides significant anonymity in 
+
+transactions, including across borders, could raise significant concerns regarding the potential to 
+
+facilitate illicit activities and associated money laundering.  For example, electronic instruments 
+
+can be easily transferred and stored in large amounts, and peer-to-peer transactions outside of the 
+
+United States could be very hard to prevent and detect.  Such instruments appear to have proven 
+
+susceptible for use to convey payments to illicit actors--for example, to pay ransoms.   
+
+Overall, however, the still relatively small scale of cryptocurrencies in relation to our 
+
+broader financial system and relatively limited connections to our banking sector suggest that 
+
+they do not currently pose a threat to financial stability.5  Of course, if cryptocurrencies were to 
+
+achieve wide-scale use, or their impact were greatly magnified through leverage, the effects 
+
+could be broader.  In particular, adverse developments and shifts in sentiment could cause a 
+
+global rush to exit this market.  As we have seen in other speculative activity in the past, rush-
+
+for-the-exits behavior can aggravate price fluctuations, create trading difficulties, and even 
+
+induce market breakdowns.  Thus, we will continue to monitor cryptocurrencies as they evolve, 
+
+with particular vigilance for any signs of growing materiality to the broader financial system.   
+
+Central Bank Digital Currencies 
+
+ Given some of the inherent issues and challenges that cryptocurrencies pose for investor 
+
+and consumer protection and the prevention of money laundering, some have advocated that 
+
+central banks should create their own digital forms of currency as more stable and reliable 
+
+                                                           
+5 See https://g20.org/sites/default/files/media/communique_-_fmcbg_march_2018.pdf. 
+

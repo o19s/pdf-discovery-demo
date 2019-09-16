@@ -1,0 +1,52 @@
+
+ - 9 -
+
+2010 FOMC meeting, most Committee participants expressed a preference for 
+
+renormalizing the size and composition of the Federal Reserve’s balance sheet over a 
+
+period of about five years that would commence following the initiation of policy 
+
+firming. 
+
+Figure 6 shows the results of simulations of the FRB/US model to gauge the 
+
+effect of these asset purchases on the unemployment rate and core personal consumption 
+
+expenditures (PCE) inflation.  For this purpose, the baseline path (denoted by the dashed 
+
+line in each panel) is constructed using historical data in conjunction with the latest set of 
+
+consensus projections from the Survey of Professional Forecasters conducted by the 
+
+Federal Reserve Bank of Philadelphia.  Then the staff model is used to simulate the 
+
+counterfactual scenario in which the FOMC never conducts any asset purchases (denoted 
+
+by the solid line in each panel).7  The pace of recovery under the baseline scenario is 
+
+expected to be painfully slow.  But the counterfactual scenario suggests that conditions 
+
+would have been even worse in the absence of the Federal Reserve’s securities purchases:  
+
+The unemployment rate would have remained persistently above 10 percent, and core 
+
+inflation would have fallen below zero this year.  Of course, considerable uncertainty 
+
+surrounds those estimates, but they nonetheless suggest that the benefits of the asset 
+
+purchase programs probably have been sizeable.   
+
+My final observation concerning the FOMC’s asset purchase program pertains to 
+
+the importance of clear and effective communications in the years ahead.  As I noted 
+
+earlier, both theory and empirical evidence suggest that market prices and yields at any 
+
+particular time reflect both the Federal Reserve’s current securities holdings and also 
+
+                                                 
+7 Because the latest release of the Survey of Professional Forecasters provided forecasts of the 
+unemployment rate only through 2014, the authors extrapolated the forecasts through 2018 using the 
+extended consensus forecasts reported in the October 2010 Blue Chip survey. 
+

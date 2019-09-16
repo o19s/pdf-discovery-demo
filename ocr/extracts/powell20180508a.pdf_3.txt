@@ -1,0 +1,51 @@
+
+ - 2 - 
+
+Federal Reserve policy announcements.  As you can see, changes in U.S. interest rates 
+
+after Fed policy actions (shown on the horizontal axis) lead to corresponding changes in 
+
+the value of the dollar (shown on the vertical axis).  And because of the dollar’s 
+
+widespread use around the world, these changes in the dollar affect financial conditions 
+
+abroad.  Fed policy-related movements in U.S. bond yields also tend to spill over to bond 
+
+yields abroad, such as the German yields shown in the scatterplot on the right.  Such 
+
+spillovers are to be expected in a world of highly integrated financial markets.2  As figure 
+
+2 shows, bond yields (left) and equity prices (right) around the world typically move 
+
+together fairly closely.   
+
+But the influence of U.S. monetary policy on global financial conditions should 
+
+not be overstated.  The Federal Reserve is not the only central bank whose actions affect 
+
+global financial markets.  In fact, the United States is the recipient as well as the 
+
+originator of monetary policy spillovers.  For example, as seen in figure 3, changes in 
+
+German yields after European Central Bank policy decisions also pass through to U.S. 
+
+yields.3  More broadly, it is notable that although the Fed has raised its target interest rate 
+
+six times since December 2015 and has begun to shrink its balance sheet, overall U.S. 
+
+domestic financial conditions have gotten looser, in part due to improving global 
+
+conditions and central bank policy abroad.   
+
+Much of the discussion of the spillovers of U.S. monetary policy focuses on their 
+
+effects on financial conditions in emerging market economies (EMEs).  Some observers 
+
+                                                 
+2 See, for example, Adrian and others (2017) and the IMF’s most recent Global Financial Stability Report 
+(2018) for discussion of the transmission of global risk shocks to domestic macroeconomic conditions. 
+3 Curcuru, De Pooter, and Eckerd (2018) find that about half of the movement in German bund yields in a 
+window following ECB monetary policy announcements spills over to U.S. Treasury yields, roughly the 
+same magnitude as the spillover of movements in U.S Treasury yields to German bund yields following 
+Federal Reserve policy announcements.   
+

@@ -1,0 +1,53 @@
+
+- 10 - 
+ 
+
+forecasts) that were prepared for each policy meeting.  Because Greenbook forecasts for 
+
+the period after 2004 are not yet publicly available, from 2005 on the forecasts are 
+
+constructed from the publicly released, contemporaneous projections of FOMC 
+
+participants, using methods developed by Athanasios Orphanides and Volker Wieland 
+
+(2008).9  In addition, consistent with the practices of the FOMC, inflation is measured by 
+
+the PCE price index as was available in real time, instead of by the CPI.10   
+
+As Slide 4 shows, the alternative Taylor rule prescribes a path for policy that is 
+
+much closer to that followed throughout the decade, including recent years.  In other 
+
+words, when one takes into account that policymakers should and do respond differently 
+
+to temporary and longer-lasting changes in inflation, monetary policy following the 2001 
+
+recession appears to have been reasonably appropriate, at least in relation to a simple 
+
+policy rule. 
+
+Which version of the Taylor rule--the standard version, that uses current values of 
+
+inflation, or the alternative version, that employs inflation forecasts--is the more reliable 
+
+guide?  I have explained my preference for using inflation forecasts rather than actual 
+
+inflation in the policy rule:  Monetary policy works with a lag, and therefore policy 
+
+decisions must be forward looking.  One might still prefer the simplicity of the standard 
+
+Taylor rule that uses current inflation values.  However, note from Slide 4 that a 
+
+                                                       
+9 FOMC projections between 2005 and 2007 are obtained from Monetary Policy Report to the Congress, 
+published in February and July (available at www.federalreserve.gov/monetarypolicy/mpr_default.htm); 
+projections for core inflation are converted to projections for headline inflation based on staff calculations 
+that in turn rely on energy futures prices.  Starting in 2008, FOMC inflation forecasts, for both core and 
+headline inflation, become available four times each year in the Summary of Economic Projections (see, for 
+example, Board of Governors of the Federal Reserve System (2009), “Minutes of Federal Open Market 
+Committee, January 9, 21, and 29-30, 2008,” press release, February 20, 
+www.federalreserve.gov/newsevents/press/monetary/20080220a.htm). 
+10 In the same spirit, we also replace the output gap as measured retrospectively by the FRB/US model with 
+the output gap from that model as measured in real time.  This change has no significant effect on the 
+policy prescriptions over most of the period. 
+

@@ -1,0 +1,21 @@
+
+ - 27 - 
+
+Figure 4 
+
+A Network in the Credit Default Swap Market 
+
+
+
+
+Note:  The figure shows a credit default swap (CDS) market network.  CDS exposures across different contracts (underliers) are netted against each other so that 
+
+any circle represents the net protection bought or sold by a market participant.  Red circles represent participants that are net sellers of CDS protection; blue circles 
+
+represent participants that are net buyers of CDS protection.  The size of the circle indicates the amount of protection bought or sold.  The sample has been trimmed 
+
+to exclude small market participants for ease of exposition.   
+
+Source:  Depository Trust & Clearing Corporation. 
+  
+

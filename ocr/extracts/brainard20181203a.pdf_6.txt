@@ -1,0 +1,51 @@
+
+ - 5 - 
+
+securities, and the federal funds rate was still at the effective lower bound.  With the 
+
+economy now at or beyond full employment and inflation around target, the Federal 
+
+Open Market Committee has since gradually increased its target for the federal funds rate 
+
+to between 2 and 2-1/4 percent, and normalization of the balance sheet is well under way.  
+
+Since October 2017, the portfolio of the System Open Market Account has decreased in 
+
+size from $4.2 trillion to about $3.9 trillion. 
+
+What Have We Learned So Far? 
+
+Against this changed backdrop and with more than a year’s worth of information 
+
+from the TRACE data available, it is a good time to ask what we have learned since the 
+
+initial market event and what questions remain.  First, the initiation of policy 
+
+normalization and the ongoing reduction of the Federal Reserve’s balance sheet do not 
+
+appear to have sparked a deterioration in Treasury market liquidity.  Standard metrics 
+
+such as bid-ask spreads have not materially changed for benchmark securities since 2014.  
+
+Market functioning has also been orderly during a number of recent events that were 
+
+characterized by high trading volume and elevated price volatility, such as in early 
+
+February of this year. 
+
+Second, some segments of the market seem much more active than observers may 
+
+have feared before the collection of TRACE data.  In particular, according to the TRACE 
+
+data as shown in figure 1, off-the-run trading accounts for 27 percent of overall trading 
+
+volume, while deep off-the-run notes and bonds--seasoned securities older than the first 
+
+or second off-the-run--account for 14 percent of all coupon activity.7  Likewise, the data 
+
+                                                 
+7 See Doug Brain, Michiel De Pooter, Dobrislav Dobrev, Michael Fleming, Peter Johansson, Frank Keane, 
+Michael Puglia, Tony Rodrigues, and Or Shachar (2018). "Breaking Down TRACE Volumes Further," 
+FEDS Notes. Washington: Board of Governors of the Federal Reserve System, November 29, 2018, 
+https://doi.org/10.17016/2380-7172.2299.  
+

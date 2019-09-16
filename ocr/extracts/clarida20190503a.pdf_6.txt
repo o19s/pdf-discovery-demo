@@ -1,0 +1,52 @@
+
+ - 5 - 
+
+to instrument-rule specification has been found to produce good macroeconomic 
+
+outcomes across a wide range of macroeconomic models.  Moreover, in a broad class of 
+
+both closed and open economy dynamic stochastic general equilibrium, or DSGE, 
+
+models, Taylor-type rules can be shown to be optimal given the underlying micro 
+
+foundations of these models.  
+
+In original formulations of Taylor-type rules, r* was treated as constant and set 
+
+equal to 2 percent, and potential output was set equal to the Congressional Budget Office 
+
+(CBO) estimates of potential output, or, in specifications using the unemployment rate as 
+
+the activity variable, u* was set equal to the CBO’s estimate of the natural unemployment 
+
+rate.  These assumptions were reasonable at the time, and I myself wrote a number of 
+
+papers with coauthors in the years before the Global Financial Crisis that incorporated 
+
+them.7 
+
+A Dive into Data Dependence 
+
+Fast-forward to today.  At each Federal Open Market Committee (FOMC) 
+
+meeting, my colleagues and I consult potential policy rate paths implied by a number of 
+
+policy rules, as we assess what adjustments, if any, may be required for the stance of 
+
+monetary policy to achieve and maintain our dual-mandate objectives.8  A presentation 
+
+and discussion of several of these rules has been included in the semiannual Monetary 
+
+Policy Report to the Congress since July 2017.9  One thing I have come to appreciate is 
+
+                                                 
+7 See, for example, Clarida, Galí, and Gertler (1999, 2000). 
+8 For the FOMC’s description of its mandate, see the FOMC’s (2019) Statement on Longer-Run Goals and 
+Monetary Policy Strategy.  The FOMC first adopted this statement in January 2012 and has reaffirmed the 
+statement at the start of each subsequent year (including this year, when all 17 FOMC participants 
+supported it).   
+9 The box “Monetary Policy Rules and Systematic Monetary Policy” in the Board’s February 2019 
+Monetary Policy Report (MPR) describes how simple policy rules are used in theory and in practical 
+policymaking.  See Board of Governors (2019).  The box “Complexities of Monetary Policy Rules” in the 
+July 2018 MPR discusses how shifts in r* complicate monetary policy decision making.  See Board of 
+

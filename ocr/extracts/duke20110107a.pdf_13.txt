@@ -1,0 +1,47 @@
+
+ - 12 -
+
+to the growth of the money supply because banks are required to hold a percentage of 
+
+some types of deposits as reserves with the Federal Reserve.  Thus, the total amount of 
+
+reserves in the banking system acts to cap maximum reservable deposits.  It is important 
+
+to note that it is deposits, not reserve balances, that are included in the monetary 
+
+aggregates used to measure the money supply.  For example, M1 is made up of currency, 
+
+traveler’s checks, demand deposits, and other checkable deposits, while M2 is made up of 
+
+M1 plus savings, small time deposits, and retail money market mutual funds.   
+
+Moreover, the linkage between the level of reserve balances and the monetary 
+
+aggregates in the current environment is quite weak.  You were probably taught, as I was, 
+
+that the broad monetary aggregates increase when reserve balances increase because the 
+
+larger volume of reserves supports increased lending, which in turn leads to a larger 
+
+volume of reservable deposits.  While that argument might hold in normal circumstances, 
+
+in the current environment excess reserves are many multiples of required reserves, and 
+
+adding reserves is unlikely to spark a further increase in the volume of deposits.  As a 
+
+result, the textbook linkage between reserve balances, bank loans, and transaction 
+
+deposits just is not operative at present.  Fundamentally, the levels of M1 and M2 are 
+
+determined by the strength of the economy and the preferences of businesses and 
+
+consumers for money, which depend on the yields on monetary instruments and 
+
+competing assets.   
+
+Recent experience has again illustrated the difficulty in identifying a reliable 
+
+relationship between reserve balances and the monetary aggregates.  Even though Federal 
+
+Reserve actions to fight the financial crisis and support the economic recovery added 
+

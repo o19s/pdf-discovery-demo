@@ -1,0 +1,28 @@
+
+Credit-Market Sentiment, Leverage & Economic Growth
+Dep. Variable: \( \Delta y_t \); Sample Period: 1952-2013
+
+R egressors (1) (2) (3)
+
+\( \Delta \hat{s}_t \) - 3 . 0 5 0 *** [Footnote. \( p \lt .01 \). End footnote.]
+(1 .0 4 3 )
+
+- 3 . 0 6 3 ***
+(1 .0 1 9 )
+
+- 3 . 0 5 6 ***
+(1 .0 8 4 )
+
+P 5 0 :  \( \Delta \log{[\mathrm{LTD/A}]_{t-2}} \) - 0 . 0 0 0
+(0 .0 3 7 )
+
+P 7 5 :  \( \Delta \log{[\mathrm{LTD/A}]_{t-2}} \) - 0 . 0 2 5
+(0 .0 5 1 )
+
+P 9 0 :  \( \Delta \log{[\mathrm{LTD/A}]_{t-2}} \) 0 .0 3 4
+(0 .0 3 8 )
+
+\( R̂2 \) 0 .1 7 8 0 .1 8 2 0 .1 8 4
+
+NOTE: Standard errors in parentheses: * \( p \lt .10 \), ** \( p \lt .05 \), and *** \( p \lt .01 \).
+

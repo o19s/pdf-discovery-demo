@@ -1,0 +1,51 @@
+
+ - 5 - 
+
+productivity, gains in labor productivity have been meager in recent years.  One broad 
+
+measure of business-sector productivity has risen only 1-1/4 percent per year over the 
+
+past 10 years in the United States and only 1/2 percent, on average, over the past 5 years.  
+
+By contrast, over the 30 years from 1976 to 2005, productivity rose a bit more than 
+
+2 percent per year.  Although the jury is still out on what is behind the latest slowdown in 
+
+productivity gains, prominent scholars such as Robert Gordon and John Fernald suggest 
+
+that smaller increases in productivity are the result of a slowdown in innovation that is 
+
+likely to persist for some time.4     
+
+Lower long-run trend productivity growth, and thus lower trend output growth, 
+
+affects the balance between saving and investment through a variety of channels.  A 
+
+slower pace of innovation means that there will be fewer profitable opportunities in 
+
+which to invest, which will tend to push down investment demand.  Lower productivity 
+
+growth also reduces the future income prospects of households, lowering their 
+
+consumption spending today and boosting their demand for savings.  Thus, slower 
+
+productivity growth implies both lower investment and higher savings, both of which 
+
+tend to push down interest rates.5  
+
+                                                 
+4 See Gordon (2016) and Fernald and Wang (2015). 
+5 These effects are what we would expect from our textbook models; they are also at work in the FRB/US 
+model being used here.  The empirical evidence on the link between trend growth and long-run equilibrium 
+interest rates is mixed.  Laubach and Williams (2003) find evidence of a link that is consistent with the 
+predictions of models such as FRB/US.  However, in their well-known paper, Hamilton et al. (2016) 
+conclude that while “the theoretical presumption that there is a link between aggregate growth and real 
+rates is very strong,” the empirical link between the real equilibrium interest rate and real GDP growth is 
+weak.  As stressed by Hamilton et al. there a great deal of uncertainty over the relationship between growth 
+and interest rates, likely, in part because of the multitude of shocks to which the economy is subject.  A 
+structural model, such as FRB/US, provides one method of estimating the link between growth and interest 
+rates by examining the reaction of the interest rate to a clearly defined shock to the trend growth rate.  
+However, this reaction occurs within the model economy, and is therefore subject to the particular structure 
+and assumptions of the FRB/US model.   
+    
+

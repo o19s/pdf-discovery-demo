@@ -1,0 +1,52 @@
+
+
+
+- 8 - 
+
+countries resulted in massive increases in the size of the government debt as a share of 
+
+GDP, as in Ireland at the start of the Great Financial Crisis, when the Irish government 
+
+stepped in to guarantee bank liabilities.  This process is aptly known as a “doom loop”.   
+
+ Lesson T4:  The lender of last resort, TBTF, and moral hazard.9  The role of the 
+
+central bank as lender of last resort is a central theme in Walter Bagehot’s 1873 classic on 
+
+central banking, Lombard Street.  The case for the central bank to be the lender of last 
+
+resort is clear in the case of a liquidity crisis – one that arises from a temporary shortage 
+
+of liquidity, typically in a financial panic – but less so in the case of solvency crises.10  
+
+In principle the distinction between liquidity and solvency problems should guide the 
+
+actions of the central bank and the government in a financial crisis.  But in a crisis, the 
+
+distinction between illiquidity and insolvency is rarely clear-cut – and whether a 
+
+company goes bankrupt will depend on how the authorities respond to the crisis.   
+
+Further, one has to be clear about which aspects of government actions are critical in 
+
+this regard.  If a firm is bankrupt, it may well be optimal for the firm to continue to 
+
+operate while being reorganized, as typically happens in bankruptcies.  In such a case, in 
+
+which the firm’s capital is negative, the ownership of the bankrupt firm should be 
+
+changed – unless the owners succeed in mobilizing more capital, in which case the 
+
+company was probably not bankrupt.   
+
+If the government is dealing with a bank, or other financial institution, with an 
+
+extremely large balance sheet and multiple interactions with the rest of the financial 
+
+system, putting the firm into bankruptcy without a plan to continue its most important 
+
+                                                 
+9 These issues are discussed in S5, S7 and B5. 
+10  I am quoting here from my 2011 paper, “Central bank lessons from the global crisis.” 
+(http://www.bis.org/review/r110414f.pdf) 
+

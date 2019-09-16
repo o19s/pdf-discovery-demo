@@ -1,0 +1,49 @@
+
+ - 7 -
+
+holdings is then maintained for about two years, and that the asset position is then 
+
+unwound linearly over the following five years.9  
+
+This trajectory of securities holdings causes the 10-year Treasury yield to decline 
+
+initially about 1/4 percentage point and then gradually return toward baseline over 
+
+subsequent years.  That path of longer-term Treasury yields leads to a significant pickup 
+
+in real gross domestic product (GDP) growth relative to baseline and generates an 
+
+increase in nonfarm payroll employment that amounts to roughly 700,000 jobs.10  It 
+
+should also be noted that this exercise is performed as a deterministic simulation and 
+
+hence does not capture the potential benefits of the asset purchase program in mitigating 
+
+downside risks to economic activity and inflation. 
+
+ I would also like to note that the same research paper analyzed the 
+
+macroeconomic effects of the FOMC’s full program of securities purchases, including the 
+
+first round of purchases that was initiated in late 2008 and early 2009, the modification of 
+
+the reinvestment policy that was announced last August, and the second round of 
+
+purchases that was initiated in November.  Those simulation results indicate that by 2012, 
+
+the full program of securities purchases will have raised private payroll employment by 
+
+about 3 million jobs.  Moreover, the simulations suggest that inflation is currently a 
+
+percentage point higher than would have been the case if the FOMC had never initiated 
+
+                                                 
+9 In addition, the federal funds rate is assumed to remain unchanged from baseline for several years and 
+then to follow the prescriptions of a simple estimated policy rule; for further details, see Chung and others 
+(2011). 
+10 The simulation results are reported as deviations from baseline and hence eventually return to zero.   
+In effect, under circumstances in which the baseline path involves a large and relatively persistent 
+unemployment gap, these results can be interpreted as gauging the extent to which the policy stimulus 
+accelerates the pace at which the economy returns to its balanced-growth path with maximum sustainable 
+employment and low, stable inflation.  
+

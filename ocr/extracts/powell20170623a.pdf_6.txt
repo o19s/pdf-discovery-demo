@@ -1,0 +1,47 @@
+
+5 
+ 
+
+underlying assets being cleared or non-cash collateral into cash.  For this reason, CCPs should 
+
+carefully consider liquidity when launching new products and only offer clearing of products that 
+
+can be sold quickly, even in times of stress.  Liquidity problems can occur in central clearing 
+
+even if all counterparties have the financial resources to meet their obligations, if they are unable 
+
+to convert those resources into cash quickly enough.  The amount of liquidity risk that CCPs face 
+
+can sometimes dwarf the amount of credit or market risk they face.  This is particularly true for 
+
+the clearing of cash securities such as Treasuries.  In that case, the securities being cleared are 
+
+extremely safe and likely to rise in value in times of stress.  But in contrast to most cleared 
+
+derivatives, the cash payments involved are very large because counterparties exchange cash for 
+
+the delivery of the security on a gross basis. 
+
+I will look at these risks from two perspectives, first in terms of the payments that CCPs 
+
+must make, and then in terms of the payments they expect to receive. 
+
+
+Payment Flows from CCPs  
+
+In the case of a member’s default, a CCP must be equipped to make the cash payments 
+
+owed to non-defaulting counterparties when due.  This requirement can be met as long as there is 
+
+sufficient margin, mutualized resources such as the guarantee fund, or the CCP’s own resources 
+
+held in cash and in the required currency.  But if those funds are held in securities, then the CCP 
+
+will need to convert them to cash, either by entering into a repurchase agreement, or using them 
+
+as collateral to draw on a line of credit.  And if the CCP holds either cash or securities 
+
+denominated in a currency different from the one in which payment must be made, it will need to 
+
+either engage in a spot FX transaction or in an FX swap.      
+

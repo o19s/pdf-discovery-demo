@@ -1,0 +1,47 @@
+
+ Broadly speaking, threats to financial stability can arise in two ways: first, through the 
+
+rapid deterioration or failure of a large institution with leverage sufficient to have widespread 
+
+knock-on effects and, second, through the breakdown of a significant market in which large 
+
+numbers of leveraged actors depend upon similar sources of liquidity and, importantly, backup 
+
+liquidity in periods of stress.  These two sources of systemic risk can be, and usually are, related.  
+
+In fact, the severity of the recent crisis might be explained as an explosive combination of the 
+
+two.  But the different origins of risk call for different or, perhaps more precisely, 
+
+complementary, policy responses.1 
+
+ To date, reform in financial regulation and supervision has focused mainly on large 
+
+regulated institutions: Three examples are the just-announced Basel III capital rules, much of the 
+
+Dodd-Frank Act, and the Federal Reserve’s revamping of its large holding company supervision.  
+
+Of course, attention has also been paid to the second source of systemic risk, notably in Dodd-
+
+Frank’s provisions for prudential supervision of payments, clearing, and settlement systems.  But 
+
+more will need to be done in this area, particularly as new constraints applicable to large 
+
+regulated institutions push more activity into the unregulated sector. 
+
+This paper by Gary Gorton and Andrew Metrick, “Regulating the Shadow Banking 
+
+System” (G-M), fits squarely within this enterprise.  It builds on two important insights from 
+
+work Gorton had pursued well before the financial crisis began:  First, that the enormous growth 
+
+of the shadow banking system generally, and the repurchase agreement, or “repo,” market 
+
+specifically, depended on the engineering of AAA-rated securities that led participants to believe 
+
+they did not need to inquire into the soundness of the underlying collateral.  This financial 
+
+engineering largely succeeded in insulating participants from idiosyncratic risk.  But when the 
+
+value of whole classes of the underlying collateral was drawn into serious question, initially by 
+

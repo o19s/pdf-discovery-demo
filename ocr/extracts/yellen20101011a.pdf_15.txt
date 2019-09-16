@@ -1,0 +1,51 @@
+
+- 14 - 
+ 
+
+ 
+ 
+
+for systemically important institutions to constrain risk-taking by those firms whose 
+
+failures would pose the greatest systemic risk.  One approach could involve imposing 
+
+penalties or restrictions on financial firms based on factors such as the correlation of their 
+
+strategies with those of other firms or by limiting risk exposure to individual 
+
+counterparties.  
+
+Policies are on the drawing board to ensure that institutions avoid undue reliance 
+
+on short-term debt and have adequate liquidity in market downturns.  Such requirements 
+
+would diminish the risk of the shortfalls and hoarding that could fuel a credit market 
+
+meltdown.  Policymakers might additionally put in place policies to discourage 
+
+overreliance on short-term debt among investors more broadly through, for example, 
+
+regulations on repo haircuts.  To address unsustainable real estate price run-ups, some 
+
+countries have chosen to cap maximum loan-to-value ratios on home loans.  Such an 
+
+approach deserves serious consideration.  My expectation is that policies such as these 
+
+will restrict dangerous pro-cyclical movements in debt and leverage, diminish the extent 
+
+of maturity mismatches and the potential for runs, and discourage unsustainable asset 
+
+price appreciation.  Importantly, the Federal Reserve and other U.S. regulators have also 
+
+taken steps to ensure that the financial institutions we supervise enforce compensation 
+
+policies that control incentives for excessive pro-cyclical risk-taking.   
+
+Macroprudential supervision must be particularly attentive to risks that could 
+
+impair the plumbing of the financial system--that is, the payments, clearing, and 
+
+settlements systems--where breakdowns would relay and amplify systemic risk.  
+
+Importantly, the Dodd-Frank Act significantly increases the trading of derivatives on 
+

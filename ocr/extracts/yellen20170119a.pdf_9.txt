@@ -1,0 +1,51 @@
+
+- 8 - 
+ 
+
+strategies routinely considered by the Committee are the recommendations of a variety of 
+
+simple monetary policy rules.  In addition, FOMC participants prepare individual 
+
+projections on a quarterly basis of the most likely paths of key macroeconomic variables 
+
+under their own assessments of “appropriate monetary policy,” together with their 
+
+estimates of the normal longer-run values of the federal funds rate, the unemployment 
+
+rate, and GDP growth.10  Armed with this wealth of information, the Committee as a 
+
+whole then decides on the most appropriate policy action to adopt at each of its meetings.  
+
+Such a comprehensive, forward-looking approach to policymaking is similar to that 
+
+employed at other central banks.11 
+
+Figure 5 shows a plot of FOMC participants’ most recent assessments of the 
+
+appropriate path for the federal funds rate through 2019.  The black solid lines show the 
+
+median value of the federal funds rate at the end of each year.  To understand the 
+
+considerations that likely underlay these judgments, I will contrast participants’ 
+
+assessments with the recommendations of some simple policy rules commonly used to 
+
+help gauge the appropriate stance of policy.  As I noted, the Committee routinely reviews 
+
+policy recommendations from a variety of benchmark rules, and I believe that their 
+
+prescriptions can be helpful in providing broad guidance about how the federal funds rate 
+
+should be adjusted over time in response to movements in real activity and inflation.  
+
+That said, I will emphasize that the use and interpretation of such prescriptions require 
+
+                                                           
+10 These individual projections are published quarterly in the Summary of Economic Projections that 
+accompanies the release of the minutes from the March, June, September and December meetings of the 
+FOMC. 
+11 The FOMC’s procedures share many of the features of forecast targeting, an approach to monetary 
+policymaking advocated by Svensson (2005), among others.  However, while the Committee publishes 
+participants’ projections--including policy paths--in the SEP, it does not publish a “consensus” forecast, in 
+contrast to some other central banks.  
+

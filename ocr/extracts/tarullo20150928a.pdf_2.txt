@@ -1,0 +1,50 @@
+
+
+- 1 - 
+
+Strengthening the quantity and quality of capital held by banks has been a central element 
+
+of post-financial crisis regulatory reform.  Yet, as the topic of this conference reminds us, the 
+
+crisis also exposed weaknesses in other financial intermediaries that carried systemic 
+
+implications.  In the United States, when Bear Stearns and Lehman Brothers failed, they were so-
+
+called freestanding investment banks, not subject even to the inadequate pre-crisis regulatory 
+
+regime for bank holding companies.  The stress at American International Group (AIG), an 
+
+insurance company, and the vulnerability of money market funds to destabilizing runs 
+
+contributed to a profound deepening of the crisis.  Hence the theme for this session of the 
+
+conference: In light of this recent history and, more generally, of the steady growth of nonbank 
+
+financial intermediaries, to what degree should they be subject to the capital regulations 
+
+developed by the Basel Committee on Banking Supervision and applied to bank holding 
+
+companies in the United States and to all commercial and investment banks in Europe? 
+
+ At first glance, the answer to this question might seem intuitively obvious.  After all, the 
+
+risk of loss associated with a particular corporate loan or mortgage-backed security or, indeed, 
+
+any other asset does not vary just because its legal owner is an insurance company or mutual 
+
+fund, rather than a bank.  Yet we all know that regulatory capital requirements sometimes do 
+
+vary with the nature of the firm.  And I suspect that most people in this room believe there are 
+
+good reasons why they should vary under at least some circumstances.   
+
+In my remarks this morning, I will explain how the identification of those circumstances 
+
+should proceed--by looking not at the asset side of a financial intermediary’s balance sheet, but 
+
+at the liability side.  The scope and nature of a firm’s liabilities provide the justifications for 
+
+capital requirements regulation.  Differences in liabilities can, accordingly, sometimes warrant 
+
+different capital requirements for portfolios of similar assets across firms.  At the risk of packing 
+

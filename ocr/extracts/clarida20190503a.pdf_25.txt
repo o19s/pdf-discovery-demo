@@ -1,0 +1,9 @@
+
+Figure 8.  Uncertainty Bands around Recent Point Estimates of r*
+(Selected Models)
+
+Note:  The circle gives the r* estimate for the first quarter of 2019 from each model, while the bars indicate the 95 percent confidence 
+interval for the estimate.
+
+Source:  Federal Reserve Board staff calculations, using the models indicated on the x-axis.
+

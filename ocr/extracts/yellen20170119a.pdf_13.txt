@@ -1,0 +1,47 @@
+
+- 12 - 
+ 
+
+the economy dissipate to the degree envisioned in participants’ estimates of the longer-
+
+run normal level of the real federal funds rate.  Because overall growth has been quite 
+
+moderate over the past few years despite an accommodative stance of monetary policy, 
+
+some recent estimates of the current value of the neutral real federal funds rate stand 
+
+close to zero.16  If the neutral rate were to remain quite low over the medium term, as 
+
+would be expected if the global economy does not materially strengthen and productivity 
+
+growth remains anemic, then the appropriate setting for R* in the Taylor rule would 
+
+arguably be zero, yielding a yet lower path for the federal funds rate, as shown by the 
+
+long-dashed red line.  These considerations illustrate that there is now no obvious “right” 
+
+setting for R* because we do not know how rapidly the forces restraining the economy 
+
+will abate, and there is a significant risk that it could be very slow.  When the economy 
+
+has been hit with unusually persistent shocks, the Taylor rule, for this reason, provides a 
+
+problematic benchmark.   
+
+Simple policy rules also typically neglect information with potentially important 
+
+implications for the economic outlook because they focus only on where conditions are 
+
+today.  For example, simple rules ignore such important factors as fiscal policy, trends 
+
+affecting global growth, structural developments influencing the supply of credit, and 
+
+overall financial conditions.  One special factor at the moment pertains to the Federal 
+
+Reserve’s balance sheet.  The downward pressure on longer-term interest rates that the 
+
+Fed’s asset holdings exert is expected to diminish over time--a development that amounts 
+
+                                                           
+16 For example, see Holston, Laubach, and Williams (2016).   
+

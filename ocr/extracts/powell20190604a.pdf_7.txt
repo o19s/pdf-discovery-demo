@@ -1,0 +1,52 @@
+
+ - 6 - 
+
+The first question raises the issue of whether the FOMC should use makeup 
+
+strategies in response to ELB risks.  By the time of the 1999 conference, research was 
+
+beginning to show that—in models, at least—such strategies could substantially reduce 
+
+the unemployment and other costs of ELB spells.8  The simplest version goes like this:  
+
+Suppose that a spell with interest rates near the ELB leads to a persistent shortfall of 
+
+inflation relative to the central bank’s goal.  But what if the central bank promised 
+
+credibly that it would deliberately make up for any lost inflation by stimulating the 
+
+economy and temporarily pushing inflation modestly above the target?  In the models, the 
+
+prospect of future stimulus promotes anticipatory consumption and investment that could 
+
+greatly reduce the pain of being at the ELB.9  Policymakers discussed this reasoning in 
+
+the wake of the crisis, but neither the Fed nor any other major central bank chose to 
+
+pursue such a policy.10  Why?  For makeup strategies to work, households and businesses 
+
+must go out on a limb, so to speak, raising spending in the midst of a downturn.  In 
+
+theory, they would do this based on their confidence that the central bank will deliver the 
+
+makeup stimulus at some point—perhaps years in the future.  In models, great confidence 
+
+in central bankers is achieved by assumption.  Despite the flattering nature of this 
+
+                                                 
+8 See Reifschneider and Williams (2000) and references therein.  For a more recent review of this subject, 
+see Bernanke, Kiley, and Roberts (2019) and Mertens and Williams (2019). 
+9 Eggertsson and Woodford (2003), for example, show that optimal policy at the ELB entails a commitment 
+to reflate the price level during subsequent economic expansions.  See also Wolman (2005) for a discussion 
+of the effectiveness of price-level targeting at the ELB.  For a discussion of the relationship between price-
+level targeting and average-inflation targeting, see Nessén and Vestin (2005).  The strategy in 
+Reifschneider and Williams (2000), for instance, involves a central bank following a Taylor rule modified 
+to make up for shortfalls in policy accommodation during ELB episodes.  Kiley and Roberts (2017) study a 
+strategy in which policymakers aim for inflation higher than 2 percent during normal times to compensate 
+for below-target inflation during ELB episodes.  Also see Bernanke (2017) for a strategy in which low 
+inflation is made up if it occurs when the federal funds rate is at or near the ELB.  See also Bernanke, 
+Kiley, and Roberts (2019) and Mertens and Williams (2019). 
+10 The Bank of Japan (2016) came closest, announcing in September 2016 an “inflation-overshooting 
+commitment” (p. 1).  The commitment did not, however, come with any explicit goal for a degree or 
+duration of overshoot. 
+

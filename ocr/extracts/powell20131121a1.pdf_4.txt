@@ -1,0 +1,53 @@
+
+ - 3 -
+
+The Group of Twenty governments responded by committing that all standardized 
+
+derivatives would be moved to central clearing and that derivatives that are not centrally 
+
+cleared would be subject to margin requirements.2  Progress has been made on both of 
+
+these fronts.  Since credit default swaps clearing was introduced in 2009, the notional 
+
+value of cleared credit derivatives has grown to more than $6 trillion.  The notional value 
+
+of interest rate swaps that are centrally cleared has more than doubled since 2009 and 
+
+now stands at more than $400 trillion.3  These amounts will surely increase further in the 
+
+coming years.  And international standards on margin requirements for derivatives that 
+
+are not centrally cleared have recently been finalized.4  I would like to briefly discuss 
+
+how these reform efforts are intended to reduce systemic risks and offer my views on 
+
+how to ensure that they are effectively implemented. 
+
+The Enhanced Role of Central Counterparties in OTC Derivatives Markets  
+
+By design, central clearing offers important advantages over a bilateral market 
+
+structure in which no participant can know the full extent of its counterparties’ risk 
+
+exposures.  The hub-and-spoke structure of central clearing enables the netting of gains 
+
+and losses across multiple market participants, which has the potential to significantly 
+
+reduce each participant’s aggregate counterparty risk exposure.  Central clearing can also 
+
+                                                 
+2 See Group of Twenty (2009), “The G20 Pittsburgh Summit Leaders’ Statement,” item 13 under 
+“Strengthening the International Financial Regulatory System” (Pittsburgh, PA:  G-20, September), 
+http://g20.org/load/780988012; and Group of Twenty (2011), “Cannes Summit Final Declaration--Building 
+Our Common Future:  Renewed Collective Action for the Benefit of All,” item 24 under “Meeting Our 
+Commitments Notably on Banks, OTC Derivatives, Compensation Practices and Credit Rating Agencies, 
+and Intensifying Our Monitoring to Track Deficiencies” (Cannes, France:  G-20, November), 
+http://g20.org/load/780986775.  
+3 Interest rate derivatives cleared volumes reflect notional amounts as of November 8, 2013, reported for 
+LCH.Clearnet’s SwapClear service.  Credit default swap cleared volumes reflect notional amounts as of 
+November 8, 2013, reported by the Depository Trust and Clearing Corporation’s Trade Information 
+Warehouse. 
+4 See Basel Committee on Banking Supervision and the Board of the International Organization of 
+Securities Commissions (2013), Margin Requirements for Non-Centrally Cleared Derivatives, report 
+(Basel, Switzerland:  Bank for International Settlements, September), www.bis.org/publ/bcbs261.htm. 
+

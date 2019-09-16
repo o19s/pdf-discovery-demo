@@ -1,0 +1,54 @@
+
+
+ 16
+
+underlying exposures are not always available for investing banking organizations.  
+Nevertheless, the agencies could develop a simplified version of the SFA that 
+could be applied by all banking organizations. Depending upon the parameters 
+used in the SFA, this approach could increase risk sensitivity, as well as potentially 
+increasing transparency in the securitization market.   
+
+Question 7: What are the advantages and disadvantages of these approaches for  
+calculating risk-based capital requirements for securitization exposures?  How can the 
+agencies ensure consistent and transparent implementation?  Which parameters or 
+measures of subordination and structure should the agencies consider?  What are the 
+implications or potential for unintended consequences?  How can the agencies ensure that 
+an alternative approach meets the criteria for a credit-worthiness standard?  What other 
+approaches or specific financial and structural parameters that would be appropriate 
+standards of credit-worthiness for securitization exposures?  Commenters are asked to 
+provide quantitative as well as qualitative support and/or analysis for proposed alternative 
+methods. 
+
+vi. Guarantees and Collateral 
+
+The agencies’ general risk-based capital rules generally limit the recognition of 
+third-party guarantees to those provided by central governments, U.S. government 
+agencies, banks, state and local governments of OECD countries, qualifying securities 
+firms, and multilateral lending institutions and regional development banks.  The general 
+risk-based capital rules recognize collateral in the form of cash, securities issued or 
+guaranteed by OECD central governments, securities issued by U.S. government 
+agencies or U.S. government-sponsored agencies, and securities issued by multilateral 
+lending institutions and regional development banks.33   
+
+Under the Basel standardized approach, guarantor eligibility is based on the credit 
+rating of the guarantor’s unsecured long-term debt security without credit enhancement 
+that has a long-term external credit rating.34  In addition, financial collateral includes, 
+among other things, long-term debt securities that have an external credit rating of one 
+category below investment grade or higher and short-term debt securities that have an 
+external credit rating of at least investment grade.35   
+
+The advanced approaches rules recognize the risk reducing effects of financial 
+collateral and guarantees.36  Eligible financial collateral includes long-term debt 
+securities that have a credit rating of one category below investment grade or higher and 
+short-term debt securities that have a credit rating of at least investment grade.37  
+
+                                                 
+33 See 12 CFR part 3, Appendix A (OCC), 12 CFR parts 208 and 225, Appendix A, III.B (Board); 12 CFR 
+part 325, Appendix A, § II.B.2 (FDIC); 12 CFR 567.6 (OTS). 
+34 Basel Accord, paragraph 195. 
+35 Id. at paragraph 145. 
+36 12 CFR part 3, Appendix C, sections 33 and 34 (OCC); 12 CFR part 208, Appendix F §§ 34 and 35 and 
+12 CFR part 225, Appendix G §§ 34 and 35 (Board); 12 CFR part 325, Appendix D, §§ 34 & 35 (FDIC); 
+12 CFR part 567, Appendix C, sections 34-35 (OTS).   
+37 Id.  
+

@@ -1,0 +1,47 @@
+
+ - 8 - 
+
+Efforts are under way to deal with these gaps:  The Legal Entity Identifier 
+
+initiative is working to allow regulators and private counterparties to trace activities by 
+
+institution; the OFR, the Securities and Exchange Commission, and the Federal Reserve 
+
+are cooperating with the industry to collect data on bilateral repos; and the FSB has 
+
+finalized standards for collection of data on securities financing transactions.11  
+
+Regulators in the United States and abroad have begun to require the reporting of detailed 
+
+derivatives transaction data to trade repositories.  Unfortunately, as a recent report shows, 
+
+inadequate data standards and limitations on authorities’ access to trade repository data 
+
+have prevented the benefits of derivatives trade data reporting from being fully realized.12  
+
+An illustration of the possible interaction between better data and better policies is 
+
+the potential role of margins in securities financing transactions.  The more stringent 
+
+regulation of the banking sector may push short-term financing activities to less regulated 
+
+entities.  To limit such regulatory arbitrage, the Federal Reserve will be developing 
+
+regulations that would establish minimum margins for securities financing transactions 
+
+on a marketwide basis.  The margins would apply to all market participants, thereby 
+
+mitigating the risks associated with regulation along institutional lines.  Improved data 
+
+collection, such as mentioned earlier, would allow a better view of changes in conditions 
+
+and potentially contribute to the deployment of countercyclical margins, thereby further 
+
+decreasing the chances of a dynamic that culminates in adverse fire sales.   
+
+                                                   
+11 Information on the cooperative effort to collect data on bilateral repos is available on the OFR website at 
+http://financialresearch.gov/data/repo-data-project.  For details on the FSB’s standards for collecting data 
+on securities financing transactions, see Financial Stability Board (2015c).  
+12 See Financial Stability Board (2015b).  
+

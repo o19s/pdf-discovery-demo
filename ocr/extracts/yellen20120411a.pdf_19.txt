@@ -1,0 +1,51 @@
+
+
+
+- 18 - 
+
+situation and the limits placed on conventional policy by the zero lower bound on interest 
+
+rates, these issues of risk management take on special importance. 
+
+More broadly, these considerations help illustrate why it would be imprudent to 
+
+adhere mechanistically to the prescriptions of any single policy rule.  Such rules can 
+
+serve as useful benchmarks for facilitating monetary policy deliberations and 
+
+communications, but a dose of good judgment will always be essential as well.   
+
+Uncertainty and Policy Conditionality  
+
+The policy prescriptions I’ve discussed thus far are conditioned on an illustrative 
+
+baseline forecast for unemployment and inflation.  Because any economic forecast is 
+
+inherently uncertain, the FOMC’s forward policy guidance states explicitly that the 
+
+Committee “currently anticipates” that economic conditions are likely to warrant such a 
+
+stance of policy. The guidance does not state that the Committee will keep the funds rate 
+
+exceptionally low until at least late 2014.  I’d consider it completely appropriate to 
+
+modify the specification of the forward guidance in response to significant changes in the 
+
+economic outlook.  
+
+Potential modifications of the forward guidance can be illustrated by showing 
+
+how the Taylor (1999) rule responds to two different shifts in the outlook.  Figure 9 
+
+shows one scenario in which the recovery turns out to be unexpectedly strong, with the 
+
+unemployment rate reaching 6 percent by the end of 2014 and inflation moving a little 
+
+above 2 percent later in the decade.  It also shows a second scenario in which the 
+
+recovery is unexpectedly weak, with the unemployment rate remaining above 8 percent 
+
+until early 2014.  In this scenario, inflation stays persistently below 2 percent.  In the 
+
+stronger scenario, the Taylor (1999) rule calls for the liftoff from the zero lower bound to 
+

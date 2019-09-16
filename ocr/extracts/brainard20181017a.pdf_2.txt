@@ -1,0 +1,47 @@
+
+
+Thank you for inviting me to join today’s discussion.  Like many of you, I have 
+
+long been interested in the potential for innovation to improve financial access for 
+
+families and small businesses who are underserved.  The combination of smartphone 
+
+apps, big data, artificial intelligence, and cloud technology holds out intriguing 
+
+possibilities in financial services.  But no single app is likely to be a silver bullet for the 
+
+complex challenges faced by underserved households and small businesses.  Achieving 
+
+inclusion will require a holistic understanding of the challenges faced by underserved 
+
+groups in order to develop full stack solutions to address them.1    
+
+Fortunately, an emerging generation of metrics may offer a more complete picture 
+
+of consumers’ financial needs.  In addition, technological infrastructure is developing, 
+
+such as faster payment systems, along with the potential for more transparent and simpler 
+
+product offerings enabled by richer data and lower-cost processing.  These new building 
+
+blocks may make a difference on their own--and, more importantly, may be combined in 
+
+powerful ways to bring end-to-end solutions to financial inclusion.  I will briefly discuss 
+
+each of these developments in turn. 
+
+Lessons from the First Wave 
+
+Let’s start with the basic question of how to measure financial inclusion in order 
+
+to evaluate the impact of financial innovations and inclusion policies.  The World Bank’s 
+
+Global Findex Database starts with a seemingly reasonable proxy for financial inclusion: 
+
+access to financial accounts.  Having access to basic transaction and savings accounts has 
+
+                                                 
+1 I am grateful to Kelvin Chen of the Federal Reserve Board for his assistance in preparing this text.  These 
+remarks represent my own views, which do not necessarily represent those of the Federal Reserve Board or 
+the Federal Open Market Committee. 
+

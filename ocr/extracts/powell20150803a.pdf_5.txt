@@ -1,0 +1,51 @@
+
+
+- 4 - 
+ 
+
+
+and computing, the speed of trading has increased at least a million-fold.7  Advances in computing 
+
+and faster access to trading platforms have also allowed new types of firms and trading strategies to 
+
+enter the market.  Algorithmic and high-frequency trading firms deploy a wide and diverse range of 
+
+strategies.  In particular, the technologies and strategies that people associate with high frequency 
+
+trading are also regularly employed by broker-dealers, hedge funds, and even individual investors.  
+
+Compared with the speed of trading 20 years ago, anyone can trade at high frequencies today, and 
+
+so, to me, this transformation is more about technology than any one particular type of firm.  
+
+  Given all these changes, we need to have a more nuanced discussion as to the state of the 
+
+markets.  Are there important market failures that are not likely to self-correct?  If so, what are the 
+
+causes, and what are the costs and benefits of potential market-led or regulatory responses?   
+
+  Some observers point to post-crisis regulation as a key factor driving any decline or change 
+
+in the nature of liquidity.  Although regulation had little to do with the events of October 15, I would 
+
+agree that it may be one factor driving recent changes in market making.  Requiring that banks hold 
+
+much higher capital and liquidity and rely less on wholesale short-term debt has raised funding costs.  
+
+Regulation has also raised the cost of funding inventories through repurchase agreement (repo 
+
+markets).  Thus, regulation may have made market making less attractive to banks.  But these same 
+
+regulations have also materially lowered banks’ probabilities of default and the chances of another 
+
+financial crisis like the last one, which severely constrained liquidity and did so much damage to our 
+
+economy.  These regulations are new, and we should be willing to learn from experience, but their 
+
+basic goals--to make the core of the financial system safer and reduce systemic risk--are appropriate, 
+
+                                                           
+7 Marcia Stigum (1990), in describing the secondary bond market, noted that trades could be completed in a matter of 
+seconds.  Currently, trading can occur at speeds below one microsecond.  (See Marcia L. Stigum (1990), The Money 
+Market, 3rd ed. (Homewood, Ill.:  Dow Jones-Irwin), p. 649.) 
+

@@ -1,0 +1,61 @@
+
+ - 2 - 
+
+path of the federal funds rate over the following several quarters--is associated with a 
+
+42 basis point increase in the 10-year forward overnight real rate, extracted from the 
+
+yield curve for Treasury inflation-protected securities (TIPS).
+3
+ 
+
+On the one hand, this finding is at odds with standard New Keynesian macro 
+
+models, in which the central bank’s ability to influence real variables stems from goods 
+
+prices that are sticky in nominal terms.  In such models, a change in monetary policy 
+
+should have no effect on forward real rates at a horizon longer than that over which all 
+
+prices can adjust, and it seems implausible that this horizon could be on the order of 
+
+10 years.  On the other hand, the result suggests that monetary policy may have more 
+
+kick than is implied by the standard model, precisely because long-term real rates are the 
+
+ones that are most likely to matter for a variety of investment decisions. 
+
+So what is going on?  How, in a world of eventually flexible goods prices, is 
+
+monetary policy able to exert such a powerful influence on long-term real rates?  A first 
+
+clue is that the movements in distant forward real rates that we document appear to 
+
+reflect changes in term premiums, as opposed to changes in expectations about short-term 
+
+real rates far into the future.  Said differently, if the Fed eases policy today and yields on 
+
+long-term TIPs go down, this does not mean that the real short rate is expected to be 
+
+lower 10 years from now--but rather that TIPs have gotten more expensive relative to the 
+
+expected future path of short rates.  These changes in term premiums then appear to 
+
+reverse themselves over the following 6 to 12 months.   
+
+                                                 
+3
+ Our findings can be illustrated with the events of January 25, 2012.  On that date the FOMC changed its 
+
+forward guidance, indicating that it expected to hold the federal funds rate near zero “through late 2014,” 
+
+whereas it had previously only stated that it expected to do so “through mid-2013.” In response to this 
+
+announcement, the expected path of short-term nominal rates fell significantly from two to five years out, 
+
+with the 2-year nominal yield dropping 5 basis points and the 5-year nominal yield falling 14 basis points.  
+
+More strikingly, 10-year and 20-year real forward rates declined by 5 basis points and 9 basis points, 
+
+respectively.  
+

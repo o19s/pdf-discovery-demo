@@ -1,0 +1,51 @@
+
+
+25 
+ 
+
+There are a couple of ways to respond to bank concerns without courting these dangers.  
+
+One would be to add some granularity in the definition of asset categories subject to a specific 
+
+loss function.  At times, some banks have felt that the breadth of certain categories of assets used 
+
+by the supervisory model means there is a good bit of divergence in the risks associated with 
+
+assets within the same category.  The other would be for the Federal Reserve to publish a set of 
+
+hypothetical portfolios with the model-implied losses on these portfolios.  To that end, staff have 
+
+been working on “control portfolio” level disclosures.  These would permit a fairly accurate 
+
+inference of the expected losses on any given set of assets.  At the same time, they would not 
+
+permit participants to game the models by scrutinizing them for the precise points where they 
+
+were weakest.22   
+
+Conclusion 
+
+Much as I would have liked to touch upon important topics such as the need for credible 
+
+resolution mechanisms for large banks and for adaptable regulatory processes to respond to new 
+
+forms of shadow banking, I needed to be selective in drafting this speech.  I concentrated on 
+
+capital regulation because it is the single most important element of prudential financial 
+
+regulation.  The new features of G-SIB surcharges and stress testing help guard against a severe 
+
+new financial crisis and contain the too-big-to-fail problem.  As proposals for regulatory change 
+
+swirl about, it is crucial that the strong capital regime be maintained, especially as it applies to 
+
+the most systemically important banks.  Neither regulators nor legislators should agree to 
+
+                                                 
+22 The negative effects of such a disclosure regime are exemplified by the now-infamous cutoff of many 
+securitization programs at FICO scores of 620.  Because of the transparency of the pre-crisis models used by credit 
+rating agencies, loan originators understood that by getting their riskiest borrowers to improve their credit scores to 
+620, they could be included in various securitization programs. 
+
+
+

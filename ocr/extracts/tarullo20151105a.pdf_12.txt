@@ -1,0 +1,50 @@
+
+ 11  
+ 
+
+host country choices will also inevitably be affected by how home countries are carrying out 
+
+their regulatory and supervisory roles.  This consideration includes, of course, not just 
+
+regulations that are nominally applicable, but the manner in which those regulations are 
+
+enforced.   
+
+Branching presents a particularly instructive example of the tension between assuring 
+
+financial stability and permitting foreign banking operations that may carry economic benefits.  
+
+Because branches are not separately chartered and capitalized, a bank can relatively easily enter 
+
+a foreign market by opening a branch, through which it can make loans--often initially to 
+
+companies from its home country--using funds from the home bank.  Particularly where (as in 
+
+the United States) foreign branches are forbidden by local law from accepting retail deposits, it 
+
+might seem that there are minimal risks to the host country if the parent bank (and thus the local 
+
+branch) fails.  However, U.S. experience with foreign branches in the decade prior to the crisis 
+
+shows the very real risks that can arise when a branch is used to raise funds in the host country 
+
+(in the United States, in dollars) through short-term wholesale borrowing, and then directs those 
+
+funds out of the host country for loans or asset purchases by other parts of the bank.  As noted 
+
+earlier, when short-term funding dried up, many foreign branches were left seriously short of 
+
+liquidity and had to turn to the discount window. 
+
+A shared feature of the U.S. and European Union regulatory systems for foreign banks is 
+
+that branching is permitted without requiring separate capitalization.  Many other jurisdictions 
+
+have similar policies.  Thus opportunities for foreign bank entry and market access are provided.  
+
+In the United States, larger branches do have to meet some liquidity requirements, though they 
+
+are less restrictive than the standards applicable to domestic banks and intermediate holding 
+
+companies.  This requirement is an important example of a prudential measure that balances 
+

@@ -1,0 +1,54 @@
+
+-8- 
+ 
+
+
+  For example, let’s take the areas of fraud prevention and cybersecurity, where 
+
+supervised institutions may need their own AI tools to identify and combat outside AI-powered 
+
+threats.  The wide availability of AI’s building blocks means that phishers and fraudsters have 
+
+access to best-in-class technologies to build AI tools that are powerful and adaptable.  
+
+Supervised institutions will likely need tools that are just as powerful and adaptable as the threats 
+
+that they are designed to face, which likely entails some degree of opacity.  While so far, most 
+
+phishing attacks against consumers have relied on standard-form emails, likely due to the high 
+
+cost of personalization, in the future, AI tools could be used to make internet fraud and phishing 
+
+highly personalized.17  By accessing data sets with consumers’ personally identifiable 
+
+information and applying open-source AI tools, a phisher may be able to churn out highly 
+
+targeted emails to millions of consumers at relatively low cost, containing personalized 
+
+information such as their bank account number and logo, along with past transactions.18  In cases 
+
+such as this, where large data sets and AI tools may be used for malevolent purposes, it may be 
+
+that AI is the best tool to fight AI.   
+
+Let’s turn to the related issue of the proverbial “black box”--the potential lack of 
+
+explainability associated with some AI approaches.  In the banking sector, it is not uncommon 
+
+for there to be questions as to what level of understanding a bank should have of its vendors’ 
+
+models, due to the balancing of risk management, on the one hand, and protection of proprietary 
+
+                                                 
+17 See, e.g., Eric Lipton, David E. Sanger, and Scott Shane, “The Perfect Weapon: How Russian Cyberpower 
+Invaded the U.S.,” New York Times, December 13, 2016, https://mobile.nytimes.com/2016/12/13/us/politics/russia-
+hack-election-dnc.html; and Cormac Herley, “Why Do Nigerian Scammers Say They Are from Nigeria?” Microsoft 
+Research, June 1, 2012, https://www.microsoft.com/en-us/research/wp-
+content/uploads/2016/02/WhyFromNigeria.pdf. (“A less outlandish wording that did not mention Nigeria would 
+almost certainly gather more total responses and more viable responses, but would yield lower overall profit. Recall, 
+that viability requires that the scammer actually extract money from the victim: those who are fooled for a while, but 
+then figure it out, or who balk at the last hurdle are precisely the expensive false positives that the scammer must 
+deter.”) 
+18 Brian Krebs, “The Year Targeted Phishing Went Mainstream,” Krebs on Security, (August 18, 2018), 
+https://krebsonsecurity.com/2018/08/the-year-targeted-phishing-went-mainstream/. 
+

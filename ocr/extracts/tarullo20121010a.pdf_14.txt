@@ -1,0 +1,48 @@
+
+- 13 - 
+ 
+
+standard.  Section 165 requires that the standards intended to prevent risks to financial stability 
+
+increase in stringency, based on the same non-exhaustive list of factors used for the designation 
+
+of nonbank systemically important financial firms,27 but provides no further guidance.   
+
+In undertaking this task, we began with the premise that a financial stability motivation 
+
+for capital requirements is necessarily somewhat different from the institution-centered approach 
+
+of traditional capital standards, as embodied in the various Basel capital frameworks.  Firm-
+
+centered requirements are informed by asking what level of capital would be necessary to allow 
+
+the firm to remain a viable financial intermediary even after absorbing losses that, within a fairly 
+
+high level of confidence, might be encountered over some relevant timeframe.  The financial 
+
+stability approach begins from the fact that there would be very large negative externalities 
+
+associated with the disorderly failure of any systemically important financial institution, distinct 
+
+from the costs incurred by the firm and its stakeholders.  
+
+The failure of such a firm, especially in a period of stress, significantly increases the 
+
+chances that other financial firms will themselves experience great stress, for two reasons.  First, 
+
+direct counterparty impacts can lead to a classic domino effect.  Second, because losses in a tail 
+
+event are much more likely to be correlated for firms deeply engaged in trading, structured 
+
+products, and other capital market instruments, all such firms are vulnerable to accelerating 
+
+losses as troubled firms sell their assets into a declining market.  Enhanced capital requirements 
+
+should take into account these costs that a systemically important firm’s failure will inflict on the 
+
+rest of the financial system, not the amount of loss its shareholders and creditors will incur.  
+
+Thus, the aim of financial stability capital standards is to reduce further the probability that the 
+
+firm might fail under stress through holding additional capital.  These additional capital 
+

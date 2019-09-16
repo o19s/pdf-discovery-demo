@@ -1,0 +1,62 @@
+
+ - 4 - 
+
+It is worth saying a little about the “musical chairs” mechanism that leads to the 
+
+sharp spike in rates.  The fund managers in the model care about their relative 
+
+performance in that they are averse to posting lower returns than their peers, holding 
+
+fixed absolute performance.  These relative-performance concerns induce a form of 
+
+strategic complementarity of fund manager actions.  Specifically, as short-term rates 
+
+begin to rise and fund manager i contemplates whether she should bail out of long-term 
+
+bonds and move into short-term bills, she is more apt to do so if she thinks that some 
+
+other manager, j, is also going to bail--because she is worried that otherwise, she may 
+
+wind up underperforming manager j and finishing last in the relative-performance 
+
+tournament. 
+
+While appearing in a different guise here, this strategic-complementarity effect--
+
+the idea that any one agent is in more of a rush to get out when he or she thinks that 
+
+others may also want to get out--is essentially the same mechanism that drives bank runs 
+
+in the classic work of Diamond and Dybvig, and that, in one manifestation or another, 
+
+creates financial fragility in many other settings.
+5
+  However, one thing that is distinctive 
+
+about the variant presented in the current paper is that there is a clear prediction of 
+
+exactly what sets off the run for the exits on the part of money managers--namely, a small 
+
+increase in short rates beyond a certain threshold level.
+6
+  
+
+The model focuses on one particular source of run-like fragility that might 
+
+emanate from the asset-management sector, but there are others.  One that the paper 
+
+                                                 
+5
+ See Diamond and Dybvig (1983). 
+
+6
+ This feature is in contrast to many other models in the Diamond-Dybvig (1983) tradition, which have 
+
+multiple equilibria and hence convey a sense of fragility, but have less to say about what underlying 
+
+variable tips the scales toward a run-like equilibrium.  The more pinned-down nature of the model in this 
+
+paper comes from an application of the global-games methodology described in Morris and Shin (2003). 
+
+
+

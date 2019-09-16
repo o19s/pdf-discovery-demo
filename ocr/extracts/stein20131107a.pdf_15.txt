@@ -1,0 +1,54 @@
+
+ - 14 - 
+
+3. Universal margin requirements 
+
+These sorts of regulatory-arbitrage concerns have motivated some academics and 
+
+policymakers to think about a system of universal margin requirements for SFTs.13  In its 
+
+simplest form, the idea would be to impose a minimum haircut, or down payment 
+
+requirement, on any party—be it a hedge fund or a broker-dealer—that uses short-term 
+
+collateralized funding to finance its securities holdings.  Because the requirement now 
+
+lives at the security level, rather than at the level of an intermediary in the SFT market, it 
+
+cannot be as easily evaded by, say, a hedge fund going outside the broker-dealer sector to 
+
+obtain its repo funding.14  This is the strong conceptual appeal of universal margin from 
+
+the perspective of a fire-sales framework. 
+
+In this regard, it is worth noting that the Financial Stability Board (FSB) has 
+
+recently released a proposal to establish minimum haircut requirements for certain 
+
+SFTs.15  However, the FSB proposal stops well short of being a universal margin 
+
+requirement.  Rather, the minimum haircuts envisioned by the FSB would apply only to 
+
+SFTs in which entities not subject to capital and liquidity regulation (e.g., hedge funds) 
+
+receive financing from entities that are subject to regulation (i.e., banks and broker-
+
+dealers), and only to transactions in which the collateral is something other than 
+
+                                                 
+13 A closely related motivation for universal margin requirements is that they might be able to limit 
+procyclicality by leaning against increases in leverage during boom times. 
+ 
+14 Of course, there is always the potential for other forms of regulatory arbitrage.  For example, a hedge 
+fund that faces a minimum margin requirement when it uses repo borrowing to fund a corporate-bond 
+position may instead seek to take a leveraged position in the corporate bond through other means by, for 
+example, engaging in a total-return swap with its prime broker.  This is the growing business of “synthetic” 
+prime brokerage. Properly harmonized initial margin requirements on uncleared derivatives may help to 
+level the playing field between traditional and synthetic prime brokerage activities.  
+ 
+15 Financial Stability Board (2013), Strengthening Oversight and Regulation of Shadow Banking: Policy 
+Framework for Addressing Shadow Banking Risks in Securities Lending and Repos, August 29, 
+www.financialstabilityboard.org/publications/r_130829b.pdf. 
+ 
+ 
+

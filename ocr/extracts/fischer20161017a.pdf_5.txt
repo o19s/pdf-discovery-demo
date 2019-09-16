@@ -1,0 +1,49 @@
+
+ - 4 - 
+
+the investment-equals-saving curve.  And because we are considering the long-run 
+
+equilibrium interest rate, we are looking at the interest rate that equilibrates investment 
+
+and saving when the economy is at full employment, as it is assumed to be in the long 
+
+run.    
+
+I will look at four major forces that have affected the balance between saving and 
+
+investment in recent years and then consider some that may be amenable to the influence 
+
+of economic policy.   
+
+The economy’s growth prospects must be at the top of the list.  Among the factors 
+
+affecting economic growth, gains in productivity and growth of the labor force are 
+
+particularly important.  Second, an increase in the average age of the population is likely 
+
+pushing up household saving in the U.S. economy.  Third, investment has been weak in 
+
+recent years, especially given the low levels of interest rates.  Fourth and finally, 
+
+developments abroad, notably a slowing in the trend pace of foreign economic growth, 
+
+may be affecting U.S. interest rates.   
+
+To assess the empirical importance of these factors in explaining low long-run 
+
+equilibrium interest rates, I will rely heavily on simulations that the Board of Governors’ 
+
+staff have run with one of our main econometric models, the FRB/US model.  This 
+
+model, which is used extensively in policy analyses at the Fed, has many advantages, 
+
+including its firm empirical grounding, and the fact that it is detailed enough to make it 
+
+possible to consider a wide range of factors within its structure.    
+
+Going through the four major forces I just mentioned, I will look first at the effect 
+
+that slower trend economic growth, both on account of the decline in productivity growth 
+
+as well as lower labor force growth, may be having on interest rates.  Starting with 
+

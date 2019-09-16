@@ -1,0 +1,30 @@
+
+ - 5 - 
+
+interest rate variables that drive projections of net interest income under stress are the 
+
+yield on 10-year Treasury bonds, the yield on 3-month Treasury bills, and the 10-year 
+
+triple-B corporate yield.3  That is, the supervisory projections of net interest income are 
+
+primarily based on models that implicitly assume that other rates such as LIBOR or 
+
+SOFR move passively with short-term Treasury rates.  Given these mechanics, choosing 
+
+to lend at SOFR rather than LIBOR will not result in lower projections of net interest 
+
+income under stress in the stress-test calculations of the Federal Reserve. 
+
+I hope I have been able to provide you with some further clarity today.  I am sure 
+
+that the rest of the roundtable will do so as well.  I want to applaud the members of the 
+
+ARRC who are working hard to make sure this threat to financial stability is avoided. 
+
+
+
+                                                 
+3 See Board of Governors of the Federal Reserve System (2019), Dodd-Frank Act Stress Test 2019:  
+Supervisory Stress Test Methodology (Washington:  Board of Governors, March), table 2, p. 23, 
+https://www.federalreserve.gov/publications/files/2019-march-supervisory-stress-test-methodology.pdf. 
+

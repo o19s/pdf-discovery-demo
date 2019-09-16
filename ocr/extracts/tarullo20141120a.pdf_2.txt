@@ -1,0 +1,41 @@
+
+ The financial turbulence of 2008 was largely defined by the dangers of runs--realized, 
+
+incipient, and feared.  Facing deep uncertainty about the condition of counterparties and the 
+
+value of assets serving as collateral, many funding markets ground to a halt, as investors refused 
+
+to offer new short-term lending or even to roll over existing repos and similar extensions of 
+
+credit.  In the first instance, at least, this was a liquidity crisis.  Its fast-moving dynamic was very 
+
+different from that of the savings and loan crisis or the Latin American debt crisis of the 1980s.  
+
+The phenomenon of runs instead recalled a more distant banking crisis--that of the 1930s.   
+
+ Despite this defining characteristic of the last crisis, measures to regulate liquidity have 
+
+by-and-large lagged other regulatory reforms, for at least two reasons.  First, prior to the crisis 
+
+there was very little use of quantitative liquidity regulation and thus little experience on which to 
+
+draw.  While the Basel Committee got to work quickly, senior central bankers and heads of bank 
+
+supervisory agencies extended the timeline for implementation of liquidity standards to guard 
+
+against unanticipated, undesirable consequences from these innovative regulatory efforts.  A 
+
+second reason liquidity regulation has followed other reforms is that judicious liquidity 
+
+regulation both complements, and is dependent upon, other important financial policies--notably 
+
+capital regulation, resolution procedures, and lender-of-last-resort (LOLR) practice.  Work on 
+
+liquidity regulations has both built on reforms in these other areas and occasioned some 
+
+consideration of the interaction among these various policies. 
+
+ But while perhaps a bit drawn out, the work has proceeded.  A final version of a 
+
+Liquidity Coverage Ratio (LCR) was agreed internationally and has been adopted by regulation 
+

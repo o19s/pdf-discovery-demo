@@ -1,0 +1,50 @@
+
+- 8 - 
+
+
+for purposes of regulatory capital.  This not only made intuitive sense, but was also more 
+
+consistent with how banks managed their own balance sheets and measured their risk-based 
+
+performance. 
+
+But the approach of risk-weighting assets by placing them in defined buckets is not 
+
+precise.  While it might have the virtue of providing some capital sensitivity to the quality of 
+
+different asset classes, a granular system of risk-weighting raises issues of its own. 
+
+For example, the riskiness associated with each asset class can be flat-out wrong.  Errors 
+
+are going to occur in part because risks can change over time and in part because no one has 
+
+perfect knowledge about the nature of risks associated with every single asset class.  To note one 
+
+prominent example, risk exposures to the sovereign debt of countries that are members of the 
+
+Organisation for Economic Co-operation and Development currently receive a zero percent risk 
+
+weight.  That is, for regulatory capital purposes, their debt is considered to be risk-free.  But if 
+
+there is one thing we have learned in recent years, sovereign debt can indeed be risky even if, in 
+
+good times, it appears to be perfectly safe.   
+
+In addition, I believe you can make a case that risk weights for securitization exposures 
+
+understated the risks and losses that were actually incurred in these exposures.  In fairness, losses 
+
+during the financial crisis far exceeded prior historical losses on securitization exposures.  But 
+
+that’s just the point: The risk profile of a particular financial instrument can change significantly 
+
+over time, which can be very difficult to capture in a regulatory capital regime based on crude 
+
+risk buckets that do not evolve over time.  Accordingly, the amount of capital held can be 
+
+inappropriate relative to the actual risk. 
+
+One problem this can lead to is that it can create incentives that skew lending decisions 
+
+and credit allocation more broadly.  To be clear, I don’t want to give the impression that banks’ 
+

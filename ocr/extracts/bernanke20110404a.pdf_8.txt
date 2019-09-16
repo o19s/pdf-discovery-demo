@@ -1,0 +1,55 @@
+
+
+
+- 7 -
+
+(or liquidity provider) of last resort.  Some clearinghouses even issued small-
+
+denomination certificates that circulated widely outside the clearinghouse as a substitute 
+
+for currency.9  Although these measures were helpful, demands grew for public action to 
+
+address the problem of recurrent panics.  These demands ultimately led to the formation 
+
+of the Federal Reserve in 1913, in part to act as a liquidity provider of last resort as well 
+
+as to strengthen the supervision of state-chartered banks. 
+
+  Eighty years later, the 1987 stock market crash provided a marketwide test for 
+
+securities and derivatives clearinghouses, as well as their members, banks, and related 
+
+institutions.10  Surging volumes of trades and extraordinary price volatility during the 
+
+week of October 19th created errors and delays in confirming stock trades, severe 
+
+operational and financial stress at clearing members, and heavy liquidity demands 
+
+throughout the financial markets.11  In the derivatives markets, multiple intraday margin 
+
+calls were made to protect the clearinghouses, but banks sometimes delayed making key 
+
+payments to and from the clearinghouses, adding to the uncertainty.  Meanwhile, the 
+
+clearinghouses themselves apparently absorbed significant amounts of intraday liquidity 
+
+from the markets by collecting, but not always paying out, so-called variation margin--
+
+payments that investors were required to make as the values of their holdings plunged.  In 
+
+reviewing the episode, the Brady Commission noted that although the clearinghouse 
+
+                                                 
+9 See National Monetary Commission, “Clearing Houses,” in note 3, pp. 75-136.   For a more modern 
+account, see Gary Gorton and Donald J. Mullineaux (1987), “The Joint Production of Confidence:  
+Endogenous Regulation and Nineteenth Century Commercial-Bank Clearing Houses,” Journal of Money, 
+Credit and Banking, vol. 19 (November), pp. 457-68. 
+10 For an analytical perspective on the development of central counterparties and their functions in the 
+context of the 1987 stock market crash, see Ben S. Bernanke (1990), “Clearing and Settlement during the 
+Crash,” Review of Financial Studies, vol. 3 (1), pp. 133-51.   
+11 See U.S. Securities and Exchange Commission (1988), The October 1987 Market Break:  A Report by 
+the Division of Market Regulation, U.S. Securities and Exchange Commission (Washington:  Government 
+Printing Office, February); and U.S. Commodity Futures Trading Commission (1988), Follow-Up Report 
+on Financial Oversight of Stock Index Futures Markets during October 1987 (Washington:  CFTC, 
+January). 
+

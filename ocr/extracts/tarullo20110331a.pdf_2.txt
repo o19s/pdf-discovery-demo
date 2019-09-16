@@ -1,0 +1,49 @@
+
+ 
+
+ 
+
+Events of the last few years have given the phrases “systemic risk” and “financial 
+
+stability” a prominent place in the lexicon of policymakers.  Although protecting financial 
+
+stability is germane to numerous areas, including monetary policy, today I will focus on some 
+
+aspects of its relevance for financial regulation.  More specifically, I will address the 
+
+implementation of the new statutory regime for special supervision and regulation of financial 
+
+institutions whose stress or failure could pose a risk to financial stability.  Then I will identify 
+
+two important issues raised by the implementation of this regime that need the attention of 
+
+academics, analysts, and policymakers if we are to regulate systemic risk effectively and 
+
+efficiently.1  
+
+Distressed Firms and Systemic Risk 
+
+ Let me start by detailing how distress in a financial firm can create risks to overall 
+
+financial stability, as a prelude to suggesting how an understanding of those dynamics should 
+
+inform prudential regulatory policies.  There are basically four ways:  
+
+ First is the classic domino effect, whereby counterparties of a failing firm are placed 
+
+under severe strain when the firm does not meet its financial obligations to them.  Their 
+
+resulting inability to meet their own obligations leads, in turn, to severe strains at their 
+
+other significant counterparties, and so on through the financial system.   
+
+ Second is a fire-sale effect in asset markets, when a failing firm engages in distress sales 
+
+in an effort to obtain needed liquidity.  The sudden increase in market supply of the assets 
+
+drives down prices, often substantially.  As we saw in the recent crisis, this effect 
+
+transmits not only to firms that must sell assets to meet immediate liquidity needs but, 
+
+because of margin calls and mark-to-market accounting requirements, to many other 
+

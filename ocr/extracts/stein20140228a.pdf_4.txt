@@ -1,0 +1,56 @@
+
+ - 3 - 
+
+monetary accommodation.  For there to be any meaningful tradeoff, there would have to 
+
+be some sort of asymmetry in the unwinding of these risk premiums, whereby the 
+
+eventual reversal either happens more abruptly, or causes larger economic effects, than 
+
+the initial compression.  Said a little differently, if an easing of Federal Reserve policy 
+
+puts downward pressure on term premiums and credit spreads, and if this downward 
+
+pressure is only gradually reversed as policy begins to tighten, then what is the problem?   
+
+The nice feature of the model is that it speaks to this asymmetry.  That is, it 
+
+features a gradual compression of risk spreads during a period of monetary ease, and 
+
+then, when policy begins to tighten, it delivers a sharp and abrupt correction, driven by a 
+
+particular form of market dynamics.   
+
+Of course, this is just a theoretical prediction.  One thing that the paper does not 
+
+do, but which would be very helpful in assessing the real-world relevance of the model, 
+
+would be to see if this sort of asymmetry in bond returns is present in the data.  In 
+
+particular, if I am interpreting the model correctly, it implies a specific form of 
+
+conditional volatility and skewness in bond returns.  For example, when term premiums 
+
+are unusually low relative to historical norms, the model suggests an elevated probability 
+
+of a sharp upward spike in rates.  I don’t know of any evidence that bears on this 
+
+hypothesis in the bond market, though an analogous pattern does appear in stock market 
+
+returns.
+4
+  
+
+                                                 
+4
+ See Chen, Hong, and Stein (2001).  They document that, consistent with a “bubble popping” view, stock 
+
+returns are more negatively skewed when past returns have been positive and when valuation ratios (for 
+
+example, market-to-book ratios) are high.  Alternatively, the ratio of downside to upside volatility is 
+
+unusually high in such circumstances. 
+
+
+
+

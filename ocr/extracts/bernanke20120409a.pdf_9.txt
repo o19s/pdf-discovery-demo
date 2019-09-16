@@ -1,0 +1,50 @@
+
+  - 8 -  
+
+
+
+
+about $1.4 trillion--allows securities dealers access to their securities (for example, the 
+
+tranches of loan securitizations mentioned earlier) during trading hours. 
+
+ Because of these and other connections, panics and other stresses in shadow 
+
+banking can spill over into traditional banking.  Indeed, the markets and institutions I 
+
+mentioned--the repo market, the ABCP market, and money market funds--all suffered 
+
+panics to some degree during the financial crisis.  As a result, many traditional financial 
+
+institutions lost important funding channels for their assets; in addition, for reputational 
+
+and contractual reasons, many banks supported their affiliated funds and conduits, 
+
+compounding their own mounting liquidity pressures.   
+
+Status of Shadow Banking Reform Efforts 
+
+ Given the substantial stakes, I am encouraged that both regulators and the private 
+
+sector have begun to take actions to prevent future panics and other disruptions in shadow 
+
+banking.  However, in many key areas these efforts are still at early stages. 
+
+A first set of reforms relate to the accounting and regulatory capital treatment of 
+
+shadow banking entities sponsored by traditional banks.  The Financial Accounting 
+
+Standards Board finalized a rule in 2009 that requires securitizations and other structured 
+
+finance vehicles, in certain situations, to be consolidated onto the sponsoring bank’s 
+
+balance sheet.  In the context of regulatory capital, Basel 2.5 and Basel III addressed 
+
+interconnectedness and other sources of systemic risk frequently associated with shadow 
+
+banking by raising capital requirements for exposures to unregulated financial 
+
+institutions, such as asset managers, hedge funds, and credit insurers, and by 
+
+strengthening the capital treatment of liquidity lines to off-balance-sheet structures.  
+

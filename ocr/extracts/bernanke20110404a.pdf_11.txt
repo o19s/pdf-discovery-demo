@@ -1,0 +1,51 @@
+
+
+
+- 10 -
+
+years leading up to the crisis, the Federal Reserve Bank of New York initiated joint 
+
+efforts with other regulators and market participants to improve clearing arrangements for 
+
+credit default swaps.  However, for several reasons, the willingness of market participants 
+
+to move all derivatives transactions to clearinghouses was limited.  Notably, many 
+
+believed that the standardization of derivatives contracts that is needed for multilateral 
+
+clearing imposed too high a cost on end users with needs for customized arrangements.  
+
+Market participants also were concerned that the establishment of clearinghouse 
+
+guarantees might require implicit subsidies from clearinghouse members with stronger 
+
+credit to those with weaker credit. 
+
+ These calculations, however, were substantially changed by the galvanizing 
+
+events of 2008, notably the development of large and uncertain counterparty credit risks 
+
+in many bilateral derivatives agreements.  On the heels of the crisis, the Group of Twenty 
+
+countries endorsed a policy of mandatory central clearing for standardized OTC 
+
+derivatives.  The aim was to reduce systemic risk in the financial system more broadly as 
+
+well as to improve the transparency of the OTC derivatives markets.  In the United 
+
+States, title 7 of the Dodd-Frank Act incorporated a mandatory clearing policy for 
+
+standardized derivatives.  Other major countries are following suit.  In the spirit of 
+
+keeping a close eye on the basket, as dependence on clearinghouses grows, private-sector 
+
+participants and regulators will need to review risk-management and member-default 
+
+procedures for financial market utilities to ensure that they meet high standards of safety. 
+
+ As I mentioned, strengthening the financial infrastructure is indeed a key theme of 
+
+the Dodd-Frank Act.  Title 8 addresses several prudential issues associated with clearing 
+
+and settlement.  One important provision provides additional authority for U.S. regulators 
+

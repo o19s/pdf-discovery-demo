@@ -1,0 +1,59 @@
+
+ - 10 - 
+
+losses in the event of distress--demand prudent risk-taking, thereby limiting the problem 
+
+of too-big-to-fail.   
+
+Financial stability risks can also grow large outside the regulated banking sector, 
+
+as amply demonstrated by the events of 2007 and 2008.  In response, a number of 
+
+regulatory changes affecting what is commonly referred to as the shadow banking sector 
+
+have been instituted.  A specific example of such risks, illustrative of broader 
+
+developments, was the buildup of large counterparty exposures through derivatives 
+
+between market participants and AIG that were both inappropriately risk-managed and 
+
+opaque.  To mitigate the potential for such risks to arise again, new standards require 
+
+central clearing of standardized over-the-counter derivatives, enhanced reporting 
+
+requirements for all derivatives, and higher capital as well as margin requirements for 
+
+noncentrally cleared derivatives transactions.13 
+
+Another important step was the Congress’s creation of the Financial Stability 
+
+Oversight Council (FSOC).  The council is responsible for identifying risks to financial 
+
+stability and for designating those financial institutions that are systemically important 
+
+and thus subject to prudential regulation by the Federal Reserve.  Both of these 
+
+responsibilities are important to help guard against the risk that vulnerabilities outside the 
+
+existing regulatory perimeter grow to levels that jeopardize financial stability.14  
+
+                                                 
+13 One area in which regulations have shifted to a lesser degree in the United States is that of time-varying 
+
+macroprudential tools, in which regulatory requirements are adjusted to address changes in vulnerabilities 
+
+that may affect the financial system.  For example, U.S. regulatory authorities have adopted rules that allow 
+
+use of the countercyclical capital buffer, but other time-varying tools are limited in the United States.  This 
+
+issue is discussed in, for example, Stanley Fischer (2015), “Macroprudential Policy in the U.S. Economy,” 
+
+speech delivered at “Macroprudential Monetary Policy,” 59th Economic Conference of the Federal Reserve 
+
+Bank of Boston, Boston, October 2, 
+
+https://www.federalreserve.gov/newsevents/speech/fischer20151002a.htm. 
+14 For example, the FSOC contributed, through its identification process, to the development of the 
+
+Securities and Exchange Commission reforms affecting money market funds.  The FSOC has also 
+

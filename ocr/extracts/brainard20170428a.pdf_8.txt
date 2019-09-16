@@ -1,0 +1,51 @@
+
+- 7 - 
+
+smartphone world.  If a developer wants to use a Google Maps API to embed a map in her 
+
+application, she first must create a developer account with Google, agreeing to Google’s terms 
+
+and conditions.  This means she will have entered a contract with the owner of the API, and the 
+
+terms and conditions may differ depending on how sensitive the particular API is.  Google may 
+
+require only a minimum amount of information for a developer that wants to use an API to 
+
+display a map.  Google may, however, require more information about a developer that wants to 
+
+use a different API to monitor the history of a consumer’s physical locations over the previous 
+
+week.  And in some cases, the competitive interests of Google and a third-party app developer 
+
+may diverge over time, such that the original terms of access are no longer acceptable.16    
+
+The fact that it is possible and indeed relatively common for the API provider--the 
+
+platform--to require specific controls and protections over the use of that API raises complicated 
+
+issues when imported to the banking world.  As banks have considered how to facilitate 
+
+connectivity, the considerations include not only technical issues and the associated investment, 
+
+but also the important legal questions associated with operating in a highly regulated sector.  The 
+
+banks’ terms of access may be determined in third-party service provider agreements that may 
+
+offer different degrees of access.  These may affect not only what types of protections and 
+
+vetting are appropriate for different types of access over consumers’ funds and data held at a 
+
+bank in order to enable the bank to fulfill its obligations for data security and other consumer 
+
+protections, but also the competitive position of the bank relative to third-party developers.     
+
+There is a second broad type of approach in which many banks have entered into 
+
+agreements with specialized companies that essentially act as middlemen, frequently described 
+
+                                                           
+16 The Financial Times reported that Uber will invest half a billion dollars into developing its own mapping software 
+as it continues its push into driverless cars, thereby reducing its reliance on Google Maps. Leslie Hook, “Uber to 
+Pour $500m into Global Mapping Project,” Financial Times, July 31, 2016, www.ft.com/cms/s/0%2Fe0dfa45e-
+5522-11e6-befd-2fc0c26b3c60.html?ft_site=falcon&desktop=true#axzz4G0M5oyu8. 
+

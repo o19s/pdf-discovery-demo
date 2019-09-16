@@ -1,0 +1,36 @@
+
+Credit-Market Sentiment & Corporate Bond Issuance
+Dep. Variable: \( \log[\mathrm{ISS}/I]_t \); Sample Period: 1973-2013
+
+High YieldHigh Yield Investment GradeInvestment Grade
+
+R e g r e s s o r s (1) (2) (1) (2)
+
+\( \Delta \hat{s}_t \) - 6 6 .7 7 2 * * *  [Footnote. \( p \lt .01 \). End footnote.]
+(1 7 .1 3 5 )
+
+- 7 4 .4 7 3 * * *
+(2 1 .8 2 5 )
+
+5 1 .3 9 2 ***
+
+(1 6 .2 4 9 )
+4 0 .1 4 1 * * *
+
+(1 2 .4 7 5 )
+\( \log[\mathrm{ISS}/I]_{t-1} \) 0 .2 0 2 * * *
+
+(0 .0 6 0 )
+0 .1 0 3
+
+(0 .0 6 9 )
+0 .8 2 3 * * *
+
+(0 .1 1 8 )
+0 .7 9 5 * * *
+
+(0 .1 0 9 )
+\( R̂2 \) 0 .1 7 7 0 .2 6 4 0 .5 5 0 0 .5 5 0
+
+NOTE: Standard errors in parentheses: * \( p \lt .10 \), ** \( p \lt .05 \), and *** \( p \lt .01 \).
+

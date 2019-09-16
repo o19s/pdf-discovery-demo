@@ -1,0 +1,45 @@
+
+- 8 - 
+ 
+
+organizations had announced plans to use distributed ledger technology in limited 
+
+ways. 
+
+As we have followed developments over the past year, a few lessons have 
+
+come into better focus.6  First, in contrast to Bitcoin’s open architecture, work by 
+
+the financial industry has focused on the development of “permissioned” systems, 
+
+which establish criteria to determine who is permitted access to particular systems, 
+
+ledgers, functions, or information.  In the near term, this approach seems more 
+
+likely than fully open systems to provide the needed governance and management 
+
+to address operational, security, and financial risks.  Indeed, access is typically 
+
+permissioned in situations that require the protection of systems and information in 
+
+the financial and other industries.  Even in permissioned systems, some key issues 
+
+will remain, including whether finality of settlement is to be determined by a 
+
+central trusted party or by a majority of participants, and whether participants are 
+
+able to view information on other parties’ transactions.  Some argue that movement 
+
+away from open systems undermines the potential efficiency and the spirit of DLT.  
+
+At least for now, in payment, clearing, and settlement, safety and confidence must 
+
+also weigh in the balance.     
+
+                                                           
+6 See David Mills, Kathy Wang, Brendan Malone, Anjana Ravi, Jeff Marquardt, Clinton Chen, Anton Badev, 
+Timothy Brezinski, Linda Fahy, Kimberley Liao, Vanessa Kargenian, Max Ellithorpe, Wendy Ng, and Maria Baird, 
+“Distributed Ledger Technology in Payments, Clearing, and Settlement,” Finance and Economics Discussion Series 
+2016-095 (Washington: Board of Governors of the Federal Reserve System, December 2016), 
+www.federalreserve.gov/econresdata/feds/2016/files/2016095pap.pdf. 
+

@@ -1,0 +1,19 @@
+
+Financial Market Sentiment and Economic Growth
+
+• Empirical specification:
+
+\[ \Delta s_t  = \theta_1̂ \prime \mathrm 
+
+z_{1,t-2} + \nu_{1t} \\   r_t^M = 
+
+\theta_2̂\prime \mathrm z_{2,t-1} + \nu_{2t} \\  \Delta y_{t+h} = \beta_1\Delta \hat{s}_t + \beta_2 \hat{r}_t̂ M + \gammâ \prime \mathrm x_t + \epsilon_{t+h}\ \ \ (h \geq 0) \]
+
+• Variation in expected returns due to changes in market sentiment:
+• \( \mathrm z_{1,t-2} \): \( s_{t-2} \), \( \log{\mathrm{HYS}_{t-2}} \)
+
+Greenwood & Hanson (2013)
+
+• \( \mathrm z_{2,t-1} \): \( \log[D/P]_{t-1} \), \( \log{\mathrm{ES}_{t-1}} \), \( \log[P/\~E]_{t-1} \)
+Cochrane (2008,2012); Baker & Wurgler (2000); Shiller (2000)
+

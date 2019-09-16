@@ -1,0 +1,49 @@
+
+ - 12 - 
+
+requirement that large banking organizations have credible resolution plans and 
+
+undertake preparations to make those plans operationally feasible.  In particular it 
+
+requires the top-tier holding companies of systemic banking organizations to maintain a 
+
+sufficiently large buffer of long-term debt that can be converted into equity and used to 
+
+fully recapitalize their important operating subsidiaries in the event of bankruptcy.  The 
+
+proposed levels of long-term debt are calibrated to the specific riskiness and scale of each 
+
+institution’s activities, taking into account the likely shrinkage of the operations of their 
+
+subsidiaries in resolution. 
+
+ The requirement is designed to mitigate contagion, fire-sale, and run risks by 
+
+providing comfort to depositors, short-term debt holders, and counterparties of the 
+
+operating subsidiaries of the firm, since the long-term unsecured debt issued by the top-
+
+tier holding company would be structurally subordinated to the claims on the operating 
+
+subsidiaries.  The presence of long-term debt holders that will be bailed in ensures that 
+
+taxpayer resources will not be used and should provide incentives to preserve the firm’s 
+
+value as it approaches insolvency, thus aligning the firm’s interests with the public’s 
+
+broader interest in financial stability.   
+
+The Board has received many detailed comments on the proposed long-term debt 
+
+rule.  Some have commented on the existing stock of outstanding long-term debt with 
+
+acceleration clauses that might not qualify under the rule’s criteria and have proposed 
+
+grandfathering as a possible solution.  Others have raised questions about whether the 
+
+leverage ratio or the risk-based capital framework provides the more appropriate 
+
+calibration benchmark for the minimum long-term debt requirement.  Comments from 
+
+foreign banks have also addressed our proposal to impose internal long-term debt 
+

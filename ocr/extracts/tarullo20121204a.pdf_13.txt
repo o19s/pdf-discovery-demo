@@ -1,0 +1,49 @@
+
+ - 12 -
+
+effective and efficient ways to deal with short-term funding markets, often characterized 
+
+as the shadow banking system, that are inherently subject to runs. 
+
+Requiring minimum levels of long-term debt   
+
+Proposals to require large financial firms to hold minimum levels of long-term 
+
+debt are offered as a way to facilitate the orderly resolution of such firms.  Variations on 
+
+this general theme have gathered momentum as the Financial Stability Board, the Basel 
+
+Committee on Banking Supervision, and other groups have explored ways to make large 
+
+financial firms more readily resolvable, thereby giving national authorities a third choice 
+
+between the unattractive options of bailout and disorderly failure. 
+
+The basic idea is that the maintenance of minimum levels of long-term debt at the 
+
+top holding company level will allow a resolving authority to transfer operating 
+
+subsidiaries of the failed firm to a functioning bridge entity, while leaving behind in a 
+
+receivership the equity and sufficient long-term debt to absorb the original firm’s losses.  
+
+Eventually, the resolving authority could recapitalize the bridge entity by exchanging 
+
+claims of the long-term unsecured creditors of the parent for equity, long-term debt of the 
+
+bridge, or both.  In the United States, this approach is consonant with the Federal Deposit 
+
+Insurance Company’s stated preference for a “single-entry” strategy in dealing with the 
+
+resolution of systemically important firms under the orderly liquidation authority of the 
+
+Dodd-Frank Wall Street Reform and Consumer Protection Act (Dodd-Frank Act).  But it 
+
+is also consistent with variants on resolution mechanisms being implemented in other 
+
+jurisdictions around the world. 
+
+A minimum long-term debt requirement could lend greater confidence that the 
+
+combination of equity owners and long-term debt holders would be sufficient to bear all 
+

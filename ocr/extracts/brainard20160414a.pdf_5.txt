@@ -1,0 +1,47 @@
+
+ - 4 - 
+
+Given this backdrop, it is important to give promising technologies the serious 
+
+consideration they merit, seek to understand their opportunities and risks, and actively 
+
+engage in dialogue about their potential uses and evolution.  At the Federal Reserve, we 
+
+approach these issues from the perspective of policymakers safeguarding the public 
+
+interest in safe and sound core banking institutions, financial stability, particularly as it 
+
+pertains to the wholesale financial markets, and the security and efficiency of the 
+
+payment system.   
+
+Distributed ledger technology was introduced for the transfer and record-keeping 
+
+of Bitcoin and other digital currencies.  The essential advantage of the technology is that 
+
+it provides a credible way to transfer an asset without the need for trust in intermediaries 
+
+or counterparties, much like a physical cash transaction.  To do that, a transfer process 
+
+must be able to credibly confirm that a sender of an asset is the owner and has enough of 
+
+the asset to make the transfer to the receiver.  This requires a secure system or protocol to 
+
+transfer assets (the rails), protection against assets being transferred twice (the so-called 
+
+double spend problem), and an immutable record of asset ownership that can be 
+
+automatically and securely updated (the ledger).  The tokenization of digital assets can 
+
+facilitate the transfer process. 
+
+The genuinely innovative aspect of the technology combines a number of 
+
+different core elements that support the transfer process and recordkeeping:    
+
+o Peer-to-peer networking and distributed data storage provide multiple copies 
+
+of a single ledger across participants in the system so that all participants have 
+
+a shared history of all transactions in the system. 
+

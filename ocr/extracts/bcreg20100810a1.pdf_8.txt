@@ -1,0 +1,52 @@
+
+
+ 8
+
+a.  Credit-worthiness Standards 
+
+ Section 939A of the Act requires the agencies to establish, to the extent feasible, 
+uniform standards of credit-worthiness to replace references to, or requirements of 
+reliance on, credit ratings for purposes of the agencies’ regulations.  The agencies are 
+therefore considering alternative credit-worthiness standards, including those currently in 
+use in the agencies’ regulations, supervisory guidance, and market practices.  The 
+agencies recognize that any measure of credit-worthiness will involve a tradeoff among 
+the principles listed below.  For example, a more refined differentiation of risk might be 
+achievable only at the expense of greater implementation burden.  In evaluating any 
+standard of credit-worthiness for purposes of determining risk-based capital 
+requirements, the agencies will, to the extent practicable and consistent with the other 
+objectives, consider whether the standard would:   
+
+ Appropriately distinguish the credit risk associated with a particular exposure 
+within an asset class; 
+
+ Be sufficiently transparent, replicable, and defined to allow banking organizations 
+of varying size and complexity to arrive at the same assessment of credit-
+worthiness for similar exposures and to allow for appropriate supervisory review; 
+
+ Provide for the timely and accurate measurement of negative and positive changes 
+in credit-worthiness;  
+
+ Minimize opportunities for regulatory capital arbitrage; 
+
+ Be reasonably simple to implement and not add undue burden on banking 
+organizations; and 
+
+ Foster prudent risk management. 
+
+ Question 1: The agencies seek comment on the principles that should guide the 
+formulation of credit-worthiness standards.  Do the principles provided above capture the 
+appropriate elements of sound credit-worthiness standards?  How could the principles be 
+strengthened? 
+
+b.  Possible alternatives to credit ratings in the risk-based capital standards 
+
+ The agencies’ existing risk-based capital standards include a range of approaches 
+to differentiating credit risk.  At one end of the spectrum, the agencies’ general risk-based 
+capital rules provide a relatively simple approach to measuring and differentiating risk 
+based on the use of broad risk buckets.  This approach requires all corporate exposures, 
+for example, to receive the same risk weight, regardless of the variation in risks that exist 
+across corporate exposures. At the other end of the spectrum, the agencies’ advanced 
+approaches rules require a banking organization to make its own assessment of the credit 
+risk of a corporate exposure, subject to a number of agency-prescribed standards.  This 
+assessment is then used as an input into a supervisory formula to calculate minimum risk-
+

@@ -1,0 +1,51 @@
+
+ - 7 - 
+
+But the rising amount of debt by itself does not tell us whether this debt is 
+
+excessive and how vulnerable EME corporates are to global monetary and market shocks.  
+
+For that assessment we need to drill down deeper into the health of the corporate sector.  
+
+In a recent study, Beltran and coauthors undertake such an analysis using a common 
+
+metric of debt service capacity--the interest coverage ratio, or ICR, which is the ratio of 
+
+earnings to interest expense.8  All else being equal, this ratio is lower for firms that are 
+
+less profitable, more leveraged, and have a higher cost of borrowing.  Using firm-level 
+
+data, the authors classify the debt of those firms with an ICR of less than 2 as “debt-at-
+
+risk.”9  They find, as shown by the black line in slide 8, that this measure of risky EME 
+
+corporate debt has almost tripled since 2011 to about 30 percent of GDP.  But this share 
+
+is still considerably lower than the 46 percent of GDP debt-at-risk in East Asia on the eve 
+
+of the Asian crisis (the horizontal dashed black line in the chart).  For China, though, the 
+
+debt-at-risk now exceeds what we saw in East Asia before the Asian crisis.  Outside of 
+
+China (the dashed blue line), EME debt-at-risk, at about 10 percent of GDP, seems much 
+
+more manageable.  However, as can be seen by the blue portions of the bars in slide 9, 
+
+debt-at-risk in a number of EMEs, including South Korea, India, Turkey, and Brazil 
+
+exceeds that average level.   
+
+How will EME corporate debt fare going forward as global normalization 
+
+proceeds?  The results of the study I just discussed imply that a 1 percentage point 
+
+increase in EME corporate borrowing costs by itself would not be so problematic, at least 
+
+                                                 
+8 See Beltran, Garud, and Rosenblum (2017).  Other studies that have recently investigated EME corporate 
+vulnerabilities include Alfaro, Chari and Panizza (2017); International Monetary Fund (2014, 2016a); and 
+Chow (2015).   
+9 An ICR of 2 or less is often associated with increased likelihood of distress.  For example, just before the 
+Asian financial crisis, firms in Indonesia, South Korea, and Thailand had an average ICR of 2 (see 
+Pomerleano, 1998).   
+

@@ -1,0 +1,49 @@
+
+ - 9 - 
+
+about whether to clear with a particular CCP or how to judge their exposures to it.  All 
+
+major stakeholders--clearing members, clients, regulators, and the broader market--
+
+should be aware of the risks involved so that they can take appropriate steps to mitigate 
+
+them. 
+
+Stress testing   
+
+The disclosure of CCP stress-test results to clearing members is important so that 
+
+clearing members can have a full understanding of a CCP’s risk profile.  This disclosure, 
+
+however, would be of little help if the stress tests themselves were insufficiently 
+
+comprehensive and robust.  For example, consider a case in which a bank belongs to two 
+
+CCPs that clear similar products but the disclosed stress tests for the CCPs are based on 
+
+materially different scenarios.  This state of affairs could easily result in more confusion 
+
+than clarity.   
+
+It is time for domestic and international regulators to consider steps to strengthen 
+
+credit and liquidity stress testing conducted by CCPs.  Currently, most major CCPs 
+
+engage in some form of stress testing.  However, both clearing members and regulators 
+
+need a more systematic view of what stress tests are performed, at what frequency, with 
+
+what assumptions, and with what results.  Aside from these issues involving individual 
+
+stress tests, there are also important questions about the comparability of stress scenarios, 
+
+assumptions, and results across similar and different types of CCPs.  A related issue is 
+
+whether regulators should consider some sort of standardized approach to supervisory 
+
+stress testing.  Not all CCPs are alike.  But there may be approaches that could bring 
+
+some of the benefits of standardization while allowing tailoring of some scenarios to the 
+
+activities of particular CCPs or groups of CCPs.  Clearly, a greater degree of uniformity 
+

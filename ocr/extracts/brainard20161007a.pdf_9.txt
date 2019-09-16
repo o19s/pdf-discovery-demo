@@ -1,0 +1,48 @@
+
+ - 8 - 
+
+
+While prevention will remain the preferred approach, realistically, resiliency and 
+
+recovery will also need to be high-priorities.  Indeed, many firms have suggested that the 
+
+distributed data storage concept has the potential to increase the level of resiliency and 
+
+data integrity.  The basic idea is it should be harder to corrupt multiple copies of the same 
+
+data simultaneously such that digital ledgers could reduce the vulnerability associated 
+
+with a single point of failure.  We must press firms and experts to identify the strengths 
+
+and vulnerabilities of this concept, even as we all look for ways to make databases more 
+
+secure and resilient.  In an interesting development, some financial institutions have also 
+
+begun to consider using distributed ledgers to back up critical databases and enable quick 
+
+recovery from potentially virulent cyberattacks.  We will be interested in whether such 
+
+techniques can make new contributions to cybersecurity.   
+
+ Overall, the public needs to have confidence that any system employing 
+
+distributed ledgers will operate properly, particularly in stressed conditions, and know 
+
+that when adverse scenarios do occur, there will be robust management and governance 
+
+to respond effectively.  Recent events, such as thefts from accounts on distributed ledger 
+
+platforms, highlight the challenge that distributed ledgers may have when adverse 
+
+scenarios occur and there is uncertainty around what an appropriate response would be.  
+
+Such uncertainty around management and governance can raise doubts about the integrity 
+
+of a system employing distributed ledgers. 
+
+Traditionally, financial regulators in the United States have been given licensing 
+
+authority as a key way of ensuring that responsibility for managing risks is transparently 
+
+assigned with appropriate oversight.  The development of new business models 
+

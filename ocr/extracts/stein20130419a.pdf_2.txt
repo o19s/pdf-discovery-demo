@@ -1,0 +1,51 @@
+
+
+I’d like to talk today about one important element of the international regulatory 
+
+reform agenda--namely, liquidity regulation.1  Liquidity regulation is a relatively new, 
+
+post-crisis addition to the financial stability toolkit.  Key elements include the Liquidity 
+
+Coverage Ratio (LCR), which was recently finalized by the Basel Committee on Banking 
+
+Supervision, and the Net Stable Funding Ratio, which is still a work in progress.  In what 
+
+follows, I will focus on the LCR. 
+
+The stated goal of the LCR is straightforward, even if some aspects of its design 
+
+are less so.  In the words of the Basel Committee, “The objective of the LCR is to 
+
+promote the short-term resilience of the liquidity risk profile of banks.  It does this by 
+
+ensuring that banks have an adequate stock of unencumbered high-quality liquid assets 
+
+(HQLA) that can be converted easily and immediately in private markets into cash to 
+
+meet their liquidity needs for a 30 calendar day liquidity stress scenario.”2  In other 
+
+words, each bank is required to model its total outflows over 30 days in a liquidity stress 
+
+event and then to hold HQLA sufficient to accommodate those outflows.  This 
+
+requirement is implemented with a ratio test, where modeled outflows go in the 
+
+denominator and the stock of HQLA goes in the numerator; when the ratio equals or 
+
+exceeds 100 percent, the requirement is satisfied. 
+
+The Basel Committee issued the first version of the LCR in December 2010.  In 
+
+January of this year, the committee issued a revised final version of the LCR, following 
+
+an endorsement by its governing body, the Group of Governors and Heads of Supervision 
+
+                                                 
+1 The views that follow are my own and are not necessarily shared by my colleagues on the Federal 
+Reserve Board.  I am grateful to members of the Board staff--Sean Campbell, Mark Carlson, Burcu 
+Duygan-Bump, Michael Gibson, William Nelson, and Mark Van Der Weide--for many helpful 
+conversations and suggestions. 
+2 See Basel Committee on Banking Supervision (2013), Basel III:  The Liquidity Coverage Ratio and 
+Liquidity Risk Monitoring Tools (Basel:  Bank for International Settlements, January), p. 1, 
+www.bis.org/publ/bcbs238.pdf. 
+

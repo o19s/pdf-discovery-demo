@@ -1,0 +1,52 @@
+
+- 2 - 
+ 
+
+ 
+
+the collapse of the subprime housing market, participants’ lack of information about the 
+
+collateral they held led to a shattering of confidence in all the collateral. 
+
+In the absence of the regulation and government backstop that have applied to the 
+
+traditional banking system since the Depression, a run on assets in the entire repo market ensued.  
+
+The resulting forced sale of assets into an illiquid market turned many illiquid institutions into 
+
+insolvent ones.  The fallout has been such that, to this day, the amount of repo funding available 
+
+for non-agency, mortgage-backed securities, commercial mortgage-backed securities, high-yield 
+
+corporate bonds, and other instruments backed by assets with any degree of risk remains 
+
+substantially below its pre-Lehman levels. 
+
+The second Gorton insight on which this paper builds is the importance of statutory 
+
+franchise value for the business model viability of at least some kinds of regulated financial 
+
+entities.  Where competition from unregulated entities is permitted, explicitly or de facto, capital 
+
+and other requirements imposed on regulated firms may shrink margins enough to make them 
+
+unattractive to investors.  The result, as we have seen in the past, will be some combination of 
+
+regulatory arbitrage, assumption of higher risk in permitted activities, and exit from the industry.  
+
+Each of these outcomes at least potentially undermines the original motivation for the regulation. 
+
+The G-M paper provides a concrete, though in some respects not fully elaborated, 
+
+proposal to remedy the information problem in the repo market through creation of statutory 
+
+franchise value for what G-M calls Narrow Funding Banks (NFBs).  These banks would be 
+
+“narrow” in that their only assets would be asset-backed securities (ABS) and very high quality 
+
+instruments such as Treasuries.  They would, it appears, make their money from the income 
+
+streams associated with the ABS.  They would raise the funds to purchase ABS through debt 
+
+issuance and, most significantly for the proposal, the repo market, in which the collateral offered 
+

@@ -1,0 +1,53 @@
+
+-5- 
+ 
+
+
+supervised institutions and toward less regulated and more opaque spaces in the financial 
+
+system.11 
+
+Our existing regulatory and supervisory guardrails are a good place to start as we assess 
+
+the appropriate approach for AI processes.  The National Science and Technology Council, in an 
+
+extensive study addressing regulatory activity generally, concludes that if an AI-related risk 
+
+“falls within the bounds of an existing regulatory regime, . . . the policy discussion should start 
+
+by considering whether the existing regulations already adequately address the risk, or whether 
+
+they need to be adapted to the addition of AI.”12  A recent report by the U.S. Department of the 
+
+Treasury reaches a similar conclusion with regard to financial services.13 
+
+With respect to banking services, a few generally applicable laws, regulations, guidance, 
+
+and supervisory approaches appear particularly relevant to the use of AI tools.  First, the Federal 
+
+Reserve’s “Guidance on Model Risk Management” (SR Letter 11-7) highlights the importance to 
+
+safety and soundness of embedding critical analysis throughout the development, 
+
+implementation, and use of models, which include complex algorithms like AI.14  It also 
+
+underscores “effective challenge” of models by a “second set of eyes”--unbiased, qualified 
+
+individuals separated from the model’s development, implementation, and use.  It describes 
+
+supervisory expectations for sound independent review of a firm’s own models to confirm they 
+
+are fit for purpose and functioning as intended.  If the reviewers are unable to evaluate a model 
+
+in full or if they identify issues, they might recommend the model be used with greater caution or 
+
+                                                 
+11 Lael Brainard, “Where Do Banks Fit in the Fintech Stack?” (speech at the Northwestern Kellogg Public-Private 
+Interface Conference, April 28, 2017), https://www.federalreserve.gov/newsevents/speech/brainard20170428a.htm. 
+12 Executive Office of the President, Preparing for the Future of Artificial Intelligence. 
+13 U.S. Department of the Treasury, A Financial System That Creates Economic Opportunities. 
+14 Board of Governors of the Federal Reserve System, “Guidance on Model Risk Management,” Supervision and 
+Regulation Letter SR Letter 11-7 (April 4, 2011), 
+https://www.federalreserve.gov/supervisionreg/srletters/sr1107.htm. See also Andrew Burt, “Leave A.I. Alone,” 
+New York Times, January 4, 2018, https://www.nytimes.com/2018/01/04/opinion/leave-artificial-intelligence.html.  
+

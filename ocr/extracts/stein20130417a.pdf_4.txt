@@ -1,0 +1,70 @@
+
+- 3 - 
+
+
+uplift seems to have shrunk to some degree since the passage of Dodd-Frank, it is still 
+
+significant.
+3
+  All else equal, this uplift confers a funding subsidy to the largest financial firms. 
+
+ Moreover, as I noted earlier, even if bailouts were commonly understood to be a zero-
+
+probability event, the problem of spillovers remains.  It is one thing to believe that a SIFI will be 
+
+allowed to fail without government support; it is another to believe that such failure will not 
+
+inflict significant damage on other parts of the financial system.  In the presence of such 
+
+externalities, financial firms may still have excessive private incentives to remain big, 
+
+complicated, and interconnected, because they reap any benefits--for example, in terms of 
+
+economies of scale and scope--but don’t bear all the social costs.   
+
+ How can we do better?  Some have argued that the current policy path is not working, 
+
+and that we need to take a fundamentally different approach.
+4
+  Such an alternative approach 
+
+might include, for example, outright caps on the size of individual banks, or a return to Glass-
+
+Steagall-type activity limits. 
+
+ My own view is somewhat different.  While I agree that we have a long way to go, I 
+
+believe that the way to get there is not by abandoning the current reform agenda, but rather by 
+
+sticking to its broad contours and ratcheting up its forcefulness on a number of dimensions.  In 
+
+this spirit, two ideas merit consideration:  (1) an increase in the slope of the capital-surcharge 
+
+schedule that is applied to large complex firms, and (2) the imposition at the holding company 
+
+                                                 
+3
+ For example, in June of 2012, Moody’s described its ratings process for Bank of America, Citigroup, and JP 
+
+Morgan Chase as follows: “[Their] ratings benefit from three notches of uplift from the standalone credit assessment 
+
+at the bank level, and from two notches of uplift at the holding company, reflecting Moody’s assumptions about a 
+
+very high likelihood of support from the US government for bondholders or other creditors in the event such support 
+
+was required to prevent a default… . The negative outlook on the parent holding company reflects Moody’s view 
+
+that government support for U.S. bank holding company creditors is becoming less certain and less predictable, 
+
+given the evolving attitude of U.S. authorities to the resolution of large financial institutions, whereas support for 
+
+creditors of operating entities remains sufficiently likely and predictable to warrant stable outlooks.”  
+4
+ See Fisher (2013), who said: “…we recommend that the largest financial holding companies be restructured so that 
+
+every one of their corporate entities is subject to a speedy bankruptcy process, and in the case of the banking entities 
+
+themselves, that they be of a size that is ‘too small to save’.  Addressing institutional size is vital to maintaining a 
+
+credible threat of failure, thereby providing a convincing case that policy has truly changed.”  
+

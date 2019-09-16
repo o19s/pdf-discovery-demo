@@ -1,0 +1,95 @@
+
+Chart 9
+
+Differentiation Across EMEs
+
+  -20
+
+  -15
+
+  -10
+
+  -5
+
+  0
+
+  5
+
+-8 -6 -4 -2 0 2 4 6 8 10 12
+
+Exchange Rate Appreciation versus Current Account Balance*
+Percent appreciation (end-April to end-August)
+
+Current account balance as a percent of GDP (2013)
+
+  BZ
+
+  CH
+
+  CL
+
+  CO
+
+ ID
+
+  IN
+
+  KO
+
+  MA
+
+MX
+
+PH
+
+  TA
+
+  TH
+
+  TK
+
+* Exchange rate appreciation against U.S. dollar; bond yields are 9- or 10-year local currency bond yields; 2013 current account balance is IMF World Economic Outlook projection.
+Source: Bloomberg, Haver, and IMF World Economic Outlook.
+
+  -1
+
+  0
+
+  1
+
+  2
+
+  3
+
+  4
+
+-8 -6 -4 -2 0 2 4 6 8 10 12
+
+Bond Yield Increases versus Current Account Balance*
+Percentage point increase (end-April to end-August)
+
+Current account balance as a percent of GDP (2013)
+
+  BZ
+
+CH, PH
+
+ CL
+
+  CO
+
+ ID
+
+ IN
+  KO
+
+MA
+
+ MX
+
+ TA
+
+ TH
+
+ TK
+

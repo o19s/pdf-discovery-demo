@@ -1,0 +1,53 @@
+
+- 17 - 
+ 
+
+in Slide 9.  The figure is drawn from a recent study of 20 industrial countries by the 
+
+International Monetary Fund (IMF) (Fatás and others, 2009) and replicated by Board 
+
+staff.  The vertical axis of the figure shows the change in real (inflation-adjusted) house 
+
+prices in each country from the fourth quarter of 2001 until the third quarter of 2006, a 
+
+period that spans the sharpest period of price appreciation in most countries.  Countries 
+
+represented by diamonds that are further “north” in Slide 9 had relatively greater house 
+
+price appreciation over this period.  You can see from the figure that house price 
+
+appreciation in the United States, though of course large in absolute terms, was actually 
+
+less than that in the majority of countries in the sample. 
+
+The horizontal axis of the figure, following the IMF study, shows the degree of 
+
+monetary policy ease or tightness in each country, measured by the average deviation of 
+
+policy in each country from the prescriptions of a standard version of the Taylor rule over 
+
+the corresponding period.  Countries shown further to the left in the figure had more 
+
+accommodative monetary policies over the period, relative to the predictions of the 
+
+Taylor rule.  The United States is shown as having a relatively accommodative policy, as 
+
+you can see; however, that conclusion is driven in part by the use of current rather than 
+
+forecast inflation in the Taylor rule, the point I discussed earlier.  Interestingly, 
+
+essentially all of these countries had monetary policies easier than that prescribed by the 
+
+Taylor rule, as shown by the fact that every country is situated on or to the left of the 
+
+vertical axis in the figure.17 
+
+                                                       
+17 Note that the figure ascribes different degrees of monetary ease to different countries within the euro 
+area; although these countries share the common monetary policy of the European Central Bank, 
+differences across countries in inflation and output gaps imply that the degree of policy accommodation 
+relative to economic conditions in each country can differ.  In particular, holding constant the interest rate 
+set by the European Central Bank, the Taylor rule will tend to impute easier monetary policies to countries 
+with strong economies.  Of course, all else equal, a strong economy, even if its strength is unrelated to 
+monetary policy, should experience more robust house prices.  Consequently, the relationship shown in 
+

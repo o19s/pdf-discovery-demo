@@ -1,0 +1,51 @@
+
+ - 11 - 
+
+The fourth and final vulnerability arises when asset values rise far above 
+
+conventional, historically observed valuation benchmarks--a phenomenon popularly 
+
+referred to as a “bubble.”  The contentious term “bubble” does not appear in our work, 
+
+however.11  Instead, we focus is on the extent to which an asset’s price is high or low 
+
+relative to conventional benchmarks based on expected payoffs and current economic 
+
+conditions.  Historically, when asset prices soar far above standard benchmarks, sharp 
+
+declines follow with some regularity, and those declines may bring economic misery 
+
+reaching far beyond investors directly involved in the speculative boom.  We therefore 
+
+pay close attention when valuations get to the extreme ends of what we have seen in 
+
+history.   
+
+Looking across the landscape of major asset classes, we see some classes for 
+
+which valuations seem high relative to history.  For example, even after standard 
+
+adjustments for economic conditions, valuations on riskier forms of corporate debt and 
+
+commercial properties are in the upper ends of their post-crisis distributions, although 
+
+they are short of the levels they hit in the pre-crisis credit boom.  We see no major asset 
+
+class, however, where valuations appear far in excess of standard benchmarks as some 
+
+did, for example, in the late 1990s dot-com boom or the pre-crisis credit boom. 
+
+The asset class that gets the most attention day-to-day is, of course, the stock 
+
+market. Today, equity market prices are broadly consistent with historical benchmarks 
+
+such as forward price-to-earnings ratios (see figure 8).  It is important to distinguish 
+
+between market volatility and events that threaten financial stability.  Large, sustained 
+
+                                                 
+11 Analysts differ over how to define the term “bubble,” and debate continues about the degree to which 
+economic fundamentals might explain even the most famous apparent bubble cases from history.  On the 
+topic of tulip mania, for example, see Peter M. Garber (1989), “Tulipmania,” Journal of Political Economy, 
+vol. 97 (June), pp. 535-60.” 
+

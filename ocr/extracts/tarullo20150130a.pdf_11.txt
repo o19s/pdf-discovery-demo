@@ -1,0 +1,48 @@
+
+funding.  Indeed, even the FSB proposal does not extend to SFTs backed by government 
+
+collateral, a very important source of short-term wholesale funds. 
+
+Asset management activities have commanded considerable attention lately, both 
+
+internationally at the FSB and domestically at the Financial Stability Oversight Council (FSOC).  
+
+The asset management industry has grown rapidly since the financial crisis, both in terms of the 
+
+dollar amount of assets under management and in the concentration of assets managed by the 
+
+largest firms.  These trends may well continue as stricter prudential regulation makes investment 
+
+in certain forms of assets more costly for banks.  To the extent that asset management vehicles 
+
+hold relatively less liquid assets but provide investors the right to redeem their interests on short 
+
+notice, there is a risk that in periods of stress, investor redemptions could exhaust available 
+
+liquidity.  Under some circumstances, a fund might respond by rapidly selling assets, with 
+
+resulting contagion effects on other holders of similar assets and, to the degree they had not 
+
+already been subject to redemption pressures, other asset management vehicles holding those 
+
+assets.  The use of leverage by investment funds, including through derivatives transactions, 
+
+could create interconnectedness risks between funds and key market intermediaries and amplify 
+
+the risk of such firesales. 
+
+ Considerable work is needed, first, to develop better data on assets under management, 
+
+liquidity, and leverage, in order to fill the information gaps that have concerned so many 
+
+academics and policy analysts.  Then there is more work to be done in assessing the magnitude 
+
+of liquidity and redemption risks, including the degree to which those risks vary with the type of 
+
+assets and fund structure.  And finally, we will need tools that will be efficient and effective 
+
+responses to the risks identified. 
+
+11 
+ 
+

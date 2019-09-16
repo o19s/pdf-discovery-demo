@@ -1,0 +1,52 @@
+
+ - 3 - 
+
+ This is clearly a fire sale in the positive-economics sense, but is there a market 
+
+failure here that calls for regulation?  Intuition suggests not. The airline arguably caused 
+
+the fire sale by using a lot of leverage in its purchase of the 737, but it also seems to bear 
+
+most of the cost, by being forced to liquidate at a large loss.  The movie star and the 
+
+private-equity firm are, if anything, made better off by the appearance of a buying 
+
+opportunity, and there are no other innocent bystanders. So the airline’s ex ante capital 
+
+structure choice would seem to internalize things properly; the fire sale here is just like 
+
+any other bankruptcy cost that a firm has to weigh in choosing the right mix of debt and 
+
+equity. 
+
+ For a fire sale to have the sort of welfare effects that create a role for regulation, 
+
+the reduced price in the fire sale has to hurt somebody other than the original party 
+
+making the leverage decision, and this adverse impact of price has to run through 
+
+something like a collateral constraint, whereby a lowered price actually reduces, rather 
+
+than increases, the third party’s demand for the asset.4  So if hedge fund A buys an asset-
+
+backed security and finances it largely with collateralized borrowing, A’s fire selling of 
+
+the security will create an externality in the conventional sense only if the reduced price 
+
+and impaired collateral value lower the ability of hedge funds B and C to borrow against 
+
+the same security, and therefore force them to involuntarily liquidate their positions in it 
+
+as well.5 The market failure in this case is not simply the fact that this downward spiral 
+
+                                                 
+4 An alternative mechanism that works similarly is when the third party is a regulated intermediary and 
+mark-to-market losses reduce its capital ratios, and again force it to involuntarily sell assets in the face of 
+falling prices. 
+  
+5 The fundamental welfare economics at work here is developed in John Geanakoplos and Heracles M. 
+Polemarchakis (1986), “Existence, Regularity, and Constrained Suboptimality of Competitive Allocations 
+When the Asset Market Is Incomplete,” in Walter P. Heller, Ross M. Starr, and David A. Starrett, eds., 
+Essays in Honor of Kenneth Arrow: Vol 3., Uncertainty, Information, and Communication (New York: 
+Cambridge University Press), pp. 65–95.  A discussion of the connection of this work to specific aspects of 
+

@@ -1,0 +1,31 @@
+
+Evaluating the Tightness or Ease 
+f liof Monetary Policy
+
+General form of the Taylor rule:y
+
+* *2 ( ) ( )t t t t ti a b y y       
+where
+
+• it is the prescribed value of the policy interest rate in a 
+i i d tgiven period t;
+
+• is the deviation of the actual inflation rate t
+from its target      in period t;
+
+*
+t  *g p ;
+
+• , the “output gap,” is the deviation of actual real 
+output yt from potential output      in period t; and
+
+
+*
+
+t ty y
+*
+ty
+
+• a and b are positive numbers.
+2
+

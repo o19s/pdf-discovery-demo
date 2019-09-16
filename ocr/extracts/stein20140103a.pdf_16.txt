@@ -1,0 +1,65 @@
+
+
+
+- 15 - 
+
+appears as a huge outlier, since the contractual maturity of banks’ liabilities is extremely 
+
+short--indeed, shorter than that of broker-dealers--even while they hold highly illiquid 
+
+assets.  This observation underscores a key point:  If one wants to understand the 
+
+divergent asset-side behavior of banks and shadow banks, one has to look not to the 
+
+literal contractual maturity of their liabilities, but rather to the differing incentives that 
+
+their overall financial and institutional arrangements create for short-term claims to be 
+
+stable in the face of bad news.  
+
+Other Implications 
+
+Our framework may also be helpful in understanding a couple of other aspects of 
+
+the business of banking.  The first is banks’ accounting treatment of their “available for 
+
+sale” securities, according to which ongoing mark-to-market gains and losses don’t 
+
+appear in net income.
+13
+
+  This treatment implicitly presumes that these gains and losses are 
+
+temporary and that banks can ride them out by not having to sell the security in question 
+
+before it matures.  While I would not want to go so far as to claim that our model justifies 
+
+this accounting practice, it at least provides a starting point for thinking about it.
+14
+
+  By 
+
+contrast, the practice would be incomprehensible in a world in which changes in asset 
+
+prices reflected changes in expected future cash flows. 
+
+ Second, our approach may help shed some light on the bricks-and-mortar costs 
+
+associated with bank deposit-taking.  As I mentioned earlier, we estimate these costs to 
+
+be quite high, averaging on the order of 1.30 percent of deposits over the period from 
+
+                                                 
+13
+
+ These “temporary impairments” flow through another liability account called “accumulated other 
+
+comprehensive income” and affect earnings under generally accepted accounting principles only if the 
+
+gains or losses are realized by selling a security. 
+14
+
+ See Cochrane (2011) for a similar argument. 
+
+
+

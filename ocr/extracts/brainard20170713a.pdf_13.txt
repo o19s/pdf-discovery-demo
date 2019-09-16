@@ -1,0 +1,50 @@
+
+ - 12 - 
+
+Appendix:  Description of Stylized Model and Simulation Results 
+ 
+ 
+
+A.  Model Description 
+
+The model is a stylized open economy model that includes two symmetric 
+
+countries linked through trade flows.  The model is specified in real terms under the 
+
+implicit assumption that inflation is constant (so that real and nominal variables move by 
+
+the same amount).  Moreover, the model abstracts from any financial linkages between 
+
+the two economies, including the possibility that monetary policy actions in one country 
+
+could directly affect yields in the other (e.g., through portfolio balance channels), though 
+
+such effects are clearly important empirically.    
+
+The two countries include a “Home” (H) county and a “Foreign” (F) country of 
+
+equal size.  Variables in the foreign country are denoted with an asterisk.  In each 
+
+country, the national accounting identity specifies that output, y, is equal to the sum of 
+
+absorption d and net exports nx, that is: 
+
+,
+,
+
+nxdy
+nxdy
+−=
+
++=
+∗∗
+
+
+where the second equation incorporates the global resource constraint that nx + nx* = 0.  
+
+Here output (y) and absorption (d) are expressed in percent deviation from their 
+
+respective steady states, while net exports are expressed as share of output, and are equal 
+
+to zero in the steady state (that is, prior to any shocks).  
+

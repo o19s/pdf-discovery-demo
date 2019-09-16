@@ -1,0 +1,50 @@
+
+1984 1986 1988 1990 1992 1994 1996 1998 2000 2002 2004 2006 2008 2010 2012
+ 0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+Percent Percent of issuance
+
+Excess return,   + 2 (left scale)
+High-yield share (right scale)
+
+High-Yield Share of Corporate Bond Issuance and Excess Returns
+
+t
+
+ 60
+
+ 40
+
+ 20
+
+0
+
+-20
+
+-40
+
+-60
+
+-80
+
+   Note: High-yield (HY) share is the ratio of speculative-grade issuance to total rated corporate bond issuance. Excess returns are calculated as the difference between the log return on the Barclays US HY Index and the
+Barclays US Treasury Intermediate Index. Excess returns are calculated between   and   + 2 and shown alongside the HY share at time   on an inverted scale, so that the negative correlation appears positive.
+   Source: Bloomberg for excess returns. Staff calculations from Mergent Fixed Income Securities Database, Thomson Financial, and Depository Trust & Clearing Corporation for HY share.
+
+t t t
+
+Exhibit 1
+

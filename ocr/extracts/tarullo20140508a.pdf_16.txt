@@ -1,0 +1,57 @@
+
+- 15 - 
+ 
+
+
+  For all these reasons, I believe we should consider discarding the IRB approach to risk-
+
+weighted capital requirements.  With the Collins Amendment
+9
+ providing a standardized, 
+
+statutory floor for risk-based capital; the enhanced supplementary leverage ratio providing a 
+
+stronger back-up capital measure; and the stress tests providing a better risk-sensitive measure 
+
+that incorporates a macroprudential dimension, the IRB approach has little useful role to play.  
+
+We would continue to expect that firms practice sound quantitative risk management using 
+
+internal models and other techniques.  Indeed, the qualitative assessment included in our annual 
+
+Comprehensive Capital Analysis and Review (CCAR) exercise is designed to ensure that the 
+
+firms have this capacity.  But, in light of all that has happened in the last decade, I see little 
+
+reason to maintain the requirements of the IRB approach for our largest banks. 
+
+Of course, the IRB approach was agreed internationally as part of the Basel II framework 
+
+concluded in 2004.  It would be best if all the Basel Committee countries moved together to 
+
+adopt standardized risk-weighted and supervisory stress testing requirements for all 
+
+internationally active banks.  This would be a somewhat complicated shift for a number of 
+
+reasons, including the likely appropriateness of applying different adverse scenarios for different 
+
+parts of the world and the challenges in conducting a peer review at the Basel Committee of 
+
+supervisory stress tests by member countries.  Yet, as documented by the Basel Committee’s 
+
+work on divergence in risk weightings by banks applying IRB methods, Basel II created its own 
+
+problems of consistency and transparency.  There is no reason to believe that the task of creating 
+
+an oversight and review framework for supervisory stress testing would be any more difficult. 
+
+
+
+                                                           
+9
+ Section 171 of Dodd-Frank, popularly known as the Collins Amendment, requires that the federal banking 
+
+agencies establish minimum consolidated capital requirements for all banking organizations that are not less than 
+
+“generally applicable” risk-based capital requirements.   
+

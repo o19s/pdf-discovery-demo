@@ -1,0 +1,49 @@
+
+ - 8 - 
+
+resulted from a failure to act.  We should always be mindful of moral hazard incentives 
+
+and seek to contain them, but well-designed regulation might reduce rather than increase 
+
+moral hazard.  In the banking sector, bank regulators have focused on improving 
+
+resolution planning at banks and enhancing the ability of the FDIC to manage the 
+
+resolution of a systemically important firm in a way that mitigates spillovers to the 
+
+economy.  For example, proposals are now under consideration to require the largest and 
+
+most interconnected banks to maintain a buffer of debt that could be converted to equity 
+
+or that could otherwise absorb losses upon failure.  Such proposals could be viewed as a 
+
+form of solvency regulation and this form of loss-absorbing capital might be appropriate 
+
+for some of the largest and most interconnected nonbanks as well.   
+
+In addition, nonbank intermediation often involves complex chains of activity 
+
+encompassing many entities and markets.  Such chains tend to increase the web of 
+
+interconnections in the financial system that, in some circumstances, can increase the 
+
+likelihood or severity of systemic stress.  For example, movements in collateral values 
+
+can trigger margin calls and fire sales of assets, and thus activities that depend on market-
+
+valued collateral can be vulnerable.  The Financial Stability Board is currently 
+
+considering reforms for margins on securities financing transactions.  Other 
+
+interconnections involve exposures to counterparty default.  The new regulatory regime 
+
+for derivatives, which I will discuss in a moment, seeks to mitigate counterparty risk. 
+
+It is often said that stronger regulation of the banking sector will cause activity to 
+
+move outside the perimeter of regulation.  This evolution also could lead to greater 
+
+complexity, such as longer chains of interconnections, which makes it more difficult for 
+
+market participants to understand the risks arising from their exposures.  Examples of 
+

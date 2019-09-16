@@ -1,0 +1,51 @@
+
+ - 5 - 
+
+term interest rates, this lack of empirical consensus may simply reflect the difficulty of 
+
+disentangling changes in short-term and longer-term interest rates, which are highly 
+
+correlated.5 
+
+Indeed, the greater sensitivity of exchange rates to expected short-term interest 
+
+rates than to term premiums was a key rationale behind the Operation Twist strategy in 
+
+the early 1960s.6  Under Operation Twist, the Federal Reserve and the Treasury made 
+
+large-scale purchases of longer-term Treasury securities to drive down yields and 
+
+stimulate the economy, which was suffering from an unemployment rate of nearly 7 
+
+percent.  This policy was combined with a modest increase in short-term interest rates 
+
+intended to alleviate the capital outflow pressures that threatened the sustainability of the 
+
+Bretton Woods global monetary system.  Ultimately, this policy mix did succeed in 
+
+reducing long-term interest rates, and also contributed to a reduction in private capital 
+
+outflows that relieved pressure on U.S. international reserves, at least for a time.   
+
+Let’s turn to a simulation of a highly stylized model to explore how a greater 
+
+sensitivity of the exchange rate to conventional policy relative to balance sheet actions 
+
+can make a difference in terms of cross-border transmission.  In particular, let’s assume a 
+
+100-basis-point rise in long-term yields coming from the conventional channel of higher 
+
+policy rates has double the effect on the exchange rate as a 100 basis point rise in yields 
+
+coming from higher term premiums.7  If a large country, which is already at potential, 
+
+experiences a favorable domestic demand shock, it would need to tighten monetary 
+
+                                                 
+5 See Glick and Leduc (2015), Ferrari, Kearns, and Schrimpf (2016), and Swanson (2017); Swanson 
+attempts to identify separately the effects of forward guidance and asset purchases.  
+6 See Ross (1966), Modigliani and Sutch (1966), Stein (1965), and Alon and Swanson (2011).   
+7 This simulation is shown in figure 1 in the appendix.  The stylized model is composed of two identical 
+countries that are linked through trade flows.  The model is calibrated so that either type of policy action 
+keeps the home country’s GDP at baseline.          
+

@@ -1,0 +1,54 @@
+
+
+4 
+ 
+
+these today is the imposition of minimum capital requirements on all insured depository 
+
+institutions and bank holding companies. 
+
+ Second, there is a variety of ways in which the attributes of financial markets and 
+
+financial regulation affect the capital market discipline assumed in much corporate governance 
+
+theory and corporate law.  The prior point about the moral hazard associated with insured 
+
+deposits implies that--at least in traditional, deposit-reliant banks--the kind of market discipline 
+
+associated with the price of funding and creditor monitoring will be attenuated.  More generally, 
+
+to the degree uninsured depositors or other bank creditors expect that they will be protected by 
+
+the government in the event the bank encounters serious difficulties, those same features of 
+
+market discipline will again be weakened.  This, of course, is the problem of moral hazard 
+
+associated with too-big-to-fail perceptions, whereby investors or counterparties are willing to 
+
+extend credit at prices that do not fully reflect the risk associated with the bank.2 
+
+ The market discipline traditionally associated with the market for corporate control is 
+
+also affected by banking regulation and supervision.  Mergers and acquisitions involving 
+
+banking organizations are subject to review, and possible disapproval, on a broad range of 
+
+grounds beyond the antitrust considerations relevant in all industries.  These include an 
+
+assessment of the adequacy of the financial resources of the firms, the “competence, experience, 
+
+and integrity” of the officers and directors, and the impact of the acquisition on systemic risk.3  
+
+Moreover, of course, any firm that acquires a commercial bank must be a bank holding company, 
+
+thereby subject to a range of activity restrictions and other regulatory requirements.  There are 
+
+                                                 
+2 For an argument that shareholders who might otherwise press for breakups of financial conglomerates are 
+disincentivized from doing so for too-big-to-fail institutions, see Mark J. Roe (2014), “Structural Corporate 
+Degradation Due to Too-Big-to-Fail Finance,” University of Pennsylvania Law Review, vol. 162, pp. 1419-64 
+(forthcoming). 
+3 Bank Holding Company Act of 1956 §3, 12 U.S.C. §1842(c).  The Bank Merger Act requires consideration of a 
+roughly comparable set of factors.  Acquisitions are also subject to special scrutiny where an acquiring firm has less-
+than-satisfactory supervisory ratings. 
+

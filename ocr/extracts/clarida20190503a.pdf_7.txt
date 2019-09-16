@@ -1,0 +1,51 @@
+
+ - 6 - 
+
+that, as I assess the benefits and costs of alternative policy scenarios based on a set of 
+
+policy rules and economic projections, it is important to recognize up front that key 
+
+inputs to this assessment, including u* and r*, are unobservable and must be inferred 
+
+from data via models.10  I would now like to discuss how I incorporate such 
+
+considerations into thinking about how to choose among monetary policy alternatives. 
+
+A monetary policy strategy must find a way to combine incoming data and a 
+
+model of the economy with a healthy dose of judgment—and humility!—to formulate, 
+
+and then communicate, a path for the policy rate most consistent with the central bank’s 
+
+objectives.  There are two distinct ways in which I think that the path for the federal 
+
+funds rate should be data dependent.11  Monetary policy should be data dependent in the 
+
+sense that incoming data reveal at any point in time where the economy is relative to the 
+
+ultimate objectives of price stability and maximum employment.  This information on 
+
+where the economy is relative to the goals of monetary policy is an important input into 
+
+interest rate feedback rules—after all, they have to feed back on something.  Data 
+
+dependence in this sense is well understood, as it is of the type implied by a large family 
+
+of policy rules, including Taylor-type rules discussed earlier, in which the parameters of 
+
+the economy needed to formulate such rules are taken as known. 
+
+But, of course, key parameters needed to formulate such rules, including u* and 
+
+r*, are unknown.  As a result, in the real world, monetary policy should be—and in the 
+
+United States, I believe, is—data dependent in a second sense:  Policymakers should and 
+
+                                                 
+Governors (2018).  A note, titled “Policy Rules and How Policymakers Use Them,” on the Board’s website 
+covers similar ground and is available at https://www.federalreserve.gov/monetarypolicy/policy-rules-and-
+how-policymakers-use-them.htm. 
+10 As Friedman once put it, “I don’t know what the natural rate is, neither do you, and neither does anyone 
+else” (quoted in Bennett (1995)). 
+11 See Clarida (2018a, 2018b). 
+

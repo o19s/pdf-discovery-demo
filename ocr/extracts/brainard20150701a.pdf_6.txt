@@ -1,0 +1,51 @@
+
+ - 5 - 
+
+Of course, other developments may be affecting liquidity in financial markets.  
+
+For example, market participants have indicated that changes in participants’ risk-
+
+management practices may be contributing to reduced market liquidity.  In particular, the 
+
+experience of the financial crisis may have led many participants to reevaluate the risk of 
+
+their market-making activities and either reduce their exposure to that risk, become more 
+
+selective, or charge more for it, thereby reducing liquidity.4   
+
+It is also worth noting the increased role of asset managers on the buy side of the 
+
+fixed income markets.  During normal market conditions, the demand for liquidity from 
+
+this group of bond holders is likely relatively small, since asset managers acting on behalf 
+
+of retail investors generally buy bonds to hold them for some period.  Moreover, 
+
+managers of open-end funds hold liquidity buffers that enable them to respond smoothly 
+
+to normal redemption demands.  However, because the large increase in bond fund 
+
+holdings is relatively recent, little is known about how these funds will react to periods of 
+
+market stress or to abrupt changes in financial conditions and the adequacy of their 
+
+liquidity buffers for such situations.  Because funds potentially allow daily redemptions 
+
+even against illiquid assets, it is possible that redemptions could be magnified in stressed 
+
+conditions as individuals try to redeem early, which in turn could lead to liquidations of 
+
+relatively less liquid assets, thereby amplifying price volatility and reducing market 
+
+liquidity.   
+
+If in fact liquidity resilience has declined recently, it may be a transitional 
+
+development that will be corrected going forward as participants adjust their risk 
+
+                                                 
+4 Another potentially important change in markets has been the increased prevalence of dark pools or 
+proprietary trading sites housed inside broker-dealers, which provide no information to the public about the 
+volume or prices of trades.  It is possible this activity might be changing price discovery, although there is 
+debate over the net effect.   
+

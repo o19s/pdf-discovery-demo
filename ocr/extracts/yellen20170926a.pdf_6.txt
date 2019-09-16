@@ -1,0 +1,50 @@
+
+ - 5 - 
+
+of the latest inflation projections submitted by FOMC participants that I showed 
+
+previously.  The pertinent feature of this figure is the blue shaded region around the red 
+
+line, which shows a 70 percent confidence interval around FOMC participants’ median 
+
+outlook.  The width of this region reflects the average accuracy of inflation projections 
+
+made by private and government forecasters over the past 20 years.  As the figure shows, 
+
+based on that history, there is a 30 percent probability that inflation could be greater than 
+
+3 percent or less than 1 percent next year.6   
+
+Most of this uncertainty reflects the influence of unexpected movements in oil 
+
+prices and the foreign exchange value of the dollar, as well as that of idiosyncratic 
+
+developments unrelated to broader economic conditions.  These factors could easily push 
+
+overall inflation noticeably above or below 2 percent for a time.  But such disturbances 
+
+are not a great concern from a policy perspective because their effects fade away as long 
+
+as inflation expectations remain anchored.7  For this reason, the FOMC strives to look 
+
+through these transitory inflation effects when setting monetary policy.  Such was the 
+
+case when rising oil prices pushed headline inflation noticeably above 2 percent for 
+
+several years prior to the financial crisis.  Similarly, the Committee substantially 
+
+discounted the reductions in inflation that occurred from 2014 through 2016 as a result of 
+
+the decline in oil prices and the effects of the dollar’s appreciation on import prices. 
+
+A more important issue from a policy standpoint is that some key assumptions 
+
+underlying the baseline outlook could be wrong in ways that imply that inflation will 
+
+remain low for longer than currently projected.  For example, labor market conditions 
+
+                                                 
+6 See Reifschneider and Tulip (2017) for details on the calculation of these confidence intervals. 
+7 This statement abstracts from any persistent effects such disturbances might have on real activity, which 
+could have implications for monetary policy. 
+

@@ -1,0 +1,49 @@
+
+ - 5 - 
+
+o Cryptography, in the form of hashes and digital signatures, provides a secure 
+
+way to initiate a transaction that helps verify ownership and the availability of 
+
+the asset for transfer.  
+
+o Consensus algorithms provide a process for transactions to be confirmed and 
+
+added to the single ledger. 
+
+While Bitcoin was originally associated with the concept of a universally available, 
+
+publicly shared digital ledger technology without any central authority, many of the use 
+
+cases that are currently under development and discussion rely on “permissioned” ledgers 
+
+in which only permitted, known participants can validate transactions.  These in turn can 
+
+be either public or private in terms of access to the ledger.   
+
+The resulting Internet of Value holds out the promise of addressing important 
+
+frictions and reducing intermediation steps in the clearing and settlement process.  For 
+
+example, in cross-border payments, faster processing and reduced costs relative to current 
+
+correspondent banking are cited as specific potential benefits.  Reducing intermediation 
+
+steps in cross-border payments may help reduce costs and counterparty risks and may 
+
+additionally improve financial transparency.    
+
+In securities clearing and settlement, the potential shift to one master record 
+
+shared among participants has some appeal.  Having one immutable record may have the 
+
+potential to reduce or even eliminate the need for reconciliation by avoiding duplicative 
+
+records that have different details related to a transaction that is being cleared and settled.  
+
+This also can lead to greater transparency, reduced costs, and faster securities settlement.  
+
+Likewise, digital ledgers may improve collateral management by improving the tracking 
+
+of ownership and transactions. 
+

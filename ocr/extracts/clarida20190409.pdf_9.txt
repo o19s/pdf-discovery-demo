@@ -1,0 +1,50 @@
+
+ - 8 - 
+
+average, run at the target rate.18  Other makeup strategies seek to reverse shortfalls in 
+
+policy accommodation at the ELB by keeping the policy rate lower for longer than 
+
+otherwise would be the case.19  In many models that incorporate the ELB, these makeup 
+
+strategies lead to better average performance on both legs of the dual mandate and 
+
+thereby, viewed over time, provide no conflict between the dual-mandate goals.20 
+
+The benefits of the makeup strategies rest heavily on households and firms 
+
+believing in advance that the makeup will, in fact, be delivered when the time comes--for 
+
+example, that a persistent inflation shortfall will be met by future inflation above 
+
+2 percent.  As is well known from the research literature, makeup strategies, in general, 
+
+are not time consistent because when the time comes to push inflation above 2 percent, 
+
+conditions at that time will not warrant doing so.  Because of this time inconsistency, the 
+
+public would have to see a makeup strategy as a credible commitment for it to be 
+
+successful.  That important real-world consideration is often neglected in the academic 
+
+literature, in which central bank “commitment devices” are simply assumed to exist and 
+
+be instantly credible on decree.  Thus, one of the most challenging questions is whether 
+
+central banks could, in practice, attain the benefits of makeup strategies that are possible 
+
+in models. 
+
+                                                 
+18 See Bernanke (2017) for a discussion of such a strategy.  See Hebden and López-Salido (2018) for a 
+quantitative assessment of that and other strategies.  See also Kiley and Roberts (2017) for a strategy in 
+which policymakers aim for inflation higher than 2 percent during economic expansions to compensate for 
+below-target realizations of inflation during economic downturns. 
+19 See Reifschneider and Williams (2000) for a strategy in which a central bank following a Taylor rule 
+makes up for shortfalls in policy accommodation during ELB episodes by subsequently keeping the policy 
+rate lower than otherwise.  The box “Complexities of Monetary Policy Rules” in the Board’s July 2018 
+Monetary Policy Report contains an application of such a modified rule; see Board of Governors (2018b, 
+pp. 37-41). 
+20 See English, López-Salido, and Tetlow (2015) for applications of flexible price-level targeting and 
+nominal income-targeting strategies to a quantitative model of the U.S. economy. 
+

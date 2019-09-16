@@ -1,0 +1,50 @@
+
+- 3 - 
+ 
+
+Rationale for Enhanced Capital Requirements 
+
+Last fall central bank governors and heads of supervision from countries represented on 
+
+the Basel Committee on Banking Supervision agreed to the important package of reforms in 
+
+capital regulation known as Basel III.  The Basel III requirements for better quality of capital, 
+
+improved risk weightings, higher minimum capital ratios, and a capital conservation buffer 
+
+comprise a key component of the post-crisis reform agenda.  But they are just that – a 
+
+component.  Although a few features of Basel III reflect macroprudential concerns, in the main it 
+
+was a microprudential exercise.  The new minimum equity capital ratio and conservation buffer 
+
+were calibrated on the basis of an historical examination of the individual loss experiences of 
+
+banks in the United States and six other countries.   
+
+A macroprudential perspective on capital requirements complements the microprudential 
+
+orientation of Basel III.  There would be very large negative externalities associated with the 
+
+disorderly failure of any SIFI, distinct from the costs incurred by the firm and its stakeholders.  
+
+The failure of a SIFI, especially in a period of stress, significantly increases the chances that 
+
+other financial firms will fail, for two reasons.  First, direct counterparty impacts can lead to a 
+
+classic domino effect.  Second, because losses in a tail event are much more likely to be 
+
+correlated for firms deeply engaged in trading, structured products, and other capital market 
+
+instruments, all such firms are vulnerable to accelerating losses as troubled firms sell their assets 
+
+into a declining market. 
+
+A SIFI has no incentive to carry enough capital to reduce the chances of such systemic 
+
+losses.  The microprudential approach of Basel III does not force them to do so.  The rationale 
+
+for enhanced capital requirements for SIFIs is to take these costs into account, make SIFIs less 
+
+prone to failure, and thereby to make the financial system safer.  An ancillary rationale is that 
+

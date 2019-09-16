@@ -1,0 +1,51 @@
+
+
+
+- 7 - 
+
+of deposits over the sample period.  Thus, the net profitability of narrow banking is given 
+
+by 0.87 percent plus 0.49 percent minus 1.30 percent, which equals 0.06 percent. 
+
+Overall, our synthesis of these stylized facts is that banks are in the business of 
+
+taking deposits and investing these deposits in fixed-income assets that have certain well-
+
+defined risk and liquidity attributes but which can be either loans or securities.  The 
+
+information-intensive nature of traditional lending--in the delegated monitoring 
+
+sense--while clearly important in many cases, may not be the defining feature of banking.  
+
+Rather, the defining feature may be that, whether banks invest in information-intensive 
+
+loans or relatively transparent securities, they invest in fixed-income assets that have 
+
+some degree of price volatility and illiquidity and so offer a higher return than very liquid 
+
+and safe Treasury securities.  In this sense, small business loans and CMOs are on one 
+
+side of the fence, and Treasury securities are on the other. 
+
+Before proceeding, I should note a natural first reaction to these observations.  
+
+You might say, “Of course banks prefer holding riskier securities to riskless ones, even if 
+
+they create no monitoring value in either case.  They are just taking advantage of the put 
+
+option created by deposit insurance.  In other words, the evidence on the patterns of 
+
+banks’ securities holdings just reflects a moral hazard problem and nothing more.” 
+
+Without intending to dismiss the importance of moral hazard generally, I don’t 
+
+think it can fully account for the data in figure 1.  One way to make this point is to redraw 
+
+the figure, restricting the sample only to those banks with the highest levels of capital at 
+
+any point in time--those above the median of the distribution by the ratio of equity to 
+
+assets--as is done in figure 2.  As can be seen, the basic patterns are very similar to those 
+
+in figure 1.  Given that these highly capitalized banks are less likely to impose losses on 
+

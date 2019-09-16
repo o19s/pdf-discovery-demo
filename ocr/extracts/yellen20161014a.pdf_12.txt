@@ -1,0 +1,53 @@
+
+ - 11 - 
+
+alternatively, limited ability--of firms to cut the nominal wages of their employees, which 
+
+could help to explain the relatively moderate movements in inflation we saw during and 
+
+after the recession?19 
+
+Another gap in our knowledge about the nature of the inflation process concerns 
+
+expectations.  Although many theoretical models suggest that actual inflation should be 
+
+most closely related to short-run inflation expectations, as an empirical matter, measures 
+
+of long-run expectations appear to explain the data better.20  Yet another unresolved issue 
+
+concerns whose expectations--those of consumers, firms, or investors--are most relevant 
+
+for wage and price setting, a point on which theory provides no clear-cut guidance.  More 
+
+generally, the precise manner in which expectations influence inflation deserves further 
+
+study.21 
+
+Perhaps most importantly, we need to know more about the manner in which 
+
+inflation expectations are formed and how monetary policy influences them.  Ultimately, 
+
+both actual and expected inflation are tied to the central bank’s inflation target, whether 
+
+that target is explicit or implicit.22  But how does this anchoring process occur?  Does a 
+
+central bank have to keep actual inflation near the target rate for many years before 
+
+inflation expectations completely conform?  Can policymakers instead materially 
+
+                                                 
+19 For an early discussion of the potential macroeconomic effects of downward nominal wage rigidity, see 
+Akerlof, Dickens, and Perry (1996).  More recently, Daly and Hobijn (2014) develop a model in which the 
+reluctance or inability of firms to cut nominal wages (or both) creates important nonlinearities in the 
+relationship between labor utilization and wage inflation.  Finally, Fallick, Lettau, and Wascher (2015) 
+review the evidence for downward nominal wage rigidity in recent years and explore the ways in which it 
+has interacted with labor market stress over time.  
+20 Specifically, survey measures of long-run inflation expectations are broadly correlated with estimates of 
+inflation’s longer-term trend.  See Clark and Davig (2008); see also Faust and Wright (2013, who make a 
+related point in the context of inflation forecasting. 
+21 As Mavroeidis, Plagborg-Moller, and Stock (2014) conclude from their exhaustive survey, empirical 
+estimates of the New Keynesian inflation equation are “unable to pin down the role of expectations in the 
+inflation process sufficiently accurately for the results to be useful for policy analysis” (p. 172). 
+22 For a discussion of the theoretical and empirical influence of monetary policy on inflation in the context 
+of a formal inflation-targeting regime, see Bernanke and others (1999b).  
+

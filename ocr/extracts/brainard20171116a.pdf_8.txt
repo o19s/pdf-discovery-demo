@@ -1,0 +1,59 @@
+
+- 7 - 
+
+
+so decided not to purchase an item as a result.25  In addition, 41 percent of smartphone owners 
+
+checked product reviews or searched product information online while shopping in a retail store, 
+
+and 79 percent of those respondents reported changing their purchase decision based on the 
+
+information they accessed on their smartphone.26  
+
+And those use cases just scratch the surface of what is possible. First of all, the 
+
+smartphone platform has become a launch pad for a whole ecosystem of apps created by outside 
+
+developers for a wide variety of services, including helping consumers manage their financial 
+
+lives.  
+
+ Second, the smartphone ecosystem puts the enormous computing power of the cloud at 
+
+the fingertips of consumers. Interfacing with smartphone platforms and other apps, outside 
+
+developers can tap the computing power of the leading cloud computing providers in building 
+
+their apps.  Importantly, cloud computing offers not only the power to process and store data, but 
+
+also powerful algorithms to make sense of it.  Due to early commitment to open-source 
+
+principles, app developers have open access to many of the same machine-learning and artificial 
+
+intelligence tools that power the world’s largest internet companies.27  Further, the major cloud 
+
+computing providers have now taken these free building blocks and created different machine-
+
+learning and artificial intelligence stacks on their cloud platforms.  A developer that wants to 
+
+incorporate artificial intelligence into their financial management app can access off-the-shelf 
+
+                                                 
+25  Board of Governors of the Federal Reserve System, Consumers and Mobile Financial Services 2016, 
+
+www.federalreserve.gov/econresdata/consumers-and-mobile-financial-services-report-201603.pdf. 
+26 Id. 
+27 See, e.g., Blair Hanley Frank, “Meet Google’s Cool New Natural Language Tool, Parsey McParseface,” 
+
+Computerworld, May 12, 2016, www.computerworld.com/article/3070059/artificial-intelligence/meet-googles-cool-
+
+new-natural-language-tool-parsey-mcparseface.html. See also Google Research Blog, “TensorFlow--Google’s 
+
+Latest Machine Learning System, Open Sourced for Everyone,” November 9, 2015, 
+
+https://research.googleblog.com/2015/11/tensorflow-googles-latest-machine_9.html. Cf. Tom Simonite, “Facebook 
+
+Quietly Enters Starcraft War for AI Bots, and Loses,” Wired, October 9, 2017, www.wired.com/story/facebook-
+
+quietly-enters-starcraft-war-for-ai-bots-and-loses/.  
+

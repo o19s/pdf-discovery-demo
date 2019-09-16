@@ -1,0 +1,50 @@
+
+- 11 - 
+ 
+
+Some of these approaches involve encrypting data on the ledger so that the ledgers can still be 
+
+copied across all the nodes in the network, but an entity cannot look at any element of that ledger 
+
+except for transactions in which it has been involved.  Other approaches include so-called zero-
+
+knowledge proofs or ring signatures that allow entities to validate transactions without seeing 
+
+confidential information.  Still others are looking at platforms that connect multiple ledgers 
+
+rather than having one single ledger that is copied across all nodes in the network.  While 
+
+questions remain about the usefulness and viability of each of these approaches, it is important to 
+
+underscore that preserving confidentiality is an important area of research. 
+
+Finally, perhaps the biggest potential benefit for payments, clearing, and settlement of 
+
+distributed ledger technology may be resiliency.  Distributed ledger technology may enable a 
+
+network to continue to operate even if some of the nodes on the network are compromised  
+
+because of the ability of the other nodes in the network to pick up the slack and continue 
+
+processing transactions.  One challenge going forward will be to understand the implications that 
+
+the confidentiality tools and different approaches to consensus under consideration may have on 
+
+the resilience of the distributed ledger.  Given that resiliency is a key potential benefit of 
+
+distributed ledger technology over existing platforms, it is critical to understand the trade-offs 
+
+between resiliency and a consensus method that focuses on operational speed, or between 
+
+resilience and confidentiality.   
+
+Conclusion 
+
+It is an exciting time for the financial sector as digital innovations are challenging 
+
+conventional thinking about currency, money, and payments.  Cryptocurrencies are strikingly 
+
+innovative but also pose challenges associated with speculative dynamics, investor and consumer 
+
+protections, and money-laundering risks.  Although central bank digital currencies may be able 
+

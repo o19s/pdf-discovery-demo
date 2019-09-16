@@ -1,0 +1,50 @@
+
+
+17 
+ 
+
+SCB approach promotes an important macroprudential aim, since the surcharges are calibrated to 
+
+force large, interconnected banks to internalize the additional costs their distress would impose 
+
+on the financial system.  The surcharges are thus at least a partial surrogate for inclusion of 
+
+various macroprudential features in the stress test.  
+
+We are also considering a couple of relatively modest revisions we are considering to the 
+
+Board’s “Policy Statement on the Scenario Design Framework for Stress Testing”16 that are 
+
+motivated by the macroprudential consideration of reducing procyclicality.  The first would be to 
+
+make the severity of the change in the unemployment rate less severe during downturns.  The 
+
+second would be to replace the current judgmental approach to setting the hypothesized path of 
+
+house prices by tying this variable to disposable personal income.  The result would be a more 
+
+countercyclical path of house prices and increased transparency into how we determine the 
+
+severity of this very important element of the scenario.  
+
+ Beyond these steps, we heard many ideas during our review on how we might pursue our 
+
+macroprudential objective by adding new features to the stress test, especially from official 
+
+sector representatives and academics.  We also reviewed the growing academic literature on this 
+
+topic.  We concluded that, to this point, even the most conceptually promising of the ideas are a 
+
+good ways from being realized in specific and well-supported elements of our economic models.  
+
+Many macroprudential risks involve the spread of stress from one firm or market to others.  As 
+
+such, macroprudential elements of stress tests often must estimate not just first-round losses, but 
+
+also the knock-on effects, which depend significantly on the vulnerabilities and responses of all 
+
+other major actors in the financial system, including many that we do not regulate.  Modelling 
+
+                                                 
+16 See 12 CFR part 252, appendix A. 
+

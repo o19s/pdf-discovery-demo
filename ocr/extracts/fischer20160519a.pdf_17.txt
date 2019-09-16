@@ -1,0 +1,55 @@
+
+ - 16 - 
+
+That is not a simple thought, but it is logical--and that insight enables Michael 
+
+to derive a utility or loss function with inflation in it.   
+
+Interestingly, Woodford recognizes that his result is based on several 
+
+approximations (pp. 383-392), but is nonetheless prepared to go ahead.  While 
+
+that choice is to some extent a matter of taste, it is also highly pragmatic--and 
+
+some might say, a reflection of his MIT training, a comment that I would take 
+
+as a compliment.   
+
+5. The importance of the long-term interest rate.  Another key result is that when 
+
+you solve forward the system above, you find, as Woodford notes (p.244), that  
+
+aggregate demand in this model depends upon all expected 
+
+future short real rates, and not simply upon a current ex ante 
+
+short real rate of return; and unless fluctuations in short rates are 
+
+both highly unforecastable and highly transitory, expectations of 
+
+future short rates are more significant than the current short rate  
+
+
+--and in a footnote he notes that this can also be explained by saying that it is 
+
+the long rate of interest and not the short rate that determines aggregate 
+
+demand in this model. 
+
+6.   What to do at the ZLB, Forward Guidance, The Role of Expectations.  MWIP 
+
+was completed well before the Fed had to contend with the ZLB--zero lower 
+
+bound--which later became the ELB--effective lower bound--even though 
+
+there were discussions in the U.S. economy in 2003 and earlier about what to 
+
+do if the economy were ever to be at the ZLB.15   
+
+                                                 
+15 See Michael Woodford (2012), “Methods of Policy Accommodation at the Interest-Rate Lower Bound,” 
+
+in Proceedings--Economic Policy Symposium--Jackson Hole (Kansas City:  Federal Reserve Bank of 
+
+Kansas City), pp. 185-288. 
+

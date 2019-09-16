@@ -1,0 +1,50 @@
+
+ - 7 - 
+
+benefits, there is no presumption that the optimal tax should be large, only that it may be 
+
+non-zero, and that it may make sense for it to differ across asset classes.   
+
+Can Existing Regulatory Tools Be Used to Tax SFTs Efficiently? 
+
+With this last observation in mind, my next step is to run through a number of our 
+
+existing regulatory instruments, and in each case ask: to what extent can the instrument at 
+
+hand be used efficiently to impose a Pigouvian tax on an SFT, either one of the dealer-as-
+
+principal type or one of the dealer-as-intermediary type? As will become clear, the 
+
+answer can depend crucially on both the structure of the transaction as well as the nature 
+
+of the underlying collateral involved.   Also, I should emphasize that nothing in this 
+
+exercise amounts to a judgment on the overall desirability of any given regulatory tool. 
+
+Obviously, even if risk-based capital requirements are not particularly helpful in taxing 
+
+SFTs, they can be very valuable for other reasons.  I am asking a different question: to 
+
+what extent can the existing toolkit be used—or be adapted—to deal with the specific 
+
+problem of fire-sale externalities in SFTs? 
+
+1. Risk-based capital requirements 
+
+Current risk-based capital requirements are of little relevance for many types of 
+
+SFTs.  In my Example 1, where the dealer firm holds a corporate bond as a principal and 
+
+finances it with repo borrowing, there would be a capital charge on the corporate bond, 
+
+but this capital charge is approximately independent of whether the corporate bond is 
+
+financed with repo or with some other, more stable, form of funding.  So there is no tax 
+
+on the incremental fire-sale risk created by the more fragile funding structure.9   
+
+                                                 
+9 To be more precise, under Basel III capital rules, there is a small risk-based capital requirement on the 
+repo liability.  This requirement is driven by counterparty credit risk, not liquidity risk, and is independent 
+of the term of the repo borrowing.  The basic idea is that the repo borrower has to hold a little bit of capital 
+

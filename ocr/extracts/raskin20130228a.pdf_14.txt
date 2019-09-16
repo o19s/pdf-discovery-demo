@@ -1,0 +1,50 @@
+
+- 13 - 
+
+
+increasingly being affected by the cybersecurity threats that banks face.  Recently, distributed 
+
+denial-of-service attacks have caused temporary disruptions of some web services.  In 
+
+September, the websites of several large banks were rendered inaccessible for several hours from 
+
+attacks now attributed to possible foreign state-sponsored hackers.  One of the greatest threats 
+
+facing not just banks but many businesses and government agencies is hacking--and the possible 
+
+theft of proprietary data and personal information about customers. 
+
+This cybersecurity threat is increasing at a time when more and more bank customers 
+
+depend on electronic and mobile banking.  Workers are using their own laptops and smart 
+
+phones or working remotely from home computers, and this increases the entry points to the 
+
+systems that need to be protected.  In addition, customers and vendors are linking their systems, 
+
+enhancing efficiency, but also creating more opportunities for potential intrusions. 
+
+But even beyond the potential theft of data and disruption of service, cyberattacks can 
+
+represent significant reputational risk because they have the potential to create dissatisfaction 
+
+among many customers or, even more chilling, total loss of consumer confidence. 
+
+Cooperative work between government and industry is underway.  Through the 
+
+Department of the Treasury, many of the affected institutions have requested and received 
+
+technical assistance from the Department of Homeland Security, which has been helpful in 
+
+mitigating the attacks.  Some institutions are researching new technologies for defense against 
+
+cyberattacks through their Internet service providers or security vendors, and others are 
+
+reviewing their incident response processes to better manage recovery time and communications 
+
+among information technology, employees, vendors, media, and customers. 
+
+The Financial and Banking Information Infrastructure Committee, the Financial Services 
+
+Information Sharing and Analysis Center, and the Financial Services Sector Coordinating 
+

@@ -1,0 +1,48 @@
+
+3 
+ 
+
+based may be based on relatively few actual trades.  This calls into question whether LIBOR can 
+
+ultimately satisfy IOSCO Principle 7 regarding data sufficiency, which requires that a 
+
+benchmark be based on an active market.  That Principle is a particularly important one, as it is 
+
+difficult to ask banks to submit rates at which they believe they could borrow on a daily basis if 
+
+they do not actually borrow very often.   
+
+That basic fact poses the risk that LIBOR could eventually be forced to stop publication 
+
+entirely.  Ongoing regulatory reforms and changing market structures raise questions about 
+
+whether the transactions underlying LIBOR will become even scarcer in the future, particularly 
+
+in periods of stress, and banks might feel little incentive to contribute to U.S. dollar LIBOR 
+
+panels if transactions become less frequent.  Market participants are not used to thinking about 
+
+this possibility, but benchmarks sometimes come to a halt.  The sudden cessation of a benchmark 
+
+as heavily used as LIBOR would present significant systemic risks.  It could entail substantial 
+
+losses and would create substantial uncertainty, potential legal challenges, and payments 
+
+disruptions for the market participants that have relied on LIBOR.  These disruptions would be 
+
+even greater if there were no viable alternative to U.S. dollar LIBOR that market participants 
+
+could quickly move to.   
+
+ These concerns led the FSB and Financial Stability Oversight Council to call for the 
+
+promotion of alternatives to LIBOR, and led the Federal Reserve to convene the ARRC in 
+
+cooperation with the U.S. Treasury Department, U.S. Commodity Futures Trading Commission, 
+
+and Office of Financial Research.  LIBOR is currently the dominant reference rate in the market 
+
+because of its liquidity.  We are not under any illusions that moving a significant portion of 
+
+trading to an alternative rate will be simple or easy.  But I believe the ARRC has provided a 
+

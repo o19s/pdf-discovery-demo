@@ -1,0 +1,47 @@
+
+ - 6 - 
+
+over the long run.  The deployment of any new financial technology must be undertaken 
+
+with a thorough understanding and management of risks.   
+
+Like many new financial technologies, distributed ledgers could ameliorate or 
+
+exacerbate traditional financial risks.  What matters to us as policymakers and regulators 
+
+is not only whether the migration to a new technological platform increases or reduces 
+
+risks, but also whether risks are rendered more or less opaque, and how they are 
+
+distributed among and between financial intermediaries and end users.  In the payments, 
+
+clearing, and settlement arena, some important risk areas for consideration include 
+
+settlement, operations, and cybersecurity, as well as money laundering and terrorist 
+
+financing.  In managing risks, important considerations include system resiliency and 
+
+governance as well as the role of licensing in ensuring proper oversight.  
+
+In securities settlements, for example, a difference in timing between the delivery 
+
+of securities and the delivery of funds introduces settlement risk between counterparties 
+
+and other institutions involved in this process.  To the extent that distributed ledger 
+
+technologies are designed to supplant the traditional reliance on trusted intermediaries to 
+
+ensure settlement, they will need to reliably demonstrate their ability to mitigate or even 
+
+eliminate settlement risk, especially in cases where the delivery of the securities and the 
+
+associated payment take place on different platforms.   
+
+Traditional payment, clearing, and settlement are subject to operational risk, and it 
+
+is critically important that new technologies operate reliably, securely, and with integrity.  
+
+The daily operation of markets and their clearing and settlement functions are built on 
+
+trust and confidence.  Market participants trust that clearing and settlement functions and 
+

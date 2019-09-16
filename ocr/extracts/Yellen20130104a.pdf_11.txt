@@ -1,0 +1,49 @@
+
+ - 10 - 
+
+connected banks spreads widely through the rest of the system.  In this sense, the 
+
+intuition of Allen and Gale--that highly connected networks are resilient to systemic 
+
+shocks--can be misleading.  In an empirical study of 3,000 Brazilian banks, Cont, 
+
+Moussa, and Santos find that, not surprisingly, institutions with larger interbank 
+
+exposures tend to be more systemically important.  But, critically, they also find that an 
+
+institution’s position within the financial network plays a significant role.  A bank that 
+
+does business with a large number of relatively weak counterparties may have greater 
+
+systemic importance than an institution with a similar number of counterparties that are 
+
+better equipped to manage potential losses. 
+
+The work of Gai, Haldane, and Kapadia and that of Cont, Moussa, and Santos 
+
+suggest that detailed and comprehensive data on the structure of financial networks is 
+
+needed to understand the systemic risks facing the financial system and to gauge the 
+
+contributions to systemic risk by individual institutions.  I will describe in a moment how 
+
+the Federal Reserve is using such data to enhance its understanding of the OTC 
+
+derivatives market.  This line of research suggests that a one-size-fits-all approach to the 
+
+regulation of financial intermediaries may not be appropriate.   
+
+So, what have we learned from this brief tour through recent research on 
+
+interconnectedness and systemic risk?  We have seen how interconnectedness can be a 
+
+source of strength for financial institutions, allowing them to diversify risk while 
+
+providing liquidity and investment opportunities to savers that would not be available 
+
+otherwise.  But more-numerous and more-complex linkages also appear to make it more 
+
+difficult for institutions to address certain types of externalities, such as those arising 
+
+from incomplete information or a lack of coordination among market participants.  These 
+

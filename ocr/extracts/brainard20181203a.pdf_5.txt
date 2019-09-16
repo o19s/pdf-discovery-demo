@@ -1,0 +1,52 @@
+
+ - 4 - 
+
+ventures with one another to finance new investment in faster microwave 
+
+communications and defray the high costs of that infrastructure.4  Third-party providers 
+
+are also offering high-speed links to firms that wish to engage in high-frequency trading 
+
+without investing directly in microwave tower infrastructure.   
+
+We have seen important recent changes among infrastructure providers as well.  
+
+CME Group’s acquisition of NEX and the BrokerTec platform has recently been 
+
+finalized, with direct implications for the structure of the Treasury market.5  We have 
+
+also witnessed the conclusion of J.P. Morgan’s exit from broker-dealer settlement 
+
+services in the triparty Treasury repo market and the transition to BNY Mellon 
+
+Government Securities Services Corp. as a subsidiary offering Treasury market 
+
+settlement services.  Beyond these changes, some new trading platforms are 
+
+experimenting with the very structure of the market.6  These platforms are promoting 
+
+new trading models such as all-to-all trading, in which many buy-side and sell-side 
+
+participants transact directly, and direct streaming, in which live continuous, executable 
+
+prices are delivered electronically under bilaterally or multilaterally negotiated terms.  
+
+These services can potentially bridge all of the venues of the Treasury market, connecting 
+
+not just dealers and proprietary trading firms, but also those entities with buy-side clients.   
+
+And, finally, the macroeconomic landscape has undergone some significant 
+
+changes that have important implications for the Treasury market.  At the time of the 
+
+flash rally in October 2014, the Federal Reserve was still actively purchasing Treasury 
+
+                                                 
+4 One example is the Go West Consortium.  See Gregory Meyer, Nicole Bullock, and Joe Rennison (2018), 
+“How High-Frequency Trading Hit a Speed Bump,” Financial Times, January 1.  
+5 See CMG Group (2018), “CME Group Completes Acquisition of NEX, Creating a Leading Global 
+Markets Company across Futures, Cash and OTC,” press release, November 2, 
+https://www.cmegroup.com/media-room/press-
+releases/2018/11/02/cme_group_completesacquisitionofnexcreatingaleadingglobalmarkets.html. 
+6 LiquidityEdge and OpenDoor, LLC, are two examples of trading platforms offering new models. 
+

@@ -1,0 +1,50 @@
+
+ - 8 - 
+
+3. The rate of growth of output per worker is roughly constant over long periods 
+
+of time. 
+
+4. The capital/output ratio is roughly constant over long periods of time. 
+
+5. The rate of return on investment is roughly constant over long periods of time. 
+
+6. The real wage grows over time. 
+
+Well, that was then, and many of the problems we face in our economy now relate 
+
+to the changes in the stylized facts about the behavior of the economy:  Every one of 
+
+Kaldor’s stylized facts is no longer true, and unfortunately the changes are mostly in a 
+
+direction that complicates the formulation of economic policy.6   
+
+While the basic approach outlined so far remains valid, and can be used to address 
+
+many macroeconomic policy issues, I would like briefly to take up several topics in more 
+
+detail.  Some of them are issues that have remained central to the macroeconomic agenda 
+
+over the past 50 years, some have to my regret fallen off the agenda, and others are new 
+
+to the agenda.   
+
+1. Inflation and unemployment:  Estimated Phillips curves appear to be flatter 
+
+than they were estimated to be many years ago--in terms of the textbooks, 
+
+Phillips curves appear to be closer to what used to be called the Keynesian 
+
+case (flat Phillips curve) than to the classical case (vertical Phillips curve).  
+
+Since the U.S. economy is now below our 2 percent inflation target, and since 
+
+unemployment is in the vicinity of full employment, it is sometimes argued 
+
+that the link between unemployment and inflation must have been broken.  I 
+
+don’t believe that.  Rather the link has never been very strong, but it exists, 
+
+                                                 
+6 See Jones and Romer (2010). 
+

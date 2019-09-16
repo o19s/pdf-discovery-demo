@@ -1,0 +1,10 @@
+
+Figure 3.  Corporate Bond Bid-Ask Spreads 
+
+
+Note:  We compute the measures using nondefaulted bonds that have traded at least 10 times between 10:30 a.m. and 3:30 p.m. 
+We exclude 144a bonds.  
+
+Source:  BTDS Data provided by FINRA's TRACE System; Thomson Reuters SDC Platinum; Mergent Corporate FISD Daily Feed 
+(FITF); Moody's Analytics Default and Recovery Database (DRD).  
+

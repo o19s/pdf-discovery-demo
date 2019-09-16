@@ -1,0 +1,53 @@
+
+ - 13 - 
+
+run” is consistent with this view.  Some estimates put the current value of r* close to 
+
+zero, which leads to the purple dashed-dotted line in figure 8.25 
+
+Figure 9 provides prescriptions from the policy rules shown in figure 7 that vary 
+
+along dimensions other than the neutral real rate.  The first-difference rule shown by the 
+
+purple dashed-dotted line incorporates forecasts by prescribing changes to the federal 
+
+funds rate based on projected inflation relative to its objective and the projected change in 
+
+the output gap.26  The insight behind this rule is that it does not require estimates of the 
+
+neutral real rate or the level of the output gap.27  The green dashed line shows the policy 
+
+prescription from an inertial version of the “balanced approach” rule with an intercept of 
+
+1 percent, which includes a lagged value of the nominal interest rate.28  This rule does 
+
+not go as far as the first-difference rule in eliminating the level of r* from the policy 
+
+prescription, but it does prescribe that policy move only slowly toward its longer-run 
+
+level, which places less weight in the short-run on the estimate of r*.  This rule 
+
+                                                 
+25 See Kathryn Holston, Thomas Laubach, and John C. Williams (2016), “Measuring the Natural Rate of 
+Interest:  International Trends and Determinants,” Finance and Economics Discussion Series 2016-073 
+(Washington:  Board of Governors of the Federal Reserve System, September), 
+https://www.federalreserve.gov/econresdata/feds/2016/files/2016073pap.pdf. 
+26 Orphanides (2003) proposed a rule that sets changes in the nominal interest rate equal to deviations in 
+nominal income growth relative to target, ΔR = β [ (π + Δy)  ̶  (π* + Δy*) ], where y is real GDP.  The 
+forecast-based version employed here substitutes the change in the unemployment gap for the change in the 
+output gap (using an Okun’s law coefficient of 2) and sets β to 0.5, yielding ΔR = 0.5 (π    ̶ π*)  ̶  Δu.  When 
+implemented using forecasts, inflation is the 4-quarter inflation rate 3 quarters ahead, and Δu is the 4-
+quarter change in the unemployment rate 3 quarters ahead.  See Athanasios Orphanides (2003), “Historical 
+Monetary Policy Analysis and the Taylor Rule,” Journal of Monetary Economics, vol. 50 (July), pp. 983-
+1022. 
+27 While the natural rate of interest may be changing over time and the first-difference rule does not take 
+these changes into account, Orphanides and Williams (2007) argue that rules like the first-difference rule 
+can deliver good economic performance even when there is uncertainty about those changes.  See 
+Athanasios Orphanides and John C. Williams (2007), “Robust Monetary Policy with Imperfect 
+Knowledge,” Journal of Monetary Economics, vol. 54 (July), pp. 1406-35. 
+28 Chair Yellen has called this rule the “balanced-approach” rule.  See Janet L. Yellen (2012), “Perspectives 
+on Monetary Policy,” speech delivered at the Boston Economic Club Dinner, Boston, June 6, 
+https://www.federalreserve.gov/newsevents/speech/yellen20120606a.htm.  This rule has also been 
+considered by others.  For example, see John B. Taylor (1999), “A Historical Analysis of Monetary Policy 
+Rules,” in John B. Taylor, ed., Monetary Policy Rules (Chicago:  University of Chicago Press), p. 319-341. 
+

@@ -1,0 +1,52 @@
+
+ - 6 - 
+
+portfolios do not suggest that life insurers have increased risk-taking.  The same is true 
+
+for banks.  Both the regulatory environment and banks’ own attitudes toward risk 
+
+following the financial crisis have helped ensure that the largest banks have not taken on 
+
+excessive credit or duration risks relative to their capital cushions. 
+
+Low rates have provided support for asset valuations--indeed, that is part of their 
+
+design.  But I do not see valuations as significantly out of line with historical experience.  
+
+Equity prices have recently increased considerably, pushing the forward price-earnings 
+
+ratio further above its historical median (slide).  And equity premiums (right)--the 
+
+expected return above the risk-free rate for taking equity risk--have declined but are not 
+
+out of line with historical experience.   
+
+In the nonfinancial sector, valuation pressures are most concerning when leverage 
+
+is high, particularly in real estate markets.  Residential real estate valuations have been in 
+
+line with rents and household incomes in recent years, and the ratio of mortgage debt to 
+
+income is well below its pre-crisis peak and still declining.  In contrast, valuations in 
+
+commercial real estate are high in some markets.10  And in the nonfinancial corporate 
+
+sector, gross leverage is high by historical standards.  Low long-term rates have 
+
+encouraged corporate debt issuance at the same time that some regulations, particularly 
+
+the Volcker rule, have discouraged banks from holding and making markets in such debt.  
+
+High-risk corporate debt (the sum of high-yield bonds and leveraged loans) grew rapidly 
+
+in 2013 and 2014 (slide), although growth has declined sharply since then.11  However, 
+
+                                                 
+10 The Federal Reserve, along with the Office of the Comptroller of the Currency and the Federal Deposit 
+Insurance Corporation, issued guidance regarding prudent management of risks from loans secured by 
+commercial real estate (CRE) in late 2015.  Of course, the annual stress tests typically feature significant 
+declines in CRE prices, suggesting that banks are capitalized against a deterioration in this sector. 
+11 Gilchrist and Zakrajšek’s (2012) measure of the corporate bond spread, shown in figure A.3, is at about 
+its average level, but their estimate of the risk premium in this market is low, so, by this measure, at least 
+pricing is rich.  
+

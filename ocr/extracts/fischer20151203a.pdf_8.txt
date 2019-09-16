@@ -1,0 +1,48 @@
+
+ - 7 - 
+
+In my view, the reduction in leverage and maturity transformation associated with 
+
+better regulations leaves the financial system much more resilient -- even if such 
+
+regulations have modestly affected market liquidity. 
+
+What We Know and What We Do Not 
+
+Despite my assessment of current vulnerabilities, conditions can change quickly.  
+
+And important blind spots in our view of the financial system remain, in part owing to 
+
+data gaps. When it comes to financial stability, what you do not know really can hurt 
+
+you--and there remains a good bit we do not know.10  
+
+This lack of data can impede the design of regulation.  There is a long history of 
+
+data collection focused on banks, and supervisory data have contributed to our 
+
+quantitative approach to regulation and supervision.  For example, when we examine the 
+
+likely implications of the failure of an institution’s largest counterparty, we learn a great 
+
+deal about the health of that institution and gain greater insight into its connections, 
+
+through that counterparty, to other institutions. 
+
+But data on a range of activities--including securities lending, bilateral repos, and 
+
+derivatives trading--that create funding and leverage risks remain inadequate and hence 
+
+could prove destabilizing if sufficiently large or widespread.  We gain some insight into 
+
+these markets through our supervisory relationships with the largest bank holding 
+
+companies, but the activities of important nonbank market participants, such as asset 
+
+managers, and the interconnections across institutions remain more opaque.   
+
+                                                   
+10 The phrase “what you don’t know can’t hurt you” is well known.  According to the Oxford Dictionary of 
+Proverbs, the oldest written version of this saying comes from 1576, in Petit Palace, by G. Pettie (as noted 
+in Miller (2009)).  (I am indebted to Michael Kiley for this reference.) 
+

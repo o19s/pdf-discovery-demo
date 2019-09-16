@@ -1,0 +1,49 @@
+
+- 13 -
+
+buffers held by the large banking institutions, it would be important to make a 
+
+compensating adjustment to the countercyclical buffer in order to achieve the same 
+
+overall resilience to financial vulnerabilities.
+
+As a rough rule of thumb--and as described in the Board’s framework for 
+
+implementing the CCyB, which was finalized in September 2016--the criteria for setting 
+
+the CCyB are calibrated so that the CCyB will be above its minimum value about one-
+
+third of the time, assuming that vulnerabilities evolve as they did pre-crisis.  It is worth 
+
+noting that some other jurisdictions have designed their countercyclical buffer 
+
+requirement to be above zero roughly half of the time--spanning a greater range of 
+
+economic conditions than in the United States. This may reflect a difference in the 
+
+relative emphasis on structural buffers relative to cyclically varying buffers.  It is worth 
+
+noting that, although U.S. structural buffers are on the stronger end of the range 
+
+internationally, the U.S. banking system is also among the healthiest and most 
+
+competitive in the world.  Credit growth is robust, and banks are registering strong
+
+profitability relative to their international peers.  
+
+Conclusion
+
+Our financial stability agenda seeks to reduce the likelihood and severity of 
+
+financial crises.  In the wake of the 2007-09 financial crisis and recession, we learned 
+
+important lessons about the critical necessity of monitoring emerging financial 
+
+vulnerabilities in a systematic fashion and taking corresponding prudential, 
+
+macroprudential, and countercyclical policies to build resilience.  We undertake 
+
+systematic assessment of financial vulnerabilities as an important input into our 
+
+policymaking processes--helping to calibrate the prudential, macroprudential, and 
+

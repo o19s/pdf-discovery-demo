@@ -1,0 +1,57 @@
+
+- 7 - 
+ 
+
+ 
+ 
+
+Importantly, the effects of LSAPs do not appear to be confined to longer-term 
+
+Treasury yields.  Notably, LSAPs have been found to be associated with significant 
+
+declines in the yields on both corporate bonds and MBS.14  The first purchase program, in 
+
+particular, has been linked to substantial reductions in MBS yields and retail mortgage 
+
+rates.  LSAPs also appear to have boosted stock prices, presumably both by lowering 
+
+discount rates and by improving the economic outlook; it is probably not a coincidence 
+
+that the sustained recovery in U.S. equity prices began in March 2009, shortly after the 
+
+FOMC’s decision to greatly expand securities purchases.  This effect is potentially 
+
+important because stock values affect both consumption and investment decisions.  
+
+While there is substantial evidence that the Federal Reserve’s asset purchases 
+
+have lowered longer-term yields and eased broader financial conditions, obtaining precise 
+
+estimates of the effects of these operations on the broader economy is inherently difficult, 
+
+as the counterfactual--how the economy would have performed in the absence of the 
+
+Federal Reserve’s actions--cannot be directly observed.  If we are willing to take as a 
+
+working assumption that the effects of easier financial conditions on the economy are 
+
+similar to those observed historically, then econometric models can be used to estimate 
+
+the effects of LSAPs on the economy.  Model simulations conducted at the Federal 
+
+                                                                                                                                                                                 
+arbitrage model of the term structure of interest rates and time-series data from 1994 to 2007 to estimate the 
+effects on term premiums of changes in the amount of longer-term Treasury debt and agency MBS held by 
+the public.  Using this model, Li and Wei are able to infer the effects of the two LSAP programs and the 
+MEP, controlling for changes in the expected path of the federal funds rate and its implications for long-
+term interest rates.  Their analysis suggests that the Federal Reserve’s asset purchases are an important 
+factor underlying the current very low level of the term premium in longer-term rates.    
+14 On corporate bonds, see Krishnamurthy and Vissing-Jørgensen (2011) and Wright (2012); Fuster and 
+Willen (2010), Hancock and Passmore (2011), and Wright (2012) report results on mortgage yields.  Early 
+skeptics of balance sheet policies worried that any effects on Treasury yields would not be transmitted to 
+other interest rates and asset prices.  The evidence reported in these papers refutes this concern, as does the 
+fact that spreads of investment-grade corporate bond yields and mortgage rates over comparable-maturity 
+Treasury yields were not elevated from late 2009 through mid-2011; those spreads have since risen 
+somewhat, reflecting in part concerns about the European situation and the pace of the U.S. economic 
+recovery.  
+

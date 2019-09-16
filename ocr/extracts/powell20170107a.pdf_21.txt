@@ -1,0 +1,35 @@
+
+Note:  ECB is European Central Bank.
+Source:  Federal Reserve Board staff calculations.  
+
+y = 0.7231x + 0.5061
+R² = 0.4943
+
+-20
+
+-15
+
+-10
+
+-5
+
+0
+
+5
+
+10
+
+15
+
+20
+
+-20 -15 -10 -5 0 5 10 15 20
+
+Figure A.2:  Changes in 10-Year German and U.S. Yields around ECB Meetings
+
+Change in German Yield (basis points)
+
+Change in 
+U.S. Yield
+(basis points)
+

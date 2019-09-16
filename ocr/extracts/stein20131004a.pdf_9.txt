@@ -1,0 +1,51 @@
+
+ - 8 - 
+
+In Example 2, in which the dealer is an intermediary with a matched book of repo 
+
+borrowing and lending, there is, in principle, a capital requirement on its asset-side repo 
+
+loan to the hedge fund.  However, the Basel III risk-based capital rules allow banks and 
+
+bank holding companies to use internal models to compute this capital charge for repo 
+
+lending, and the resulting numbers are typically very small—for all practical purposes, 
+
+close to zero—for overcollateralized lending transactions, with repo being the canonical 
+
+example.  
+
+I’m not arguing that the very low risk-based charges on repo lending in Basel III 
+
+are “wrong” in any microprudential sense.  After all, they are designed to solve a 
+
+different problem—that of ensuring bank solvency.  And if a bank holding company’s 
+
+broker-dealer sub makes a repo loan of short maturity that is sufficiently well-
+
+collateralized, it may be at minimal risk of bearing any losses—precisely because it 
+
+operates on the premise that it can dump the collateral and get out of town before things 
+
+get too ugly.  The risk-averse lenders in the triparty market—who, in turn, provide 
+
+financing to the dealer—operate under the same premise.  As I noted earlier, these 
+
+defensive reactions by providers of repo finance mean that the costs of fire sales are 
+
+likely to be felt elsewhere in the financial system.   
+
+2. Liquidity requirements 
+
+Liquidity requirements, such as those embodied in the Basel III Liquidity 
+
+Coverage Ratio (LCR), can impose a meaningful tax on certain SFTs in which the dealer 
+
+acts as a principal.  If the dealer holds a corporate bond and finances it with repo 
+
+                                                                                                                                                 
+because it has sent $102 in Treasury securities over to its counterparty lender and only received $100 cash.  
+If the repo lender defaults, the borrower could be out $2. 
+ 
+ 
+

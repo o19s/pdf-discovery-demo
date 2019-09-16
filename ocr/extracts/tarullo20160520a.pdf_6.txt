@@ -1,0 +1,51 @@
+
+5 
+ 
+
+
+appropriate for a range of non-bank financial intermediaries.  Consider, for example, the risks 
+
+associated with bank holding companies containing large broker-dealer operations.  Unlike 
+
+traditional commercial banks whose activities are funded with retail deposits, these bank holding 
+
+companies are typically heavily reliant on repurchase agreements (or repos) and other types of 
+
+short-term wholesale funding.  The events of 2007 to 2008 reminded us that, while this type of 
+
+funding may be very stable during normal times, it can disappear overnight in periods of stress.  
+
+Runs by providers of short-term wholesale funding may not only precipitate the failure of an 
+
+individual firm by depleting that firm’s capital and liquidity buffers, but also precipitate 
+
+contagion that can imperil the rest of the financial system. 
+
+As a result of this very dynamic during the financial crisis, the five large, formerly 
+
+freestanding broker-dealers have mostly been absorbed by, or converted into, bank holding 
+
+companies.  In our post-crisis development of liquidity requirements and stress testing, and in 
+
+reforming capital requirements, we needed to pay particular heed to these critical funding 
+
+differences between traditional commercial banks and broker-dealers.  Similarly, in building out 
+
+our regulation and supervision of insurance companies, we are paying particular attention to how 
+
+their funding patterns differ from other forms of financial intermediaries. 
+
+Here, though, the major relevant difference is that the funding structures of traditional 
+
+insurers are generally much more stable than the funding structures of commercial banks, much 
+
+less broker-dealers.  A traditional insurance company’s liabilities are largely composed of 
+
+contingent claims based on the occurrence of specified events, such as the death of an insured 
+
+person or the destruction of property.  Because these claims generally cannot be accelerated, 
+
+companies engaged in traditional insurance activities are less vulnerable to runs and, 
+
+accordingly, to short-term pressures to sell assets into declining markets.  This insulation from 
+

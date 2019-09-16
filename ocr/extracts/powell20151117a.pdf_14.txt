@@ -1,0 +1,44 @@
+
+13 
+ 
+
+Further gains in netting could arise if clearing expanded to the bilateral market or if 
+
+some of the larger end users in the tri-party market, for example money market 
+
+mutual funds or hedge funds, were able to gain access to the CCP.  This could pose 
+
+its own complications, however, as some of these institutions may be unwilling or 
+
+legally unable to engage in the risk mutualization that exists in most clearing 
+
+models.   
+
+Conclusion 
+
+Despite these challenges, it is worth noting that, in the right setting, central 
+
+clearing can produce significant benefits, including reduced credit and liquidity 
+
+risks; improved default management and reduced risk of fire sales; greater 
+
+transparency; and improved risk management.  Of course, this does not mean that 
+
+every product should be cleared, or that every type of repo trading would benefit 
+
+from clearing.  In my view, clearing should be limited to those assets that are 
+
+highly liquid and expected to remain so even in severely stressed market 
+
+conditions.  While any model for expanded repo clearing will have to satisfy 
+
+stringent regulatory requirements, regulators should be open to emerging clearing 
+
+solutions where they provide substantial benefits and can meet these standards.  
+
+This may be particularly true for repo trading in government and agency securities, 
+
+since new regulations require financial institutions to hold such high-quality 
+
+collateral under the assumption that it can be quickly converted to cash.  It is 
+

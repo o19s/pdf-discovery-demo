@@ -1,0 +1,51 @@
+
+ - 4 - 
+
+In the corporate debt markets, valuation pressures had been high for a while, 
+
+before risk spreads widened and issuance slowed over the past year.  The high issuance of 
+
+corporate debt in recent years is evident in the near-record-high debt-to-asset ratios at 
+
+speculative-grade and unrated corporations, making this sector vulnerable to adverse 
+
+shocks.  In addition, increased defaults could lead to sharper-than-expected price declines 
+
+if concerns that liquidity in corporate bond markets is not as robust as in the past--a topic 
+
+to which I will return in a few minutes--turn out to be justified.    
+
+In the financial sector, regulatory capital ratios remain at historically high levels, 
+
+and liquidity buffers appear sizable in the banking sector.  Capital ratios continue to trend 
+
+upward for both life and property and casualty insurers. 
+
+A Closer Look at Shadow Banking 
+
+Still, our view of developments at nonbank firms that have traditionally relied on 
+
+high leverage and short-term wholesale funding and were at the center of the financial 
+
+crisis--the shadow banking sector--remains incomplete.6   
+
+One source of information about leverage at nonbanks is the Senior Credit Officer 
+
+Opinion Survey on Dealer Financing Terms (SCOOS), which the Federal Reserve 
+
+initiated after the crisis.  The SCOOS provides information about the availability and 
+
+terms of credit in securities financing and over-the-counter derivatives markets--for 
+
+example, on credit granted by dealers to counterparties such as hedge funds or insurers to 
+
+                                                   
+6 I have previously discussed the lines between bank and nonbank activities (Fischer (2015)).  The term 
+“shadow banking” has been in use for some time, and I continue to use this term in this speech largely to 
+ensure some connection to discussion in recent years.  Recently, discussions of bank-like and other 
+financial activities have begun to draw more clear distinctions regarding potential financial stability risks 
+across activities; see Financial Stability Board (2015a) and the recent discussion in Tarullo (2015).  Finally, 
+money market mutual fund (MMMF) shares are not, technically, debt claims.  However, the regulatory 
+framework and historical precedent (in which MMMF shares had a fixed net asset value under normal 
+conditions) appear to have led investors to treat such shares similarly to uninsured deposits. 
+

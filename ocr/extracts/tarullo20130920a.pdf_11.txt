@@ -1,0 +1,65 @@
+
+ - 10 - 
+
+financial system even when there is some uncertainty regarding the probability of a 
+
+particular risk being realized.  For example, the scenario might include a sharp drop in 
+
+house prices if analysis suggested—but did not confirm—that there was overheating in 
+
+the housing market, and if supervisors judged that large banks had correlated exposures 
+
+to the housing sector.  That is, the stress tests provide for resiliency in the event the risk 
+
+comes to pass, without necessarily requiring other measures to restrict directly the 
+
+lending or other activity lying behind the risk.   
+
+A macroprudential perspective also counsels against injecting more procyclicality 
+
+into the financial system by, for example, simply assuming a standard deterioration in 
+
+economic conditions from whatever the baseline projections might be.  Such an approach 
+
+would overlook the tendency of systemic risk to build during strong, prolonged 
+
+expansions, when underwriting standards decline, rising asset prices make secured 
+
+lending seem safer, and defaults wane.  The approach we are instead taking is that, under 
+
+such conditions, our severely adverse scenario would assume a level of unemployment 
+
+during the stress period comparable to that observed in past severe recessions, not simply 
+
+an increase in unemployment comparable to the increase observed during those 
+
+recessions.
+12
+
+  Thus, the scenario’s unemployment rate would feature a larger and sharper 
+
+rise in the unemployment rate as economic expansions proceed. 
+
+Finally, stress tests must be modified so as to avoid incentivizing firms to 
+
+correlate their asset holdings or adopt correlated hedging strategies.  This potential 
+
+                                                 
+12
+
+ For a full explanation of the Board’s approach to scenario design, see “Policy Statement on the Scenario 
+
+Design Framework for Stress Testing,” Regulation YY—Enhanced Prudential Standards, 12 C.F.R. pt. 252 
+
+(2012), www.federalreserve.gov/bankinforeg/bcreg20121115a4.pdf.  See also Nellie Liang (2013), 
+
+“Implementing Macroprudential Policies,” speech delivered at the Conference on Financial Stability 
+
+Analysis: Using the Tools, Finding the Data, Federal Reserve Bank of Cleveland and Office of Financial 
+
+Research, May 31, 
+
+www.clevelandfed.org/events/2013/financial_stability/pdf/Implementing_Macroprudential_Policies_May3
+
+1-2013_final.pdf.    
+

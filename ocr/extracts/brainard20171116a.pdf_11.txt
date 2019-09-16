@@ -1,0 +1,53 @@
+
+- 10 - 
+
+
+retirement accounts, college savings accounts, and other investment platforms in order to enable 
+
+a fintech advisor to offer a consumer a single, near complete picture of his balances and cash 
+
+flows across different institutions.  
+
+In reviewing the advertising, terms and conditions, and apps of an array of fintech 
+
+advisors, it appears that many of these tools offer advanced data analysis, machine learning, and 
+
+even artificial intelligence to help consumers cut down on unnecessary spending, set aside 
+
+money for savings, and use healthy nudges to improve their financial decisions.  For instance, a 
+
+fintech advisor may help a consumer automate savings “rules,” like rounding up charges and 
+
+putting the difference into savings, enabling these small balances to accumulate over time or 
+
+setting a small amount of money aside every time a consumer spends money on little splurges. 
+
+The early stages of innovation inevitably feature a lot of learning from trial and error. 
+
+Fortunately, as the fintech ecosystem advances, there are useful experiences and good practices 
+
+to draw upon from the evolution of the commercial internet.  To begin with, one internet adage is 
+
+that if a product is free, “you are the product.”34  In this vein, fintech advisors frequently offer 
+
+free services to consumers and earn their revenue from the credit cards and other financial 
+
+products that they recommend through lead generation.  
+
+Of course, many fintech advisors are not lead generators.  Some companies offer fee-for-
+
+service models, with consumers paying a monthly fee for the product.  Other companies are paid 
+
+by employers, who then provide the products free of charge to their employees as an employee 
+
+benefit.  In these cases, they likely have quite different business models.  
+
+                                                 
+34 See, e.g., John Lanchester, “You Are the Product,” London Review of Books, vol. 39, no. 16-17, August 17, 2017, 
+
+www.lrb.co.uk/v39/n16/john-lanchester/you-are-the-product. Cf., Monica Anderson, “Key Takeaways on Mobile 
+
+Apps and Privacy,” Pew Research Center FactTank, November 10, 2015, www.pewresearch.org/fact-
+
+tank/2015/11/10/key-takeaways-mobile-apps/. 
+

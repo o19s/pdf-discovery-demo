@@ -1,0 +1,55 @@
+
+ - 7 - 
+
+With this framing in mind, let me comment briefly on the empirical work in the 
+
+paper.  There is a lot of it, and I will just touch on a couple of points.  A first observation 
+
+is that the heavy focus on flows in and out of funds is a bit at odds with the theoretical 
+
+model.  As I mentioned earlier, the model, taken literally, is one of closed-end funds with 
+
+fixed AUM.  If one were interested in testing the specific mechanism in the model most 
+
+directly, it seems to me that one would want to look not at fund flows but rather at the 
+
+portfolio allocations within each fund.  For example, the model suggests that, during the 
+
+unfolding of an episode of bond market volatility like the one in the spring and summer 
+
+of last year, we should see a coordinated shift among bond managers out of long-term 
+
+bonds and into bills so that the average durations of their portfolios would co-move 
+
+strongly together.  There is a well-developed empirical literature on herding among fund 
+
+managers in their portfolio allocations, but, as far as I know, this work has not looked at 
+
+how such herding responds to changes in the monetary policy environment.
+8
+  So this 
+
+avenue seems like a potentially promising one to pursue. 
+
+The paper’s focus on flows in and out of funds is, however, well suited to 
+
+thinking about mechanisms related to AUM-run dynamics.  In this regard, a particularly 
+
+interesting set of findings has to do with the ability of flows to forecast future asset 
+
+returns, even controlling for past returns.  And, most notably, this forecasting effect is 
+
+much stronger in the less liquid high-yield and emerging market categories than it is in 
+
+U.S. Treasury securities; indeed, it is essentially nonexistent in the latter category.  While 
+
+not a decisive test, this pattern is consistent with one of the necessary preconditions for 
+
+the existence of strategic complementarities and run-like dynamics.  Again, the key idea 
+
+                                                 
+8
+ Chevalier and Ellison (1999) is a classic reference. 
+
+
+

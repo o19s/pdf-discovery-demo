@@ -1,0 +1,50 @@
+
+- 2 - 
+ 
+
+attention in the past couple of years--the qualitative assessment of firms’ capital planning 
+
+processes that we conduct in parallel with our quantitative assessment of firms’ capital positions. 
+
+From SCAP to CCAR 
+
+The potential value of comprehensive stress testing had been much discussed among 
+
+academics, analysts, and regulators in the years preceding the financial crisis, but only during the 
+
+crisis was this supervisory tool first used at the same time across the largest firms.  The 
+
+Supervisory Capital Assessment Program (SCAP) demonstrated in practice, not just in theory, 
+
+the value of simultaneous, forward-looking projections of potential losses and revenues based on 
+
+each bank’s portfolio and circumstances.  The forward-looking feature overcame the limitations 
+
+of static capital ratios.  The simultaneity, along with stress test features such as the use of 
+
+common macroeconomic scenarios, introduced a critical macroprudential dimension that offered 
+
+insights into the condition of the entire financial system, including whether banks were 
+
+sufficiently resilient to continue to lend to households and businesses under such adverse 
+
+conditions. 
+
+The Federal Reserve’s basic approach to stress testing has not changed materially since 
+
+the SCAP.  We continue to take a multidisciplinary approach, drawing on a wide range of staff 
+
+expertise.  We create hypothetical macroeconomic scenarios that incorporate an assumed sharp 
+
+deterioration in economic and financial conditions.  Supervisors estimate each bank’s expected 
+
+losses and revenues and use these estimates to project post-stress capital levels and ratios under 
+
+the hypothetical scenarios.  The estimated capital ratios are then compared with regulatory 
+
+benchmarks.  We use common scenarios for all firms; for the firms with the largest trading 
+
+activities, we add a market-shock scenario that incorporates market turbulence of severity similar 
+
+to that of the latter half of 2008.   
+

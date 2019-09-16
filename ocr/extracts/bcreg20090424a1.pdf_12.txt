@@ -1,0 +1,73 @@
+
+[page 10] 
+
+Assessing Capital Needs in an Uncertain World 
+
+Projecting estimated losses and revenues for BHCs is an inherently uncertain exercise, and this difficulty 
+
+has been amplified in the current period of increased macroeconomic uncertainty. The future path of 
+
+GDP growth, unemployment, and home prices, for example, are unknown, wi th a wide range of 
+
+plausible outcomes. Indeed, this increased uncertainty was a key motivation for the SCAP, as 
+
+policymakers are interested in restoring confidence that BHCs have sufficient resources to continue to 
+
+lend to creditworthy borrowers across a wide range of macroeconomic outcomes. 
+
+Forward-looking assessments across a range of possible outcomes including more adverse 
+
+environments, commonly referred to as "stress tests," are regularly used by both institutions and 
+
+supervisors and are regularly integrated in traditional risk-management practices. This approach 
+
+provides additional information to firms and supervisors about the vulnerability of a BHC by examining 
+
+how it might fare under different economic scenarios. This type of analysis, however, is itself subject to 
+
+considerable uncertainty, including uncertainty about the range of potential macroeconomic outcomes 
+
+to consider, the relationship between BHC results and macroeconomic scenarios, the degree to which 
+
+historical relationships will continue to be relevant in a more stressed environment, and the potential 
+
+changes to consumer behavior in response to both macroeconomic and institutional changes. 
+
+Nevertheless, this type of exercise can be extremely useful in helping supervisors and analysts broadly 
+
+understand a BHC's risk, especially in periods of high uncertainty. Moreover, a stress test provides a 
+
+systematic, disciplined framework for gauging the magnitude of capital buffers that might be needed by 
+
+different firms to absorb losses under plausible "what if" scenarios. 
+
+III. Supervisory Reviews and Assessments 
+
+III.A. Supervisory Review of the Submissions and Benchmark Assessments 
+
+The supervisory review and assessment of the loss and resource estimates submitted by the 
+
+participating BHCs were critical parts of the SCAP exercise. This review involved the work of more than 
+
+150 people f rom the supervisory agencies, including senior examiners, economists, and financial 
+
+analysts. Staff was organized into teams, each of which focused on examining a distinct aspect of the 
+
+loss and resource projections across all 19 participating BHCs. In particular, there were teams charged 
+
+with examining loss projections for consumer portfolios, commercial and industrial (C&I) and 
+
+commercial real estate loan (CRE) portfolios, AFS and HTM securities portfolios, trading account assets, 
+
+and counterparty credit risk, and teams examining projections of PPNR and ALLL coverage. There were 
+
+also advisory groups composed of specialists in accounting, regulatory capital, and financial and 
+
+macroeconomic modeling. 
+
+These teams were charged with evaluating the quality of the f irm submissions so that each 
+
+submission had sufficient information on data, methods, and assumptions to be analyzed. The teams 
+
+were responsible for analyzing the loss and resources projections from a cross-firm perspective, using 
+

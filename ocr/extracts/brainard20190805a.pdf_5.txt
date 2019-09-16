@@ -1,0 +1,51 @@
+
+- 4 - 
+ 
+
+with more than 10,000 banks across the country, the Federal Reserve is uniquely placed to 
+
+deliver this outcome.  
+
+The bar is high when we assess whether the Federal Reserve should provide a new 
+
+payment and settlement service, as it should be. We have carefully analyzed the criteria of the 
+
+Monetary Control Act and long-standing Federal Reserve policies, considered the comments 
+
+provided by a wide range of stakeholders, and studied the experiences of foreign central banks.7 
+
+We are not making this decision lightly. On balance, after carefully weighing important 
+
+considerations on both sides, we have concluded it is our responsibility to take action in support 
+
+of a real-time payment infrastructure accessible to all. While we will work hard to stand up the 
+
+FedNow Service in a timely manner, our most important goal is to achieve nationwide access for 
+
+all, reflecting our public mission. 
+
+Building a Modern Payment Infrastructure  
+
+A key foundation of the payment infrastructure is interbank clearing and settlement—the 
+
+movement of funds and the associated information between banks. Today, the U.S. retail 
+
+payment infrastructure lags behind many other countries. Europe, Mexico, and Australia have 
+
+already implemented real-time interbank clearing and settlement capabilities. In contrast, here in 
+
+the United States, the gap between the transaction capabilities in the digital economy and the 
+
+underlying payment and settlement capabilities continues to grow.8   
+
+Early adopters of fast payment services rely on a legacy infrastructure that was not 
+
+designed to support faster payments. For example, some services offer real-time funds 
+
+availability to certain consumers, but they conduct interbank settlement on a deferred basis using 
+
+                                                            
+7 Board of Governors of the Federal Reserve System, “The Federal Reserve in the Payments System” (Issued 1984; 
+revised 1990), https://www.federalreserve.gov/paymentsystems/pfs_frpaysys.htm. 
+8 FIS Global, “2018 Flavors of Fast,” https://www.fisglobal.com/flavors-of-fast.  
+

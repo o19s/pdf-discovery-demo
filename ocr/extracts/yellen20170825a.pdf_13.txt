@@ -1,0 +1,69 @@
+
+ - 12 - 
+
+market participants assign a low probability to the distress of a large U.S. banking firm.  
+
+Market-based assessments of the loss-absorbing capacity of large U.S. banks have moved 
+
+up in recent years, and market-based measures of equity now lie in the range of book 
+
+estimates of equity.  To be sure, market-based measures may not reflect true risks--they 
+
+certainly did not in the mid-2000s--and hence the observed improvements should not be 
+
+overemphasized.16  But supervisory metrics are not perfect, either, and policymakers and 
+
+investors should continue to monitor a range of supervisory and market-based indicators 
+
+of financial system resilience.   
+
+Economic research provides further support for the notion that reforms have made 
+
+the system safer.  Studies have demonstrated that higher levels of bank capital mitigate 
+
+the risk and adverse effects of financial crises.17  Moreover, researchers have highlighted 
+
+how liquidity regulation supports financial stability by complementing capital 
+
+                                                 
+16 For example, Natasha Sarin and Lawrence Summers have reviewed market-based measures of bank 
+
+equity and related measures of bank risks and concluded that such measures have not improved since the 
+
+mid-2000s.  This assessment may understate the improvement in fundamental risk within the banking 
+
+sector, as it takes the elevated valuations and low assessment of default risk implied by market prices 
+
+during the earlier period as indicative of fundamentals.  Despite these shortcomings, their analysis is a 
+
+useful reminder of the importance of considering both regulatory metrics and assessments implied by 
+
+market prices.  See Natasha Sarin and Lawrence H. Summers (2016), “Understanding Bank Risk through 
+
+Market Measures,” Brookings Papers on Economic Activity, Fall, pp. 57-109, 
+
+https://www.brookings.edu/wp-content/uploads/2017/02/sarintextfall16bpea.pdf. 
+17 For example, see the review of evidence in Simon Firestone, Amy Lorenc, and Ben Ranish (2017), “An 
+
+Empirical Economic Assessment of the Costs and Benefits of Bank Capital in the US,” Finance and 
+
+Economics Discussion Series 2017-034 (Washington:  Board of Governors of the Federal Reserve System, 
+
+April), https://www.federalreserve.gov/econres/feds/files/2017034pap.pdf.  Some research is less 
+
+supportive of the role of bank capital in limiting the risk of financial crises but suggests that higher levels of 
+
+bank capital limit the economic costs of a financial crisis (for example, Òscar Jordà, Björn Richter, Moritz 
+
+Schularick, and Alan M. Taylor (2017), “Bank Capital Redux:  Solvency, Liquidity, and Crisis,” NBER 
+
+Working Paper Series 23287 (Cambridge, Mass.:  National Bureau of Economic Research, March)).  Some 
+
+of the differences in findings across studies may be due to the degree to which the studies incorporate data 
+
+from different countries and over different periods, as researchers disagree over the extent to which 
+
+comparisons across countries or periods appropriately account for other factors that differ across such 
+
+dimensions. 
+
