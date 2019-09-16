@@ -8,12 +8,14 @@
 
     <field name="id" type="string" indexed="true" stored="true" multiValued="false" />
     <field name="doc_id" type="string" indexed="true" stored="true" multiValued="false" />
+
     <field name="content_type" type="string" indexed="true" stored="true" multiValued="false" />
     <field name="title" type="text" indexed="true" stored="true" multiValued="false" />
     <field name="content" type="text" indexed="true" stored="true" multiValued="false" />
     <field name="content_ocr" type="ocr" indexed="true" stored="true" multiValued="false" termPayloads="true" termOffsets="true" termPositions="true" termVectors="true" />
 
-    <field name="page_dimensions" type="string" indexed="false" stored="true" multiValued="true" />
+    <field name="page_number" type="int" indexed="true"  stored="true"  multiValued="false" />
+    <field name="page_dimension" type="string" indexed="false" stored="true" multiValued="true" />
 
     <field name="path" type="string" indexed="false" stored="true" multiValued="false" />
 
