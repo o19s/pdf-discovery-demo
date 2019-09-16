@@ -1,0 +1,16 @@
+{
+  "id": "credit-market-sentiment-and-the-business-cycle-20150223.pdf_21",
+  "doc_id": "credit-market-sentiment-and-the-business-cycle-20150223.pdf",
+  "content_type": "pdf",
+  "title": null,
+  "page_dimension": " 0 0 725 544",
+  "page_number": 21,
+  "path": "/lots-of-files/credit-market-sentiment-and-the-business-cycle-20150223.pdf",
+  "content": " Financial Market Sentiment & Economic Growth Dep. variable: \\( \\Delta y_t \\); Sample period I: 1952-2013  NOTE: Standard errors in parentheses: * \\( p \\lt .10 \\), ** \\( p \\lt .05 \\),  and*** \\( p \\lt .01 \\).  Regressors (1) (2) (3) (4) (5)  \\( \\Delta \\hat{s}_t \\) - 2 . 8 0 5 * * *   [Footnote:  \\( p \\lt .01 \\). End footnote.]  ( 0 . 5 5 7 )  -2 .806*** (0.545)  -2 .704*** (0.610)  \\( \\hat{r}_t̂M \\) -0.011 (0.027)  -0.01 (0.026)  \\( \\hat{r}_t̂{SP} \\) 0 . 0 6 9 *  [Footnote: \\( p \\lt .10 \\). End footnote.]   ( 0 . 0 3 6 )  0.016 (0.044)  \\( \\Delta y_{t-1} \\) 0.231 (0.156)  0.126 (0.132)  0.150 (0.129)  0.226 (0.165)  0.234 (0.159)  \\( R̂2 \\) 0.104 0.018 0.033 0.106 0.105 ",
+  "content_ocr": "Financial|MjEgMTkgMjEgMTIxIDQx Market|MjEgMTMzIDIxIDIxMyA0MQ== Sentiment|MjEgMjIzIDIxIDMzNyA0MQ== &|MjEgMzQ3IDIxIDM2NiA0MQ== Economic|MjEgMzc3IDIxIDQ4OCA0MQ== Growth|MjEgNDk5IDIxIDU4MyA0MQ== Dep.|MjEgMTggNTYgNTIgNzI= variable:|MjEgNTggNTYgMTIyIDY4 \\Waf}|MjEgMTI0IDQ3IDE2OSA3Nw== Sample|MjEgMTY5IDQ3IDIyMiA3Nw== period|MjEgMjMwIDU2IDI3OCA3Mg== I:|MjEgMjg0IDU2IDI5NCA2OA== 1952-2013|MjEgMzA0IDU2IDM3OSA2OQ== Regressors|MjEgNjAgMTkyIDEzOCAyMjI= w|MjEgMjQ4IDIwNCAyNjQgMjE4 Q|MjEgMzQwIDIwMSAzNTYgMjE1 @)|MjEgNDMzIDIwMSA0NDkgMjE1 3)|MjEgNTMxIDE5MiA1MzkgMjIy 6|MjEgNjE3IDIwMiA2MzQgMjE1 ey)|MjEgNjkgMjI2IDk1IDI1Ng== paessecg|MjEgMjMyIDI0MiAzMDAgMjUw -2.806%|MjEgNTAzIDIzNCA1NzMgMjQ2 —-2.704%\"|MjEgNTk1IDIzNCA2NjUgMjQ2 «oss7)|MjEgMjMyIDI2MSAyNzUgMjY3 (0.545)|MjEgNTAxIDI1MCA1NTUgMjc2 (0.610)|MjEgNjAyIDI1NiA2NDggMjY5 -0.011|MjEgMzA5IDI2NiAzNjEgMjk2 -0.01|MjEgNTAzIDI3NSA1MzggMjg2 (0.027)|MjEgMzI1IDI4NSAzNzEgMzE0 (0.026)|MjEgNTEwIDI4NSA1NTUgMzE1 veer|MjEgNDIzIDMxOCA0NjkgMzI2 0.016|MjEgNjA4IDMxMyA2NDIgMzI0 °|MjEgNjggMzIwIDg0IDMzMQ== wos)|MjEgNDE3IDMzNyA0NjAgMzQz (0.044)|MjEgNjAyIDMzMSA2NDggMzQ1 ‘ky|MjEgNjkgMzU0IDkxIDM2Mg== 9)|MjEgOTQgMzU1IDEwOCAzNjM= 0.231|MjEgMjI5IDM0MiAyNzAgMzcy 0.126|MjEgMzMwIDM1MSAzNjUgMzYy 0.150|MjEgNDIzIDM1MSA0NTggMzYy 0.226|MjEgNTA2IDM0MiA1NTAgMzcy 0.234|MjEgNjA4IDM1MSA2NDIgMzYy (0.156)|MjEgMjMyIDM2MCAyNzggMzkw (0.132)|MjEgMzI1IDM2MSAzNzEgMzkw (0.129)|MjEgNDE3IDM2MSA0NjMgMzkw (0.165)|MjEgNTEwIDM2MSA1NTQgMzkx (0.159)|MjEgNjAyIDM3MCA2NDggMzg0 We)|MjEgNjcgMzkyIDgzIDQwMQ== 0.104|MjEgMjI5IDM4MSAyNzMgNDEw 0.018|MjEgMzIxIDM4MSAzNjUgNDEw 0.033|MjEgNDE0IDM4MSA0NTcgNDEw 0.106|MjEgNTA2IDM4MCA1NTAgNDEw 0.105|MjEgNjA4IDM4OSA2NDIgNDAw NOTE:|MjEgNjMgNDE3IDkzIDQyNw== Standarderrorsin|MjEgOTUgNDA4IDE4NSA0Mzc= parentheses:|MjEgMTg0IDQwOCAyNDUgNDM3 *\\(ptJ0),|MjEgMjUyIDQxNyAzMDQgNDMw **|MjEgMzA5IDQxNyAzMjAgNDIz (pik|MjEgMzI0IDQxNyAzNDUgNDMw 05),|MjEgMzQ2IDQwOCAzNjggNDM3 and***|MjEgMzcxIDQwOCA0MTEgNDM3 (pik.|MjEgNDE0IDQwOCA0NDEgNDM3 O0).|MjEgNDQxIDQxNyA0NTkgNDI5 ",
+  "document_type": null,
+  "release_date": null,
+  "speaker": null,
+  "event_name": null,
+  "event_location": null
+}
