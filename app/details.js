@@ -23,7 +23,8 @@ $(document).ready(function () {
     highlights: {}
   }
 
-  $.getJSON('//' + window.location.hostname + ':8983/solr/documents/select?q=' + query + '&fq=doc_id:' + docId + '&fl=id,content,path,page_dimensions&hl=on&hl.snippets=500&hl.fl=content&indent=on&wt=json&pl=on&echoParams=all', function(data) {
+  // TODO: Needs page sort once field is added to docs
+  $.getJSON('//' + window.location.hostname + ':8983/solr/documents/select?q=' + query + '&fq=doc_id:' + docId + '&fl=id,content,path,page_dimension&hl=on&hl.snippets=500&hl.fl=content&indent=on&wt=json&pl=on&rows=1000', function(data) {
     window.frb.highlights = data
 
     // TODO: Store out page/snippet in object for linkage?

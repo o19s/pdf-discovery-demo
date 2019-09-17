@@ -80,14 +80,16 @@ export default {
       // register that we've rendered the highlights on this page
       this.renderedPages.push(pageNumber)
 
-      if (this.highlights && this.highlights.payloads[this.id]) {
-        let highlihtTerms = this.highlights.payloads[this.id].content_ocr
-        Object.keys(highlihtTerms).forEach(term => {
-          highlihtTerms[term].forEach(highlight => {
-            let [targetPageNumber, ...coordinates] = atob(highlight).split(' ').filter(Number)
-            if (pageNumber.toString() === targetPageNumber.toString()) {
-              this.addHighlightToPDF(pageNumber, coordinates)
-            }
+      if (this.highlights && this.highlights.payloads) {
+        Object.keys(this.highlights.payloads).forEach(payloadDoc => {
+          let highlihtTerms = this.highlights.payloads[payloadDoc].content_ocr
+          Object.keys(highlihtTerms).forEach(term => {
+            highlihtTerms[term].forEach(highlight => {
+              let [targetPageNumber, ...coordinates] = atob(highlight).split(' ').filter(Number)
+              if (pageNumber.toString() === targetPageNumber.toString()) {
+                this.addHighlightToPDF(pageNumber, coordinates)
+              }
+            })
           })
         })
       } else {
@@ -95,11 +97,9 @@ export default {
       }
     },
     addHighlightToPDF (pageNumber, coordinates) {
-      let doc = this.highlights.response.docs.find(pdf => {
-        return pdf.id === this.id
-      })
+      let doc = this.highlights.response.docs[pageNumber - 1]
 
-      let [pageWidth, pageHeight] = doc.page_dimensions[pageNumber].split(' ').slice(3)
+      let [pageWidth, pageHeight] = doc.page_dimension[0].split(' ').slice(3)
       let [x1, y1, x2, y2] = coordinates
       let highlight = document.createElement('span')
       let targetPage = document.querySelector(`[data-page-number="${pageNumber}"]`)
