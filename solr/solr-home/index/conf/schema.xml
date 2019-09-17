@@ -52,10 +52,12 @@
       <analyzer>
         <tokenizer class="solr.WhitespaceTokenizerFactory"/>
         <filter class="solr.DelimitedPayloadTokenFilterFactory" encoder="identity" />
+        <!-- The payload buffer works around WDF removing payloads from tokens by copying and replacing later in the chain -->
+        <filter class="com.o19s.payloads.filter.PayloadBufferFilterFactory" />
         <filter class="solr.LowerCaseFilterFactory" />
         <filter class="solr.WordDelimiterFilterFactory" />
         <filter class="solr.KStemFilterFactory" />
-
+        <filter class="com.o19s.payloads.filter.PayloadBufferFilterFactory" />
       </analyzer>
     </fieldType>
 
