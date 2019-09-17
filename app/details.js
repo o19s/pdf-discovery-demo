@@ -23,13 +23,20 @@ $(document).ready(function () {
     highlights: {}
   }
 
-  $.getJSON('//' + window.location.hostname + ':8983/solr/documents/select?q=' + query + '&fq=doc_id:' + docId + '&fl=id,content,path,page_dimension&hl=on&hl.snippets=500&hl.fl=content&indent=on&wt=json&pl=on&rows=1000&sort=page_number ASC', function(data) {
+  $.getJSON('//' + window.location.hostname + ':8983/solr/documents/select?q=' + query + '&fq=doc_id:' + docId + '&fl=id,path,page_dimension,page_number&hl=on&hl.snippets=500&hl.fl=content&indent=on&wt=json&pl=on&rows=1000&sort=page_number ASC', function(data) {
     window.frb.highlights = data
+
+    // Setup page number to doc dictionary
+    var pageDict = {};
+    $(data.response.docs).each(function(idx, doc) {
+        pageDict[doc.page_number.toString()] = doc;
+    });
+    window.frb.highlights.pageDict = pageDict;
 
     // TODO: Store out page/snippet in object for linkage?
     var snippets = [];
     for (var key in data.highlighting) {
-        snippets.push(data.highlighting[key].content)
+      snippets.push(data.highlighting[key].content)
     }
 
     renderSnippetsList(snippets)
