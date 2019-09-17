@@ -23,9 +23,16 @@ $(document).ready(function () {
     highlights: {}
   }
 
-  $.getJSON('//' + window.location.hostname + ':8983/solr/documents/select?q=' + query + '&fq=id:' + docId + '&fl=id,content,path,page_dimensions&hl=on&hl.snippets=500&hl.fl=content&indent=on&wt=json&pl=on&echoParams=all', function(data) {
+  $.getJSON('//' + window.location.hostname + ':8983/solr/documents/select?q=' + query + '&fq=doc_id:' + docId + '&fl=id,content,path,page_dimensions&hl=on&hl.snippets=500&hl.fl=content&indent=on&wt=json&pl=on&echoParams=all', function(data) {
     window.frb.highlights = data
-    renderSnippetsList(data.highlighting[docId].content)
+
+    // TODO: Store out page/snippet in object for linkage?
+    var snippets = [];
+    for (var key in data.highlighting) {
+        snippets.push(data.highlighting[key].content)
+    }
+
+    renderSnippetsList(snippets)
   })
 
   function renderSnippetsList(snippets) {
