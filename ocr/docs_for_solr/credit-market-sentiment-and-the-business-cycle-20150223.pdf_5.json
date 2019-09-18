@@ -2,15 +2,10 @@
   "id": "credit-market-sentiment-and-the-business-cycle-20150223.pdf_5",
   "doc_id": "credit-market-sentiment-and-the-business-cycle-20150223.pdf",
   "content_type": "pdf",
-  "title": null,
   "page_dimension": " 0 0 725 544",
   "page_number": 5,
   "path": "/lots-of-files/credit-market-sentiment-and-the-business-cycle-20150223.pdf",
   "content": " Our Approach  • R e p l a c e  \\( \\Delta s_t \\) w i t h  t i m e  \\( t-2 \\) p r e d ic t o r s  o f  e x p e c t e d  c r e d i t  r e tu r n s  \\( \\mathrm z_{t-2} \\):  \\[ \\Delta s_t = \\thetâ\\prime \\mathrm z_{t-2} + \\nu_t   \\\\  \\Delta y_{t+h} = \\beta\\Delta \\hat{s}_t + \\gammâ\\prime \\mathrm x_t + \\epsilon_{t+h} \\]  • \\( \\beta \\) cap tures the e ffe c t  o f  \\( \\Delta s_t \\) that c o m e s  from  u n w in d in g  o f  p a st sen tim en t    and  n o t from  ch a n g es  in  ex p e c te d  d e fa u lts .  • S ep arates d iscou n t-ra te  variation  from  varia tion  in  ex p e c te d  ca sh flo w s. ",
   "content_ocr": "Our|NSAxOSAyMSA2MiA0MA== Approach|NSA2OSAyMCAxODEgNDY= =|NSA0NiAxNzcgNTMgMTgw Replace|NSA2NiAxNzUgMTMyIDE4Nw== (Want)|NSAxMzMgMTY2IDE3OCAxOTQ= with|NSAxNzcgMTY2IDIxNCAxOTQ= time|NSAyMjQgMTc1IDI1OSAxODU= \\(t-2\\)|NSAyNjggMTc1IDMxMCAxODc= predictors|NSAzMTggMTc1IDQwMiAxODc= of|NSA0MTEgMTc1IDQyNyAxODU= expected|NSA0MzQgMTc1IDUwNiAxODc= credit|NSA1MTcgMTc1IDU2NCAxODU= returns|NSA1NzIgMTc2IDYyOSAxODU= (némas3y|NSA2MzggMTc1IDY5NCAxODc= ‘(Wits|NSAyNjAgMjE3IDMwMSAyNDI= tthe|NSAzMDAgMjE3IDMzMiAyNDI= \\pine\\nahny,|NSAzMDkgMjIzIDQ1MiAyMzg= £2-Hnut|NSA0MDYgMjE3IDQ1MyAyNDI= \\|NSAyNDcgMjU3IDI1MCAyNjc= Pry|NSAyNTEgMjUyIDI3NiAyODA= alate|NSAyODkgMjU2IDQwNCAyNzE= pinged|NSA0MDQgMjUyIDQ0NCAyODA= goon)|NSA0NzAgMjU2IDUyNiAyNzE= =|NSA0NiAzMjAgNTMgMzIz baptures|NSA4NCAzMTYgMTU1IDMzMQ== the|NSAxNjMgMzE3IDE4NyAzMjg= effect|NSAxOTUgMzE3IDI0MiAzMjg= of|NSAyNTAgMzE3IDI2NyAzMjg= \\lax)that|NSAyNzMgMzE3IDM0MiAzMzE= comes|NSAzNDkgMzIwIDQwMSAzMjg= from|NSA0MTAgMzE3IDQ0NyAzMjg= unwinding|NSA0NTcgMzE3IDU0NyAzMzE= of|NSA1NDggMzA5IDU2MyAzMzc= past|NSA1NjggMzE3IDYxMyAzMzE= sentiment|NSA2MjEgMzE3IDcwMyAzMjg= |NSAyNDYgMzM4IDI2MCAzNTQ= and|NSA2NyAzNDQgOTQgMzU0 not|NSAxMDQgMzQ1IDEyOSAzNTQ= from|NSAxMzcgMzQzIDE3NCAzNTQ= chang|NSAxODUgMzQ0IDIzNCAzNTg= |NSAyMzcgMzQ3IDI0MyAzNTQ= in|NSAyNjAgMzQ3IDI3MyAzNTQ= expected|NSAyODMgMzQ0IDM1NiAzNTg= defaults.|NSAzNjUgMzQzIDQzNyAzNTQ= +|NSA0NiAzODYgNTIgMzkw Separates|NSA2NyAzODMgMTQ3IDM5Nw== discount-rate|NSAxNTYgMzgzIDI2NiAzOTQ= variation|NSAyNzUgMzgzIDM0OCAzOTQ= from|NSAzNTcgMzgzIDM5NSAzOTQ= variation|NSA0MDUgMzgzIDQ3OSAzOTQ= in|NSA0ODcgMzgzIDUwMSAzOTQ= expected|NSA1MTAgMzgzIDU4MyAzOTc= cashflows.|NSA1OTMgMzgzIDY3OSAzOTQ= ",
-  "document_type": null,
-  "release_date": null,
-  "speaker": null,
-  "event_name": null,
-  "event_location": null
+  "document_type": null
 }

@@ -2,15 +2,10 @@
   "id": "powell20170222a.pdf_23",
   "doc_id": "powell20170222a.pdf",
   "content_type": "pdf",
-  "title": "The Economic Outlook and Monetary Policy",
   "page_dimension": " 0 0 1920 1080",
   "page_number": 23,
   "path": "/lots-of-files/powell20170222a.pdf",
   "content": " 6. General Form of Taylor Rule  6 ",
   "content_ocr": "6.|MjMgMTA2IDgwIDE1NSAxMzI= General|MjMgMTgzIDc3IDQyNSAxMzI= Form|MjMgNDU3IDgxIDYxMSAxMzI= of|MjMgNjM5IDc3IDcwMiAxMzI= Taylor|MjMgNzIwIDc3IDkwOSAxNDY= Rule|MjMgOTM2IDc3IDEwNjUgMTMy R=r+nt+a(n—rn'®)|MjMgMTQyIDIxNCA1ODUgMjc2 +b(gap)|MjMgNTk4IDIyMyA3ODMgMjc2 where|MjMgMTM4IDM2OCAyMzkgMzk0 R|MjMgMjUyIDM2OCAyNzYgMzk0 =|MjMgMjkwIDM3NyAzMDcgMzg4 nominal|MjMgMzIzIDM2OCA0NDggMzk0 federal|MjMgNDYxIDM2OCA1NzEgMzk0 funds|MjMgNTg1IDM2OCA2NzUgMzk0 rate;|MjMgNjg4IDM2OCA3NTYgMzk5 r=|MjMgMTQwIDQyMyAxOTUgNDQ5 neutral|MjMgMjE5IDQyMyAzMjkgNDQ5 real|MjMgMzQ1IDQyMyA0MDIgNDQ5 federal|MjMgNDE1IDQyMyA1MjUgNDQ5 funds|MjMgNTM4IDQyMyA2MjkgNDQ5 rate;|MjMgNjQyIDQyMyA3MTAgNDU0 m|MjMgMTQwIDQ4MCAxNTggNTAw =|MjMgMTcxIDQ4MiAxODggNDkz the|MjMgMjAyIDQ3NCAyNTIgNTAw inflation|MjMgMjY1IDQ3NCAzODkgNTAw rate;|MjMgNDA0IDQ3NCA0NzUgNTA3 r=|MjMgMTQwIDUxOCAyMjEgNTU1 2|MjMgMjQ2IDUyOSAyNjMgNTU1 percent:|MjMgMjc2IDUyNSA0MDYgNTY2 gap|MjMgMTQwIDU5MyAxOTkgNjE5 =|MjMgMjEzIDU5NSAyMzAgNjA2 percentage|MjMgMjQ2IDU4OCA0MjggNjE5 deviation|MjMgNDQyIDU4NiA1ODcgNjEy of|MjMgNjAwIDU4NiA2MzEgNjEy output|MjMgNjQyIDU4NiA3NDUgNjE5 from|MjMgNzU2IDU4NiA4MjcgNjEy its|MjMgODQyIDU4NiA4NzUgNjEy potential|MjMgODkxIDU4NiAxMDI3IDYxOQ== level|MjMgMTA0MiA1ODYgMTExMSA2MTI= or|MjMgMTEyNiA1OTMgMTE1NyA2MTI= unemployment|MjMgMTE3MCA1ODYgMTQxMiA2MTk= from|MjMgMTM4IDYzMCAyMTAgNjU2 its|MjMgMjI2IDYzMCAyNTkgNjU2 natural|MjMgMjcyIDYzMCAzODIgNjU2 rate.|MjMgMzk3IDYzMiA0NjYgNjU2 Taylor|MjMgMTM4IDg0NCAyMzcgODc3 (1993)|MjMgMjQ4IDg0NCAzNTMgODc3 sets|MjMgMzY3IDg0NCA0MzMgODcw a=0.5,b=0.5-|MjMgNDQ2IDg0NCA3MDMgODc3 Balanced—approach|MjMgMTQwIDg5MCA0NjggOTIz rule|MjMgNDgzIDg5MCA1NDMgOTE2 sets|MjMgNTU4IDg5MCA2MjIgOTE2 a|MjMgNjM1IDg5NiA2NTMgOTE2 =|MjMgNjY4IDg5OSA2ODYgOTEw 0.5,|MjMgNjk5IDg5MCA3NTYgOTIx b|MjMgNzcyIDg5MCA3ODkgOTE2 =|MjMgODAzIDg5OSA4MjAgOTEw 1.0.|MjMgODM4IDg5MCA4OTMgOTE2 ",
-  "document_type": "Speech",
-  "release_date": "2017-02-22T12:00:00Z",
-  "speaker": "Jerome H. Powell",
-  "event_name": "Forecasters Club of New York Luncheon",
-  "event_location": "New York, New York"
+  "document_type": null
 }

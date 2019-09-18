@@ -15,28 +15,6 @@ Write-Host "Extracts in :" $directory_path
 Write-Host "PDF Files:" $files_root_path
 Write-Host "Solr Docs:" $target_solr_docs
 
-
-
-# Load up the CSV file with additional metadata
-$metadata_csv = import-csv “./speeches_metadata.csv”
-
-$metadata_lookup = @{}
-
-ForEach ($row in $metadata_csv){
-  $actual_document_type = $($row.'Actual Document Type')
-  $file_name = $($row.'File Name')
-  $release_date = $($row.'Release Date')
-  $title = $($row.Title)
-  $speaker = $($row.Speaker)
-  $event_name = $($row.'Event Name')
-  $event_location = $($row.'Event Location')
-  #Write-host $computername $ipaddress $office $owner
-
-  $metadata_lookup[$file_name] = $row
-}
-
-
-
 $files_root_path = Resolve-Path $files_root_path
 
 $base_files = Get-ChildItem -Path $directory_path –Recurse | Where-Object {$_.Extension -eq ".json"}
@@ -92,50 +70,22 @@ foreach ($base_file in $base_files) {
     #Write-Host $bbox
     $page_dimension = $bbox
 
-    # Add additional metadata from lookup file
-    $metadata_row = $metadata_lookup[$outputFile]
-
-    $actual_document_type = $($metadata_row.'Actual Document Type')
-    $file_name = $($metadata_row.'File Name')
-    $release_date = $($metadata_row.'Release Date')
-    if ($release_date){
-      $release_date = Get-Date -Format "yyyy-MM-ddThh:mm:ssZ" $release_date
-    }
-    $title = $($metadata_row.Title)
-    $speaker = $($metadata_row.Speaker)
-    $event_name = $($metadata_row.'Event Name')
-    if ($event_name -eq '0'){
-      $event_name = ''
-    }
-    $event_location = $($metadata_row.'Event Location')
-    if ($event_location -eq '0'){
-      $event_location = ''
-    }
-
     $hocr_file = $outputPath + "_" + $page_number + '.hocr'
     $hocr = (Get-Content $hocr_file)
 
     $text_file = $outputPath + "_" + $page_number +  '.txt'
     $text = (Get-Content $text_file)
 
-
     $jsonDoc = [pscustomobject]@{
         id = $outputFile + "_" + $page_number
         doc_id = $outputFile
         content_type = "pdf"
-        title = $title
         page_dimension = $page_dimension
         page_number = $page_number
         path = $path
         content = [string]$text
         content_ocr = [string]$hocr
         document_type = $actual_document_type
-        release_date = $release_date
-        speaker = $speaker
-        event_name = $event_name
-        event_location = $event_location
-
-
     }
     # Uncomment to see the json to be sent to Solr
     #$jsonDoc

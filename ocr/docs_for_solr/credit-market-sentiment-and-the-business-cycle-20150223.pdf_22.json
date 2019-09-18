@@ -2,15 +2,10 @@
   "id": "credit-market-sentiment-and-the-business-cycle-20150223.pdf_22",
   "doc_id": "credit-market-sentiment-and-the-business-cycle-20150223.pdf",
   "content_type": "pdf",
-  "title": null,
   "page_dimension": " 0 0 725 544",
   "page_number": 22,
   "path": "/lots-of-files/credit-market-sentiment-and-the-business-cycle-20150223.pdf",
   "content": " Financial Market Sentiment & Economic Growth Dep. Variable: \\( \\Delta y_t \\) Sample Period II: 1952-2007;  NOTE: Standard errors i n  parentheses: * \\( p \\lt .10 \\), ** \\( p \\lt .05 \\),  an d * * *  \\( p \\lt .01 \\).  Regressors (1) (2) (3) (4) (5)  \\( \\Delta \\hat{s}_t \\) - 3 . 0 3 1 * * *  [Footnote:   \\( p \\lt .01 \\). End footnote.]  ( 0 . 7 0 2 )  -2 .938*** (0.789)  -3.166*** (0.982)  \\( \\hat{r}_t̂M \\) -0.028 (0.031)  -0.023 (0.026)  \\( \\hat{r}_t̂{SP} \\) 0.031 (0.039)  -  0. 029  (0.069)  \\( \\Delta y_{t-1} \\) 0.126 (0.126)  0.034 (0.134)  0.063 (0.127)  0.109 (0.143)  0.118 (0.142)  \\( R̂2 \\) 0.107 0.013 0.006 0.114 0.109 ",
   "content_ocr": "Financial|MjIgMTkgMjEgMTIxIDQx Market|MjIgMTMzIDIxIDIxMyA0MQ== Sentiment|MjIgMjIzIDIxIDMzNyA0MQ== &|MjIgMzQ3IDIxIDM2NiA0MQ== Economic|MjIgMzc3IDIxIDQ4OCA0MQ== Growth|MjIgNDk5IDIxIDU4MyA0MQ== Dep.|MjIgMTggNTYgNTIgNzI= Variable:|MjIgNTggNTYgMTI1IDY4 (xf|MjIgMTI2IDQ2IDE2OSA3OA== Sample|MjIgMTcyIDQ2IDIxOCA3OA== Period|MjIgMjMyIDU2IDI4MSA2OA== II:|MjIgMjg3IDU2IDMwNCA2OA== 1952-2007|MjIgMzE0IDU2IDM5MCA2OQ== Regressors|MjIgNTggMTkzIDE0MCAyMjA= a|MjIgMjQ4IDIwNCAyNjQgMjE4 Q)|MjIgMzQwIDIwMSAzNTYgMjE1 @)|MjIgNDMzIDIwMSA0NDkgMjE1 ‘a|MjIgNDUgMjI5IDkzIDI2MA== sas|MjIgMjI2IDI0MSAyNjUgMjQ4 (0.702)|MjIgMjMyIDI2MCAyNzYgMjY4 -0.028|MjIgMzE4IDI3NSAzNjQgMjg2 es|MjIgNjggMjgyIDg4IDI5Mw== (0.031)|MjIgMzI1IDI5MyAzNzEgMzA3 9|MjIgNzIgMzIwIDg0IDMzMQ== 0.031|MjIgNDIzIDMxMyA0NTUgMzI0 (0.039)|MjIgNDE3IDMzMiA0NjMgMzQ2 (ayy)|MjIgNjkgMzU0IDEwOCAzNjM= 0.126|MjIgMjI4IDM0MSAyNzMgMzcy 0.034|MjIgMzMwIDM0MSAzNjMgMzcy 0.063|MjIgNDIzIDM1MSA0NTcgMzYy (0.126)|MjIgMjMyIDM1OSAyNzggMzkw (0.134)|MjIgMzI1IDM1OSAzNzEgMzkw (0.127)|MjIgNDE3IDM2OSA0NjMgMzgz we|MjIgNjcgMzkyIDgxIDQwMQ== 0.107|MjIgMjM4IDM4OSAyNzMgNDAw 0.013|MjIgMzIxIDM4MCAzNjQgNDEw 0.006|MjIgNDIzIDM4OSA0NTggNDAw Note:|MjIgNjMgNDE5IDg4IDQyNw== Standarderrorsin|MjIgOTkgNDEwIDE4MSA0Mzg= parentheses:|MjIgMTgyIDQxMCAyNDEgNDM4 *|MjIgMjUyIDQxOSAyNTYgNDIz (p\\k.10),|MjIgMjYyIDQxOSAzMDEgNDI5 **|MjIgMzA5IDQxOSAzMjAgNDIz pll.05\\,.and***|MjIgMzI2IDQxOSA0MzYgNDI5 (pK|MjIgNDExIDQxMCA0MzcgNDM4 019.|MjIgNDQxIDQxOSA0NTcgNDI4 @)|MjIgNTI1IDIwMSA1NDEgMjE1 2.938\"|MjIgNTAzIDIzNCA1NzMgMjQ2 6)|MjIgNjE3IDIwMyA2MzQgMjE3 -3.166***|MjIgNTk1IDIzNyA2NjMgMjQ4 (0.982)|MjIgNjAyIDI1NiA2NDggMjY5 ~|MjIgNTk1IDMxOSA2MDAgMzIx 0.029|MjIgNjA4IDMxMyA2NDIgMzI0 ",
-  "document_type": null,
-  "release_date": null,
-  "speaker": null,
-  "event_name": null,
-  "event_location": null
+  "document_type": null
 }

@@ -2,15 +2,10 @@
   "id": "fischer20151112a.pdf_14",
   "doc_id": "fischer20151112a.pdf",
   "content_type": "pdf",
-  "title": "The Transmission of Exchange Rate Changes to Output and Inflation",
   "page_dimension": " 0 0 1224 1584",
   "page_number": 14,
   "path": "/lots-of-files/fischer20151112a.pdf",
   "content": " 0 4 8 12 −1.0  −0.8  −0.6  −0.4  −0.2   0.0   0.2   0.4   0.6   0.8   1.0  Figure 4.  Estimated Effect of 10 Percent Dollar Appreciation on U.S. Core Inflation  Quarters after shock  Deviation from baseline (pp), annual rate  Source:  Calculations performed by Federal Reserve staff based on an estimated inflation model. ",
   "content_ocr": "Figure|MTQgNjcgMzMwIDE1MCAzNTc= 4.|MTQgMTU5IDMzMSAxODAgMzUx Estimated|MTQgMTk5IDMzMCAzMjkgMzUx Effect|MTQgMzQxIDMzMCA0MTYgMzUx of|MTQgNDI1IDMzMCA0NTAgMzUx 10|MTQgNDYwIDMzMSA0ODkgMzUx Percent|MTQgNTAwIDMzMSA1OTkgMzUx Dollar|MTQgNjEwIDMzMSA2ODcgMzUx Appreciation|MTQgNjk2IDMzMCA4NjQgMzU3 on|MTQgODc1IDMzNSA5MDYgMzUx U.S.|MTQgOTE4IDMzMCA5NjkgMzUx Core|MTQgOTc5IDMzMCAxMDQxIDM1MQ== Inflation|MTQgMTA1MiAzMzAgMTE1NyAzNTE= Deviation|MTQgNzQzIDM2NyA4MTYgMzgx from|MTQgODIyIDM2NyA4NTcgMzgx baseline|MTQgODY0IDM2NyA5MjkgMzgx (pp),|MTQgOTM2IDM2NyA5NzEgMzg0 annual|MTQgOTc4IDM2NyAxMDMwIDM4MQ== rate|MTQgMTAzNyAzNjggMTA2NiAzODE= T|MTQgNzcxIDM4OCA3NzIgMzk2 |MTQgMTg4IDM4NyAxMDMxIDM4OA== 1.0|MTQgMTU2IDM4MSAxODEgMzk1 0.8F|MTQgMTU1IDQ0NyAxOTcgNDYy 4|MTQgMTAyMSA0NTQgMTAzMCA0NTU= 0.6-|MTQgMTU1IDUxNCAxOTcgNTI5 4|MTQgMTAyMSA1MjEgMTAzMCA1MjI= 0.47|MTQgMTU1IDU4MSAxOTcgNTk2 4|MTQgMTAyMSA1ODggMTAzMCA1ODk= 0.27|MTQgMTU1IDY0OCAxOTcgNjYz 4|MTQgMTAyMSA2NTUgMTAzMCA2NTY= 0.0|MTQgMTU1IDcxNSAxODEgNzMw |MTQgMTg4IDcyMiA4MDAgNzIz |MTQgMTg3IDM4NyAxOTAgMTA1OA== |MTQgMTAyOSAzODcgMTAzMiAxMDU4 |MTQgMTg4IDEwNTcgMTAzMSAxMDU4 -1.0|MTQgMTQ0IDEwNTAgMTgxIDEwNjU= L|MTQgMjUyIDEwNDggMjUzIDEwNTc= L|MTQgNTExIDEwNDggNTEyIDEwNTc= L|MTQgNzcxIDEwNDggNzcyIDEwNTc= 4|MTQgNTA3IDEwNjcgNTE3IDEwODE= 8|MTQgNzY2IDEwNjcgNzc2IDEwODI= Quarters|MTQgNTAxIDEwODggNTkzIDExMDc= after|MTQgNjAxIDEwODggNjQ4IDExMDY= shock|MTQgNjU2IDEwODggNzE3IDExMDY= Source:|MTQgNTYgMTEzMCAxMjMgMTE0NQ== Calculations|MTQgMTM2IDExMzAgMjQ0IDExNDU= performed|MTQgMjUxIDExMzAgMzQwIDExNDk= by|MTQgMzQ4IDExMzAgMzY3IDExNDk= Federal|MTQgMzc1IDExMzAgNDQwIDExNDU= Reserve|MTQgNDQ4IDExMzAgNTIwIDExNDU= staff|MTQgNTI3IDExMzAgNTY0IDExNDU= based|MTQgNTcxIDExMzAgNjIzIDExNDU= on|MTQgNjMxIDExMzQgNjUxIDExNDU= an|MTQgNjU5IDExMzQgNjc5IDExNDU= estimated|MTQgNjg2IDExMzAgNzcxIDExNDU= inflation|MTQgNzc5IDExMzAgODQ2IDExNDU= model.|MTQgODU0IDExMzAgOTExIDExNDU= ",
-  "document_type": "Speech",
-  "release_date": "2015-11-12T12:00:00Z",
-  "speaker": "Stanley Fischer",
-  "event_name": "�Monetary Policy Implementation and Transmission in the Post-Crisis Period,� a conference sponsored by the Board of Governors of the Federal Reserve System",
-  "event_location": "Washington, D.C."
+  "document_type": null
 }
