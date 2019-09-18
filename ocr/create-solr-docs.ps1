@@ -18,7 +18,7 @@ Write-Host "Solr Docs:" $target_solr_docs
 
 
 # Load up the CSV file with additional metadata
-$metadata_csv = import-csv “./Speeches_and_Testimony_FACTS_FINAL_20190801_bjg_foreric.csv”
+$metadata_csv = import-csv “./speeches_metadata.csv”
 
 $metadata_lookup = @{}
 
