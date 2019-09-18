@@ -84,9 +84,14 @@ form input[type="submit"] {
   border-color: #999;
 }
 
+.snippet-item.selected em {
+  background-color: rgba(255, 0, 0, 0.15);
+}
+
 .snippet-item em {
   background-color: rgba(0, 0, 255, 0.15);
   font-style: normal;
+  transition: background 0.33s cubic-bezier(0.445, 0.05, 0.55, 0.95);
 }
 
 .document-container {
@@ -94,4 +99,9 @@ form input[type="submit"] {
   width: 66.666%;
   background-color: #ccc;
   border: 1px solid #aaa;
+}
+
+.box-highlight.active {
+  background: red !important;
+  transition: background 0.33s cubic-bezier(0.445, 0.05, 0.55, 0.95);
 }
