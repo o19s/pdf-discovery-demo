@@ -10,16 +10,18 @@ You may need to do `docker-compose down -v` if you have already run the demo.
 
 Online you can access the app at http://165.22.182.252:8080/
 
-# Vue Component
+You will need to wait till the _init_ process finishes loading all of the Solr documents to use the website properly.
+
+## Vue Component
 `cd` into the `pdf-viewer` directory.
 
-## Development
+### Development
 ```
 npm install
 npm run serve
 ```
 
-## To build new version of pdf viewer standalone module
+### To build new version of pdf viewer standalone module
 from inside the `pdf-viewer` directory:
 
 ```
@@ -28,9 +30,9 @@ npx vue-cli-service build --target lib --name pdfviewer ./src/components/PDFVIew
 
 copy the `dist` directory contents into `/app/pdfviewer/`
 
-# Run Solr Demo
+## Run Solr Demo
 
-## setup from project root
+### setup from project root
 
 ```
 docker-compose down -v
@@ -45,7 +47,7 @@ http://localhost:8983/solr/documents/select?fl=id,content,path,page_dimensions&h
 ```
 
 
-# Building Docker images
+## Building Docker images
 Build the docker images from scratch via:
 
 ```
