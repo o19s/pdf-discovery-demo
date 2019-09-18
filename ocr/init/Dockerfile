@@ -18,8 +18,8 @@ RUN npm install http-server -g
 
 
 ADD init /code
+ADD docs_for_solr /docs_for_solr
 ADD files /files
-ADD extracts /extracts
 
 WORKDIR /code
 
