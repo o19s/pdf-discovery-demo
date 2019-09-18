@@ -1,0 +1,50 @@
+
+- 7 - 
+ 
+
+ But by how much?  Uncertainty about the likely effect complicated our calibration of the 
+
+purchases, and the symmetrical uncertainty about the effects of unwinding the actions--of 
+
+reducing our portfolio--will be a factor in our decisions about the timing and sequencing of steps 
+
+to return the portfolio to a more normal level and composition.  Good studies of these sorts of 
+
+actions are sparse.  Currently, we are relying in large part on studies that examine how much 
+
+interest rates dropped when purchases were announced in the United States or abroad.  But such 
+
+event studies may not be an ideal means to predict the consequences of reducing our portfolio, in 
+
+part because the economic and financial environment will be very different, and also because 
+
+event studies do not measure effects that develop or reverse over time.  We are also uncertain 
+
+about how, exactly, the purchases put downward pressure on interest rates.  My presumption has 
+
+been that the effect comes mainly from the total amount we purchase relative to the total stock of 
+
+debt outstanding.  However, others have argued that the market effect derives importantly from 
+
+the flow of our purchases relative to the amount of new issuance in the market. Some evidence 
+
+for the primacy of the stock channel has accumulated recently, as the prices of mortgage-backed 
+
+securities appear to have changed little as the flow of our purchases has trended down.   
+
+A second issue involves the effect of the large volume of reserves created as we buy 
+
+assets.  The Federal Reserve has funded its purchases by crediting the accounts that banks hold 
+
+with us.  Those deposits are called “reserve balances” and are part of bank reserves.  In our 
+
+explanations of our actions, we have concentrated, as I have just done, on the effects on the 
+
+prices of the assets we have been purchasing and the spillover to the prices of related assets.  The 
+
+huge quantity of bank reserves that were created has been seen largely as a byproduct of the 
+
+purchases that would be unlikely to have a significant independent effect on financial markets 
+
+and the economy.  This view is not consistent with the simple models in many textbooks or the 
+

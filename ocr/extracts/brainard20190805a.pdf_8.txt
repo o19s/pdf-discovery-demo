@@ -1,0 +1,50 @@
+
+- 7 - 
+ 
+
+has invested in connections and customer service relationships with nearly every bank, small and 
+
+large, across the country.  
+
+Currently, we provide payment services to nearly all banks either directly or indirectly. 
+
+With our 12 regional Reserve Banks, we have the capacity to meet the needs of banks serving 
+
+different communities and with different needs and operating models. For that reason, 
+
+commenters stated that the Federal Reserve is uniquely positioned to offer nationwide access to a 
+
+new payment and settlement service for faster payments. FedNow will allow faster payments to 
+
+reach banks of all sizes and their customers across the country, which is especially important for 
+
+rural communities, who often struggle with access to financial services.  
+
+Guided by our public mission, the Federal Reserve serves the needs of all banks, no 
+
+matter how small or challenging to reach, and with competitive fairness. In response to our 
+
+request for feedback last November, several commenters emphasized how much they value the 
+
+Federal Reserve’s mission of providing nationwide access on fair, transparent terms and 
+
+expressed concern that a sole private-sector RTGS service provider may be less likely to exhibit 
+
+the same commitment over the long run.  
+
+Safety is also vital. If the Federal Reserve does not establish the FedNow Service, there 
+
+will be a single provider of real-time retail payment services. We are mindful of the serious 
+
+safety issues associated with a single point of failure, a risk that will rise as faster payments 
+
+grow. Stakeholders have noted the importance of having access to more than one real-time 
+
+payment service for back-up purposes in order to provide resiliency through redundancy. In fact, 
+
+many banks already take advantage of having connections to multiple operators today in check, 
+
+ACH, and wire services. The Federal Reserve has always had a vital role in promoting the safety 
+
+and stability of the U.S. payment system by providing liquidity and operational continuity 
+

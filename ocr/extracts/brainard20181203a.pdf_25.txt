@@ -1,0 +1,54 @@
+
+9
+
+Figure 8
+Average Daily Volume by Settlement
+
+Source: Board staff calculations, based on Trade Reporting and Compliance Engine (TRACE) data from 
+the Financial Industry Regulatory Authority (FINRA). Sample is from August 1, 2017, to July 31, 2018.
+
+21
+
+471
+
+34 23 9 5 4
+0
+
+50
+
+100
+
+150
+
+200
+
+250
+
+300
+
+350
+
+400
+
+450
+
+500
+
+T+0 T+1 T+2 T+3 T+4 T+5 >T+5
+
+Bi
+lli
+
+on
+s o
+
+f D
+ol
+
+la
+rs
+
+T+0: 4%
+
+T+1: 83%
+

@@ -1,0 +1,51 @@
+
+- 9 - 
+ 
+
+
+The FOMC has also acted to improve market functioning and to push longer-term 
+
+interest rates lower through its large-scale purchases of agency debt, agency mortgage-
+
+backed securities (MBS), and longer-term Treasury securities, of which the Federal 
+
+Reserve currently holds more than $2 trillion.  The channels through which the Fed’s 
+
+purchases affect longer-term interest rates and financial conditions more generally have 
+
+been subject to debate.  I see the evidence as most favorable to the view that such 
+
+purchases work primarily through the so-called portfolio balance channel, which holds 
+
+that once short-term interest rates have reached zero, the Federal Reserve’s purchases of 
+
+longer-term securities affect financial conditions by changing the quantity and mix of 
+
+financial assets held by the public.  Specifically, the Fed’s strategy relies on the 
+
+presumption that different financial assets are not perfect substitutes in investors’ 
+
+portfolios, so that changes in the net supply of an asset available to investors affect its 
+
+yield and those of broadly similar assets.  Thus, our purchases of Treasury, agency debt, 
+
+and agency MBS likely both reduced the yields on those securities and also pushed 
+
+investors into holding other assets with similar characteristics, such as credit risk and 
+
+duration.  For example, some investors who sold MBS to the Fed may have replaced 
+
+them in their portfolios with longer-term, high-quality corporate bonds, depressing the 
+
+yields on those assets as well.   
+
+The logic of the portfolio balance channel implies that the degree of 
+
+accommodation delivered by the Federal Reserve’s securities purchase program is 
+
+determined primarily by the quantity and mix of securities the central bank holds or is 
+
+anticipated to hold at a point in time (the “stock view”), rather than by the current pace of 
+
+new purchases (the “flow view”).  In support of the stock view, the cessation of the 
+

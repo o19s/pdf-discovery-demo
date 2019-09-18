@@ -1,0 +1,50 @@
+
+ - 3 - 
+
+proved to be empirically unstable, and there was often only a very loose connection 
+
+between the growth rate of the monetary base—which the central bank could control—
+
+and the growth rate of the broader monetary aggregates, which are more tightly linked to 
+
+economic activity.  Moreover, the macroeconomic priority in the 1980s in the United 
+
+States, the United Kingdom, and other major countries was to do “whatever it takes” to 
+
+break the back of inflation and to restore the credibility squandered by central banks that 
+
+had been unable or unwilling to provide a nominal anchor after the collapse of the 
+
+Bretton Woods system. 
+
+By the early 1990s, the back of inflation had been broken (thank you, Paul 
+
+Volcker), conditions for price stability had been achieved (thank you, Alan Greenspan), 
+
+and the time was right for something to fill the vacuum in central bank practice left by the 
+
+realization that monetary aggregate targeting was not, in practice, a workable monetary 
+
+policy framework.  Although it was mostly unspoken, there was a growing sense at the 
+
+time that a simple, systematic framework for central bank practice was needed to ensure 
+
+that the hard-won gains from breaking the back of inflation were not given away by 
+
+short-sighted, discretionary monetary experiments that were poorly executed, such as had 
+
+been the case in the 1970s. 
+
+Policy Rate Rules 
+
+That vacuum, of course, was filled by John Taylor in his classic 1993 paper, 
+
+“Discretion vs. Policy Rules in Practice.”  Again, for this audience, I will not need to 
+
+remind you of the enormous impact this single paper had not only on the field of 
+
+                                                 
+ultimate objectives for the output gap and inflation figured as criteria for policy decisions.  See, for 
+example, Taylor (1995, 1999), Clarida (1999), and Clarida, Galí, and Gertler (2000).  In addition, Poole 
+(1970) and Woodford (2003) are key references on the theoretical criticisms of monetary targeting. 
+

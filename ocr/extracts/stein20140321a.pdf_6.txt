@@ -1,0 +1,49 @@
+
+ - 5 - 
+
+non-operational.  So I will turn to measurement in a moment.  But it is worth noting one 
+
+useful qualitative observation that emerges just from the logic and from the nature of a 
+
+quadratic loss function.  In making the tradeoff I just described, the marginal benefit of 
+
+using easier policy to reduce the expected unemployment gap is greater when the gap 
+
+itself is large--that is, when unemployment is far above target.  In this case, even a quite 
+
+high level of financial vulnerability may not imply a much different stance of monetary 
+
+policy than would fall out of a more traditional analysis.  However, as the unemployment 
+
+gap shrinks, financial stability risks loom larger in relative terms, so an analysis that takes 
+
+them on board may lead to more of an adjustment in the stance of policy. 
+
+Okay, But How Do You Measure Financial Market Vulnerability? 
+
+Financial Sector Leverage 
+
+At an abstract level, the framework that I have sketched corresponds closely to 
+
+that in Woodford’s work, although his model is much more fully articulated.  When it 
+
+gets down to implementation, Woodford suggests that the most natural measure of 
+
+financial market vulnerability is a variable that captures “leverage in the financial sector.”  
+
+In other words, faced with unemployment above target, he would have monetary policy 
+
+be less accommodative, all else being equal, when financial-sector leverage is high.  This 
+
+recommendation rests on three key premises.  First, when financial-sector leverage is 
+
+high, the probability of a severe crisis in which multiple large intermediaries become 
+
+insolvent is elevated--that is, we are more likely to have a replay of what happened in 
+
+2008 and 2009.  Second, easy monetary policy is asserted to increase the incentives for 
+
+the financial sector to lever up.  And, third, focusing on leverage as opposed to asset 
+
+prices avoids putting the central bank in the position of having to “spot bubbles”:  Even if 
+

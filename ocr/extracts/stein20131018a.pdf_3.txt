@@ -1,0 +1,52 @@
+
+ - 2 - 
+
+that is, measures that can be adapted in response to changing economic or financial 
+
+conditions.  At the risk of caricature, one can distinguish three schools of thought.  The 
+
+first school is generally suspicious of any kind of time-varying lean, be it with 
+
+macroprudential tools such as time-varying, countercyclical capital buffers or margin 
+
+requirements, or with monetary policy.  This school emphasizes the difficulty of 
+
+identifying emerging financial imbalances in real time.  It also points to the political-
+
+economy and regulatory-arbitrage impediments that can frustrate the implementation of 
+
+discretionary time-varying regulation.2 
+
+ The second school is more comfortable with the idea of time-varying leans, but 
+
+invokes what amounts to a separation principle: It takes the view that any financial-
+
+stability-motivated leans should come largely, if not entirely, from time-variation in the 
+
+application of regulatory and supervisory tools, while monetary policy should stick to its 
+
+traditional dual-mandate objectives of fostering full employment and maintaining price 
+
+stability. 
+
+ The third school is more heterodox.  Like the first, it acknowledges that there are 
+
+a variety of practical limitations associated with discretionary time-varying regulation, 
+
+though the severity of these limitations may vary considerably across different countries, 
+
+markets, and institutional arrangements.3  In cases where regulation can be effectively 
+
+adjusted over time, doing so remains the preferred approach.  But in other situations, and 
+
+especially when the imbalances in question are relatively pronounced or widespread 
+                                                 
+2 For a forceful exposition of this view, see John Cochrane (2013), “The Danger of an All-Powerful Federal 
+Reserve,” Wall Street Journal, August 26, 
+http://online.wsj.com/article/SB10001424127887323906804579036571835323800.html 
+3 For a fuller discussion of both the potential and limits of time-varying regulation, see Daniel K. Tarullo 
+(2013), “Macroprudential Regulation,” speech delivered at the Yale Law School Conference on Challenges 
+in Global Financial Services, New Haven, Conn., September 20,  
+www.federalreserve.gov/newsevents/speech/tarullo20130920a.htm 
+ 
+

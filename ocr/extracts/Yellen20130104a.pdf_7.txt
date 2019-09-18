@@ -1,0 +1,58 @@
+
+ - 6 - 
+
+bank since the shock can be distributed among all banks in the system.  In the incomplete 
+
+network, funding is not diversified.  A liquidity shock at one bank is more likely to cause 
+
+liquidity problems at other connected banks because the same shock is spread over fewer 
+
+banks and is therefore larger and more destabilizing.  The principle behind this result is 
+
+familiar and basic to economics:  Diversification reduces risk and improves stability.  
+
+While this idea is compelling, both economic research and the events of the financial 
+
+crisis suggest that it is incomplete.    
+
+In their classic paper on bank runs, Douglas Diamond and Philip Dybvig showed 
+
+how rational and prudent actions by individual depositors to limit their own risks may be 
+
+highly destabilizing to an institution designed to transform short-term liabilities into long-
+
+term assets.
+8
+  Xavier Freixas, Bruno Parigi, and Jean-Charles Rochet show that a similar 
+
+kind of collective action problem can arise in a network akin to a modern check-clearing 
+
+system in which credit extensions among banks allow claims on one institution to be 
+
+fulfilled by another.
+9
+  Such a system is socially useful because it allows depositors to shift 
+
+funds among banks without forcing banks to sell illiquid assets, thus enabling society as a 
+
+whole to undertake more productive, long-term investment.  But in times of stress or 
+
+uncertainty, such systems can be subject to coordination failures:  A “gridlock” 
+
+equilibrium can arise in which depositors at each bank withdraw funds early in order to 
+
+avoid losses arising from credit extensions to other banks whose depositors are also 
+
+expected to force an early liquidation of assets.  In Freixas, Parigi, and Rochet (2000), 
+
+interbank credit extensions, while useful, can result in institutions that are “too 
+
+interconnected to fail.”  These models underscore that the pattern of connections 
+
+                                                 
+8
+ See Diamond and Dybvig (1983). 
+
+9
+ See Freixas, Parigi, and Rochet (2000). 
+

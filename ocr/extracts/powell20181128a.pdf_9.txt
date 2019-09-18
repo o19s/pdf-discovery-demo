@@ -1,0 +1,51 @@
+
+ - 8 - 
+
+saw this chain of events play out repeatedly in various parts of the financial sector in the 
+
+weeks following the failure of Lehman Brothers in 2008.   
+
+In our surveillance, we examine leverage across many types of financial 
+
+institutions, including banks, insurance companies, hedge funds, and various funding 
+
+vehicles.  Currently, we do not detect a broad-based buildup of abnormal or excessive 
+
+leverage.  As with banks, capital levels at insurance companies and broker-dealers appear 
+
+robust.  In addition, securitization levels are far below their pre-crisis levels, and those 
+
+structures that do exist rely on more stable funding (see figure 4).  Our view into leverage 
+
+and risk-taking outside the banking sector is admittedly incomplete, however, and we are 
+
+always working to get a better view of emerging leverage excesses.8 
+
+The second vulnerability is funding risk, which arises when banks or nonbank 
+
+financial entities rely on funding that can be rapidly withdrawn.  If depositors or market 
+
+participants lose faith in the soundness of an institution or the system as a whole, unstable 
+
+funding can simply vanish in what is called a “run.”  During the crisis, we saw 
+
+widespread runs, including at broker-dealers, some segments of the repo market, and 
+
+money market mutual funds.  These runs did severe damage, contributing to a 
+
+generalized panic at the time.  Had the authorities not stepped in, the damage could have 
+
+been even more severe.   
+
+Today we view funding-risk vulnerabilities as low.  Banks hold low levels of 
+
+liabilities that are able and likely to run, and they hold high levels of liquid assets to fund 
+
+any outflows that do occur.  Money market mutual fund reforms have greatly reduced the 
+
+run risk in that sector.  More generally, it is short-term, uninsured funding that would be 
+
+                                                 
+8 Sometimes we look to bank lending for information.  Data from the stress tests suggest that the nation’s 
+largest banks have committed about $1 trillion in lines of credit to nonbanks.   
+

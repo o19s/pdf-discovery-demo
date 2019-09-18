@@ -1,0 +1,50 @@
+
+- 8 - 
+ 
+
+note in this regard that it will be essential that any global SIFI capital standards, as well as Basel 
+
+III, be rigorously enforced in all Basel Committee countries. 
+
+Work on this subject in the Basel Committee started a bit slowly, but it has picked up 
+
+considerably in recent months.  Although there is not yet consensus on some of the key elements, 
+
+discussions have decidedly moved in that direction.  I am hopeful that in the next several months 
+
+we will be able to agree upon a proposal on which the Basel Committee can seek public 
+
+comment.  This international process would roughly coincide with a domestic notice and 
+
+comment process on a proposed Federal Reserve rulemaking covering enhanced prudential 
+
+standards for SIFIs.  The parallelism of the international and domestic processes should facilitate 
+
+the goal of congruence.  Of course, we will in any case apply our enhanced standards, as required 
+
+by Dodd-Frank, to foreign banking organizations operating in the United States. 
+
+Calibrating the Enhanced Capital Standards 
+
+ As I mentioned earlier, the minimum and conservation buffer capital requirements of 
+
+Basel III were calibrated by looking to the loss experience of larger banks.  The intuition behind 
+
+this approach was that historical loss experience provided the best basis for determining the 
+
+amount of capital a bank would need in order to be regarded by counterparties as a viable 
+
+financial intermediary.  The minimum requirement was calculated by reference to the loss 
+
+experiences of larger banks over several decades.  The conservation buffer, intended to be the 
+
+amount of capital necessary for a bank to withstand losses during a period of stress and still be 
+
+above minimum required levels, was calculated by reference to the recent financial crisis.   
+
+ A number of significant assumptions must be made in conducting analyses of this sort.  
+
+For this reason, we found it more sensible to think in terms of ranges of capital requirements 
+
+implied by this approach, rather than a specific number.  Setting the final requirements still 
+

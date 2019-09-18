@@ -1,0 +1,23 @@
+
+0
+
+15
+
+30
+
+45
+
+60
+
+75
+
+Word countQuarterly
+
+1994 1998 2002 2006 2010 2014 2018
+
+Figure 7.  Appearance of the Words "Shortage(s)" and "Bottleneck(s)" in 
+                the Federal Reserve’s Beige Book
+
+      Note:  The series is the sum of the word counts in the two Beige Books for each quarter.  Data extend through 2018:Q3.
+      Source:  Federal Reserve Board staff calculations.
+

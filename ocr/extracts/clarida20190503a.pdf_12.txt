@@ -1,0 +1,47 @@
+
+ - 11 - 
+
+next 5 to 10 years from the University of Michigan Surveys of Consumers (figure 5).  
+
+Market- and survey-based estimates of expected inflation are correlated, but, again, when 
+
+there is a divergence between the two, I place at least as much weight on the survey 
+
+evidence as on the market-derived estimates. 
+
+The examples I have mentioned illustrate the important point that, in practice, 
+
+there is not typically a clean distinction between “model-based” and “market-based” 
+
+inference of key economic variables such as r* and expected inflation.  The reason is that 
+
+market prices reflect not only market expectations, but also risk and liquidity premiums 
+
+that need to be filtered out to recover the object of interest—for example, expected 
+
+inflation or long-run r*.  This filtering almost always requires a model of some sort, so 
+
+even market-based estimates of key inputs to monetary policy are, to some extent, model 
+
+dependent. 
+
+Implications for Monetary Policy 
+
+Let me now draw together some implications of the approach to models, markets, 
+
+and monetary policy I have laid out in these remarks.  Macroeconomic models are, of 
+
+course, an essential tool for monetary policy analysis, but the structure of the economy 
+
+evolves, and the policy framework must be—and I believe, at the Federal Reserve, is—
+
+nimble enough to respect this evolution.  While financial market signals can and 
+
+sometimes do provide a reality check on the predictions of “a model gone astray,” market 
+
+prices are, at best, noisy signals of the macroeconomic variables of interest, and the 
+
+process of filtering out the noise itself requires a model—and good judgment.  Survey 
+
+estimates of the long-run destination for key monetary policy inputs can—and, at the Fed, 
+

@@ -1,0 +1,52 @@
+
+ - 7 -
+
+This observation carries an immediate implication:  It makes no sense to allow 
+
+unpriced access to the central bank’s LOLR capacity to count toward an LCR 
+
+requirement.  Again, the whole point of liquidity regulation must be either to conserve on 
+
+the use of the LOLR or in the limit, to address situations where the LOLR is not available 
+
+at all--as, for example, in the case of broker-dealers in the United States.10 
+
+At the same time, it is important to draw a distinction between priced and 
+
+unpriced access to the LOLR.  For example, take the case of Australia, where prudent 
+
+fiscal policy has led to a relatively small stock of government debt outstanding and hence 
+
+to a potential shortage of HQLA.  The Basel Committee has agreed to the use by 
+
+Australia of a Committed Liquidity Facility (CLF), whereby an Australian bank can pay 
+
+the Reserve Bank of Australia an up-front fee for what is effectively a loan commitment, 
+
+and this loan commitment can then be counted toward its HQLA.  In contrast to free 
+
+access to the LOLR, this approach is not at odds with the goals of liquidity regulation 
+
+because the up-front fee is effectively a tax that serves to deter reliance on the LOLR--
+
+which, again, is precisely the ultimate goal.  I will return to the idea of a CLF shortly. 
+
+The Design of Regulation 
+
+Once it has been decided that liquidity regulation is desirable, the next question is 
+
+how best to implement it.  In this context, note that the LCR has two logically distinct 
+
+aspects as a regulatory tool:  It is a mitigator, in the sense that holding liquid assets leads 
+
+to a better outcome if there is a bad shock; it is also an implicit tax on liquidity provision 
+
+by banks, to the extent that holding liquid assets is costly.  Of course, one can say 
+
+                                                 
+10 The fact that broker-dealers do not have access to the LOLR in the United States is, of course, ultimately 
+a policy choice, and one that can be thought of as reflecting exactly the considerations discussed here:  
+Whatever its merits, extending the LOLR to broker-dealers would increase taxpayer exposure and 
+potentially exacerbate moral hazard problems.  Hence there may be a rationale for restricting its availability 
+and relying on regulation instead. 
+

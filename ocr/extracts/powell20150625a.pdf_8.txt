@@ -1,0 +1,49 @@
+
+ - 7 - 
+
+identifying these standards and coordinating their adoption among network participants.  
+
+The EMV rollout that is taking place right now is a good example. 
+
+The market should be the primary driver of change, and government should avoid 
+
+stifling healthy innovation.  But policymakers can play a role by actively listening to 
+
+concerns from the public regarding barriers or gaps in regulatory regimes that may create 
+
+disincentives for developing new, safe products.  Policymakers can also bring industry 
+
+participants together.  The task forces that were created as part of the Fed’s payment 
+
+system improvement effort bring together a wide range of payment system participants to 
+
+sit at the drafting table to create a blueprint for a safer and more efficient payment 
+
+system.  
+
+Complacency is everyone’s enemy.  Unfortunately, the firms involved in the 
+
+payment system are not the only ones innovating:  criminals have an ever-increasing 
+
+arsenal of cyberweapons at their disposal.  That brings me to my second point.  
+
+2. Prevention 
+
+You will be attacked.  Criminals today are often motivated, intelligent, well-
+
+organized and well-funded.  They also have varied interests:  some seek financial gain, 
+
+while others hope to disrupt our nation’s financial institutions and payment system.  What 
+
+should we be doing to prepare?  One clear area of focus needs to be on implementing 
+
+preventive tools, or simply put, defensive tactics.  You won’t survive the game if you 
+
+don’t play good defense.   
+
+The deployment of EMV chip cards in the United States represents an important 
+
+step forward.  But we should not stop there.  For many years, traditional authentication 
+
+methods like signatures and static passwords have been used to verify that an individual 
+

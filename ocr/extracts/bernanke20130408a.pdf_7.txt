@@ -1,0 +1,50 @@
+
+- 6 - 
+ 
+
+so-called tail risks; by design, stress tests help ensure that banks will have enough capital 
+
+to keep lending even under highly adverse circumstances.  Second, as applied by the 
+
+Federal Reserve, the stress tests look horizontally across banks rather than at a single 
+
+bank in isolation.  This comparative approach promotes more-consistent supervisory 
+
+standards.  It also provides valuable systemic information by revealing how significant 
+
+economic or financial shocks would affect the largest banks collectively as well as 
+
+individually.  Third, the disclosures of stress test results promote transparency by 
+
+providing the public consistent and comparable information about banks’ financial 
+
+conditions.   
+
+ The basic methodology of our stress testing has also not changed materially since 
+
+the SCAP.  We continue to take a multidisciplinary approach, drawing on a wide range of 
+
+staff expertise.  To begin the process, our economists create a hypothetical 
+
+macroeconomic scenario that incorporates an assumed sharp deterioration in economic 
+
+and financial conditions.  Supervisors estimate each bank’s expected losses and revenues 
+
+and we use these estimates to project post-stress capital levels and ratios under that 
+
+hypothetical scenario.  The estimated capital ratios are then compared with regulatory 
+
+benchmarks. We use a common scenario for all firms; for the firms with the largest 
+
+trading activities, we supplement the basic scenario with a market-shock scenario that 
+
+incorporates market turbulence of severity similar to that of the latter half of 2008.     
+
+ Although the basic goals and approach of stress testing have remained largely 
+
+unchanged since the SCAP, the implementation has evolved and improved from year to 
+
+year.  For example, we have continued to refine the formulation of the hypothetical 
+
+scenarios that form the basis of the stress tests.  As explained in a statement we released 
+

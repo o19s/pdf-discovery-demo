@@ -1,0 +1,56 @@
+
+
+I’m delighted to be speaking to this group; it’s really an honor.  Given the 
+
+audience--and because I may never again have so many economists in front of me at one 
+
+time--I thought that rather than giving a policy-oriented speech, I would test-drive a new 
+
+research project.  The project is ongoing joint work with Samuel Hanson and Andrei 
+
+Shleifer of Harvard and with Robert Vishny of the University of Chicago.  We haven’t 
+
+quite finished writing up the paper, but we have most of the raw material and a pretty 
+
+good idea of where we are trying to go, so I figured I would give it a shot.
+1
+   
+
+Our aim is primarily positive, as opposed to normative:  We’re interested in better 
+
+understanding the economic role played by commercial banks, as well as the interplay 
+
+between the traditional commercial banking sector and the so-called shadow-banking 
+
+sector, which includes various non-bank intermediaries such as broker-dealers, money-
+
+market funds, and hedge funds.   
+
+It would be an understatement to say that the literature on the role of banks is 
+
+vast.  Without attempting to do it justice, let me just note three prominent classes of 
+
+theories.  The first focuses on the liability side of banks’ balance sheets--that is, their 
+
+deposit-taking role.  In this view, what is most important about banks is that they create 
+
+safe claims which, precisely because of their safety and immunity from adverse-selection 
+
+problems, are useful as a transactions medium.
+2
+  In other words, banks are special 
+
+because they are the institutions that create private, or “inside,” money.  Although it does 
+
+not necessarily follow as a logical matter, this view has led some observers to advocate 
+
+                                                 
+1
+ The views expressed here are my own and are not necessarily shared by other members of the Federal 
+
+Reserve Board and the Federal Open Market Committee.  
+2
+ See Gorton and Pennacchi (1990) for an early articulation of the idea that bank liabilities are designed to 
+
+minimize adverse-selection problems and hence facilitate exchange between uninformed parties. 
+

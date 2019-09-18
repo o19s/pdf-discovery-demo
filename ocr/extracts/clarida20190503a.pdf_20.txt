@@ -1,0 +1,10 @@
+
+Figure 3.  Projections of the Federal Funds Rate Path Implied by
+Surveys and Market Quotes
+
+Note: The path with zero term premium is estimated using overnight index swap quotes with a spline approach and a term premium of 0 
+basis points.
+
+Source: Bloomberg Finance LP; Federal Reserve Board staff estimates; Wolters Kluwer, Blue Chip Financial Forecasts; Federal Reserve
+Bank of New York, Survey of Primary Dealers and Survey of Market Participants.
+

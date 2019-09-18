@@ -1,0 +1,48 @@
+
+ - 8 - 
+
+So, how many more reserve balances can be drained, and how small will the 
+
+Fed’s balance sheet get?  Let me emphasize that this question is highly speculative--we 
+
+have not decided ex ante the desired long-run size of the Fed’s balance sheet, nor, as I 
+
+noted earlier, do we have a definitive handle on banks’ long-run demand for reserve 
+
+balances.  Indeed, the FOMC has said that it “expects to learn more about the underlying 
+
+demand for reserves during the process of balance sheet normalization.”10  Nonetheless, 
+
+let me spend a little time reflecting on this challenging question. 
+
+How banks respond to the Fed’s reduction in reserve balances could, in theory, 
+
+take a few different forms.  One could envision that as the Fed reduces its securities 
+
+holdings, a large share of which consists of Treasury securities, banks would easily 
+
+replace any reduction in reserve balances with Treasury holdings, thereby keeping their 
+
+LCRs roughly unchanged.  According to this line of thought, because central bank 
+
+reserve balances and Treasury securities are treated identically by the LCR, banks should 
+
+be largely indifferent to holding either asset to meet the regulation.  In that case, the 
+
+reduction in reserves and corresponding increase in Treasury holdings might occur with 
+
+relatively little adjustment in their relative rates of return.   
+
+Alternatively, one could argue that banks may have particular preferences about 
+
+the composition of their liquid assets.  And since banks are profit-maximizing entities, 
+
+they will likely compare rates of return across various HQLA-eligible assets in 
+
+determining how many reserves to hold.  If relative asset returns are a key driver of 
+
+reserve demand, then interest rates across various types of HQLA will adjust on an 
+
+                                                 
+10 See Board of Governors, “FOMC Issues Addendum,” paragraph 6, in note 7. 
+

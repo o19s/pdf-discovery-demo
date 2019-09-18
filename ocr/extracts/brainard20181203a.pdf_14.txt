@@ -1,0 +1,51 @@
+
+ - 13 - 
+
+represent only about 4 percent of total daily volume, with the rest concentrated primarily 
+
+on one-day settlement.  Same-day settlement volumes since the inception of TRACE 
+
+have never exceeded roughly 10 percent of the daily total.  Fortunately, we have not 
+
+recently observed a large liquidation of Treasury holdings for cash at the end of the same 
+
+day.  But we cannot rule out that this will always be the case.  It is not clear from the 
+
+TRACE data whether the market could accommodate a large sale of Treasury securities 
+
+later in the day, perhaps associated with a need to raise cash quickly to settle outstanding 
+
+positions, without causing a substantial move in prices.  It will be important to follow 
+
+closely how the market evolves in light of the potential risks and resilience issues 
+
+identified in the recent TMPG white paper on clearing and settlement in the secondary 
+
+market for U.S. Treasury securities.16 
+
+Before I conclude, let me discuss one other step the Board is planning to take to 
+
+help us keep up with the changing nature of markets.  The TRACE data are indispensable 
+
+in the IAWG’s ability to track and understand this market.  However, FINRA’s 
+
+collections are limited only to its members.  The Federal Reserve is close to finalizing an 
+
+agreement with FINRA to act as our agent in expanding the collection of Treasury 
+
+transactions to key banks that are also active in this market.  In addition, in light of recent 
+
+changes in the market, the Board has decided to issue a notice of proposed rulemaking to 
+
+seek public comment on collecting agency mortgage-backed securities (MBS) and debt 
+
+transactions as well.  This collection will help round out the IAWG’s view of these 
+
+                                                 
+16 See Treasury Market Practices Group (2018), “White Paper on Clearing and Settlement in the Secondary 
+Market for U.S. Treasury Securities,” consultative white paper (New York:  TMPG, July), 
+https://www.newyorkfed.org/medialibrary/Microsites/tmpg/files/CS-DraftPaper-071218.pdf; and Treasury 
+Market Practices Group (2018), Clearing and Settlement in the Secondary Market for U.S. Treasury 
+Securities:  Trade Flow Mapping, consultative report (New York:  TMPG, July), 
+https://www.newyorkfed.org/medialibrary/Microsites/tmpg/files/CS-Maps-071218.pdf. 
+

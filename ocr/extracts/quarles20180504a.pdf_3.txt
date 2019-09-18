@@ -1,0 +1,49 @@
+
+ - 2 - 
+
+Monetary Policy and the Efficiency of the Financial System  
+
+Before I delve into the more complicated subject of how one type of bank 
+
+regulation affects the Fed’s balance sheet, let me say a few words about financial 
+
+regulation and how it relates to monetary policy more generally.  As I have said 
+
+previously, I view promoting the safety, soundness, and efficiency of the financial system 
+
+as one of the most important roles of the Board.  So how is efficiency of the financial 
+
+system connected to monetary policy?  To put it in the simplest fashion, to the extent that 
+
+the efficiency of the financial system is improved, it will improve the transmission of 
+
+monetary policy to the real economy.  
+
+Improving efficiency of the financial system is not an isolated goal.  The task is to 
+
+enhance efficiency while maintaining the system’s resiliency.  Take, for example, the 
+
+Board’s two most recent and material proposals, the stress capital buffer and the 
+
+enhanced supplementary leverage ratio (eSLR).  The proposal to modify the eSLR, in 
+
+particular, initially raised questions in the minds of some as to whether it would reduce 
+
+the ability of the banking system to weather shocks.  A closer look at the proposal shows 
+
+that the opposite is true.  The proposed change simply restores the original intent of 
+
+leverage requirements as a backstop measure to risk-based capital requirements.  As we 
+
+have seen, a leverage requirement that is too high favors high-risk activities and 
+
+disincentivizes low-risk activities.  
+
+We had initially calibrated the leverage ratio at a level that caused it to be the 
+
+binding constraint for a number of our largest banks.  As a result, those banks had an 
+
+incentive to add risk rather than reduce risk in their portfolios because the capital cost of 
+
+each additional asset was the same whether it was risky or safe, and the riskier assets 
+

@@ -1,0 +1,53 @@
+
+- 6 - 
+ 
+
+Demand deposits and other short-term bank liabilities are safe, easy-to-value claims that are well 
+
+suited for transaction purposes and provide money-like benefits to firms and households.5    
+
+Second, in a world without LOLR, shortages of liquid assets would be exacerbated 
+
+during stress episodes.  Banks would likely hoard their liquidity buffers.  Knowing they must 
+
+rely only on their own liquidity to meet demands even as market uncertainty is increasing and 
+
+asset values suffer downward pressure, banks would have to reduce dramatically their core 
+
+intermediation function.  They would be reluctant to lend to firms and households that are 
+
+themselves subject to the impact of the systemwide liquidity shocks.  These real-economy actors 
+
+would thus be unable to fulfill their own financial obligations in a timely fashion or would pare 
+
+back their own activities out of concern about their ability to do so.  Another adverse feedback 
+
+loop could result.  Even without liquidity regulation and with an LOLR, there is a tendency to 
+
+hoard liquidity during periods of financial instability, as evidenced between 2007 and 2009 when 
+
+banks actually increased their balance sheet liquidity instead of running down their liquidity 
+
+buffers.6   
+
+It is worth noting that this very dynamic helped motivate the creation of the Federal 
+
+Reserve.  If solvent banks are confident that they will be able to borrow from the central bank 
+
+against good collateral to meet any unforeseen funding needs, then they need not completely stop 
+
+lending even amid increased uncertainty about future funding needs.  Lending by the central 
+
+5 Banks also provide liquidity to operating firms via committed lines of credit, which are more efficient, in 
+conditions of uncertainty, than an arrangement in which each operating firm attempts to hold sufficient funds in 
+advance to meet potential liquidity needs, as discussed in Holmstrom and Tirole (1998), “Private and Public Supply 
+of Liquidity,” Journal of Political Economy, vol. 106(1), pp. 1–40.  
+6 See Carlson, Duygan-Bump, and Nelson (forthcoming).  Mark Carlson (2013) presents evidence that this was also 
+a very typical dynamic of liquidity crises historically, when reserve requirements were used to promote bank 
+liquidity in the absence of a central bank that could add liquidity to the financial system; see “Lessons from the 
+Historical Use of Reserve Requirements in the United States to Promote Bank Liquidity,” Finance and Economics 
+Discussion Papers 2013-11 (Washington: Board of Governors of the Federal Reserve System). 
+
+
+
+

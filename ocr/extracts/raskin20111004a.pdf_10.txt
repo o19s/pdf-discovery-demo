@@ -1,0 +1,47 @@
+
+ - 9 - 
+
+mortgage loans to investors.  This model technically describes securities guaranteed by 
+
+Fannie Mae and Freddie Mac as well as private-label securities sponsored by financial 
+
+institutions such as commercial or investment banks, but problems were more acute in the 
+
+private-label market. 
+
+Although the private-label originate-to-distribute model may have worked 
+
+adequately at first, this discipline eroded as the securitization boom progressed.  
+
+Originators and securitizers were generally able to complete securitization transactions 
+
+while retaining very little or no economic stake in the performance of the loan after the 
+
+sale, although some of these securities did ultimately make their way back onto the 
+
+balance sheets of certain financial conglomerates, much to their dismay.  As a result, 
+
+originators and securitizers had an increasing incentive to weaken underwriting standards 
+
+in order to increase the volume of loan origination, and thereby the volume of 
+
+securitizations. 
+
+As securitization developed and became more prominent as a source of financing 
+
+for mortgage lending, representations and warranties were one of the main tools market 
+
+participants relied on to align incentives among originators and securitizers on the one 
+
+hand and investors on the other.  These provisions describe the underwriting standards 
+
+and other matters with respect to the assets that are the subject of the securitization.  The 
+
+originator, in principle, is required to refund at par (less payments received) the value of 
+
+the loan should it violate the originator’s representations and warranties or in some cases, 
+
+should it default within a specified time from origination.  In practice, however, 
+
+representations and warranties did not function as intended. 
+

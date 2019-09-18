@@ -1,0 +1,51 @@
+
+
+ 
+ It is a pleasure to speak at the Federal Reserve Bank of Boston’s annual 
+
+conference, and I am grateful to President Rosengren and the organizers for inviting me.  
+
+This afternoon I would like to discuss the challenges to formulating macroprudential 
+
+policy for the U.S. financial system.1   
+
+The U.S. financial system is extremely complex.  We have one of the largest 
+
+nonbank sectors as a percentage of the overall financial system among advanced market 
+
+economies.  Since the crisis, changes in the regulation and supervision of the financial 
+
+sector, most significantly those related to the Dodd-Frank Wall Street Reform and 
+
+Consumer Protection Act of 2010 (Dodd-Frank Act) and the Basel III process, have 
+
+addressed many of the weaknesses revealed by the crisis.  Nonetheless, challenges to our 
+
+efforts to preserve financial stability remain.   
+
+The Structure, Vulnerabilities, and Regulation of the U.S. Financial System 
+
+To set the stage, it is useful to start with a brief overview of the structure of the 
+
+U.S. financial system.  A diverse set of institutions provides credit to households and 
+
+businesses, and others provide deposit-like services and facilitate transactions across the 
+
+financial system.2  As can be seen from panel A of figure 1, banks currently supply about 
+
+one-third of the credit in the U.S. system.  In addition to banks, institutions thought of as 
+
+long-term investors, such as insurance companies, pension funds, and mutual funds, 
+
+                                                   
+ 
+1 The views expressed here are my own and not necessarily those of others at the Board, on the Federal 
+Open Market Committee, or in the Federal Reserve System.  I am grateful to Sirio Aramonte, Rochelle 
+Edge, Luca Guerrieri, Michael Kiley, Nellie Liang, and Stacey Tevlin for their help in preparing this 
+speech. 
+2 In my overview of the financial system, I am sizing the major players by their credit provision.  But 
+clearly, this is not the only metric that could and should be applied.  If we consider net income, or other 
+proxies for value-added by different subsegments of the financial system, we also capture the role of 
+financial service companies and organized exchanges--companies with limited balance sheets, but which 
+nonetheless play a vital role in the workings of our financial system. 
+

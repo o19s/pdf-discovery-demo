@@ -1,0 +1,50 @@
+
+ - 8 - 
+
+The first figure shows the effects of these four factors.  You will see that each 
+
+factor is considered separately; there is no attempt to add them together.  That is because 
+
+the broad factors we are considering here could well overlap--particularly the link 
+
+between slower growth and the remaining three factors.  Still, the comparison gives us a 
+
+notion of the relative importance of some of the leading explanations for the decline in 
+
+interest rates.   
+
+I started by noting the costs of low interest rates, including the limits on the ability 
+
+of monetary policy to respond to recessions, and possible risks to financial stability.  Now 
+
+that we have some notion of where lower interest rates might be coming from, I want to 
+
+turn to the question of what might contribute to raising longer-run equilibrium interest 
+
+rates.12   
+
+One development that would boost the equilibrium interest rate would be a further 
+
+waning in the investor precaution that seems to have been holding back investment--in 
+
+Keynesian terms, an improvement in animal spirits.  The first bar in the second slide 
+
+illustrates the effects on the longer-run equilibrium federal funds rate of an increase in 
+
+business-sector investment equal to 1 percent of GDP.  As can be seen, such a rebound in 
+
+investment would raise the equilibrium funds rate by 30 basis points, according to the 
+
+FRB/US model.  In addition, higher investment would improve the longer-run growth 
+
+prospects of the U.S. economy, although the effects in this particular case are fairly small, 
+
+with real GDP growth about 0.1 percentage point higher on account of the higher 
+
+investment.   
+
+                                                 
+12 By emphasizing “longer-run equilibrium” interest rates, I am excluding monetary policy (which is 
+unlikely to have major effects on the equilibrium real interest rate), and thereby also relating to concerns 
+about monetary policy being the only game in town. 
+

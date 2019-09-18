@@ -1,0 +1,49 @@
+
+
+
+- 5 - 
+
+The argument was that the central bank could not reduce the interest rate below zero, 
+
+since at a zero interest rate people could hold currency, on which the nominal interest rate 
+
+is zero – which implies that the nominal interest rate could not decline below zero.    
+
+Almost immediately after the collapse of Lehman Brothers, the Fed began to 
+
+undertake policies of Quantitative Easing (QE), in two forms: first, by buying assets of 
+
+longer duration on a large scale, thus lowering longer term rates and making monetary 
+
+policy effectively more expansionary; and second, by operating as market maker of last 
+
+resort in markets that in the panic had seemed to stop working – for example, the 
+
+commercial paper market.   
+
+Did these policies work?  The econometric evidence says yes.  So does the evidence 
+
+of one’s eyes.  For instance, the recent inauguration of the ECB’s QE policy seemed to 
+
+have an immediate effect not only on European interest rates, but also on longer-term 
+
+rates in the United States. 
+
+More recently, policymakers in several jurisdictions have discovered that zero is not 
+
+the lower bound on interest rates.  The reason is that it is not costless to hold currency: 
+
+there are costs of storage, and insurance costs to cover the potential for theft of or damage 
+
+to the currency.  We do not know how low the interest rate can go – but do know that it 
+
+can go below zero.  Whether it can be reduced much below minus one percent remains to 
+
+be seen – and many would prefer that we don’t go there.5   
+
+                                                 
+5 There are fascinating issues about how a hypothetical monetary system without currency would operate, 
+and what interest rates the central bank should attempt to control in such a situation – but we will have to 
+leave those issues for another occasion.   
+ 
+

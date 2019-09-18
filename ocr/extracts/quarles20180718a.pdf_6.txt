@@ -1,0 +1,51 @@
+
+ - 5 - 
+
+Before I talk about the “other” factors, let me acknowledge the merits of size as 
+
+one relevant factor to include on the list.  We know that the effect of a large bank’s 
+
+failure on the economy is greater than when a smaller bank fails, even though the two 
+
+banks might be engaged in similar business lines.  The recent financial crisis in 2008–09 
+
+saw a much more severe recession than other financial crises, such as the savings and 
+
+loan crisis in the late 1980s that preceded the relatively mild recession of 1990–91, and 
+
+this appears at least in part related to the size of the affected institutions.  In fact, 
+
+empirical research done at the Federal Reserve shows that stress among larger banks does 
+
+more significant harm to the economy than stress at smaller banks, even after controlling 
+
+for the aggregate size of bank failures.2  We also know that larger banks are more 
+
+operationally complex--even when not engaged in complex business lines--with a broader 
+
+geographic scope and more layers of management than smaller banks.  Therefore, it 
+
+seems appropriate to me that a path forward for tailoring supervision and regulation of 
+
+large banks should not ignore size, but consider it as one factor--although only one 
+
+factor--along with other factors. 
+
+Before the enactment of the recent legislation, we had begun work on considering 
+
+additional factors that capture large firms’ degree of complexity and interconnectedness 
+
+that--in conjunction with size--may provide a better basis for tailoring supervision and 
+
+regulation than size alone.  The systemic effect of a bank’s failure or distress is positively 
+
+correlated with that organization’s business, operational, and structural complexity.  
+
+                                                 
+2  Pending research to be published by Federal Reserve Board staff in the near future suggests that an 
+increase in bank stress results in poorer economic performance in a way that scales with bank size. Put 
+another way, staff estimate that stress at a single bank with $250 billion in deposits would result in roughly 
+an 84 percent decline in quarterly GDP growth, while stress among five banks each with $50 billion in 
+deposits would result in roughly a 24 percent decline in quarterly GDP growth. Although both scenarios 
+have $250 billion in total failed deposits, the negative impact is greater when the largest bank is stressed. 
+

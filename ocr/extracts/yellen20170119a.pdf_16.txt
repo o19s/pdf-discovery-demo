@@ -1,0 +1,53 @@
+
+- 15 - 
+ 
+
+The FOMC, for reasons that I have discussed, does not base its decisions on the 
+
+prescriptions of any specific policy rule.  Nevertheless, the three benchmarks I have 
+
+described--the Taylor rule, the balanced-approach rule, and the change rule, appropriately 
+
+calibrated--have historically provided useful guidance about appropriate adjustments in 
+
+the general direction of monetary policy over time.  This guidance is illustrated by 
+
+figure 9, which compares the path of the federal funds rate since 2000 with the 
+
+prescriptions of the three rules, based on the actual rates of inflation and unemployment 
+
+observed at each point in time, along with contemporaneous Blue Chip projections of the 
+
+longer-run unemployment rate and R*.   
+
+As the figure shows, the rules clearly signaled that a major reduction in the 
+
+federal funds rate was appropriate in 2008 given the marked deterioration in economic 
+
+conditions.  In addition, all three rules signaled that monetary policy needed to provide 
+
+more stimulus during the recession and the subsequent recovery than could be provided 
+
+by keeping short-term interest rates near zero.  For this reason, the Committee turned to 
+
+asset purchases to help make up for the shortfall by putting additional downward pressure 
+
+on longer-term interest rates.  The FOMC also sought to compensate for its inability to 
+
+push the federal funds rate below zero by indicating that the funds rate would need to stay 
+
+unusually low for longer than would otherwise be expected and simple policy rules 
+
+would prescribe.21  Under this “make up” strategy, and taking into account the reasons 
+
+for deviating from the Taylor rule that I discussed a moment ago, the Committee kept the 
+
+                                                           
+21 For example, the FOMC advised in the statement released after its December 2012 meeting that 
+conditions would likely warrant keeping the funds rate near zero at least as long as the unemployment rate 
+was above 6-1/2 percent--a threshold that was not passed until mid-2014.  As discussed by Reifschneider 
+and Williams (2000), Werning (2012), and Woodford (2012), this type of lower-for-longer guidance can 
+help compensate for the constraint on monetary policy created by the zero lower bound on nominal interest 
+rates.  Engen, Laubach, and Reifschneider (2015) find that the FOMC’s guidance, together with its asset 
+purchases, provided significant economic stimulus in the years following the financial crisis. 
+

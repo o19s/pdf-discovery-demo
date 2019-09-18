@@ -1,0 +1,50 @@
+
+7 
+ 
+
+some combination of the size, functions, portfolios, and interconnectedness of a financial 
+
+institution are such as to make authorities fear that its failure could endanger the entire financial 
+
+system, they will be tempted to rescue the firm through direct capital injections or indirect 
+
+measures to strengthen its solvency.  Knowing this, other market actors will be willing to lend to 
+
+that institution at a premium lower than its actual risks would suggest is warranted, an effect that 
+
+is particularly apparent during periods of stress.   
+
+Taking both these goals into account, the regulatory regime must aim for much greater 
+
+resiliency in the large banks than in smaller ones, so that they can continue to function even 
+
+under serious stress without solvency assistance from the government and, thus, avoid causing 
+
+more harm to the economy.  But the regime must also be able to contemplate failure by a very 
+
+large bank--that is, to plan for the possibility that a larger bank may become insolvent 
+
+notwithstanding much greater ex ante resiliency.  The regime must promote market discipline 
+
+and offset the moral hazard that comes if a bank and its creditors believe the government will 
+
+have no real choice but to bail the bank out. 
+
+ Much has been accomplished in the last six or seven years to build a regime that 
+
+advances both these goals.  I want to highlight four of its elements: capital, liquidity, risk 
+
+management, and resolution planning.  Capital is, of course, central to ensuring resiliency 
+
+although, as I will explain shortly, the presence or absence of other regulatory requirements is 
+
+relevant in setting minimum capital levels.  Because no single capital measure can capture all 
+
+possible sources of loss, U.S. banking regulation has for three decades required both a leverage 
+
+ratio and a risk-based capital requirement.  In responding to the crisis, we have applied a higher 
+
+leverage ratio and stronger risk-based capital requirements, including a robust stress testing 
+
+program to larger banks.   
+

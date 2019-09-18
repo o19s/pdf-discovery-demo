@@ -1,0 +1,49 @@
+
+- 6 - 
+ 
+
+could raise the risk of runs on the banking system in times of stress and so have adverse 
+
+implications for financial stability.   
+
+ Finally, there is no compelling demonstrated need for a Fed-issued digital currency.  
+
+Most consumers and businesses in the U.S. already make retail payments electronically using 
+
+debit and credit cards, payment applications, and the automated clearinghouse network.  
+
+Moreover, people are finding easy ways to make digital payments directly to other people 
+
+through a variety of mobile apps.  New private-sector real-time payments solutions are beginning 
+
+to gain acceptance in the United States. And the Faster Payments Task Force has laid out a 
+
+roadmap embraced by a variety of stakeholders for a fast, ubiquitous, and secure payments 
+
+system to be in place in the United States in the next few years.7  In short, a multiplicity of 
+
+mechanisms are likely to be available for American consumers to make payments electronically 
+
+in real time.  As such, it is not obvious what additional value a Fed-issued digital currency would 
+
+provide over and above these options.   
+
+
+
+Wholesale Digital Settlement Tokens 
+
+It is important for the Fed and other central banks to continue to research these issues as 
+
+technology evolves, exploring the technical and economic possibilities and limitations of central-
+
+bank-issued digital currencies.  Even though the case for a digital currency for general use may 
+
+not be compelling, opportunities for more targeted and restricted use may nonetheless prove to 
+
+have value.  The private sector has been exploring a variety of ways of deploying the underlying 
+
+technologies of digital assets that are native to a particular wholesale platform, to help to 
+
+                                                           
+7See https://fedpaymentsimprovement.org/faster-payments/path-to-faster-payments/.  
+

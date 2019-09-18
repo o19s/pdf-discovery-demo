@@ -1,0 +1,64 @@
+
+ - 22 - 
+
+(which is used in the estimation) is computed as a geometrically declining weighted 
+
+average, 
+
+𝑅𝑅𝑆𝑆_𝑅𝑅𝑅𝑅𝑃𝑃𝑃𝑃𝑡𝑡 = 0.95𝑅𝑅𝑆𝑆_𝑅𝑅𝑅𝑅𝑃𝑃𝑃𝑃𝑡𝑡−1 + 0.05𝑅𝑅𝑅𝑅𝑃𝑃𝑃𝑃𝑡𝑡, 
+
+where 𝑅𝑅𝑅𝑅𝑃𝑃𝑃𝑃𝑡𝑡  denotes trend productivity growth and where the moving average is 
+
+initialized in 1955:Q1 with that quarter’s estimate of the trend growth rate. 
+
+The model is used to compute a decomposition of ECI growth following a 
+
+procedure similar to that used to construct the decomposition for core PCE price 
+
+inflation.  The table summarizes the results of this decomposition over various periods; 
+
+note that the column labeled “Slack” combines the effects of ∆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑡𝑡 and 𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑡𝑡, the 
+
+effect of the model’s constant term is included in the column labeled “Trend 
+
+productivity,” and the column labeled “Other” gives the contributions of the model’s 
+
+tracking errors. 
+
+ 
+Model-Based Decomposition of ECI Hourly Compensation Growth 
+
+ 
+    Contributions of: 
+
+
+ 
+ECI growth  
+
+
+Expected 
+inflation 
+
+Trend 
+productivity Slack Other 
+
+       
+2002-07 3.28  2.09 1.44 -0.08 -0.17 
+2008-09 1.80  2.16 1.18 -0.97 -0.56 
+2010-11 2.08  2.14 0.82 -1.09   0.22 
+2012-13 1.92  2.12 0.44 -0.67   0.02 
+2014-15 2.05  2.01 0.15 -0.20   0.09 
+2016-17:Q2 2.31  1.99 0.01   0.03   0.28 
+       
+
+Note:  ECI growth is reported as average percent changes at an annual rate for the periods shown; 
+contributions are expressed in percentage points.  The contribution of the model’s constant term is included 
+in the contribution for trend productivity.  Contributions may not sum to total growth because of rounding. 
+  
+
+                                                 
+Before the series’ starting point in 1947:Q2, actual productivity growth is padded with an ARIMA(4,1,0) 
+model; after its 2017:Q2 endpoint, the series is padded with the CBO’s January 2017 forecast of average 
+nonfarm business trend productivity growth from 2017 to 2027 (which is 1.67 percent in log differences) 
+and with the 2027 value of the CBO forecast (1.77 percent) thereafter. 
+

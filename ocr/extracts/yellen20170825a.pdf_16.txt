@@ -1,0 +1,72 @@
+
+ - 15 - 
+
+The effects of capital regulation on credit availability have been investigated 
+
+extensively.  Some studies suggest that higher capital weighs on banks’ lending, while 
+
+others suggest that higher capital supports lending.23  Such conflicting results in academic 
+
+research are not altogether surprising.  It is difficult to identify the effects of regulatory 
+
+capital requirements on lending because material changes to capital requirements are rare 
+
+and are often precipitated, as in the recent case, by financial crises that also have large 
+
+effects on lending. 
+
+Given the uncertainty regarding the effect of capital regulation on lending, 
+
+rulemakings of the Federal Reserve and other agencies were informed by analyses that 
+
+balanced the possible stability gains from greater loss-absorbing capacity against the 
+
+possible adverse effects on lending and economic growth.24  This ex ante assessment 
+
+pointed to sizable net benefits to economic growth from higher capital standards--and 
+
+subsequent research supports this assessment.25  The steps to improve the capital 
+
+                                                 
+23 The related literature is sizable.  An early contribution is Ben S. Bernanke and Cara S. Lown (1991), 
+
+“The Credit Crunch,” Brookings Papers on Economic Activity, no. 2, pp. 205-47.  Research finding a 
+
+sizable negative relationship between capital requirements and lending includes Shekhar Aiyar, Charles W. 
+
+Calomiris, and Tomasz Wieladek (2014), “Does Macro-Prudential Regulation Leak?  Evidence from a UK 
+
+Policy Experiment,” Journal of Money, Credit and Banking, vol. 46 (s1; February), pp. 181-214.  Research 
+
+finding little relationship between lending and capital ratios (outside financial crises) includes Mark 
+
+Carlson, Hui Shan, and Missaka Warusawitharana (2013), “Capital Ratios and Bank Lending:  A Matched 
+
+Bank Approach,” Journal of Financial Intermediation, vol. 22 (October), pp. 663-87.  Research suggesting 
+
+that higher capital levels may increase lending includes Leonardo Gambacorta and Hyun Song Shin (2016), 
+
+“Why Bank Capital Matters for Monetary Policy,” BIS Working Papers 558 (Basel, Switzerland:  Bank for 
+
+International Settlements, April), www.bis.org/publ/work558.pdf. 
+24 For example, see Basel Committee on Banking Supervision (2010), An Assessment of the Long-Term 
+
+Economic Impact of Stronger Capital and Liquidity Requirements (Basel, Switzerland:  BCBS, August), 
+
+www.bis.org/publ/bcbs173.pdf; and Macroeconomic Assessment Group (2010), Interim Report:  Assessing 
+
+the Macroeconomic Impact of the Transition to Stronger Capital and Liquidity Requirements (Basel, 
+
+Switzerland:  MAG, August), www.bis.org/publ/othp10.pdf. 
+25 The ex ante studies from the Basel Committee and the Macroeconomic Assessment Group referenced in 
+
+note 24 pointed to sizable net benefits from higher capital requirements.  More academic research pointing 
+
+to similar conclusions using macroeconomic models (and typically focused on model-specific measures of 
+
+economic welfare) includes Michael T. Kiley and Jae W. Sim (2014), “Bank Capital and the 
+
+Macroeconomy:  Policy Considerations,” Journal of Economic Dynamics and Control, vol. 43 (June), 
+
+pp. 175-98; Laurent Clerc, Alexis Derviz, Caterina Mendicino, Stephane Moyen, Kalin Nikolov, Livio 
+

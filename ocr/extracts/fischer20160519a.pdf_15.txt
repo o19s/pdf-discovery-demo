@@ -1,0 +1,45 @@
+
+ - 14 - 
+
+can under some circumstances be added to the model, with the amount of 
+
+money supplied by the central bank having to be consistent with the money 
+
+demand equation.  But inflation in such a situation is not necessarily caused 
+
+by the quantity of money; rather the quantity of money may be caused by and 
+
+consistent with the inflation rate resulting from the three basic equations in 
+
+which the money stock does not appear--in particular from the gap between 
+
+the natural and actual rates of interest.  For this result to go through, the 
+
+money stock cannot per se be among the variables that determine the 
+
+equilibrium of the remaining--the non-monetary--part of the model.  This 
+
+means that the separation result is not possible if there is a real balance effect 
+
+operating in the goods markets.  Or to put the result differently, the separation 
+
+feature is consistent with an inside money monetary system, while it may well 
+
+not be consistent with an outside money structure.  It is thus consistent with 
+
+the suggestion by Harry Johnson mentioned above, that monetary analysis 
+
+might better be carried out primarily in an inside-money than an outside-
+
+money model. 
+
+This neo-Wicksellian result is somewhat surprising.  It provides 
+
+justification for the behavior of those central banks that think and talk of 
+
+monetary policy purely in terms of the policy interest rate and other financial 
+
+return variables, but not of the money stock.  However, we need to remind 
+
+ourselves that it is built on an assumption that the money stock per se does not 
+

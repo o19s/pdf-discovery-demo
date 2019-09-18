@@ -1,0 +1,52 @@
+
+- 18 - 
+ 
+
+Despite this progress, and perhaps to some degree because of it, important issues remain.  
+
+Liquidity regulation is still a relatively new undertaking, certainly in its present form that 
+
+includes quantitative requirements.18  There is still need for conceptual work on such questions 
+
+as how to specify the extent to which banks should be required to self-insure against liquidity 
+
+risk by maintaining larger liquidity buffers and more closely matching assets with liabilities, and 
+
+how to define the circumstances in which central banks should provide liquidity.   
+
+It is also clear that liquidity regulation has the potential to generate unintended effects.  
+
+For example, in periods of stress firms are likely to have multiple incentives to hoard 
+
+accumulated liquidity, rather than to use it to relieve the funding needs of households and other 
+
+firms.  The upshot would be to exacerbate systemic strains and cause a reduction in economic 
+
+activity.  This tendency toward liquidity hoarding may be amplified by the very fact of 
+
+quantitative liquidity requirements, since firms may fear that dipping below those levels even in 
+
+a period of stress would project weakness to counterparties, investors, and market analysts.  That 
+
+is, we may be more successful in enforcing the maintenance of liquid asset buffers in normal 
+
+times for use in stress periods than we will be in encouraging their use when such a stress period 
+
+arrives. 
+
+For this reason we are working on a supervisory approach in which the remedy for falling 
+
+below regulatory thresholds is context dependent.  That is, a firm that falls out of compliance 
+
+with the LCR or NSFR during a period of generalized stress should not be subject to automatic 
+
+18 Although, in recent decades, reserve requirements have been used to establish a stable demand for reserves for 
+monetary policy implementation purposes, they were a form of liquidity requirement historically.  As originally 
+constructed, they were a substantial percentage of a bank’s liability base and were intended (at least in part) to 
+ensure that banks could meet their obligations in a timely fashion.  (Some variations even distinguished between 
+stable and volatile deposits, looking at turnover of different types of deposits to calibrate the appropriate reserve 
+ratio.)    
+
+
+
+

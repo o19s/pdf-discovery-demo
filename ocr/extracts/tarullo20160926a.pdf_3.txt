@@ -1,0 +1,52 @@
+
+
+2 
+ 
+
+main steps.2  (1) The firms subject to DFAST provide the Federal Reserve with detailed, 
+
+significantly standardized data on their loans, securities holdings, trading positions, counterparty 
+
+exposures, revenue, expenses, and balance sheets.  (2) The Federal Reserve specifies 
+
+hypothetical macroeconomic and financial market scenarios--including an “adverse” and a 
+
+“severely adverse” scenario.  (3) The Federal Reserve inputs the data from the firms into its own 
+
+supervisory models to project each firm’s losses, revenues, and capital over a nine-quarter 
+
+planning horizon under the specified scenarios.  (4) The results of the exercise, including the 
+
+capital positions of the firms following the hypothesized stress scenarios, are disclosed to the 
+
+public. 
+
+As DFAST has evolved, it has become an increasingly valuable tool for evaluating 
+
+whether the largest financial firms are holding sufficient capital to continue providing credit in 
+
+the event of significant macroeconomic and financial stress.  However, in itself DFAST does not 
+
+set any capital ratios or limit any capital actions by the firms.  Those functions are implemented 
+
+through the CCAR program, which was created through the regulatory process by the Federal 
+
+Reserve.3  In CCAR, the Federal Reserve assesses the overall capital adequacy of the firms--
+
+including evaluations of whether each firm’s capital provides an adequate buffer for the losses 
+
+that would be incurred during the stress scenarios, whether its risk management and capital 
+
+planning processes are appropriately well-developed and governed, and how its plans to 
+
+distribute capital through dividends or share repurchases could affect its ability to remain a 
+
+viable financial intermediary in the hypothesized scenarios.  Given how central these 
+
+                                                 
+2 For a more complete description of the Federal Reserve’s DFAST and CCAR programs, see 
+www.federalreserve.gov/bankinforeg/stress-tests-capital-planning.htm.  As a formal matter, DFAST was 
+implemented beginning in 2013.  However, in 2011 and 2012, the Federal Reserve conducted supervisory stress 
+tests as part of its CCAR program, as explained later in the text. 
+3 12 CFR 225.8. 
+

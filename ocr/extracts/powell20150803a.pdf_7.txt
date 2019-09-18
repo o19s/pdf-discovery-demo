@@ -1,0 +1,48 @@
+
+
+- 6 - 
+ 
+
+
+platforms they operate on.  If trading is at nanoseconds, there won’t be a lot of “fundamental” news 
+
+to trade on or much time to formulate views about the long-run value of an asset; instead, trading at 
+
+these speeds can become a game played against order books and the market rules.  We can 
+
+complain about certain trading practices in this new environment, but if the market is structured to 
+
+incentivize those practices, then why should we be surprised if they occur?   
+
+The trading platforms in both the interdealer cash and futures markets are based on a central 
+
+limit order book, in which quotes are executed based on price and the order  they are posted.  A 
+
+central limit order book provides for continuous trading, but it also provides incentives to be the 
+
+fastest.  A trader that is faster than the others in the market will be able to post and remove orders 
+
+in reaction to changes in the order book before others can do so, earning profits by hitting out-of-
+
+date quotes and avoiding losses by making sure that the trader’s own quotes are up to date.  
+
+Technology and greater competition have led to lower costs in many areas of our economy.  
+
+At the same time, slower traders may be put at a disadvantage in this environment, which could 
+
+cause them to withdraw from markets or seek other venues, thus fracturing liquidity.  And one can 
+
+certainly question how socially useful it is to build optic fiber or microwave networks just to trade 
+
+at microseconds or nanoseconds rather than milliseconds.  The cost of these technologies, among 
+
+other factors, may also be driving greater concentration in markets, which could threaten their 
+
+resilience.  The type of internalization now done by dealers is only really profitable if done on a 
+
+large scale, and that too has led to greater market concentration.   
+
+  A number of observers have suggested reforms for consideration.  For example, some 
+
+recent commentators propose frequent batch auctions as an alternative to the central limit order 
+

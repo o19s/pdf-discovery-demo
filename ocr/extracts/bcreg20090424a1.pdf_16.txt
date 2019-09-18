@@ -1,0 +1,75 @@
+
+[page 14] 
+
+support levels for the securities. If the current level of credit support was considered insufficient to 
+
+cover projected losses, the security was written down to fair value with a corresponding "other than 
+
+temporary impairment" charge, in accordance with accounting guidelines, equal to the difference 
+
+between book and market value. Each corporate and municipal bond was evaluated for future OTTI 
+
+potential based on indicators of downgrade likelihood, including information from market credit 
+
+spreads. For each equity security, OTTI was determined when the stressed market value was below the 
+
+carrying value. Supervisors evaluated the position marks based on portfolio characteristics and ratings 
+
+to identify anomalies and to identify conservative or aggressive practices and methodological outliers 
+
+among the BHCs. Special attention was paid to institutions that had greater concentrations of 
+
+accumulated other comprehensive income (AOCI) relative to tangible common equity, as AOCI forms 
+
+the basis of potential recognizable losses in earnings, and hence core capital, in a given period.7 [Footnote 7. 
+
+AOCI is a measure of accumulated unrealized gains and losses on AFS securities, based on current carrying and 
+
+market values. End footnote 7.] 
+
+New FASB guidance on fair value measurements and impairments was issued on April 9, 2009, 
+
+after the commencement of the SCAP. For the baseline scenario supervisors considered firms' 
+
+resubmissions that incorporated the new guidance. However, for the more adverse scenario, in order to 
+
+reflect greater uncertainty about realizable losses in stressful conditions, supervisors did not incorporate 
+
+the new FASB guidance. 
+Trading Portfolio Losses 
+
+Losses in the trading portfolio were evaluated by applying market stress factors to the trading 
+
+exposures for the five firms with trading assets exceeding $100 billion, based on the actual market 
+
+movements that occurred over the stress horizon (June 30 to December 31, 2008). The supervisors used 
+
+information on trading book positions from the firms' internal risk-management reports to project loss 
+
+amounts under the defined scenario. Supervisors then compared each firm's submission to its own 
+
+scenario and investigated areas where the loss estimates or gains were significantly different from the 
+
+supervisors' estimates. Supervisors reviewed all of the firm's assumptions, such as the shocks to prices 
+
+and spreads, the methodology used by the firm to value the assets, and whether material exposures and 
+
+assets were included in the stress test. Areas where the BHCs' and supervisors' estimates diverged 
+
+were identified and investigated, and final loss estimates were revised accordingly. In addition, the 
+
+SCAP included an incremental default risk (IDR) estimate for firms' trading book positions. 
+
+Counterparty Credit Risk 
+
+Analysis focused on assessing the reasonableness of counterparty credit risk (CCR) loss estimates stemming 
+from exposure growth and credit valuation adjustments associated with the market shocks applied to the assets in 
+the trading books. Specifically, the supervisors reviewed the firms' loss estimates for mark-to-market losses 
+stemming from credit valuation adjustments (CVA) consistent with the trading shock scenario.8 [Footnote 8. A 
+credit valuation adjustment taken against a given trading counterparty reflects the decline in the value of the 
+obligation owed by that counterparty due to deterioration in the counterparty's creditworthiness, and directly impacts 
+a firm's earnings and the value of the its assets. End footnote 8.] During the assessment process, supervisors 
+developed a view of the quality of each firm's loss estimate, and made adjustments to the firm's loss estimates 
+where appropriate to reflect factors such as consistency in the application of the trading asset shock; the 
+comprehensiveness 
+

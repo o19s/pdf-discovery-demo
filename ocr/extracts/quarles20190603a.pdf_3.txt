@@ -1,0 +1,47 @@
+
+ - 2 - 
+
+The ARRC has provided these tools.  Now it is up to you to begin using them.  
+
+With only two and a half years of further guaranteed stability for LIBOR, the transition 
+
+should begin happening in earnest.  I believe that the ARRC has chosen the most viable 
+
+path forward and that most will benefit from following it, but regardless of how you 
+
+choose to transition, beginning that transition now would be consistent with prudent risk 
+
+management and the duty that you owe to your shareholders and clients.  
+
+The ARRC’s work began by focusing on creating a derivatives market for the 
+
+Secured Overnight Financing Rate (SOFR), its recommended alternative to U.S. dollar 
+
+LIBOR, because end users require derivatives markets to hedge their cash exposures.  
+
+The CME Group, LCH, and Intercontinental Exchange, or ICE, all now offer futures or 
+
+swaps markets on SOFR, and participation in these markets is growing.  As liquidity in 
+
+these markets continues to develop, my hope is that many of you will avail yourselves of 
+
+them to close out your LIBOR positions.  In the meantime, it will be crucial in ensuring 
+
+global financial stability that everyone participate in the International Swaps and 
+
+Derivatives Association’s (ISDA) consultations on better fallback language for LIBOR 
+
+derivatives and then sign the ISDA protocol so that these fallbacks apply to the legacy 
+
+book of derivatives.  
+
+Likewise, the ARRC has now offered better fallback language for new issuance of 
+
+cash products that refer to LIBOR.  It seems clear that much of the contract language 
+
+being used currently did not envisage and is not designed for a permanent end to LIBOR.  
+
+The ARRC’s fallback recommendations represent a significant body of work on the part 
+
+of a wide set of market participants and set out a robust and well-considered set of steps 
+

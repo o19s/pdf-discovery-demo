@@ -1,0 +1,50 @@
+
+
+- 13 - 
+
+addition, if the books of the insurance company are large enough, it then becomes a potential 
+
+vehicle for transmitting distress at the company to other parts of the financial system. 
+
+ Thus the liability side of the balance sheets of firms that are all “insurance companies” 
+
+can vary substantially, just as with firms that are called “banks” or “bank holding companies.”  
+
+Yet capital regulation currently applicable to insurance companies seems not to make some of 
+
+the relevant distinctions.  Traditional capital regulation, with an implicit aim of protecting only 
+
+conventional policyholders over time, potentially through an orderly insolvency, does not reflect 
+
+the balance sheet risks I have just described.  Yet more recent measures, such as Solvency II, 
+
+with its heavy emphasis on current market valuation, may not take account of the fact that 
+
+liability and liquidity risks for genuinely traditional life insurance products are relatively limited 
+
+compared to those of many other intermediaries.  In some respects, Solvency II ignores the 
+
+strength of conventional insurance funding--that assets can be held for the truly long-term, 
+
+through multiple business cycles--even as it focuses directly on the fluctuations in asset values 
+
+that are indeed relevant to many less conventional activities. 
+
+This brief review illustrates the challenges in fashioning capital requirements for large 
+
+insurance companies with a mix of traditional, nontraditional, and noninsurance activities that 
+
+are sometimes quite intertwined in particular business lines or subsidiaries.  And, even where 
+
+these activities are reasonably segregated from one another, some of the policy devices suggested 
+
+for differential capital treatment may be misplaced.  For example, deciding on higher capital 
+
+requirements based solely on whether an activity is “nontraditional” for an insurance company 
+
+can be inappropriate.  A “nontraditional” activity for an insurance company could embrace 
+
+everything from the massive derivatives business maintained by the pre-crisis AIG to very sedate 
+
+businesses outside the financial sphere entirely.  In confronting these and similar challenges, I 
+

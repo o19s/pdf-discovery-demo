@@ -1,0 +1,51 @@
+
+ - 2 -
+
+(CFTC) and the Securities and Exchange Commission (SEC) are responsible for 
+
+establishing the regulatory regime for and supervising CCPs as well as determining 
+
+which swaps must be centrally cleared.  The Federal Reserve and six other agencies are 
+
+responsible for establishing margin requirements for derivatives that are not cleared 
+
+through a CCP. 1  The Federal Reserve shares with the other members of the Financial 
+
+Stability Oversight Council (FSOC) an interest in CCP regulation and central clearing 
+
+from a broader financial stability perspective.  The Fed also plays a role in supervising 
+
+financial market utilities that are designated as systemically important under Title VIII of 
+
+the Dodd-Frank Wall Street Reform and Consumer Protection Act (Dodd-Frank).       
+
+The financial crisis involved significant failures in the functioning, regulation, and 
+
+supervision of OTC derivatives markets.  These failures were well illustrated by the 
+
+widespread and destabilizing effects of large losses by American International Group 
+
+(AIG) on its OTC structured finance and credit derivative positions.  In the absence of 
+
+government intervention, AIG’s failure would have exposed its counterparties to 
+
+significant losses at a time of widespread financial stress.  Further, the lack of 
+
+transparency in OTC derivatives markets at that time led to a wave of uncertainty about 
+
+who was exposed to AIG and the extent of that exposure.  This fundamental lack of 
+
+information fueled concerns about potential losses and drove a cycle of escalating 
+
+pressure on large financial institutions around the globe.  Government intervention was 
+
+deemed necessary to stop this cycle and contain the threat to the financial system.  AIG’s 
+
+failure revealed systemic problems in the OTC derivatives market that went well beyond 
+
+the failure of a single market participant.  
+
+                                                 
+1 In addition to the Federal Reserve, the CFTC, FDIC, FHFA, FCA, OCC and SEC are responsible for 
+establishing margin requirements on derivatives that are not cleared through a CCP. 
+

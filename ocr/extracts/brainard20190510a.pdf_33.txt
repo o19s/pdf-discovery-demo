@@ -1,0 +1,36 @@
+
+     Note:  Loan values are not seasonally adjusted and are reported in 2018 dollars using personal consumption expenditures prices.
+    Source:  Federal Reserve Board, Student Loans Owned and Securitized, Outstanding, retrieved from FRED, Federal Reserve Bank of St. Louis; 
+Bureau of Economic Analysis; calculations by Board staff.
+
+0
+
+200
+
+400
+
+600
+
+800
+
+1,000
+
+1,200
+
+1,400
+
+1,600
+
+1,800
+
+2006:Q1 2008:Q1 2010:Q1 2012:Q1 2014:Q1 2016:Q1 2018:Q1
+
+Figure 11.  Total student loans outstanding, 2006-2018
+
+Student 
+loans
+
+2018 billion dollars
+
+2018:Q4
+

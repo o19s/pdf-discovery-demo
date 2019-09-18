@@ -1,0 +1,54 @@
+
+
+
+- 4 -
+
+clearinghouse for limited types of brokers’ trades.4  Faced with growing volumes of 
+
+trading and the associated clearing costs after World War I, the New York Stock 
+
+Exchange took a further step in 1920 by establishing the Stock Clearing Corporation; this 
+
+new clearinghouse reduced the number of checks needed for settlements by up to 90 
+
+percent and the volume of funds and credit needed by 70 percent or more.5 
+
+   It was not until the dramatic increase in equity trading volumes in the late 1960s, 
+
+however, that backlogs of trading tickets, confirmations, and delivery instructions caused 
+
+the infamous “paperwork crisis” that led the exchange to curtail trading hours and close 
+
+on Wednesdays for six months in order to manage the situation.6  The paperwork crisis 
+
+represented more than a set of operational problems for financial institutions and other 
+
+market participants.  Unprocessed instructions and delivery failures also increased the 
+
+financial risks faced by many firms, leading to supervisory concerns about the ability of 
+
+firms to control and monitor their securities holdings and exposures and to manage their 
+
+financial positions appropriately.  
+
+ These risks clearly needed to be addressed.  Pressed by the Congress and 
+
+regulators, the industry began in the mid-1970s to establish central securities depositories 
+
+and central counterparties (CCPs) to immobilize paper certificates, encourage multilateral 
+
+netting of trades, reduce pre-settlement risk through the guarantee of trades, and conduct 
+
+securities settlements through “book entries” to electronic records. The result of these 
+
+efforts was a set of critical electronic infrastructures to centralize and coordinate clearing 
+
+                                                 
+4 Twenty-four stockbrokers met on May 17, 1792, under a sycamore, or buttonwood, tree to sign the 
+agreement establishing what later became the New York Stock Exchange.  
+5 See New York Stock Exchange (1930), Report of the President: May 1st, 1929--May 1st, 1930 (New 
+York:   NYSE), pp. 66-68. 
+6 See U.S. Securities and Exchange Commission (1971), Study of Unsafe and Unsound Practices of 
+Brokers and Dealers:  Report and Recommendations (Pursuant to section 11 (h) of the Securities Investor 
+Protection Act of 1970) (Washington:  Government Printing Office), pp. 13-14. 
+

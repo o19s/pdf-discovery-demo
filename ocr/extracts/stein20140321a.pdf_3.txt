@@ -1,0 +1,50 @@
+
+ - 2 - 
+
+way from those offered by our current models.  So I do not intend anything that follows 
+
+as a comment on the current stance of our policy.  
+
+Before getting too deep into the details, let me preview my bottom line.  I am 
+
+going to try to make the case that, all else being equal, monetary policy should be less 
+
+accommodative--by which I mean that it should be willing to tolerate a larger forecast 
+
+shortfall of the path of the unemployment rate from its full-employment level--when 
+
+estimates of risk premiums in the bond market are abnormally low.  These risk premiums 
+
+include the term premium on Treasury securities, as well as the expected returns to 
+
+investors from bearing the credit risk on, for example, corporate bonds and asset-backed 
+
+securities.  As an illustration, consider the period in the spring of 2013 when the 10-year 
+
+Treasury yield was in the neighborhood of 1.60 percent and estimates of the term 
+
+premium were around negative 80 basis points.3  Applied to this period, my approach 
+
+would suggest a lesser willingness to use large-scale asset purchases to push yields down 
+
+even further, as compared with a scenario in which term premiums were not so low.4   
+
+The informal intuition I have in mind is that there is a cost associated with 
+
+pushing risk premiums too low, because doing so increases the likelihood that they may 
+
+revert back in a way that hinders the Federal Reserve’s ability to achieve its mandated 
+
+objectives.  In what follows, I will try to make this intuition more precise and to 
+
+generalize its applicability.  
+
+                                                 
+3 The 10-year nominal rate hit 1.63 percent on May 2, 2013.  An estimate of the term premium based on the 
+oft-cited methodology of Kim and Wright (2005) was negative 0.78 percent on this day. 
+4 Again, I stress that this statement is directional, not quantitative--I am not claiming that the magnitude of 
+the adjustment one would want to make is large, or that the policy we had in place at the time was 
+miscalibrated in any absolute sense.  Rather, my point is just that the financial stability costs of asset 
+purchases are likely to loom larger when term premiums are more negative, and that this consideration 
+belongs in the discussion. 
+

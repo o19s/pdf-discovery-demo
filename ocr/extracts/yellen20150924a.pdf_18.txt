@@ -1,0 +1,52 @@
+
+ - 17 - 
+
+simplified version of a complicated reality, cannot adequately explain.  For this reason, 
+
+significant uncertainty attaches to Phillips curve predictions, and the validity of forecasts 
+
+from this model must be continuously evaluated in response to incoming data. 
+
+Policy Implications 
+
+Assuming that my reading of the data is correct and long-run inflation 
+
+expectations are in fact anchored near their pre-recession levels, what implications does 
+
+the preceding description of inflation dynamics have for the inflation outlook and for 
+
+monetary policy?   
+
+This framework suggests, first, that much of the recent shortfall of inflation from 
+
+our 2 percent objective is attributable to special factors whose effects are likely to prove 
+
+transitory.  As the solid black line in figure 8 indicates, PCE inflation has run noticeably 
+
+below our 2 percent objective on average since 2008, with the shortfall approaching 
+
+about 1 percentage point in both 2013 and 2014 and more than 1-1/2 percentage points 
+
+this year.  The stacked bars in the figure give the contributions of various factors to these 
+
+deviations from 2 percent, computed using an estimated version of the simple inflation 
+
+model I just discussed.30  As the solid blue portion of the bars shows, falling consumer 
+
+energy prices explain about half of this year’s shortfall and a sizable portion of the 2013 
+
+and 2014 shortfalls as well.  Another important source of downward pressure this year 
+
+has been a decline in import prices, the portion with orange checkerboard pattern, which 
+
+                                                 
+30 For a technical explanation of the procedure used to produce this decomposition, see the appendix.  In the 
+decomposition procedure, movements in core inflation affect headline inflation one-for-one; as a result, the 
+contributions of food and energy price inflation are defined as each component’s price change relative to 
+the core, weighted by its share in total nominal consumer spending.  (Note that the “other” category 
+includes the effects of changes in food prices.)  The estimated contribution of movements in import prices 
+is also computed relative to core inflation; thus, if import prices are rising at the same rate as core inflation, 
+they have no estimated effect on the shortfall of overall inflation from 2 percent.  In addition, the 
+decomposition takes account of lags in the adjustment of core inflation to movements in resource utilization 
+and other factors. 
+

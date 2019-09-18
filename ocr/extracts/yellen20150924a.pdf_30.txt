@@ -1,0 +1,53 @@
+
+ - 29 - 
+
+points prior to 2007 to put the CPI forecasts on a PCE basis.  (Prior to 1991:Q4, this 
+
+series is based on the long-run inflation expectations reported in the Hoey survey.)  The 
+
+relative import price term, 𝑅𝑃𝐼𝑀𝑡, is defined as the annualized growth rate of the price 
+
+index for core imported goods (defined to exclude petroleum, natural gas, computers, and 
+
+semiconductors), less the lagged four-quarter change in core PCE inflation, all multiplied 
+
+by the share of nominal core imported goods in nominal GDP.36 
+
+To decompose recent movements in inflation into its various components, the 
+
+series used in the inflation model--for which data are available only through 2015:Q2 in 
+
+most cases--are first extended through the end of 2015.  In the case of inflation, the 
+
+extensions are consistent with the medians of FOMC participants’ projections for total 
+
+and core PCE inflation in 2015 that were reported at the press conference following the 
+
+September FOMC meeting.37  Similarly, 𝑆𝐿𝐴𝐶𝐾𝑡 over the second half of 2015 is defined 
+
+to be consistent with the median of FOMC projections for the 2015:Q4 unemployment 
+
+rate, less the CBO’s estimates of the historical path of the long-run natural rate; the 
+
+CBO’s 2015 estimate is almost identical to the median of FOMC participants’ most 
+
+recent projections of the normal longer-run level of the unemployment rate.  For changes 
+
+in the prices of consumer energy and core imports, the 2015:H2 extrapolations are based 
+
+on regressions of these two series on current and lagged changes in, respectively, crude 
+
+oil prices and exchange rates.  This approach predicts that energy prices should decline at 
+
+annual rates of about 6 percent in 2015:Q3 and 18 percent in 2015:Q4, while core import 
+
+                                                 
+36 This measure of core import prices is constructed by Board staff using published and unpublished data 
+
+provided by the Bureau of Economic Analysis and the Bureau of Labor Statistics.   
+37 The information on participants’ forecasts provided at the September 17, 2015, press conference is 
+
+available on the Board’s website at 
+
+www.federalreserve.gov/monetarypolicy/files/fomcprojtabl20150917.pdf.  
+

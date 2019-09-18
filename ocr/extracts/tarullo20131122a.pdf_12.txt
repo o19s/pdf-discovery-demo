@@ -1,0 +1,49 @@
+
+- 11 - 
+ 
+
+
+required to hold against assets in the trading book.  But these reforms are limited: The LCR does 
+
+not require firms to hold any liquidity buffer against SFT liabilities that mature in more than 30 
+
+days or that are backed by very liquid assets.  There continues to be a need for standardized 
+
+capital requirements for market risk to back up model-derived risk weights.   
+
+ Moreover, the current regulatory framework does not impose any meaningful regulatory 
+
+charge on the financial stability risks associated with SFT matched books.  The Basel III risk-
+
+based capital rules require banking organizations to hold relatively little capital against SFT 
+
+assets, which are assumed to pose little microprudential risk.  Because leverage requirements do 
+
+not take into account the fact that SFTs are collateralized transactions, leverage requirements 
+
+have the potential to impose higher charges on SFT assets.  But leverage requirements have 
+
+traditionally been calibrated at non-binding levels and, to the extent they do bind in the future, 
+
+are unlikely to bind evenly across firms.  As a result, the leverage ratio may simply cause SFT 
+
+assets and liabilities to migrate to those firms with stronger leverage ratios.  
+
+ Similarly, the LCR and, at least at this stage of its development, the Net Stable Funding 
+
+Ratio (NSFR), both assume that a firm with a perfectly matched book is in a stable position.  The 
+
+LCR assumes a bank can call in reverse repos and other SFT assets that mature in less than 30 
+
+days or reuse the collateral that secures those assets for purposes of its own borrowing.  Thus, 
+
+reverse repos and other SFT assets generally are treated as completely liquid instruments.  Under 
+
+the initial version of the NSFR, firms would not need to hold any stable funding against reverse 
+
+repos, securities borrowing receivables, or other loans to financial entities that mature in less 
+
+than one year.  Again, this may be a reasonable position from a microprudential perspective, 
+
+geared toward more or less normal times.  But here is where we need an explicitly 
+

@@ -1,0 +1,63 @@
+
+     Note:  Wealth values are reported in 2018 dollars using personal consumption expenditures prices.
+    Source:  Federal Reserve Board, Distributional Financial Accounts; Bureau of Economic Analysis; Bureau of Labor Statistics, Civilian Unemployment Rate,
+retrieved from FRED, Federal Reserve Bank of St. Louis; calculations by Board staff.  
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+60
+
+65
+
+70
+
+75
+
+80
+
+85
+
+90
+
+95
+
+100
+
+105
+
+2007:Q1 2009:Q1 2011:Q1 2013:Q1 2015:Q1 2017:Q1
+
+Figure 13.  Change in average wealth of middle-income households since 
+2007 and the national unemployment rate 
+
+Unemployment rate
+(right scale) 
+
+Middle-income average
+wealth relative to 2007
+(left scale)
+
+100=2007:Q1 Percent
+
+2018:Q4
+

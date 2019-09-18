@@ -1,0 +1,89 @@
+
+[page 11] 
+
+supporting information supplied by the firms as part of the SCAP exercise. This work was informed by 
+
+supervisory information and knowledge of the on-site examination teams at each of the participating 
+
+BHCs. The objective was to evaluate the projections submitted by the firms and the approaches used to 
+
+generate those numbers. A key aspect of this analysis was to understand the particular parameters and 
+
+assumptions employed and their consistency with the macroeconomic scenarios provided, as well as the 
+
+models and methodologies used to generate the loss and resource estimates. 
+
+Aside f rom a direct review of the assumptions and models used in loss and resource projections 
+
+submitted by the participating BHCs, the agencies developed independent benchmarks against which to 
+
+evaluate the submissions. One set of benchmarks was the indicative loan loss rate ranges provided to 
+
+firms prior to their preparing assessments of potential losses in their accrual loan portfolios under each 
+
+macroeconomic scenario for the categories of loans on the SCAP template. The ranges are based on loss 
+
+rate estimates calculated by the different supervisory agencies participating in the SCAP, using 
+
+methodologies both currently in use by the agencies and some especially designed for this assessment. 
+
+All the ranges are estimates, reflecting the uncertainty inherent in the likely loss experience of large 
+
+banking companies in stressful economic environments. 
+
+The agencies used a variety of approaches to calculate indicative loss rates across the different 
+
+types of loans. These approaches for residential mortgages included "micro" models of default and loss-
+
+given-default built on information about individual loans, models based on the performance of regional 
+
+mortgage loan portfolios, and analysis of mortgages held by failing banks. For other consumer loans and 
+
+for commercial lending (including various types of commercial real estate lending), the agencies 
+
+estimated loss rates using techniques such as regressions of historical charge-off or default data against 
+
+macroeconomic variables such as home price appreciation and the unemployment rate and analysis of 
+
+loan-level data derived f rom supervisory sources. A variety of other statistical analyses were applied to 
+
+the historical experience at large BHCs to estimate loss rates and resource availability. 
+
+These indicative loss rate ranges, although useful as general guides to aggregate banking sector 
+
+losses, do not reflect important differences across firms that could affect performance and losses in 
+
+significant ways. Thus, the agencies also developed more detailed benchmarks for losses and resources 
+
+incorporating granular, firm-specific information on factors such as past performance, portfolio 
+
+composition, origination vintage, borrower characteristics, geographic distribution, international 
+
+operations, and business mix. These benchmarks were intended to provide a common background in 
+
+discussions with the firms about their analysis and as additional information to help supervisors 
+
+determine where results should be adjusted. 
+
+As with the indicative loss rate ranges, these benchmarks also made use of models and 
+
+approaches already in use to monitor risk and f irm condition as part of the on-going supervisory 
+
+oversight process, as well as methods developed specifically for the SCAP exercise. These estimates 
+
+drew on much of the same data provided by the participating BHCs as part of their SCAP submissions 
+
+and were provided in response to specific requests from the supervisory teams. These supervisory 
+
+benchmarks provided important information to the teams evaluating the BHC submissions, since the 
+
+benchmarks were calculated using consistent methodologies across firms, while still incorporating 
+
+detailed firm-specific information about the BHCs. 
+
+The intent of the overall process was to bring together as much information as possible about 
+
+the specific f i rm and empirical evidence on loss rates and resource availability in order to provide the 
+
+best judgment on potential losses and revenues in economic conditions that are weaker than expected. 
+

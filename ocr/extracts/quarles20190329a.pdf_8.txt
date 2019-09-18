@@ -1,0 +1,50 @@
+
+ - 7 - 
+
+the CCyB is its potential to limit the buildup of financial vulnerabilities by slowing the 
+
+rate of credit expansion--that is, the possibility that the CCyB may “lean against the 
+
+wind” of credit fluctuations.  This secondary objective, both in the original Basel 
+
+discussions and in the Federal Reserve’s framework, is less central.   
+
+A notable feature of the Board’s current framework is the decision to maintain a 0 
+
+percent CCyB when vulnerabilities are within their normal range.  Because we set high, 
+
+through-the-cycle capital requirements in the United States that provide substantial 
+
+resilience to normal fluctuations in economic and financial conditions, it is appropriate to 
+
+set the CCyB at zero in a normal risk environment.  Thus, our presumption has been that 
+
+the CCyB would be zero most of the time. 
+
+Current Assessment of Financial Vulnerabilities 
+
+When, then, would it be appropriate--given this framework--to activate the 
+
+CCyB?  That is, how do we know when financial vulnerabilities are elevated?  The 
+
+Federal Reserve continuously monitors vulnerabilities, as highlighted in our recent 
+
+Financial Stability Report.6  Our approach is organized around tracking four broad 
+
+vulnerabilities that academic research and practical experience have shown can amplify 
+
+negative shocks and result in outsized losses in the real economy.  These are asset 
+
+valuation pressures, household and business debt, funding risk, and financial-sector 
+
+leverage.  As part of this process, the Board considers a number of quantitative 
+
+indicators--one of which is the credit-to-GDP (gross domestic product) gap proposed in 
+
+the Basel Committee guidance--that are indicative of potential vulnerabilities.  
+
+                                                 
+6 See Board of Governors of the Federal Reserve System (2018), Financial Stability Report (Washington:  
+Board of Governors, November), https://www.federalreserve.gov/publications/files/financial-stability-
+report-201811.pdf.  
+

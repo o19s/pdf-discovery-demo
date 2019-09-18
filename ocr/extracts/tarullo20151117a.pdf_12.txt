@@ -1,0 +1,49 @@
+
+-11- 
+ 
+
+
+desirable to address bank-like risks in the shadow banking sector and to forestall regulatory 
+
+arbitrage. 
+
+ The Board has advocated for international measures to forestall the development of 
+
+highly volatile funding structures outside the regulated sector.  Consistent with this position, we 
+
+will be developing a regulation that would establish minimum haircuts for securities financing 
+
+transactions (SFTs) on a market-wide basis, rather than just for specific classes of market 
+
+participants.  SFTs include repo, reverse repo, securities lending and borrowing, and securities 
+
+margin lending--transactions that are the lifeblood of many kinds of shadow banks.  SFTs are a 
+
+key component of the healthy functioning of the securities market.  But, in the absence of 
+
+sensible regulation, they also carry the potential for prompting the fire sale dynamic described 
+
+earlier.  While the haircuts and other conditions associated with SFTs today are considerably 
+
+more conservative than during the period leading up to the crisis, there is good reason to believe 
+
+that this conservatism could be eroded as economic conditions continue to improve and credit 
+
+growth accelerates. 
+
+ A system of numerical haircut floors for SFTs would require any entity that wants to 
+
+borrow against a security to post a minimum amount of excess margin to its lender, with the 
+
+amount varying depending on the asset class of the collateral.  Like the minimum margin 
+
+requirements that U.S. regulators have imposed on derivatives contracts, numerical floors for 
+
+SFT haircuts would serve as a mechanism for limiting the build-up of leverage in the financial 
+
+system.  They could also mitigate the risk to financial stability posed by pro-cyclical margin calls 
+
+during times of financial stress, since putting a regulatory floor under SFT haircuts during good 
+
+times would reduce the amount by which they would increase during periods of stress. 
+

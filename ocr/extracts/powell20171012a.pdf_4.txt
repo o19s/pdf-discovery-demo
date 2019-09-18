@@ -1,0 +1,52 @@
+
+ - 3 - 
+
+Over the past couple of years, however, net inflows have recovered and have 
+
+averaged, if China is excluded, 0.7 percent of GDP in 2016 and about 1-1/2 percent of 
+
+GDP in early 2017.  As shown in slide 3, other measures of capital flows, such as flows 
+
+into EME investment funds, show an even sharper rebound.   
+
+The recent recovery of investor appetite for EME exposure has shown up in asset 
+
+prices as well.  Emerging-market credit spreads have declined, and equity prices have 
+
+risen (slide 4).  These developments are not occurring in isolation, but in the context of a 
+
+general improvement in the global outlook and in investor risk sentiment.  The 
+
+improvement in economic fundamentals raises the following question:  To what extent 
+
+can the recent recovery in EME capital flows be explained by these better economic 
+
+fundamentals?   
+
+One way to shed light on this question is to compare the recent behavior of EME 
+
+capital flows with what we might expect from a model of these flows based on historical 
+
+data.  In a recent study, Federal Reserve staff regressed net private capital inflows into 
+
+several key EMEs on measures of investment opportunities in these economies, monetary 
+
+policy variables, and risk sentiment variables.3  As can be seen in slide 5, by comparing 
+
+the solid and dashed lines, the model does a fairly good job overall of fitting the data.   
+
+It is instructive to look at what the model tells us about the slowing of flows 
+
+between 2010 and 2015.  Note that the falloff in commodity prices (the red portion of the 
+
+                                                 
+3 The specific variables in the regression include the GDP growth differential between EMEs and advanced 
+economies, commodity prices, EME interest rate differentials with advanced economies, measures of the 
+Federal Reserve’s quantitative easing, the VIX (which is the one-month-ahead option-implied volatility of 
+the S&P 500 index), and country-specific emerging market credit spreads (see Clark and others, 2016). 
+Note that, because of special factors driving its flows over the past few years, China is not included in this 
+analysis. Other studies that have also examined determinants of EME capital flows include International 
+Monetary Fund (2016b), Koepke (2015), Ahmed and Zlate (2014), Fratzscher (2012), and Ghosh and 
+others (2012).  Generally, these papers find that many factors, including both “pull” and “push,” affect 
+EME capital flows.  
+

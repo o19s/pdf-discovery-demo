@@ -1,0 +1,52 @@
+
+
+ 9
+
+based capital requirements.  The agencies’ rules also incorporate other methods for 
+assessing risk-based capital requirements, including the use of NRSRO ratings. 
+
+ The agencies are considering a wide range of approaches of varying complexity 
+and risk-sensitivity for developing credit-worthiness standards for the risk-based capital 
+standards.  These include developing risk weights for exposure categories based on 
+objective criteria established by regulators, similar to the current risk-bucketing approach 
+of the general risk-based capital rules.  The approaches also include developing broad 
+qualitative and quantitative credit-worthiness standards that banking organizations could 
+use, subject to supervisory oversight, to measure the credit risk associated with exposures 
+within a particular exposure category.  These general approaches present certain 
+advantages and disadvantages.  In considering these approaches, the agencies will 
+evaluate the extent to which the alternatives meet the principles described above. 
+
+ Risk Weights Based on Exposure Category:  One way to eliminate references to 
+credit ratings in the risk-based capital standards would be for the agencies to delete all of 
+the sections in their risk-based capital regulations that refer to credit ratings and retain the 
+remainder of the general risk-based capital rules.  Under this approach, all non-
+securitization exposures generally would receive a 100 percent risk-weight unless 
+otherwise specified.  For example, certain sovereign and bank exposures would be 
+assigned a zero percent or a 20 percent risk weight, respectively.  Alternatively, the 
+agencies could revise the risk-weight categories for exposures by considering the type of 
+obligor, for example, sovereign, bank, public sector entity (PSE),18 as well as considering 
+other criteria, such as the characteristics of the exposure, which could increase the risk 
+sensitivity of the risk-based capital requirements by providing a wider range of risk-
+weight categories.  
+
+ Exposure-Specific Risk Weights:  Under this approach, banking organizations 
+could assign risk weights to individual exposures using specific qualitative and 
+quantitative credit risk measurement standards established by the agencies for various 
+exposure categories.  Such standards would be based on broad credit-worthiness metrics.  
+For instance, exposures could be assigned a risk weight based on certain market-based 
+measures, such as credit spreads; obligor-specific financial data, such as debt-to-equity 
+ratios; or other sound underwriting criteria.  Alternatively, banking organizations could 
+assign exposures to one of a limited number of risk weight categories based on an 
+assessment of the exposure’s probability of default or expected loss.   
+
+ As part of an exposure-specific approach, the agencies are considering whether 
+banking organizations should be permitted to contract with third-party service providers 
+to obtain quantitative data, such as probabilities of default, as part of their process for 
+making credit-worthiness determinations and assigning risk weights.  While this method 
+could increase risk sensitivity, consistent application across exposure categories and 
+across banking organizations could be more difficult to achieve.   
+
+                                                 
+18 A PSE exposure is an exposure to a state, local authority, or other government subdivision below the 
+sovereign entity level.   
+

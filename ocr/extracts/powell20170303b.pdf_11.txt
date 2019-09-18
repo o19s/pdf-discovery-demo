@@ -1,0 +1,44 @@
+
+- 10 - 
+ 
+
+Fourth, governance and risk management will be critical.  For individual 
+
+firms or clearing houses that adopt DLT as an internal technology upgrade, the 
+
+governance and risk-management processes are likely to be internalized within 
+
+existing organizations and be akin to other technology upgrades.   However, if new 
+
+networks of bilateral payment, clearing, and settlement are established, the new 
+
+technology may involve tightly coupled protocols and operations.  The safety of 
+
+the overall design will depend on a highly interdependent framework.  If 
+
+automated risk management, smart contracts, and similar tools are deployed across 
+
+a network, cascades of rapid and hard-to-control obligations and liquidity flows 
+
+could propagate across a network and the financial system in response to events.  
+
+This interdependence will likely call for creative organizational thinking to address 
+
+the need for governance and strong risk management.     
+
+ Finally, the legal foundations supporting DLT will need 
+
+attention.  Deployments of DLT will involve firms, perhaps in different 
+
+jurisdictions, with systems that record and transfer information and assets under 
+
+existing legal frameworks.  Which bodies of law apply to the particular firms, 
+
+assets, and activities will determine the associated rights and responsibilities when 
+
+transfers are made, cleared, and settled.  For example, whether and how banking, 
+
+payments, securities, or commodities laws apply in a given context are likely to be 
+
+important in designing systems and services and understanding their 
+

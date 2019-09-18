@@ -1,0 +1,46 @@
+
+right standard when contemplating the well-being of a CCP in isolation.  But it seems worth 
+
+considering whether this standard is adequate when hypothesizing stress throughout the financial 
+
+system, since the default of two large counterparties would almost surely be accompanied by 
+
+significant market disruption.  At the least, it is important to ensure a consistent, robust 
+
+implementation of the cover 2 standard that has already been agreed. 
+
+While the question of what constitutes the optimal default fund standard needs more 
+
+analysis and debate, I think there is little question that more attention must be paid to 
+
+strengthening stress testing, recovery strategies, and resolution plans for significant CCPs.  The 
+
+typical CCP recovery strategy does not take a system-wide perspective and is premised on 
+
+imposing losses on, or drawing liquidity from, CCP members during what may be a period of 
+
+systemic stress.  Many of these members are themselves systemically important firms, which 
+
+will likely be suffering losses and facing liquidity demands of their own in anything but an 
+
+idiosyncratic stress scenario at a CCP.  Moreover, in at least some cases, uncertainty is increased 
+
+by the difficulty of estimating with any precision the extent of potential liability of members to 
+
+the CCP, thereby complicating both their recovery planning and efforts by the official sector to 
+
+assess system-wide capital and liquidity availability in adverse scenarios.  
+
+These and other questions will be discussed in the coming months at the CPMI, the FSB, 
+
+and other international fora, as well as among U.S. regulators.  Researchers with a 
+
+macroprudential perspective can contribute to these discussions with analyses of system-wide 
+
+liquidity demands and knock-on effects of defaults by CCP members, as well as policy 
+
+suggestions to address vulnerabilities that emerge from these analyses. 
+
+15 
+ 
+

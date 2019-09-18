@@ -1,0 +1,42 @@
+
+10 
+ 
+
+While repos are generally a low risk, low margin business, they proved to be 
+
+vulnerable to runs during the financial crisis, when concerns of possible defaults by 
+
+large financial firms led to a sudden withdrawal of funding from repo markets.  As 
+
+a result, a reform project led by my colleagues at the Federal Reserve Bank of New 
+
+York produced a set of measures that have sharply reduced the amount of intraday 
+
+credit and improved risk management practices in the tri-party repo market.  These 
+
+reforms have made the overall structure of that market much safer, and 
+
+significantly reduced the likelihood of a borrower default.  But if a default were to 
+
+take place, some counterparties, particularly those unwilling or unable to hold 
+
+sizable positions, would retain strong incentives to sell assets quickly regardless of 
+
+the price received.     
+
+A repo CCP could help to address this “fire sale” risk.  CCPs have rule-
+
+based processes to dispose of the portfolio of a defaulted member.  CCPs can 
+
+transfer positions to solvent broker-dealers, or hedge positions and auction them 
+
+off over time.   
+
+Greater transparency and reduction in operational risk  
+
+Central clearing could also improve transparency and bring a reduction in 
+
+operational risks.  CCPs are in position to aggregate trade information from all 
+
+clearing members, and thus to monitor and manage counterparty and market-risk 
+

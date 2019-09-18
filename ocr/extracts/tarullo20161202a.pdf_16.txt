@@ -1,0 +1,51 @@
+
+15 
+ 
+
+FDIC or a bankruptcy judge for conversion into equity should the firm fail.  Note that this 
+
+requirement is intended to prepare for the possibility that the firm fails despite all the measures 
+
+we have taken to strengthen resiliency.  Having identifiable instruments for conversion that 
+
+would survive the loss of most or all of the firm’s equity is necessary for a private 
+
+recapitalization of the firm to be successful.   
+
+A second step is to determine if we can develop metrics that would reflect a firm’s 
+
+particular vulnerabilities to funding shocks, liquidity shocks, and fire sale dynamics in their 
+
+needed capital as part of the annual stress test.17  These measures would directly take into 
+
+account macroprudential concerns of financial system stability.  They might well counsel 
+
+increased capital requirements for some of the largest banks. 
+
+A third step is to take another look at the capital and liquidity positions of large U.S. 
+
+branches of some foreign banks.  As has become apparent, the actual consolidated capital 
+
+positions of some such banks can be difficult for us to discern when the bank uses internal 
+
+models to compute its required regulatory capital.  It is critical to ensure that large U.S. branches 
+
+of foreign banks do not create financial instability in the United States if their parents’ global 
+
+positions come under stress. 
+
+Although I have been focusing mostly on the risks to financial stability posed by the 
+
+largest financial firms, I would not want to leave a discussion of future work without offering 
+
+another reminder that they are not the only source of vulnerabilities.  The kinds of “shadow 
+
+banking” that grew up around the private-label mortgage backed securities markets have largely 
+
+disappeared, but other forms of runnable liabilities remain outside prudentially regulated 
+
+institutions.  There is also good reason to believe that new forms of shadow banking will develop 
+
+                                                           
+17 See Tarullo, “Next Steps in the Evolution of Stress Testing.” 
+

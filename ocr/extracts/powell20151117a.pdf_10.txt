@@ -1,0 +1,43 @@
+
+9 
+ 
+
+segment, although modest in size compared to the overall market, is a key source 
+
+of financing for smaller dealers, particularly in times of financial stress.  The 
+
+availability of repo funding for a diverse range of participants supports market 
+
+liquidity by enabling them to make markets in Treasury and agency securities.  
+
+CCPs themselves also rely on these markets, often using repo to earn interest on 
+
+cash collateral and counting on access to repo markets in their liquidity planning.     
+
+The FSB has called on authorities to “consider the pros and cons of 
+
+broadening participation in repo clearing arrangements.”8 What are the potential 
+
+benefits of greater clearing in this market?  In addition to the potential netting 
+
+benefits I mentioned earlier, a CCP typically performs three other beneficial 
+
+economic functions: 1) a reduction in the potential cost of counterparty default 
+
+coming from the orderly liquidation of a defaulting member’s positions, 2) greater 
+
+transparency and a reduction in operational risk from enhanced reporting 
+
+requirements and standardization of data, and 3) the sharing of risk among 
+
+members of the CCP through some mutualization of the costs of a counterparty’s 
+
+default.  I’ll discuss each of these in turn.  
+
+Orderly liquidation 
+
+                                                           
+8 Financial Stability Board (2013), “Strengthening Oversight and Regulation of Shadow Banking: Policy Framework 
+for Addressing Shadow Banking Risks in Securities Lending and Repos” (Basel, Switzerland: FSB, August), 
+www.financialstabilityboard.org/wp-content/uploads/r_130829b.pdf 
+

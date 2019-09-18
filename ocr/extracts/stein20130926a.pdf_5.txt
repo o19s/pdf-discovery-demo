@@ -1,0 +1,53 @@
+
+ - 4 - 
+
+investors, thereby inducing these investors to take on more interest rate risk and to push 
+
+down term premiums.  
+
+To provide some evidence that bears on the theory, we look at the maturity of 
+
+securities held by commercial banks.  Banks fit with our conception of yield-oriented 
+
+investors to the extent that they care about their reported earnings--which, given bank 
+
+accounting rules for available-for-sale securities, are based on current income from 
+
+securities holdings and not mark-to-market changes in value.  And, indeed, we find that 
+
+when the yield curve steepens, banks increase the maturity of their securities holdings.  
+
+Moreover, the magnitudes of these portfolio shifts are large in the aggregate, so that if 
+
+they had to be absorbed by other, less yield-oriented investors, the shifts could plausibly 
+
+drive changes in marketwide term premiums.  We also find that primary dealers in the 
+
+Treasury market--who, unlike banks, must mark their securities holdings to market--take 
+
+the other side of the trade, reducing the maturity of their Treasury holdings when the 
+
+yield curve steepens.
+5
+ 
+
+Overall, I read this evidence as suggesting--albeit tentatively--that some 
+
+mechanism involving yield-oriented investors may eventually turn out to be central to our 
+
+understanding of how monetary policy works, both in ordinary and extraordinary times.  
+
+When I say “central,” I mean that this mechanism may play a role not only in 
+
+determining how monetary policy influences the pricing of credit risk, but also in how it 
+
+shapes the real and nominal yield curves for credit-risk-free Treasury securities.  Of 
+
+course, much work remains to be done before statements like these can be made with any 
+
+                                                 
+5
+ Primary dealers are broker-dealer firms that serve as trading counterparties of the Federal Reserve Bank 
+
+of New York in its implementation of monetary policy. 
+

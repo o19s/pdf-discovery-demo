@@ -1,0 +1,59 @@
+
+Given that the conference theme is macro-finance linkages, I thought I would try 
+
+to lay out a corporate finance perspective on large-scale asset purchases (LSAPs).  I have 
+
+found this perspective helpful in thinking both about the general efficacy of LSAPs going 
+
+forward, and about the differential effects of buying Treasury securities as opposed to 
+
+mortgage-backed securities (MBS).  But before I get started, please note the usual 
+
+disclaimer:  The thoughts that follow are my own and do not necessarily reflect the views 
+
+of other members of the Federal Open Market Committee (FOMC).  I should also 
+
+mention that these comments echo some that I made in a speech at Brookings last 
+
+month.
+1
+  As I noted in that speech, I support the Committee’s decision to purchase 
+
+mortgage-backed securities (MBS) at a rate of $40 billion per month, in tandem with the 
+
+ongoing maturity extension program in Treasury securities, and its plan to continue with 
+
+asset purchases if the Committee does not observe a substantial improvement in the 
+
+outlook for the labor market. 
+
+I will start with the case of Treasury LSAPs, and then go on to discuss the 
+
+differences that arise when the Fed purchases MBS instead.  One thing that seems clear in 
+
+the data is that if you buy a lot of long-term Treasury securities, this exerts significant 
+
+downward pressure on their yields and term premiums.  Indeed, the Fed’s past actions are 
+
+likely one important reason why Treasury term premiums are now near historic lows, on 
+
+the order of minus 80 basis points, according to a model used by the Board staff.
+2
+  
+
+Moreover, while this is not entirely uncontroversial, my own reading of the evidence is 
+
+                                                 
+1
+ See Jeremy C. Stein (2012), “Evaluating Large-Scale Asset Purchases,” speech delivered at the Brookings 
+
+Institution, Washington, October 11, www.federalreserve.gov/newsevents/speech/stein20121011a.htm. 
+2
+ See Don H. Kim and Jonathan H. Wright (2005), “An Arbitrage-Free Three-Factor Term Structure Model 
+
+and the Recent Behavior of Long-Term Yields and Distant-Horizon Forward Rates,” Finance and 
+
+Economics Discussion Series 2005-33 (Washington:  Board of Governors of the Federal Reserve System, 
+
+August), www.federalreserve.gov/pubs/feds/2005/200533/200533pap.pdf. 
+

@@ -1,0 +1,50 @@
+
+ - 4 - 
+
+the responsible provision of loans to some individuals and firms that otherwise would not 
+
+have access to such credit.  In recent years, some innovative Community Development 
+
+Financial Institutions (CDFIs) have developed partnerships with online alternative 
+
+lenders, with the goal of expanding credit access to underserved small businesses.7   
+
+The challenge will be to foster socially beneficial innovation that responsibly 
+
+expands access to credit for underserved consumers and small businesses, and those who 
+
+otherwise would qualify only for high-cost alternatives.  It would be a lost opportunity if, 
+
+instead of expanding access in a socially beneficial way, some fintech products merely 
+
+provided a vehicle to market high-cost loans to the underserved, or resulted in the digital 
+
+equivalent of redlining, exacerbating rather than ameliorating financial access inequities.   
+
+We are also monitoring a growing fintech segment called “regtech” that aims to 
+
+help banks achieve regulatory compliance more effectively.  Regtech firms are designing 
+
+new tools to assist banks and other financial institutions in addressing regulatory 
+
+compliance issues ranging from onboarding new customers to consumer protection to 
+
+payments and governance.  Many of the current solutions are focused on Bank Secrecy 
+
+Act (BSA) regulatory requirements, including know-your-customer (KYC) and 
+
+suspicious activity reporting requirements.  The solutions utilize new technologies and 
+
+data-analytic techniques that may reduce the costs and time needed for banks to identify 
+
+and assess customers’ money-laundering and terrorist-financing risks.  However, it is too 
+
+                                                 
+7 Most recently, Regions Bank announced a partnership with Fundation, an online lender, and TruFund, a 
+CDFI, to provide small-dollar loans to underserved small businesses (for more information, see 
+http://ir.regions.com/releasedetail.cfm?ReleaseID=989068).  In 2015, Lending Club and the Opportunity 
+Fund, a California-based CDFI, announced a partnership intended to provide $10 million in loans over a 
+period of five months to 400 small businesses in underserved areas of California (for more information, see  
+www.opportunityfund.org/media/blog/clinton-announces-partnership-between-opportunity-fund-and-
+lending-club). 
+

@@ -1,0 +1,56 @@
+
+ - 9 - 
+
+counterparties.  The authors posit that banks deal with this uncertainty by appealing to the 
+
+“maximin principle”:  Each seeks to maximize profits under the assumption that the 
+
+network is configured in the worst possible manner from its own perspective.  Because 
+
+each behaves as though the network structure is “stacked against it,” when banks learn of 
+
+an adverse liquidity shock, each tends to sell more of its illiquid assets and withdraw 
+
+more funding from its counterparties than it would if it had access to complete 
+
+information about the structure of interbank credit relationships.  As in Shin’s model, this 
+
+excessive deleveraging can create a vicious cycle, magnifying the effects of the initial 
+
+shock. 
+
+The four models we’ve discussed thus far are aimed at exploring general features 
+
+of financial networks.  As such, they are necessarily somewhat abstract.  With a few 
+
+narrow exceptions, they treat all market participants as similar in size and in range of 
+
+activities, and they use relatively simplistic network structures.  In the past few years, 
+
+research on financial networks has moved beyond stylized models of interbank 
+
+relationships to examine the propagation of shocks in more-realistic settings.  Recent 
+
+research by Gai, Haldane, and Kapadia and by Cont, Moussa, and Santos examines how 
+
+shocks propagate in network structures in which some banks are larger and more 
+
+interconnected than others.
+12
+
+
+Using numerical simulations, Gai, Haldane, and Kapadia show that, in 
+
+concentrated networks, contagion occurs less frequently and is less severe for low 
+
+degrees of network connectivity.  Contagion is significantly more likely at higher levels 
+
+of connectivity.  In a concentrated financial network with a few key players, and when 
+
+liquidity shocks are targeted at the most connected institutions, distress at highly 
+
+                                                 
+12
+
+ See Gai, Haldane, and Kapadia (2010) and Cont, Moussa, and Santos (2012). 
+

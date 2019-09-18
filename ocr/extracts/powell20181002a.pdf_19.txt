@@ -1,0 +1,77 @@
+
+1960 1964 1968 1972 1976 1980 1984
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+PercentQuarterly
+
+Unemployment rate
+Core inflation rate
+
+1996 2000 2004 2008 2012 2016 2020
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+PercentQuarterly
+
+Projections
+
+    Figure 2.  Unemployment Rate and Core Inflation Rate
+
+     Note:  Core inflation is the four−quarter percent change in the price index for personal consumption expenditures (PCE) less food and energy,          
+with data through 2018:Q2 and projections through 2020:Q4.  The projections are an average of projections from the Federal Open Market          
+Committee (FOMC), the Survey of Professional Forecasters (SPF), and the Congressional Budget Office (CBO).  FOMC projections are from          
+September 2018, and SPF and CBO projections are from August 2018.  Details about the forecasts are as in the note to figure 1.
+     Source:  Bureau of Labor Statistics (retrieved from Federal Reserve Bank of St. Louis, FRED); Bureau of Economic Analysis (retrieved from          
+Federal Reserve Bank of St. Louis, FRED); Summary of Economic Projections, available on the Board’s website at https://www.federalreserve
+.gov/monetarypolicy/fomccalendars.htm; Survey of Professional Forecasters (retrieved from Federal Reserve Bank of Philadelphia Real−Time          
+Data Center); Congressional Budget Office (The Budget and Economic Outlook).
+

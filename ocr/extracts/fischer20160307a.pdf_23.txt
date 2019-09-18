@@ -1,0 +1,52 @@
+
+ - 22 - 
+
+Appendix 
+
+The following model includes a number of elements that play a central role in the 
+
+analysis of economic fluctuations and in larger policy models as I have encountered them 
+
+at the Federal Reserve and other institutions. 
+
+An aggregate demand relationship, in the form of the investment-saving (or IS) 
+
+curve, characterizes the negative dependence of economic activity on the real borrowing 
+
+rate, 𝑖𝑖𝐵𝐵 − 𝜋𝜋𝑒𝑒 , and the positive dependence on expected output, 𝑦𝑦𝑒𝑒; government spending, 
+
+𝐺𝐺; and net exports, NX, as a function of the exchange rate, 𝑒𝑒, and foreign output, 𝑦𝑦𝑓𝑓: 
+
+ 
+𝑦𝑦 = 𝐴𝐴(𝑖𝑖𝐵𝐵 − 𝜋𝜋𝑒𝑒 , 𝑦𝑦𝑒𝑒 ,𝐺𝐺,𝑁𝑁𝑁𝑁), 𝑤𝑤𝑖𝑖𝑤𝑤ℎ  𝑁𝑁𝑁𝑁 = 𝑓𝑓 �𝑒𝑒𝑃𝑃𝑓𝑓
+
+𝑃𝑃
+,𝑦𝑦𝑓𝑓�.           (1) 
+
+ 
+The Phillips curve describes a relationship between inflation and labor market 
+
+slack.  Inflation responds negatively to the level of the unemployment gap, 𝑢𝑢,�  and to 
+
+changes in aggregate productivity, 𝑧𝑧 (including shocks to commodity prices).  Current 
+
+inflation also responds positively to expected future inflation, 𝜋𝜋𝑒𝑒 , and to the level of the 
+
+borrowing rate and of the exchange rate, 𝜙𝜙(𝑖𝑖𝐵𝐵, 𝑒𝑒) (cost − push shocks): 
+
+ 
+𝜋𝜋 = 𝑓𝑓(𝑢𝑢�) − 𝑧𝑧 + 𝜋𝜋𝑒𝑒 + 𝜙𝜙�𝑖𝑖𝐵𝐵,  𝑒𝑒�.                           (Phillips curve)    (2)   
+
+ 
+Current issues regarding the role of expectations, the size of the slope, and the 
+
+pass-through from exchange rate movements to domestic prices and wages can be 
+
+addressed in this context.  Recent discussions can be found in Blanchard’s (2016) 
+
+reference to the back-to-the-1960s thinking about the Phillips curve and in Blanchard, 
+
+Cerutti, and Summers’s (2015) thoughts on hysteresis mechanisms underlying the 
+
+inflation and unemployment dynamic. 
+

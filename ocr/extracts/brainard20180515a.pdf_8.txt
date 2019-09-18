@@ -1,0 +1,52 @@
+
+- 7 - 
+ 
+
+facilitate finality of settlement.  Such wholesale digital settlement tokens could potentially 
+
+reduce the time and costs required for wholesale financial transactions. This is being discussed, 
+
+for instance, for the use cases of interbank payments, securities settlements, and cross-border 
+
+transactions, where the introduction of a digital token native to a platform may facilitate certain 
+
+types of settlement.    
+
+Likewise, it is possible at some point in the future that a limited central bank digital 
+
+instrument that serves as a settlement asset for wholesale payment and settlement activity may 
+
+hold some promise.  Several central banks have been studying this issue, and we have been 
+
+actively watching these developments.8  We are also interested in work that decouples the 
+
+underlying distributed ledger technology from cryptocurrencies and attempts to build on the 
+
+benefits of the technology, a topic to which I now turn. 
+
+Distributed Ledger Technology 
+
+Even if cryptocurrencies prove to have a very limited role in the future, the technology 
+
+behind them is likely to live on and offer improvements in the way we transfer and record more 
+
+traditional financial assets.  Distributed ledger technology could also facilitate other applications 
+
+that could improve the way we share information, validate possessions, and handle logistics. 
+
+Recall that distributed ledger technology is the mechanism for recordkeeping and transfer 
+
+of ownership that underpins cryptocurrencies.  Over the past few years, the financial industry has 
+
+conducted a great deal of research and development on how to adapt the more promising aspects 
+
+of distributed ledger technology for use with more traditional financial assets.  The industry has 
+
+moved a number of these projects through a series of phases, often developing more incremental 
+
+changes at first in order to gain confidence in the technology before tackling large projects with 
+
+                                                           
+8 For example, see Bank of Canada’s Project Jasper, https://www.bankofcanada.ca/research/digital-currencies-and-
+fintech/fintech-experiments-and-projects/. 
+

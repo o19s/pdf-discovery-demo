@@ -1,0 +1,54 @@
+
+
+- 8 - 
+
+regime reflected the characteristics of an intermediary’s liabilities.  Prior to the crisis, the Basel 
+
+regime--though nominally applicable only to internationally active banks--in fact applied to most 
+
+banks in many member jurisdictions, including the United States and the European Union (EU).  
+
+There were no quantitative liquidity requirements, and capital requirements did not vary based 
+
+on the liability side of the balance sheet.  Indeed, the major departure from uniform application 
+
+of capital rules was the opportunity afforded by Basel II for large banks to use their own internal 
+
+models in determining their regulatory capital requirements, an opportunity that Basel II’s 
+
+proponents expected to result in slightly lower requirements than under a standardized approach. 
+
+ In the wake of the crisis, Basel III strengthened capital quality and levels across the 
+
+board.  In addition, capital surcharges were imposed on about thirty banks of global systemic 
+
+importance (G-SIBs), based on criteria that roughly reflect TBTF concerns--that is, the size and 
+
+interconnectedness of the firms’ balance sheets.  Neither the generally applicable Basel III 
+
+changes nor the G-SIB surcharges were specifically tied to the stability of a bank’s debt 
+
+structure.  However, minimum quantitative liquidity requirements have been developed in the 
+
+form of the shorter-horizon Liquidity Coverage Ratio (LCR) and the longer-horizon Net Stable 
+
+Funding Ratio, which together are intended to place some limits on excessive reliance on 
+
+runnable liabilities.4 
+
+ Important as these changes have been, the risks to the financial system posed by large 
+
+amounts of short-term wholesale funding argue for closer regulatory linkage between capital and 
+
+                                                 
+4  In the United States, we have also applied a somewhat less stringent version of the LCR to banks that are large but 
+that do not cross the threshold of being internationally active.  This tiered approach is consistent with the principle 
+stated earlier that prudential requirements should vary based on the potential impact of a firm’s failure on the 
+financial system as a whole. 
+
+The liquidity rules clearly seem to have influenced the way banks manage their balance sheets.  In the 
+United States, bank holding companies subject to the LCR significantly increased their holdings of high-quality 
+liquid assets from the beginning of 2013 until the beginning of this year, to the point that many internationally active 
+banks reported their LCR ratios already above fully phased-in requirements, even though the transition rules set an 
+80 percent minimum ratio for January 1, 2015. 
+

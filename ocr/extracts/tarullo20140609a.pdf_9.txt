@@ -1,0 +1,49 @@
+
+
+9 
+ 
+
+At root, then, prudential regulation seeks to influence risk-taking in regulated entities.  
+
+But this is difficult to do directly.  Conceptually, “risk” is not reducible to a single metric, such 
+
+as--for example--the density of particulate matter in the emissions of a power plant.  Practically 
+
+speaking, a financial institution more or less continually makes risk decisions, the circumstances 
+
+of which can vary substantially over time, across asset classes, and even contemporaneously in a 
+
+single asset class based on the differing circumstances of borrowers or counterparties.   
+
+Prudential rules can limit or prohibit certain bank activities that are thought to be 
+
+particularly risky.  With respect to activities that are permitted, prudential regulation can 
+
+indirectly influence corporate decisions on risk-taking by requiring minimum amounts of capital 
+
+to be held by the regulated firms.  But, fundamental as they are to contemporary prudential 
+
+regulation, capital requirements--particularly static, backward-looking standards--will 
+
+necessarily be somewhat imprecisely related to the range of actual risk incident to specific assets 
+
+or transactions within the various risk categories established by the capital regime.  In fact, the 
+
+capital regime may itself invite arbitrage, as firms look to maximize risk-taking within regulatory 
+
+risk categories.7   
+
+Thus it is also important for prudential regulation to influence the processes of risk-
+
+taking within regulated financial firms as a complementary tool to capital requirements and other 
+
+substantive measures.  This view is reflected in various banking laws, most notably in the Dodd-
+
+Frank Act requirement that all bank holding companies with $10 billion or more in assets have a 
+
+risk committee, composed of independent directors and “responsible for the oversight of the 
+
+                                                 
+7 Of course, strong capital requirements also build a loss absorption buffer that is useful in dealing with risks gone 
+bad ex post, even if they cannot entirely contain those risks ex ante. 
+

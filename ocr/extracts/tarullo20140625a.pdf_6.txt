@@ -1,0 +1,52 @@
+
+- 5 - 
+ 
+
+ Finally, I might mention a change made this year that actually reverted to a feature of the 
+
+SCAP.  We did not allow banks to assume their balance sheets would shrink in the stress 
+
+scenarios as a way of meeting the minimum capital charge, something that many banks had done 
+
+in the stress tests of the past few years.4  Foreclosing this assumption serves the macroprudential 
+
+goal of helping to ensure that the major financial firms remain sufficiently capitalized to support 
+
+lending in a severe downturn. 
+
+ As I have already suggested, we are likely to continue to hone the supervisory stress test.  
+
+In particular, I expect that we will devote more attention to developing the macroprudential 
+
+elements of the stress tests.  For example, we might sharpen our focus on the risks to the 
+
+financial system of significant common exposures among firms.  We have already adjusted the 
+
+market shock applied to the trading books of the six largest firms to ensure that firms are not 
+
+incentivized to hold significant amounts of certain assets simply because they performed well in 
+
+the second half of 2008.5  But there is more that could be done.  One idea would be to test 
+
+whether individual firms that are revealed by the tests to be vulnerable to serious stress might 
+
+engage in asset fire sales that could produce knock-on damage to other firms.  Another would be 
+
+to incorporate more assumptions pertaining to the increased cost of, or reduced access to, 
+
+funding in stressed environments, when lots of credit lines may be drawn simultaneously. 
+
+ In short, we do not regard the supervisory stress test and CCAR as finished products.  In 
+
+fact, we should never regard them as finished products, since to do so would be to overlook 
+
+                                                 
+4 Prior to CCAR 2014, the Board sent CCAR participants a letter detailing the Federal Reserve’s procedure for 
+independently projecting the firms’ balance sheets and risk-weighted assets in the supervisory stress test and the 
+implications of the independent projections. See Board of Governors of the Federal Reserve System (2013), 
+“Federal Reserve Independent Balance Sheet and RWA Projections,” December 
+16, www.federalreserve.gov/bankinforeg/independent-projections-letter-20131216.pdf. 
+5 See Board of Governors of the Federal Reserve System, 2014 Supervisory Scenarios for Annual 
+Stress Tests Required under the Dodd-Frank Act Stress Testing Rules and the Capital Plan Rule (Washington: 
+Board of Governors, November 1), p. 5,  www.federalreserve.gov/bankinforeg/bcreg20131101a1.pdf. 
+

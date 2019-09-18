@@ -1,0 +1,50 @@
+
+- 9 - 
+ 
+
+The distinction between current and forecast values does not always matter much, 
+
+as (for example) high levels of inflation or output today may signal high levels of those 
+
+variables in the future.  However, over the past decade, the distinction between current 
+
+and forecast inflation has been an important one.  On several occasions during this 
+
+period, surges in energy prices led to increases in overall inflation.  According to the 
+
+standard Taylor rule, whose policy prescription depends on the current value of inflation, 
+
+these episodes should have led to a significant tightening of monetary policy.  However, 
+
+both the FOMC and private forecasters expected these increases in energy prices to 
+
+subside--correctly, as it turned out--and therefore did not much adjust their medium-term 
+
+forecasts for inflation.  Consequently, policy was not tightened as much as would have 
+
+been called for by the standard Taylor rule.  Put another way, the standard Taylor rule 
+
+makes no distinction between increases in inflation expected to be temporary and those 
+
+expected to be longer lasting.  In practice, however, policymakers have responded less to 
+
+increases in inflation that they expect to be temporary, a reasonable strategy given that 
+
+monetary policy affects inflation only with a significant lag. 
+
+Slide 4 shows the quantitative implications of this point.  The actual paths of the 
+
+policy rate, in blue, and the policy prescription implied by the standard Taylor rule, the 
+
+dashed red line, are the same as in Slide 3.  Also shown, as a dotted green line, is the 
+
+monetary policy path prescribed by an alternative version of the Taylor rule that replaces 
+
+the current rate of inflation on the right-hand side with a forecast of inflation over the 
+
+current and subsequent three quarters.  Forecasts are those that were actually made in real 
+
+time, that is, at the time at which the corresponding policy rate was chosen.  For the 
+
+period through 2004, these forecasts are the staff forecasts (the so-called Greenbook 
+

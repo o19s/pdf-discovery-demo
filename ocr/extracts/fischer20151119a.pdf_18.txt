@@ -1,0 +1,34 @@
+
+Table 3.  Emerging Asia Demographics
+
+Median Population Age (2015) Percent of Population Age 65 or over (2030)
+Bangladesh 26 7
+Bhutan 27 8
+Cambodia 24 7
+China 37 17
+Hong Kong 43 26
+India 27 8
+Indonesia 28 8
+Korea 41 24
+Lao P.D.R. 22 5
+Malaysia 29 10
+Myanmar 29 9
+Nepal 23 7
+Philippines 24 7
+Singapore 40 23
+Sri Lanka 32 15
+Thailand 38 19
+Vietnam 30 12
+
+Memo:
+Germany 46 28
+Japan 47 30
+United States 38 21
+
+UN Estimates for 2015
+Country or Territory
+
+Source:  United Nations, Department of Economic and Social Affairs, Population Division (2015), World 
+Population Prospects: The 2015 Revision, Key Findings and Advance Tables, Working Paper ESA/P/WP.241 (New 
+York: UN), http://esa.un.org/unpd/wpp/Publications/Files/key_findings_WPP_2015.pdf.
+

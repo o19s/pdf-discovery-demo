@@ -1,0 +1,44 @@
+
+Figure 1: The Unemployment Rate
+
+2006 2007 2008 2009 2010
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+Percent
+
+Unemployment rate
+NAIRU from SPF
+
+     Note: In this figure, the solid line represents the quarterly average of the unemployment rate from 2006 through 2010, and the dashed line denotes the median estimate
+of the non-accelerating inflation rate of unemployment (NAIRU) from the Federal Reserve Bank of Philadelphia’s Survey of Professional Forecasters (SPF). 
+     Source: For the unemployment rate, U.S. Dept. of Labor, Bureau of Labor Statistics; for NAIRU, Federal Reserve Bank of Philadelphia.
+

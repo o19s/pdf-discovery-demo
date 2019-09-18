@@ -1,0 +1,69 @@
+
+ - 16 - 
+
+based on assumptions about the course of balance sheet normalization that are consistent 
+
+with the exit strategy principles adopted at the June 2011 FOMC meeting.
+27
+
+
+The projections resulting from this exercise imply that Federal Reserve 
+
+remittances to the Treasury will likely decline for a time.  In some scenarios, they decline 
+
+to zero.  Once the Federal Reserve’s portfolio is normalized, however, earnings are 
+
+projected to return to their long‐run trend.  The study supports the conclusion that the 
+
+Federal Reserve’s purchase programs will very likely prove to have been a net plus for 
+
+cumulative income and remittances to the Treasury over the period from 2008 through 
+
+2025, by which time it is assumed that the balance sheet has been normalized.
+28
+
+
+Focusing only on the ebb and flow of the Federal Reserve’s remittances to the 
+
+Treasury, however, is not, in my view, the appropriate way to evaluate the effect of these 
+
+purchases on the government’s finances.  More germane is the overall effect of the 
+
+program on federal finances.  If the purchases provide even a modest boost to economic 
+
+activity, increased tax payments would swamp any reduction in remittances.  By 
+
+depressing longer-term interest rates, the purchases also hold down the Treasury’s debt 
+
+service costs.  These effects can be quantified through simulations of the Board’s 
+
+FRB/US model.  In the simulation I described earlier, a hypothetical program involving 
+
+$500 billion of asset purchases would reduce the ratio of federal debt to gross domestic 
+
+                                                 
+27
+
+ See Carpenter and others (2013) for the Board study; the exit strategy principles are in Board of 
+
+Governors (2011b).  
+28
+
+ The extent of realized capital losses on sales of Federal Reserve assets depends on the precise securities 
+
+sales policy that the Committee eventually decides to undertake.  An increase in longer-term interest rates 
+
+would lower the market value of the securities in the System Open Market Account (SOMA) portfolio.  But 
+
+the Federal Reserve would continue to receive interest income on those securities for as long as they 
+
+remained in the SOMA portfolio, and securities held to maturity could roll off the portfolio without the 
+
+Federal Reserve realizing losses on them.  While the authors of the Board staff study used particular 
+
+assumptions about future securities sales that are consistent with the exit strategy principles outlined by the 
+
+Committee in June 2011, other strategies for sales that are equally consistent might lead to different results.  
+
+
+

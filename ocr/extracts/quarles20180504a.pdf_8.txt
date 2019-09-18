@@ -1,0 +1,54 @@
+
+ - 7 - 
+
+With that said, it is useful to begin by examining banks’ current reserve holdings.  
+
+Figure 1 plots the aggregate level of reserve balances in the U.S. banking system, starting 
+
+well before the financial crisis.  As you can see, the current level of reserves--at around 
+
+$2 trillion--is many orders of magnitude higher than the level that prevailed before the 
+
+financial crisis, a result of the Fed’s large-scale asset purchase programs that aimed to 
+
+mitigate the severe economic downturn and stem disinflationary pressures in the wake of 
+
+the crisis.  The vertical lines in the figure show key dates in the implementation of the 
+
+LCR, including the initial Basel III international introduction of the regulation followed 
+
+by its two-step introduction in the United States.  A key takeaway from this figure is that 
+
+the Fed was in the process of adding substantial quantities of reserve balances to the 
+
+banking system while the LCR was being implemented--and these two changes largely 
+
+happened simultaneously.  As a result, banks, in aggregate, are currently using reserve 
+
+balances to meet a significant portion of their LCR requirements.  In addition, because 
+
+these changes happened together, it is reasonable to conclude that the current 
+
+environment is likely not very informative about banks’ underlying demand for reserve 
+
+balances. 
+
+But now the situation is changing, albeit very slowly.  Last October, the Fed 
+
+began to gradually and predictably reduce the size of its balance sheet.9  The Fed is doing 
+
+so by reinvesting the principal payments it receives on its securities holdings only to the 
+
+extent that they exceed gradually increasing caps--that is, the Fed is allowing securities to 
+
+roll off its portfolio each month up to a specific maximum amount.  This policy is also 
+
+                                                 
+9 The FOMC announced this change to its balance sheet policy in its September 2017 postmeeting 
+
+statement; see Board of Governors of the Federal Reserve System (2017), “Federal Reserve Issues FOMC 
+
+Statement,” press release, September 20, 
+
+https://www.federalreserve.gov/newsevents/pressreleases/monetary20170920a.htm. 
+

@@ -1,0 +1,52 @@
+
+-2- 
+ 
+
+
+The three key components of AI--algorithms, processing power, and big data--are all 
+
+increasingly accessible.  Due to an early commitment to open-source principles, AI algorithms 
+
+from some of the largest companies are available to even nascent startups.4  As for processing 
+
+power, continuing innovation by public cloud providers means that with only a laptop and a 
+
+credit card, it is possible to tap into some of the world’s most powerful computing systems by 
+
+paying only for usage time, without having to build out substantial hardware infrastructure.  
+
+Vendors have made it easy to use these tools for even small businesses and non-technology 
+
+firms, including in the financial sector.  Public cloud companies provide access to pre-trained AI 
+
+models via developer-friendly application programming interfaces or even “drop and drag” tools 
+
+for creating sophisticated AI models.5  Most notably, the world is creating data to feed those 
+
+models at an ever-increasing rate.  Whereas in 2013 it was estimated that 90 percent of the 
+
+world’s data had been created in the prior two years, by 2016, IBM estimated that 90 percent of 
+
+global data had been created in the prior year alone.6 
+
+The pace and ubiquity of AI innovation have surprised even experts.  The best AI result 
+
+on a popular image recognition challenge improved from a 26 percent error rate to 3.5 percent in 
+
+just four years.  That is lower than the human error rate of 5 percent.7  In one study, a 
+
+combination AI-human approach brought the error rate down even further--to 0.5 percent.  
+
+                                                 
+4 See, e.g., Lael Brainard, “Where Do Consumers Fit in the Fintech Stack?” (speech at the FinTech Risks and 
+Opportunities Conference, Ann Arbor, MI, November 16, 2017), 
+https://www.federalreserve.gov/newsevents/speech/files/brainard20171116a.pdf.  
+5 See, e.g., Brandon Vigliarolo, “Amazon AI: The Smart Person’s Guide,” TechRepublic, August 21, 2017, 
+https://www.techrepublic.com/article/amazon-ai-the-smart-persons-guide/; and Fei-Fei Li and Jia Li, “Cloud 
+AutoML: Making AI Accessible to Every Business,” The Keyword (Google blog), January 17, 2018, 
+https://www.blog.google/topics/google-cloud/cloud-automl-making-ai-accessible-every-business/. 
+6 SINTEF, “Big Data, for Better or Worse: 90% of World’s Data Generated over Last Two Years,” 
+ScienceDaily.com, May 22, 2013, https://www.sciencedaily.com/releases/2013/05/130522085217.htm; and IBM, 
+“10 Key Marketing Trends for 2017” (2017) (on file with author). 
+7 Executive Office of the President, Preparing for the Future of Artificial Intelligence.  
+

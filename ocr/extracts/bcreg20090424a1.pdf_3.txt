@@ -1,0 +1,64 @@
+
+The Supervisory Capital Assessment Program: 
+Design and Implementation 
+
+I. Introduction and Executive Summary 
+Most U.S. banking organizations currently have capital levels well in excess of the amounts 
+
+required to be well capitalized. However, losses associated with the deepening recession and financial 
+
+market turmoil have substantially reduced the capital of some banks. Lower overall levels of capital— 
+
+especially common equity—along with the uncertain economic environment have eroded public 
+
+confidence in the amount and quality of capital held by some firms, which is impairing the ability of the 
+
+banking system overall to perform its critical role of credit intermediation. Given the heightened 
+
+uncertainty around the future course of the U.S. economy and potential losses in the banking system, 
+
+supervisors believe it prudent for large bank holding companies (BHCs) to hold additional capital to 
+
+provide a buffer against higher losses than generally expected, and still remain sufficiently capitalized at 
+
+over the next two years and able to lend to creditworthy borrowers should such losses materialize. The 
+
+purpose of the Supervisory Capital Assessment Program (SCAP), which is being conducted by the 
+
+supervisory agencies, is to assess the size of these capital needs. 
+
+The SCAP is a forward-looking exercise designed to estimate losses, revenues, and reserve needs 
+
+for BHCs in 2009 and 2010 under two macroeconomic scenarios, including one that is more adverse 
+
+than expected. Should the assessment indicate the need for a BHC to raise capital or improve the 
+
+quality of its capital to better withstand losses that could occur under more stressful-than-expected 
+
+conditions, supervisors will expect that firm to augment its capital to create a buffer. This buffer would 
+
+be drawn down over time if losses were to occur. In evaluating the SCAP results, it is important to 
+
+recognize that the assessment is a "what if" exercise intended to help supervisors gauge the extent of 
+
+additional capital needs across a range of potential economic outcomes. A need for additional capital or 
+
+a change in composition of capital to build a buffer under an economic scenario that is more adverse 
+
+than expected is not a measure of the current solvency or viability of the firm. 
+
+This paper describes the SCAP process conducted by the federal bank regulatory agencies (the 
+agencies) from Feb. 25, 2009 through late April of 2009.1 [Footnote 1. The federal bank regulatory agencies that 
+participated in the SCAP are the Board of Governors of the Federal Reserve System, the Federal Reserve Banks, 
+the Federal Deposit Insurance Corporation, and the Office of the Comptroller of the Currency. End footnote 1.] All 
+domestic BHCs with year-end 2008 assets exceeding $100 billion were required to participate in the SCAP as part 
+of the ongoing supervisory process. These 19 firms collectively hold two-thirds of the assets and more than one-half 
+of the loans in the U.S. banking system, and support a very significant portion of the credit intermediation done by 
+the banking sector. The firms were asked to project their credit losses and revenues for the two years 2009 
+and 2010, including the level of reserves that would be needed at the end of 2010 to cover expected 
+losses in 2011, under two alternative economic scenarios. The baseline scenario reflected the consensus 
+expectation in February 2009 among professional forecasters on the depth and duration of the 
+recession, while the more adverse scenario was designed to characterize a recession that is longer and 
+more severe than the consensus expectation. The firms were also asked to provide supporting 
+documentation for their projected losses and resources, including information on projected income and 
+

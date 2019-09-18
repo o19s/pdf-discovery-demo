@@ -1,0 +1,59 @@
+
+
+
+- 14 - 
+
+on the policy prescriptions obtained from these methods, so I simultaneously consider 
+
+other approaches for gauging the appropriate stance of monetary policy. 
+
+Alternative Benchmarks for Monetary Policy:  Simple Rules 
+
+An alternative approach that I find helpful in evaluating the stance of policy is to 
+
+consult prescriptions from simple policy rules.  Research suggests that these rules 
+
+perform well in a variety of models and tend to be more robust than the optimal control 
+
+policy derived from any single macroeconomic model.
+12
+
+  Of course, a wide variety of 
+
+simple rules have been proposed in the academic literature, and their policy implications 
+
+can differ significantly depending on the particular specification.  Moreover, given our 
+
+statutory mandate of maximum employment and price stability, it seems reasonable to 
+
+focus on rules that mirror these two objectives by prescribing how the federal funds rate 
+
+should be adjusted in response to two gaps:  the deviation of inflation from its longer-run 
+
+goal and the deviation of unemployment from my estimate of its longer-run normal rate.  
+
+In my view, rules specified along these lines can serve as useful benchmarks for gauging 
+
+the stance of policy and for communicating with the public about the rationale for our 
+
+policy decisions. 
+
+Indeed, in the statement on longer-run goals and policy strategy that the FOMC 
+
+issued in January, we underscored our commitment to following a “balanced approach” 
+
+in promoting our dual objectives.  The commitment to a balanced approach has crucial 
+
+implications when it comes to choosing sensible benchmarks from among the many 
+
+alternative policy rules.  In particular, any benchmark rule should conform to the so-
+
+                                                 
+12
+
+ See the discussion in John B. Taylor and John C. Williams (2011), “Simple and Robust Rules for 
+
+Monetary Policy,” in Benjamin M. Friedman and Michael Woodford, eds., Handbook of Monetary 
+
+Economics, vol. 3B, (San Diego: North Holland), pp. 829-60. 
+

@@ -1,0 +1,61 @@
+
+ - 5 - 
+
+The Economics of Interconnectedness and Systemic Risk 
+
+Academic research that explores the relationship between network structure and 
+
+systemic risk is relatively new.  Not surprisingly, interest in this field has increased 
+
+considerably since the financial crisis.  A search of economics research focusing on 
+
+“systemic risk” or “interconnectedness” since 2007 yields 624 publications, twice as 
+
+many as were produced in the previous 25 years.
+6
+  That’s not to say that economists were 
+
+blind to the importance of networks before the financial crisis.  In 2000, Franklin Allen 
+
+and Douglas Gale, for example, developed an important model of financial networks that 
+
+provides insight into how networks can influence systemic risk.
+7
+   
+
+In the model studied by Allen and Gale, systemic risk arises through liquidity 
+
+shocks that can have a domino effect, causing a problem at one bank to spread to others, 
+
+potentially leading to failures throughout the system.  In their model, interbank deposits 
+
+are a primary mechanism for the transmission of liquidity shocks from one bank to 
+
+another.  Allen and Gale compare two canonical network structures:  a “complete” 
+
+network, in which all banks lend to and borrow from all other banks, and an “incomplete” 
+
+network, in which each bank borrows from only one neighbor and lends to only one other 
+
+neighbor.  Figure 2, panel A, presents an example of a complete network, and figure 2, 
+
+panel B, an example of an incomplete network.  
+
+In the case of the complete network, banks benefit from diversified funding 
+
+streams.  A liquidity shock at one bank is less likely to cause the bankruptcy of another 
+
+                                                 
+6
+ A search for either “interconnectedness” or “systemic risk” in article abstracts of academic research 
+
+cataloged by EconLit results in 311 entries from 1988 to 2006.  The same search conducted for the period 
+
+from 2007 through the present yields 624 entries.  Restricting the search to articles that have appeared in 
+
+peer-reviewed journals reduces the number of entries between 1988 and 2006 to 186 and the number of 
+
+entries between 2007 and the present to 375.      
+7
+ See Allen and Gale (2000). 
+

@@ -1,0 +1,63 @@
+
+
+
+- 3 - 
+
+management, providing room to adjust our approach to assessing capital planning 
+
+practices.  Finally, as we make changes to our regime, the issue of volatility in the stress 
+
+test results becomes more pronounced.  As I’ll discuss, we are considering how to 
+
+balance the need to preserve the dynamism in stress testing with the need to ensure that 
+
+firms have sufficient notice regarding the capital requirements to which they are held. 
+
+Stress Capital Buffer 
+
+Many of you are familiar with the Federal Reserve’s proposal to integrate the 
+
+stress test with the regulatory capital rule--known as the stress capital buffer (SCB).1  I 
+
+believe the SCB proposal represents an important milestone as we enter the next chapter 
+
+of our stress testing regime.  For those who are not familiar with the SCB, let me provide 
+
+a little background about how our capital rule currently works, and how it would be 
+
+modified by the SCB. 
+
+As devoted readers of our capital rules may know, our regulatory capital rule 
+
+includes both minimum capital requirements and a buffer that sits on top of those 
+
+minimum requirements.  The buffer serves as an early warning to a firm and to 
+
+supervisors, and it requires the firm to reduce its capital distributions as the firm 
+
+approaches the minimum requirements.  Under the current capital rule, all firms are 
+
+subject to a fixed buffer requirement of 2.5 percent of risk-weighted assets--the largest 
+
+firms are also subject to a global systemically important bank surcharge and potential 
+
+countercyclical capital buffer. 
+
+For large firms, the SCB would replace the fixed 2.5 percent risk-based buffer 
+
+with a firm-specific buffer the size of which would be based on the firm’s stress test 
+
+results.  In this way, we are integrating the automatic restrictions on capital distributions 
+
+in the current capital rule with the output of the most dynamic tool we have for assessing 
+
+risk--the stress test--to create a more robust and dynamic regulatory capital regime.  The 
+
+SCB would also result in a more transparent and simplified system of regulatory capital 
+
+requirements, because a firm will be held to a single, integrated capital regime. 
+
+                                                 
+1 Amendments to the Regulatory Capital, Capital Plan, and Stress Test Rules, 83 Fed. Reg. 18,160 (April 
+25, 2018), www.gpo.gov/fdsys/pkg/FR-2018-04-25/pdf/2018-08006.pdf. 
+

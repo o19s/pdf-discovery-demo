@@ -1,0 +1,51 @@
+
+- 2 - 
+ 
+
+
+requiring more banks to submit LIBOR data, but doing so would not materially improve the 
+
+situation.  The panels in Figure 1 show the distribution of daily aggregate wholesale dollar 
+
+funding volumes for the 30 global systemically important banks (or GSIBs).  The data here 
+
+include all of the Eurodollar, federal funds, CD, and commercial paper transactions that the 
+
+Federal Reserve has access to--the most complete picture of U.S. dollar unsecured funding that I 
+
+am aware of.  For one-month funding, shown in the top panel, the median daily volume of 
+
+transactions by these banks since money-market reforms took effect last year was just over $1 
+
+billion.  For three-month funding (the middle panel), the most heavily referenced LIBOR tenor, 
+
+the median is less than $1 billion per day.  On some days we see less than $100 million.  If we 
+
+compare this to the more than $100 trillion in outstanding volumes of U.S. dollar LIBOR 
+
+contracts, it should be clear that the activity in this market is miniscule compared to the size of 
+
+the contracts written on it.    
+
+In our view, it would not be feasible to produce a robust, transaction-based rate 
+
+constructed from the activity in wholesale unsecured funding markets.  A transactions-based rate 
+
+from this market would be fairly easy to manipulate given such a thin level of activity, and the 
+
+rate itself would likely be quite volatile.  Thus, LIBOR seems consigned to rely primarily on 
+
+some form of expert judgment rather than direct transactions.   
+
+As we discussed these issues with the officials in the United Kingdom who oversee and 
+
+regulate LIBOR, we also became aware that they were receiving a steady stream of requests, and 
+
+sometimes demands, from banks seeking to leave the LIBOR panels.  The use of expert 
+
+judgment in submissions allows LIBOR to be published every day, but many banks are now 
+
+understandably uncomfortable with being asked to provide judgment about something that they 
+
+do very little of.  In his July speech, Andrew Bailey discussed the efforts of the FCA to keep 
+

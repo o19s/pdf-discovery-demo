@@ -1,0 +1,51 @@
+
+- 7 - 
+ 
+
+
+The Federal Reserve and payment system stakeholders have an opportunity to upgrade 
+
+America’s payment system to meet the needs of households, businesses, and banks in the app 
+
+economy.  Today, we are publishing a Federal Register notice that seeks public comment on 
+
+potential steps the Federal Reserve could take to support the vision of RTGS of faster payments.  
+
+The Reserve Banks could develop a service for RTGS that is available on a 24/7 basis to provide 
+
+payment-by-payment interbank settlement in real time and at any time, on any day, including 
+
+weekends and holidays.  The Reserve Banks currently provide payment services to more than 
+
+11,000 banks across the country.  A 24/7 RTGS service provided by the Reserve Banks could 
+
+significantly improve the prospect that banks of all sizes will have equitable access to a real-time 
+
+interbank settlement infrastructure for faster payments in the long term.  
+
+This common infrastructure would support connections across banks, and faster payment 
+
+service providers acting as their agents, with the potential to weave together the current 
+
+patchwork of systems.  As a result, we would also expect the overall safety of faster payments to 
+
+increase.  The capability to finalize interbank settlement before funds are made available to the 
+
+recipient would avoid an undesirable buildup of risk in the system.  The more banks that have 
+
+access to real-time as opposed to deferred settlement mechanisms, the lower the risk would be 
+
+from deferring settlement to the payment system as a whole.  Although RTGS may be 
+
+operationally demanding, it offers clear benefits from a risk and efficiency perspective over the 
+
+long term.    
+
+ The development of a nationwide real-time interbank settlement infrastructure could also 
+
+support the development of private-sector faster payment services, thereby increasing innovation 
+
+and choice in the market.  Banks and technology providers of all sizes may be able to develop 
+
+new services or enhance existing services by capitalizing on the underlying interbank settlement 
+

@@ -1,0 +1,54 @@
+
+Supervisory Capital Assessment Program 
+
+Estimates for MetLife, Inc. for the More Adverse Economic Scenario 
+
+The estimates below represent a hypothetical ‘what-if’ scenario that involves an economic outcome that is more adverse than 
+expected. These estimates are not forecasts of expected losses or revenues. 
+
+MetLife, Inc. 
+
+At December 31, 2008 $ Billions As % of RWA 
+Tier 1 Capital 30.1 9.2% 
+
+Tier 1 Common Capital 27.8 8.5% 
+
+Risk-Weighted Assets 326.4 
+
+More Adverse Scenario 
+
+Estimated for 2009 and 2010 for the More Adverse Scenario $ Billions As % of Loans 
+
+Total Estimated Losses (Before purchase accounting adjustments) 9.6 
+First Lien Mortgages 0.03 5.0% 
+Second/Junior Lien Mortgages 0.01 14.1% 
+Commercial and Industrial Loans 0.0 0.0% 
+Commercial Real Estate Loans 0.8 2.1% 
+Credit Card Loans -na- -na-
+Securities (AFS and HTM) 8.3 -na-
+Trading & Counterparty -na- -na-
+Other (1) [see table footnote (1)] 0.5 -na-
+
+Memo: Purchase Accounting Adjustments -na-
+
+Resources Other Than Capital to Absorb Losses (2) [see table footnote (2)] 5.6 
+
+SCAP Buffer Added for More Adverse Scenario 
+(SCAP buffer is defined as additional Tier 1 Common/contingent Common) 
+
+$ Billions 
+
+Indicated SCAP Buffer as of December 31, 2008 No Need 
+
+Less: Capital Actions and Effects of Q1 2009 Results (3) [see table footnote (3)] 0.6 
+
+SCAP Buffer No Need 
+
+(1) Includes other consumer and non-consumer loans and miscellaneous commitments and obligations 
+
+(2) Resources to absorb losses include pre-provision net revenue less the change in the allowance for loan and lease losses 
+
+(3) Capital actions include completed or contracted transactions since Q4 2008 
+
+Note: Numbers may not sum due to rounding 
+

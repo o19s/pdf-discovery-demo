@@ -1,0 +1,50 @@
+
+ - 4 - 
+
+sufficiently “frictionless” that consumers can now fit commerce into these brief 
+
+interludes.  
+
+This development has ushered in a world of multiple smartphone apps that allow 
+
+for “instant” payments.  We can use a payments app to move funds instantly to anyone 
+
+who has that app.4  Some banks have similarly collaborated to build faster payments 
+
+applications that leverage their deposit account systems.  And we are already moving to a 
+
+world in which we need not open a special app or go to our bank’s website in order to 
+
+send money.  Many people here will have taken an Uber or Lyft, and then paid your 
+
+driver without relaunching the app, much less reaching for your wallet.  Similarly, 
+
+payment providers can now leverage the application programming interfaces (APIs)—
+
+essentially the protocols—of smartphone messaging services to integrate their payment 
+
+tools directly into messaging applications: Nowadays, consumers can simply “attach” 
+
+money while messaging a friend.  
+
+Innovation in retail payments can also offer tangible benefits to consumers 
+
+beyond convenience.  Improvements in security, such as our ability to authenticate 
+
+consumers and detect fraudulent transactions, are also possible through innovation.  For 
+
+instance, mobile payments introduce a wide array of ways to authenticate a consumer’s 
+
+identity, including  two-factor authentication codes sent via text message to the phone; 
+
+biometrics, like a fingerprint or face scan; device identification information; IP address; 
+
+and geolocation data.  Similarly, increased access to transaction data and cloud 
+
+computing resources means that we have smarter, faster computational processes—like 
+
+enhanced neural networks—to detect payments that do not match a consumer’s spending 
+
+                                                 
+4 Cashing the funds out of the app to use for other payments, however, has traditionally taken longer.  
+

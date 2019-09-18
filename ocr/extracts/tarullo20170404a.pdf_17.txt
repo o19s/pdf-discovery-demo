@@ -1,0 +1,52 @@
+
+
+16 
+ 
+
+stress on the financial system, such as the possible fire sale of assets by financial firms in need of 
+
+capital or funding, which can further depress asset values of other firms below levels resulting 
+
+from the initial economic or financial shock.10  These effects are harder to model but very 
+
+important for a stress test designed to achieve financial stability objectives.  The Federal Reserve 
+
+has begun a research program to try to develop, over the next few years, sound macroprudential 
+
+elements to incorporate into the stress test alongside some of the countercyclical features that 
+
+have already been added. 
+
+The transition of stress testing from crisis program to a permanent feature of prudential 
+
+oversight is unfinished in both Federal Reserve regulations and supervisory practice.  The de 
+
+facto capital requirements produced by the stress test have not been fully integrated into, and 
+
+reconciled with, other applicable capital rules.  Thus, for example, our stress testing program 
+
+assumes that a firm will continue to make its planned capital distributions during a stress period 
+
+even though the regulatory capital rules now include a capital conservation buffer to limit such 
+
+distributions.  As to supervision--because the failure of a firm to meet Federal Reserve 
+
+expectations with respect to its capital risk-management and planning processes can lead to a 
+
+“qualitative” objection to its capital distribution plans--firms (and, at times, perhaps supervisors) 
+
+have placed more emphasis on these matters than on other issues raised in the supervisory 
+
+process throughout the year.   
+
+It is probably worth noting at this juncture that one of the features of the stress testing 
+
+program that some banks have found most troubling is that it culminates in the annual 
+
+                                                 
+asset holdings or adopt correlated hedging strategies that are treated relatively favorably under one particular market 
+shock scenario.  
+10 See, for example, Fernando Duarte and Thomas M. Eisenbach (2013), “Fire-Sale Spillovers and Systemic Risk,” 
+Federal Reserve Bank of New York Staff Report no. 645 (New York:  Federal Reserve Bank of New York, 
+October), www.newyorkfed.org/medialibrary/media/research/staff_reports/sr645.pdf. 
+

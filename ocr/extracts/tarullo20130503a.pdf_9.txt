@@ -1,0 +1,63 @@
+
+ - 8 - 
+
+increase in tier 1 common equity from $393 billion to $792 billion during the same 
+
+period.  
+
+Gaps in Regulatory Reform 
+
+Despite this considerable progress, we have not yet adequately addressed all the 
+
+vulnerabilities that developed in our financial system in the decades preceding the crisis.  
+
+Most importantly, relatively little has been done to change the structure of wholesale 
+
+funding markets so as to make them less susceptible to damaging runs.  It is true that 
+
+some of the clearly risky forms of wholesale funding that existed before the crisis, such 
+
+as the infamous SIVs, have disappeared or substantially contracted.  But significant 
+
+continuing vulnerability remains, particularly in those funding channels that can be 
+
+grouped under the heading of securities financing transactions (SFTs).
+2
+   
+
+Repo, reverse repo, securities lending and borrowing, and securities margin 
+
+lending are part of the healthy functioning of the securities market.  But, in the absence of 
+
+sensible regulation, they are also potentially associated with the dynamic I described 
+
+earlier of exogenous shocks to asset values leading to an adverse feedback loop of mark-
+
+to-market losses, margin calls, and fire sales.  Indeed, some have argued that this 
+
+dynamic is exacerbated by a “maturity rat race,” in which each creditor acts to shorten the 
+
+maturity of its lending so as to facilitate quick and easy flight, and in which creditors pay 
+
+relatively little attention to the recovery value of the underlying assets.
+3
+   
+
+                                                 
+2
+ For these reasons, there has been an instinct to address various aspects of wholesale funding discretely.  
+
+Hence the attention paid by the Federal Reserve and other regulators to money market funds, and the steps 
+
+taken by the Federal Reserve to reduce the risks associated with the extension of intraday credit by clearing 
+
+banks in triparty repo funding markets.  These discrete steps are useful, particularly insofar as they cast 
+
+light on implicit, but unpriced, support for short-term funding that has been provided by some financial 
+
+intermediaries.  But they do not address head-on the dynamic described in the text. 
+3
+ Markus K. Brunnermeier and  Martin Oehmke (2013), “The Maturity Rat Race,” The Journal of Finance, 
+
+vol. 68(2) (April), pp. 483-521, http://onlinelibrary.wiley.com/doi/10.1111/jofi.12005/pdf. 
+

@@ -1,0 +1,55 @@
+
+Figure 7:  Macroeconomic Effects of an Illustrative Change  
+in the Path of Securities Holdings 
+
+               Securities Holdings                        Unemployment and Inflation 
+$ trillions                                                         Percentage Points 
+
+                      
+     Note:  This figure depicts simulation results of the FRB/US model of the U.S. economy.  The left panel shows the path of the 
+Federal Reserve’s securities holdings (in $ trillions) under an illustrative baseline scenario (solid line) and an alternative “rapid run-
+off” scenario (dashed line).  The right panel shows the unemployment rate (solid line) and the core personal consumption expenditures 
+(PCE) inflation rate (dashed lines),  with results expressed as deviations of the alternative scenario from the baseline scenario. 
+
+0.0
+
+0.5
+
+1.0
+
+1.5
+
+2.0
+
+2.5
+
+3.0
+
+2010 2012 2014 2016 2018
+
+Illustrative Baseline Scenario
+Rapid Run-Off
+
+-0.2
+
+-0.1
+
+0.0
+
+0.1
+
+0.2
+
+0.3
+
+0.4
+
+0.5
+
+0.6
+
+2011 2012 2013 2014 2015 2016
+
+Unemployment Rate
+Core PCE Inflation
+

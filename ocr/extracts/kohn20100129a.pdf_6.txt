@@ -1,0 +1,52 @@
+
+- 5 - 
+ 
+
+Interest Rate Movements and the Performance of Financial Intermediaries  
+
+In light of the uncertain course of interest rates, financial intermediaries face significant 
+
+challenges in managing their interest rate exposures.  Clearly, the impact of changes in market 
+
+rates depends on the maturity and re-pricing mismatches embedded in institutions’ assets, 
+
+liabilities, and off-balance-sheet positions.  In general, those institutions whose assets are 
+
+expected to re-price faster than their liabilities--referred to as “asset-sensitive”--would be 
+
+expected to benefit from a rise in rates, because higher rates, holding everything else constant, 
+
+should increase their net interest margins.  Conversely, the net interest margins of “liability-
+
+sensitive” institutions--those whose asset durations are longer than their liability durations--
+
+would be expected to be negatively affected by a rise in market interest rates.  
+
+Of course, there are more than 15,000 U.S. banks, thrifts, and credit unions, and the 
+
+interest rate risk exposures faced by individual institutions are much more complex than these 
+
+simple characterizations might lead us to believe.  Each institution has its own unique funding 
+
+structure and asset-liability re-pricing mismatches, based not only on the structural 
+
+characteristics of its particular market and product offerings, but also on the impact of the current 
+
+crisis and government countermeasures on its credit and liquidity risk exposures.    
+
+For example, many large banking organizations have publicly disclosed that they have 
+
+asset-sensitive positions, suggesting an ability to benefit from increases in short-term rates.  Such 
+
+characteristics are no doubt influenced by their significant holdings of excess reserves and other 
+
+short-term liquid assets taken on during the crisis.  Monetary policy tightening will entail 
+
+draining excess reserves at some point, and as institutions reconsider their liquidity 
+
+management--subject to new, stronger liquidity requirements from supervisors, to be sure--their 
+
+current asset-sensitivity might be expected to decline.  And the behavior of various types of 
+
+customers and instruments may be difficult to predict as the economy and financial markets 
+

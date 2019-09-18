@@ -1,0 +1,52 @@
+
+ - 10 - 
+
+to show up in the path for the federal funds rate that each individual sees as appropriate to 
+
+achieve those objectives.15 
+
+In preparing for FOMC meetings, policymakers routinely review alternative 
+
+policy paths prescribed by several simple policy rules that are in wide usage.16  Decades 
+
+of research have produced many variations of these rules, which are typically derived 
+
+from differing but valid insights and which yield different rate paths.  For example, 
+
+economists at the Federal Reserve Bank of Cleveland regularly update on the Bank’s 
+
+website an analysis of seven different rules and their prescriptions.17 
+
+A good way to see the range of possibilities is through a generalized form of a 
+
+Taylor-type rule (figure 6).18  As you can see, this rule is based on key factors for 
+
+monetary policy, such as the neutral real rate of interest, or r*, and deviations of inflation 
+
+and output or unemployment from their longer-run values.  While these are often called 
+
+“simple” rules, application of a rule requires a significant number of important choices.  
+
+It is necessary to pick a value or a path for r*.  The rule also calls for an estimate of the 
+
+output or unemployment rate gap.  There is particularly high uncertainty about measuring 
+
+the deviation of output from its potential; our real-time estimates of this gap are often 
+
+                                                 
+15 The SEP is not a “consensus” forecast of the Committee, and the interest rate projections in the SEP are 
+each individual participant’s assessment of appropriate monetary policy.  Thus, the Committee’s forward-
+looking approach to policymaking is not the same as the forecast-targeting approach advocated by 
+Svensson (2005) and others.  See Lars E.O. Svensson (2005), “Monetary Policy with Judgment:  Forecast 
+Targeting,” International Journal of Central Banking, vol. 1 (June), pp. 1-54. 
+16 For another discussion of simple rules and their role in the Committee’s policy process, see Stanley 
+Fischer (2017), “I’d Rather Have Bob Solow Than an Econometric Model, But . . . ,” speech delivered at 
+the Warwick Economics Summit, Coventry, United Kingdom, February 11, 
+https://www.federalreserve.gov/newsevents/speech/fischer20170211a.htm. 
+17 See Federal Reserve Bank of Cleveland (2017), “Simple Monetary Policy Rules,” webpage, Federal 
+Reserve Bank of Cleveland, https://www.clevelandfed.org/our-research/indicators-and-data/simple-
+monetary-policy-rules.aspx.  
+18 See John B. Taylor and John C. Williams (2010), “Simple and Robust Rules for Monetary Policy,” in 
+Benjamin M. Friedman and Michael Woodford, eds., Handbook of Monetary Economics, vol. 3 
+(Amsterdam:  Elsevier), pp. 829-59. 
+

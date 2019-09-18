@@ -1,0 +1,15 @@
+
+ - 13 -
+
+Implementation of the new framework will present some real-world challenges.  
+
+National rules still need to be written, including rules for margin requirements on 
+
+noncentrally cleared derivatives.  These national rules will need to deal with local legal 
+
+regimes and markets, yet also be internationally consistent to ensure a level playing field.  
+
+More broadly, international cooperation will be needed to ensure that the new framework 
+
+works in practice.   
+

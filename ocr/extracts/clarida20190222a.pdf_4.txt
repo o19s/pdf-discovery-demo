@@ -1,0 +1,54 @@
+
+ - 3 - 
+
+else being equal, a fall in neutral rates increases the likelihood that a central bank’s policy 
+
+rate will reach its effective lower bound (ELB) in future economic downturns.  That 
+
+development, in turn, could make it more difficult during downturns for monetary policy 
+
+to support spending and employment, and keep inflation from falling too low.4 
+
+Another key development in recent decades is that inflation appears less 
+
+responsive to resource slack.  That is, the short-run Phillips curve appears to have 
+
+flattened, implying a change in the dynamic relationship between inflation and 
+
+employment.5  A flatter Phillips curve is, in a sense, a proverbial double-edged sword.  It 
+
+permits the Federal Reserve to support employment more aggressively during 
+
+downturns--as was the case during and after the Great Recession--because a sustained 
+
+inflation breakout is less likely when the Phillips curve is flatter.6  However, a flatter 
+
+Phillips curve also increases the cost, in terms of economic output, of reversing 
+
+unwelcome increases in longer-run inflation expectations.  Thus, a flatter Phillips curve 
+
+makes it all the more important that longer-run inflation expectations remain anchored at 
+
+levels consistent with our 2 percent inflation objective.7 
+
+                                                 
+4 For assessments of the risks that U.S. monetary policy will be constrained by the ELB and its implications 
+for economic activity and inflation, see Kiley and Roberts (2017), Erceg and others (2018), 
+Swanson (2018), and Chung and others (2019). 
+5 For evidence of a flattening of the slope of the Phillips curve in the United States and abroad, see, among 
+others, Simon, Matheson, and Sandri (2013); Blanchard, Cerutti, and Summers (2015); and Bank for 
+International Settlements (2017). 
+6 One potential contributor to the flattening of the Phillips curve is a change in the conduct of monetary 
+policy since the 1980s toward greater stabilization of inflation and economic activity; for evidence of such 
+a change, see Clarida, Galí, and Gertler (2000); Boivin and Giannoni (2006); and Boivin, Kiley, and 
+Mishkin (2010).  As discussed in Roberts (2006) and Bullard (2018), greater stabilization on the part of a 
+central bank can lead to the estimation of flatter Phillips curves in reduced-form regressions.  Similarly, the 
+adoption of an explicit inflation objective, along with greater certainty regarding the conduct of monetary 
+policy, can help anchor longer-term inflation expectations and stabilize actual inflation in response to 
+shocks. 
+7 See Yellen (2015) for a discussion of inflation dynamics and monetary policy; see Erceg and others 
+(2018) for a quantitative exploration of the monetary policy implications of a flat Phillips curve in an 
+uncertain economic environment.  Since the mid-1980s, movements in both realized inflation and measures 
+of longer-term inflation expectations have been somewhat muted, complicating the task of extracting the 
+precise role of inflation expectations as a determinant of realized inflation.  Faust and Wright (2013) review 
+

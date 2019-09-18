@@ -1,0 +1,61 @@
+
+ - 7 - 
+
+tolerance on the part of households would lead them to bid down credit spreads; these 
+
+lower spreads would then be the leading indicator of low expected returns.   
+
+On the other hand, in an institutions-driven world, where agents are trying to 
+
+exploit various incentive schemes, it is less obvious that increased risk appetite is as well 
+
+summarized by reduced credit spreads.  Rather, agents may prefer to accept their lowered 
+
+returns via various subtler nonprice terms and subordination features that allow them to 
+
+maintain a higher stated yield.  Again, the use of PIK bonds in LBOs is instructive.  A 
+
+long time ago, Steve Kaplan and I did a study of the capital structure of 1980s-era 
+
+LBOs.
+13
+
+  What was most noteworthy about the PIK bonds in those deals was not that they 
+
+had low credit spreads.  Rather, it was that they were subject to an extreme degree of 
+
+implicit subordination.  While these bonds were not due to get cash interest for several 
+
+years, they stood behind bank loans with very fast principal repayment schedules, which 
+
+in many cases required the newly leveraged firm to sell a large chunk of its assets just to 
+
+honor these bank loans.  Simply put, much of the action--and much of the explanatory 
+
+power for the eventual sorry returns on the PIK bonds--was in the nonprice terms. 
+
+It is interesting to think about recent work by Robin Greenwood and Sam Hanson 
+
+through this lens.
+14
+
+  They show that if one is interested in forecasting excess returns on 
+
+corporate bonds (relative to Treasury securities) over the next few years, credit spreads 
+
+are indeed helpful, but another powerful predictive variable is a nonprice measure:  the 
+
+high-yield share, defined as issuance by speculative-grade firms divided by total bond 
+
+issuance.  When the high-yield share is elevated, future returns on corporate credit tend to 
+
+be low, holding fixed the credit spread.  Exhibit 1 provides an illustration of their finding.  
+
+                                                 
+13
+
+ See Kaplan and Stein (1993). 
+14
+
+ See Greenwood and Hanson (2012). 
+

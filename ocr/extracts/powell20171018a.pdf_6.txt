@@ -1,0 +1,47 @@
+
+ - 5 - 
+
+patterns and help prevent fraudulent transactions.  Both security and convenience are 
+
+crucial elements for successful payments innovation.  Consumers will not store their 
+
+funds in a system that is not secure and will not want to transfer funds out of an otherwise 
+
+secure system if the process is cumbersome.  
+
+The Role of Banks in Payments Innovation 
+
+The examples I have highlighted so far illustrate payments innovations from 
+
+fintech firms and banks alike.  I want to spend a moment highlighting the special role of 
+
+banks in the payments process, and how banks are needed in order to create innovations 
+
+that can be used broadly across the economy.  
+
+The traditional role of banks in the payments process has been to hold deposits 
+
+and enable their transfer from one individual or business to another.  A depositor might 
+
+withdraw cash from the bank’s ATM to pay a friend or write a check to make a payment.  
+
+Over time, we have moved from ATMs and paper checks toward electronic payments and 
+
+online payments through banking platforms—payment methods for which banks are still 
+
+perceived as essential.  More recently, consumer-facing technology has become front and 
+
+center.  At times, the payments process is so seamlessly integrated that one can forget 
+
+that there is even a bank in the process, as with the Uber and Lyft example.  But despite 
+
+this shift in focus, payments innovation is still fundamentally about how, when, and 
+
+where an individual’s deposits can be held, transferred, and packaged with other 
+
+information.  And banks are still important players in making that happen.  Even where 
+
+this reality is obscured by several layers of technology, there is almost always a bank 
+
+involved in consumer transactions. 
+

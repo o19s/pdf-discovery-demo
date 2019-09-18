@@ -1,0 +1,51 @@
+
+14 
+ 
+
+
+regulatory capital requirements that are reasonably well tailored to the insurance-related risks for 
+
+each distinct jurisdiction and business line of the group. 
+
+B. Systemically Important Insurance Companies: The Consolidated Approach 
+
+By definition, the insurance companies designated by the FSOC are systemically 
+
+important.  For these firms, application of an aggregated approach like that of the BBA could 
+
+pose significant risks to the Federal Reserve’s statutory aims of safety and soundness and 
+
+financial stability.  The BBA, recall, would simply aggregate capital requirements that may not 
+
+be founded upon financial stability considerations.  A consolidated form of capital requirements 
+
+is key to ensuring that risks to the financial system as a whole (as compared, say, to investor or 
+
+policyholder protection) are accounted for. 
+
+For these firms, then, the ANPR is likely to seek comment on what we have internally 
+
+been calling the consolidated approach (CA).  Let me note at the outset that this is not the 
+
+consolidated capital framework we apply to bank holding companies.  As with our capital 
+
+requirements for bank holding companies, the CA would categorize all of the consolidated 
+
+insurance group’s assets and insurance liabilities into risk segments, apply risk factors to the 
+
+amounts in each segment, and then set a minimum ratio of required capital comparing the 
+
+consolidated capital requirements to the group’s consolidated capital resources.  However, the 
+
+CA would use risk weights or risk factors that are more appropriate for the longer-term nature of 
+
+most insurance liabilities.  
+
+Like the BCR of the IAIS, the CA would take a consolidated approach to capital 
+
+requirements.  However, unlike the BCR, the foundation of the CA would be consolidated 
+
+financial information based on U.S. GAAP, with appropriate adjustments for regulatory 
+
+purposes.  Our current thought is that the CA would initially be relatively simple in design, with 
+

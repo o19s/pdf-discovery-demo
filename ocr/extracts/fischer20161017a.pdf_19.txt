@@ -1,0 +1,49 @@
+
+ - 6 - 
+
+ 
+ 
+3.  Calculations for figures 
+
+Figure 1:  Effects on the long-run equilibrium federal funds rate 
+
+Slower growth.  The slower growth of 1-1/4 percentage points in this scenario 
+
+assumes that labor force growth is 1/4 percentage point lower and that labor productivity 
+
+growth is 1 percentage point lower.  According to table A.1, an increase of 1 percentage 
+
+point in labor force growth would raise the equilibrium real federal funds rate by 
+
+1.15 percentage points.  The contribution of the slower labor force growth to the 
+
+equilibrium federal funds rate is therefore negative 0.25 x 1.15, or negative 30 basis 
+
+points.  Similarly, the contribution of slower productivity growth is negative 1.00 x 0.85 
+
+= negative 85 basis points, for a total effect of negative 115 basis points. 
+
+Demographics.  As explained in the text, the effect of demographics on the 
+
+equilibrium federal funds rate is based on the study of Gagnon, Johannsen, and Lopez-
+
+Salido (2016), who emphasize that demographic changes since the 1980s would imply a 
+
+reduction of 125 basis points in the equilibrium federal funds rate.  However, this number 
+
+includes the effects of demographics on the labor force, which have already been 
+
+included in the growth effect.  As suggested by figure 12 of Gagnon, Johannsen, and 
+
+Lopez-Salido (2016), adjusting for the effects of employment would trim about 50 basis 
+
+points from the total effect (the distance between the solid-blue and dashed-green lines as 
+
+of 2015).  Thus, in Gagnon, Johannsen, and Lopez-Salido (2016), the effects excluding 
+
+those via labor force growth are about negative 75 basis points. 
+
+Lower investment.  This experiment corresponds to the cost of capital shock 
+
+discussed in section 2, with the sign reversed.  As can be seen in line 4 of table A.1, the 
+

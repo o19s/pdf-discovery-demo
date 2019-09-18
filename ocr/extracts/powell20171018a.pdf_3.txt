@@ -1,0 +1,47 @@
+
+ - 2 - 
+
+in available data, and leverage advances in computing power, via cloud computing, 
+
+analytical tools, and off-the-shelf machine learning tools, to make sense of those data.  
+
+The banking industry is adjusting to this world, and facing significant challenges to 
+
+traditional banking business models.  
+
+For example, today financial technology can support access to credit through 
+
+innovative approaches to gathering and analyzing data.  Historically, a customer seeking 
+
+a loan has provided financial statements to a bank or other traditional lending institution.  
+
+More recently, the use of a fintech platform may allow a lender to quickly monitor and 
+
+analyze more up-to-date data from a broader range of sources, including those outside of 
+
+the traditional lending process, to verify an applicant’s identity and make inferences 
+
+about the applicant’s overall financial health.  For example, a business loan applicant 
+
+could submit information such as shipping data or customer reviews as additional input to 
+
+more traditional data sources.  With this additional information, the bank would have a 
+
+more complete picture of an applicant’s day-to-day activity and overall financial 
+
+capacity, and potentially a greater ability to provide credit to customers, including some 
+
+who might have been otherwise denied a loan based on traditional data.  
+
+Fintech firms are also finding ways to use banks’ data, in some cases without 
+
+entering into an explicit partnership with the bank.  With customers’ permission, fintech 
+
+firms have increasingly turned to data aggregators to “screen scrape” information from 
+
+financial accounts.  In such cases, data aggregators collect and store online banking 
+
+logins and passwords provided by the bank’s customers and use them to log directly into 
+
+the customer’s banking account.  This information can be used to provide consumers with 
+

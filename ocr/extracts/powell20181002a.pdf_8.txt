@@ -1,0 +1,52 @@
+
+ - 7 - 
+
+Fortunately, things changed.  The estimates of both B and C fall in value as the 
+
+estimation sample shifts forward in time.  In the most recent samples, the Phillips curve is 
+
+nearly flat, with B very near zero, and C is about 0.25, meaning that roughly one fourth of 
+
+any rise or fall in inflation carries forward.  These results give numerical form to what we 
+
+see in the right-hand panel of figure 3, covering the recent period:  Large and persistent 
+
+moves in the unemployment gap were associated with, at most, modest transitory moves 
+
+in inflation.   
+
+What Led to the Changes in the Phillips curve? 
+
+These developments amount to a better world for households and businesses, 
+
+which no longer experience or even fear the scourge of high and volatile inflation.  To 
+
+provide a sound basis for monetary policy, it is important to understand what happened 
+
+and why, so we can avoid a return to the bad old days of the 1970s.  Like many, I believe 
+
+better monetary policy has played a central role.9    
+
+To understand the mechanism, let us ask how central banks could, presumably 
+
+inadvertently, amplify and extend the duration of inflation’s response to labor market 
+
+tightness.  To do so, the central bank could persistently ease the stance of monetary 
+
+policy in response to an uptick in inflation.  No responsible central banker today would 
+
+intentionally do this, but much research suggests that during the Great Inflation, 
+
+misunderstandings about how the economy worked led the Fed effectively to behave in 
+
+this manner.10  Some policymakers may have believed the misguided notion that 
+
+                                                 
+9 The account I present of the role of anchored expectations in stabilizing the economy and favorably 
+altering Phillips curve dynamics echoes a long-held view at the Fed.  See Bernanke (2007) and Yellen 
+(2015).  Kiley (2015) reviews the recent research literature on this topic.  Blanchard (2016) presents a very 
+similar perspective.  
+10 To be clear, during the periods of rising inflation in the 1960s and 1970s, the FOMC was generally 
+raising the federal funds rate, but with inflation rising, the real federal funds rate was rising much more 
+slowly or even falling.  In this sense, the effective stance of policy was tightening slowly or was easing.  
+

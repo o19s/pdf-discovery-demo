@@ -1,0 +1,51 @@
+
+- 10 - 
+ 
+
+
+either securities inventory or a back-to-back SFT loan to another financial firm (SFT matched 
+
+book).   
+
+ The financial stability risks associated with a dealer’s use of short-term SFT funding to 
+
+finance its inventory are relatively straightforward.  If a broker-dealer loses access to financing 
+
+and is forced to sell securities at a depressed price, fire sale externalities may result because other 
+
+market participants may be less able to borrow against the same securities.  And if the broker-
+
+dealer fails due to runs by short-term SFT lenders, post-default fire sales by the firm’s creditors 
+
+or contagious runs on other financial intermediaries may ensue.  Because broker-dealers 
+
+generally do not internalize the externalities that arise in these cases, they may use more than the 
+
+economically efficient level of short-term funding.   
+
+ The financial stability risks associated with SFT matched books are somewhat less 
+
+obvious.  Even if the outflows and inflows associated with a dealer’s SFT positions are perfectly 
+
+maturity-matched, reputational considerations may inhibit a dealer from reducing the amount of 
+
+SFT credit that it provides its customers, exposing the dealer to considerable liquidity stress.  If 
+
+the dealer does reduce the amount of credit that it provides to its customers, those customers may 
+
+be forced to engage in asset fire sales of their own.  Particularly in situations in which the 
+
+customers are highly leveraged, maturity-transforming entities that lack access to a liquidity 
+
+provider of last resort may pose a significant risk of contagion. 
+
+ Post-crisis financial regulatory reform has taken some steps to address the financial 
+
+stability risks associated with a dealer’s use of short-term SFT funding to finance inventory.  For 
+
+example, the liquidity coverage ratio requires firms to hold a buffer of high-quality liquid assets 
+
+when they use SFT liabilities that mature in less than 30 days to fund many types of securities.  
+
+New risk-based capital rules have substantially increased the amount of capital that dealers are 
+

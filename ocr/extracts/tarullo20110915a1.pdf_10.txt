@@ -1,0 +1,56 @@
+
+- 9 - 
+ 
+
+Unlike the firms depicted in much of the IO literature, financial conglomerates transact with one 
+
+another on a continual basis and enter into contractual arrangements that impose future 
+
+obligations.  In other words, cooperation is often institutionalized so that the day-to-day 
+
+operations of a given firm depend crucially on the institutions with which it cooperates.  This, of 
+
+course, is one--though not the only--reason why systemic crises are a recurring feature of the 
+
+financial system. 
+
+Understanding the role of cooperation among financial conglomerates that are 
+
+interconnected through counterparty relationships and correlated exposures may be challenging, 
+
+but it could be quite important for effective macroprudential regulation.  Cooperation among 
+
+large firms can, in principle, buffer the impact of systemic events.
+4
+  On the other hand, the 
+
+expectation of future cooperation from one’s competitors can induce riskier behavior on the part 
+
+of individual firms.  And, perhaps more troubling, the sudden breakdown of cooperation during a 
+
+systemic event can accelerate the transmission of adverse consequences throughout the financial 
+
+system. 
+
+Regulators must consider how new resolution frameworks such as that created by Dodd-
+
+Frank will affect market participants’ beliefs about what will happen in the case of distress at a 
+
+large financial institution and, consequently, how cooperative behavior among financial 
+
+counterparties might change.  Orderly liquidation authority can be understood as a ―credible 
+
+threat‖ on the part of regulators to allow a troubled institution to fail.  Resolution plan 
+
+requirements may allow other firms to better anticipate the consequences of such a failure and, as 
+
+a result, to reduce the cost of uncertainty for those firms.  Both of these features of Dodd-Frank 
+
+have, in theory, the potential to weaken implicit cooperative arrangements during a crisis.  Even 
+
+                                                           
+4
+ Bruce I. Carlin, Miguel Sousa Lobo, and S. Viswanathan (2007), ―Episodic Liquidity Crises: Cooperative and 
+
+Predatory Trading,‖ Journal of Finance, vol. 62 (October), pp. 2235–74. 
+

@@ -1,0 +1,61 @@
+
+ - 9 - 
+
+help the recovery along by using both asset purchases and our threshold-based approach 
+
+to forward guidance.  
+
+How should the pace of purchases evolve going forward?  The Chairman laid out 
+
+a framework for winding down purchases in his June press conference.
+9
+  Within that 
+
+framework, I would have been comfortable with the FOMC’s beginning to taper its asset 
+
+purchases at the September meeting.  But whether we start in September or a bit later is 
+
+not in itself the key issue--the difference in the overall amount of securities we buy will 
+
+be modest.  What is much more important is doing everything we can to ensure that this 
+
+difficult transition is implemented in as transparent and predictable a manner as 
+
+possible.  On this front, I think it is safe to say that there may be room for improvement. 
+
+Achieving the desired transparency and predictability doesn’t require that the 
+
+wind-down happen in a way that is independent of incoming data.  But I do think that, at 
+
+this stage of the asset purchase program, there would be a great deal of merit in trying to 
+
+find a way to make the link to observable data as mechanical as possible.  For this reason, 
+
+my personal preference would be to make future step-downs a completely deterministic 
+
+function of a labor market indicator, such as the unemployment rate or cumulative payroll 
+
+growth over some period. For example, one could cut monthly purchases by a set amount 
+
+for each further 10 basis point decline in the unemployment rate.
+10
+
+  Obviously the 
+
+unemployment rate is not a perfect summary statistic for our labor market objectives, but 
+
+I believe that this approach would help to reduce uncertainty about our reaction function 
+
+and the attendant market volatility.  Moreover, we would still retain the flexibility to 
+
+                                                 
+9
+ Information on the Chairman’s June 19. 2013, press conference is available on the Board’s website at 
+
+www.federalreserve.gov/monetarypolicy/fomcpresconf20130619.htm. 
+10
+
+ To be clear, I am sketching out a broad concept, and many details would need to be filled in to make it 
+
+operational--such as, what to do if the unemployment rate falls in one month and then later rises. 
+

@@ -1,0 +1,49 @@
+
+- 12 -
+
+financial stability objectives call for the same policy action--for example, when the credit 
+
+cycle is approaching its peak, output is above potential, and inflation pressures appear to 
+
+be building.  In contrast, when different objectives call for different policy actions--for 
+
+example, when some financial assets appear overvalued but economic growth remains 
+
+tepid and inflation is subdued--policymakers may find this tradeoff much more difficult 
+
+to assess and will search for macroprudential tools.  Perhaps unsurprisingly, recent 
+
+contributions in the literature that quantify this tradeoff point to a range of 
+
+recommendations, with some reporting an optimal monetary policy that leans against the 
+
+wind and some suggesting otherwise.20
+
+I would like to conclude on this issue by saying that the issue is a bit more 
+
+complicated than suggested so far--for, given that financial variables are a critical part of 
+
+the transmission mechanism of monetary policy, when policymakers say the economy is 
+
+overheating, they may well be considering the behavior of asset prices as a critical part of 
+
+that phenomenon and part of the reason to tighten monetary policy.  Thus, I believe that 
+
+the real issue of whether adjustments in interest rates should be used to deal with 
+
+problems of potential financial instability is macroeconomic, and that if asset prices 
+
+across the economy--that is, taking all financial markets into account--are thought to be 
+
+excessively high, raising the interest rate may be the appropriate step.  Further discussion 
+
+of this issue will probably bear considerable similarity to the analysis of how to deal with 
+
+20 This variability is in part due to different model set-ups, such as how financial instability builds up and 
+how it affects economic outcomes.  For example, Woodford (2012) finds that leaning against the wind does 
+not change the basis for traditional stabilization objectives in a standard New Keynesian model, whereas 
+the cost-benefit analysis in Svensson (2015) finds little basis for the “leaning against the wind” strategy.  
+Ajello and others (2015) find that optimal adjustment of the policy rate, when the possibility of a crisis is 
+taken into account, is small unless the policymaker is assumed to be quite uncertain about the likelihood 
+and severity of the crisis.
+

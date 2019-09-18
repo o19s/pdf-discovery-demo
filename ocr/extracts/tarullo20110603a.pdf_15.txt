@@ -1,0 +1,38 @@
+
+- 14 - 
+ 
+
+concentration of counterparty exposures, and risk management.  But, I would say in conclusion, 
+
+capital requirements are integral to both microprudential and macroprudential regulation.  They 
+
+are the foundation upon which much other regulation is built. 
+
+
+
+                                                       
+i See Daniel K. Tarullo, Regulating Systemic Risk (2011), “Regulating Systemic Risk,” remarks delivered at the 
+2011 Credit Markets Symposium, Charlotte, North Carolina, March; Daniel K. Tarullo (2010), "Comments on 
+‘Regulating the Shadow Banking System,' " remarks delivered at the Brookings Panel on Economic Activity, 
+Washington, September. 
+ii Two examples of these complexities are that placing a financial firm into a resolution process in one country could 
+trigger cross-default clauses or induce ring-fencing of assets in other jurisdictions 
+iii One such measure is “CoVaR”:  The prefix “Co” in front of the conventional abbreviation for value-at-risk is 
+meant to refer to the co-movement of losses for a particular firm with those of the system as a whole.  See  Tobias 
+Adrian and Markus K. Brunnermeier (2009), “CoVar.”  Federal Reserve Bank of New York Staff Report No. 348.   
+Another is “Marginal Expected Shortfall,” which predicts how much the stock of a specific financial firm will 
+decline in a day relative to an overall market decline.  See Viral V. Acharya, Lasse H. Pedersen, Thomas Philippon, 
+and Matthew Richardson (2010).  “Measuring Systemic Risk”.  Working Paper, New York University Stern School 
+of Business. 
+iv As I have noted in prior speeches, there is a real need for a program of research into this question of the 
+efficiencies of scope and scale in the financial services industry, as well as the relationship of industry structure to 
+systemic risk. 
+v The key problem revolves around the trigger for conversion.  A trigger that was directly or indirectly exercised at 
+the discretion of regulators would not necessarily be regarded by markets as predictable, but a trigger tied to a 
+market measure could lead to a variety of unintended manipulative trading opportunities – including, in a worst case, 
+a so-called death spiral. 
+vi In any case, it is absolutely clear that “bail-in” contingent capital – which converts at the point of non-viability of a 
+firm in order to facilitate orderly resolution – would not be an acceptable substitute for common equity. 
+vii By setting the threshold for these standards at firms with assets of at least $50 billion, well below the level that 
+anyone would believe describes a TBTF firm, Congress has avoided the creation of a de facto list of TBTF firms. 
+

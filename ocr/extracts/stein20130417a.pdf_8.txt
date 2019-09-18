@@ -1,0 +1,59 @@
+
+- 7 - 
+
+
+like size caps.  And indeed, if we were faced with a static, once-and-for-all decision, I don’t 
+
+think economic reasoning alone could give us a definitive answer as to whether caps should be 
+
+preferred to capital surcharges.  This ambiguity is in some sense the central message of 
+
+Weitzman’s original analysis.   
+
+One way to resolve this tension is to refrain from putting ourselves in the position of 
+
+having to make a once-and-for-all decision in a setting of substantial uncertainty.  Rather, it 
+
+might be preferable to try to learn from the incoming data and adjust over time, particularly since 
+
+the recent changes to capital regulation already on the books may represent an informative 
+
+experiment.  In my view, this observation about the potential for learning tips the balance in 
+
+favor of capital surcharges.  For example, the capital-surcharge schedule proposed by the Basel 
+
+Committee for globally important systemic banks may be a reasonable starting point.  However, 
+
+if after some time it has not delivered much of a change in the size and complexity of the largest 
+
+of banks, one might conclude that the implicit tax was too small, and should be ratcheted up.
+10
+
+
+In principle, this turning-up-the-dials approach feels to me like the right way to go:  It retains the 
+
+flexibility that makes price-based regulation attractive, while mitigating the risk that the implicit 
+
+tax rate will be set too low.  Of course, I recognize that its gradualist nature presents practical 
+
+challenges, not least of which is sustaining a level of regulatory commitment and resolve 
+
+sufficient to keep the dials turning so long as this is the right thing to do. 
+
+Before wrapping up, let me briefly mention another piece of the puzzle that I think is 
+
+sometimes overlooked, but strikes me as having the potential to play an important 
+
+complementary role in efforts to address the TBTF problem--namely, corporate governance.  
+
+Suppose we do everything right with respect to capital regulation, and set up a system of capital 
+
+                                                 
+10
+
+ Again, it should be emphasized that the underlying problem is not simply an institution’s size, but rather its 
+
+systemic footprint--which in addition to sheer size, is related to its complexity, interconnectedness, and global span 
+
+of operations. 
+

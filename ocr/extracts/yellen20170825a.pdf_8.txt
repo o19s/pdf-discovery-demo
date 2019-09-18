@@ -1,0 +1,73 @@
+
+ - 7 - 
+
+Preeminent among these domestic and global efforts have been steps to increase the loss-
+
+absorbing capacity of banks, regulations to limit both maturity transformation in short-
+
+term funding markets and liquidity mismatches within banks, and new authorities to 
+
+facilitate the resolution of large financial institutions and to subject systemically 
+
+important firms to more stringent prudential regulation. 
+
+Several important reforms have increased the loss-absorbing capacity of global 
+
+banks.  First, the quantity and quality of capital required relative to risk-weighted assets 
+
+have been increased substantially.9  In addition, a simple leverage ratio provides a 
+
+backstop, reflecting the lesson imparted by past crises that risk weights are imperfect and 
+
+a minimum amount of equity capital should fund a firm’s total assets.  Moreover, both 
+
+the risk-weighted and simple leverage requirements are higher for the largest, most 
+
+systemic firms, which lowers the risk of distress at such firms and encourages them to 
+
+limit activities that could threaten financial stability.10  Finally, the largest U.S. banks 
+
+participate in the annual Comprehensive Capital Analysis and Review (CCAR)--the 
+
+                                                 
+9 These improvements encompass a number of changes.  The regulatory requirements for capital have been 
+
+increased and focus on Tier 1 common equity, which proved more capable of absorbing losses than lower-
+
+quality forms of capital.  The role of bank internal models in determining risk-weighted assets also has 
+
+been significantly constrained in the United States.  In addition, exposures previously considered off 
+
+balance sheet have been incorporated into risk-weighted assets. 
+10 The Federal Reserve Board, the FDIC, and the Office of the Comptroller of the Currency adopted a final 
+
+rule to strengthen the leverage ratio standards for the largest, most interconnected U.S. banking 
+
+organizations on April 8, 2014.  Under the final rule, covered bank holding companies must maintain a 
+
+leverage buffer of 2 percentage points above the minimum supplementary leverage ratio requirement of 
+
+3 percent, for a total of 5 percent, to avoid restrictions on capital distributions and discretionary bonus 
+
+payments (see Board of Governors of the Federal Reserve System, Federal Deposit Insurance Corporation, 
+
+and Office of the Comptroller of the Currency (2014), “Agencies Adopt Enhanced Supplementary 
+
+Leverage Ratio Final Rule and Issue Supplementary Leverage Ratio Notice of Proposed Rulemaking,” joint 
+
+press release, April 8, https://www.federalreserve.gov/newsevents/pressreleases/bcreg20140408a.htm).  
+
+The Federal Reserve approved a final rule imposing risk-based capital surcharges on the largest, most 
+
+systemically important U.S. bank holding companies on July 20, 2015; in connection with the final rule, the 
+
+Board issued a white paper describing the calibration of the risk-based capital surcharges (see Board of 
+
+Governors of the Federal Reserve System (2015), “Federal Reserve Board Approves Final Rule Requiring 
+
+the Largest, Most Systemically Important U.S. Bank Holding Companies to Further Strengthen Their 
+
+Capital Positions,” press release, July 20, 
+
+https://www.federalreserve.gov/newsevents/pressreleases/bcreg20150720a.htm). 
+

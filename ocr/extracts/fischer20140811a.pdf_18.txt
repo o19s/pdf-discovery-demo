@@ -1,0 +1,51 @@
+
+
+
+- 17 - 
+
+I had some experience with these issues while at the Bank of Israel.  In Israel, 
+
+three separate regulators deal with different aspects of macroprudential policy, but there 
+
+is no formal financial stability committee.  The Bank of Israel is also the supervisor of 
+
+banks, so has considerable power over housing finance, which essentially is available 
+
+only from the banks.  Starting in 2010, the Bank of Israel adopted several 
+
+macroprudential measures to address rapidly rising house prices, including higher capital 
+
+requirements and provisioning against mortgages; limits to the share of any housing 
+
+financing package indexed to the short-term (central bank) interest rate to one-third of the 
+
+total loan, with the remainder of the package having to be linked to either the five-year 
+
+real or five-year nominal interest rate; and, on different occasions, limits to the loan-to-
+
+value (LTV) and payment-to-income (PTI) ratios.  Additional precautionary measures 
+
+were also implemented in the supervision of banks.   
+
+The success of these policies was mixed. The limit of one-third on the share of 
+
+any housing loan indexed to the short rate substantially raised the cost of housing finance 
+
+and was the most successful of the measures.  Increases in both the LTV and PTI ratios 
+
+were moderately successful.  Increasing capital charges and risk weights appeared to 
+
+have little impact in practice.   
+
+This experience led me to three conclusions on the effectiveness of 
+
+macroprudential policies.  First, we were very cautious in using these new tools because 
+
+we did not have good estimates of their strength and effectiveness.  Quite possibly, we 
+
+should have acted more boldly on several occasions.  Second, use of these tools is likely 
+
+to be unpopular, for housing is a sensitive topic in almost every country.  And third, 
+
+coordination among different regulators and authorities can be complicated.       
+

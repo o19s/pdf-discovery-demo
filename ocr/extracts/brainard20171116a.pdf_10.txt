@@ -1,0 +1,59 @@
+
+- 9 - 
+
+
+have deep subprime scores.31  Similarly, for consumers that opt into overdraft products on their 
+
+checking accounts, 8 percent of consumers pay 75 percent of the fees.32  Up until now, it has 
+
+been hard for consumers to understand those odds and objectively assess whether they are likely 
+
+to be in the group of customers that will face challenges with a particular financial product.  The 
+
+convergence of smartphone ubiquity, cloud computing, data aggregation, and off-the-shelf AI 
+
+products offer the potential to make tailored financial advice scalable.  For instance, a fintech 
+
+developer could pair historical data about how different types of consumers fare with a specific 
+
+product, on the one hand, with a consumer’s particular financial profile, on the other hand, to 
+
+make a prediction about how that consumer is likely to fare with the product.  
+
+The Evolution of Financial Autopilots  
+
+Since the early days of internet commerce, developers have tried to move beyond simple 
+
+price comparison tools to offer tailored “agents” for consumers that can recommend products 
+
+based on analyses of individual behavior and preferences.33  Today, a new generation of personal 
+
+financial management tools seems poised to make that leap.  When a consumer wishes to select a 
+
+new financial product, he or she can now solicit options from a number of websites and mobile 
+
+apps.  These new comparison sites can walk the consumer through a wide array of financial 
+
+products, offering to compare features like rewards, fees, and rates, or tailoring to a consumer’s 
+
+stated goals.  Some fintech advisors ask consumers to provide access to their bank accounts, 
+
+                                                 
+31 Consumer Financial Protection Bureau, The Consumer Credit Card Market (Washington: CFPB, December 
+
+2015), http://files.consumerfinance.gov/f/201512_cfpb_report-the-consumer-credit-card-market.pdf. 
+32 Trevor Bakker, Nicole Kelly, Jesse Leary, and Eva Nagypal, Data Point: Checking Account Overdraft, Consumer 
+
+Financial Protection Bureau report (Washington: CFPB, July 2014), 
+
+http://files.consumerfinance.gov/f/201407_cfpb_report_data-point_overdrafts.pdf. Likewise, one out of five new 
+
+payday loans are rolled over six times or more. Kathleen Burke, Jonathan Lanning, Jesse Leary, and Jialan Wang, 
+
+Data Point: Payday Lending, Consumer Financial Protection Bureau report (Washington: CFPB, March 2014), 
+
+http://files.consumerfinance.gov/f/201403_cfpb_report_payday-lending.pdf. 
+33 See, e.g., Phil Patton, “Buy Here, and We’ll Tell You What You Like,” New York Times, September 22, 1999, 
+
+https://partners.nytimes.com/library/tech/99/09/biztech/technology/22patt.html?mcubz=1.  
+

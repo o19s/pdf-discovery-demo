@@ -1,0 +1,52 @@
+
+ - 5 - 
+
+most market participants use LIBOR as the reference rate in their financial contracts.  
+
+Because of the progression of this dynamic over time, and not because of some careful 
+
+design, LIBOR has spread well beyond its intended uses and become an important pillar 
+
+of the global financial system--perhaps too important. 
+
+In recent years, two separate developments have called into question the wisdom 
+
+of that arrangement.  I have already mentioned the first one--the emergence of a 
+
+pervasive pattern of attempted manipulation of LIBOR dating back many years.  This 
+
+misconduct was designed either to increase the potential profit of the submitting firms or 
+
+to convey a misleading picture of the relative health of such firms.  Since 2012, seven 
+
+financial institutions have settled related charges with the U.S. Commodity Futures 
+
+Trading Commission and the U.S. Department of Justice, and the cumulative penalties 
+
+and fines paid in the United States now stand at more than $3 billion.8  Global penalties 
+
+paid related to benchmark misconduct exceed $6 billion as investigations into reference 
+
+rate manipulation continue.  Although these penalties and fines are themselves 
+
+substantial, to my mind the longer-term damage to the public’s trust represents the greater 
+
+cost of this misconduct. 
+
+A second problem is that unsecured interbank borrowing has been in a secular 
+
+decline that predates the global financial crisis.  Changes in bank behavior following the 
+
+crisis exacerbated the decline and further weakened the foundation of LIBOR.  The result 
+
+is a scarcity, or outright absence in longer tenors, of actual transactions that banks can use 
+
+to estimate their daily submission to LIBOR.  Ongoing regulatory reforms and the shift 
+
+away from unsecured funding raise the possibility that unsecured interbank borrowing 
+
+                                                 
+8 The seven firms that have settled consist of five banks (Barclays, Lloyds Bank, Rabobank, RBS, and 
+
+UBS) and two brokers (ICAP and RP Martin). 
+

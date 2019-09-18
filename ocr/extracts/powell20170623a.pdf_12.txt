@@ -1,0 +1,44 @@
+
+11 
+ 
+
+sudden increase in intraday margin calls and their own internal demands for more liquid 
+
+resources.9  These are risks that we should seek to understand better.   
+
+
+Policy Implications 
+
+ The Federal Reserve is the primary supervisory authority for two designated financial 
+
+market utilities (or DFMUs), and plays a secondary role relative to the six other DFMUs.  As a 
+
+central bank, we are particularly concerned with liquidity issues.10  I will address four policy 
+
+issues that need careful consideration as the public sector and market participants continue to 
+
+address liquidity risks in central clearing.  
+
+
+Stress Testing 
+
+The 1987 stock market crash showed that we need to look at liquidity risks from a 
+
+systemwide perspective.  That event involved multiple CCPs and also involved multiple links in 
+
+the payments chains between banks and CCPs.  Conducting supervisory stress tests on CCPs that 
+
+take liquidity risks into account would help authorities better assess the resilience of the financial 
+
+system.  A stress test focused on cross-CCP liquidity risks could help to identify assumptions 
+
+                                                           
+9 Regulatory changes since the financial crisis have encouraged banks to hold much greater amounts of high-quality 
+liquid assets, which would help them in meeting such liquidity demands. 
+10 Section 804 of the Dodd-Frank Act requires the Financial Stability Oversight Council to designate those financial 
+market utilities that the council determines are, or are likely to become, systemically important.  Eight utilities have 
+been designated:  The Clearing House Payments Company, L.L.C.; CLS Bank International; Chicago Mercantile 
+Exchange, Inc.; The Depository Trust Company; Fixed Income Clearing Corporation; ICE Clear Credit L.L.C.; 
+National Securities Clearing Corporation; and The Options Clearing Corporation. 
+ 
+

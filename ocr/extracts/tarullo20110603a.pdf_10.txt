@@ -1,0 +1,48 @@
+
+- 9 - 
+ 
+
+required some judgment, not least on the question of how much we should try to minimize the 
+
+chances of failure.  The requirements ultimately agreed upon by the Basel Committee were 
+
+within the range we had estimated, though at the lower end of that range.  But the key point is 
+
+that there was a single, reasonably persuasive approach to calibration around which regulators 
+
+here and abroad converged.   
+
+ When we move from the microprudential to macroprudential rationale for capital 
+
+regulation, there is no such single accepted method for calibration.  We do want to reduce further 
+
+the probability that a SIFI might fail under stress.  In that sense the exercise has some continuity 
+
+with the microprudential approach – the percentage of required capital needs to be increased to 
+
+achieve a smaller probability of failure based on the kind of loss history examined for Basel III 
+
+purposes.  But the macroprudential rationale for enhanced capital standards is the amount of 
+
+harm a SIFI failure will inflict on the rest of the financial system, not the amount of loss its 
+
+shareholders and creditors will incur.  The calibration of the additional requirement needs to 
+
+reflect this concern. 
+
+Several different methodologies have been considered by the Basel Committee.  The 
+
+“expected impact” approach tries to determine how much additional capital would be needed to 
+
+reduce the probability of failure of a SIFI sufficiently to equalize the expected impact on the 
+
+financial system of the failure of a SIFI and the failure of a banking firm just outside systemic 
+
+status.  For example, if the loss to the financial system from the failure of a SIFI would be five 
+
+times that resulting from failure of the non-systemic firm, then the SIFI would have to hold 
+
+additional capital sufficient to make the expected probability of failure one-fifth that of the non-
+
+SIFI.  The enhanced capital requirement implied by this methodology can range between about 
+

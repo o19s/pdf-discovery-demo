@@ -1,7 +1,7 @@
-FROM solr:6.2.1
+FROM solr:7.1
 
 # Add customizations
-ADD lib/solr-payloads-1.0-SNAPSHOT.jar /opt/solr/server/solr-webapp/webapp/WEB-INF/lib/solr-payloads-1.0-SNAPSHOT.jar
+ADD lib/solr-payloads-1.0.2-solr7.1.0-SNAPSHOT.jar /opt/solr/server/solr-webapp/webapp/WEB-INF/lib/solr-payloads-1.0.2-solr7.1.0-SNAPSHOT.jar
 ADD web.xml /opt/solr/server/solr-webapp/webapp/WEB-INF
 
 USER root

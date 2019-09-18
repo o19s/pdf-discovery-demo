@@ -1,0 +1,49 @@
+
+ - 10 -
+
+markets participants’ expectations for its future holdings.  Consequently, a shift in 
+
+expectations concerning the trajectory of the Federal Reserve’s balance sheet could have 
+
+an important effect on financial conditions going forward.   
+
+In particular, financial conditions depend on market expectations not only 
+
+concerning the amount of the FOMC’s purchases but also concerning the anticipated 
+
+timing and pace of the eventual unwinding of those holdings.  For example, financial 
+
+conditions would likely tighten immediately if market participants came to expect a more 
+
+rapid renormalization of the Federal Reserve’s balance sheet.  In contrast, if market 
+
+participants were to anticipate a more gradual renormalization, financial conditions 
+
+would likely become more stimulative.   
+
+To illustrate the potential importance of such changes in expectations, figure 7 
+
+depicts a scenario in which markets come to anticipate that the Federal Reserve will 
+
+shrink its balance sheet more rapidly than in the baseline scenario.  The left panel shows 
+
+the assumed contour of an expected acceleration of asset sales that would renormalize the 
+
+overall size of the portfolio within about two years (solid line), roughly twice as fast as 
+
+under the baseline scenario (dashed line).  The announcement of such a strategy would 
+
+cause a substantial rise in term premiums relative to the baseline scenario, and, assuming 
+
+no offsetting change in the path of the federal funds rate, the resulting higher level of 
+
+long-term interest rates would damp aggregate spending.  The right panel depicts the 
+
+macroeconomic effects of the more rapid runoff of the balance sheet in terms of 
+
+deviations from the baseline scenario:  The unemployment rate (solid line) is significantly 
+
+higher, and core PCE inflation (dashed line) is somewhat lower.   
+
+
+

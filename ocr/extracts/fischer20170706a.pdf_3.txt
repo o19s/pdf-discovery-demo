@@ -1,0 +1,51 @@
+
+ - 2 - 
+
+understand that one needs to know only the trick of calculating how long it takes for a 
+
+growing economy to double.  A good rule of thumb for calculating the time it takes labor 
+
+productivity (or anything else that is growing) to double can be calculated by dividing 70 
+
+by the growth rate.  When labor productivity was growing at 3-1/4 percent per 
+
+year--during the 25 years from 1948 to 1973--it took 22 years for labor productivity to 
+
+double.  Looking again at Figure 1, in the 42 years from 1974 to 2016, when labor 
+
+productivity was growing on average at a rate of 1-3/4 percent, it would have taken 
+
+approximately 41 years for labor productivity to double.  There is a vast difference 
+
+between the prospects facing the young in an economy where incomes per capita are 
+
+doubling every 22 years and an economy in which incomes are on average doubling only 
+
+every 41 years.   
+
+Now, productivity statistics are imperfect in many respects--for example, 
+
+capturing the value of the seemingly free apps we use on our smartphones is challenging.    
+
+And many of us who live in the modern age cannot believe that the iPhone has not 
+
+fundamentally changed our lives.  It has certainly changed our lives to some extent, and 
+
+there is likely some underestimation of productivity growth in the official data.  But to 
+
+figure out whether the current degree of data bias has reduced estimated growth, we have 
+
+to ask not whether there is bias, but whether the bias has increased.  To a first 
+
+approximation, one could assume that the rate of bias is constant, and does not account 
+
+for the estimated decline in productivity growth and that we should not dismiss the 
+
+slowdown as an artifact of measurement difficulties3  That is the conclusion most 
+
+researchers reach, but the data issue is not settled.  As Bob Solow famously said, just 
+
+                                                 
+3 Byrne, Fernald, and Reinsdorf (2016) discuss known measurement challenges and conclude they cannot 
+explain the deceleration of productivity. 
+

@@ -1,0 +1,48 @@
+
+- 16 - 
+ 
+
+other desirable aims.  This conclusion is reinforced by other parts of Dodd-Frank, such as the 
+
+earlier-mentioned provision permitting extraordinary measures to be imposed on a firm, but only 
+
+if it is found to pose a grave threat to financial stability.  
+
+Another salient point of difference is that Hart-Scott-Rodino was not enacted until 1976, 
+
+following more than 60 years of merger analysis by the antitrust agencies and merger 
+
+jurisprudence by the courts.  Indeed, the agencies had already published a set of merger 
+
+guidelines in 1968.  While the Antitrust Division or the Federal Trade Commission could, and 
+
+did, begin pre-merger reviews with a well-developed analytic framework, there is no legacy of 
+
+administrative or judicial analysis of the financial stability effects of mergers.  We literally have 
+
+had to start from scratch.  Let me describe just a few of the conceptual and practical issues that 
+
+have already arisen in discussions at the Board on some hypothetical situations that might arise 
+
+in implementing the required consideration of financial stability.33 
+
+One important issue is raised by the possibility that an acquisition may decrease the 
+
+chances of material distress at a financial firm while simultaneously increasing the potential 
+
+negative externality on the financial system as a whole should the firm nonetheless become 
+
+seriously compromised.  To borrow credit risk terminology, the probability of default (PD) may 
+
+be reduced, but the loss given default (LGD) may increase.  You can imagine this circumstance 
+
+where, for example, an acquisition would demonstrably reduce a firm’s dependence on short-
+
+term wholesale funding by providing more deposits or other reliable funding sources, but where 
+
+the firm's increased size and market connections would compound the damage to counterparties, 
+
+intermediation, and asset markets in the event of unmanageable stress.  In such a case, are risks 
+
+to financial stability increased, unaffected on balance, or actually decreased?   
+

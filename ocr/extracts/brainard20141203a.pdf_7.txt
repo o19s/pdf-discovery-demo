@@ -1,0 +1,55 @@
+
+ - 6 - 
+
+Regular stress tests of both capital and liquidity at our largest banking firms 
+
+provide a key bulwark in the new supervisory architecture.4  Minimum capital 
+
+requirements must be met under severely adverse macroeconomic conditions and, for the 
+
+very largest firms, in the face of severe market shocks, including the failure of a firm’s 
+
+largest counterparty.  By providing a forward-looking assessment that takes into account 
+
+correlations among risks under stressed conditions, these stress tests on capital and 
+
+liquidity are powerful tools for building resilience in our largest banking firms.  But they 
+
+also have some limitations.  For instance, while the severity of the stresses can be varied 
+
+from year to year, it is difficult to introduce entirely new scenarios each year to target 
+
+specific sectoral risks without introducing excessive complexity.  And while the new U.S. 
+
+framework requires that capital buffers are calibrated for the riskiness of their assets and 
+
+exposures, the proportion of capital required does not vary systematically to counter the 
+
+cyclicality that arises through elevated asset valuations and other channels.5 
+
+4 The Comprehensive Liquidity Analysis and Review, or CLAR, is the Federal Reserve Board’s periodic 
+simultaneous supervisory examination of firms’ liquidity buffers and risk-management policies.  We use 
+CLAR to analyze and adjust our supervisory program for emerging firm practices and risk areas not 
+captured in the Liquidity Coverage Ratio (LCR).  For example, CLAR enables monitoring of firm liquidity 
+positions for buildups of concentrations of risk beyond the 30-day threshold.  It also allows us to look more 
+closely at risks that may emanate from areas such as intraday credit, which are not captured within the LCR 
+but are captured by firms’ internal stress-testing frameworks. 
+5 As the Board laid out in its November 2013 policy statement on the scenario design framework for stress 
+testing, it uses a recession approach to develop the severely adverse scenario of the stress tests.  See Board 
+of Governors of the Federal Reserve System (2013), “Federal Reserve Board Issues Final Policy Statement 
+for Developing Scenarios for Future Capital Planning and Street Testing Exercises,” press release, 
+November 7, www.federalreserve.gov/newsevents/press/bcreg/20131107a.htm.  The severely adverse 
+scenario is anticipated to feature an unemployment rate over the first six to eight quarters of the scenario 
+that increases between 3 percentage points and 5 percentage points, which is the amount by which 
+unemployment has increased in the most recent three severe recessions.  However, if such an increase does 
+not raise the level of the unemployment rate to at least 10 percent--the average level to which it has 
+increased in the most recent three severe recessions--the path of the unemployment rate in most cases will 
+be specified so as to raise the unemployment rate to at least this level.  Under this methodology, the 
+increase in the unemployment rate would be slightly greater if the initial unemployment rate were low--as it 
+would be after a sustained long expansion.  Moreover, setting a floor for the unemployment rate recognizes 
+the fact that not only do cyclical systemic risks build up at financial intermediaries during robust 
+expansions, but that these risks are also easily obscured by the buoyant environment.  Note, however, that 
+while the approach to specifying the severely adverse scenario is designed to avoid adding sources of 
+
+
+

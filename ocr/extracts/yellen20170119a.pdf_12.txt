@@ -1,0 +1,53 @@
+
+- 11 - 
+ 
+
+unemployment, with corresponding implications for estimates of the economy’s 
+
+productive potential and the output gap.  Such revisions would imply shifts in the level of 
+
+the Taylor rule’s prescriptions by as much as 1-1/4 percentage points, holding other 
+
+factors constant.14  Clearly, sensible implementation of policy rules requires adjustments 
+
+to take such changes into account, as a failure to do so would result in poor monetary 
+
+policy decisions and poor economic outcomes.15 
+
+Figure 7 illustrates the policy implications of alternative revised assessments of 
+
+the longer-run neutral real rate of interest.  As before, the short-dashed red line shows the 
+
+prescriptions of the Taylor rule using the standard 2 percent assumption for R*.  The 
+
+solid red line, however, shows the rule’s prescriptions with R* equal to 1 percent, the 
+
+median of the longer-run projections of the real federal funds rate made by FOMC 
+
+participants last month.  This adjustment appreciably reduces the rule’s policy 
+
+prescriptions.  
+
+Even with this downward adjustment of the longer-run neutral rate, however, the 
+
+Taylor rule’s prescriptions are arguably still too restrictive.  The problem is that the rule 
+
+ignores the likelihood that it will likely take many years before the forces now restraining 
+
+                                                           
+14 Additional complications arise in the measurement of economic slack because the difference between the 
+unemployment rate and its estimated normal level is not always a complete gauge of overall labor 
+utilization.  Such was the case in the current expansion until recently because the labor force participation 
+rate was unusually low and involuntary part-time employment unusually high, given the level of the 
+unemployment rate.  Moreover, although movements in resource utilization for the economy as a whole are 
+generally proportional to changes in labor utilization, the relationship varies somewhat over time. Partly as 
+a result, contemporaneous estimates of the output gap can deviate markedly from subsequent estimates for 
+the same period calculated using revised data.  For example, in early 2010, the Congressional Budget 
+Office (CBO) estimated that the output gap in 2009:Q2 was negative 7.7 percent, but the CBO has since 
+lowered it to negative 6.3 percent--a large revision with important implications for assessments of the 
+deviation of actual policy from the prescriptions of simple policy rules.    
+15 If monetary policy persistently followed the prescriptions of a Taylor rule that assumed that R* was 
+2 percent when it was in fact 1 percent, then employment would run persistently below its maximum 
+sustainable level and inflation would run persistently below 2 percent.  Under such circumstances, inflation 
+expectations might begin to fall, creating a risk of deflation.    
+

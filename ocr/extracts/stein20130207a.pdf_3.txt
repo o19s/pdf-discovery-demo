@@ -1,0 +1,64 @@
+
+ - 2 - 
+
+credit is cheap when households extrapolate current good times into the future and 
+
+neglect low-probability risks.
+4
+ 
+
+The primitives view is helpful for understanding some aspects of the behavior of 
+
+the aggregate stock market, with the 1990s Internet bubble being one illustration.  It 
+
+seems clear that the sentiment of retail investors played a prominent role in inflating this 
+
+bubble.
+5
+  More generally, research using survey evidence has shown that when individual 
+
+investors are most optimistic about future stock market returns, the market tends to be 
+
+overvalued, in the sense that statistical forecasts of equity returns are abnormally low.
+6
+  
+
+This finding is consistent with the importance of primitive investor beliefs. 
+
+By contrast, I am skeptical that one can say much about time variation in the 
+
+pricing of credit--as opposed to equities--without focusing on the roles of institutions and 
+
+incentives.  The premise here is that since credit decisions are almost always delegated to 
+
+agents inside banks, mutual funds, insurance companies, pension funds, hedge funds, and 
+
+so forth, any effort to analyze the pricing of credit has to take into account not only 
+
+household preferences and beliefs, but also the incentives facing the agents actually 
+
+making the decisions.  And these incentives are in turn shaped by the rules of the game, 
+
+which include regulations, accounting standards, and a range of performance-
+
+measurement, governance, and compensation structures.  
+
+At an abstract level, one can think of the agents making credit decisions and the 
+
+rulemakers who shape their incentives as involved in an ongoing evolutionary process, in 
+
+which each adapts over time in response to changing conditions.  At any point, the agents 
+
+                                                 
+4
+ See Gennaioli, Shleifer, and Vishny (2012). 
+
+5
+ For example, Griffin and others (2011) document that during the run-up of the Internet bubble, from 
+
+January 1997 to March 2000, individual investors were substantial net buyers of tech stocks, via both direct 
+
+purchases as well as investments in tech-sector-specific mutual funds. 
+6
+ See Amromin and Sharpe (2012), and Greenwood and Shleifer (2012). 
+

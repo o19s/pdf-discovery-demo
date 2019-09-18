@@ -1,0 +1,51 @@
+
+ - 3 -
+
+perhaps the most fundamental and a natural starting point for discussion.  By way of 
+
+motivation, note that before the financial crisis, we had a highly developed regime of 
+
+capital regulation for banks--albeit one that looks inadequate in retrospect--but we did not 
+
+have formal regulatory standards for their liquidity.3  The introduction of liquidity 
+
+regulation after the crisis can be thought of as reflecting a desire to reduce dependence on 
+
+the central bank as a lender of last resort (LOLR), based on the lessons learned over the 
+
+previous several years.  However, to the extent that some role for the LOLR still remains, 
+
+one now faces the question of how it should coexist with a regime of liquidity regulation. 
+
+To address this question, it is useful to take a step back and ask another one:  
+
+What underlying market failure is liquidity regulation intended to address, and why can’t 
+
+this market failure be handled entirely by an LOLR?  I will turn to this question first.  
+
+Next, I will consider different mechanisms that could potentially achieve the goals of 
+
+liquidity regulation, and how these mechanisms relate to various features of the LCR.  In 
+
+so doing, I hope to illustrate why, even though liquidity regulation is a close cousin of 
+
+capital regulation, it nevertheless presents a number of novel challenges for policymakers 
+
+and why, as a result, we are going to have to be open to learning and adapting as we go. 
+
+The Case for Liquidity Regulation 
+
+One of the primary economic functions of banks and other financial 
+
+intermediaries, such as broker-dealers, is to provide liquidity--that is, cash on demand--in 
+
+various forms to their customers.  Some of this liquidity provision happens on the 
+
+liability side of the balance sheet, with bank demand deposits being a leading example.  
+
+But, importantly, banks also provide liquidity via committed lines of credit.  Indeed, it is 
+
+                                                 
+3 Although bank liquidity was not regulated prior to the crisis, it played an important part in the supervisory 
+process.  For example, in the CAMELS ratings used by supervisors, the “L” stands for “liquidity.” 
+

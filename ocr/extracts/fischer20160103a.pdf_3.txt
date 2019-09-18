@@ -1,0 +1,51 @@
+
+- 2 -
+
+rate that would prevail in the long-run once all of the shocks affecting the economy die 
+
+down.2 In terms of the Federal Reserve’s approach to monetary policy, it is the real 
+
+interest rate at which the economy would settle at full employment and with inflation at 
+
+2 percent--provided the economy is not at the ZLB.  
+
+Recent interest in estimates of r* has been strengthened by the secular stagnation 
+
+hypothesis, forcefully put forward by Larry Summers in a number of papers, in which the 
+
+value of r* plays a central role.3 Research that was motivated in part by attempts that 
+
+began some time ago to specify the constant term in standard versions of the Taylor rule 
+
+has shown a declining trend in estimates of r*.  That finding has become more firmly 
+
+established since the start of the Great Recession and the global financial crisis.4
+
+A variety of models and statistical approaches suggest that the current level of 
+
+short-run r* may be close to zero.  Moreover, the level of short-run r* seems likely to rise 
+
+only gradually to a longer-run level that is still quite low by historical standards.  For 
+
+example, the median long-run real federal funds rate reported in the Federal Reserve’s 
+
+Summary of Economic Projections prepared in connection with the December 2015
+
+meeting of the Federal Open Market Committee has been revised down about
+
+1/2 percentage point over the past three years to a level of 1-1/2 percent.5 As shown in 
+
+the figure, a decline in the value of r* seems consistent with the decline in the level of 
+
+longer-term real rates observed in the United States and other countries.
+
+2 See Laubach and Williams (2003).
+3 See Summers (2014, 2015).
+4 This research includes recent work by Kiley (2015) and others that uses extensions of the original 
+Laubach and Williams (2003) framework. An international perspective on medium-to-long-run real 
+interest rates is provided by U.S. Executive Office of the President (2015).  Reinhart and Rogoff (2009) and 
+Hall (2014) discuss the long-lived effects of financial crises on economic performance. See also Hamilton 
+and others (2015).
+5 The projections materials associated with the Federal Open Market Committee’s December 2015 meeting 
+are available on the Board’s website at www.federalreserve.gov/monetarypolicy/fomccalendars.htm.
+

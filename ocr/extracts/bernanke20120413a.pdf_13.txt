@@ -1,0 +1,72 @@
+
+ - 12 - 
+
+imposing increasingly higher haircuts, cutting the effective amount of funding available 
+
+to borrowers.  In other contexts, lenders simply pulled away, as in a deposit run; in these 
+
+cases, some borrowers lost access to repo entirely, and some securities became 
+
+unfundable in the repo market.  In either case, absent sufficient funding, borrowers were 
+
+frequently left with no option but to sell assets into illiquid markets.  These forced sales 
+
+drove down asset prices, increased volatility, and weakened the financial positions of all 
+
+holders of similar assets.  Volatile asset prices and weaker borrower balance sheets in 
+
+turn heightened the risks borne by repo lenders, further boosting the incentives to demand 
+
+higher haircuts or withdraw funding entirely.  This unstable dynamic was operating in 
+
+full force around the time of the near failure of Bear Stearns in March 2008, and again 
+
+during the worsening of the crisis in mid-September of that year.
+5
+ 
+
+Classic panic-type phenomena occurred in other contexts as well.  Early in the 
+
+crisis, structured investment vehicles and many other asset-backed programs were unable 
+
+to roll over their commercial paper as investors pulled back, and the programs were 
+
+forced to draw on liquidity lines from banks or to sell assets.
+6
+  The resulting pressure on 
+
+the bank liquidity providers, evident especially in the market for dollar-denominated 
+
+loans in short-term funding markets, impeded the functioning of the financial system 
+
+throughout the crisis.  Following the Lehman collapse and the “breaking of the buck” by 
+
+                                                 
+5  
+
+For a theoretical discussion of “margin spirals” and related phenomena, see Markus K. Brunnermeier and 
+
+Lasse Heje Pedersen (2009), “Market Liquidity and Funding Liquidity,” Review of Financial Studies, 
+
+vol. 22 (6), pp. 2201-38.  Institutional details on the triparty repo market and a description of developments 
+
+in that market during the crisis are provided in Adam Copeland, Antoine Martin, and Michael Walker 
+
+(2010), “The Tri-Party Repo Market before the 2010 Reforms,” Federal Reserve Bank of New York Staff 
+
+Reports 477 (New York:  Federal Reserve Bank of New York, November), 
+
+www.copeland.marginalq.com/res_doc/sr477.pdf.  The role of the “run on repo” in the crisis is discussed in 
+
+Gary B. Gorton and Andrew Metrick (2009), “Securitized Banking and the Run on Repo,” NBER Working 
+
+Paper Series 15223 (Cambridge, Mass.:  National Bureau of Economic Research, August), 
+
+www.nber.org/papers/w15223.  
+6
+ An empirical analysis of the run on ABCP is provided in Daniel Covitz, Nellie Liang, and Gustavo Suarez 
+
+(forthcoming), “The Evolution of a Financial Crisis:  Collapse of the Asset-Backed Commercial Paper 
+
+Market,” Journal of Finance. 
+

@@ -1,0 +1,57 @@
+
+ - 6 - 
+
+companies since 2009.
+4
+  To administer a stress test, supervisors first construct a 
+
+hypothetical scenario that assumes a set of highly adverse economic and financial 
+
+developments--for example, a deep recession combined with sharp declines in the prices 
+
+of houses and other assets.  The tested firms and their supervisors then independently 
+
+estimate firms’ projected losses, revenues, and capital under the hypothetical scenario, 
+
+and the results are publicly disclosed.  Firms are evaluated both on their post-stress 
+
+capital levels and on their ability to analyze their exposures and capital needs. 
+
+Stress testing provides a number of advantages over more-standard approaches to 
+
+assessing capital adequacy.  First, measures of capital based on stress tests are both more 
+
+forward looking and more robust to “tail risk”--that is, to extremely adverse 
+
+developments of the sort most likely to foster broad-based financial instability.  Second, 
+
+because the Federal Reserve conducts stress tests simultaneously on the major institutions 
+
+it supervises, the results can be used both for comparative analyses across firms and to 
+
+judge the collective susceptibility of major financial institutions to certain types of 
+
+shocks.  Indeed, comparative reviews of large financial institutions have become an 
+
+increasingly important part of the Federal Reserve’s supervisory toolkit more generally.   
+
+Third, the disclosure of stress-test results, which increased investor confidence during the 
+
+crisis, can also strengthen market discipline in normal times.  The stress tests thus provide 
+
+critical information about key financial institutions while also forcing the firms to 
+
+improve their ability to measure and manage their risk exposures. 
+
+                                                 
+4
+ The Federal Reserve’s stress-testing program is discussed in Ben S. Bernanke (2013), “Stress Testing 
+
+Banks:  What Have We Learned?” speech delivered at “Maintaining Financial Stability:  Holding a Tiger 
+
+by the Tail,” a financial markets conference sponsored by the Federal Reserve Bank of Atlanta, held in 
+
+Stone Mountain, Ga., April 8-10, www.federalreserve.gov/newsevents/speech/bernanke20130408a.htm.  
+
+More limited forms of stress testing were used by supervisors before 2009.  
+

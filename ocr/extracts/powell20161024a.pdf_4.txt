@@ -1,0 +1,48 @@
+
+3 
+ 
+
+Market Infrastructures (PFMIs).2   The PFMIs overlap with our banking regulation in many 
+
+areas; for example, both emphasize the need for sound risk management and the importance of 
+
+resilience and recovery.  The PFMIs also emphasize a strong governance role in support of 
+
+financial stability and the interests of market functioning, and this has been a focus of our work 
+
+with Bank of New York Mellon regarding the transition.         
+
+  Although our current task is to establish appropriate expectations for Bank of New York 
+
+Mellon as a sole operator, that focus should not be taken as an indication that the Federal 
+
+Reserve or other public authorities have pre-judged what the longer-term landscape for 
+
+government securities settlement should look like.  In fact, we do not have a specific market 
+
+design end state in mind.  Rather, we recognize the systemic importance of these activities and 
+
+the need to ensure their continued availability in nearly all states of the world, regardless of the 
+
+firms that offer them or the specific market structure.   
+
+  The industry as a whole should play an important role in shaping the evolution of the 
+
+settlement infrastructure.  Other firms may seek to enter this market. There have also been 
+
+discussions over time of a settlement utility, and the Depository Trust & Clearing Corporation is 
+
+currently considering a new variant of such a model.  Our focus is on the quality of the services 
+
+offered -- their safety, resilience, and support of the market -- and not on the particular 
+
+mechanism for offering them.  If new proposals come forward that are consistent with our goals 
+
+of a safe and resilient settlement system, then they will receive fair consideration.  
+
+
+                                                           
+2 See Committee on Payment and Settlement Systems and the International Organization of Securities Commissions 
+(2012), Principles for Financial Market Infrastructures, report (Basel, Switzerland: Bank for International 
+Settlements, April), www.bis.org/publ/cpss101.htm 
+

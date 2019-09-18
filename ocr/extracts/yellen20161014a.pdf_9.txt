@@ -1,0 +1,54 @@
+
+ - 8 - 
+
+Although the scope of these questions extends beyond the themes of this 
+
+conference, it does include issues that are closely related.  Consider the influence of 
+
+balance sheet conditions and noninterest credit terms on spending and overall activity--an 
+
+area where it is important to take account of differences across individual households and 
+
+firms, as I just noted.  Research on this topic has, of course, been ongoing for some time, 
+
+and it has expanded greatly in the wake of the financial crisis.13  But I believe we have a 
+
+lot more to learn about the ways in which changes in underwriting standards and other 
+
+determinants of credit availability interact with interest rates to affect such things as 
+
+consumer spending, housing demand and home prices, business investment (especially 
+
+for small firms), and the formation of new firms.14  For example, is the persistent increase 
+
+in the personal saving rate that we have observed since the collapse of the housing bubble 
+
+primarily a result of a sustained shift toward more prudent underwriting standards by 
+
+                                                 
+13 For an example of early research on this topic, see Bernanke and Gertler (1989).  Other important pre-
+crisis studies include the development of the financial accelerator model by Bernanke and others (1999a) 
+and work by Kashyap and Stein (2000) and Peek, Rosengren, and Tootell (2003) on the bank balance sheet 
+channel and the effects of bank loan supply shocks.  For a more recent summary of the role of banks in the 
+monetary transmission mechanism, see Peek and Rosengren (2013).  Chaney, Sraer, and Thesmer (2012) 
+provide evidence for the collateral channel of real estate for corporate investment, while Mian, Rao, and 
+Sufi (2013) examine the influence of household balance sheets on consumption. 
+14 More empirical work would be useful to disentangle the spending effects that result from changes in 
+credit conditions from those that result from movements in interest rates, as estimates of the latter likely 
+often inadvertently incorporate the former.  Most empirical models of the overall economy do not explicitly 
+control for the influence of noninterest credit factors on consumption and investment; as a result, estimated 
+interest rate effects will partially reflect the influence of these factors to the extent these factors are 
+correlated with interest rates.  There are many reasons to suspect that this is the case.  Movements in 
+interest rates influence a firm’s cash flow and the value of its collateral, all else being equal.  Higher 
+interest rates also adversely affect consumer spending and especially residential investment, both by 
+forcing households to devote a greater portion of their income to debt service and by making it more 
+difficult to qualify for a loan because of maximum payment-to-income rules.  Evidence for these effects is 
+provided by Gertler and Karadi (2015), who show that relatively small changes in short-term interest rates 
+are correlated with large movements in credit costs.  Such correlations and interactions may explain why 
+some types of spending appear to be more correlated with movements in nominal interest rates than with 
+real interest rates; see Fair (2004, ch. 3) for evidence on this point.  Finally, the relative contributions of 
+relaxed lending standards, low interest rates, and other factors to housing bubbles, both in the United States 
+and abroad, remains an open and unsettled topic; Agnello and Shucknecht (2011) present cross-country 
+evidence that monetary policy plays an important role, while Dokko and others (2011) argue that monetary 
+policy was a minor influence in the most recent episode.  
+

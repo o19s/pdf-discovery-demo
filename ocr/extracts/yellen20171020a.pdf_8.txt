@@ -1,0 +1,50 @@
+
+ - 7 - 
+
+One advantage of the FOMC’s chosen approach to scaling back accommodation 
+
+is that both the FOMC and the public have decades of experience with adjustments in 
+
+short-term interest rates in response to changes in economic conditions.  Nonetheless, the 
+
+post-crisis environment presented a new test to the FOMC’s ability to influence short-
+
+term interest rates. 
+
+Before the crisis, the FOMC could raise the federal funds rate--the rate at which 
+
+banks with excess reserves lend to banks with a reserve need--by removing a small 
+
+amount of reserves from the banking system.  That would translate into a higher federal 
+
+funds rate because reserves were relatively scarce to begin with.  The intuition was 
+
+simple:  The FOMC would signal that it was going to tighten conditions in the reserve 
+
+market, and the cost of obtaining reserves in the market--the federal funds rate--would 
+
+rise.  Other market interest rates would then increase accordingly.   
+
+After the crisis, however, reserves were plentiful because the Federal Reserve 
+
+funded its large-scale asset purchases through adding reserves to the system--crediting 
+
+the bank accounts of those who were selling assets to the Fed.  Moreover, in light of the 
+
+FOMC’s decision not to sell the longer-term securities it acquired, reserves were likely to 
+
+remain plentiful for the foreseeable future.  Consequently, when the time came to remove 
+
+accommodation, a key question for the Committee was how to raise the federal funds rate 
+
+in an environment of abundant reserves.10  An important part of the answer to that 
+
+question came in the Federal Reserve’s authority to pay interest on excess reserves.  The 
+
+                                                 
+10 For a discussion of the pre- and post-crisis frameworks for implementing short-term interest rate 
+decisions, see Jane E. Ihrig, Ellen E. Meade, and Gretchen C. Weinbach (2015), “Rewriting Monetary 
+Policy 101:  What’s the Fed’s Preferred Post-Crisis Approach to Raising Interest Rates?” Journal of 
+Economic Perspectives, vol. 29 (Fall), pp. 177-98, 
+http://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.29.4.177.   
+

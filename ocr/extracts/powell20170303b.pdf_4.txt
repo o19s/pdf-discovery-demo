@@ -1,0 +1,45 @@
+
+- 3 - 
+ 
+
+Faster and More Secure Retail Payment Systems  
+
+The development of real-time retail payments has been gaining momentum 
+
+globally.  The UK has had a system in place since 2008.  Australia is actively 
+
+developing a new nationwide system.  The European Central Bank, the Bank of 
+
+Japan, and several other central banks have also been acting as catalysts to promote 
+
+real-time payments initiatives.  The broad emergence of real-time systems 
+
+throughout the world reflects the growing demand for such systems, and the need 
+
+for the payments system to keep up with evolving technology.2 
+
+In the United States, our traditional bank-centric payments system, 
+
+sometimes operating on decades-old infrastructure, has adjusted slowly to the 
+
+evolving demands for greater speed and safety.  Innovators have built new systems 
+
+and services that ride on top of the old rails but with mixed results, and over time, 
+
+our system has grown more fragmented.  Our payments system is large and 
+
+diverse, with a wide array of financial institutions, systems, and service providers; 
+
+it will take coordinated action to make fundamental and successful nationwide 
+
+improvements.  The Federal Reserve has often helped address problems of this 
+
+nature by convening stakeholders in the payments system and encouraging them to 
+
+identify key issues and to work together to make fundamental improvements.   
+
+                                                           
+2 For a broad discussion of international developments and issues in faster payments, see Committee on Payments 
+and Market Infrastructures, “Fast Payments—Enhancing the Speed and Availability of Retail Payments” (Basel, 
+Switzerland: Bank for International Settlements, November 2016), www.bis.org/cpmi/publ/d154.pdf.   
+

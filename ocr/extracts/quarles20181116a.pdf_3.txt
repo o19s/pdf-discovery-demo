@@ -1,0 +1,66 @@
+
+
+
+- 2 - 
+
+Stress Capital Buffer 
+
+Many of you are familiar with the Federal Reserve’s proposed stress capital buffer 
+
+(SCB), which would replace the current fixed buffer requirement of 2.5 percent of risk-
+
+weighted assets with one based on each firm’s stress test results.2  I believe the proposal 
+
+represents an important milestone in crafting an integrated capital regime, and in keeping 
+
+with its importance, we have received extensive and thoughtful public comments, 
+
+identifying elements of it that could benefit from further refinement.  I described several 
+
+of these elements last week, including my views on some areas which I believe we should 
+
+revisit: improving measurement of risks in the trading book; encouraging less sticky 
+
+forms of capital distribution without requiring dividend pre-funding; and reevaluating the 
+
+interaction of the capital buffer with capital distributions.  Today, I want to highlight 
+
+three elements in particular. 
+
+Foremost among these is the volatility of stress test results.  Some volatility in 
+
+annual results is necessary to preserve the dynamism of the stress test, and to reflect 
+
+changes in macroeconomic conditions, salient economic risks, and the composition of 
+
+firm balance sheets.  However, when the largest banks in the system are fully meeting 
+
+their capital requirements, a highly variable capital requirement from year to year can 
+
+present a significant management challenge.  I believe there is an important balance to 
+
+strike in this area, which will let us preserve dynamism while reducing volatility, and we 
+
+plan to seek comment on a relevant proposal in the not-too-distant future.  
+
+The second is the sequencing of stress test results with capital plan submissions.  
+
+Currently, and under the SCB proposal, a firm must decide whether to increase or 
+
+decrease its planned dividends and share repurchases for the upcoming year without 
+
+knowledge of a key constraint: the results of the stress test.  Initially, this phasing 
+
+reflected the view that firms should think rigorously about their capital uses and needs, 
+
+rather than relying primarily on the results of the supervisory stress test to guide those 
+
+plans.  However, now that we all have several years’ experience with this system, firms 
+
+have told us that they would be able to engage in more thoughtful capital planning if they 
+
+                                                 
+2 Amendments to the Regulatory Capital, Capital Plan, and Stress Test Rules, 83 Fed. Reg. 18,160 (April 
+
+25, 2018), www.gpo.gov/fdsys/pkg/FR-2018-04-25/pdf/2018-08006.pdf. 
+

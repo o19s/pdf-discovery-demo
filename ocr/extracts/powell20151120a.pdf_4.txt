@@ -1,0 +1,44 @@
+
+3 
+ 
+
+publicly available information, and of the data available to the official sector for its 
+
+own monitoring of these markets.1 
+
+A number of participants also expressed interest in continuing to try out a 
+
+range of potential innovations to current market structures.  Presenters at the 
+
+academic sessions of the conference argued that the combination of a central limit 
+
+order book and high speed trading can lead to higher liquidity risk and a race for 
+
+speed.  In the current structure, customer trades occur mainly off of public markets, 
+
+except at times of market stress when dealers may be unable or unwilling to 
+
+internalize them.  That approach does not seem likely to provide good, stable 
+
+liquidity in changing market conditions.  One presenter at the conference outlined 
+
+his idea that high frequency “batch auctions” -- auctions held every millisecond or 
+
+so rather than trading continuously -- would increase market liquidity and limit the 
+
+race for speed.  There are several related ideas that have been proposed.  In fact, 
+
+trading platforms have already tried various innovations.  For example, EBS has 
+
+instituted latency floors and random batching lengths for messaging in its FX 
+
+trading platform.  I hope we will hear more about that today.     
+
+There may be other adaptations to the current market structure that could 
+
+provide greater or more stable liquidity.  A good way to find out if there are better 
+
+                                                           
+1 Joint Staff Report: The U.S. Treasury Market on October 15, 2014, http://www.treasury.gov/press-center/press-
+releases/Documents/Joint_Staff_Report_Treasury_10-15-2015.pdf 
+

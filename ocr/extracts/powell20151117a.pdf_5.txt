@@ -1,0 +1,42 @@
+
+4 
+ 
+
+But there is still plenty of work left to do.  CCPs are implementing the 
+
+PFMIs under the oversight of national regulators; clearing members have been 
+
+vocal commentators on this process.  To assure that the standards are consistently 
+
+implemented across jurisdictions and across FMIs, CPMI and IOSCO are 
+
+conducting joint reviews of the risk-management practices of a range of global 
+
+derivatives-clearing CCPs.  Working in conjunction with the Basel Committee on 
+
+Banking Supervision and the Financial Stability Board (FSB), they have also set 
+
+out a detailed work plan for further enhancing the resilience, recovery planning and 
+
+resolvability of CCPs.   
+
+Earlier this year, CPMI-IOSCO conducted surveys of more than 30 of the 
+
+most systemically important CCPs regarding their stress testing, margin, recovery 
+
+planning, and loss allocation frameworks.  The survey responses have now been 
+
+received and are being analyzed.  I expect that these exercises will result in more 
+
+granular guidance to CCPs covering a wide set of operational areas, further helping 
+
+to ensure consistency of implementation of the PFMIs and market infrastructure 
+
+resilience.    
+
+Further work on resolution is also necessary.  The FSB has conducted a 
+
+survey on CCP resolution regimes and resolution planning within its membership, 
+
+and found that many jurisdictions are still in the process of developing resolution 
+

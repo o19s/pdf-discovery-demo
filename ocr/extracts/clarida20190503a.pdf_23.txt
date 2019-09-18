@@ -1,0 +1,12 @@
+
+Figure 6.  Measures of Longer-Run Federal Funds Rate Expectations
+
+* Monthly average 5-to-10-year forward rate derived from prices of Treasury securities.
+** Monthly average 5-to-10-year forward rate adjusted for three alternative model-based term premium estimates using Kim and Wright (2005), 
+
+D’Amico, Kim, and Wei (2018), and Priebsch (2017).
+*** Most recent longer-run value is from the December 2018 Blue Chip survey.
+Source: Wolters Kluwer, Blue Chip Financial Forecasts; Federal Reserve Bank of New York, Survey of Primary Dealers and Survey of Market 
+
+Participants; Federal Reserve Board staff estimates.
+

@@ -1,0 +1,49 @@
+
+- 12 - 
+ 
+
+
+holding over $10 billion in assets, other than the LISCC banking organizations.  While it is 
+
+reasonable to adopt a macroprudential aim for all firms in this category, few of these banks have 
+
+the kind of systemic footprint that would warrant extensive special regulation for financial 
+
+stability purposes.  In establishing requirements for firm (though not supervisory) stress testing 
+
+and risk-management committees for all bank holding companies in this group, but mandating 
+
+that only bank holding companies of $50 billion or more be subject to enhanced prudential 
+
+standards, Congress has reflected a similar judgment.  The key question is whether $50 billion is 
+
+the right line to have drawn.   
+
+ Experience to date suggests to me, at least, that the line might better be drawn at a higher 
+
+asset level—$100 billion, perhaps.   Requirements such as resolution planning and the quite 
+
+elaborate requirements of our supervisory stress testing process do not seem to me to be 
+
+necessary for banks between $50 billion and $100 billion in assets.  If the line were redrawn at a 
+
+higher figure, we might explore simpler methods for promoting macroprudential aims with 
+
+respect to banks above $10 billion in assets but below the new threshold. 
+
+ Were such a change to be adopted, bank holding companies with less than $100 billion in 
+
+assets would not be subject to any of the enhanced prudential requirements of section 165 of 
+
+Dodd-Frank; bank holding companies with assets between $100 billion and $250 billion would 
+
+be subject to supervisory stress testing and a basic set of the section 165 requirements; and 
+
+holding companies with $250 billion or more in assets would be subject to the supplementary 
+
+leverage ratio, the full LCR, and the countercyclical capital buffer provision.  Of course, this is 
+
+not the only way to draw the lines, and there could be reasons for applying additional 
+
+requirements to specific banks, even if they fall below the presumptive asset threshold.  But I use 
+

@@ -1,0 +1,51 @@
+
+- 16 - 
+ 
+
+being provided over time by the Federal Reserve’s other policy tool, the past and projected 
+
+changes to the size and maturity of its securities holdings.21    
+
+Figure 11 shows that, by keeping the federal funds rate at its current level for longer, 
+
+monetary policy under the balanced-approach rule achieves a more rapid reduction of the 
+
+unemployment rate than monetary policy under the Taylor (1993) rule does, while nonetheless 
+
+keeping inflation near 2 percent.  But the improvement in labor market conditions is even more 
+
+notable under the optimal control path, even as inflation remains close to the FOMC’s long-run 
+
+inflation objective.  
+
+As I noted, simple rules have the advantage of delivering good policy outcomes across a 
+
+broad range of models, and are thereby relatively robust to our limited understanding of the 
+
+precise working of the economy--in contrast to optimal-control policies, whose prescriptions are 
+
+sensitive to the specification of the particular model used in the analysis.  However, simple rules 
+
+also have their shortcomings, leading them to significantly understate the case for keeping policy 
+
+persistently accommodative in current circumstances.   
+
+One of these shortcomings is that the rules do not adjust for the constraints that the zero 
+
+lower bound has placed on conventional monetary policy since late 2008.  A second is that they 
+
+do not fully take account of the protracted nature of the forces that have been restraining 
+
+aggregate demand in the aftermath of the housing bust.  As I’ve emphasized, the pace of the 
+
+current recovery has turned out to be persistently slower than most observers expected, and 
+
+forecasters expect it to remain quite moderate by historical standards.  The headwinds that 
+
+explain this disappointing performance represent a substantial departure from normal cyclical 
+
+                                                            
+21 Optimal control takes account of the stimulus provided by the balance sheet operations because it conditions on a 
+baseline forecast of real activity and inflation that (at least implicitly) incorporates the effects of the Federal 
+Reserve’s balance sheet operations on projected financial conditions, real activity, and inflation. 
+

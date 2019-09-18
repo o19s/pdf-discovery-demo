@@ -1,0 +1,54 @@
+
+- 5 - 
+ 
+
+
+There is a large body of evidence that suggests that LSAPs do in fact exert 
+
+significant pressure on long-term Treasury yields.3  Estimates of the cumulative effect of 
+
+past LSAPs on 10-year yields range from 80 to 120 basis points.4  And these past actions 
+
+are one reason why Treasury term premiums are now near historic lows, on the order of 
+
+minus 80 basis points, according to a well-known model used by the Board staff.5   
+
+A central theme of my talk today is this:  When policy works by moving term 
+
+premiums, as opposed to moving expectations about the path of short rates, the 
+
+transmission to the real economy may be altered in subtle yet important ways that can 
+
+have implications for the benefits of a policy action, its costs, and even its consequences 
+
+for financial stability.  Moreover, to address these issues, we need to understand not only 
+
+by how much an LSAP moves term premiums, but also why it does so.  It should be noted 
+
+that many standard macro models completely set aside the distinction I am emphasizing 
+
+here.  For example, in the Board staff’s main model, FRB/US, a fall in the long rate is 
+
+assumed to have the same effect on economic activity irrespective of whether this fall 
+
+comes from the term premium or from expectations of future short rates. 
+
+ For the sake of concreteness in what follows, let’s think in terms of a 
+
+hypothetical $500 billion LSAP, conducted entirely by buying longer-term Treasury 
+
+securities; later I will speak to the differences that arise when the program is carried out 
+
+with MBS purchases.  A reasonable estimate based on the literature would be that such a 
+
+program reduces the term premium, and thus the 10-year Treasury yield, by 15 to 
+
+20 basis points.  In my mind, this step is the least controversial piece of the transmission 
+
+                                                 
+3 Papers include Gagnon and others (2011), Krishnamurthy and Vissing-Jørgensen (2011), Swanson 
+(2011), Meaning and Zhu (2011), D’Amico and King (forthcoming), D’Amico and others (forthcoming), Li 
+and Wei (2012), and Wright (2011). 
+4 See Li and Wei (2012), Pandl (2012), and Meyer and Bomfim (2012). 
+5 The model is due to Kim and Wright (2005). 
+

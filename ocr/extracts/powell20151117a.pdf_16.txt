@@ -1,0 +1,21 @@
+
+Figure 1.  Bilateral and Centrally Cleared Networks 
+
+
+
+Bilaterally Cleared Network    Centrally Cleared Network  
+ 
+
+
+Note:  The figure on the left shows a bilateral network in the credit default swap (CDS) market for a single and highly traded CDS contract.  The figure on the right shows the 
+
+hypothetical network that would exist if the contract were cleared through a single central counterparty.  In each figure, a red circle denotes a protection seller and a blue one 
+
+denotes a protection buyer.  The size of the circle represents the amount of protection bought or sold.   
+
+Source:  Depository Trust & Clearing Corporation. 
+
+
+
+
+

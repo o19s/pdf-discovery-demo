@@ -1,0 +1,49 @@
+
+ - 2 - 
+
+Funding Ratio (NSFR).  The LCR is designed to improve a bank’s ability to withstand 
+
+severe short-term liquidity stress events by requiring banking firms to hold a buffer of 
+
+highly liquid assets to cover net cash outflows in a 30-day stress scenario.  The NSFR is 
+
+meant to promote resilience over a one-year horizon by requiring banks that hold less 
+
+liquid assets to fund their activities with more stable sources of funding.  
+
+As others have observed, the new Basel liquidity standards address financial 
+
+stability risks associated with excessive maturity transformation through at least two 
+
+channels.   
+
+First, the new standards insulate banks from liquidity shocks.  In the case of the 
+
+LCR, requiring firms to hold a buffer of highly liquid assets will help to ensure that they 
+
+have a means of generating liquidity in the event of creditor runs.  In the case of the 
+
+NSFR, requiring firms to use higher levels of stable funding for less liquid assets reduces 
+
+the vulnerabilities of a firm to structural maturity mismatches.  Banking firms that self-
+
+insure against liquidity risk in these ways are less likely to need government liquidity 
+
+support in times of stress. 
+
+Second, the new standards provide an incentive for firms to move to more stable 
+
+funding structures.  Under the LCR and NSFR, firms that engage in unstable forms of 
+
+maturity transformation will be required to maintain buffers of highly liquid assets and 
+
+use stable funding, both of which will impose costs for the firms.  Reducing the amount 
+
+of maturity transformation they engage in will help firms minimize these costs.  
+
+While the LCR and NSFR are important steps forward, they do not fully address 
+
+the financial stability concerns associated with short-term wholesale funding.  These 
+
+standards tend to focus on the liquidity positions of firms taken in isolation, rather than 
+

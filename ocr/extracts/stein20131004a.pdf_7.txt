@@ -1,0 +1,53 @@
+
+ - 6 - 
+
+borrow from a money fund in the triparty market.  In this case, the asset on the dealer’s 
+
+balance sheet is the repo loan it makes to the hedge fund. 
+
+Clearly, there is the potential for fire-sale risk in both of these examples. One 
+
+source of risk would be an initial shock either to the expected value of the underlying 
+
+collateral or to its volatility that leads to an increase in required repo-market haircuts 
+
+(e.g., the default probability of the corporate bond goes up).  Another source of risk 
+
+would be concerns about the creditworthiness of the broker-dealer firm that causes 
+
+lenders in the triparty market to step away from it. 
+
+In either case, if the associated externalities are deemed to create significant social 
+
+costs, the goal of regulatory policy should be to get private actors to internalize these 
+
+costs. At an abstract level, this means looking for a way to impose an appropriate 
+
+Pigouvian (i.e., corrective) tax on the transactions.7  Of course, the tax must balance the 
+
+social costs against the benefits that accompany SFTs; these benefits include both 
+
+“money-like” services from the increased stock of near-riskless private assets, as well as 
+
+enhanced liquidity in the market for the underlying collateral—the corporate bond 
+
+market, in my examples.8  So in the absence of further work on calibrating costs and 
+
+                                                 
+7 Of course, the Pigouvian taxation approach by itself cannot completely eliminate the ex post costs 
+associated with fire sales. This would require a broad and active lender-of-last resort function, which I do 
+not discuss here.  The best that any form of ex ante regulation can hope to do is to reduce the incidence and 
+magnitude of ex post fire-sales damage. 
+ 
+8 Further discussion on the money-like benefits that are created by near-riskless private assets such as repo 
+can be found in the following:  Arvind Krishnamurthy and Annette Vissing-Jorgensen (2012), “The 
+Aggregate Demand for Treasury Debt,” Journal of Political Economy, vol. 120, issue 2 (April), pp. 233–
+267, www.jstor.org/stable/10.1086/666526?origin=JSTOR-pdf; Gary B. Gorton and Andrew Metrick 
+(2012), “Securitized Banking and the Run on Repo,” Journal of Financial Economics, vol. 103, pp. 425–
+451; and Jeremy C. Stein (2012), “Monetary Policy as Financial-Stability Regulation,” Quarterly Journal 
+of Economics, vol. 127, pp. 57–95, http://intl-qje.oxfordjournals.org/content/127/1/57.full. 
+ 
+ 
+ 
+ 
+

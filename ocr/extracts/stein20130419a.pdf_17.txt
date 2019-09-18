@@ -1,0 +1,29 @@
+
+ - 16 -
+
+LOLR while at the same time allowing for a safety valve in a period of stress.  The limit 
+
+case of this approach is one where the CLF counts toward the LCR only in a crisis. 
+
+Conclusion 
+
+By way of conclusion, let me just restate that liquidity regulation has a key role to 
+
+play in improving financial stability.  However, we should avoid thinking about it in 
+
+isolation; rather, we can best understand it as part of a larger toolkit that also includes 
+
+capital regulation and, importantly, the central bank’s LOLR function.  Therefore, proper 
+
+design and implementation of liquidity regulations such as the LCR should take account 
+
+of these interdependencies.  In particular, policymakers should aim to strike a balance 
+
+between reducing reliance on the LOLR on the one hand and moderating the costs 
+
+created by liquidity shortages on the other hand--especially those shortages that crop up 
+
+in times of severe market strain.  And, as always, we should be prepared to learn from 
+
+experience as we go. 
+

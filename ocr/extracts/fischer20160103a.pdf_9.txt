@@ -1,0 +1,49 @@
+
+- 8 -
+
+short-term rates by a compensating amount.  This result could be accomplished, 
+
+for example, if the Treasury took steps to shorten the average maturity of 
+
+Treasury debt outstanding or, alternatively, if the Federal Reserve maintained 
+
+large holdings of long-term assets.
+
+Eliminating the ZLB Associated with Physical Currency:  While the European 
+
+experience suggests that interest rates can be pushed somewhat below zero, the 
+
+existence of physical currency likely still limits how deeply interest rates can be 
+
+pushed into negative territory.  That observation has led some to ask whether it 
+
+would it be possible for the financial system to operate effectively without 
+
+physical currency provided by the central bank.  This is a theoretical question that 
+
+has fascinated economists for decades and, with advances in technology, could 
+
+possibly have practical implications as well.  Indeed, the Scandinavian countries 
+
+have embraced the development of new payments technologies that seem to be 
+
+reducing the need for physical currency for transactions in those countries.13
+
+Nonetheless, a transition to a cashless economy in the United States seems very 
+
+far off; indeed, U.S. currency outstanding has been increasing relative to nominal 
+
+gross domestic product over recent decades, driven importantly by foreign 
+
+demands for U.S. bank notes.  Moreover, to eliminate the ZLB associated with 
+
+physical currency by going cashless, countries would need to transition to an 
+
+economy that did not require widespread use of physical currency, and central 
+
+banks in those countries would need to cease issuing physical currency on 
+
+demand (for example, in response to demands spurred by negative rates on so-
+
+13 See Alderman (2015).
+

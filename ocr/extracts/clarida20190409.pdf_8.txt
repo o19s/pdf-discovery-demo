@@ -1,0 +1,52 @@
+
+ - 7 - 
+
+policy today is not adjusted to offset past inflation shortfalls with future overshoots of the 
+
+inflation target (nor do persistent overshoots of inflation trigger policies that aim to 
+
+undershoot the inflation target).  Central banks are generally believed to have effective 
+
+tools for preventing persistent inflation overshoots, but the effective lower bound on 
+
+interest rates makes persistent undershoots more likely.  Persistent inflation shortfalls 
+
+carry the risk that longer-term inflation expectations become poorly anchored or become 
+
+anchored below the stated inflation goal.16 
+
+In part because of that concern, some economists have advocated “makeup” 
+
+strategies under which policymakers seek to undo, in part or in whole, past inflation 
+
+deviations from target.  Such strategies include targeting average inflation over a 
+
+multiyear period and price-level targeting, in which policymakers seek to stabilize the 
+
+price level around a constant growth path.17  These strategies could be implemented 
+
+either permanently or as a temporary response to extraordinary circumstances.  For 
+
+example, the central bank could commit, at the time when the policy rate reaches the 
+
+ELB, to maintain the policy rate at this level until inflation over the ELB period has, on 
+
+                                                 
+16 These risks could be exacerbated if households and businesses expect monetary policy to be 
+insufficiently accommodative because of proximity to the ELB.  For related discussions, see Reifschneider 
+and Williams (2000); Adam and Billi (2007); Nakov (2008); and Hills, Nakata, and Schmidt (2016). 
+17 Eggertsson and Woodford (2003) provide an early discussion of how optimal monetary policy at the ELB 
+entails a commitment to reflate the price level during the subsequent economic expansion.  Nessén and 
+Vestin (2005) discuss the relationship between average inflation targeting and price-level targeting.  There 
+is a dearth of empirical evidence on strategies seeking to make up for inflation deviations.  Central banks 
+that pursue an inflation goal generally seek to achieve a specific rate of inflation by some time horizon--
+typically a couple years ahead or over the “medium run”--without regard to past inflation deviations.  One 
+exception is the Reserve Bank of Australia, whose inflation goal is specified as a range of “2-3 per cent, on 
+average, over the medium term” and thus might embed some notion of history dependence.  However, 
+Ruge-Murcia (2014) argues that the drift in the price level in Australia is comparable with the drifts 
+observed in economies with purely forward-looking specification of the inflation goal.  The only known 
+historical example of price-level targeting occurred in Sweden from 1931 to 1933 when the country 
+abandoned the gold standard and attempted instead to maintain its price level.  The temporary adoption of 
+price-level targeting is credited with helping Sweden avoid deflation, an outcome that contrasted with that 
+in countries that stayed on the gold standard.  See Berg and Jonung (1999). 
+

@@ -1,0 +1,50 @@
+
+
+It is a pleasure to be at Brookings today for this forum on the industrial 
+
+organization (IO) of the financial industry.  As I have suggested previously, when one 
+
+considers the significance of issues concerning industry structure for the design of an 
+
+effective and efficient regulatory system to contain systemic risk, it is surprising that 
+
+relatively little research has been undertaken in this area, even in the aftermath of the 
+
+financial crisis.1   
+
+Of course, good empirical research takes time, and I welcome this opportunity to 
+
+contribute to a discussion of an agenda for research on industry structure.  I will begin by 
+
+briefly explaining why this agenda is both important and challenging.  Then I will 
+
+address one issue of particular significance--that of scale and scope economies, especially 
+
+as they relate to policy proposals directed at the too-big-to-fail (TBTF) problem in 
+
+financial markets. 
+
+The Promise and Challenge of an IO Research Agenda for the Financial Industry 
+
+The value of an IO research agenda for shaping a regulatory system to protect 
+
+financial stability lies both in ascertaining costs that may result from specific regulatory 
+
+measures and in revealing industry dynamics that may suggest how regulatory measures 
+
+may be more effective. 
+
+The importance of understanding the costs of various regulatory measures is self-
+
+evident.  As I will discuss shortly, IO can help determine the circumstances in which firm 
+
+size or industry concentration is associated with economies of scope and scale that carry 
+
+                                                 
+1 There is work at the Federal Reserve Board on some relevant topics.  See, for example, Li and Schüroff’s 
+(2012) working paper, which shows that about 30 large and highly interconnected “central dealers” provide 
+valuable forms of liquidity to hundreds of smaller periphery dealers while simultaneously offering more 
+immediate, but more expensive, execution to investors relative to those offered to periphery firms.  Dan Li 
+and Norman Schüroff (2012), “Dealer Networks,” Social Science Research Network Working Papers 
+Series, March 15, http://ssrn.com/abstract=2023201. 
+

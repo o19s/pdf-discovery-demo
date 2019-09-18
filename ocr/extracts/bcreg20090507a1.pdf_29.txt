@@ -1,0 +1,61 @@
+
+Supervisory Capital Assessment Program 
+
+Estimates for JPMorgan Chase & Co. for the More Adverse Economic Scenario 
+
+The estimates below represent a hypothetical ‘what-if’ scenario that involves an economic outcome that is more adverse 
+
+than expected. These estimates are not forecasts of expected losses or revenues. 
+
+JPMorgan Chase & Co. 
+
+At December 31, 2008 $ Billions As % of RWA 
+
+Tier 1 Capital 136.2 10.2% 
+
+Tier 1 Common Capital 87.0 6.5% 
+
+Risk-Weighted Assets 1,337.5 
+
+More Adverse Scenario 
+
+Estimated for 2009 and 2010 for the More Adverse Scenario $ Billions As % of Loans 
+
+Total Estimated Losses (Before purchase accounting adjustments) 97.4 
+
+First Lien Mortgages 18.8 10.2% 
+Second/Junior Lien Mortgages 20.1 13.9% 
+Commercial and Industrial Loans 10.3 6.8% 
+
+Commercial Real Estate Loans 3.7 5.5% 
+
+Credit Card Loans 21.2 22.4% 
+
+Securities (AFS and HTM) 1.2 -na-
+
+Trading & Counterparty 16.7 -na-
+
+Other (1) [see table footnote (1)] 5.3 -na-
+
+Memo: Purchase Accounting Adjustments 19.9 
+
+Resources Other Than Capital to Absorb Losses (2) [see table footnote (2)] 72.4 
+
+SCAP Buffer Added for More Adverse Scenario 
+(SCAP buffer is defined as additional Tier 1 Common/contingent Common) 
+
+$ Billions 
+
+Indicated SCAP Buffer as of December 31, 2008 No Need 
+
+Less: Capital Actions and Effects of Q1 2009 Results (3) [see table footnote (3)] 2.5 
+
+SCAP Buffer No Need 
+
+(1) Includes other consumer and non-consumer loans and miscellaneous commitments and obligations 
+
+(2) Resources to absorb losses include pre-provision net revenue less the change in the allowance for loan and lease losses 
+(3) Capital actions include completed or contracted transactions since Q4 2008 
+
+Note: Numbers may not sum due to rounding 
+

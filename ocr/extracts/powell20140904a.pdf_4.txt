@@ -1,0 +1,52 @@
+
+ - 3 - 
+
+integrity.  This problem is not just Wall Street’s concern; every household with a LIBOR-
+
+linked mortgage and every corporation with a LIBOR-linked loan has an interest in more 
+
+robust U.S. dollar reference rates. 
+
+The Basics 
+
+I will take a few moments to explain the basic mechanics of LIBOR for those who 
+
+have not spent time on an interest rate swap desk.  For almost three decades, LIBOR was 
+
+run by the British Bankers’ Association.  Just a few months ago, a private corporation 
+
+called ICE Benchmark Administration (IBA) took over the daily production and 
+
+administration of the rate subject to the regulation and supervision of the FCA.  Today, 
+
+18 banks participate in the panel that contributes to the production of U.S. dollar LIBOR.  
+
+Each morning at 11 a.m. London time, those banks estimate the rate at which they could 
+
+borrow at several different maturities ranging from overnight up to a year, and they send 
+
+those estimates to IBA.  It is often the case that banks have recent transactions at some 
+
+but not all of these maturities.  Where there are no transactions, they submit estimates of 
+
+their borrowing costs based on their judgment.  In addition to U.S. dollar LIBOR, the rate 
+
+is produced in four other currencies--the euro, the yen, the British pound, and the Swiss 
+
+franc--although not all banks contribute rates in all currencies.  The administrator 
+
+provides specific instructions to the panel banks regarding their submissions; currently, 
+
+these instructions direct banks to reflect the perceived rate at which they could borrow 
+
+from another bank.7  The administrator collects these submissions and, after dropping the 
+
+highest and lowest quartiles at each maturity, publishes an average of the remaining 
+
+submissions as the U.S. dollar LIBOR rate for that day. 
+
+                                                 
+7 The actual question asks banks only about transactions of “reasonable market size.”  This size is not 
+
+defined and is left to banks’ judgment. 
+

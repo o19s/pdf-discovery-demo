@@ -1,0 +1,76 @@
+
+  0
+
+100
+
+200
+
+300
+
+400
+
+500
+
+600
+
+700
+
+800
+Billions of dollars
+
+1998 2000 2002 2004 2006 2008 2010 2011
+
+  Institutional
+  Bank
+
+Annual rate
+
+By lender type
+
+H1
+
+H2
+
+Q1
+
+Source: Thomson Reuters LPC -- LoanConnector.
+
+  0
+
+100
+
+200
+
+300
+
+400
+
+500
+
+600
+
+700
+
+800
+Billions of dollars
+
+1998 2000 2002 2004 2006 2008  2010 2011
+
+  New money
+  Refinancings
+
+Annual rate
+
+By use
+
+H1
+
+H2
+
+Q1
+
+Source: Thomson Reuters LPC -- LoanConnector.
+
+Figure 3
+Syndicated Leveraged Loan Market
+

@@ -1,0 +1,56 @@
+
+
+I am delighted to have the opportunity to discuss the paper “Market Tantrums and 
+
+Monetary Policy.”  It is timely, provocative, and extremely insightful.  Let me start by 
+
+summarizing what I take to be the paper’s main messages.
+1
+  First, the authors argue that 
+
+policymakers should pay careful attention not just to measures of leverage in the banking 
+
+and shadow banking sectors, but also to the financial stability risks that might arise from 
+
+the behavior of unlevered asset managers, such as those running various types of bond 
+
+funds.  Notably, assets under management in fixed-income funds have grown 
+
+dramatically in the years since the onset of the financial crisis, even while various 
+
+measures of financial-sector leverage have either continued to decline or remained 
+
+subdued. 
+
+Second, the authors develop a model of agency problems in delegated asset 
+
+management, according to which an environment of low short-term rates can encourage 
+
+asset managers concerned with their relative performance rankings to “reach for yield,” 
+
+which in turn acts to compress risk premiums.  Moreover, the model has the feature that 
+
+this reach for yield can end badly, with a sudden and sharp correction in risk premiums 
+
+that arises endogenously in response to a small tightening of monetary policy.  The 
+
+events of the spring and summer of 2013, when there was a rapid rise in bond market 
+
+term premiums, are cited as a leading example of what the model sets out to capture. 
+
+Third, the authors assert that the conventional regulatory toolkit, which is largely 
+
+designed to contain intermediary leverage, is not well suited to dealing with the asset-
+
+management sector.  Given this limitation of regulation, and because monetary policy has 
+
+a direct influence on the behavior of asset managers, the financial stability risks that these 
+
+                                                 
+1
+ The views expressed here are my own and are not necessarily shared by other members of the Federal 
+
+Reserve Board and the Federal Open Market Committee.  I am grateful to Nellie Liang for helpful 
+
+conversations. 
+

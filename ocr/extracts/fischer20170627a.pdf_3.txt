@@ -1,0 +1,48 @@
+
+ - 2 - 
+
+we fail to understand the situation in which we find the financial system and the 
+
+economy. 
+
+Framework for Monitoring Financial Stability  
+
+Participants in today’s workshops have grappled with the question of what is the 
+
+best framework to monitor financial stability.  One approach is to focus on trends in, and 
+
+interactions among, financial vulnerabilities across financial institutions, markets, and 
+
+instruments.  Another approach is to track the resilience of institutions, either broad 
+
+categories or individual systemically important institutions.  Good monitoring 
+
+frameworks combine elements of both.  
+
+Let me start with the vulnerabilities-focused approach, as developed by Tobias 
+
+Adrian, Daniel Covitz, and Nellie Liang.2  That approach defines financial vulnerabilities 
+
+as a collection of factors that may amplify financial shocks and, when elevated, have the 
+
+potential to generate systemic risk.  The focus is on vulnerabilities rather than shocks, 
+
+because the timing of shocks, such as sudden drops in asset prices, are inherently hard to 
+
+predict. Vulnerabilities, in contrast, tend to build up over time, and policies can be 
+
+designed to help contain these vulnerabilities, reducing the likelihood of systemic events.  
+
+Some financial vulnerabilities are cyclical in nature, rising and falling over time, 
+
+while others are structural, stemming from longer-term forces shaping the nature of credit 
+
+intermediation.  Informed by academic research, some of it in-house, we at the Federal 
+
+Reserve focus on four broad cyclical vulnerabilities:  (1) financial-sector leverage, (2) 
+
+nonfinancial-sector borrowing, (3) liquidity and maturity transformation, and (4) asset 
+
+                                                 
+2 See Adrian, Covitz, and Liang (2015). 
+

@@ -1,0 +1,54 @@
+
+
+ 13
+
+market indicators.  For example, the agencies could assign risk weights based on one or 
+more ratios such as funding (for example, core deposits to total liabilities) and/or credit 
+quality (for example, non-performing items to total assets).  This method also could be 
+supplemented for banks with publicly traded securities with market-based information 
+such as a banking organization’s unsecured bond spreads over comparable Treasury 
+securities.   
+
+Question 5: What are the advantages and disadvantages of these alternative 
+methods for calculating risk-based capital requirements for bank exposures?   How can 
+the agencies ensure consistent and transparent implementation?  Which financial and 
+market indicators should the agencies consider?  What are the implications or potential 
+for unintended consequences?  Are there other methods for assessing risk-based capital 
+for bank exposures in a relatively risk sensitive manner that would meet the principles 
+described in section III?  Commenters are asked to provide quantitative as well as 
+qualitative support and/or analysis for proposed alternative methods.   
+
+iv. Corporate Exposures 
+
+Under the agencies’ general risk-based capital rules, corporate exposures 
+generally26 receive a risk weight of 100 percent,27 whereas under the Basel standardized 
+approach, banking organizations would be allowed to use credit ratings to assign risk 
+weights to corporate exposures.28  The current market risk rule and the Basel modified 
+market risk framework also use credit ratings for corporate exposures.    
+
+One option for risk weighting corporate exposures would be to continue to use the 
+treatment provided in the general risk-based capital rules and require banking 
+organizations to risk weight all corporate exposures at 100 percent.  Another method 
+would be to differentiate the credit risk of corporate exposures based on financial and 
+economic measures appropriate to the borrower.  For example, the agencies could allow 
+banking organizations to assign risk weights based on balance sheet or cash flow ratios, 
+such as current assets to current liabilities, debt to equity, or some form of debt service to 
+cash flow ratio (for example, current interest and maturities to current cash flow from 
+operations).  Alternatively, some corporate exposures for publicly traded firms could be 
+risk weighted on the basis of market-based measures, such as credit spreads, equity-price 
+implied default probability, and measures of capital adequacy and liquidity.   
+
+Finally, the agencies could allow banking organizations to assign risk weights 
+based upon a more flexible set of objective criteria that the agencies would establish by 
+rule.  As a part of their process for making credit-worthiness determinations and 
+assigning risk weights, banking organizations would be allowed to consider external data, 
+including credit analyses (but not credit ratings) provided by third parties, that met 
+standards established by the agencies. 
+
+                                                 
+26 Certain claims on, or claims guaranteed by, qualifying securities firms may receive a 20 percent risk 
+weight. 
+27 12 CFR parts 208 and 225, Appendix A, § III.C (Board) ; 12 CFR part 325, Appendix A, § II.C (FDIC); 
+12 CFR 567.6(a)(1)(iv) (OTS). 
+28 Basel Accord, paragraphs 66-68. 
+

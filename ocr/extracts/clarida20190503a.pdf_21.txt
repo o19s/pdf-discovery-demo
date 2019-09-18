@@ -1,0 +1,9 @@
+
+Figure 4.  Market-Implied Probability Distribution of the Federal Funds
+Rate for Year-End 2019
+
+Percentage Range
+
+Note: Estimated from federal funds futures options (not adjusted for risk premiums).  Probabilities are zero for values above 2.75 percent.
+Source: CME Group; Federal Reserve staff estimates.
+

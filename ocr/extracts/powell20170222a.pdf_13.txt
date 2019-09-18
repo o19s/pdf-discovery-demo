@@ -1,0 +1,51 @@
+
+ - 12 - 
+
+Figure 7 shows the prescriptions of three simple policy rules since 2000.22  While 
+
+the rules often diverged, all of them called for a substantial reduction in the federal funds 
+
+rate around the time of the financial crisis, and all of them prescribed easing well below 
+
+the effective lower bound (ELB).23  Faced with the impossibility of providing more 
+
+accommodation at the ELB through deeply negative policy rates, the Committee turned 
+
+instead to two unconventional monetary policy tools--large-scale securities purchases and 
+
+forward guidance. 
+
+Figure 8 shows the Taylor (1993) rule for different values of r* layered over the 
+
+“dots” from the December 2016 SEP, with a black horizontal line at the median value for 
+
+each year.24  The red solid line shows the rule prescriptions when the intercept is set 
+
+equal to 2 percent, as in Taylor’s original formulation.  If we replace that intercept with 
+
+the median of the longer-run r* from the December 2016 SEP, which is 1 percent (the 
+
+blue dashed line), we see that the rule prescribes policy interest rates lower than the 
+
+unadjusted rule.  However, many observers believe that the neutral real interest rate is 
+
+currently well below its longer-run value.  The language that has appeared in the 
+
+Committee’s postmeeting statement since December 2015 that “the federal funds rate is 
+
+likely to remain, for some time, below levels that are expected to prevail in the longer 
+
+                                                 
+22 These are static simulations and do not incorporate feedback from the policy rule to real activity or 
+inflation. 
+23 Ben Bernanke finds that a “balanced approach” rule estimated using real-time data closely tracks the 
+federal funds rate from 1996 through 2008.  See Ben S. Bernanke (2015), “The Taylor Rule:  A Benchmark 
+for Monetary Policy?” Ben Bernanke’s Blog, April 28, https://www.brookings.edu/blog/ben-
+bernanke/2015/04/28/the-taylor-rule-a-benchmark-for-monetary-policy. 
+24 Figure 2 of the SEP provides each individual FOMC participant’s assessment of “appropriate monetary 
+policy” in the form of a dot plot.  “Appropriate monetary policy” is defined as the future path of policy that 
+each participant deems most likely to foster outcomes for economic activity and inflation that best satisfy 
+his or her individual interpretation of the Federal Reserve’s objectives of maximum employment and price 
+stability.  The policy prescriptions are derived using the median projections for core PCE price inflation, 
+the unemployment rate, and the longer-run normal unemployment rate from the December 2016 SEP. 
+

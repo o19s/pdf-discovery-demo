@@ -1,0 +1,51 @@
+
+
+I would like to talk today about how one might explicitly incorporate financial 
+
+stability considerations into a monetary policy framework.1  Doing so involves tackling 
+
+two questions--one that is relatively easy and one that is much harder.  The easier 
+
+question is, should financial stability concerns, in principle, influence monetary policy 
+
+decisions?  To be specific, are there cases in which one might tolerate a larger forecast 
+
+shortfall of the path of the unemployment rate from its full-employment level than one 
+
+would otherwise, because of a concern that a more accommodative policy might entail a 
+
+heightened risk of some sort of adverse financial market outcome?  This question is about 
+
+theory, not empirical magnitudes, and, in my view, the theoretical answer is a clear “yes.”  
+
+I will say a bit more about why shortly, but let me stress that I am not breaking any new 
+
+conceptual ground here; the basic argument has been laid out by a number of others, 
+
+including Woodford and Kocherlakota.2  
+
+The second question is, how does one operationalize the theory?  What sorts of 
+
+data should one look to, and what sorts of empirical methods should one use, to calibrate 
+
+by how much the stance of monetary policy should be altered relative to the case in which 
+
+financial stability considerations are completely set aside?  This question is very difficult.  
+
+In the interests of advancing the conversation, I will venture some tentative thoughts on 
+
+one possible approach, which is somewhat different than what I have seen in other recent 
+
+work on this topic.  While I hope to convince you that this path is worth exploring, I 
+
+cannot say that I know yet exactly where it will lead--and, in particular, whether it will 
+
+ultimately deliver monetary policy prescriptions that differ in a quantitatively meaningful 
+
+                                                 
+1 The views expressed here are my own and are not necessarily shared by other members of the Federal 
+Reserve Board and the Federal Open Market Committee.  I am grateful to David Lopez-Salido and Egon 
+Zakrajsek for a number of helpful conversations and for carrying out the empirical work reported here.  
+Thanks also to William English and Jon Faust for their comments. 
+2 See Woodford (2012) and Kocherlakota (2013, 2014). 
+

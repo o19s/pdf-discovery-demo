@@ -1,0 +1,60 @@
+
+- 2 - 
+ 
+
+generally.  And a few prescient observers had for many years called for a complementary, 
+
+―macroprudential‖ approach to financial regulation that considers the effects of the financial 
+
+condition of, and actions taken by, individual actors on the financial system as a whole.
+1
+  But 
+
+these were far from being dominant features of pre-crisis regulation. 
+
+Since the crisis, both academic work and regulatory reform have given a much more 
+
+prominent place to macroprudential regulation.  The Dodd-Frank Wall Street Reform and 
+
+Consumer Protection Act (Dodd-Frank Act) introduced a variety of new policy levers, including 
+
+capital surcharges, resolution plan requirements, consideration of systemic risk effects in 
+
+reviewing and ruling on applications for mergers among financial firms, and even the ability to 
+
+require the reduction in size or scope of large financial conglomerates.   
+
+At a conceptual level, effective implementation of these policy tools requires that we 
+
+incorporate systemic risk into the normative framework of what constitutes a socially efficient 
+
+outcome.  The goal of macroprudential regulation is to require firms to internalize the 
+
+externalities they impose on the stability of the financial system as a whole.  Thus, we need a 
+
+way to incorporate systemic externalities into the models of firm and investor behavior that 
+
+inform regulatory and supervisory policies.  At the same time, we have to evaluate the costs 
+
+associated with systemic events, which by their nature are relatively rare, in light of the basic 
+
+goals of promoting productive efficiency, access to credit, and financial innovation. 
+
+Here--in filling out this analytic framework--is where the perspectives, questions, and 
+
+conclusions of IO literature may usefully be applied.  Many financial markets are far from 
+
+perfectly competitive.  Instead, they are characterized by large firms with significant market 
+
+                                                           
+1
+ In 1979, the Bank of England published a report  in which it defined macroprudential regulation as an approach 
+
+concerned with ―problems that bear upon the market as a whole as distinct from an individual bank, and which may 
+
+not be obvious at the micro-prudential level.‖ See ―The Use of Prudential Measures in the International Banking 
+
+Markets,‖ October 24, 1979, pp. 1–2, in BISA 7.18(15)—Papers Lamfalussy, LAM25/F67.  See also BIS Quarterly 
+
+Review, March 2010, pp. 59–67 for more on the early use of the term ―macroprudential.‖ 
+

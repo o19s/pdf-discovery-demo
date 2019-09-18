@@ -1,0 +1,49 @@
+
+ - 5 - 
+
+Yet, as the Irish experience suggests, housing finance systems are vulnerable even 
+
+if they do not rely on securitization.  Although securitization in Ireland amounted to only 
+
+about 10 percent of outstanding mortgages in 2007, lax lending standards and light 
+
+regulatory oversight contributed to the housing boom and bust in Ireland.15  
+
+Macroprudential Policies  
+
+To summarize, murky government guarantees, lax lending terms, and 
+
+securitization were some of the key factors that made the housing crisis so severe.  Since 
+
+then, to damp the house price-credit cycle that can lead to a housing crisis, countries 
+
+worldwide have worked to create or expand existing macroprudential policies that would, 
+
+in principle, limit credit growth and the rate of house price appreciation.16  
+
+Most macroprudential policies focus on borrowers.  Loan-to-value (LTV) and 
+
+debt-to-income (DTI) ratio limits aim to prevent borrowers from taking on excessive 
+
+debt.  The limits can also be adjusted in response to conditions in housing markets; for 
+
+example, the Financial Policy Committee of the Bank of England has the authority to 
+
+tighten LTV or DTI limits when threats to financial stability emerge from the U.K. 
+
+housing market.  Stricter LTV or DTI limits find some measure of success.  One study 
+
+conducted across 119 countries from 2000 to 2013 suggests that lower LTV limits lead to 
+
+slower credit growth.17  In addition, evidence from a range of studies suggests that 
+
+decreases in the LTV ratio lead to a slowing of the rate of house price appreciation.18  
+
+                                                 
+15 See Task Force of the Monetary Policy Committee of the European System of Central Banks (2009) and 
+Connor, Flavin, and O’Kelly (2012). 
+16 See Akinci and Olmstead-Rumsey (forthcoming). 
+17 See Cerutti, Claessens, and Laeven (2017). 
+18 See Crowe and others (2011); Duca, Muellbauer, and Murphy (2012); and Glaeser, Gottlieb, and 
+Gyourko (2010). 
+

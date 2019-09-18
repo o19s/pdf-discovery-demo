@@ -1,0 +1,52 @@
+
+
+- 3 - 
+
+nonfinancial firms.  This characteristic often means that leverage is higher.  It almost always 
+
+means that a large portion of the liability side of the balance sheet is accounted for by such 
+
+customers, who are not well-positioned to evaluate the soundness of these intermediaries’ often-
+
+opaque balance sheets.   
+
+Consider the case of a very traditional life insurance company, which collects premiums 
+
+from customers over a protracted period of time, while promising a payout to beneficiaries if the 
+
+insured dies within the coverage period.  The duration of the exposure, difficulties in evaluating 
+
+the company’s ability to pay, and the potentially high costs of changing coverage to another firm 
+
+even if that evaluation can be done together provide a rationale for insurance company capital 
+
+requirements.  Here the motivation for capital regulation is likely oriented toward the capacity of 
+
+the company to meet these long-term claims as they come due, presumably over a fairly 
+
+extended span.  Investors and counterparties from the financial sector might well be left to fend 
+
+for themselves.  Thus this rationale for capital regulation focuses only on assuring sufficient 
+
+assets over time to satisfy the policyholders’ claims should the company fail, with less attention 
+
+to maintaining the company as a going concern. 
+
+ A second example of how the liability side of an intermediary’s balance sheet suggests 
+
+the appropriate form of capital regulation is presented by the familiar problem of deposit runs on 
+
+banks.  Like a policyholder, a depositor has difficulty gauging the health of the financial 
+
+intermediary.  But unlike a life insurance policyholder, a depositor can withdraw all or most of 
+
+her funds if she has any fear--even an ill-founded fear--that the bank may be in trouble.  Indeed, 
+
+depositors have a rational incentive to act quickly, since the first to withdraw will have the best 
+
+chance of getting all their money back.  Experience with bank runs, and with the more-damaging 
+
+                                                 
+They also disproportionately arise from financial transactions – such as accepting deposits or investments – rather 
+than for performance of services or delivery of goods.  
+

@@ -1,0 +1,51 @@
+
+- 7 - 
+ 
+
+
+sheet that would be available to a resolution authority for loss absorption or conversion to equity.  
+
+A good starting point will be the idea of using long-term unsecured debt, with appropriately 
+
+tailored characteristics, as a gone-concern complement to going-concern common equity 
+
+requirements.  
+
+ A fifth reform is a proposed set of quantitative liquidity requirements.  As seen during the 
+
+crisis, a financial firm--particularly one with significant amounts of short-term funding--can 
+
+become illiquid before it becomes insolvent, as creditors run in the face of uncertainty about the 
+
+firm's solvency.  While higher levels and quality of capital can mitigate some of this risk, it was 
+
+widely agreed that quantitative liquidity requirements should be developed.  The Basel 
+
+Committee generated two proposals: one, the Liquidity Coverage Ratio (LCR) with a 30-day 
+
+timeframe; the other, the Net Stable Funding Ratio (NSFR) with a one-year timeframe.  
+
+However, insofar as this was the first-ever effort to specify such requirements, the Governors and 
+
+Heads of Supervision of the countries represented on the Basel Committee determined that 
+
+implementation of both frameworks should be delayed while they are subject to further 
+
+examination and possible revision.   
+
+ The LCR has been actively reconsidered within the Basel Committee over the last year or 
+
+so.  As this work proceeds, I think we should be considering three types of additional changes:  
+
+First, some of the assumptions embedded in the LCR about run rates of liabilities and the 
+
+liquidity of assets might be grounded more firmly in actual experience during the crisis.  The 
+
+current LCR seems to me to overstate in particular the liquidity risks of commercial banking 
+
+activities.  Second, it would be worthwhile to pay more attention to the liquidity risks inherent in 
+
+the use of large amounts of short-term wholesale funding.  Third, the LCR should be better 
+
+adapted to a crisis environment as, for example, by making credibly clear that ordinary minimum 
+

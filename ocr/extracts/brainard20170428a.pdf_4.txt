@@ -1,0 +1,49 @@
+
+- 3 - 
+
+Risks and Opportunities in an Increasingly Interconnected World 
+
+There is every reason to expect financial services to make a similar transition to an 
+
+increasingly interconnected digital world.  By now, we’ve all heard estimates of the thousands of 
+
+fintech companies that have launched in the past few years and the billions of investment dollars 
+
+that are flooding into this sector.7  But for all of the talk of “disruption,” I want to underscore an 
+
+important point:  More often than not, there is a banking organization somewhere in the fintech 
+
+stack.  Just as third-party app developers rely on smartphone sensors, processors, and interfaces, 
+
+fintech developers need banks somewhere in the stack for such things as: (a) access to consumer 
+
+deposits or related account data, (b) access to payment systems, (c) credit origination, or 
+
+(d) compliance management.8  For instance, account comparison services rely on access to data 
+
+from consumers’ bank accounts.  Savings and investment apps analyze transactions data from 
+
+bank accounts to understand how to optimize performance and manage the funds consumers hold 
+
+in those accounts.  Digital wallets draw funds from payment cards or bank accounts.  
+
+Marketplace loans most often depend on loan origination by a bank partner.  And payment 
+
+innovations often “settle up” over legacy payment rails, like the automated clearinghouse 
+
+                                                           
+7 In 2015 KPMG estimated that global investment in fintech had risen six-fold in the prior three years. KPMG, 
+“‘Fintech 100’--Announcing the World’s Leading Fintech Innovators for 2015,” December 2015, 
+https://home.kpmg.com/xx/en/home/media/press-releases/2015/12/fintech-announcing-the-world-leading.html.  In 
+the lending sector alone, Goldman Sachs estimates that $11 billion of annual profit is at risk of leaving the banking 
+system.  Ryan M. Nash and Eric Beardsley, The Future of Finance Part 1: The Rise of the New Shadow Bank (New 
+York: Goldman Sachs, March 3, 2015), www.betandbetter.com/photos_forum/1425585417.pdf.  McKinsey & 
+Company estimates that there are over 2,000 fintech startups, which have attracted nearly $23 billion of venture 
+capital and growth equity over the past five years. See Miklos Dietz, Somesh Khanna, Tunde Olanrewaju, and 
+Kausik Rajgopal, “Cutting Through the Noise around Financial Technology,” McKinsey & Company, February, 
+2016, www.mckinsey.com/industries/financial-services/our-insights/cutting-through-the-noise-around-financial-
+technology.   
+8 See Miklos Dietz, Somesh Khanna, Tunde Olanrewaju, and Kausik Rajgopal, “Cutting Through the Noise around 
+Financial Technology,” McKinsey & Company, February, 2016, www.mckinsey.com/industries/financial-
+services/our-insights/cutting-through-the-noise-around-financial-technology. 
+

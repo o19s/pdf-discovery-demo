@@ -1,0 +1,50 @@
+
+‐9‐ 
+ 
+
+inclined than that of the firms.  Second, Federal Reserve modeling generally avoids the 
+
+assumption that loss experience during a period of high stress can be extrapolated from 
+
+experience in more normal times, whereas at least some firm modeling uses roll rates and other 
+
+such extrapolations that may not be as useful for measuring losses in tail events.  A third, and 
+
+related point, is that for some loan types the Federal Reserve model incorporates nonlinear 
+
+effects of the macroeconomic scenario.  For example, a 20 percent decline in national house 
+
+prices would mean that prices would decline substantially more in some markets and less in 
+
+others, and losses in areas where house prices decline more would be disproportionately greater 
+
+than losses in areas where house prices decline by less.  The result would be higher overall losses 
+
+than if prices had declined by a uniform 20 percent everywhere.  Fourth, supervisors had the 
+
+advantage of seeing the modeling practices of all 19 of the firms and were able in some instances 
+
+to identify outliers in terms of assumptions and practices. 
+
+Our disclosures -- both of our methodology and of the results -- seem to have struck 
+
+about the right balance between providing useful information to investors, counterparties, and the 
+
+public, on the one hand, and protecting proprietary information whose release might result in   
+
+competitive harm to firms, on the other.  However, as with all aspects of the stress test and 
+
+CCAR, we welcome any suggestions for improvement here as well.  
+
+As to procedure, we have already decided on several changes for next year.  First, the 
+
+timing of the CCAR will change, so that the decisions on objection or non-objection will apply 
+
+to capital actions beginning in the second quarter of 2013.  That is a shift from the first two 
+
+CCARs, in which the supervisory responses covered first quarter capital plans, but those 
+
+responses were not delivered until late in that quarter.  Second, now that the regulatory reporting 
+
+mechanisms for data collection are in place, we will be able to begin the analysis earlier, thereby 
+

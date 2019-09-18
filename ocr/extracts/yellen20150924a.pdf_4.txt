@@ -1,0 +1,49 @@
+
+ - 3 - 
+
+there was no stable “anchor” to which inflation could be expected to eventually return--a 
+
+conclusion generally supported by other procedures for estimating trend inflation.   
+
+Today many economists believe that these features of inflation in the late 1960s 
+
+and 1970s--its high level and lack of a stable anchor--reflected a combination of factors, 
+
+including chronically overheated labor and product markets, the effects of the energy and 
+
+food price shocks, and the emergence of an “inflationary psychology” whereby a rise in 
+
+actual inflation led people to revise up their expectations for future inflation.  Together, 
+
+these various factors caused inflation--actual and expected--to ratchet higher over time.  
+
+Ultimately, however, monetary policy bears responsibility for the broad contour of what 
+
+happened to actual and expected inflation during this period because the Federal Reserve 
+
+was insufficiently focused on returning inflation to a predictable, low level following the 
+
+shocks to food and energy prices and other disturbances.  
+
+In late 1979, the Federal Reserve began significantly tightening monetary policy 
+
+to reduce inflation.  In response to this tightening, which precipitated a severe economic 
+
+downturn in the early 1980s, overall inflation moved persistently lower, averaging less 
+
+than 4 percent from 1983 to 1990.  Inflation came down further following the 1990-91 
+
+recession and subsequent slow recovery and then averaged about 2 percent for many 
+
+years.  Since the recession ended in 2009, however, the United States has experienced 
+
+inflation running appreciably below the FOMC’s 2 percent objective, in part reflecting 
+
+the gradual pace of the subsequent economic recovery.  
+
+Examining the behavior of inflation’s estimated long-term trend reveals another 
+
+important change in inflation dynamics.  With the caveat that these results are based on a 
+
+specific implementation of a particular statistical model, they imply that since the mid-
+

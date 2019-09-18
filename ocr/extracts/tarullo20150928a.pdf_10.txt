@@ -1,0 +1,53 @@
+
+
+- 9 - 
+
+liquidity concerns.  Conceptually, the cleanest approach might be to integrate capital and 
+
+liquidity requirements in a single regulatory framework, which would establish minimum levels 
+
+of capital and liquidity and then increase the capital requirement for intermediaries with more 
+
+vulnerable funding structures.  Higher capital levels would be especially warranted for 
+
+intermediaries using large enough amounts of short-term debt that their response when funding 
+
+liquidity is constrained--either selling assets or withholding funding from their own customers--
+
+could adversely affect the financial system as a whole.   
+
+Realistically, though, the goal of full integration of capital and liquidity regulation seems 
+
+unattainable for the foreseeable future.  For one thing, it is hard to imagine all the relevant 
+
+banking, market, and insurance regulators converging on such a novel approach anytime soon.  
+
+In addition, though, without a more complete understanding of the precise relationship between 
+
+liquidity and capital needs, placing so much weight on one form of regulation would be ill-
+
+advised.  For the present, then, the Basel regime will maintain separate capital and liquidity 
+
+regulations, which may differ among types of financial intermediaries.5  But we can at least 
+
+strive to establish each set of regulations with reference to the other and to attain at least a rough 
+
+consistency across regulatory regimes applicable to various intermediaries. 
+
+In the United States, we have already taken one step in this direction.  As you may know, 
+
+in implementing the Basel G-SIB capital surcharge, we decided that surcharges somewhat higher 
+
+than those finally agreed in Basel were appropriate.  As we refashioned the Basel approach, we 
+
+added a metric on short-term wholesale funding dependence to the formula for determining a 
+
+                                                 
+5 It is worth noting that the net capital rule for broker-dealers maintained by the U.S. Securities and Exchange 
+Commission is a form of hybrid capital and liquidity regulation.  However, it seems basically oriented to protecting 
+customers, a bit like traditional regulation of life insurance companies, and was not developed with going concern or 
+systemic implications in mind.  It does not, for instance, place higher requirements on firms with heavy reliance on 
+short-term wholesale funding, though it does penalize firms that hold large amounts of illiquid assets.  In many 
+respects the rule seems well-suited to smaller broker-dealers but, for reasons explained earlier, it does not seem 
+optimal for the large broker-dealers in large bank holding companies. 
+

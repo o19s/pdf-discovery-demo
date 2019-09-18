@@ -1,0 +1,53 @@
+
+ - 6 -
+
+Although existing empirical work is again scant, one often hears the suggestion that 
+
+complexity and agency problems may lead to diseconomies for financial firms under 
+
+certain circumstances, a proposition that should be considered alongside the hypotheses 
+
+for positive scale and scope effects.6 
+
+The second point is that the size and composition of a financial firm’s balance 
+
+sheet play a complicated role in producing economies of scope and scale.  To be sure, a 
+
+large trading book or custody business might produce social benefits by allowing a bank 
+
+to match or clear both sides of transactions at lower cost.  And large balance sheets would 
+
+appear to enable banks to diversify or hedge their positions and to access a variety of 
+
+funding sources, thereby reducing their cost of capital.  But conventional IO-type 
+
+analysis, which would tend to interpret lower funding costs as evidence of scale 
+
+economies, is potentially misleading.   
+
+Consider, in this regard, my observation of a moment ago that a large balance 
+
+sheet may reduce a bank’s cost of capital.  If lower funding costs do result from the 
+
+diversification of risks and funding sources made possible by a large balance sheet, they 
+
+would indeed suggest the existence of scale economies.  But they may also result from 
+
+the belief of some counterparties that a firm with a very large balance sheet is TBTF, and 
+
+thus at least some liabilities of that firm will be backed by the government in a time of 
+
+financial stress.  In this instance, lower funding costs actually suggest a market failure 
+
+                                                 
+6 There is some research that could provide useful starting points for more focused IO work.  For example, 
+a 2010 paper by Klein and Saidenberg finds a discount on profitability and market value for more complex 
+banks.  Because the authors control for bank size, the paper does not squarely address scale and scope 
+issues, but it pursues the kinds of questions that could usefully be asked in that context.  Peter G. Klein and 
+Marc R. Saidenberg (2010), “Organizational Structure and the Diversification Discount:  Evidence from 
+Commercial Banking,” Journal of Industrial Economics, vol. 58 (March), pp. 127-55. 
+  “Agency problems” refers in this context to divergences in the incentives of management and 
+shareholders that create possibilities for management to make decisions in their own, rather than 
+shareholders’, interests, as well as for potentially expensive monitoring mechanisms for shareholders 
+seeking to limit agency costs. 
+

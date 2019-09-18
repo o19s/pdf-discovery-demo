@@ -1,0 +1,67 @@
+
+ - 9 - 
+
+With respect to the too-big-to-fail problem, as I noted earlier, actual capital levels 
+
+are substantially higher than before the crisis, and requirements to extend and maintain 
+
+higher levels of capital are on the way.  The regularization and refinement of rigorous 
+
+stress testing may be the single most important supervisory improvement to strengthen 
+
+the resilience of large institutions.  The creation of orderly liquidation authority and the 
+
+process of resolution planning advance prospects for increasing market discipline.  But 
+
+questions remain as to whether all this is enough to contain the problem.  The enduring 
+
+potential fragility of a financial system substantially dependent on short-term wholesale 
+
+funding is especially relevant in considering the impact of severe stress or failure at the 
+
+very large institutions with very large amounts of such funding.   
+
+Concern about the adequacy of policy responses to date is supported by some 
+
+recent research that attempts to quantify the implicit funding subsidy enjoyed by certain 
+
+institutions by looking to such factors as credit ratings uplifts, differentials in interest 
+
+rates paid on deposits or in risk compensation for bank debt and equity, and premia paid 
+
+for mergers that would arguably place the merged firm in the too-big-to-fail category.
+4
+  
+
+The calculation of a precise subsidy is difficult, and each such effort will likely occasion 
+
+substantial disagreement.  But several measures provide at least directionally consistent 
+
+results.   
+
+                                                 
+4
+ See, for example, Kenichi Ueda and Beatrice Weder di Mauro (2012), “Quantifying Structural Subsidy 
+
+Values for Systemically Important Financial Institutions,” International Monetary Fund Working Paper 
+
+(May); Stefan Jacewitz and Jonathan Pogach (2013), “Deposit Rate Advantages at the Largest Banks,” 
+
+FDIC Working Paper (April 16);  Dale Gray and Andreas A. Jobst (2010),  “New Directions in Financial 
+
+Sector and Sovereign Risk Management,” Journal of Investment Management, vol. 8, no. 1, pp. 23-38; and 
+
+Elijah Brewer II and Julapa Jagtiani (2013), “How Much Did Banks Pay to Become Too-Big-To-Fail and 
+
+to Become Systemically Important?” Journal of Financial Services Research, vol. 43, pp. 1-35.  Estimating 
+
+the exact size of this funding advantage depends on a number of assumptions as well as contemporaneous 
+
+market conditions and is difficult to quantify robustly.  Estimates must consider a number of factors, 
+
+including market participants’ beliefs about the likelihood of an institution’s failure, the value of a 
+
+government bailout of debt holders were it to occur, and the likelihood that the government would actually 
+
+choose to bail out debt holders in the event of a failure. 
+

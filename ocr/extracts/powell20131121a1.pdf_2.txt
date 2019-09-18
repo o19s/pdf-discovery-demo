@@ -1,0 +1,48 @@
+
+
+The financial crisis revealed important weaknesses in many areas of our financial 
+
+system.  In response, governments around the world have undertaken a variety of far-
+
+reaching regulatory reforms that, I would argue, can be grouped into three categories:  
+
+those intended to strengthen institutions; those aimed at strengthening financial markets; 
+
+and those that take steps to reinforce and, in some cases, build new market 
+
+infrastructures. 
+
+The reform effort seeks to address each of these areas in a comprehensive manner 
+
+that recognizes the interplay among them.  For instance, enhanced capital and liquidity 
+
+regulations will strengthen the ability of financial institutions to withstand both credit 
+
+losses and liquidity shocks.  Stronger financial institutions, along with enhanced risk 
+
+management and supervision, will strengthen market infrastructures.  And new rules to 
+
+improve the functioning of markets, such as those that require greater transparency of 
+
+over-the-counter (OTC) derivatives markets through trade repositories and swap 
+
+execution facilities, will strengthen financial institutions and infrastructures alike.  
+
+Moreover, greater post-trade transparency will improve competition and make it easier 
+
+for market participants to make informed choices about which OTC derivatives are best 
+
+suited to their needs. 
+
+Today I will focus on the third aspect of this effort--reforms intended to 
+
+strengthen financial market infrastructures.  Specifically, I will look at measures to 
+
+improve the clearing of OTC derivatives through the expanded use of central 
+
+counterparties (CCPs) and the introduction of margin requirements for those OTC 
+
+derivatives that remain bilateral.  In the United States, several agencies are working 
+
+together to implement these reforms.  The Commodity Futures Trading Commission 
+

@@ -1,0 +1,53 @@
+
+- 8 - 
+ 
+
+
+are likely to conduct more thorough due diligence on their counterparties and exercise more care 
+
+in considering the types of collateral that they will lend against than was the case before the 
+
+crisis.3  
+
+The second example involves the implicit support provided by bank sponsors of certain 
+
+securitization SPEs.  Before the crisis, the interplay between bank capital requirements and 
+
+accounting rules created a significant incentive for banks to shift assets off-balance sheet through 
+
+the use of various SPEs.  Under the capital requirements that applied at the time, a bank that sold 
+
+assets to a conduit or other SPE it sponsored was required to hold capital only against its 
+
+contractual exposure to the SPE.  Yet because a bank that failed to support SPEs it sponsored 
+
+might irreparably damage the value of its franchise, banks often provided credit and liquidity 
+
+support in excess of contractually obligated amounts to asset-backed commercial paper (ABCP) 
+
+programs, credit card securitizations, and other structured finance vehicles.  Recognizing this 
+
+incentive, pre-crisis lenders were willing to hold commercial paper and other liabilities issued by 
+
+bank-sponsored SPEs at yields only slightly higher than those on liabilities issued directly by the 
+
+bank.  In effect, the bank was able to hold less capital and reduce its funding costs without 
+
+decreasing its economic exposure.  
+
+Post-crisis reforms have reduced the opportunity for banks to exploit this regulatory 
+
+arbitrage.  In 2009, the Financial Accounting Standards Board (FASB) adopted FAS 166 and 167 
+
+to modify the accounting treatment of structured finance transactions involving certain SPEs.  
+
+Under the new accounting guidance, a company is required to consolidate those SPEs for which 
+
+the company has the power to direct matters that most significantly impact the entity as well as 
+
+the obligation to absorb losses or the right to receive benefits.  Securitization sponsors have 
+
+                                                            
+3 This work is explained on the website of the Federal Reserve Bank of New York, 
+www.newyorkfed.org/banking/tpr_infr_reform.html. 
+

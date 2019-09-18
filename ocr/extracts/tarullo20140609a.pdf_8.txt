@@ -1,0 +1,51 @@
+
+
+8 
+ 
+
+Corporate and securities law may establish a duty of management and directors to limit 
+
+regulatory violations, but the rationale for these duties is to protect shareholders from the 
+
+consequences of regulatory violation, not directly to further the public regulatory objective.6 
+
+The answer, I think, lies at least in part with the centrality and nature of risk in the 
+
+activities of financial intermediaries.  Risk-taking--whether well- or ill-considered--is perhaps 
+
+the central activity of all financial intermediaries.  Where those intermediaries are significantly 
+
+leveraged and engaged in maturity transformation, the risk-taking carries substantial potential 
+
+societal consequences beyond the possible losses to investors, counterparties, and employees of 
+
+the financial firm.  Microprudential and macroprudential regulation each respond to this 
+
+divergence between the private and social balances of costs and benefits associated with a given 
+
+level of risk-taking by financial intermediaries.   
+
+The focus of microprudential regulation is on the distortions to funding costs that may 
+
+arise when depositors or capital markets do not require the funds they provide fully to price in 
+
+the risks assumed by banks in using those funds, whether because of federal deposit insurance or 
+
+expectations of a government safety net.  The focus of macroprudential regulation is on the 
+
+negative externalities that large financial firms can impose on the rest of the economy.  In both 
+
+instances, the private assessment by shareholders and their representatives of the risk-reward 
+
+tradeoffs of the financial firm’s activities will differ from the public’s assessment of that risk-
+
+reward tradeoff.  That is, while the public has an interest in healthy, profitable banks, and thus 
+
+the interests of shareholders and the public overlap, they are not coincident. 
+
+                                                 
+6 For a discussion of this duty, particularly as applied to financial institutions, see Eric J. Pan (2010), “The Duty to 
+Monitor under Delaware Law: From Caremark to Citigroup,” The Conference Board, Director Notes, No. DN-004, 
+available at www.conference-board.org/retrievefile.cfm?filename=DN-004-10.pdf&type=subsite. 
+ 
+

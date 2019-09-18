@@ -1,0 +1,53 @@
+
+- 11 - 
+ 
+
+
+A second set of costs has to do with the possible effects of further asset purchases 
+
+on various aspects of market functioning, including bid-ask spreads and market depth.  
+
+And it would indeed be a concern if large Fed ownership of some segments of the 
+
+Treasury or MBS market were to cause market liquidity to deteriorate significantly.  We 
+
+have seen little evidence of such problems so far, and we continue to closely monitor 
+
+market conditions.  If problems do begin to crop up, we will know it, and we will be able 
+
+to adjust. 
+
+A final notion of cost relates to the currently low yields and term premiums on 
+
+Treasury bonds.  At an intuitive level, one might think that, for the Fed, as for any other 
+
+buyer contemplating a large asset purchase, information on prices and expected returns 
+
+should be a relevant factor in the decision.  Said differently, the case for an LSAP might 
+
+seem more appealing if the term premium on Treasury bonds were at plus 200 basis 
+
+points instead of its current level of roughly minus 80 basis points.   
+
+However, to make sense of this intuition, we have to return to the question of why 
+
+LSAPs move term premiums.  One interesting possibility is that, in a world where other 
+
+sovereign debt has come into question, long-term Treasury securities are uniquely able to 
+
+provide a money-like safe-haven service to certain investors.  By analogy, think of 
+
+currency, which investors are willing to hold even at a zero yield, because of the flow of 
+
+convenience services it provides.  Similarly, the negative term premium on long-term 
+
+Treasury securities may in part reflect the relative scarcity of this money-like asset.  If so, 
+
+it would be economically costly to remove Treasury securities from the system.14  This 
+
+logic is an application of the so-called Friedman rule.15   
+
+                                                 
+14 To be clear, this argument relies on there being multiple distinct monetary assets.  That is, the case needs 
+to be that, for some investors, long-term Treasury securities provide a type of service that is not provided as 
+

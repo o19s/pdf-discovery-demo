@@ -1,0 +1,49 @@
+
+-7- 
+ 
+
+
+about business continuity and contingencies for a firm to consider before the termination of any 
+
+such relationship.   
+
+Third, it is important to emphasize that guidance has to be read in the context of the 
+
+relative risk and importance of the specific use-case in question.  We have long taken a risk-
+
+focused supervisory approach--the level of scrutiny should be commensurate with the potential 
+
+risk posed by the approach, tool, model, or process used.16  That principle also applies generally 
+
+to the attention that supervised firms devote to the different approaches they use:  firms should 
+
+apply more care and caution to a tool they use for major decisions or that could have a material 
+
+impact on consumers, compliance, or safety and soundness.   
+
+For its part, AI is likely to present some challenges in the areas of opacity and 
+
+explainability.  Recognizing there are likely to be circumstances when using an AI tool is 
+
+beneficial, even though it may be unexplainable or opaque, the AI tool should be subject to 
+
+appropriate controls, as with any other tool or process, including how the AI tool is used in 
+
+practice and not just how it is built.  This is especially true for any new application that has not 
+
+been fully tested in a variety of conditions.  Given the large data sets involved with most AI 
+
+approaches, it is vital to have controls around the various aspects of data--including data quality 
+
+as well as data suitability.  Just as with conventional models, problems with the input data can 
+
+lead to cascading problems down the line.  Accordingly, we would expect firms to apply robust 
+
+analysis and prudent risk management and controls to AI tools, as they do in other areas, as well 
+
+as to monitor potential changes and ongoing developments. 
+
+                                                 
+16 Board of Governors, “Risk-Focused Safety and Soundness Examinations and Inspections,” Supervision and 
+Regulation Letter SR 96-14 (May 24, 1996), https://www.federalreserve.gov/boarddocs/srletters/1996/SR9614.htm.  
+

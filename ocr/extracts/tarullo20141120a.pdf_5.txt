@@ -1,0 +1,51 @@
+
+- 4 - 
+ 
+
+placed additional downward pressure on asset prices, thereby accelerating margin calls on 
+
+leveraged actors and amplifying mark-to-market losses for all holders of the assets.  The margin 
+
+calls and booked losses would start another round in the adverse feedback loop.  In short, the 
+
+financial industry in the years preceding the crisis had been transformed into one that was highly 
+
+susceptible to runs on the short-term, uninsured cash equivalents that funded longer-term 
+
+extensions of credit.2  
+
+Designing and implementing a policy response in light of the vulnerabilities of short-term 
+
+wholesale funding markets that were revealed in the 2007–09 crisis is an integral part of post-
+
+crisis reform.  The key question is how to balance the important role these markets have come to 
+
+play in funding economic activity with the need to contain the destabilizing risks of runs in these 
+
+same markets.  To get a better sense of the terms of this balancing effort, let me examine the 
+
+implications, first, of relying completely on liquidity requirements to manage liquidity problems, 
+
+and then of relying entirely on LOLR liquidity from a central bank.  The shortcomings associated 
+
+with either of these one-dimensional approaches demonstrate why liquidity regulation and LOLR 
+
+should be viewed as complements and not substitutes.3   
+
+2 Note that financial entities that do not use debt financing can nevertheless experience liquidity pressures that are 
+structurally similar to bank runs.  For example, in the context of various pooled investment vehicles, investors may 
+have an incentive to redeem their shares early because the costs of the redemptions are effectively borne by 
+remaining investors.  The resulting “first-mover advantage” contributed to runs on money market mutual funds in 
+the fall of 2008 and could, at least in theory, lead to runs on other open-end fund vehicles.  The U.S. Financial 
+Stability Oversight Council (FSOC) is currently developing a work plan to analyze potential risks associated with 
+asset management products and activities (minutes of the October 6, 2014, meeting, 
+www.treasury.gov/initiatives/fsoc/council-
+meetings/Documents/October%206,%202014%20(Meeting%20Minutes).pdf). 
+3 For a detailed discussion of many of the issues I mention here, see Mark Carlson, Burcu Duygan-Bump, and 
+William R. Nelson (forthcoming), “Why Do We Need Both Liquidity Regulations and a Lender of Last Resort?  A 
+Perspective from Federal Reserve Lending During the 2007–09 U.S. Financial Crisis,” Finance and Economics 
+Discussion Papers (Washington: Board of Governors of the Federal Reserve System).  
+
+
+
+

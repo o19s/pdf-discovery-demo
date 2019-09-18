@@ -1,0 +1,52 @@
+
+
+9 
+ 
+
+testing program, other important additions have not.  Most significant are the various capital 
+
+buffer requirements that sit atop the regulatory minimum levels.  These include a uniform 2.5-
+
+percent capital conservation buffer (CCB), the GSIB surcharge, and a countercyclical buffer that 
+
+can expand the CCB for a broad range of firms in times of increasing financial vulnerabilities.9  
+
+Firms that do not hold capital sufficient to meet or exceed this combined buffer level are subject 
+
+to restrictions on their capital distributions and bonus payments to executives, which become 
+
+progressively stricter as their capital level falls deeper into the buffer.  
+
+To better align CCAR with the regulatory capital rules as they now stand, we will be 
+
+considering adoption of a “stress capital buffer” (SCB) approach to setting post-stress capital 
+
+requirements that would further integrate our capital rules with our stress test and CCAR 
+
+frameworks.  The simplest way to describe it is that the SCB would replace the existing 2.5 
+
+percent CCB as a component in each CCAR firm’s point-in-time capital requirements.  The SCB 
+
+would be risk-sensitive and vary across firms, based on the results of the annual stress test.  
+
+Specifically, it would be set equal to the maximum decline in a firm’s common equity tier 1 
+
+capital ratio under the severely adverse scenario of the supervisory stress test before the inclusion 
+
+of the firm’s planned capital distributions, a simplification from the current practice of 
+
+calculating the capital positions of the firm separately for each quarter in the scenario horizon.   
+
+As is now the case with the CCB and other applicable capital buffers, a firm would be 
+
+subject to restrictions on its capital distributions whenever its capital levels fall below the 
+
+combined regulatory minima and buffers.  Although it is likely that the stress test losses will 
+
+continue to exceed 2.5 percent of risk-weighted assets for most GSIBs, the SCB would have a 
+
+                                                 
+9 The countercyclical buffer applies to banking organizations with more than $250 billion in assets or $10 billion in 
+on-balance-sheet foreign exposures and to any depository institution subsidiary of such organizations. See 12 CFR 
+Part 217, Appendix A. 
+

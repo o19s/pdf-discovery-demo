@@ -75,9 +75,13 @@
   </requestDispatcher>
 
   <requestHandler name="standard" class="solr.StandardRequestHandler" default="true">
+    <lst name="defaults">
+      <str name="echoParams">all</str>
+      <str name="df">content_ocr</str>
+    </lst>
     <arr name="last-components">
        <str>payload</str>
-   </arr>
+    </arr>
   </requestHandler>
   <requestHandler name="/analysis/field" startup="lazy" class="solr.FieldAnalysisRequestHandler" />
   <requestHandler name="/update" class="solr.UpdateRequestHandler"  />

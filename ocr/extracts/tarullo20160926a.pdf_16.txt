@@ -1,0 +1,50 @@
+
+
+15 
+ 
+
+would need to continue increasing capital levels for some time but also recognized that at some 
+
+point we would need to revisit it.   
+
+Since the new approach of adding one year’s planned dividends to a firm’s capital buffer 
+
+should act as a disincentive for imprudent or unsustainable levels of dividends, the notion of 
+
+extra scrutiny on planned dividends may no longer be useful.  And we would, in any case, be 
+
+reluctant to substitute a higher payout ratio for the original 30 percent ratio because it may end 
+
+up being an implicit target for banks to try to reach.  However, firms planning higher dividends 
+
+should be aware that the operation of the SCB is such that, if a firm planned to pay out all of its 
+
+earnings in the form of dividends and things did not go as well as expected for the firm, it could 
+
+end up having to cut its dividend. 
+
+Balance sheet and risk-weighted asset assumptions 
+
+Beyond requiring that large banks have the resiliency to weather a period of serious 
+
+financial stress, an important macroprudential aim of stress testing is to ensure that they can 
+
+provide credit to households and businesses that remain creditworthy even in such a period.  If 
+
+banks maintain their capital ratios under stress by reducing their balance sheets through asset 
+
+sales, or reductions in new lending, this crucial intermediation function will be compromised 
+
+across the economy.  The result could be a credit crunch, likely resulting in a more severe or 
+
+longer-lasting recession.  In the first few years of CCAR, we used the banks’ own projections 
+
+where many banks planned on balance sheet declines as part of their strategy for remaining 
+
+sufficiently capitalized.15  In the 2014 CCAR cycle, we replaced banks’ projections with our own 
+
+                                                 
+15 The original stress test undertaken during the crisis did not allow this assumption, precisely because of our aim 
+that the large banks as a group be well-positioned to meet the needs of creditworthy borrowers at that time of great 
+stress. 
+

@@ -1,0 +1,52 @@
+
+- 8 - 
+ 
+
+
+to fail.5  The aim of the single-point-of-entry approach is to stabilize the failed firm quickly, in 
+
+order to mitigate the negative impact on the U.S. financial system, and to do so without 
+
+supporting the firm’s equity holders and other capital liabilities holders or exposing U.S. 
+
+taxpayers to losses.  The single-point-of-entry approach offers the best potential for the orderly 
+
+resolution of a systemic financial firm under Title II, in part because of its potential to mitigate 
+
+run risks and credibly impose losses on parent holding company creditors and, thereby, to 
+
+enhance market discipline. 
+
+ In the United States, the top-tier parent company of a large banking firm generally is not 
+
+an operating company but a holding company, whose primary purpose is to raise capital and 
+
+direct the operations of its subsidiaries.  Its assets largely consist of cash, liquid securities, and 
+
+equity and debt interests in its subsidiaries.  This common organizational feature of U.S. banking 
+
+firms facilitates the single-point-of-entry approach because the liabilities of the top-tier holding 
+
+company are structurally subordinated to the customer obligations and other direct liabilities at 
+
+the firm’s operating subsidiaries.  Accordingly, under the single-point-of-entry approach, the 
+
+equity and debt at the holding company level can form a buffer that must first be exhausted 
+
+before any customer or creditor of a subsidiary suffers losses.  The existence of this buffer 
+
+should help give the customers and creditors of a U.S. banking firm greater clarity regarding 
+
+their potential loss exposure in failure.  The presumption that holding company capital liabilities 
+
+would be required in the first instance to absorb losses in a systemic financial firm will be critical 
+
+in maintaining the confidence, and limiting the run potential, of customers, liquidity providers, 
+
+and other creditors at the operating subsidiary level. 
+
+                                                 
+5 It is worth noting that the Resolution Project at the Hoover Institution, which produced the proposal for a special 
+Bankruptcy Code Chapter 14 cited in footnote 3, is now at work on a variant of its proposal that builds specifically 
+on the single-point-of-entry approach. 
+

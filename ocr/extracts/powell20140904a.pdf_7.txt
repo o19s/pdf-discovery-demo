@@ -1,0 +1,49 @@
+
+ - 6 - 
+
+transactions may become even more infrequent in the future.  While it is also possible 
+
+that activity in these markets could rebound, the threat that this form of borrowing may 
+
+decline further, particularly in periods of stress, seems likely to remain. 
+
+So let me pose a question:  Is it wise to rely on a critical benchmark that is built 
+
+on a market in decline?  Clearly not.  The risks to market functioning are simply too 
+
+great.  For example, market activity could decline to the point where publication of a rate 
+
+becomes untenable.  And many of the panel banks have expressed concerns about the 
+
+ongoing legal risks of remaining on the panel.  If the publication of LIBOR were to 
+
+become untenable or if we were to simply “end LIBOR,” as some have urged, untangling 
+
+the $150 trillion in outstanding U.S. dollar LIBOR contracts would entail a protracted, 
+
+expensive, and uncertain process of negotiating amendments to an enormous number of 
+
+complex documents--a horrible mess and a feast for the legal profession, to be sure.  It 
+
+does not help matters that the hundreds of trillions of dollars’ worth of derivatives 
+
+contracts referencing LIBOR do not, in general, have robust backups in the event that 
+
+publication of a rate ceases.   
+
+The FSB report identifies ways to improve U.S. dollar LIBOR, and to create 
+
+alternatives to it, while minimizing transition costs, particularly for end users who bear 
+
+no blame for the misconduct.  The proposed reforms come down to two simple ideas.  
+
+First, U.S. dollar LIBOR needs to be redefined to include a broader range of transaction 
+
+types.  Doing so will make it more robust and will allow it to reflect actual bank funding 
+
+costs, which is what the rate was intended to do in the first place.  Second, we need to 
+
+promote robust alternatives to U.S. dollar LIBOR that better reflect the secured nature of 
+
+many of today’s financial market transactions.   
+

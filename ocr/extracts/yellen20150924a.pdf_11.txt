@@ -1,0 +1,52 @@
+
+ - 10 - 
+
+from full employment.  In contrast, inflation has continued to run below the Committee’s 
+
+objective over the past several years, and over the past 12 months it has been essentially 
+
+zero.  Nevertheless, the Committee expects that inflation will gradually return to 
+
+2 percent over the next two or three years.  I will now turn to the determinants of inflation 
+
+and the factors that underlie this expectation.   
+
+Inflation Dynamics 
+
+Models used to describe and predict inflation commonly distinguish between 
+
+changes in food and energy prices--which enter into total inflation--and movements in the 
+
+prices of other goods and services--that is, core inflation.  This decomposition is useful 
+
+because food and energy prices can be extremely volatile, with fluctuations that often 
+
+depend on factors that are beyond the influence of monetary policy, such as technological 
+
+or political developments (in the case of energy prices) or weather or disease (in the case 
+
+of food prices).  As a result, core inflation usually provides a better indicator than total 
+
+inflation of where total inflation is headed in the medium term.16  Of course, food and 
+
+energy account for a significant portion of household budgets, so the Federal Reserve’s 
+
+inflation objective is defined in terms of the overall change in consumer prices.   
+
+What, then, determines core inflation?  Recalling figure 1, core inflation tends to 
+
+fluctuate around a longer-term trend that now is essentially stable.  Let me first focus on 
+
+these fluctuations before turning to the trend.  Economic theory suggests, and empirical 
+
+analysis confirms, that such deviations of inflation from trend depend partly on the 
+
+                                                 
+16 Several other approaches are commonly used to abstract from the short-term volatility of overall inflation 
+and thereby better discern its medium-term direction.  For example, one procedure removes the 
+components of the total PCE price index with the largest or smallest price changes before computing the 
+average price change, yielding the “trimmed mean” PCE index; another uses the median price change in a 
+given period, rather than the mean change, to represent the overall inflation rate.  In practice, simply using 
+core inflation does about as well in predicting overall inflation over the coming year and beyond as these 
+alternative procedures (see Detmeister, 2011, 2012). 
+

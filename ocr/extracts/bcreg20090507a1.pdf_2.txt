@@ -1,0 +1,44 @@
+
+[page 1.] 
+
+The Supervisory Capital Assessment Program: 
+
+Overview of Results 
+
+May 7, 2009 
+I. Introduction and Summary 
+A banking organization holds capital to guard against uncertainty. Capital reassures an 
+institution's depositors, creditors and counterparties--and the institution itself--that an event such as an 
+unexpected surge in losses or an unanticipated deterioration in earnings will not impair its ability to 
+engage in lending to creditworthy borrowers and protect the savings of its depositors. During this 
+period of heightened economic uncertainty, U.S. federal banking supervisors believe that the largest 
+U.S. bank holding companies (BHCs) should have a capital buffer sufficient to withstand losses and allow 
+them to meet the credit needs of their customers in a more severe recession than is anticipated. For 
+this reason, the Federal Reserve and other bank supervisors embarked on a comprehensive 
+simultaneous assessment of the capital held by the 19 largest U.S. BHCs in February of this year. 
+This unprecedented exercise-known as the Supervisory Capital Assessment Program (SCAP)-
+allowed supervisors to measure how much of an additional capital buffer, if any, each institution would 
+need to establish today to ensure that it would have sufficient capital if the economy weakens more 
+than expected. Those BHCs needing to augment their capital coming out of this assessment will have a 
+month to design a detailed plan, subject to supervisory approval, for the steps they will take to put the 
+SCAP buffer in place, and then implement that plan by early November of this year. 
+The unprecedented nature of the SCAP, together with the extraordinary economic and financial 
+conditions that precipitated it, has led supervisors to take the unusual step of publically reporting the 
+findings of this supervisory exercise. The decision to depart from the standard practice of keeping 
+examination information confidential stemmed from the belief that greater clarity around the SCAP 
+process and findings will make the exercise more effective at reducing uncertainty and restoring 
+confidence in our financial institutions. To this end, a detailed white paper on the SCAP data and 
+methodology was released on April 24th 1 [Footnote 1. Board of Governors of the Federal Reserve System 
+(2009) "The Supervisory Capital Assessment Program: Design and Implementation" white paper (Washington 
+DC: Board of Governors, April 24). http://www.federalreserve.gov/newsevents/press/bcreg/20090424a.htm. 
+End footnote 1.]  
+This companion paper reports—for each of the 19 institutions individually and in the aggregate 
+—the SCAP estimates of losses and loss rates across select categories of loans and securities; the resources 
+available to absorb those losses; and the resulting necessary capital buffers. 
+There are a number of points to keep in mind when interpreting the SCAP findings: 
+• The estimates reported here are those of the teams of supervisors, economists, and analysts that 
+conducted this exercise, and they may or may not line up with what the firms themselves or 
+external analysts and researchers might have produced, even using a similar set of basic 
+assumptions. These estimates benefit from the input of extremely detailed information 
+collected from each of the 19 BHCs, the extensive review and analysis of that information by the 
+

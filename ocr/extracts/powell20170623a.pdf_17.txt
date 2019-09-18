@@ -1,0 +1,24 @@
+
+Typical Payments Chains Between CCP and Clearing Customers
+
+CCP
+
+Settlement Bank
+
+Payment Bank
+
+Clearing Member
+
+Customer
+
+Customer's Bank
+
+Settlement Bank may provide 
+intraday credit to Clearing Member
+
+Clearing Member may provide  
+credit to Customer
+
+Customer's Bank may provide  
+credit to Customer
+

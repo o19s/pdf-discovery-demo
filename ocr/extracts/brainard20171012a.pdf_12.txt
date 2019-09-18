@@ -1,0 +1,50 @@
+
+ - 11 - 
+
+imbalances that could contribute to financial instability.  Standard asset-valuation models 
+
+suggest that a persistently low neutral rate, depending on the factors driving it, could lead 
+
+to higher ratios of asset prices to underlying income flows--for example, higher ratios of 
+
+prices to earnings for stocks or higher prices of buildings relative to rents.  If asset 
+
+markets were highly efficient and participants had excellent foresight, this would not 
+
+necessarily lead to imbalances.  However, to the extent that financial markets extrapolate 
+
+price movements, markets may not transition smoothly to asset valuations that reflect 
+
+underlying fundamentals but may instead evidence periods of overshooting.18  Such 
+
+forces may have played a role in both the stock market boom that ended in the bust of 
+
+2001 and the house price bubble that burst in 2007-09.   
+
+The risks of such financial imbalances may be greater in the context of the kind of 
+
+explicit inflation target overshooting policies proposed in the paper.  Again, if market 
+
+participants were perfectly rational, overshooting policies would not likely pose financial 
+
+stability risks.  But the combination of low interest rates and low unemployment that 
+
+would prevail during the inflation overshooting period could well spark capital markets to 
+
+overextend, leading to financial imbalances.  
+
+Macroprudential tools are the preferred first line of defense to address such 
+
+financial imbalances, which should in principle enable monetary policy to focus on price 
+
+stability and macroeconomic stabilization.  But the development and deployment of 
+
+macroprudential tools is still relatively untested in the U.S. context, and the toolkit is 
+
+limited.  Although important research suggests that the situations under which monetary 
+
+policy should take financial imbalances into account are likely to be very rare, some 
+
+                                                 
+18 See, for example, Case, Shiller, and Thompson (2012) and Greenwood and Schleifer (2014). 
+

@@ -1,0 +1,49 @@
+
+ - 13 - 
+
+rate risk.  And, second, in the spirit of tips of icebergs, the possibility that banks may be 
+
+reaching for yield in this manner suggests that the same pressure to boost income could 
+
+be affecting behavior in other, less readily observable parts of their businesses. 
+
+The final stop on the tour is something called collateral transformation.  This 
+
+activity has been around in some form for quite a while and does not currently appear to 
+
+be of a scale that would raise serious concerns--though the available data on it are 
+
+sketchy at this point.  Nevertheless, it deserves to be highlighted because it is exactly the 
+
+kind of activity where new regulation could create the potential for rapid growth and 
+
+where we therefore need to be especially watchful. 
+
+Collateral transformation is best explained with an example.  Imagine an 
+
+insurance company that wants to engage in a derivatives transaction.  To do so, it is 
+
+required to post collateral with a clearinghouse, and, because the clearinghouse has high 
+
+standards, the collateral must be “pristine”--that is, it has to be in the form of Treasury 
+
+securities.  However, the insurance company doesn’t have any unencumbered Treasury 
+
+securities available--all it has in unencumbered form are some junk bonds.  Here is where 
+
+the collateral swap comes in.  The insurance company might approach a broker-dealer 
+
+and engage in what is effectively a two-way repo transaction, whereby it gives the dealer 
+
+its junk bonds as collateral, borrows the Treasury securities, and agrees to unwind the 
+
+transaction at some point in the future.  Now the insurance company can go ahead and 
+
+pledge the borrowed Treasury securities as collateral for its derivatives trade.   
+
+Of course, the dealer may not have the spare Treasury securities on hand, and so, 
+
+to obtain them, it may have to engage in the mirror-image transaction with a third party 
+
+that does--say, a pension fund.  Thus, the dealer would, in a second leg, use the junk 
+

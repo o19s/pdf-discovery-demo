@@ -1,0 +1,52 @@
+
+ - 3 - 
+
+issue warnings--successful warnings--about the dangers of excessive leveraged lending, 
+
+and concerns about financial stability are clearly on the minds of some members of the 
+
+Federal Open Market Committee, FOMC.     
+
+Those are three powerful reasons to prefer interest rates that are higher than 
+
+current rates.  But, of course, Fed interest rates are kept very low at the moment because 
+
+of the need to maintain aggregate demand at levels that will support the attainment of our 
+
+dual policy goals of maximum sustainable employment and price stability, defined as the 
+
+rate of inflation in the price level of personal consumption expenditures (or PCE) being at 
+
+our target level of 2 percent. 
+
+That the actual federal funds rate has to be so low for the Fed to meet its 
+
+objectives suggests that the equilibrium interest rate--that is, the federal funds rate that 
+
+will prevail in the longer run, once cyclical and other transitory factors have played out--
+
+has fallen.2  Let me turn now to my main focus, namely an assessment of why the 
+
+equilibrium interest rate is so low. 
+
+To frame this discussion, it is useful to think about the real interest rate as the 
+
+price that equilibrates the economy’s supply of saving with the economy’s demand for 
+
+investment.  To explain why interest rates are low, we look for factors that are boosting 
+
+saving, depressing investment, or both.3  For those of you lucky enough to remember the 
+
+economics you learned many years ago, we are looking at a point that is on the IS curve--
+
+                                                 
+2 More formally, my Federal Reserve colleagues Thomas Laubach and John Williams (2003) have 
+developed a statistical procedure that decomposes the movement in interest rates into the contribution of 
+long-run and short-run factors.  They conclude that the long-run component of the level of the real federal 
+funds rate is currently very low--around 1/4 percent--compared with a pre-2000 average of 2-1/2 percent. 
+Other assessments have reached similar conclusions.  See Holston, Laubach, and Williams (forthcoming); 
+Johannsen and Mertens (2016); and Kiley (2015).  However, it is important to note that there is a great deal 
+of statistical uncertainty around all of these estimates. 
+3 While the analysis that follows relates to interest rates in the long run, these factors are also important 
+determinants of interest rates in the short run. 
+

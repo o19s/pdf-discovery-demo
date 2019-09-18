@@ -1,0 +1,52 @@
+
+ - 7 - 
+
+would be designed to provide liquidity to a market or sector of the financial system and 
+
+not be for the purpose of assisting a specific firm, or group of firms, in avoiding 
+
+bankruptcy.  “Broad based” is defined to mean that there are at least five potential 
+
+participants; further, even if many more than five firms were eligible for the facility, it 
+
+could not be considered “broad based” if its purpose was to assist failing firms avoid 
+
+bankruptcy or resolution, or to lend to insolvent borrowers.  In addition, the interest rates 
+
+on the loans would be at penalty rates above those on similar forms of credit in normal 
+
+times, and the loans would be backed by collateral that was sufficient to protect the 
+
+taxpayer from losses.  All of these criteria are consistent with how the Federal Reserve 
+
+operated its broad-based facilities in the crisis. 
+
+Lending to Individual Nonbank Institutions 
+
+During the crisis, the Federal Reserve also lent to individual nonbank institutions 
+
+whose default would have been extremely damaging for the financial system and the state 
+
+of the economy.6  The Dodd-Frank Act removed the Federal Reserve’s authority to lend 
+
+to an individual troubled institution.7  Instead, the act required large banks and 
+
+systemically important nonbanks to submit plans under which they could be resolved 
+
+under bankruptcy in a rapid and orderly manner if they suffered material financial 
+
+distress.  In addition, it established expanded authority for the Federal Deposit Insurance 
+
+Corporation (FDIC) to resolve a troubled systemic institution in an orderly manner that 
+
+would not disrupt the rest of the financial system.  This expanded power includes the 
+
+                                                 
+6 The Federal Reserve used its authority to lend to individual nonbank institutions two times during the 
+crisis:  It lent to Bear Stearns and AIG (American International Group, Inc.).  Working with the Treasury 
+and the FDIC, it agreed to lend, but did not in fact extend credit, as part of ring-fence arrangements 
+established for two additional firms, Bank of America and Citigroup.  See Domanski, Moessner, and 
+Nelson, “Central Banks as Lenders of Last Resort,” in note 5. 
+7 The Federal Reserve’s authority to lend to depository institutions cannot be used as a backchannel for 
+lending to nonbank subsidiaries of bank holding companies. 
+

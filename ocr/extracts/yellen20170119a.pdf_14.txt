@@ -1,0 +1,50 @@
+
+- 13 - 
+ 
+
+to a “passive” removal of monetary policy accommodation.  Other things being equal, 
+
+this factor argues for a more gradual approach to raising short-term rates.17   
+
+Lastly, simple rules ignore important risk-management considerations that have 
+
+influenced the Committee’s decisions in recent years.  With the federal funds rate still 
+
+near zero, the Committee recognizes that, should the economy unexpectedly weaken in 
+
+the next year or two, there would likely be only limited scope to respond by lowering 
+
+short-term rates.  But if the economy instead began to overheat, threatening to push 
+
+inflation to an undesirably high level, the FOMC would have ample scope to respond 
+
+through tighter monetary policy.  Such asymmetric risks arguably call for a more gradual 
+
+path of rate increases than indicated by the prescriptions of a simple policy rule. 
+
+The academic literature on policy rules has studied many alternatives to the 
+
+Taylor rule, and the FOMC regularly reviews a number of them.18  These rules embed 
+
+differing but valuable perspectives, and there is no consensus among central bankers or 
+
+academics about the relative utility of various rules.  One such alternative is the 
+
+“balanced approach” rule, illustrated by the purple short-dashed line in figure 8.  This 
+
+rule differs from the Taylor rule by being twice as responsive to movements in resource 
+
+                                                           
+17 Based on estimates generated using the term-structure model developed by Li and Wei (2013) and the 
+procedure discussed in Ihrig and others (2012) and extended by Engen, Laubach, and Reifschneider (2015), 
+the Federal Reserve’s holdings of Treasury securities and agency mortgage-backed securities continue to 
+put considerable downward pressure on longer-term interest rates.  However, this pressure is estimated to 
+be gradually easing as the average maturity of the portfolio declines and the end-date for reinvestment 
+draws closer.  Over the course of 2017, this easing could increase the yield on the 10-year Treasury note by 
+about 15 basis points, all else being equal.  Based on the estimated co-movement of short-term and long-
+term interest rates, such a change in longer-term yields would be similar to that which, on average, has 
+historically accompanied two 25 basis point hikes in the federal funds rate.   
+18 For example, prescriptions from seven different rules, calculated using forecasts of economic activity and 
+inflation from different sources, are regularly posted by the Federal Reserve Bank of Cleveland at 
+https://www.clevelandfed.org/our-research/indicators-and-data/simple-monetary-policy-rules.aspx. 
+

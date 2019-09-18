@@ -1,0 +1,48 @@
+
+ - 9 - 
+
+earlier, an aspect of credit-driven asset bubbles is financial institutions’ increased reliance 
+
+on unstable short-term wholesale funding, a reliance that makes them vulnerable to 
+
+heightened rollover risk, sudden losses of confidence, and funding runs. Liquidity 
+
+regulation increases the stock of cash or easily marketable securities available to 
+
+institutions in the event of a funding run or margin call.  
+
+Liquidity regulation also discourages use of unstable short-term wholesale 
+
+funding of illiquid longer-term assets in the first place. Truly liquid assets, such as cash 
+
+or Treasury securities, are low-yielding, and being required to hold them means lower 
+
+earnings. Therefore, minimum liquidity requirements raise the cost, and so reduce the 
+
+amount of, liquidity risk taking, reducing the chances of a liquidity crisis and asset fire 
+
+sales. In that sense, minimum liquidity requirements also lean against building 
+
+vulnerabilities that could accompany the growth of an asset bubble. 
+
+Indeed, regulators might vary liquidity requirements in a countercyclical way, 
+
+with greater liquidity required during the development of credit-fueled asset bubbles, in 
+
+order to regulate the amount of allowable maturity transformation.  
+
+
+Margins and Haircuts  
+
+A third class of policies that could be helpful in addressing credit-fueled asset bubbles is 
+
+margins and haircuts on securities financing transactions.  
+
+Such transactions could include, for example, bilateral repurchase transactions in 
+
+which a broker–dealer, in order to fund its holdings of some security, borrows short-term 
+
+from a money market mutual fund, while pledging a security of greater value as 
+
+collateral. The excess of the value of the security over the amount borrowed at the time of 
+

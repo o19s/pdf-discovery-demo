@@ -1,0 +1,39 @@
+
+[page 9] 
+
+reported in the Q4 2008 FR Y-9C). Firms were asked to address potential other-than-temporary-
+impairment charges that may be required under both scenarios. 
+As noted above, BHCs with trading account assets exceeding $100 billion as of December 31, 
+2008 were asked to provide projections of trading-related losses for the more adverse scenario, 
+including losses from counterparty credit risk exposures, including potential counterparty defaults, and 
+credit valuation adjustments taken against exposures to counterparties whose probability of default 
+would be expected to increase in the adverse scenario.6 [Footnote 6. Under the baseline scenario, BHCs were 
+instructed to assume no further losses beyond current marks. End footnote 6.] To calculate these losses, the firms 
+conducted a stress test of their trading book positions and counterparty exposures as of market close on February 
+20, 2009, based on an instantaneous re-pricing of trading positions equal to the changes in market 
+pricing variables that occurred over the period of June 30, 2008 to December 31, 2008. Aside from the 
+dollar loss estimates, BHCs were asked to disclose the positions that were included in this analysis as 
+well as the risk factors that were stressed and the changes in variables employed (for example, changes 
+in rates and spreads, and percentage changes in equities, foreign exchange, and commodities). Firms 
+were also asked to provide the results of the stress tests conducted in the usual course of business from 
+January 2009 or the most recent dates available. 
+Resources to Absorb Losses 
+Institutions were also instructed to provide projections of resources available to absorb losses 
+under the two scenarios, including pre-provision net revenue, and the allowance for loan losses, over 
+the two-year horizon. 
+For purposes of this exercise, PPNR is defined as net interest income plus non-interest income 
+minus non-interest expense. It is therefore the income after non-credit-related expenses that would 
+flow into the firms before they take provisions or other write-downs or losses. The participating BHCs 
+were instructed to project the main components of PPNR under each of the macroeconomic scenarios. 
+The firms were instructed to explain clearly the assumptions underlying these projections, especially 
+those regarding business or market share growth. Especially in the more adverse scenario, pre-provision 
+net revenue projections materially exceeding their 2008 values would require strong supporting 
+evidence in the absence of documentation of nonrecurring events that negatively affected 2008 net 
+revenue. 
+Institutions were also instructed to estimate the portion of the year-end 2008 allowance for 
+loan and lease losses available to absorb credit losses on the loan portfolio under each scenario, while 
+maintaining an adequate allowance at the end of the scenario horizon. This calculation could either 
+result in a drawdown of the year-end 2008 ALLL or indicate a need to build reserves over the scenario 
+horizon. The adequacy of loan loss reserves was assessed against the likely size, composition, and risk 
+characteristics of the loan portfolio at the end of the scenario in 4Q 2010. 
+

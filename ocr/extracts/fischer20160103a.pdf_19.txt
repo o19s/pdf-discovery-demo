@@ -1,0 +1,40 @@
+
+From TIPS
+Using survey-based inflation expectations
+
+10-Year Real Treasury Yields
+
+     Note:  The data are quarterly. The yield using survey-based inflation expectations is the difference between the 10-year nominal Treasury yield and a survey-
+based measure of 10-year inflation expectations taken from the FRB/US model. TIPS is Treasury Inflation-Protected Securities.
+     Source:  Federal Reserve Bank of New York; Barclays; Federal Reserve Board staff calculations.
+
+Q3
+
+1981 1983 1985 1987 1989 1991 1993 1995 1997 1999 2001 2003 2005 2007 2009 2011 2013 2015
+
+Percent
+
+-2
+
+0
+
+2
+
+4
+
+6
+
+8
+
+-2
+
+0
+
+2
+
+4
+
+6
+
+8
+

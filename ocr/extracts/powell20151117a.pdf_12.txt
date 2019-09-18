@@ -1,0 +1,44 @@
+
+11 
+ 
+
+exposure better than individual members.  As I noted earlier, we have relatively 
+
+little information on bilateral repo activity, so greater clearing in this segment 
+
+could have significant benefits in helping to aggregate market information.  CCPs 
+
+also provide participants with central confirmation of trades and netting of 
+
+positions, allowing their members to reduce operational risk of post-trade 
+
+processing.  
+
+
+
+Risk sharing  
+
+In terms of risk sharing, when a CCP clearing member defaults, any 
+
+resulting losses are shared among the surviving members and the CCP itself 
+
+according to pre-agreed rules.  Members of a CCP contribute to a default fund that 
+
+can be used to absorb these losses.  The degree of risk sharing depends on the 
+
+design of the CCP, but transparent rules help to create an orderly, predictable 
+
+process for managing a default.9  
+
+Finding a way forward 
+
+The potential benefits of proposals for expanded central clearing of repo in 
+
+U.S. markets are undergoing a period of evaluation by regulatory authorities and 
+
+                                                           
+9 While details vary, in a waterfall, to cover losses resulting from a defaulting member, a CCP typically first uses the 
+financial resources of the defaulting member, including margin and default fund contributions. If losses still exist, 
+then the CCP uses its capital (skin in the game), followed by the default fund contributions of surviving members. 
+Further losses could be absorbed by additional assessments on surviving members. 
+

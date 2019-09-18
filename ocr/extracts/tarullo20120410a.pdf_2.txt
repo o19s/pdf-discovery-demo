@@ -1,0 +1,47 @@
+
+ The importance of robust capital requirements for financial stability and the serious 
+
+shortcomings of the pre-crisis capital regulatory regime have been well documented.  In the last 
+
+few years, domestic and international initiatives have strengthened standards for the quantity and 
+
+quality of capital held by banking organizations.  Implementation of these new standards should 
+
+significantly increase the safety and soundness of the financial system.   
+
+ But there are at least four reasons why simple compliance with the stricter standards will 
+
+not achieve this goal.  First, as has long been recognized, a capital ratio -- even a much higher 
+
+one -- is essentially a snapshot of a bank’s balance sheet and, thus, often a lagging indicator of 
+
+the bank’s actual condition.  Second, the ability of a bank to remain a viable financial 
+
+intermediary in times of stress depends not only on the losses likely to affect the value of current 
+
+assets, but also the impact on revenues and, thus, the capacity to replenish capital during the 
+
+stress period.  Third, if capital requirements are set solely with reference to more ordinary 
+
+economic circumstances, they will not capture the potential impact of a shock to the value of 
+
+widely held assets to the financial system as a whole.  Fourth, the capacity of both bank 
+
+management and regulators to understand a firm’s capital position depends on its having good 
+
+information and quantitative risk-management systems. 
+
+ Thus, stronger capital standards must be complemented with supervisory tools that 
+
+incorporate dynamic, macroprudential elements.  Two important such tools that have been 
+
+adopted by the Federal Reserve since the onset of the financial crisis are stress testing and firm-
+
+specific capital planning.  Since we have just completed a second annual exercise using both 
+
+supervisory tools, I thought this risk conference would be a good occasion for reviewing the 
+
+rationale and features of these tools, describing the recent results, and identifying some issues we 
+
+will be considering as we continue to develop these tools in the future. 
+

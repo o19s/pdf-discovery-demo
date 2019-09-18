@@ -1,0 +1,54 @@
+
+- 4 - 
+ 
+
+
+of loans to banks from overnight to 90 days, and provided discount window credit through 
+
+regular auctions in an effort to overcome banks’ reluctance to borrow at the window due to 
+
+concerns about the “stigma” of borrowing from the Federal Reserve.  We also lent dollars to 
+
+other central banks so that they could provide dollar liquidity to banks in their jurisdictions, thus 
+
+easing pressures on U.S. money markets.  As the crisis intensified, however, the Federal Reserve 
+
+recognized that lending to banks alone would not be sufficient to address the severe strains 
+
+affecting many participants in short-term financing markets.  Ultimately, the Federal Reserve 
+
+responded to the crisis by creating a range of emergency liquidity facilities to meet the funding 
+
+needs of key nonbank market participants, including primary securities dealers, money market 
+
+mutual funds, and other users of short-term funding markets, including purchasers of securitized 
+
+loans.2
+
+Why couldn't the Federal Reserve maintain its routine lending practices and rely on 
+
+lending to commercial banks, which in turn lend to nonbank firms?  The reason is that financial 
+
+markets have evolved substantially in recent decades--and, in retrospect, by more than we had 
+
+recognized prior to the crisis.  The task of intermediating between investors and borrowers has 
+
+shifted over time from banks--which take deposits and make loans--to securities markets--where 
+
+borrowers and savers meet more directly, albeit with the assistance of investment banks that help 
+
+borrowers issue securities and then make markets in those securities.  An important aspect of the 
+
+shift has been the growth of securitization, in which loans that might in the past have remained 
+
+on the books of banks are instead converted into securities and sold to investors in global capital 
+
+markets.  Serious deficiencies with these securitizations, the associated derivative instruments, 
+
+and the structures that evolved to hold securitized debt were at the heart of the financial crisis.  
+
+
+                                                           
+2 Primary dealers are broker-dealers that trade in U.S. government securities with the Federal Reserve Bank of New 
+York. 
+

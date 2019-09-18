@@ -1,0 +1,51 @@
+
+ - 9 - 
+
+me to my third point.  We need a comprehensive way to think about planning.  The 
+
+National Institute of Standards and Technology’s cybersecurity framework is one of 
+
+many voluntary cybersecurity frameworks that provide a holistic, risk-based approach to 
+
+planning.5   In addition to preventive measures, the framework identifies four additional 
+
+core functions:  identify, detect, respond, and recover.  We can apply these four functions 
+
+to securing the payment system. 
+
+An important first step is to identify internal business processes and assets, as well 
+
+as external threats.  You can’t protect yourself unless you understand how your business 
+
+is structured.  This sounds simple enough, but an organization’s computer systems are 
+
+often unexpectedly interconnected.  Some of the largest point-of-sale data breaches, for 
+
+example, originate outside payment card systems.6  You should also keep up to date on 
+
+cyber developments and gather information about threats from information sharing 
+
+forums, including FS-ISAC, US-CERT, and the FBI’s InfraGard.  
+
+Regardless of how well we identify and protect, we also need to plan for a 
+
+potential attack.  To address this, the NIST framework calls for plans to detect, respond, 
+
+and recover.  Victims are often not aware that they’ve been breached.  Did you know that 
+
+last year the median amount of time it took to discover a breach was about 200 days?7  
+
+Plans need to include methods to detect attacks.  You also need to have a response plan. 
+
+If your point-of-sale system is compromised or your account records are stolen, do you 
+
+know which law enforcement agencies you should work with?  You will be more 
+
+                                                 
+5 See National Institute of Standards and Technology (2014), “Framework for Improving Critical 
+Infrastructure Cybersecurity,” www.nist.gov/cyberframework/upload/cybersecurity-framework-
+021214.pdf. 
+6 Verizon (2015), “2015 Data Breach Investigations Report,” www.verizonenterprise.com/DBIR/2015. 
+7 Mandiant (2014), “M-Trends 2015: A View from the Front Lines,” 
+www2.fireeye.com/rs/fireye/images/rpt-m-trends-2015.pdf. 
+

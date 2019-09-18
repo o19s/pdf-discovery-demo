@@ -1,0 +1,51 @@
+
+- 13 - 
+ 
+
+ 
+ 
+
+who funded their originations through securitizations and effectively retained none of the 
+
+risk.  These lenders had little financial stake in whether the borrowers ultimately repaid 
+
+the mortgages--sometimes known as having skin in the game--and thus had a reduced 
+
+incentive to engage in careful underwriting. 
+
+ The proposed rules outline a flexible menu of ways that securitizers can meet the 
+
+risk-retention requirement.  The proposed rules also have provisions that affect the 
+
+mortgage market in particular.  The rules recognize that the guarantees provided by 
+
+Fannie Mae and Freddie Mac lead them to retain 100 percent of the credit risk of the 
+
+mortgages they securitize, and because this guarantee is currently backed by financial 
+
+support from the government, the proposed rules do not require these government-
+
+sponsored enterprises to retain additional risk.  Further, as required by the Dodd-Frank 
+
+Act, the proposed rules exempt securitizations backed entirely by very high-quality 
+
+mortgages--so-called qualified residential mortgages (QRMs)--from risk retention.  The 
+
+act directed the regulators with rulemaking authority to define QRMs taking into account 
+
+“underwriting and product features that historical loan performance data indicate result in 
+
+a lower risk of default.”  To define QRMs, regulators conducted extensive research on the 
+
+types of mortgages that have low credit risk, even in stressful economic environments.  
+
+Under the proposed definition, a qualified residential mortgage must be a closed-end, 
+
+first-lien mortgage to purchase or refinance a one- to four-family property.  Mortgage 
+
+features cannot include negative amortization, interest-only payments, or the potential for 
+
+large interest rate increases.  Debt-to-income ratios must be conservative, and the 
+
+borrower’s credit history must be relatively clean.  Finally, the maximum loan-to-value 
+

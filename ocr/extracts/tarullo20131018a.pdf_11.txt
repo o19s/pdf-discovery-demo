@@ -1,0 +1,53 @@
+
+- 10 - 
+ 
+
+
+plans under Title II.  We expect the second round of submissions to include improvements that 
+
+address the initial set of obstacles to resolvability identified during the first round.  
+
+More broadly, our evaluation of the resolvability of these large firms has been further 
+
+advanced by the resolution planning process.  Let me mention two ways in which the 
+
+organizational structure of systemic financial firms could be shaped so as to facilitate the single-
+
+point-of-entry approach.  One would be to ensure that losses at material operating subsidiaries, 
+
+including in material foreign subsidiaries, could be transferred to the parent holding company in 
+
+resolution.  The other would be to keep the firm’s parent holding company non-operational and 
+
+otherwise “clean” through limits on the issuance of short-term debt and on the conduct of 
+
+material business operations in the parent holding company.  The single-point-of-entry approach 
+
+concentrates losses on the creditors and counterparties of the SIFI parent, as opposed to the 
+
+operating subsidiaries.  Accordingly, the impending failure of a SIFI would create strong 
+
+incentives for creditors and counterparties of the parent holding company to run.7  The single-
+
+point-of-entry strategy will be more credible and effective if the only creditors of the parent 
+
+holding company are holders of capital instruments, and long-term debt holders are fully aware 
+
+they are subject to bail-in as part of any Title II resolution. 
+
+ Another way to enhance the credibility of the FDIC’s approach is to require adequate 
+
+loss-absorbing capacity within large financial firms.  Minimum capital requirements, 
+
+conceptually, are designed to cover losses up to a certain statistical probability.  If an extreme tail 
+
+event occurs and the equity of the firm is wiped out, successful resolution without taxpayer 
+
+assistance would be most effectively accomplished if a firm had sufficient long-term, unsecured 
+
+                                                 
+7 Although long-term debtholders of a troubled SIFI parent will be contractually unable to run, a SIFI parent with 
+sizeable amounts of short-term debt could face substantial runs in times of stress.  The contagion could spread to 
+short-term creditors of other SIFI holding companies. 
+ 
+

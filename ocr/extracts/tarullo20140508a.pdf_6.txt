@@ -1,0 +1,69 @@
+
+- 5 - 
+ 
+
+
+companies with at least $50 billion in assets prudential standards that “are more stringent” than 
+
+generally applicable standards and that “increase in stringency” based on a variety of factors 
+
+related to the systemic importance of these institutions.
+4
+  These standards must cover capital, 
+
+liquidity, risk management, resolution planning, and concentration limits; the Federal Reserve 
+
+may add other standards as it finds appropriate.
+5
+  Section 165 also establishes requirements for 
+
+the establishment of a risk committee and for stress testing, but these are applicable in at least 
+
+some respects to all bank holding companies with at least $10 billion in assets.   
+
+ In implementing the section 165 requirement of increasing stringency for enhanced 
+
+prudential standards applicable to banking organizations of increasing systemic importance, the 
+
+Federal Reserve has essentially created several categories within the universe of banking 
+
+organizations with $50 billion or more in assets.  All firms in this universe will be subject to the 
+
+basic enhanced standards, including supervisory stress tests, capital plan submissions, resolution 
+
+plan requirements, single counterparty credit limits, and a modified form of the Liquidity 
+
+Coverage Ratio (LCR) requirement that was part of Basel III.  Firms with at least $250 billion in 
+
+assets or $10 billion in on-balance-sheet foreign assets are also subject to the advanced approach 
+
+risk-based capital requirements of Basel II, the Basel III supplementary leverage ratio, the full 
+
+LCR requirement, and the countercyclical capital buffer provision of Basel III.
+6
+  The eight U.S. 
+
+firms designated as global systemically important banks will be additionally subject to risk-based 
+
+capital surcharges, the enhanced Basel III supplementary leverage ratio, tighter single 
+
+counterparty credit limits, and a long-term debt requirement designed to support the 
+
+                                                           
+4
+ Section 165 of Dodd-Frank also requires that these special prudential standards apply to any nonbank financial 
+
+company designated as systemically important by the Financial Stability Oversight Council. 
+5
+ Dodd-Frank also uses the $50 billion threshold in other parts of the law, such as to define the universe of firms that 
+
+must pay the Federal Reserve for the cost of examination and supervision, and that are subject to ex post 
+
+assessments in the event that taxpayers were to bear any loss as a result of the resolution of a firm under Title II of 
+
+the law. 
+6
+ The $250 billion/$10 billion threshold does not appear in Dodd-Frank.  It was a pre-existing regulatory category 
+
+created to identify the firms subject to the so-called advanced approaches risk-based capital requirements of Basel II. 
+

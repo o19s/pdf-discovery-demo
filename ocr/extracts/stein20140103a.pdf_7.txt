@@ -1,0 +1,49 @@
+
+
+
+- 6 - 
+
+mortgage-backed securities (CMBS)--which collectively accounted for 57.7 percent of 
+
+securities holdings in 2012.  Also important is the “Other” category, which includes 
+
+corporate and municipal bonds, as well as asset-backed securities, and which accounted 
+
+for 29.3 percent of holdings in 2012.   
+
+This composition of banks’ securities portfolio is not what you would expect if 
+
+they were simply holding securities as a highly liquid buffer against, say, unexpected 
+
+deposit outflows or commitment drawdowns.  It also appears--superficially, at least--at 
+
+odds with the narrow-banking premise that one can profitably exploit a deposit franchise 
+
+simply by taking deposits and parking them in Treasury bills.  Rather, it looks as if banks 
+
+are purposefully taking on some mix of duration, credit, and prepayment exposure in 
+
+order to earn a spread relative to Treasury bills.  And indeed, over the period from 1984 
+
+to 2012, the average spread on banks’ securities portfolio relative to bills was 1.73 
+
+percent.   
+
+By contrast, over this same period, we estimate that if banks had raised deposits 
+
+and invested them exclusively in three-month Treasury bills, they would have earned an 
+
+average net return of only 0.06 percent of deposits.  This figure is based on three 
+
+components.  First, the spread between the rate earned on bills and that paid on deposits 
+
+averaged 0.87 percent over the sample period.  Second, there was additional noninterest 
+
+income on deposits (for example, overdraft fees) of 0.49 percent of deposits.  Third, 
+
+however, deposit-taking involves considerable bricks-and-mortar costs.  Using Call 
+
+Report data on banks’ total costs, and a hedonic regression approach to infer the portion 
+
+of cost that is due to deposit-taking, we estimate this piece to have averaged 1.30 percent 
+

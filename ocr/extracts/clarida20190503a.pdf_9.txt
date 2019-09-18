@@ -1,0 +1,50 @@
+
+ - 8 - 
+
+Financial Markets and Monetary Policy—Extracting Signal from Noise 
+
+Because the true model of the economy is unknown, either because the structure 
+
+is unknown or because the parameters of a known structure are evolving, I believe 
+
+policymakers should consult a number and variety of sources of information about 
+
+neutral real interest rates and expected inflation, to name just two key macroeconomic 
+
+variables.  Because macroeconomic models of r* and long-term inflation expectations are 
+
+potentially misspecified, seeking out other sources of information that are not derived 
+
+from the same models can be especially useful.  To be sure, financial market signals are 
+
+inevitably noisy, and day-to-day movements in asset prices are unlikely to tell us much 
+
+about the cyclical or structural position of the economy.12  However, persistent shifts in 
+
+financial market conditions can be informative, and signals derived from financial market 
+
+data—along with surveys of households, firms, and market participants, data, as well as 
+
+outside forecasts—can be an important complement to estimates obtained from 
+
+historically estimated and calibrated macroeconomic models.13  
+
+                                                 
+12 Uncertainty regarding r*, u*, and long-term inflation expectations is not the only source of uncertainty 
+that has implications for monetary policy.  Edge, Laubach, and Williams (2005) show how the duration of a 
+productivity shock can affect even the direction of the best monetary policy response.  Erceg and others 
+(2018) find that even in conditions of substantial output gap uncertainty and uncertainty about the slope of 
+the Phillips curve, a notable response to the estimated output gap in a Taylor-type rule is generally 
+beneficial.  And Eusepi and Preston (2018) show that replacing model-consistent expectations with forms 
+of adaptive learning means that some, but not all, of the key results regarding best conduct in monetary 
+policy under full information carry through. 
+13 Like many others, I believe that monetary policy should respond to financial market fluctuations when 
+they have material implications for our outlook for employment and inflation, but monetary policy should 
+not generally target asset prices themselves. 
+    The Federal Reserve uses survey data and conducts surveys of its own on a range of macroeconomic and 
+financial conditions.  Among the surveys the Fed conducts are the Senior Loan Officer Opinion Survey on 
+Bank Lending Practices and the Senior Credit Officer Opinion Survey on Dealer Financing Terms.  In 
+addition, the staff at the Federal Reserve Board uses disaggregated and high-frequency data to estimate the 
+state of the economy in real time.  Such data include disaggregated labor market data from ADP and data 
+on expenditures from credit card transactions. 
+

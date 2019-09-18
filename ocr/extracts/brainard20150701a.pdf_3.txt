@@ -1,0 +1,51 @@
+
+ - 2 - 
+
+A reduction in the resilience of liquidity at times of stress could be significant if it 
+
+acted as an amplification mechanism, impeded price discovery, or interfered with market 
+
+functioning.  For instance, during episodes of financial turmoil, reduced liquidity can lead 
+
+to outsized liquidity premiums as well as an amplification of adverse shocks on financial 
+
+markets, leading prices for financial assets to fall more than they otherwise would.  The 
+
+resulting reductions in asset values could then have second-round effects, as highly 
+
+leveraged holders of financial assets may be forced to liquidate, pushing asset prices 
+
+down further and threatening the stability of the financial system.3   
+
+Although anecdotes of diminished liquidity abound, statistical evidence is harder 
+
+to come by.  Indeed, there is relatively little evidence of any deterioration in day-to-day 
+
+liquidity.  Traditional measures of liquidity, such as bid-asked spreads, are generally no 
+
+higher than they were pre-crisis.  Turnover, an alternative measure of day-to-day 
+
+liquidity, is lower, but it is unclear whether this reflects changes in liquidity or perhaps 
+
+changes in the composition of investors.  The share of bonds owned by entities that tend 
+
+to hold securities until maturity, such as mutual funds and insurance companies, has 
+
+increased in recent years, which would lead turnover to decline even with no change in 
+
+market liquidity.  In some markets, the number of large trades has declined in frequency, 
+
+which could signal reduced market depth and liquidity, but could also reflect a shift in 
+
+market participants’ preferences toward smaller trade sizes.   
+
+Finding a high-fidelity gauge of liquidity resilience is difficult, but there are a few 
+
+measures that could be indicative, such as the frequency of spikes in bid-asked spreads, 
+
+                                                 
+www.federalreserve.gov/econresdata/notes/feds-notes/2013/dealer-balance-sheet-capacity-and-market-
+liquidity-during-the-2013-selloff-in-fixed-income-markets-20131016.html.  
+3 Of course, if the sharp reductions in asset values are fleeting, these second-round effects could be quite 
+limited.   
+

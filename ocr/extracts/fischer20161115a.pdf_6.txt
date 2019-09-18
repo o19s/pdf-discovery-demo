@@ -1,0 +1,50 @@
+
+ - 5 - 
+
+and speculative-grade corporate bonds (the red solid line).  Prior to the financial crisis, 
+
+the cost of trading corporate bonds was low--on average, bid-ask spreads were about 
+
+1 percent of the price of the bond for investment-grade bonds and about 2 percent for 
+
+speculative-grade bonds.  This measure of trading costs skyrocketed during the financial 
+
+crisis but has returned to the range seen in the few years prior to the crisis.  Alternative 
+
+measures of trading costs, such as price impact measures, which attempt to capture the 
+
+effect of transactions on market prices, follow a similar pattern.   
+
+Transaction costs seem to suggest liquidity has improved.  One caveat, however, 
+
+is that measures of aggregate transaction costs in the corporate bond market may 
+
+underestimate embedded liquidity costs.  In preliminary work, Choi and Huh suggest that 
+
+transactions in which dealers act simply as brokers, rather than as intermediaries that hold 
+
+assets on their balance sheets, could reflect price concessions that dealers make to entice 
+
+counterparties into the other side of a trade so that the dealers will not need to hold the 
+
+traded assets.10  Price concessions, in turn, lower traditional measures of trading costs, 
+
+making trading seem inexpensive, when in reality these concessions are fees the dealers 
+
+pay to some investors for providing liquidity.  Moreover, as dealer inventories have 
+
+declined over the past few years, this downward distortion to aggregate trading cost 
+
+measures may have increased.  To address this problem, Choi and Huh try to isolate 
+
+transactions in which corporate bond investors are looking for liquidity (in other words, 
+
+are looking to trade) and then construct measures of transaction costs for only such 
+
+trades.  The paper’s results are preliminary but appear to suggest transaction costs have 
+
+increased somewhat in recent years.  
+
+                                                 
+10 See Choi and Huh (2016). 
+

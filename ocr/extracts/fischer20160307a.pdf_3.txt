@@ -1,0 +1,50 @@
+
+ - 2 - 
+
+Bound, and Secular Stagnation,” with the importance of usury laws having diminished 
+
+since 1936. 
+
+There is an old joke about our field--not the one about the one-handed economist, 
+
+nor the one about “assume you have a can opener,” nor the one that ends, “If I were you, 
+
+I wouldn’t start from here.”  Rather it’s the one about the Ph.D. economist who returns to 
+
+his university for his class’s 50th reunion.  He asks if he can see the most recent Ph.D. 
+
+generals exam.  After a while it is brought to him.  He reads it carefully, looking 
+
+perplexed, and then says, “But this is exactly the same as the exam I wrote over 50 years 
+
+ago.”  “Ah yes,” says the professor.  “It is the same, but all the answers are different.” 
+
+Is that really the case?  Not really, though it is true to some extent in the realm of 
+
+policy.  To discuss the question of whether the answers to the questions of how to deal 
+
+with macroeconomic policy problems have changed markedly over the past half-century 
+
+or so, I will start by briefly sketching the structure of a basic macro model.  The building 
+
+blocks of this model are similar to those used in many macro models, including FRB/US, 
+
+the Fed staff’s large-scale model, and a variety of DSGE (dynamic stochastic general 
+
+equilibrium) models used at the Fed and other central banks and by academic researchers.   
+
+The structure of the model starts with the standard textbook equation for 
+
+aggregate demand for domestically produced goods, namely:2 
+
+(1) AD = C + I + G + NX; 
+
+(2) Next is the wage-price block, which is based on a wage or price Phillips 
+
+curve.  Okun’s law is included to make the transition between output and 
+
+employment; 
+
+                                                 
+2 A fuller description of the equations is contained in the appendix. 
+

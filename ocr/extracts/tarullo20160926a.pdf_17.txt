@@ -1,0 +1,51 @@
+
+
+16 
+ 
+
+model, adding a requirement that banks would not restrict the supply of loans during the severely 
+
+adverse scenario.   
+
+To date, the model has actually operated to project an increase in the balance sheets of 
+
+the CCAR banks during the severely adverse scenario, with varying impacts on different 
+
+portfolios.  This assumption, and its somewhat complicated implementation, was designed to be 
+
+fairly conservative, in a manner not dissimilar to the assumptions about capital distributions.  
+
+Numerous banks have attempted to show why some of these portfolios or business lines would 
+
+not be increasing under any reasonable assumptions, and thus that even macroprudential goals do 
+
+not justify ignoring the likelihood that those portfolios would decline.  During our review of 
+
+CCAR, some banks proposed ways to distinguish among business lines so as to relax what they 
+
+argued to be an unrealistic assumption, even one with a macroprudential purpose.  
+
+The complexities of trying to differentiate across idiosyncratic business lines seem to us 
+
+considerable.  We are instead considering replacing this feature of our model with a simple 
+
+assumption that balance sheets and risk-weighted assets remain constant over the severely 
+
+adverse scenario horizon.  Given that some decline in demand by creditworthy borrowers for 
+
+loans is inevitable in a serious recession, this simpler assumption would still achieve the 
+
+macroprudential policy objective that any such decline in lending during a recession is 
+
+attributable to the impact of the recession, rather than to capital constraints at the large banks. 
+
+This change would also make the treatment of balance sheets and risk-weighted assets simpler 
+
+and more transparent.  
+
+Toward a more macroprudential stress testing regime 
+
+ The second major objective in our stress testing review was to integrate more 
+
+macroprudential elements into the program.  Of course, combining the GSIB surcharge with the 
+

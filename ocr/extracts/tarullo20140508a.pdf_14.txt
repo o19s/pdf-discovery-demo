@@ -1,0 +1,49 @@
+
+- 13 - 
+ 
+
+
+this example to illustrate how the specification of aims and the progressive stringency of section 
+
+165 could be usefully combined. 
+
+ Largest institutions.  Specifying prudential regulatory aims in the context of community 
+
+and middle-range banks suggests a rationalization that could possibly eliminate certain 
+
+requirements as they apply to some of these banks.  In the case of the LISCC institutions, 
+
+however, I believe there are additional requirements needed to implement prudential aims 
+
+associated with financial stability.  These include capital surcharges and minimum amounts of 
+
+“gone concern” loss absorbing capacity, among others.  Most important is continued work on the 
+
+vulnerabilities posed by short-term wholesale funding and, more generally, by large trading 
+
+books, including maturity matched books of securities financing transactions.  The regulatory 
+
+response to these vulnerabilities will likely require some combination of measures directed at 
+
+capital, liquidity requirements, and resolution procedures.  There is also a need for a 
+
+complementary set of measures such as minimum margining requirements applicable to all 
+
+securities financing transactions, whether or not they involve systemically important firms. 
+
+But there are some opportunities for rationalization even with respect to regulation of the 
+
+larger institutions.  While necessary new rules will now be applied to these institutions, vestiges 
+
+of the pre-crisis regulatory approach that did not rest on well-specified regulatory aims are still in 
+
+place and might sensibly be modified or removed.  Most prominent in this regard is the Basel II 
+
+IRB approach for risk-weighted capital requirements.  The IRB approach, which generally 
+
+applies in the United States to all bank holding companies with $250 billion or more in assets, 
+
+was developed a decade ago in an effort to align risk weightings more closely to the increasingly 
+
+sophisticated quantitative risk-assessment techniques in the financial industry.   
+

@@ -1,0 +1,53 @@
+
+
+13 
+ 
+
+to equity in a context where resolution is a credible option should make the price of those 
+
+instruments especially sensitive to the relative risk of failure of those firms.  Requiring 
+
+systemically important financial firms to issue a meaningful amount of long-term debt would 
+
+indirectly influence corporate governance by introducing at-risk debt holders as a constituency 
+
+whose concerns management must monitor and address. 
+
+ A second kind of measure to align corporate governance at financial firms more closely 
+
+to regulatory objectives is a substantive requirement or constraint upon decisions made within 
+
+the firm.  As a practical matter, it would be hard to develop a rule setting a comprehensive risk 
+
+appetite consonant with regulatory objectives.  However, there are regulatory requirements that 
+
+can serve as partial surrogates for such a rule.  A good example, already in place, is a feature of 
+
+the Federal Reserve’s program of stress testing and capital planning.  A firm may not make 
+
+capital distributions (whether in the form of dividends or capital repurchases) that would, when 
+
+added to losses under hypothesized adverse scenarios as projected in our annual supervisory 
+
+stress test, reduce the firm’s capital below certain minimum levels.   
+
+When we adopted this rule several years ago, we were criticized by some for encroaching 
+
+on the prerogative of boards of directors of financial firms to decide on capital distribution 
+
+policies, in accordance with general corporate governance practice.  This criticism has always 
+
+seemed to me misplaced.  After all, banking regulators are not only permitted, but obliged, to set 
+
+minimum capital requirements at banking organizations and other systemically important 
+
+financial firms.  Limiting capital distributions is, conceptually, no different from requiring a firm 
+
+to build capital in the first place.12  A regulation designed to maintain minimum capital levels in 
+
+large banking organizations in a projected period of stress is consistent with the macroprudential 
+
+                                                 
+12 Indeed, insured depository institutions are prohibited by statute from making any capital distribution that would 
+render the firm undercapitalized.  12 U.S.C. §1831o(d)(1). 
+

@@ -1,0 +1,55 @@
+
+ - 12 - 
+
+policy rules and policymaker misperceptions about the economy.  One general finding is 
+
+that no single, simple approach to monetary policy is likely to be appropriate across a 
+
+broad range of plausible scenarios.19   More concretely, simulations like these inform our 
+
+risk management by assessing the likelihood that misperception would lead to adverse 
+
+outcomes, such as inflation falling below zero or rising above 5 percent.   
+
+Finally, the literature on structural uncertainty suggests some broader insights.  
+
+This literature started with the work of William Brainard and the well-known Brainard 
+
+principle, which recommends that when you are uncertain about the effects of your 
+
+actions, you should move conservatively.20  In other words, when unsure of the potency 
+
+of a medicine, start with a somewhat smaller dose.  As Brainard made clear, this is not a 
+
+universal truth, and recent research highlights two particularly important cases in which 
+
+doing too little comes with higher costs than doing too much.  The first case is when 
+
+attempting to avoid severely adverse events such as a financial crisis or an extended 
+
+period with interest rates at the effective lower bound.21  In such situations, the famous 
+
+words “We will do whatever it takes” will likely be more effective than “We will take 
+
+cautious steps toward doing whatever it takes.”  The second case is when inflation 
+
+expectations threaten to become unanchored.  If expectations were to begin to drift, the 
+
+reality or expectation of a weak initial response could exacerbate the problem.22  I am 
+
+confident that the FOMC would resolutely “do whatever it takes” should inflation 
+
+expectations drift materially up or down or should crisis again threaten.  In addition, a 
+
+                                                 
+19 The paper illustrates that some standard intuitions do not hold up in all circumstances.  When following a 
+
+standard Taylor rule and facing a very flat Phillips curve, for example, it is not always good advice to lower 
+
+the weight on the gap between unemployment and u* and to raise the weight on inflation in making policy.  
+
+See Erceg and others (2018).   
+20 See Brainard (1967). 
+21 See Reifschneider and Williams (2000). 
+22 See Söderström (2002). 
+

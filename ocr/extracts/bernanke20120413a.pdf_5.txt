@@ -1,0 +1,47 @@
+
+ - 4 - 
+
+components of the shadow banking system include securitization vehicles, asset-backed 
+
+commercial paper (ABCP) conduits, money market mutual funds, markets for repurchase 
+
+agreements (repos), investment banks, and mortgage companies.  Before the crisis, the 
+
+shadow banking system had come to play a major role in global finance. 
+
+Economically speaking, as I noted, shadow banking bears strong functional 
+
+similarities to the traditional banking sector.  Like traditional banking, the shadow 
+
+banking sector facilitates maturity transformation (that is, it is used to fund longer-term, 
+
+less-liquid assets with short-term, more-liquid liabilities), and it channels savings into 
+
+specific investments, mostly debt-like instruments.  In part, the rapid growth of shadow 
+
+banking reflected various types of regulatory arbitrage--for example, the minimization of 
+
+capital requirements.  However, instruments that fund the shadow banking system, such 
+
+as money market mutual funds and repos, also met a rapidly growing demand among 
+
+investors, generally large institutions and corporations, seeking cash-like assets for use in 
+
+managing their liquidity.  Commercial banks were limited in their ability to meet this 
+
+growing demand by prohibitions on the payment of interest on business checking 
+
+accounts and by relatively low limits on the size of deposit accounts that can be insured 
+
+by the Federal Deposit Insurance Corporation (FDIC). 
+
+As became apparent during the crisis, a key vulnerability of the system was the 
+
+heavy reliance of the shadow banking sector, as well as some of the largest global banks, 
+
+on various forms of short-term wholesale funding, including commercial paper, repos, 
+
+securities lending transactions, and interbank loans.  The ease, flexibility, and low 
+
+perceived cost of short-term funding also supported a broader trend toward higher 
+

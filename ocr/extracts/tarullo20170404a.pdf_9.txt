@@ -1,0 +1,51 @@
+
+
+8 
+ 
+
+have few or no trading assets of any sort, so proprietary trading is obviously not a concern there 
+
+either.  While the regulatory agencies have tried to tailor the rules so as to avoid burdening these 
+
+banks, even the process of figuring out that the rules do not constrain them is a compliance cost 
+
+that should be eliminated.  One approach would be to exempt all banks with less than $10 billion 
+
+in assets and other banks that report less than some nominal amount of trading assets.  
+
+Capital Regulation 
+
+Let me now turn to capital.  The history of financial regulation over the last several 
+
+decades is in many respects defined by an increasing emphasis on capital requirements and, 
+
+specifically, higher minimum ratios based on a more rigorous definition of what constitutes loss-
+
+absorbing capital.  This tendency can be explained by the fact that capital is a particularly supple 
+
+prudential tool.  As activity and affiliation restrictions on banks have been loosened, and as the 
+
+integration of traditional lending with capital markets has created new financial products at a 
+
+rapid pace, capital requirements can provide a buffer against losses from any activities.   
+
+ No single measure of capital is sufficient to ensure an adequate buffer however.  Simple 
+
+leverage ratios are a good check on banks becoming too debt dependent, but they encourage 
+
+more risk-taking, insofar as they impose the same capital charge for every asset, no matter how 
+
+risky.  Standardized risk-based capital ratios implement the intuitively appealing notion that a 
+
+bank’s capital should depend on the riskiness of its assets.  But the grouping of individual loans 
+
+and securities into necessarily broad categories of risk weights (e.g., residential mortgages) can 
+
+be arbitraged.  And a firm holding lots of assets that look very low-risk in normal times can be 
+
+vulnerable if its total leverage is high during stress periods.  Models-based capital requirements 
+
+can better distinguish among risks to some degree, and they can be made more forward-looking 
+
+than static leverage or risk-based ratios.  But, to the extent that banks’ internal models are used, it 
+

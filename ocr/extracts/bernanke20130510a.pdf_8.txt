@@ -1,0 +1,57 @@
+
+ - 7 - 
+
+Stress-testing techniques can also be used in more-focused assessments of the 
+
+banking sector’s vulnerability to specific risks not captured in the main scenario, such as 
+
+liquidity risk or interest rate risk.  Like comprehensive stress tests, such focused exercises 
+
+are an important element of our supervision of SIFIs.  For example, supervisors are 
+
+collecting detailed data on liquidity that help them compare firms’ susceptibilities to 
+
+various types of funding stresses and to evaluate firms’ strategies for managing their 
+
+liquidity.  Supervisors also are working with firms to assess how profitability and capital 
+
+would fare under various stressful interest rate scenarios. 
+
+Federal Reserve staff members supplement supervisory and stress-test 
+
+information with other measures.  For example, though supervisors have long appreciated 
+
+the value of market-based indicators in evaluating the conditions of systemically 
+
+important firms (or, indeed, any publicly traded firm), our monitoring program uses 
+
+market information to a much greater degree than in the past.  Thus, in addition to 
+
+standard indicators--such as stock prices and the prices of credit default swaps, which 
+
+capture market views about individual firms--we use market-based measures of systemic 
+
+stability derived from recent research.  These measures use correlations of asset prices to 
+
+capture the market’s perception of a given firm’s potential to destabilize the financial 
+
+system at a time when the broader financial markets are stressed; other measures estimate 
+
+the vulnerability of a given firm to disturbances emanating from elsewhere in the 
+
+system.
+5
+  The further development of market-based measures of systemic vulnerabilities 
+
+and systemic risk is a lively area of research. 
+
+                                                 
+5
+ For example, conditional value at risk provides an estimate of the systemic importance of a firm at a 
+
+moment in time, based on how the firm’s equity value and broader equity values co-vary when overall 
+
+conditions are very adverse; see Tobias Adrian and Markus K. Brunnermeier (2008; revised September 
+
+2011), “CoVaR,” Staff Reports 348 (New York:  Federal Reserve Bank of New York, September), 
+

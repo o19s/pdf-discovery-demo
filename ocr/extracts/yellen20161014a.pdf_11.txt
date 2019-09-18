@@ -1,0 +1,52 @@
+
+ - 10 - 
+
+inflation will tend to run above or below its underlying trend to the extent that resource 
+
+utilization--which may serve as an indicator of firms’ marginal costs--is persistently high 
+
+or low.17 
+
+While this general framework for thinking about the inflation process remains 
+
+useful, questions about some of its quantitative features have arisen in the wake of the 
+
+Great Recession and the subsequent slow recovery.  For example, the influence of labor 
+
+market conditions on inflation in recent years seems to be weaker than had been 
+
+commonly thought prior to the financial crisis.  Although inflation fell during the 
+
+recession, the decline was quite modest given how high unemployment rose; likewise, 
+
+wages and prices rose comparatively little as the labor market gradually recovered.  
+
+Whether this reduction in sensitivity was somehow caused by the recession or instead 
+
+pre-dated it and was merely revealed under extreme conditions is unclear.18  Either way, 
+
+the underlying cause is unknown.  Does the reduced sensitivity reflect structural changes, 
+
+such as globalization or a greater role for intangible capital in production that have 
+
+reduced the importance of cyclical swings in domestic activity for firms’ marginal costs 
+
+and pricing power?  Or does it perhaps reflect the well-documented reluctance--or, 
+
+                                                 
+17 In the economic literature, this general description of the inflation process is referred to as the 
+expectations-augmented Phillips curve.  In its simplest form, the Phillips curve relates inflation to expected 
+inflation and the intensity of resource utilization in the economy.  In practice, however, empirical 
+specifications also typically include measures of supply shocks, such as changes in the relative prices of 
+energy or imported goods, as additional determinants.  Two well-known variants of the Phillips curve are 
+the traditional “accelerationist” specification and the so-called New Keynesian Phillips curve; the former 
+approximates inflation expectations using a moving average of past inflation, while the latter assumes that 
+inflation expectations are “rational” and consistent with the predictions of a structural model of the entire 
+economy.  Some adherents of either type of Phillips curve argue that their preferred model can explain the 
+behavior of inflation during and after the financial crisis.  For example, Gordon (2013) presents evidence in 
+favor of an accelerationist model, while Del Negro, Giannoni, and Schorfheide (2015) make this claim for a 
+New Keynesian model. 
+18 See Blanchard (2016) for evidence on how the responsiveness of inflation to resource utilization has 
+changed over time.  Interestingly, research suggests that this sensitivity began declining well before the 
+crisis. 
+

@@ -1,0 +1,75 @@
+
+ - 3 - 
+
+typically estimated to be modest in magnitude, and can easily be masked by other 
+
+factors.2  
+
+In the first instance, as already noted, core inflation can to some extent be 
+
+influenced by oil prices.  However, a larger effect comes from changes in the exchange 
+
+value of the dollar, and the rise in the dollar over the past year is an important reason 
+
+inflation has remained low (chart 4).  A higher value of the dollar passes through to lower 
+
+import prices, which hold down U.S. inflation both because imports make up part of final 
+
+consumption, and because lower prices for imported components hold down business 
+
+costs more generally.  In addition, a rise in the dollar restrains the growth of aggregate 
+
+demand and overall economic activity, and so has some effect on inflation through that 
+
+more indirect channel.3   
+
+To get a sense of the timing and magnitude of these exchange rate effects, chart 5 
+
+shows dynamic simulations of a 10 percent real dollar appreciation, based on one of the 
+
+                                                 
+2 Among the many papers finding a role for resource utilization in affecting inflation based on evidence 
+
+from macroeconomic time-series data, see Robert J. Gordon (2013), “The Phillips Curve Is Alive and Well:  
+
+Inflation and the NAIRU during the Slow Recovery,” NBER Working Paper Series19390 (Cambridge, 
+
+Mass.: National Bureau of Economic Research, August); or Douglas O. Staiger, James H. Stock and Mark 
+
+W. Watson (1997), “How Precise Are Estimates of the Natural Rate of Unemployment?” in Christina D. 
+
+Romer and David H. Romer, eds., Reducing Inflation: Motivation and Strategy (Chicago: University of 
+
+Chicago Press), pp. 195-246.  For similar results based on cross-sectional evidence, see Michael T. Kiley 
+
+(2014), “An Evaluation of the Inflationary Pressure Associated with Short- and Long-Term 
+
+Unemployment,” Finance and Economics Discussion Series 2014-28 (Washington: Board of Governors of 
+
+the Federal Reserve System, March), www.federalreserve.gov/pubs/feds/2014/201428/201428pap.pdf; or, 
+
+for wages instead of prices, Christopher L. Smith (2014), “The Effect of Labor Slack on Wages: Evidence 
+
+from State-Level Relationships,” FEDS Notes (Washington: Board of Governors of the Federal Reserve 
+
+System, June 2), www.federalreserve.gov/econresdata/notes/feds-notes/2014/effect-of-labor-slack-on-
+
+wages-evidence-from-state-level-relationships-20140602.html. 
+3 There has also been debate regarding other potential channels through which global factors could affect 
+
+domestic inflation--for example, whether measures of foreign resource utilization play an important 
+
+independent role.  For evidence supporting such global factors, see Claudio Borio and Andrew Filardo 
+
+(2007), “Globalisation and Inflation:  New Cross-Country Evidence on the Global Determinants of 
+
+Domestic Inflation,” BIS Working Papers 227 (Basel, Switzerland:  Bank for International Settlements, 
+
+May), www.bis.org/publ/work227.pdf.  For a more skeptical take, see Jane Ihrig, Steven B. Kamin, 
+
+Deborah Lindner, and Jaime Marquez (2007), “Some Simple Tests of the Globalization and Inflation 
+
+Hypothesis,” International Finance Discussion Papers 891 (Washington:  Board of Governors of the 
+
+Federal Reserve System, April), www.federalreserve.gov/pubs/ifdp/2007/891/ifdp891.pdf. 
+

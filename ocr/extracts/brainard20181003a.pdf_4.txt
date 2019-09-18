@@ -1,0 +1,50 @@
+
+- 3 - 
+ 
+
+
+their employer.  Today, the ACH operates with important roles for the private sector and the Fed, 
+
+is available nationwide, and constitutes a vital piece of infrastructure supporting earlier access to 
+
+funds and reliable settlement of payments.5   
+
+Moving to 24/7 Real-Time Settlement 
+
+Today, our payment system is again at a crossroads.  There is a growing gap between the 
+
+transaction capabilities we need and expect in the digital economy--fast, convenient, and 
+
+accessible to all--and the underlying settlement capabilities.    
+
+Consumers and businesses increasingly expect to complete transactions with a simple 
+
+keystroke, swipe, or tap.  If I want to split a restaurant tab with my friends, I can use an app on 
+
+my smartphone.  But my friends have to be signed up for the same app to receive the payment, 
+
+and they may have to wait for confirmation that the funds have moved from the app into their 
+
+bank accounts before they can use the funds outside the app.  Similarly, if I want to make a 
+
+purchase from a vendor online, all I have to do is upload my payment information and touch a 
+
+screen to complete the purchase immediately.  But that payment in turn may not be immediately 
+
+available to the seller.   
+
+While we are seeing a growing demand for payments to be as instantaneous as the apps 
+
+on our smartphones, in reality, under the hood, these payments currently rely on a patchwork of 
+
+systems that can result in inefficiencies and delays, as well as uneven access.  To meet the 
+
+expectations of our 24/7 app economy, there is a growing demand for broadly and nationally 
+
+accessible faster payments that make funds available immediately.  Faster payments would allow 
+
+                                                            
+5 According to the Federal Reserve Payments Study 2016, in 2015, the ACH system was used for 23.5 billion 
+payments, totaling $145.3 trillion in value. See www.federalreserve.gov/paymentsystems/files/2016-payments-
+study-20161222.pdf. 
+

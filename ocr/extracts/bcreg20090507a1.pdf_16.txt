@@ -1,0 +1,40 @@
+
+event the adverse scenario materializes and, in that way it may help to prevent that adverse event from 
+
+occurring. 
+
+The illustration below shows how the buffer works for a hypothetical BHC needing to augment 
+
+its capital at the end of the SCAP. The left hand side of the exhibit shows the BHCs initial capital level 
+
+upon the completion of the SCAP on May 7 and its capital level after it builds the SCAP buffer over the 
+
+six months from May 7 to November 9. Much like the stress assessment exercise undertaken in the 
+
+SCAP, the right hand side of the exhibit shows what would happen to the BHCs capital under two 
+
+alternative scenarios for the macro economy. In the expected, or baseline, scenario, the BHC would end 
+
+the period with even higher capital levels that are well above regulatory minimums, while in the worse-
+
+than-expected, or more adverse scenario, the BHC would end the period with capital near or slightly 
+
+above appropriate levels. 
+
+The presence of this one-time buffer will give market participants, as well as the firms 
+
+themselves, confidence in the capacity of the major BHCs to perform their vital role in lending even if 
+
+the economy proves weaker than expected. 
+
+SCAP Buffer Helps Ensure Appropriate Bank Capital in the More Adverse Scenario 
+[Graphic. Bar chart. For details, refer to the text immediately preceding this figure. End of graphic.] 
+
+IV. Calculation of Additional Capital to Build SCAP Buffer 
+To calculate the amount of additional capital to build the SCAP buffer, supervisors began with 
+estimates of credit and trading losses from PPNR and ALLL to estimate the pre-tax change to retained 
+earnings.9 [Footnote 9. If analysis indicated that the ALLL could be lower at Q4 2010 than it was at Q4 2008, 
+then the commensurate reserve release was added to pre-provision net revenue as an additional loss-absorbing 
+resource. End footnote 9.] Pre-tax changes to retained earnings were allocated to an after-tax portion and a 
+tax-related portion using a 35 percent average tax rate. The tax-related portion of any losses was applied to the 
+

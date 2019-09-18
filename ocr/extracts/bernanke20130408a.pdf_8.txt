@@ -1,0 +1,56 @@
+
+- 7 - 
+ 
+
+in the fall, the severely adverse scenario is designed to reflect, at a minimum, the 
+
+economic and financial conditions typical of a severe post-World War II U.S. recession.
+5
+  
+
+In devising recession scenarios, we draw on many of the same macroeconomic modeling 
+
+tools used in making monetary policy.  Of course, not all significant risks facing banks 
+
+are tied to the business cycle.  Accordingly, our scenarios now generally incorporate not 
+
+only the typical consequences of a severe recession but also, simultaneously, other 
+
+adverse developments such as an exceptionally large decline in house prices, sharp drops 
+
+in the value of stocks and other financial assets, or a worsening of global economic 
+
+conditions more severe than might normally be expected to accompany a deep recession 
+
+in the United States.   
+
+ Importantly, in specifying the severely adverse scenario, we seek to avoid adding 
+
+to the procyclicality of the financial system.  In other words, in applying stress tests, we 
+
+do not want to inadvertently set a standard that is easier to meet in good times (when 
+
+banks should be preparing for possibly tougher times ahead) than in bad times (when 
+
+banks need to be able to use accumulated capital to support lending).  Accordingly, we 
+
+will want to ensure that the stress scenario remains severe in an absolute sense even when 
+
+the economy is strong and the near-term risks to the outlook seem relatively modest. 
+
+ We have also improved our tools for estimating projected bank losses, revenues, 
+
+and capital under alternative scenarios.  The original SCAP was supervisors’ first attempt 
+
+to produce comprehensive and simultaneous estimates of the financial conditions of the 
+
+nation’s largest banking firms, and the required data and analytical methods were 
+
+                                                           
+5
+ See the proposed “Policy Statement on the Scenario Design Framework for Stress Testing” of the Board 
+
+of Governors of the Federal Reserve System (Nov. 15, 2012), available at 
+
+www.federalreserve.gov/bankinforeg/bcreg20121115a4.pdf. 
+

@@ -1,0 +1,51 @@
+
+
+12 
+ 
+
+as our rulemaking process moves forward, I want to comment now on a couple of arguments, 
+
+since they seem to reflect a misunderstanding of our stress testing program or of the regulatory 
+
+structure established by the Dodd-Frank Act. 
+
+One such argument is that it is duplicative to include both the anticipated losses under 
+
+stress and the GSIB surcharge in a firm’s capital requirement because two elements of our 
+
+current stress test, the global market shock and the counterparty default shock, only apply to 
+
+GSIB firms.  However, these additional scenario components capture direct losses to which any 
+
+firm engaged in material trading activity is exposed.  The market shock measures the trading 
+
+mark-to-market losses associated with sudden changes in asset prices.  The large counterparty 
+
+default measures the losses associated with repricing counterparty exposures based on the market 
+
+shock, and then assuming the default of the counterparty that represents the largest net exposure.  
+
+These components of the stress test do not capture the adverse impact of a GSIB failure on the 
+
+financial system as a whole--the risks that are the basis for the GSIB surcharge.  
+
+These components of our stress test currently apply only to GSIBs because GSIBs are the 
+
+only firms currently in CCAR for which these exposures are material.  Non-GSIBs currently do 
+
+not have material trading activities and so would suffer only small direct trading losses as a result 
+
+of severely stressed market conditions or the failure of a major derivatives or repurchase 
+
+agreement (repo) counterparty.  As the U.S. intermediate holding companies of foreign banks 
+
+with more material trading businesses in their U.S. operations are added to CCAR, we intend to 
+
+revisit whether the global market shock and counterparty default component should be applied to 
+
+firms beyond the U.S. GSIBs.  
+
+Another argument offered against inclusion of the surcharge as an element of post-stress 
+
+capital expectations is that the material distress or failure of a GSIB no longer poses a significant 
+

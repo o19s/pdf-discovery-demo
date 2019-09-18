@@ -1,0 +1,53 @@
+
+
+12 
+ 
+
+Treasuries in exchange for riskier but higher-yielding assets.7  After all, with a leverage ratio as 
+
+the only significant constraint, the regulatory cost of holding a short-term Treasury bill is 
+
+identical to that of a junk bond.  It is this very limitation of a leverage ratio that led to the 
+
+creation of a complementary risk-based capital requirement in the 1980s.  To truly assure the 
+
+safety and soundness of the financial system, a leverage ratio serving as the sole or dominant 
+
+form of prudential regulation would probably have to be set considerably higher, at a level where 
+
+the impact on financial intermediation could be quite substantial. 
+
+ As to the impact of the 2 percent enhanced supplementary leverage ratio, our experience 
+
+leads me to believe that it may be worth changing to account for the quite different business 
+
+operations of the G-SIBs, particularly those in the custody business.  The complementarity of 
+
+risk-based capital requirements and leverage ratios suggests that there should be some 
+
+proportionality between the two.  This is, of course, the current situation with respect to the 
+
+standards applicable to non-systemic banks, with the leverage ratio requirement being sensibly 
+
+set somewhat below the risk based requirement.  However, with the additional standards 
+
+applicable only to the eight systemically important firms, we have a sliding scale of risk-based 
+
+surcharges but an across-the-board 2 percent leverage ratio surcharge.   
+
+In practical terms, the asymmetry is most significant for the two banks that are 
+
+dominantly custodial and transactional in nature, rather than lending and trading firms.  These 
+
+banks have had the lowest risk-based surcharges of the eight G-SIBs--currently 1-½ percent--but 
+
+their leverage surcharge is 2 percent.  This is especially problematic for their operations, since 
+
+they prudently reinvest custody customer deposits into safe and liquid assets.   
+
+                                                 
+7 Some market observers and participants believe that current capital requirements have impinged somewhat on 
+market liquidity for Treasuries.  While this claim is hard to prove with existing data, particularly given the 
+difficulties of determining optimal levels of liquidity, it seems reasonable to assume that a very high leverage ratio 
+would seriously constrict market making in Treasuries. 
+

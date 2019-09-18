@@ -1,0 +1,53 @@
+
+12 
+ 
+
+
+really fit our need for an approach that can--as a practical matter--be developed and implemented 
+
+in the relatively near term. 
+
+These are some of the paths we do not intend to take in formulating capital requirements 
+
+for insurance firms.  The approach we do intend to follow will be elaborated in what I anticipate 
+
+will be an advance notice of proposed rulemaking (ANPR) to be issued in the coming weeks.  As 
+
+I suggested earlier, the ANPR will likely put forward two different methodologies--one for the 
+
+insurance firms that we supervise solely because they own a bank or thrift and the other for the 
+
+firms designated as systemically important. 
+
+A. Insurance Companies Owning a Bank or Thrift: The Building Block Approach 
+
+The Federal Reserve has traditionally set capital requirements for holding companies on a 
+
+consolidated basis.  Among other things, a consolidated capital standard deters firms from 
+
+moving assets around its affiliates in order to take advantage of lower requirements applied to 
+
+different affiliates for particular assets.  Insofar as publicly traded banking organizations are 
+
+required by securities laws to file consolidated, U.S. GAAP-consistent financial statements, there 
+
+is both a parallelism between accounting and capital regulation and a measure of economy in the 
+
+compliance costs of a consolidated capital rule.   
+
+In contrast, most insurance firms subject to our regulation only because they own 
+
+depository institutions do not produce consolidated financial statements.  Furthermore, Congress 
+
+has prohibited the Federal Reserve from requiring insurance firms that file only Statutory 
+
+Accounting Principles (SAP) financial statements to produce U.S. GAAP consolidated financial 
+
+statements.9  Given that these firms have not been designated systemically important and that the 
+
+depository institutions they own tend to be relatively small parts of the total firm, the compliance 
+
+                                                           
+9 The SAP are a set of accounting rules for insurance companies established by the NAIC and used to prepare those 
+companies’ financial statements.  
+

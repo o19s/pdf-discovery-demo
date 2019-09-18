@@ -1,0 +1,46 @@
+
+ - 5 - 
+
+the natural rate represents a tight labor market and is associated with upward inflation 
+
+pressure.      
+
+Figure 3 repeats figure 2 but replaces unemployment with labor market slack as 
+
+measured by unemployment minus the CBO’s current estimate of the natural rate of 
+
+unemployment at each point in time.6  Periods of tight labor markets are shaded.  During 
+
+the Great Inflation, inflation generally rose in the tight, shaded periods and fell in the 
+
+unshaded ones, just as conventional Phillips curve reasoning predicts.   
+
+From 1995 to today, the large and persistent swings in the gap between 
+
+unemployment and the natural rate were associated with, at most, a move of a few tenths 
+
+in the inflation rate.  Comparing the shaded and unshaded regions, you might see some 
+
+association between slack and the minor ups and downs in inflation, but the pattern is not 
+
+at all consistent.  It is evidence like this that fuels speculation about the Phillips curve’s 
+
+demise.     
+
+Whether dead, sick, or merely resting, many of the questions about the Phillips 
+
+curve come down to figuring out what changed between these two periods, and why.  Let 
+
+us turn to a conceptual framework for examining these questions more systematically.  
+
+A Simple Framework for Understanding Changes in the Jobs-Inflation Relationship 
+
+A natural starting point is the simplest form of a Phillips curve equation, which 
+
+posits that inflation this year is determined by some combination of current labor market 
+
+                                                 
+6 This estimate is the CBO’s current assessment of what the natural rate was at each period in the sample, 
+not a measure of the natural rate as perceived in real time.  I discuss the importance of this distinction in 
+Powell (2018). 
+

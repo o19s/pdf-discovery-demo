@@ -1,0 +1,49 @@
+
+ - 4 - 
+
+former engineer--discovered what later became the Phillips curve.  The difference 
+
+between the short- and long-run Phillips curves, which is now a staple of textbooks, was 
+
+developed by Milton Friedman and Edmund Phelps, and the effect of making 
+
+expectations rational or model consistent was emphasized by Robert Lucas, whose 
+
+islands model provided an imperfect information reason for a nonvertical short-run 
+
+Phillips curve.  In Okun’s law, the Okun coefficient--the coefficient specifying how much 
+
+a change in the unemployment rate affects output--appears to have declined over time.  
+
+So has the trend rate of productivity growth, which is a critical determinant of future 
+
+levels of per capita income.   
+
+In (3), the monetary equilibrium condition, the monetary policy decision was 
+
+typically represented by the money stock at the LSE and perhaps also at the 
+
+Massachusetts Institute of Technology (MIT) after the Keynesian revolution (after all, 
+
+“L” represents the liquidity preference function and “M” the supply of money); now the 
+
+money supply rule is replaced by an interest-rate setting rule, for instance a reaction 
+
+function of some form, or by a calculated “optimal” policy based on a loss function.   
+
+The development of the flexible inflation-targeting approach to monetary policy is 
+
+one of the major achievements of modern macroeconomics.  Flexible inflation targeting 
+
+allows for flexibility in the speed with which the monetary authority plans on returning to 
+
+the target inflation rate, and is thereby close to the dual mandate that the law assigns to 
+
+the Fed.   
+
+A great deal of progress has been made in developing the credit and financial 
+
+intermediation block.  As early as the 1960s, each of James Tobin, Milton Friedman, and 
+
+Karl Brunner and Alan Meltzer wrote out models with more fully explicated financial 
+

@@ -1,0 +1,51 @@
+
+ - 6 -
+
+message of this research is that capital regulation is important to ensure solvency, but 
+
+once a reliable regime of capital regulation is in place, liquidity problems can be dealt 
+
+with after the fact, via some combination of deposit insurance and use of the LOLR. 
+
+It follows that if one is going to make an argument in favor of adding preventative 
+
+liquidity regulation such as the LCR on top of capital regulation, a central premise must 
+
+be that the use of LOLR capacity in a crisis scenario is socially costly, so that it is an 
+
+explicit objective of policy to economize on its use in such circumstances.  I think this 
+
+premise is a sensible one.9  A key point in this regard--and one that has been reinforced 
+
+by the experience of the past several years--is that the line between illiquidity and 
+
+insolvency is far blurrier in real life than it is sometimes assumed to be in theory.  Indeed, 
+
+one might argue that a bank or broker-dealer that experiences a liquidity crunch must 
+
+have some probability of having solvency problems as well; otherwise, it is hard to see 
+
+why it could not attract short-term funding from the private market. 
+
+This reasoning implies that when the central bank acts as an LOLR in a crisis, it 
+
+necessarily takes on some amount of credit risk.  And if it experiences losses, these losses 
+
+ultimately fall on the shoulders of taxpayers.  Moreover, the use of an LOLR to support 
+
+banks when they get into trouble can lead to moral hazard problems, in the sense that 
+
+banks may be less prudent ex ante.  If it were not for these costs of using LOLR capacity, 
+
+the problem would be trivial, and there would be no need for liquidity regulation:  
+
+Assuming a well-functioning capital-regulation regime, the central bank could always 
+
+avert all fire sales and bank failures ex post, simply by acting as an LOLR. 
+
+                                                                                                                                                 
+are solvent and that the loans are adequately collateralized.  See Walter Bagehot ([1873] 1999), Lombard 
+Street:  A Description of the Money Market (London:  King; reprint, New York:  Wiley). 
+9 This is, of course, not to say that the LOLR should not be used in extreme circumstances--only that doing 
+so comes with a cost, so policy should seek to reduce the likelihood that it will have to be used. 
+

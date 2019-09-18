@@ -1,0 +1,59 @@
+
+
+
+- 17 - 
+
+Importantly, resource utilization rates have been so low since late 2008 that a 
+
+variety of simple rules have been calling for a federal funds rate substantially below zero, 
+
+which of course is not possible.  Consequently, the actual setting of the target funds rate 
+
+has been persistently tighter than such rules would have recommended.  The FOMC’s 
+
+unconventional policy actions--including our large-scale asset purchase programs--have 
+
+surely helped fill this “policy gap” but, in my judgment, have not entirely compensated 
+
+for the zero-bound constraint on conventional policy.  In effect, there has been a 
+
+significant shortfall in the overall amount of monetary policy stimulus since early 2009 
+
+relative to the prescriptions of the simple rules that I’ve described.   
+
+Analysis by some of my Federal Reserve colleagues suggests that monetary 
+
+policy can produce better economic outcomes if it commits to making up for at least 
+
+some portion of the cumulative shortfall created by the zero lower bound--namely, by 
+
+maintaining a highly accommodative monetary policy for longer than a simple rule would 
+
+otherwise prescribe.
+17
+
+  This consideration is one important reason that the optimal control 
+
+simulation generates a more accommodative path than the Taylor (1999) rule. 
+
+Risk-management considerations strengthen the case for maintaining a highly 
+
+accommodative policy stance longer than might otherwise be considered appropriate.  In 
+
+particular, the FOMC has considerable latitude to withdraw policy accommodation if the 
+
+economic recovery were to proceed much faster than expected or if inflation were to 
+
+come in higher.  In contrast, if the recovery faltered or inflation drifted down, the 
+
+Committee could provide additional stimulus using its unconventional tools, but doing so 
+
+involves costs and risks.  Given the unprecedented nature of the current economic 
+
+                                                 
+17
+
+ See David Reifschneider and John C. Willams (2000), “Three Lessons for Monetary Policy in a Low-
+
+Inflation Era,” Journal of Money, Credit, and Banking, vol. 32 (November), pp. 936-66. 
+

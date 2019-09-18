@@ -1,0 +1,48 @@
+
+- 13 - 
+ 
+
+understand in general terms how the supervisory models work, and, even more 
+
+importantly, they need to be confident that our models are empirically validated and 
+
+sound.  I mentioned our internal efforts at model validation, which have increased the 
+
+quality and accuracy of our models.  We have also begun to host an annual stress test 
+
+modeling symposium, which provides a venue for regulators, bankers, academics, and 
+
+others to share their views.  Over time, we expect banks to better understand the basic 
+
+elements of the supervisory models, rendering them at least somewhat less opaque.  
+
+At the same time, it is reasonable to worry that, with increased disclosure of 
+
+supervisory models, firms would see a declining benefit to maintaining independent risk-
+
+management systems and would just adopt supervisory models instead.  Doing so would 
+
+certainly make it easier to “pass” the stress tests.  However, all models have their blind 
+
+spots, and such an outcome risks a “model monoculture” that would be susceptible to a 
+
+single, common failure.  The differences in stress test results obtained by supervisors’ 
+
+and banks’ own models can be informative, and we do not want inadvertently to destroy 
+
+the healthy diversity or innovation of the models and other risk-management tools used in 
+
+the banking industry. 
+
+Another challenge is that our stress scenarios cannot encompass all of the risks 
+
+that banks might face.  For example, although some operational risk losses, such as 
+
+expenses for mortgage put-backs, are incorporated in our stress test estimates, banks may 
+
+face operational, legal, and other risks that are specific to their company or are otherwise 
+
+difficult to estimate.  It is important for banking firms to consider the potential for losses 
+
+from these other classes of risks as systematically as possible, and supervisors also 
+

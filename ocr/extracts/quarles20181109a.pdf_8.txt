@@ -1,0 +1,65 @@
+
+
+
+- 7 - 
+
+in the regime, and we are exploring alternatives.  Last, the SCB proposal would have 
+
+included a post-stress leverage requirement.  As the Federal Reserve has long maintained, 
+
+leverage requirements are intended to serve as a backstop to the risk-based capital 
+
+requirements.  By definition, they are not intended to be risk-sensitive.  Thus, I am 
+
+concerned that explicitly assigning a leverage buffer requirement to a firm on the basis of 
+
+risk-sensitive post-stress estimates runs afoul of the intellectual underpinnings of the 
+
+leverage ratio, and I would advocate removing this element of the stress capital buffer 
+
+regime.  Of course, leverage ratios, including the enhanced supplementary leverage 
+
+requirements, would remain a critical part of our regulatory capital regime, and we will 
+
+maintain the supervisory expectation that firms have sufficient capital to meet all 
+
+minimum regulatory requirements. 
+
+Together, the adjustments we are contemplating to the SCB offer promise in 
+
+improving the efficiency, coherence, and transparency of the regulatory capital regime 
+
+while maintaining the overall level of capital in the system and the core principles of the 
+
+regime that have proven successful.  That being said, we welcome a continued dialogue 
+
+with the public as we implement these changes, and through that implementation, we will 
+
+ensure that we maintain the incentives for effective stress testing practices that exist 
+
+today. 
+
+Transparency 
+
+Transparency of the stress test and its inputs and outputs is key to the credibility 
+
+of the stress test, and there are several initiatives underway to provide additional 
+
+transparency regarding the supervisory stress test models and scenario design process.  
+
+We believe that the adjustments under development strike the right balance of advancing 
+
+transparency, while maintaining incentives for firms to think critically about their own 
+
+risks. 
+
+I expect that soon you will see the Federal Reserve issue a policy statement 
+
+describing governing principles around the supervisory stress testing process.  As a part 
+
+of that statement, I would expect a commitment to disclose additional detail about 
+
+supervisory stress test models and results and to publish portfolios of hypothetical loans 
+
+and associated loss rates.  I expect that we will begin providing some of this additional 
+

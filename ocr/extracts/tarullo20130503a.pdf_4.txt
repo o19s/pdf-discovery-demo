@@ -1,0 +1,49 @@
+
+ - 3 - 
+
+entities such as Structured Investment Vehicles (SIVs), money market funds, asset-
+
+backed commercial paper conduits, and auction rate securities.  These firms also 
+
+dominated the underwriting of assets purchased by entities within the shadow banking 
+
+system. 
+
+Though motivated in part by regulatory arbitrage, these developments were driven 
+
+by more than regulatory evasion.  The growth and deepening of capital markets lowered 
+
+financing costs for many companies and, through innovations such as securitization, 
+
+helped expand the availability of capital for mortgage lending.  Similarly, the rise of 
+
+institutional investors as guardians of household savings made a wide array of investment 
+
+and savings products available to a much greater portion of the American public.  
+
+But these changes also helped accelerate the fracturing of the system established 
+
+in the 1930s.  While the increasingly outmoded regulation of earlier decades was eroded, 
+
+no new regulatory mechanisms were put in place to control new risks.  When, in 2007, 
+
+questions arose about the quality of some of the assets on which the shadow banking 
+
+system was based--notably, those tied to poorly underwritten subprime mortgages--a 
+
+classic adverse feedback loop ensued.  Investors formerly willing to lend against almost 
+
+any asset on a short-term, secured basis were suddenly unwilling to lend against a wide 
+
+range of assets, notably including the structured products that had become central to the 
+
+shadow banking system.  Liquidity-strained institutions found themselves forced to sell 
+
+positions, which placed additional downward pressure on asset prices, thereby 
+
+accelerating margin calls on leveraged actors and amplifying mark-to-market losses for 
+
+all holders of the assets.  The margin calls and booked losses would start another round in 
+
+the adverse feedback loop.  
+

@@ -1,0 +1,49 @@
+
+ - 7 - 
+
+To promote solvency, one could impose ratio-type capital requirements, such as 
+
+leverage ratio requirements or risk-based requirements.  An alternative is to require that 
+
+firms perform regular stress tests to demonstrate that they can remain solvent and 
+
+continue to lend even under stress.  In the Fed’s case, it has chosen to impose all of these 
+
+requirements on banks, but these requirements cannot simply be applied, as is, to 
+
+nonbanks.   
+
+It is well known that solvency and liquidity can be difficult to separate during 
+
+stress periods because fears about solvency, even if unfounded, can prompt a run.  Thus, 
+
+one could also imagine promoting both solvency and liquidity at some nonbanks by 
+
+imposing restrictions on their structure or activities in ways that reduce the likelihood of 
+
+runs.  An example of this is recent changes by the Securities and Exchange Commission 
+
+(SEC) in regulations for prime money market mutual funds.  Starting in 2016, prime 
+
+institutional money funds will be required to publish a floating net asset value rather than 
+
+a stable value of $1 per unit.  Stable-value funds, as we saw during the crisis, can be 
+
+vulnerable to an unexpected “break the buck” event that leads to a run.  Under the new 
+
+rules, funds can also impose limitations on withdrawals of liabilities and can impose 
+
+liability redemption fees.  The SEC considered requiring money market funds to hold 
+
+some capital but chose not to do so.  Only time will tell whether the adopted reforms have 
+
+the intended run-damping effects, but if they do, capital will be much less necessary. 
+
+Some may raise concerns that increased regulation of nonbanks will only increase 
+
+moral hazard and increase risk to the system on net.  But moral hazard may already be 
+
+present.  Over the past 20 years and more, governments have sometimes acted to contain 
+
+damage from distress at nonbanks because of the economic damage that might have 
+

@@ -1,0 +1,49 @@
+
+ - 7 - 
+
+Committee will be patient as it determines what future adjustments to the . . . federal 
+
+funds rate may be appropriate to support” our dual-mandate objectives.12  What does this 
+
+mean in practice?  To me, it means that we should allow the data on the U.S. economy to 
+
+flow in and inform our future decisions.  
+
+I believe that the path for the federal funds rate should be data dependent in two 
+
+distinct ways.13  Monetary policy should be data dependent in the sense that incoming 
+
+data reveal at any point in time where the economy is relative to the ultimate objectives 
+
+of price stability and maximum employment.  This information on where the economy is 
+
+relative to the goals of monetary policy is an important input into interest rate feedback 
+
+rules.  Data dependence in this sense is well understood, as it is of the type implied by a 
+
+large family of policy rules, including Taylor-type rules, in which the parameters of the 
+
+economy needed to formulate such rules are taken as known. 
+
+But, of course, key parameters needed to formulate such rules, including u* and 
+
+r*, are unknown.  As a result, in the real world, monetary policy should be—and in the 
+
+United States, I believe, is—data dependent in a second sense:  Policymakers should and 
+
+do study incoming data and use models to extract signals that enable them to update and 
+
+improve estimates of r* and u*.  Consistent with my earlier discussion, in the Summary 
+
+of Economic Projections, FOMC participants have, over the past seven years, repeatedly 
+
+revised down their estimates of both u* and r* as unemployment fell and real interest 
+
+rates remained well below previous estimates of neutral without the rise in inflation those 
+
+earlier estimates would have predicted.  And these revisions to u* and r* appeared to 
+
+                                                 
+12 For example, see the May 2019 FOMC statement at Board of Governors (2019c), p.1.  
+13 For discussions on the federal funds rate and data dependency, see Clarida (2018a, 2018b). 
+

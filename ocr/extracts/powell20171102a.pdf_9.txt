@@ -1,0 +1,68 @@
+
+Figure 2:  Daily Volumes in Selected U.S. Money Markets 
+
+
+
+Average volumes over 2017H1, with the exception of 3-month T-bills, which are preliminary estimates from available FINRA 
+Trade Reporting and Compliance Engine (TRACE) data over August and September 2017.  3-month volumes are based on all 
+transactions with remaining maturities between 80 and 100 calendar days or 41-80 business days.  Source:  Federal Reserve 
+Bank of New York; Finance Industry Regulatory Authority; DTCC Solutions LLC, an affiliate of the Depository Trust & Clearing 
+Corporation; and the Board of Governors of the Federal Reserve.   
+
+
+
+
+0
+
+100
+
+200
+
+300
+
+400
+
+500
+
+600
+
+700
+
+800
+
+Secured
+Overnight
+
+Financing Rate
+(SOFR)
+
+Overnight Bank
+Funding Rate
+
+Effective
+Federal Funds
+
+Rate
+
+3-month T-bills 3-month GSIB
+wholesale
+
+funding
+
+3-month AA
+nonfinancial CP
+
+3-month A2/P2
+nonfinancial CP
+
+Daily Volumes in U.S. Money Markets
+Billions USD
+
+$754 billion
+
+$197 billion
+
+$79 billion
+
+Est. $13 billion $1.1 billion $343 million $132 million
+

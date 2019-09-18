@@ -1,0 +1,52 @@
+
+ - 11 - 
+
+available for private-sector portfolios declines.  As the securities purchased by the Fed 
+
+become scarcer, they should become more valuable.  Consequently, their yields should 
+
+fall as investors demand a smaller term premium for holding them.  This argument 
+
+depends importantly on the assumption that the longer-term Treasury and MBS securities 
+
+that the Fed buys are not perfectly substitutable with other types of assets, an assumption 
+
+that seems well supported in practice.12 
+
+As both forward rate guidance and LSAPs affect longer-term interest rates, the 
+
+use of these tools allows monetary policy to be effective even when short-term interest 
+
+rates are close to zero.  However, the Committee does not view these two tools as entirely 
+
+equivalent.  One reason is that we have much less experience with policies designed to 
+
+operate on term premiums, as LSAPs do.  As a result, though a strong majority of FOMC 
+
+members believes that both the forward rate guidance and the LSAPs are helping to 
+
+support the recovery, we are somewhat less certain about the magnitudes of the effects on 
+
+financial conditions and the economy of changes in the pace of purchases or in the 
+
+accumulated stock of assets on the Fed’s balance sheet.  Moreover, economists do not 
+
+have as good an understanding as we would like of the factors determining term 
+
+premiums; indeed, as we saw earlier this year, hard-to-predict shifts in term premiums 
+
+can be a source of significant volatility in interest rates and financial conditions.  LSAPs 
+
+have other drawbacks not associated with forward rate guidance, including the risk of 
+
+impairing the functioning of securities markets and the extra complexities for the Fed of 
+
+operating with a much larger balance sheet, although I see both of these issues as 
+
+                                                 
+12 I discussed this effect more fully in Bernanke (2012).  As I noted then, both Milton Friedman (2000) and 
+James Tobin (1965, 1969) made this argument.  LSAPs may affect financial conditions through other 
+channels as well; see Bernanke (2012) for a more complete discussion.  One such channel is a “signaling 
+channel,” which works to the extent that the direct action of buying securities increases the credibility of 
+communication tools like forward rate guidance (Posen, 2012). 
+

@@ -1,0 +1,49 @@
+
+ - 8 - 
+
+One possible interpretation is that the high-yield share acts as a summary statistic for a 
+
+variety of nonprice credit terms and structural features.  That is, when agents’ risk 
+
+appetite goes up, they agree to fewer covenants, accept more-implicit subordination, and 
+
+so forth, and high-yield issuance responds accordingly, hence its predictive power. 
+
+A second implication of the institutions view is what one might call the “tip of the 
+
+iceberg” caveat.  Quantifying risk-taking in credit markets is difficult in real time, 
+
+precisely because risks are often taken in opaque ways that escape conventional 
+
+measurement practices.  So we should be humble about our ability to see the whole 
+
+picture, and should interpret those clues that we do see accordingly.  For example, I have 
+
+mentioned the junk bond market several times, but not because this market is necessarily 
+
+the most important venue for the sort of risk-taking that is likely to raise systemic 
+
+concerns.  Rather, because it offers a relatively long history on price and nonprice terms, 
+
+it is arguably a useful barometer.  Thus, overheating in the junk bond market might not be 
+
+a major systemic concern in and of itself, but it might indicate that similar overheating 
+
+forces were at play in other parts of credit markets, out of our range of vision. 
+
+Recent Developments in Credit Markets 
+
+With these remarks as a prelude, what I’d like to do next is take you on a brief 
+
+tour of recent developments in a few selected areas of credit markets.  This tour draws 
+
+heavily on work conducted by the Federal Reserve staff as part of our ongoing 
+
+quantitative surveillance efforts, under the auspices of our Office of Financial Stability 
+
+Policy and Research.   
+
+The first stop on the tour is the market for leveraged finance, encompassing both 
+
+the public junk bond market and the syndicated leveraged loan market.  As can be seen in 
+

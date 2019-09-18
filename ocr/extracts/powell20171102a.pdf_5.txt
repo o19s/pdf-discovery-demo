@@ -1,0 +1,51 @@
+
+- 4 - 
+ 
+
+
+the Financial Stability Board (FSB), we charged the ARRC with identifying a robust alternative 
+
+to U.S. dollar LIBOR and with developing a plan to encourage its use in some derivatives and 
+
+other transactions as appropriate.   
+
+The ARRC has accomplished the things that we asked of it.  I want to thank the members 
+
+for their work and also to extend my special thanks to Sandie O’Connor as the chair of the 
+
+ARRC.  Sandie will discuss the ARRC’s work shortly, but I’ll make a few points.   
+
+First, I’d note that, like most market participants, the ARRC members initially had a 
+
+difficult time conceiving of any kind of transition from LIBOR.  As is the case for all of you, a 
+
+transition will be a complicated task for the broker-dealers and other members of the ARRC, and 
+
+will involve significant costs.  Over time, however, I think the ARRC members have developed a 
+
+greater understanding of the risks to LIBOR and now see that, despite those complications and 
+
+costs, a transition may prove necessary.  I also think that, having had time to consider the 
+
+transition plans that Sandie will talk about, ARRC members have become more comfortable with 
+
+the idea that a transition is feasible, even if the necessity of achieving it is regrettable.  
+
+  Second, it is clear that any rate the ARRC selected as a potential alternative needed to be 
+
+highly robust.  There would be no point in selecting a rate that might find itself quickly in the 
+
+same kinds of conditions that LIBOR is in now.  In our view, the ARRC has chosen the most 
+
+robust rate available.  In general, only overnight unsecured or secured funding markets appeared 
+
+to have enough underlying transactions to produce a robust rate.  The overnight Treasury repo 
+
+market is the largest and most active market in any tenor of U.S. rates markets.  Figure 2 
+
+illustrates the point:  the transactions underlying the Secured Overnight Financing Rate (SOFR), 
+
+at about $700 billion per day or more, are much larger than the volumes in overnight unsecured 
+
+markets, even much larger than estimates of the volume in Treasury bills, and they dwarf the 
+

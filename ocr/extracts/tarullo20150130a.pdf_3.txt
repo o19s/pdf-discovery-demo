@@ -1,0 +1,53 @@
+
+central counterparties.  Before discussing these specifics, I will begin with some brief 
+
+observations on macroprudential tools and, in particular, the special difficulties associated with 
+
+time-varying macroprudential policies. 
+
+The Varieties of Macroprudential Tools  
+
+ In mapping out the range of macroprudential policies, analysts have developed various 
+
+taxonomies.  Common to most is the distinction between tools designed to prevent systemic risk 
+
+from building by “leaning against the wind” and tools designed to increase the resiliency of the 
+
+financial system should systemic risk nonetheless build and lead to broad-based stress.  While 
+
+some tools may straddle this distinction, it seems useful as a starting point for evaluating the 
+
+utility of different measures.  As I have explained elsewhere, I think a distinction of equal--if not 
+
+greater--importance is between structural or “through the cycle” tools, on the one hand, and time-
+
+varying tools, on the other.1  Structural macroprudential tools are put in place as a part of the 
+
+ongoing regulatory structure, but they are designed specifically from a systemic, as opposed to a 
+
+firm- or asset-specific, perspective. 
+
+ Many proponents of macroprudential policy seem particularly attracted to time-varying 
+
+measures for both resiliency and lean-against-wind measures.  The aim is to regulate in an 
+
+explicitly countercyclical fashion through measures that attempt to restrain rapid, unsustainable 
+
+increases in credit extension or asset prices--either directly or through shifts in incentives--and to 
+
+relax those measures as economic conditions deteriorate.  One can readily understand the 
+
+conceptual appeal of this approach, but it raises a fair number of significant issues--analytic, 
+
+practical, institutional, and legal.  These include the reliability of measures of excess or systemic 
+
+risk, the appropriate officials to be making macroprudential decisions, the speed with which 
+
+1 See Daniel K. Tarullo (2013), “Macroprudential Regulation,” speech delivered at the Yale Law School Conference 
+on Challenges in Global Financial Services, New Haven, Connecticut, September 20. 
+
+3 
+ 
+
+
+

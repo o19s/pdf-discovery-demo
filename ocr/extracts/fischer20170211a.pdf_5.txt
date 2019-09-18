@@ -1,0 +1,53 @@
+
+ - 4 - 
+
+public shortly after the FOMC meeting in the Summary of Economic Projections (SEP), 
+
+and they receive a good deal of scrutiny by financial market participants and journalists.6 
+
+One important but underappreciated aspect of the SEP is that its projections are 
+
+based on each individual’s assessment of appropriate monetary policy.  Each FOMC 
+
+participant writes down what he or she regards as the appropriate path for policy.  They 
+
+do not write down what they expect the Committee to do.7  Yet the public often 
+
+misinterprets the interest rate paths we write down as a projection of the Committee’s 
+
+policy path or a commitment to a particular path. 
+
+Models and the Modeling of Monetary Policy 
+
+Now, that is a lot of talk about the process of monetary policymaking.  Let me 
+
+turn to some of the machinery behind that process--in particular, to macroeconomic 
+
+models and their role in assisting the FOMC’s decisionmaking.  The Board staff 
+
+maintains several models; I will focus on the FRB/US model, the best known and most 
+
+                                                 
+6 The SEP was introduced in 2007 and expanded on forecasts that FOMC participants had already been 
+
+making twice each year since 1979 in the Monetary Policy Report prepared for the Congress.  Since 2011, 
+
+the Federal Reserve Chair has held a press conference following each FOMC meeting with an SEP, in part 
+
+to discuss the projections. 
+7 “Appropriate monetary policy” is Fedspeak for a policy that delivers on the Committee’s interpretation of 
+
+its legislated mandate.  The fact that FOMC participants’ forecasts are conditional on each participant’s 
+
+conception of the appropriate monetary policy has at least three noteworthy implications.  First, it means 
+
+that their forecasts will tend to converge over time to the Committee’s 2 percent inflation objective and to 
+
+each individual’s interpretation of maximum employment.  Second, revisions to the SEP tend to manifest 
+
+themselves in the path for the federal funds rate deemed to be appropriate to achieve those objectives.  And 
+
+third, the paths for the federal funds rate that deliver on those objectives will often differ from one 
+
+participant to the next. 
+

@@ -1,0 +1,51 @@
+
+
+
+- 11 - 
+
+bank investors, shadow bank investors cannot afford to sleep through time 1; their ability 
+
+to pull the plug at this interim date is essential to keeping their claim safe. 
+
+For any given asset i, the key question is, which type of intermediary--traditional 
+
+bank or shadow bank--will end up holding the asset in equilibrium, and in what relative 
+
+proportions?  The answer to this question turns on the following tradeoff.  On the one 
+
+hand, since banks finance themselves with more equity and less cheap “money” than 
+
+shadow banks, their overall cost of financing is higher, which puts them at a 
+
+disadvantage.  On the other hand, their more conservative capital structure means that 
+
+banks’ deposits never run on them.  Hence, unlike shadow banks, they are never forced to 
+
+liquidate assets at temporarily low prices when there is bad news at time 1; they can 
+
+simply ride out this bad news and hold on to their investments until prices recover at time 
+
+2.  In other words, as compared with shadow banks, traditional banks pay more to have a 
+
+stabler funding structure, which is especially helpful for investing in those assets for 
+
+which fire-sale discounts are high. 
+
+To close the model, we need to endogenize the fire-sale discount factor, ki.  We 
+
+assume that this fire-sale discount depends in part on the amount of liquidations at time 1, 
+
+which is in turn related to the extent of ownership of asset i by the shadow banking 
+
+sector--the more the shadow banking sector owns, the more gets dumped at time 1, and 
+
+hence the lower is the fire-sale price.  This assumption implies that the fire-sale discount 
+
+plays an important equilibrating role in the model, and that we can have interior 
+
+equilibria in which the ownership of a given asset i is divided across the traditional 
+
+banking and shadow banking sectors; as ownership migrates to shadow banks, the fire-
+
+sale discount widens, which tends to reduce the relative advantage of shadow banks. 
+

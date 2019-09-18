@@ -1,0 +1,50 @@
+
+-11- 
+
+
+
+
+heavy export/investment model.  But many other Asian economies’ fortunes are tied to those of 
+
+China, so developments in China will have important implications for growth in these 
+
+economies.  
+
+One natural question is how the rise in domestic content of Chinese exports is affecting 
+
+countries that rely heavily on supplying parts and components to China.  To document this 
+
+reliance, your next slide shows that the share of parts and components in other Asian economies’ 
+
+exports to China (the middle green bars) is much greater than their share in exports to the rest of 
+
+the world (the right blue bars).  Over time, this share has fallen from about 70 percent in 2005 to 
+
+60 percent in 2014, without the share of parts and components in exports to the rest of the world 
+
+increasing.  This evidence, combined with the evidence I presented earlier on trends in Chinese 
+
+processing exports, suggests that other economies in Asia are being adversely affected both by 
+
+less final global demand for Chinese exports and by less use of imported parts and components 
+
+by China in the production of any given amount of final goods exports.  
+
+And the effects of these shifts in supply chains are being offset only very slowly and to 
+
+only a very limited extent by China importing more goods for domestic consumption.16  
+
+Accordingly, it is doubtful that, at least so far, China is fully replacing advanced-economy 
+
+demand as an engine of growth for the rest of emerging Asia.  One way to look more concretely 
+
+at this issue is to estimate an equation for the growth for emerging Asia ex. China that separately 
+
+controls for the effects of Chinese growth and advanced-economy growth.  This approach lets us 
+
+
+16 The arguments laid out here are consistent with the findings in the chapter on spillovers from China’s transition 
+presented in the latest IMF World Economic Outlook (2016b).  This chapter concludes that for many countries the 
+effect of China’s transition and rebalancing toward a more sustainable growth model will entail short-run negative 
+spillovers, but there will be potential gains to the global economy over the longer term.   
+

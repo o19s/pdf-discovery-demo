@@ -1,0 +1,54 @@
+
+- 6 - 
+ 
+
+ 
+
+the Dodd-Frank requirement for stress testing at large banks, but more generally in the Federal 
+
+Reserve's establishment of a formal annual capital planning requirement for these firms. 
+
+The development and implementation of these three threads of capital reform are at 
+
+different stages, so it may be useful to review where each stands.  As to the first--improving the 
+
+traditional, individual-firm approach to capital regulation--Basel 2.5 and Basel III are important 
+
+steps forward, both internationally and domestically.  In addition, the so-called “Collins 
+
+amendment” in Dodd-Frank requires that banking organizations maintain capital at levels no 
+
+lower than those set by “generally applicable” requirements, which include a standardized 
+
+approach to risk-weighting.  In practice, the Collins amendment provides a safeguard against 
+
+declines in minimum capital requirements in a capital regime based on internal modeling. 
+
+The Basel Committee completed work on Basel 2.5 and Basel III in 2009 and 2010, 
+
+respectively.  Implementation of these two frameworks into national legislation or regulations is 
+
+underway in the jurisdictions represented on the committee.1    
+
+Two issues concerning implementation in the United States bear mentioning.  First, while 
+
+U.S. bank regulatory agencies have published a proposed regulation for the new market risk 
+
+capital requirements, we did not include the trading book securitization and resecuritization 
+
+portions of Basel 2.5, which are supposed to take effect in 2011.  The complication here, and 
+
+with part of Basel III implementation, lies in the use of agency credit ratings.  Dodd-Frank 
+
+requires the removal of agency credit ratings from all regulations throughout the government.  
+
+Thus, the banking agencies have had to develop substitutes for agency ratings in each of the 
+
+quite different contexts in which they are used within the capital standards.  This has not been the 
+
+easiest of tasks, but I believe we are now close to convergence on the approaches we will take in 
+
+                                                            
+1 Basel Committee on Banking Supervision (2011), Progress Report on Basel III Implementation (Bank for 
+International Settlements: Basel, Switzerland, October), www.bis.org/publ/bcbs203.pdf. 
+

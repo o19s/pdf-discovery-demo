@@ -1,0 +1,50 @@
+
+- 6 - 
+
+
+
+
+influence the underlying incentives for short-term debt issuance.  And these incentives 
+
+are in turn shaped by the structure of rates and term premiums in the market.   
+
+As I noted earlier, a natural response for any firm facing an unusually low term 
+
+premium is to adjust its capital structure by issuing cheap long-term debt to replace its 
+
+shorter-term debt.  It is therefore not surprising that the average debt maturity of large 
+
+nonfinancial firms has increased notably over the past few years.  Moreover, the same 
+
+pattern shows up among large financial firms--they too have been significantly 
+
+lengthening their average debt maturity.  
+
+The current cheapness of long-term debt contrasts with the pre-crisis 
+
+configuration, where frequently a pronounced premium favored issuers not at the long 
+
+end of the yield curve, but at the very short end.  In other words, the fact that the yield 
+
+curve often tended to be steeply upward sloping at the front end gave financial firms a 
+
+strong incentive to issue overnight paper.  Thus I suspect that LSAPs have, by changing 
+
+the structure of term premiums in the market, helped encourage an extension of debt 
+
+maturity by both financial and nonfinancial firms.  All else being equal, this development 
+
+is a good thing from a financial stability perspective. 
+
+To conclude:  A corporate finance perspective on LSAPs suggests that when 
+
+monetary policy works by moving term premiums, as opposed to moving expectations 
+
+about the future path of short rates, the transmission to the real economy may be altered 
+
+in important ways.  These differences can have implications for how we think about the 
+
+benefits of a policy action, its costs, and even its consequences for financial stability.   
+
+Thanks very much, and I look forward to your questions. 
+

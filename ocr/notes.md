@@ -1,3 +1,20 @@
+## How to run
+
+1. Run the extraction process, creating the working docs in the `\extracts` directory.
+
+```
+pwsh extract-directory.ps1 ./files
+```
+
+1. Create Solr documents.
+
+```
+pwsh create-solr-docs.ps1 ./extracts ./files ./init/docs_for_solr/
+```
+
+
+
+
 ## Bugs/ Issues
 
 1. UnsolicitedCreditOffers2004.pdf has the .json version of the file is not pure json.s
@@ -10,7 +27,7 @@ Extracting 'image0.tif' (image/tiff) to ./image0.tif
 ```
 
 
-java -cp ./tika-properties:tika-app-1.22.jar org.apache.tika.cli.TikaCLI --xmp --jsonRecursive --extract --pretty-print -x ./files/odd-files/UnsolicitedCreditOffers2004.pdf 
+java -cp ./tika-properties:tika-app-1.22.jar org.apache.tika.cli.TikaCLI --xmp --jsonRecursive --extract --pretty-print -x ./files/odd-files/UnsolicitedCreditOffers2004.pdf
 
 java -cp tika-server-1.22.jar:./tika org.apache.tika.server.TikaServerCli
 

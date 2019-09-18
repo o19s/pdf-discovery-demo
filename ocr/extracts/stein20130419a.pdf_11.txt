@@ -1,0 +1,49 @@
+
+ - 10 -
+
+liquidity services created by a bank--via its deposits, the credit lines it provides to its 
+
+customers, the prime brokerage services it offers, and so forth.  The analog to the 
+
+mitigation technology--the scrubbers--is the stock of HQLA that the bank holds.  And the 
+
+analog to pollution is the net liquidity risk associated with the difference between these 
+
+two quantities, something akin to the LCR shortfall.  That is, when the bank offers a lot 
+
+of liquidity on demand to its customers but fails to hold an adequate buffer of HQLA, this 
+
+is when it imposes spillover costs on the rest of the financial system. 
+
+In the case of the power plant, I argued that a regulation that calls for a fixed 
+
+quantity of mitigation--that is, for a fixed number of scrubbers--is more attractive when 
+
+there is little uncertainty about the cost of these scrubbers.  In the context of the LCR, the 
+
+cost of mitigation is the premium that the bank must pay--in the form of reduced interest 
+
+income--for its stock of HQLA.  And, crucially, this HQLA premium is determined in 
+
+market equilibrium and depends on the total supply of safe assets in the system, relative 
+
+to the demand for those assets.  On the one hand, if safe HQLA-eligible assets are in 
+
+ample supply, the premium is likely to be low and stable.  On the other hand, if HQLA-
+
+eligible assets are scarce, the premium will be both higher and more volatile over time. 
+
+This latter situation is the one facing countries like Australia, where, as I noted 
+
+earlier, the stock of outstanding government securities is relatively small.  And it explains 
+
+why, for such countries, having a price-based mechanism as part of their implementation 
+
+of the LCR can be more appealing than pure reliance on a quantity mandate.  When one 
+
+sets an up-front fee for a CLF, one effectively caps the implicit tax associated with 
+
+liquidity regulation at the level of the commitment fee and tamps down the undesirable 
+
+volatility that would otherwise arise from an entirely quantity-based regime. 
+

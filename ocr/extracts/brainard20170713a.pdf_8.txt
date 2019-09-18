@@ -1,0 +1,49 @@
+
+ - 7 - 
+
+Thus, for a foreign economy that is at the effective lower bound, tightening in the 
+
+home country through balance-sheet policy will be less welcome than through short-term 
+
+rates.  The foreign economy will experience less exchange rate depreciation, and so less 
+
+of a boost to net exports.  In addition, the stimulus to the foreign economy could be 
+
+further diluted to the extent that the balance sheet policy boosted term premiums on its 
+
+long-term bonds and hence tightened financial conditions, although this effect has not 
+
+been built into the simulation model.  By contrast, for a foreign economy that is close to 
+
+potential, adjustment through the balance sheet in the home country will mean less of a 
+
+need for the foreign central bank to respond by tightening policy than under home 
+
+country adjustment through conventional policy. 
+
+So far, we have considered the case of central banks with freely floating exchange 
+
+rates and well-anchored inflation expectations.  What about central banks with managed 
+
+exchange rates or weakly anchored inflation expectations?  To keep the analysis simple, 
+
+let’s assume a foreign central bank aims to completely stabilize its exchange rate vis-à-
+
+vis a core country.  Let’s again consider circumstances in which the core country 
+
+experiences a positive demand shock that calls for policy tightening.  Although the 
+
+pegging economy is likely to experience spillovers under either approach to 
+
+normalization in the core country, the spillovers are likely to be greater when the core 
+
+country tightens through the policy rate.  The tightening in the core country will compel 
+
+the country that is fixing its exchange rate to tighten policy in sync and the core country’s 
+
+currency will rise more against its trading partners with conventional tightening, leading 
+
+to greater effective appreciation of the pegging country’s currency as well.  Although the 
+
+pegging economy will benefit somewhat from the stronger demand of the core country, 
+

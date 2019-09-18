@@ -1,0 +1,60 @@
+
+- 4 - 
+
+
+
+
+based on analysts’ earnings expectations) remain high by historic standards.  This 
+
+unusually large divergence in the costs of debt and equity--due in part to the cumulative 
+
+effects of our LSAP policies--is likely to be one factor that makes debt-financed 
+
+repurchases of equity attractive.   
+
+Let me turn now from Treasury-based LSAPs to those involving MBS.  If there is 
+
+to be any difference between the two, one necessary condition is that there is some form 
+
+of market segmentation, so that buying MBS has a different effect on the constellation of 
+
+credit-market rates than buying Treasury securities--in other words, it’s not all about just 
+
+removing a certain amount of undifferentiated duration from the market.  Judging by 
+
+what happened in the wake of the Committee’s policy announcement on September 13, 
+
+this segmentation condition seems to be clearly satisfied--indeed, I would say 
+
+surprisingly so.
+3
+  In particular, while nominal long-term Treasury yields were roughly 
+
+unchanged on the day of the announcement, yields on MBS fell dramatically.  Moreover, 
+
+although the pass-through to primary mortgage rates has been more gradual, it too has 
+
+been significant to date.   According to Freddie Mac’s primary mortgage market survey, 
+
+the rate on 30-year fixed-rate mortgages has come down by more than 20 basis points 
+
+since the September announcement, and is now near historic lows. 
+
+One way to say it is that, given the nature of market segmentation, MBS 
+
+purchases appear to trade off of some amount of breadth of effect across markets for a 
+
+more pronounced effect in a single market--namely, the mortgage market.  What, then, 
+
+are the implications for the transmission mechanism?  Clearly, it depends on the 
+
+sensitivity of different forms of spending to changes in rates.  If, per my previous 
+
+                                                 
+3
+ See Board of Governors of the Federal Reserve System (2012), “Federal Reserve Issues FOMC 
+
+Statement,” press release, September 13, 
+
+www.federalreserve.gov/newsevents/press/monetary/20120913a.htm. 
+

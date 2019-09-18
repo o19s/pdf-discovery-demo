@@ -1,0 +1,44 @@
+
+8 
+ 
+
+Mellon and JP Morgan Chase. 6  Money market mutual funds and securities lenders 
+
+are among the most prominent cash providers in segment 4, while securities 
+
+dealers are the primary borrowers of cash.  Dealers may use this cash to fund their 
+
+own portfolios; they may also lend it to other dealers in the general collateral 
+
+finance (GCF) repo market (segment 5).  This segment is cleared through the Fixed 
+
+Income Clearing Corporation, and is currently the only segment of the market that 
+
+is centrally cleared.   
+
+Based on figures from September 2015, the size of the tri-party repo market, 
+
+segment 4, was approximately $1.5 trillion and the GCF market (segment 5) was 
+
+approximately $300 billion.  The general lack of data on bilateral repo activity 
+
+makes it difficult to know the precise size of each individual segment of that 
+
+market, but bilateral repo and securities lending taken together accounted for 
+
+approximately $1.7 trillion in outstanding activity.7  
+
+Given its vast scale and position at the center of the wholesale finance 
+
+markets, repo is without doubt a critical activity.  Repo is a key source of financing 
+
+for a wide range of firms, and an important “safe asset” for investors.  The GCF 
+
+                                                           
+6  General collateral or GC repo involve repo transactions secured by a range of Treasury or other assets that are 
+accepted as collateral by the majority of intermediaries in the repo market. GC repo assets are high quality and 
+liquid, but not subject to exceptional specific demand. 
+7 These estimates are based on the methodology described in Adam Copeland, Isaac Davis, Eric LeSueur, and 
+Antoine Martin (2012), “Mapping and Sizing the U.S. Repo Market,” 
+libertystreeteconomics.newyorkfed.org/2012/06/mapping-and-sizing-the-us-repo-market.html#.VkiGUCtQpps 
+

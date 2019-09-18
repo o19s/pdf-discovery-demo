@@ -1,0 +1,49 @@
+
+ - 3 - 
+
+the one-month relative to the three-month swaption implied volatility, the volatility of 
+
+volatility, and the size of the tails of price-change distributions for certain assets.  We see 
+
+some increases in the values of these indicators, which provide some evidence that 
+
+liquidity may be less resilient than it had been previously.  But this evidence is not 
+
+particularly robust, and, given the limitations of the existing data, it is difficult to know 
+
+the extent to which liquidity resilience may have declined.   
+
+As we continue to investigate quantitative evidence of the deterioration in the 
+
+resilience of liquidity in some of the financial markets, we are also trying to tease out the 
+
+various drivers of liquidity conditions, such as changes in regulation, trading strategies, 
+
+and market structure.  Regulatory changes are often cited as a contributing factor.  
+
+Trading financial assets is a balance-sheet-intensive activity, and the Dodd-Frank Act, 
+
+has created incentives for institutions to carefully assess the risks of such activity through 
+
+stricter requirements on leverage, liquidity, and proprietary trading, raising the cost of 
+
+market making and possibly affecting market liquidity.  Indeed, there is evidence of 
+
+reductions in broker-dealer bond inventories in recent years.  Nonetheless, since not all 
+
+broker-dealer inventories are used for market-making activities, the extent to which lower 
+
+inventories are affecting liquidity is unclear.  Moreover, reductions in broker-dealer 
+
+inventories occurred prior to the passage of the Dodd-Frank Act, suggesting that factors 
+
+other than regulation may also be contributing. In assessing the role of regulation as a 
+
+possible contributor to reduced liquidity, it is important to recognize that those 
+
+regulations were put in place to reduce the concentration of liquidity risk on the balance 
+
+sheets of the large, highly interconnected institutions that proved to be a major amplifier 
+
+of financial instability at the height of the crisis.  
+

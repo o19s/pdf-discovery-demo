@@ -1,0 +1,74 @@
+
+- 28 - 
+
+
+Appendix:  The Estimated Inflation Model and Inflation Decomposition Procedure 
+
+The inflation model used in the decomposition procedure includes two equations--
+
+an identity for the change in the price index for total personal consumption expenditures 
+
+(PCE) and a simple reduced-form forecasting equation for core PCE inflation.35  The 
+
+identity is 
+
+𝜋𝑡 =  𝜋𝑡
+𝑐 + 𝜔𝑡
+
+𝑒𝑅𝑃𝐼𝐸𝑡 + 𝜔𝑡
+𝑓
+
+𝑅𝑃𝐼𝐹𝑡,  
+
+where 𝜋𝑡 and 𝜋𝑡
+𝑐 denote growth rates (expressed as annualized log differences) of total 
+
+and core PCE prices, respectively; 𝑅𝑃𝐼𝐸𝑡 and 𝑅𝑃𝐼𝐹𝑡 are annualized growth rates for 
+
+prices of consumer energy goods and services and prices of food and beverages, both 
+
+expressed relative to core PCE prices; and  𝜔𝑡
+𝑒 and  𝜔𝑡
+
+𝑓
+ are the weights of energy and 
+
+food in total consumption.  The core inflation forecasting equation is 
+
+𝜋𝑡
+𝑐 = .41𝜋𝑡
+
+𝑒 + .36𝜋𝑡−1
+𝑐 + .23𝜋𝑡−2
+
+𝑐 − .08𝑆𝐿𝐴𝐶𝐾𝑡 + .57𝑅𝑃𝐼𝑀𝑡 + 𝜖𝑡,  
+
+where 𝜋𝑡
+𝑒  is expected long-run inflation; 𝑆𝐿𝐴𝐶𝐾𝑡 denotes the level of resource utilization; 
+
+𝑅𝑃𝐼𝑀𝑡 controls for the effect of changes in the relative price of core imported goods; 𝜖𝑡 
+
+is a white-noise error term; and the coefficients are ordinary least squares estimates 
+
+obtained using data from 1990:Q1 to 2014:Q4. 
+
+For estimation purposes, 𝑆𝐿𝐴𝐶𝐾𝑡 is approximated using the unemployment rate 
+
+less the Congressional Budget Office’s (CBO) historical series for the long-run natural 
+
+rate, while 𝜋𝑡
+𝑒  is proxied using the median forecasts of long-run PCE or CPI inflation 
+
+reported in the Survey of Professional Forecasters, with a constant adjustment of 40 basis 
+
+                                                 
+35 This appendix was revised on December 17, 2015, to provide additional information on the definition of 
+
+core import inflation and its implications for the longer-run rate of unemployment consistent with stable 
+
+inflation.  In addition, the original version of the appendix incorrectly reported that the adjustment factor 
+
+used to convert historical readings on expected long-run inflation from a CPI basis to a PCE basis was 
+
+50 basis points. 
+

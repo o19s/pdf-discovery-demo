@@ -1,0 +1,51 @@
+
+ - 6 -
+
+their rounded net asset value (NAV) feature and the low risk tolerance of their investors.  
+
+Options for further reforms being considered by the Securities and Exchange 
+
+Commission (SEC) include a mandatory floating NAV to mute the incentive for investors 
+
+to be the first to redeem, capital buffers to allow funds to deal better with actual and 
+
+potential losses while sustaining a stable NAV, and limits on redemptions both to provide 
+
+more time for fund managers to address problems and to emphasize to investors that 
+
+money market funds do not guarantee bank-like liquidity.3 
+
+The triparty repurchase agreement (repo) market also continues to exhibit 
+
+important vulnerabilities.  In particular, the settlement process for triparty repo trades 
+
+continues to rely on massive amounts of intraday credit and, as a result, remains 
+
+vulnerable to a decision by a clearing bank to withhold funding from a market participant 
+
+in default or perceived as facing distress.  The FSOC has recommended reforms to deal 
+
+with these problems, and an industry task force has taken some key initial steps in that 
+
+direction--for example, by coordinating the implementation of a robust confirmation 
+
+process for triparty trades.  But more needs to be done.  Indeed, given the centrality of 
+
+this market to the financial system, taking further steps to reduce its vulnerabilities should 
+
+be given a high priority.  
+
+In addition to addressing the unfinished business from the financial crisis, 
+
+financial stability authorities and market participants need to be alert to new structures 
+
+and products, not just those that caused problems in the past.  New financial products--for 
+
+example, exchange-traded funds and collateralized commercial paper--may foster more 
+
+                                                 
+3 Box D of the FSOC 2011 annual report provides a fuller discussion of the financial-sector vulnerabilities 
+implied by money market funds.  See Financial Stability Oversight Council (2011), Financial Stability 
+Oversight Council 2011 Annual Report (Washington:  FSOC), “Box D:  Money Market Funds,” pp. 50-51, 
+www.treasury.gov/initiatives/fsoc/Documents/FSOCAR2011.pdf. 
+

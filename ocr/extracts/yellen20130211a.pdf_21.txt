@@ -1,0 +1,49 @@
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21
+92
+
+94
+
+96
+
+98
+
+100
+
+102  
+
+92
+
+94
+
+96
+
+98
+
+100
+
+102
+Index, NBER peak = 100
+
+Exhibit 2: Nonfarm Payroll Employment in Selected Recessions and Recoveries
+
+ 1973-75
+recession
+
+1981-82 recession
+
+ 1990-91
+recession
+
+2001 recession
+
+2007-09 recession
+
+Quarters since NBER peak
+
+0         1         2         3         4         5        6          7         8         9       10       11        12       13       14       15       16      17       18       19        20
+
+   Note: Payroll employment adjusted for trend employment growth.
+   Source: U.S. Department of Commerce, Bureau of Economic Analysis; Congressional Budget Office; National Bureau of Economic Research (NBER); and Federal Reserve
+Board staff calculations.
+

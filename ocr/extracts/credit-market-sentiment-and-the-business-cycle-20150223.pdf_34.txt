@@ -1,0 +1,50 @@
+
+Credit-Market Sentiment, Credit & Economic Growth
+Dep. Variable: \( \Delta y_t \); Sample Period: 1929-2013
+
+NOTE: Standard errors in parentheses: * \( p \lt .10 \), ** \( p \lt .05 \), and *** \( p \lt .01 \).
+
+R e g r e s s o r s ( 1 ) ( 2 ) ( 3 ) ( 4 )
+
+\( \Delta \hat{s}_t \) - 2 . 9 8 6 * * *   [Footnote. \( p \lt .01 \). End footnote.]
+
+( 0 . 6 9 7 )
+
+- 4 . 8 1 7 * * *
+
+( 1 . 8 3 5 )
+
+\( \Delta_5 \log{\mathrm{BC}_{t-1}} \) - 0 . 4 8 9 **  [Footnote. \( p \lt .05 \). End footnote.]
+
+( 0 . 2 1 5 )
+
+- 0 . 3 7 2 *
+
+( 0 . 2 1 5 )
+
+\( \Delta_5 \log{\mathrm{BL}_{t-1}} \) - 0 . 1 4 3 * *
+
+( 0 . 0 6 4 )
+
+0 . 0 6 5
+
+( 0 . 0 8 5 )
+
+\( \Delta y_{t-1} \) 0 . 4 5 3 * * *
+
+( 0 . 1 0 8 )
+
+0 . 5 1 1 * * *
+
+( 0 . 0 9 3 )
+
+0 . 4 9 2 * * *
+
+( 0 . 1 1 4 )
+
+0 . 5 6 0 * * *
+
+( 0 . 1 1 9 )
+
+\( R̂2 \) 0 . 3 9 3 0 . 3 3 3 0 . 4 3 0 0 . 3 9 9
+

@@ -1,0 +1,66 @@
+
+- 4 - 
+
+
+level of a substantial senior debt requirement to facilitate resolution under Title II of Dodd-
+
+Frank.  In parallel with the approach to capital surcharges, a senior debt requirement could also 
+
+potentially be made a function of an institution’s systemic footprint. 
+
+ To illustrate my argument, let us take as given the central premise of those who favor size 
+
+limits:  namely, that society would be better off if the distribution of banks were not so skewed 
+
+toward a handful of very large institutions.  (To be clear, I am using the word “size” as shorthand 
+
+for the broader concept of an institution’s systemic footprint, which in addition to size, might 
+
+reflect complexity, interconnectedness, and global span of operations.)  In other words, let’s 
+
+simply posit that a goal of regulation should be to lean against bank size, and ask:  What are the 
+
+best regulatory tools for accomplishing that goal?  As in many other regulatory settings, this 
+
+question can be mapped into the “prices-versus-quantities” framework laid out by Martin 
+
+Weitzman nearly 40 years ago.
+5
+  Here a size cap is a form of quantity regulation, whereas capital 
+
+requirements that increase with bank size can be thought of as a kind of price regulation, in the 
+
+sense that such capital requirements are analogous to a progressive tax on bank size.
+6
+  
+
+ A key challenge with quantity-based regulation is that one has to decide where to set the 
+
+cap.  Doing so requires a regulator to take a strong stand on the nature of scale and scope 
+
+economies in large financial firms.  Moreover, even if one reads the empirical literature as being 
+
+quite skeptical about the existence of such economies beyond a certain point in the size 
+
+distribution--a proposition which itself is debatable--the most that such large-sample studies can 
+
+                                                 
+5
+ See Weitzman (1974).  Haldane (2010) also uses Weitzman’s framework to talk about price-versus-quantity 
+
+regulation in the TBTF context. It should be noted that there are various hybrid approaches that are neither pure 
+
+quantity nor pure price regulation.  For example, Tarullo’s (2012) discussion of limits on uninsured liabilities is not 
+
+a rigid size cap, since it does not constrain an institution’s absolute size, to the extent that it is able to adjust its 
+
+funding mix.  
+6
+ To be clear, this taxation aspect of capital requirements is not their only appeal, or even their primary one.  Even if 
+
+it were almost costless to impose higher capital requirements on bigger banks--so that doing so provided essentially 
+
+no disincentive to bank size--it might still be a good idea to do so, for purely prudential reasons.  In other words, 
+
+capital requirements serve as both a prudential buffer and a tax, and can be a useful regulatory tool for both reasons. 
+

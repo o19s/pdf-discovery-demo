@@ -1,0 +1,49 @@
+
+ - 22 - 
+
+thus decreasing liquidity and market efficiency.  Dodd-Frank’s real-time reporting 
+
+requirements for swaps transactions recognize this important point by allowing for 
+
+delayed reporting of large “block trades” where immediate reporting could reveal and 
+
+undermine a participant’s position and ultimately discourage market transactions, depth, 
+
+and liquidity.  In this way, enhanced reporting and transparency requirements are being 
+
+set to provide the public and regulators with useful information without compromising 
+
+market integrity.  Moreover, while market integrity and appropriate confidentiality are 
+
+important considerations, the events of the financial crisis have clearly shown that 
+
+effective systemic risk management demands more, and not less, data disclosure.                  
+
+Concluding Remarks  
+
+I began this talk by describing the events surrounding the banking panic of 1907 
+
+and the founding of the Federal Reserve.  A lesson from that episode, as relevant today as 
+
+it was then, was that financial stability is essential to sustained economic growth and 
+
+prosperity.  Just as the banking panic of 1907 revealed fundamental weaknesses in our 
+
+financial system, so, too, did the financial crisis of 2007 and 2008.  The recent crisis 
+
+showed that some financial innovations, over time, increased the system’s vulnerability 
+
+to financial shocks that could be transmitted throughout the entire economy with 
+
+immediate and sustained consequences that we are still working through today.  Some of 
+
+these vulnerabilities were a consequence of innovations that increased the complexity and 
+
+interconnectedness of aspects of the financial system.  In response to the crisis and the 
+
+weaknesses it revealed, governments around the globe are acting to improve financial 
+
+stability and reduce the risks posed by a highly interconnected financial system.  These 
+
+efforts, of course, must account for the costs of new rules and ensure that these costs are 
+

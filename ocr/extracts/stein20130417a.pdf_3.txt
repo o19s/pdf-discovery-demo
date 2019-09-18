@@ -1,0 +1,52 @@
+
+- 2 - 
+
+
+the probability of a SIFI finding itself at the point of failure.  And, if, despite these measures, a 
+
+SIFI does fail, the orderly liquidation authority (OLA) in Title II of the Dodd-Frank Wall Street 
+
+Reform and Consumer Protection Act now offers a mechanism for recapitalizing and 
+
+restructuring the institution by imposing losses on shareholders and creditors.  In the interests of 
+
+brevity, I won’t go into a lot of detail about OLA.  But my Board colleague Jay Powell talked in 
+
+depth about this topic in a speech last month, and I would just register my broad agreement with 
+
+his conclusion--namely that the Federal Deposit Insurance Corporation’s (FDIC’s) so-called 
+
+“single point of entry” approach to resolution is a promising one.
+2
+  The Federal Reserve 
+
+continues to work with the FDIC on the many difficult implementation challenges that remain, 
+
+but I believe this approach gets the first-order economics right and ultimately has a good chance 
+
+to be effective. 
+
+ Perhaps more to the point for TBTF, if a SIFI does fail I have little doubt that private 
+
+investors will in fact bear the losses--even if this leads to an outcome that is messier and more 
+
+costly to society than we would ideally like.  Dodd-Frank is very clear in saying that the Federal 
+
+Reserve and other regulators cannot use their emergency authorities to bail out an individual 
+
+failing institution.  And as a member of the Board, I am committed to following both the letter 
+
+and the spirit of the law.   
+
+ Still, we are quite a way from having fully solved the policy problems associated with 
+
+SIFIs.  For one thing, the market still appears to attach some probability to the government 
+
+bailing out the creditors of a SIFI; this can be seen in the ratings uplift granted to large banks 
+
+based on the ratings agencies’ assessment of the probability of government support.  While this 
+
+                                                 
+2
+ See Powell (2013).   
+

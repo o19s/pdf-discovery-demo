@@ -1,0 +1,54 @@
+
+- 2 - 
+ 
+
+
+My discussion today will focus on innovations in both our role as liquidity provider and in our 
+
+monetary policy tools:  their motivation, their effectiveness, and their lessons for the future. 1
+
+The Federal Reserve’s Liquidity Tools 
+
+
+Before the crisis, the implementation of monetary policy was fairly straightforward, and 
+
+our approach minimized its footprint on financial markets.  The Federal Reserve adjusted the 
+
+liquidity it provided to the banking system through daily operations with a relatively small set of 
+
+broker-dealers against a very narrow set of collateral--Treasury and agency securities.  These 
+
+transactions had the effect of changing the aggregate quantity of reserve balances that banks held 
+
+at the Federal Reserve, and that liquidity was distributed by interbank funding markets through 
+
+the banking system in the United States and around the world.  In addition, the Federal Reserve 
+
+stood ready to lend directly to commercial banks and other depository institutions at the 
+
+“discount window,” where, at their discretion, banks could borrow overnight at an above-market 
+
+rate against a broad range of collateral when they had a need for very short-term funding.  
+
+Ordinarily, however, little credit was extended through the discount window.  Banks were able to 
+
+obtain their funding and reserves in the open market and generally turned to the window only to 
+
+cover very short-term liquidity shortfalls arising from operational glitches or transitory 
+
+marketwide supply shortfalls, as opposed to more fundamental funding problems. 
+
+During the financial crisis, however, market participants became highly uncertain about 
+
+the financial strength of their counterparties, the future value of assets (including any collateral 
+
+they might be lending against), and how their own needs for capital and liquidity might evolve.  
+
+They fled to the safest and most liquid assets, and as a result, interbank markets stopped 
+
+functioning as an effective means to distribute liquidity, increasing the importance of direct 
+
+                                                           
+1 The views expressed are my own and not necessarily those of my colleagues on the Federal Open Market 
+Committee.  James Clouse and Fabio Natalucci of the Board’s staff contributed to these remarks.   
+

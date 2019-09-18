@@ -1,0 +1,51 @@
+
+ - 14 - 
+
+services.  Alternatively, a similar mechanism may play out with open-end bond funds, 
+
+whereby losses cause large outflows of assets under management, again compromising 
+
+the intermediation function and aggregate credit supply.21     
+
+Conclusion 
+
+To restate my main point, I believe that measures of bond market risk premiums--
+
+for example, estimates of the expected excess returns on long-term Treasury securities 
+
+relative to Treasury bills and on credit-risky bonds relative to Treasury securities--may 
+
+turn out to be useful inputs into the monetary policy framework.  These variables have 
+
+the potential to serve as simple proxies for a particular sort of financial market 
+
+vulnerability that may not be easily addressed by supervision and regulation.  Again, 
+
+however, let me emphasize the conjectural nature of these remarks.  Even if this broad 
+
+way of thinking about the problem turns out to be useful, there is a ways to go--in terms 
+
+of modeling and calibration--before it can be used to make quantitative statements.  Thus, 
+
+at this early stage, I would not want to claim that one is likely to get policy prescriptions 
+
+that differ significantly from those of our standard models.  We will have to do the work 
+
+and see what emerges. 
+
+Finally, a more general theme that has been lurking in the background here is the 
+
+sharp difference in perspective that subfields of economics sometimes bring to a given 
+
+question.  As I noted earlier, one of the central and most widely shared ideas in the 
+
+academic finance literature is the importance of time variation in the risk premiums (or 
+
+expected returns) on a wide range of assets.  At the same time, canonical macro models in 
+
+the New Keynesian genre of the sort that are often used to inform monetary policy tend to 
+
+                                                 
+21 Basset and others (2014) document that changes in the EBP are associated with significant changes in 
+bank lending standards, which suggests a broader pullback in the credit intermediation process. 
+

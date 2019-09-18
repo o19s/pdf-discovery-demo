@@ -1,0 +1,52 @@
+
+- 9 - 
+ 
+
+organization in the financial markets.  Although the governance arrangements may need to 
+
+evolve over time, one thing that is clear is that strong governance arrangements will be required 
+
+to provide the coordinated operational and financial risk management for the critical clearing and 
+
+settlement operations that underpin our financial markets.          
+
+In addition, the industry continues to make progress on the ability of distributed ledger 
+
+technology to handle the very large volumes of transactions that take place both in financial 
+
+markets and in retail payments every day.  As I highlighted in 2016, this technical challenge of 
+
+achieving the necessary scale and through put is an important hurdle.9  Much of this challenge 
+
+has been tied to the time it takes to achieve “consensus” on a distributed ledger.  Consensus is 
+
+the process by which new transactions are broadcast to all the participants, or nodes, in the 
+
+network and each node accepts those new transactions as valid additions to the ledger.  The 
+
+initial consensus method used by Bitcoin, called “proof of work,” is designed to deal with the 
+
+lack of information and trust among the users of the network by providing tools and incentives to 
+
+overcome this problem. But it is a highly resource-intensive process that limits the number of 
+
+transactions that can be processed each second.  The proof of work consensus model represents a 
+
+tradeoff between operational efficiency and scalability, on the one hand, and the ability to 
+
+operate without sufficient trust or information about the entities in the network, on the other 
+
+hand. 
+
+Fundamentally, however, the financial industry does not operate as a trustless network.  
+
+Rather, the industry has long specialized in the collection and analysis of information about 
+
+                                                           
+9 Lael Brainard, “The Use of Distributed Ledger Technologies in Payment, Clearing, and Settlement” (speech 
+delivered at the Institute of International Finance Blockchain Roundtable, Washington, DC, April 14, 2016), 
+https://www.federalreserve.gov/newsevents/speech/brainard20160414a.htm; and Lael Brainard, “Distributed Ledger 
+Technology: Implications for Payments, Clearing, and Settlement” (speech delivered at the Institute of International 
+Finance Annual Meeting Panel on Blockchain, Washington, DC, October 7, 2016), 
+https://www.federalreserve.gov/newsevents/speech/brainard20161007a.htm.  
+

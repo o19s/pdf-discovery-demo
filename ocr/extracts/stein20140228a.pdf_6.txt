@@ -1,0 +1,47 @@
+
+ - 5 - 
+
+briefly mentions, and that is worth a fuller treatment, has to do with the potential for 
+
+outflows of assets under management (AUM) from open-end funds.  Note that the model 
+
+is effectively one of a closed-end fund, since the manager is assumed to have a fixed 
+
+amount of AUM; the fragility, in this case, comes entirely from the manager’s portfolio 
+
+allocation decision and from the strategic interaction among fund managers.  But another 
+
+source of run-like risk comes from the strategic interaction among fund investors and the 
+
+incentives that each of them may have to get out before others do when asset values are at 
+
+risk of declining.   
+
+These AUM-driven run dynamics are more likely to arise in those open-end funds 
+
+that hold relatively illiquid assets.  The key question in determining whether there is a 
+
+strategic complementarity in the withdrawal decisions of fund investors is, When investor 
+
+i exits on day t, does the net asset value (NAV) at the end of the day that defines investor 
+
+i’s exit price fully reflect the ultimate price effect of the sales created by his exit?  If not, 
+
+those investors who stay behind are hurt, which is what creates run incentives.  And, if 
+
+the run incentives are strong enough, then a credit-oriented bond fund starts looking 
+
+pretty bank-like.  The fact that its liabilities are not technically debt claims is not all that 
+
+helpful in this case--they are still demandable, and hence investors can pull out very 
+
+rapidly if the terms of exit create a penalty for being last out the door. 
+
+A fund’s stated NAV is less likely to keep pace with the ultimate price impact of 
+
+investor withdrawals if the underlying assets are illiquid, for two distinct reasons.  First, 
+
+some of the assets are likely to have stale prices--that is, not to have been recently 
+
+marked to market.  And, second, if most of a fund’s assets are illiquid securities, its 
+

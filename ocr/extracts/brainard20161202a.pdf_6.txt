@@ -1,0 +1,50 @@
+
+ - 5 - 
+
+early to tell the degree to which innovative approaches to customer due diligence, such as 
+
+KYC utilities, will deliver efficiency gains such as those outlined in the recent Bank for 
+
+International Settlements Committee on Payments and Market Infrastructures report on 
+
+correspondent banking.8 
+
+Ensuring Risks Are Managed and Consumers Are Protected 
+
+While financial innovation holds promise, it is crucial that financial firms, 
+
+customers, regulators, and other stakeholders understand and mitigate associated risks.  
+
+There is a tension between the lightning pace of development of new products and 
+
+services being brought to market--sometimes by firms that are new or have not 
+
+historically specialized in consumer finance--and the duty to ensure that important risks 
+
+around financial services and payments are addressed.  Firms need to ensure that they are 
+
+appropriately controlling and mitigating both risks that are unique to fintech as well as 
+
+risks that exist independently of new technologies.   
+
+For example, some fintech firms are exploring the use of nontraditional data in 
+
+underwriting and pricing credit products.  While nontraditional data may have the 
+
+potential to help evaluate consumers who lack credit histories, some data may raise 
+
+consumer protection concerns.  Nontraditional data, such as the level of education and 
+
+social media usage, may not necessarily have a broadly agreed upon or empirically 
+
+established nexus with creditworthiness and may be correlated with characteristics 
+
+protected by fair lending laws.  To the extent that the use of this type of data could result 
+
+in unfairly disadvantaging some groups of consumers, it requires careful review to ensure 
+
+legal compliance.  In addition, while consumers generally have some sense of how their 
+
+                                                 
+8 See www.bis.org/cpmi/publ/d147.pdf. 
+

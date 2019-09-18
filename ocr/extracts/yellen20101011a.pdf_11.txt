@@ -1,0 +1,57 @@
+
+- 10 - 
+ 
+
+ 
+ 
+
+leverage of financial intermediaries would help identify where we are in a credit cycle.  
+
+For example, we can look at the marginal leverage of new borrowing by examining data 
+
+on collateral haircuts.  We may also monitor data on repo market activity and haircuts to 
+
+spot vulnerabilities relating to maturity mismatches.  This information can be 
+
+crosschecked against firm- and sector-level data on credit risk exposure.  
+
+One aspect of systemic risk surveillance that has garnered a great deal of attention 
+
+is the identification of asset price bubbles.  Bubbles present systemic danger when major 
+
+financial institutions use leverage to finance investment in risky assets that they hold on 
+
+their balance sheets.  The systemic risk is multiplied when the asset bubble is 
+
+accompanied by a credit bubble that fuels highly leveraged investment.6  So a top priority 
+
+of systemic risk surveillance must be to assess whether asset price movements suggest 
+
+the presence of a bubble and identify at an early stage those that might be particularly 
+
+dangerous.  In practice, of course, we will have highly uncertain notions of when 
+
+excesses evolve into bubbles.  Near the end of a bubble, it’s pretty clear that something is 
+
+amiss.  But by then it’s too late to do much about it. 
+
+We will also need to monitor the cross-sectional correlations of firms’ risk 
+
+exposures.7  In addition, we need information on counterparty exposures through 
+
+derivatives and other financial instruments.  Finally, further development of financial 
+
+                                                            
+6 See Tobias Adrian and Hyun Song Shin (2008), “Financial Intermediaries, Financial Stability, and 
+Monetary Policy,” paper presented at “Maintaining Stability in a Changing Financial System,” a 
+symposium sponsored by the Federal Reserve Bank of Kansas City, held in Jackson Hole, Wyo., 
+August 21-23, www.kansascityfed.org/publicat/sympos/2008/Shin.03.12.09.pdf. 
+7 A number of promising measures of measuring systemic risk that take into account the correlations of 
+firms’ strategies have recently been developed.  For example, the CoVaR approach aims to measure the 
+marginal contribution of a financial institution to systemic risk, where systemic risk is measured by the 
+value at risk of all firms together; see Tobias Adrian and Markus K. Brunnermeier (2009), “CoVaR,” Staff 
+Report 348 (New York:  Federal Reserve Bank of New York, August), available at 
+www.newyorkfed.org/research/staff_reports/sr348.pdf.  See also the risk topography approach discussed in 
+Markus K. Brunnermeier, Gary Gorton, and Arvind Krishnamurthy (2010), “Risk Topography,” 
+unpublished paper, July, www.princeton.edu/~markus/research/papers/risk_topography.pdf. 
+

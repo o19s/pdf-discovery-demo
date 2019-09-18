@@ -1,0 +1,50 @@
+
+6 
+ 
+
+Principle seven of the PFMI addresses these liquidity risks, calling for all CCPs to meet a 
+
+“Cover 1 standard”--that is, to hold enough liquid resources in all relevant currencies to make 
+
+payments on time in the event of the default of the clearing member that would generate the 
+
+largest payment obligation under a wide range of potential stress scenarios.  More complex CCPs 
+
+and those with a systemic presence in multiple jurisdictions are encouraged to meet a “Cover 2 
+
+standard.”  The PFMI also provide guidance on the resources that qualify in meeting these 
+
+requirements:  cash held at a central bank or a creditworthy commercial bank, committed lines of 
+
+credit, committed repurchase agreements, committed FX swap agreements, or highly marketable 
+
+collateral that can be converted into cash under prearranged and highly reliable funding 
+
+arrangements.    
+
+There are two sets of risks involved here.  First, where should CCPs put their cash?  As 
+
+central clearing has expanded, CCPs have had to deal with increasingly large amounts of cash 
+
+margin.  CCPs can deposit some of these funds with commercial banks.  But regulatory changes 
+
+have made it more expensive for banks to take large deposits from other financial firms, and in 
+
+some cases banks may be unwilling to accept more cash from a CCP.  And many of the largest 
+
+banks are also clearing members, which introduces a certain amount of wrong-way risk.  A 
+
+clearing-member default could be especially fraught if the defaulting bank also held large cash 
+
+balances for the CCP.  For this reason, CCPs may prudently place limits on the amount deposited 
+
+at a given institution.  In order to diversify their holdings, many also place cash in the repo 
+
+market.  If it is available, the ability to deposit cash at a central bank allows for another safe, 
+
+flexible, and potentially attractive option--a subject I will return to later.   
+
+Second, how can CCPs be assured that they will be able to convert securities into cash or 
+
+draw on other resources in times of stress?  The PFMI uses the words “committed” and “pre-
+

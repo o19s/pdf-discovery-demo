@@ -1,0 +1,50 @@
+
+- 15 - 
+ 
+
+2014--the earliest date consistent with the FOMC’s current forward guidance of “exceptionally 
+
+low levels for the federal funds rate at least through late 2014.”   
+
+Although simple rules provide a useful starting point in determining appropriate policy, 
+
+they by no means deserve the “last word”--especially in current circumstances.  An alternative 
+
+approach, also illustrated in figure 10, is to compute an “optimal control” path for the federal 
+
+funds rate using an economic model--FRB/US, in this case.  Such a path is chosen to minimize 
+
+the value of a specific “loss function” conditional on a baseline forecast of economic conditions.  
+
+The loss function attempts to quantify the social costs resulting from deviations of inflation from 
+
+the Committee’s longer-run goal and from deviations of unemployment from its longer-run 
+
+normal rate.19  The solid green line with dots in figure 10 shows the “optimal control” path for 
+
+the federal funds rate, again conditioned on the illustrative baseline outlook.20  This policy 
+
+involves keeping the federal funds rate close to zero until late 2015, four quarters longer than the 
+
+balanced-approach rule prescription and several years longer than the Taylor rule.  Importantly, 
+
+optimal control calls for a later lift-off date even though this benchmark--unlike the simple 
+
+policy rules--implicitly takes full account of the additional stimulus to real activity and inflation 
+
+                                                            
+19 Under this approach, the central bank’s plans are assumed to be completely transparent and credible to the public.  
+In particular, both the policymaker and private agents are assumed to act as if they have perfect foresight about the 
+evolution of the economy, including the future path of monetary policy, in that they ignore the possibility of 
+unanticipated future shocks to the economy.  This assumption of “certainty equivalence” is commonly used but is 
+not an intrinsic feature of optimal control techniques.  Indeed, the fully optimal policy under uncertainty involves the 
+specification of a complete set of state-contingent policy paths. 
+20 This procedure involves two steps.  First, the FRB/US model’s projections of real activity, inflation, and interest 
+rates are adjusted to replicate the baseline forecast values.  Second, a search procedure is used to solve for the path 
+of the federal funds rate that minimizes the value of an assumed loss function, allowing for feedback of changes in 
+the federal funds rate from baseline to real activity and inflation.  For the purposes of the exercise, the loss function 
+is equal to the cumulative discounted sum from 2012:Q2 through 2025:Q4 of three factors--the squared deviation of 
+the unemployment rate from 5-1/2 percent, the squared deviation of overall PCE inflation from 2 percent, and the 
+squared quarterly change in the federal funds rate.  The third term is added to damp quarter-to-quarter movements in 
+interest rates. 
+

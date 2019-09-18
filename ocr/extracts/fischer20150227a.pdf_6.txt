@@ -1,0 +1,49 @@
+
+ - 5 - 
+
+Prior to the financial crisis, because reserve balances outstanding averaged only 
+
+around $25 billion, relatively minor variations in the total amount of reserves supplied by 
+
+the Desk could move the equilibrium federal funds rate up or down.  With the nearly 
+
+$3 trillion in excess reserves today, the traditional mechanism of adjustments in the 
+
+quantity of reserve balances to achieve the desired level of the effective federal funds rate 
+
+may well not be feasible or sufficiently predictable.   
+
+As discussed in the FOMC’s statement on its Policy Normalization Principles and 
+
+Plans, which was published following the September 2014 FOMC meeting, we will use 
+
+the rate of interest paid on excess reserves (IOER) as our primary tool to move the federal 
+
+funds rate into the target range.5  This action should encourage banks not to lend to any 
+
+private counterparty at a rate lower than the rate they can earn on balances maintained at 
+
+the Fed, which should put upward pressure on a range of short-term interest rates.   
+
+Because not all institutions have access to the IOER rate, we will also use an 
+
+overnight reverse repurchase agreement (ON RRP) facility, as needed.  In an ON RRP 
+
+operation, eligible counterparties may invest funds with the Fed overnight at a given rate.  
+
+The ON RRP counterparties include 106 money market funds, 22 broker-dealers, 24 
+
+depository institutions, and 12 government-sponsored enterprises, including several 
+
+Federal Home Loan Banks, Fannie Mae, Freddie Mac, and Farmer Mac.  This facility 
+
+should encourage these institutions to be unwilling to lend to private counterparties in 
+
+money markets at a rate below that offered on overnight reverse repos by the Fed.  
+
+5 See Board of Governors of the Federal Reserve System (2014), “Federal Reserve Issues Statement on 
+Policy Normalization Principles and Plans,” press release, September 17, 
+www.federalreserve.gov/newsevents/press/monetary/20140917c.htm. 
+
+
+

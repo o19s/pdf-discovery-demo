@@ -1,0 +1,53 @@
+
+
+- 14 - 
+
+would suggest that a focus on the actual nature of liabilities associated with a firm’s activities 
+
+provides a good starting point for sound analysis. 
+
+ Finally, let me mention asset managers briefly.  As they have garnered increasing shares 
+
+of financial system assets, a trend that accelerated following the financial crisis, the question has 
+
+arisen whether they too should hold capital buffers.  Of course in most cases the asset manager 
+
+itself does not have much of a balance sheet at all.  The funds themselves are often not leveraged, 
+
+in which case nearly all the liabilities are shares of the fund held by investors, the price of which 
+
+varies to reflect the value of the assets purchased by the manager of the fund.6   
+
+While some commentators have suggested that liquidity challenges and consequent fire 
+
+sale type behavior might develop if the structure of the fund places a premium on exiting first, 
+
+these kinds of risks would support an argument less for capital buffers than for some form of 
+
+prudential market regulation, such as rules on liquidity or redemptions.  I would note in this 
+
+regard that last week the SEC issued a proposed rulemaking that would require open-ended funds 
+
+to have liquidity risk management controls in place for shareholder redemptions, including 
+
+during times of stress.7  Likewise, to the degree that certain idiosyncratic risks might exist with 
+
+respect to the decisions and operations of certain asset managers, their liability structure again 
+
+suggests that some form of prudential market regulation would be better suited to address these 
+
+risks. 
+
+                                                 
+6 Through the use of certain kinds of derivatives, some funds acquire synthetic leverage.  There are arguments for 
+additional regulation in those cases, though again, capital requirements do not seem at first glance the optimal tool. 
+7 Under the proposed rules, mutual funds and exchange-traded funds would be required to implement liquidity risk 
+management programs to address investor redemptions, including swing pricing during times of rapid redemption 
+and calculation requirements to measure the amount of assets that could be liquidated without impacting market 
+prices.  Securities and Exchange Commission Press Release 2015-201, SEC Proposes Liquidity Management Rules 
+for Mutual Funds and ETFs, September 22, http://www.sec.gov/news/pressrelease/2015-201.html.  SEC Chairman 
+Mary Jo White previously provided a roadmap to the development of a regulatory approach for the asset 
+management industry: “Enhancing Risk Monitoring and Regulatory Safeguards for the Asset Management 
+Industry,” speech delivered at the New York Times DealBook Opportunities for Tomorrow Conference, New York, 
+December 11. 
+

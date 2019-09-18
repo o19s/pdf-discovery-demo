@@ -1,0 +1,49 @@
+
+ - 4 - 
+
+appreciation shown by the thin red line in figure 2, which indicates that real imports rise 
+
+only about 3-3/4 percent after three years.7   
+
+Figure 3 uses these results to gauge how a 10 percent dollar appreciation would 
+
+reduce U.S. gross domestic product (GDP) through the net export channels we have just 
+
+discussed.  The staff’s model indicates that the direct effects on GDP through net exports 
+
+are large, with GDP falling over 1-1/2 percent below baseline after three years.  
+
+Moreover, the effects materialize quite gradually, with over half of the adverse effects on 
+
+GDP occurring at a horizon of more than a year.   
+
+In interpreting these estimated effects on GDP, it is important to underscore that 
+
+the estimates do not take account of any offset due to monetary policy easing--a key 
+
+consideration that I will discuss shortly.  Even so, recalling that the dollar’s actual 
+
+appreciation has been about 15 percent, the model estimates suggest that the cumulative 
+
+reduction in U.S. aggregate demand from the dollar’s appreciation is likely to total almost 
+
+2-1/2 percent of GDP after three years--in the absence of policy action to boost private 
+
+demand or government spending.  Given these perhaps surprisingly large effects, an 
+
+obvious question is, how well has the model done so far in accounting for the actual 
+
+behavior of U.S. real net exports?  While trade flows are affected by many factors that are 
+
+difficult to capture in models--such as the labor disputes at major ports that occurred 
+
+earlier this year--the drag from net exports over the past year does appear to be relatively 
+
+close to the estimated effect implied by the staff’s econometric trade model, with net 
+
+                                                   
+7 In the staff’s trade model, imports are specified to depend on GDP in addition to the exchange rate.  The 
+estimates shown in figure 2 simply show the effects arising through the latter channel.  Similarly for 
+exports, the staff’s model also controls for changes in a trade-weighted aggregate of foreign GDP, with the 
+estimates in figure 2 showing only the effects from a change in the value of the dollar. 
+

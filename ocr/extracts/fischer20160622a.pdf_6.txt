@@ -1,0 +1,47 @@
+
+ - 5 - 
+
+I want to end by briefly addressing several criticisms that have been made of the 
+
+Dodd-Frank Act’s orderly liquidation authority and the Board’s TLAC proposal.  One 
+
+criticism is that there is no need for the backup orderly liquidation authority because the 
+
+Bankruptcy Code provides an adequate framework for the resolution of any financial 
+
+company.  As Title II of the Dodd-Frank Act recognizes, however, the Bankruptcy Code 
+
+may not be adequate to minimize the systemic impact of the resolution of a systemically 
+
+important financial firm.  The Bankruptcy Code does not direct the judge to take financial 
+
+stability into account in making decisions, and it does not provide other important 
+
+stabilizing features of the orderly liquidation authority, such as government liquidity 
+
+support and stay-and-transfer treatment for qualified financial contracts. 
+
+A related line of criticism holds that the orderly liquidation authority enshrines 
+
+“too big to fail” and provides for taxpayer bailouts of systemically important firms 
+
+through the orderly liquidation fund.  However, under the Board’s proposed TLAC rule, a 
+
+failed GSIB would be recapitalized by its private-sector long-term creditors (whose debt 
+
+claims would be converted into equity), not by the government.  The orderly liquidation 
+
+fund would be used only to provide liquidity support, not to inject capital, and in the 
+
+unlikely event that the fund does incur losses, the Dodd-Frank Act provides that these 
+
+losses would be covered by assessments on major financial companies and would not be 
+
+passed on to taxpayers.  I also note that credit rating agencies have recognized public-
+
+sector efforts to end the too-big-to-fail phenomenon.  The rating agencies no longer 
+
+assume that the U.S. government will take extraordinary actions to prevent the failure of 
+
+systemically important U.S. financial firms. 
+

@@ -1,0 +1,49 @@
+
+ - 4 - 
+
+It is incumbent on the official sector to take these requests seriously, and we are.  
+
+For example, the Federal Reserve is working with the Commodity Futures Trading 
+
+Commission and other U.S. prudential regulators to provide greater clarity on the 
+
+treatment of margin requirements for legacy derivatives instruments.  Agency staff are 
+
+developing proposed changes to the margin rules for non-cleared swaps to ensure that 
+
+changes to legacy swaps to incorporate a move away from LIBOR, including adherence 
+
+to the ISDA protocol, would not affect the grandfathered status of those legacy swaps 
+
+under the margin rules.  This has been a key request of the ARRC, and we will look 
+
+forward to public comment on the proposal.   
+
+The Federal Reserve’s supervisory teams have already included a number of 
+
+detailed questions about plans for the transition away from LIBOR in their monitoring 
+
+discussions with large firms.  The Federal Reserve will expect to see an appropriate level 
+
+of preparedness at the banks we supervise, and that level must increase as the end of 2021 
+
+grows closer.  Our supervisory approach will continue to be tailored to the size of 
+
+institution and the complexity of LIBOR exposure, but the largest firms should be 
+
+prepared to see our expectations for them increase.  As we consider the answers we have 
+
+received from these firms, we will assess how our supervisory expectations for them 
+
+should evolve in the coming year.    
+
+Let me address one additional point relating to our supervisory stress tests, in an 
+
+effort to provide further clarity.  Some have recently claimed that the Federal Reserve’s 
+
+supervisory stress tests would penalize a bank that replaces LIBOR with SOFR in loan 
+
+contracts by lowering projections of net interest income under stress.  As can be seen in 
+
+our recently published enhanced descriptions of the supervisory stress-test models, the 
+

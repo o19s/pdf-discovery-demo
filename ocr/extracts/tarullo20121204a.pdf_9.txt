@@ -1,0 +1,49 @@
+
+ - 8 -
+
+Application to Specific Policy Proposals 
+
+To illustrate more concretely how analysis of scope and scale economies is 
+
+relevant to the development of a regulatory system designed to safeguard financial 
+
+stability, I want to turn to three proposals currently being debated in policy circles:  
+
+(1) breaking up large financial institutions by reinstating Glass-Steagall restrictions or by 
+
+imposing other prohibitions on affiliations of commercial banks with certain business 
+
+lines; (2) placing a cap on the nondeposit liabilities of financial institutions; and 
+
+(3) requiring financial institutions above a specified size to hold minimum amounts of 
+
+long-term debt available for conversion to equity to avoid or facilitate an orderly 
+
+resolution of a troubled firm. 
+
+Breaking up firms by business line   
+
+Proposals to reimpose a Glass-Steagall prohibition on affiliations between 
+
+commercial and investment banks have been met with the rejoinder that the origins of the 
+
+financial crisis do not trace back very clearly to these affiliations.  Many firms at the 
+
+center of the crisis would have been essentially unchanged had Glass-Steagall been in 
+
+effect.  Bear Stearns, Lehman Brothers, and Merrill Lynch did not have sizable insured 
+
+depository institutions, while Countrywide and Washington Mutual had few if any 
+
+activities that could be termed investment banking.  Wachovia did have a securities 
+
+affiliate that was sizable, though hardly an industry leader, but its downfall seems pretty 
+
+clearly connected to its exposure to subprime mortgages that it had written directly or 
+
+acquired through mergers with other institutions.    
+
+Proponents of breaking up firms by business line may reply that the next financial 
+
+crisis will not likely have the same genesis as the last, and that separating commercial 
+

@@ -1,0 +1,51 @@
+
+
+18 
+ 
+
+these effects requires information about the behavior of those actors that may not be observable 
+
+either to a firm or to us.   
+
+Notwithstanding these and other practical challenges, many of the suggestions we 
+
+received have focused on important potential risks that bear further inquiry by regulators.  Hence 
+
+we will be undertaking a research program to pursue these ideas in order to better understand the 
+
+quantitative consequences of new risks and business activities, potential amplification channels 
+
+such as fire sales by which stress could migrate from the large banks to the rest of the financial 
+
+system, and important dynamics between capital and liquidity positions.  At a minimum, this 
+
+research should inform scenario design and the overall regulatory and financial stability 
+
+functions of the Board.  And at least some of the ideas might eventually be translated into 
+
+features of the stress testing regime.  Over the medium term we view three related areas as the 
+
+highest priorities: funding shocks, liquidity shocks, and spillovers from the default of common 
+
+counterparties.   
+
+Funding shocks 
+
+Funding stresses are a natural starting point. As banks incur losses and their capital base 
+
+erodes, some of their creditors will demand additional compensation and bank funding costs will 
+
+increase.  This kind of “direct” funding shock is really microprudential because the resulting 
+
+losses depend largely on the bank’s own decisions about its capital base, asset risk, and reliance 
+
+on short-term wholesale funding.  As such, it should be more straightforward to integrate direct 
+
+funding shocks into our main stress testing framework than to integrate systemwide effects, and 
+
+we will consider whether, and how, to do so in the relatively near term. 
+
+In a “systemic” funding shock, by contrast, each bank’s cost of funds depends on the 
+
+capital position of the system as a whole.  By taking the overall solvency of the system into 
+

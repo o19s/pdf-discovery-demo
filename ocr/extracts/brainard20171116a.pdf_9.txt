@@ -1,0 +1,57 @@
+
+- 8 - 
+
+
+models of cloud computing providers, potentially getting to market faster than by taking the 
+
+traditional route of finding training data and building out models in-house from scratch.  
+
+Third, fintech developers can also draw from enormous pools of data that were 
+
+previously unavailable outside of banking institutions.  Consumer financial data are increasingly 
+
+available to developers via a new breed of business-to-business suppliers, called data 
+
+aggregators.28  These companies enable outside developers to access consumer account and 
+
+transactional information typically stored by banks.  But aggregators do more than just provide 
+
+access to raw data.  They facilitate its use by developers, by cleaning the data, standardizing it 
+
+across institutions, and offering their own application programming interfaces for easy 
+
+integration.  Further, similar to cloud computing providers, data aggregators are also beginning 
+
+to provide off-the-shelf product stacks on their own platforms.29  This means that developers can 
+
+quickly and easily incorporate product features, such as predicting creditworthiness, determining 
+
+how much a consumer can save each month, or creating alerts for potential overdraft charges.  
+
+Researchers have documented the benefits of tailored one-on-one financial coaching.30  
+
+Until recently, though, it has been hard to deliver that kind of service affordably and at scale, due 
+
+to differences in consumers’ circumstances.  Let’s again consider the example of deferred 
+
+interest credit cards.  It turns out only a small minority of consumers miss the deadlines for 
+
+repaying promotional balances and are charged retroactive interest payments, and they typically 
+
+                                                 
+28 See, e.g., Lael Brainard, “Where Do Banks Fit in the Fintech Stack,” (speech at Northwestern Kellogg Public–
+
+Private Interface Conference on New Developments in Consumer Finance: Research and Practice), 
+
+www.federalreserve.gov/newsevents/speech/files/brainard20170428a.pdf. 
+29 See, e.g., Envestnet Yodlee, “Envestnet Yodlee Unveils Personal Financial Wellness Solution Powered by Data 
+
+Intelligence,” news release, June 12, 2017, www.prnewswire.com/news-releases/envestnet--yodlee-unveils-
+
+personal-financial-wellness-solution-powered-by-data-intelligence-300472018.html.   
+30 See, e.g., Brett Theodos, et al., An Evaluation of the Impacts and Implementation Approach of Financial 
+
+Coaching Programs (Washington: Urban Institute, October 2015), www.urban.org/research/publication/evaluation-
+
+impacts-and-implementation-approaches-financial-coaching-programs. 
+

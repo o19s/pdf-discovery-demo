@@ -1,0 +1,50 @@
+
+- 2 - 
+ 
+
+Chairman for Supervision at the Federal Reserve, I see innovation as something that can and 
+
+should be fostered, but of course I must also scrutinize these innovations from a different 
+
+perspective.  That is to say, it is appropriate not only to evaluate the potential of innovations to 
+
+improve on existing services, but also to judge their ramifications for the safety and soundness of 
+
+the institutions we supervise and for financial stability--the topic of this conference.  Although 
+
+many of these technologies are still nascent, it is important to have an eye on the potential 
+
+financial stability implications both in the short- and long-run.  Payment systems need to be 
+
+resilient during adversity.  Without that resilience, we could face a sudden loss of public 
+
+confidence and the seizing up of systems and critical activities.   
+
+With the Cash Room’s perspective on history and daily financial operations in mind, I 
+
+would like to concentrate my remarks on the U.S. payment system, which is a critical foundation 
+
+on which financial transactions and the conduct of business take place.  New technologies are 
+
+being proposed that could alter the design of our payment system.  Today, I will talk about the 
+
+necessary trust and confidence that the system requires, the tension between the need for 
+
+financial stability and the need to innovate, and the challenges that digital currencies, in 
+
+particular, present relative to the current system.  These considerations highlight the need for a 
+
+prudent approach to innovation in payment systems.        
+
+Payment Systems, Networks, and Trust   
+
+Payment systems are both financial networks and technical networks.  In simple terms, 
+
+there is an asset that functions as money that can be transferred by households and businesses to 
+
+buy goods and services, which, along with their financial institutions, make up the bulk of the 
+
+financial network.  Today, the predominant forms of money used in payment systems are Federal 
+
+Reserve notes and reserve balances as well as transaction balances at depository institutions.   
+

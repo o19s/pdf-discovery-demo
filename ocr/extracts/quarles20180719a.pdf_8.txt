@@ -1,0 +1,27 @@
+
+0
+
+2
+
+4
+
+6
+
+8
+
+10
+
+2017-Q1 2017-Q2 2017-Q3 2017-Q4 2018-Q1 2018-Q2
+
+Median daily number of unsecured wholesale borrowing 
+transactions observed for U.S. dollar LIBOR panel banks
+
+1-month LIBOR 3-month LIBOR 6-month LIBOR 1-year LIBOR
+
+Note: Chart key describes bars in order from left to right for each quarter.  Transactions are aggregated across all 
+available  fed funds, Eurodollar, certificates of deposit, and unsecured commercial paper transactions of the 16 
+banks currently submitting  to U.S. dollar LIBOR.   Transactions above $10 million with tenors between 25 and 35 
+days (for one month), 80 and 100 calendar days (three month), 150 to 210 calendar days (six month), or 330 and 
+390 days (one year) are included for each maturity, excluding any transactions more than 25 basis points above or 
+below the day's LIBOR rate (excluding days on which the FOMC altered its monetary policy targets). 
+

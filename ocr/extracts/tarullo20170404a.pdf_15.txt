@@ -1,0 +1,51 @@
+
+
+14 
+ 
+
+makes those other measures more effective.  The success of the 2009 stress test in restoring 
+
+confidence in the financial system during the crisis encouraged Congress to make stress testing a 
+
+required and regular feature of large-firm prudential regulation. 
+
+ As the term suggests, stress tests evaluate the capacity of banks to absorb losses that may 
+
+be associated with major economic adversity and remain not only technically solvent, but also 
+
+viable financial intermediaries.  They are explicitly forward-looking, in that they involve creating 
+
+unlikely but plausibly severe economic scenarios and then modeling the likely impact of those 
+
+scenarios on bank assets and earnings.  The Federal Reserve has tied the results of stress tests 
+
+into capital regulation by requiring that bank capital distributions be consistent with maintaining 
+
+viability in the event the severe scenario were to materialize.  That is, dividends and share 
+
+repurchases cannot bring the bank’s capital level below the sum of minimum capital 
+
+requirements and the amount of losses that could be sustained in the stress event.  By looking at 
+
+the impact of such scenarios on the considerable part of the financial industry accounted for by 
+
+the larger bank holding companies subject to the requirement, the Federal Reserve’s approach 
+
+gives insight into how substantial economic or financial shocks would affect the financial system 
+
+and the real economy.   
+
+One virtue of stress testing is that it allows a forward-looking assessment of potential 
+
+losses that is customized to the portfolios and business models of each bank, while still being 
+
+consistent across the banks.  The Federal Reserve uses independent supervisory models to 
+
+estimate losses and revenues under stress, both to achieve more comparability across the results 
+
+for different banks and to preclude any temptation for banks to game their own models.  This 
+
+linkage of stress testing to bank capital requirements has been a good way for regulators to 
+
+regularize exercise of their broad statutory discretion to set individual capital requirements on a 
+

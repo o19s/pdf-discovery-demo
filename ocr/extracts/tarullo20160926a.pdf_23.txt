@@ -1,0 +1,49 @@
+
+
+22 
+ 
+
+approach, a bank could also adjust its planned capital distributions after receiving the stress test 
+
+results to avoid having its baseline capital distribution projections fall into the buffer. 
+
+We have already taken a number of steps to respond to these requests.  We currently 
+
+publish descriptions of all models used in the stress test, including the key risk drivers and 
+
+scenario variables for each key modeling area.  We host an annual conference about modelling 
+
+practices.  We disclose a description of the most material changes to stress test models before 
+
+each stress test.  We are considering further steps, such as disclosing descriptions of changes 
+
+well in advance of the stress test, and phasing in the most material model changes over two 
+
+years, so as to smooth somewhat the effects of the changes on projected losses or revenues.  
+
+Finally, and a bit more tentatively, we are assessing the feasibility of publishing data that 
+
+represent typical bank portfolios of loans and securities with the losses we would project for 
+
+those portfolios under various stress scenarios.  This kind of information could also help the 
+
+public trace how changes in risk drivers alter loss projections. 
+
+Having said all this, let me now say that we do not intend to publish the full computer 
+
+code in the supervisory model that is used to project revenues and losses.  Full disclosure would 
+
+permit firms to game the system--that is, to optimize portfolio characteristics based on the 
+
+parameters of the model and take risks in areas not well-captured by the stress test just to 
+
+minimize the estimated stress losses.  In part for this reason, full disclosure could promote a 
+
+“model monoculture” in which both supervisors and firms use the same models to evaluate risks.  
+
+A critical part of the DFAST/CCAR process is that firms use their own models to assess their 
+
+risks.  We do not want them simply to copy the supervisory model and thereby increase the 
+
+vulnerability of the financial system to the inevitable blind spots in even the best models. 
+

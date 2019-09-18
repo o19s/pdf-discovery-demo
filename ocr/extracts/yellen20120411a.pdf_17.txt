@@ -1,0 +1,71 @@
+
+
+
+- 16 - 
+
+Figure 8 shows the projected paths for the federal funds rate called for by these 
+
+two policy rules, along with the optimal control path that I presented earlier.
+15
+
+  These 
+
+projections are constructed using the FRB/US model, conditioned on the same illustrative 
+
+baseline outlook that I used a moment ago.  The Taylor (1993) rule calls for the federal 
+
+funds rate to begin rising in early 2013, whereas the Taylor (1999) rule has its liftoff in 
+
+early 2015, a lot closer to the optimal control path.  A sizable literature has examined the 
+
+performance of simple rules like these by conducting stochastic simulations with a range 
+
+of economic models.  Many studies, including Taylor’s own analysis, suggest that the 
+
+Taylor (1999) rule generates considerably less variability in real activity and only slightly 
+
+more variability in inflation than his original rule.
+16
+
+  Given the differential responses to 
+
+economic slack across these two rules, this finding is hardly surprising, but it is a key 
+
+reason why I consider the Taylor (1999) rule to be a more suitable guide for Fed policy.       
+
+While the Taylor (1999) rule can serve as a useful policy benchmark, its 
+
+prescriptions fail to take into account some considerations that I consider important in the 
+
+current context.  In particular, this rule does not fully take into account the implications 
+
+of the zero lower bound on nominal interest rates and hence tends to understate the 
+
+rationale for maintaining a highly accommodative stance of monetary policy under 
+
+present circumstances.   
+
+                                                 
+15
+
+ In these simulations, the Taylor (1993) rule is defined as Rt = 2 + πt + 0.5(πt - 2) + 0.5Yt, while the Taylor 
+
+(1999) rule is defined as Rt = 2 + πt + 0.5(πt - 2) + 1.0Yt.  In these expressions, R is the federal funds rate, π 
+
+is the percent change in the headline PCE price index from four quarters earlier, and Y is the output gap.  
+
+The output gap in turn is approximated using Okun’s law; specifically, Yt = 2.3(5.6-Ut), where 2.3 is the 
+
+estimated value of the Okun’s law coefficient and 5.6 is the assumed value of the non-accelerating inflation 
+
+rate of unemployment, or NAIRU.   
+16
+
+ See John B. Taylor (1999), “Introduction,” in John B. Taylor, ed., Monetary Policy Rules (Chicago: 
+
+University of Chicago Press), pp. 1-14, 
+
+www.stanford.edu/~johntayl/Onlinepaperscombinedbyyear/1999/Introductory_Remarks_on_Monetary_Pol
+
+icy_Rules.pdf. 
+

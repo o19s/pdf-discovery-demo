@@ -1,0 +1,50 @@
+
+11 
+ 
+
+that proved so dangerous in the recent crisis, the NSFR requires more stable funding for short-
+
+term loans to financial firms. 
+
+It is important to note how liquidity requirements also affect the capital needed by a bank, 
+
+as can be illustrated by a simple, if admittedly improbable, example.  Assume two banks with 
+
+exactly the same assets and the same amount of capital.  One funds those assets entirely through 
+
+insured (sticky) deposits and longer-term debt, while the other funds its assets entirely through 
+
+short-term uninsured deposits and repo borrowing.  Assume now that an external shock reduces 
+
+the value of the assets dramatically, with lingering uncertainty as to whether the value will 
+
+continue to drop.  It is readily apparent that the two large banks face very different risks, since 
+
+the second bank’s funding will at best become more expensive and at worst decline or disappear.   
+
+A sound regulatory regime will align the riskiness of the two banks more closely, by requiring 
+
+the second bank to change its funding profile, increase its capital, or some combination of the 
+
+two.  In fact, the LCR and NSFR would require more stability in funding at my second 
+
+hypothetical bank, while one of the factors used to calculate the capital surcharge applicable to 
+
+the largest banks is its relative reliance on runnable funding. 
+
+I will not go into detail in explaining a third key factor of our post-crisis regulatory 
+
+regime--the requirement for rigorous risk management at large banks.  But a brief example 
+
+should make the point.  During the height of the crisis in the winter of 2009, as we were 
+
+conducting the first stress test, we found that some of the largest banks were literally unable to 
+
+determine in any reasonable time their aggregate exposures to particular counterparties and 
+
+business lines across their varied operations.  That deficiency made it easier to understand how 
+
+they could have gotten themselves in such trouble.  Because of the supervisory expectations for 
+
+risk management in our annual Comprehensive Capital Analysis and Review (CCAR) exercise, 
+

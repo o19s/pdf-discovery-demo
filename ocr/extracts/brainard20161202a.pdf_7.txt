@@ -1,0 +1,50 @@
+
+ - 6 - 
+
+financial behavior affects their traditional credit scores, alternative credit scoring methods 
+
+present new challenges that could raise questions of fairness and transparency.  It may 
+
+not always be readily apparent to consumers, or even to regulators, what specific 
+
+information is utilized by certain alternative credit scoring systems, how such use impacts 
+
+a consumer’s ability to secure a loan or its pricing, and what behavioral changes 
+
+consumers might take to improve their credit access and pricing. 
+
+Similarly, fintech innovations that rely on data sharing may create security, 
+
+privacy, and data-ownership risks, even as they provide increased convenience to 
+
+consumers.  Recent examples of large-scale fraud and cybersecurity breaches have 
+
+illustrated the significance of possible security risks.  As the data sets that financial 
+
+institutions utilize expand beyond traditional consumer credit histories, data privacy will 
+
+become a growing concern, as will data ownership and whether or not the consumer has 
+
+any say over how these data are used and shared or whether he or she can review it for 
+
+accuracy.  The Consumer Financial Protection Bureau recently issued a request for 
+
+information to better understand the benefits and risks associated with new financial services 
+
+that rely on access to consumer financial accounts and account-related information.9 
+
+In addition to the risks I have outlined that are specific to new financial 
+
+technologies, firms also must control for risks that have always been present, even in 
+
+brick-and-mortar financial institutions.  For example, risks around the BSA and Anti-
+
+Money Laundering rules cut across all segments and all portfolios.  Similarly, firms must 
+
+                                                 
+9 See 
+http://files.consumerfinance.gov/f/documents/112016_cfpb_Request_for_Information_Regarding_Consum
+er_Access_to_Financial_Records.pdf.  The Consumer Financial Protection Bureau believes that 
+“consumers should be able to use their financial records and account information and securely share access 
+in an electronic format.” 
+

@@ -1,0 +1,55 @@
+
+ - 30 - 
+
+prices should fall about 2-1/2 percent at an annual rate in both quarters.38  Food prices are 
+
+assumed to remain flat at their 2015:Q2 level; this assumption ensures that the combined 
+
+contribution of food and energy prices to inflation in 2015 is consistent with the median 
+
+difference between FOMC participants’ projections for total and core inflation.  Finally, 
+
+nominal spending shares for food, energy, and core imports are assumed to remain 
+
+unchanged at their 2015:Q2 levels, and long-run inflation expectations are assumed to 
+
+remain constant at 2 percent.   
+
+After computing historical 𝜖𝑡 tracking errors for the two equations of the model, 
+
+the final step in the decomposition procedure is to run a sequence of counter-factual 
+
+simulations of the model from 1990:Q1 through 2015:Q4.  One by one, each explanatory 
+
+variable of the model is set to zero and the model is simulated; the resulting difference 
+
+between actual inflation and its simulated value equals the historical contribution of that 
+
+particular factor.  Importantly, the simulations are all dynamic in that the lagged inflation 
+
+term in the core inflation equation is set equal to its simulated value in the preceding 
+
+period, rather than its actual value.  As a result, the decompositions incorporate the 
+
+effects of changes in lagged inflation that are attributable to previous movements in the 
+
+explanatory variables. 
+
+                                                 
+38 The level of core import prices, expressed relative to core consumer prices, displayed a modest 
+
+downward trend from 1990 through 2001 but since then has displayed little persistent trend, particularly if 
+
+one controls for shifts related to recent changes in the real exchange rate.  If the post-2001 pattern persists 
+
+in coming years, then 𝑅𝑃𝐼𝑀𝑡 would be expected to converge to zero within a few quarters and core PCE 
+inflation to converge to 2 percent within two or three years, assuming that the unemployment rate remains 
+
+close to 5 percent (the CBO estimate of the natural rate) and there are no further shocks to the exchange 
+
+rate and other factors.  If, however, core import prices were expected to resume trending down relative to 
+
+consumer prices, then the model as specified would imply that the unemployment rate consistent with 
+
+inflation stabilizing at 2 percent in the longer run would be somewhat lower than 5 percent. 
+

@@ -1,0 +1,48 @@
+
+‐ 12 ‐ 
+ 
+
+incorporating the impact of adverse outcomes or stressful events into their existing risk 
+
+management and business decision-making process.   
+
+ The capital stress testing framework that we have developed is a dynamic way of looking at 
+
+potential threats to capital in the context of the company’s ability to replace capital through its 
+
+earnings power, the current level of capital, and plans for capital distribution.  For traditional 
+
+community banks, the primary threat to capital is the risk of loan losses.  We now have data on 
+
+losses by loan category for two periods of severe financial stress, the recent financial crisis and 
+
+the savings and loan crisis. 
+
+ One way to test whether community banks have enough capital to withstand stress would 
+
+be to apply the level of losses generally experienced in a stressed environment to bank loan 
+
+portfolios to estimate potential losses.  In such an analysis, a bank with concentrations in a 
+
+lending category that could experience high losses during times of economic stress, such as 
+
+construction lending or credit card loans, would have a high potential loss rate applied to those 
+
+portfolios and thus require more capital than a bank with a more conservative portfolio.  The 
+
+rough estimates based on average losses by loan category could be further refined by looking at 
+
+the individual bank loan classifications.  We could similarly study the impact of stressful 
+
+conditions on pre-provision net revenue, but I don’t believe these fluctuations will have nearly as 
+
+strong an impact on stressed capital as loan losses would have.  And this analysis could be 
+
+accomplished in smaller banks using existing call report data and supervisory asset 
+
+classifications. 
+
+ There are two points here.  First, stress testing does not necessarily have to involve 
+
+additional burden on the banks.  Second, and perhaps most importantly, I hope that bankers do 
+

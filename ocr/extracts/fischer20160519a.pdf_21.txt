@@ -1,0 +1,56 @@
+
+ - 20 - 
+
+developed the links between fluctuations of output and inflation around their 
+
+natural21 or long-run equilibrium values and economic welfare--a point22 
+
+made clear by the discussion above of his analysis of the optimal goals of 
+
+monetary policy.   
+
+Many Fed researchers--among them more than a dozen Woodford 
+
+students--have attempted to measure the natural rates of interest and the 
+
+natural output gap.  Early work on these topics using DSGE models produced 
+
+very volatile estimates of these concepts, leading to the development of DSGE 
+
+models with more realistic features, including important roles for financial 
+
+frictions, which fit the data better--and which bear some resemblance to more 
+
+traditional estimates of the output gap.  As a result, these models are now 
+
+routinely used in monetary policy discussions. 
+
+One key lesson from these models is that measuring the natural rate 
+
+of interest or the output gap is hard.  However, estimates of the natural rate of 
+
+interest from a collection of structural models across the Federal Reserve 
+
+System indicate that the natural rate fell considerably during the financial 
+
+crisis, became quite negative in its aftermath, and has subsequently recovered 
+
+only slowly.23   
+
+                                                 
+21 In Woodford’s and Wicksell’s analyses, natural values are those that would prevail in the absence of 
+
+nominal rigidities. 
+22 See, for example, Katharine Neiss and Edward Nelson (2002), “Inflation Dynamics, Marginal Cost, and 
+
+the Output Gap:  Evidence from Three Countries,” unpublished paper, Bank of England, July; Rochelle 
+
+Edge, Michael Kiley, and Jean-Philippe Laforte (2008), “Natural Rate Measures in an estimated DSGE 
+
+model of the U.S. economy,” Journal of Economic Dynamics and Control, vol. 32, pp. 2512-35.   
+23 See, for example, figure 1 in Janet Yellen (2015), “The Economic Outlook and Monetary Policy,” speech 
+
+delivered at the Economic Club of Washington, Washington, D.C., December 2,  
+
+www.federalreserve.gov/newsevents/speech/yellen20151202a.pdf. 
+

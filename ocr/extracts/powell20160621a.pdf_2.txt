@@ -1,0 +1,51 @@
+
+2 
+ 
+
+  I want to thank you all for coming today, and I also want to thank the Alternative 
+
+Reference Rates Committee (ARRC) for all its work in developing its interim report.  This report 
+
+marks a new stage in reference rate reform.1  Reference benchmarks are a key part of the 
+
+financial infrastructure.  About $300 trillion dollars in contracts reference LIBOR alone.  But 
+
+benchmarks were not given much consideration prior to the recent scandals involving attempts to 
+
+manipulate them.  Since then, the official sector has thought seriously about financial 
+
+benchmarks, conducting a number of investigations into charges of manipulation, publishing the 
+
+International Organization of Securities Commission’s (IOSCO) Principles for Financial 
+
+Benchmarks and, through the Financial Stability Board (FSB), sponsoring major reform efforts 
+
+of both interest rate and foreign exchange benchmarks.2  The institutions represented on the 
+
+ARRC have also had to think seriously about these issues as they have developed this interim 
+
+report.  Now, we need end users to begin to think more seriously about how they use benchmarks 
+
+and the risks they are taking on by relying so heavily on a reference rate--in this case U.S. dollar 
+
+LIBOR--that is less resilient than it needs to be.   
+
+In saying this, I want to make it clear that LIBOR has been significantly improved.  ICE 
+
+Benchmark Administration is in the process of making important changes to its methodology, 
+
+and submissions to LIBOR are now regulated by the United Kingdom’s Financial Conduct 
+
+Authority.  However, the term money market borrowing by banks that underlies U.S. dollar 
+
+LIBOR has experienced a secular decline.  As a result, the majority of U.S. dollar LIBOR 
+
+submissions must still rely on expert judgement, and even those submissions that are transaction-
+
+                                                           
+1 See Alternative Reference Rates Committee (2016), Interim Report and Consultation (New York:  ARRC, May), 
+https://www.newyorkfed.org/medialibrary/microsites/arrc/files/2016/arrc-interim-report-and-consultation.pdf?la=en. 
+2 For more information on the IOSCO principles, see Board of the International Organization of Securities 
+Commissions (2013), Principles for Financial Benchmarks:  Final Report (Madrid:  IOSCO, July), 
+www.iosco.org/library/pubdocs/pdf/IOSCOPD415.pdf 
+

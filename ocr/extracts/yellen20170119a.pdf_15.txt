@@ -1,0 +1,51 @@
+
+- 14 - 
+ 
+
+utilization.19  The prescriptions of the balanced-approach rule in this figure, as with the 
+
+solid red Taylor-rule plot, assume that R* equals 1 percent, consistent with the medians 
+
+of the latest FOMC projections.  Because participants on average anticipate a modest 
+
+undershooting of the unemployment rate below its estimated longer-run level, the 
+
+balanced-approach rule calls for a slightly faster pace of tightening over the next several 
+
+years than the Taylor rule.   
+
+Figure 8 also reports results for a “change” rule, shown as the green long-dashed 
+
+line.  As its name implies, this rule does not prescribe a particular level of the federal 
+
+funds rate at a given time but rather how the existing rate should change from quarter to 
+
+quarter based on two gaps--the difference between inflation and its desired level as well 
+
+as the difference between the unemployment rate and its longer-run normal level.20  In 
+
+contrast to the other two rules, the change rule does not take a stand on the value of the 
+
+longer-run neutral level of the real federal funds rate, thus avoiding a potential source of 
+
+error.  Instead, it moves interest rates up and down until both gaps close, an approach that 
+
+in theory enables it to perform well when the true value of R* is unknown.  Because both 
+
+gaps are relatively modest at the moment and are projected to remain so, the change rule 
+
+calls for fairly gradual adjustments in the stance of monetary policy over the next few 
+
+years given the current outlook. 
+
+                                                           
+19 The balanced-approach rule is 𝑅𝑅𝑡𝑡 = 𝑅𝑅∗ + 𝜋𝜋𝑡𝑡 + 0.5(𝜋𝜋𝑡𝑡 − 𝜋𝜋∗) + 1.0𝑌𝑌𝑡𝑡, where all terms are defined as in 
+the Taylor rule.  (See note 12 for details.)  As noted by Taylor (1999), research suggests that this rule may 
+do a better job than the Taylor rule in stabilizing real activity and inflation. 
+20 The change rule is 𝑅𝑅𝑡𝑡 = 𝑅𝑅𝑡𝑡−1 + 1.2(𝜋𝜋𝑡𝑡 − 2) + 2.0(𝑈𝑈∗ − 𝑈𝑈𝑡𝑡), where R is the federal funds rate, π is four-
+quarter rate of core PCE inflation, U* is the projected longer-run unemployment rate, and U is the current 
+unemployment rate.  In computing the prescriptions for the change rule shown in figure 8, the midpoint of 
+the target range for the federal funds rate prior to the December 2016 FOMC meeting, 0.38 percent, is used 
+as the starting point.  For a discussion of this rule (and of policy rules in general), see Taylor and Williams 
+(2010).   
+

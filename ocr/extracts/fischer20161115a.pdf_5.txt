@@ -1,0 +1,51 @@
+
+ - 4 - 
+
+This analysis, however, is limited to episodes of distressed borrowers rather than a 
+
+systemwide stress. 
+
+4.  Flash events 
+
+In addition, recent flash events--such as the sharp movement in Treasury prices on 
+
+October 15, 2014; the rapid rise and decline of the euro-dollar exchange rate on March 
+
+18, 2015; 6 and the swing in sterling on October 7, 2016--have led some to assert that 
+
+market liquidity has become less resilient.   Researchers at the Federal Reserve Bank of 
+
+New York have argued that spikes in volatility and sudden declines in liquidity have 
+
+become more frequent in both Treasury and equity markets.7  The Commodity Futures 
+
+Trading Commission also points out that flash events are more common now.8  Market 
+
+participants suggest that the rapid growth in high-frequency trading in equity, foreign 
+
+exchange, and U.S. Treasury markets, along with broader concerns about less resilient 
+
+liquidity, potentially explains these flash events.  Nevertheless, a report on the October 
+
+15, 2014 event by the staff of the Treasury Department, Federal Reserve, and market 
+
+regulatory agencies found no single factor that caused the sharp swing in prices.9 
+
+A Broader Review of the Evidence  
+
+1.  Trading costs are low 
+
+Even though flash events appear to be more common, it is certainly too soon to 
+
+declare that a broad reduction in market liquidity has occurred.  Figure 3 plots realized 
+
+bid-ask spreads for investment-grade corporate bonds over time (the black dashed line) 
+
+                                                 
+6 See Powell (2015) for a discussion of recent flash events and other changes in the behavior of bond 
+
+prices.  
+7 See Adrian and others (2015). 
+8 See Massad (2015). 
+9 See U.S. Treasury and others (2015). 
+

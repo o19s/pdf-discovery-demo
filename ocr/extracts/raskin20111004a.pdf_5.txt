@@ -1,0 +1,49 @@
+
+ - 4 - 
+
+promissory note, for example, lays out the terms under which the borrower will repay the 
+
+loan, while the mortgage reflects the lender’s security interest in the property.  But there 
+
+are also contracts between the borrower and third parties and between the lender and third 
+
+parties.  For example, the borrower likely will enter agreements for title, flood, or private 
+
+mortgage insurance, while the lender may enter an agreement with another institution to 
+
+service the loan.  Add mortgage securitization to the mix, and the number of contractual 
+
+relationships snowballs.  For a private-label securitization, a crucial contract is the 
+
+pooling and servicing agreement, or PSA, which specifies matters such as the 
+
+characteristics of the mortgages in the pool, how these mortgages will be serviced, and 
+
+how the money generated from the loans will be distributed to investors.  At nearly every 
+
+linkage of our mortgage finance system there is a contractual relationship, and at nearly 
+
+every contractual linkage there has been legal challenge and litigation.   
+
+For example, let’s just zero in on one such contractual relationship and examine 
+
+how the legal structure set forth in this relationship has held up.  First, let’s look at the 
+
+provisions that govern mortgage servicing, and second, the provisions that lay out the 
+
+representations and warranties about the features and underwriting quality of the loans 
+
+included in the securitization.  Both sets of provisions exist in the contract that governs 
+
+the securitization, the PSA.  
+
+Mortgage Servicing 
+
+The problems in mortgage servicing have been well documented.  For example,  
+
+the federal banking regulators found significant problems when we looked at mortgage 
+
+servicing and foreclosure processing at 14 federally regulated mortgage servicers, which 
+
+collectively represent more than two-thirds of all servicing volume nationally.  These 
+

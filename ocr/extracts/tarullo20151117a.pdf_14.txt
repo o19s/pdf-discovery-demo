@@ -1,0 +1,53 @@
+
+-13- 
+ 
+
+
+A tool that might be better targeted to actual risks, while avoiding unnecessary “bank-
+
+like” regulation would be what I have previously termed “prudential market regulation”--that is, 
+
+a policy framework that builds on the traditional investor-protection and market-functioning 
+
+aims of market regulation by incorporating a system-wide financial stability perspective.  This 
+
+approach would take into account such considerations as system-wide demands on liquidity 
+
+during stress periods and correlated risks that could exacerbate liquidity, redemption, or fire sale 
+
+pressures.  The specific policies associated with prudential market regulation might be 
+
+transaction-specific or apply to certain kinds of business models.   
+
+One example of such a measure is the SFT minimum haircut idea I mentioned earlier.  
+
+Generally, though, prudential market regulation would be a tool more available to market 
+
+regulators, since it would apply to activities on a market or transactional basis.  In her important 
+
+speech last year, Securities and Exchange Commission (SEC) Chair Mary Jo White provided a 
+
+roadmap for just such a regulatory approach for the asset management industry.10  The SEC has 
+
+since begun to develop that approach.11  
+
+The second institutional issue is the question of which regulators would make the 
+
+assessment and policy tradeoffs that I contemplate in addressing financial stability risks 
+
+associated with nonbank financial intermediation.  The natural answer would be the regulator 
+
+with authority to act.  While this may well be the best answer from a policy perspective, it does 
+
+raise some potential issues on its own.  For example, if regulators with responsibility for one 
+
+sector believe that the failure of regulators with responsibility for another sector to act on 
+
+financial stability concerns is creating debilitating disadvantages for firms in the first sector, they 
+
+                                                 
+10 See Mary Jo White (2014), “Enhancing Risk Monitoring and Regulatory Safeguards for the Asset Management 
+Industry,” speech delivered at the New York Times DealBook Opportunities for Tomorrow Conference, New York, 
+New York, December 11, www.sec.gov/News/Speech/Detail/Speech/1370543677722. 
+11 See 80 Fed. Reg. 62274 (October 15, 2015). 
+

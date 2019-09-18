@@ -1,0 +1,53 @@
+
+- 12 - 
+ 
+
+ 
+ 
+
+To explore recent loan and lease originations to small businesses, we can look at 
+
+the PayNet/Thomson Reuters Small Business Lending Index (SBLI).  For inclusion in 
+
+this index, a loan or lease must be originated to a business borrower who has total loan 
+
+outstandings across all qualifying lenders of less than $1 million at both the start and the 
+
+end of the month in question.  While some such loans and leases may be to established 
+
+firms that employ more than 500 workers, small businesses are generally viewed as much 
+
+more likely to borrow in these relatively small loan denominations.  The lenders that 
+
+provide the data used to construct the index are banks and finance companies. 
+
+The year-over-year changes in the SBLI are consistent with a view that loan 
+
+originations are a pro-cyclical indicator (figure 8).  Strikingly, such year-over-year 
+
+changes were mainly positive, but smaller through time, until the recent business cycle 
+
+peak in December 2007.  During the recession, however, the year-over-year changes in 
+
+the SBLI were increasingly negative until the business cycle trough, which occurred in 
+
+June 2009.  Then, shortly after the recent business cycle trough, the year-over-year 
+
+negative changes in the index became smaller until they turned positive in early 2010.  In 
+
+February, the most recent month for which data are available, the SBLI measure of 
+
+business loan and lease originations rose 15 percent from a year earlier.  
+
+The seasonally adjusted index, which is normalized to 100 in January 2005, 
+
+provides a different take on small business originations (figure 9).  This measure of 
+
+lending, which allows comparisons across different months, has not yet rebounded to its 
+
+level in mid-2007 even though many of the measures of small business owners’ and 
+
+bankers’ perspectives have returned to their pre-recession levels.  Despite the magnitude 
+
+of the rebound, there has been an apparent turnaround in loan and lease originations using 
+

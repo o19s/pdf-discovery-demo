@@ -1,0 +1,50 @@
+
+ - 5 - 
+
+and then adding up the separate actions of a large number of different households, a 
+
+macro model might instead assume that the behavior of a single “average” household can 
+
+describe the aggregate behavior of all households. 
+
+Prior to the financial crisis, these so-called representative-agent models were the 
+
+dominant paradigm for analyzing many macroeconomic questions.  However, a 
+
+disaggregated approach seems needed to understand some key aspects of the Great 
+
+Recession.  To give one example, consider the effects of negative housing equity on 
+
+consumption.  Although households typically reduce their spending in response to wealth 
+
+declines, the many households whose equity positions in their homes were actually 
+
+driven negative by the reduction in house prices may have curtailed their spending even 
+
+more sharply because of a markedly reduced ability to borrow.  Such a development, in 
+
+turn, would shift the relationship between housing equity (which remained solidly 
+
+positive in the aggregate) and consumer spending for the economy as a whole.  Such a 
+
+shift in an aggregate relationship would be difficult to understand or predict without 
+
+using disaggregated data and models. 
+
+More generally, studying the effects of household and firm heterogeneity might 
+
+help us better account for the severity of the recession and the slow recovery.  At the 
+
+household level, recent research finds that heterogeneity can amplify the effects of 
+
+adverse shocks, a result that is largely driven by households with very little net worth that 
+
+sharply increase their savings in a recession.9  At the firm level, there is evidence that 
+
+financial constraints had a particularly large adverse effect on employment at small firms 
+
+and the start-up of new firms, factors that may be part of the explanation for the Great 
+
+                                                 
+9 See Krueger, Mitman, and Perri (2016).   
+

@@ -1,0 +1,53 @@
+
+
+
+- 6 - 
+
+The Yield Curve 
+
+Even though longer-term Treasury yields have moved up, on net, since the 
+
+beginning of the year, there has been growing attention of late to the possibility of an 
+
+inversion of the yield curve--that is, circumstances in which short-term interest rates 
+
+exceed long-term interest rates on Treasury securities.  Historically, yield curve 
+
+inversions have had a reliable track record of predicting recessions in the United States.8  
+
+Since 1960, there has only been one case where the 3-month Treasury yield has moved 
+
+above the 10-year Treasury yield and a recession has not followed--in 1966.9   
+
+This correlation between yield curve inversions and recessions might arise for a 
+
+variety of reasons.  First, let us take a case where short-term rates rise relative to long-
+
+term rates.  When the FOMC is undertaking a deliberate tightening in policy, short-term 
+
+interest rates typically rise, as do expectations of short-term interest rates in the medium 
+
+term, while interest rates in the distant future may be less affected.  For example, if short-
+
+term interest rates were raised to stabilize temporary swings in the economy, the logic of 
+
+the expectations hypothesis would suggest that long rates would not rise as much.  And if 
+
+tighter monetary policy were to weaken the economy with a lag, this would lead to long 
+
+rates not rising by as much or at all.   
+
+Second, let us take a case where long-term rates decline relative to short-term 
+
+rates, perhaps reflecting a flight to safety.  If market participants become concerned about 
+
+                                                 
+8 An earlier paper discussing the predictive power of the yield curve is Estrella and Mishkin (1997).  In 
+more recent work, Bauer and Mertens (2018) emphasize that the predictive content of the yield curve is still 
+largely intact.  Johansson and Meldrum (2018) and Favara and others (2016), however, argue that adding 
+information about bond risk premiums reduces somewhat the predictive power of the yield spread. 
+9 An earlier version of this speech stated that the 3-month Treasury yield did not move above the 10-year 
+Treasury yield prior to the 1990 recession.  While that statement is true looking at monthly average interest 
+rates, there were several days in mid-1989 when the 3-month Treasury yield was higher than the 10-year 
+yield. 
+

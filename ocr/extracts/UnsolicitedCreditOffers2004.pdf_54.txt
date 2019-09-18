@@ -1,0 +1,50 @@
+
+50 
+
+Appendix B:
+
+Age and Census Tract Characteristics of Individuals
+
+in the Credit Record Sample
+
+
+AGE 
+
+Credit records include information that can be used to determine the age of the individual. The 
+sample data indicate that older individuals are much more likely to opt out of receiving 
+prescreened mail solicitations for credit or insurance than younger persons. About 10 percent of 
+those age 55 and older have opted out, compared with 3 percent of individuals under the age of 
+25 (table B.1). Younger individuals may be more likely to need credit in the future and for this 
+reason less inclined to limit the number of credit offers they receive in the mail. It is also likely 
+that younger individuals have received fewer prescreened solicitations and may be less aware of 
+the opt-out option. 
+
+URBAN, SUBURBAN, OR RURAL RESIDENCE 
+
+The Bureau of the Census categorizes all areas of the country according to three levels, or 
+degrees, of urbanization: urban, suburban, and rural. (Urban and suburban areas constitute 
+metropolitan areas as defined by the Office of Management and Budget; rural areas constitute 
+nonmetropolitan areas.) The sample data indicate that individuals residing in the suburbs are 
+most likely to opt out, and those in rural areas are least likely to do so. 
+
+RELATIVE INCOME OF CENSUS TRACT 
+
+The sample data also include state, county, and census tract indicators for the individuals in the 
+sample. For this analysis each census tract was placed into one of four relative income categories 
+by comparing the median family income of the census tract to the median family income of the 
+broader area in which it is located (incomes were as of the 2000 decennial census).42 For a census 
+tract in a metropolitan (that is, urban or suburban) area, the comparison is to the median family 
+income of the metropolitan area in which the census tract is located; for each rural census tract, 
+the comparison is to the median family income of the nonmetropolitan portion of its state (table 
+B.1). 
+
+Individuals residing in lower-income areas (incomes less than 80 percent of the broader area 
+median) have the lowest incidence of opting out (2.6 percent), while those in the highest-income 
+areas (incomes 120 percent or more of the broader area medians) have the greatest incidence of 
+opting out (9.5 percent). These patterns are consistent with differences in the use of credit by the 
+residents of these areas; residents of higher-income areas, for example, have more credit 
+accounts, on average, than residents of lower-income areas (data not shown in tables). As noted 
+
+42 The four income categories correspond to the income groups used to measure the records of banking 
+institutions in complying with the Community Reinvestment Act. 
+

@@ -8,12 +8,14 @@
 
     <field name="id" type="string" indexed="true" stored="true" multiValued="false" />
     <field name="doc_id" type="string" indexed="true" stored="true" multiValued="false" />
+
     <field name="content_type" type="string" indexed="true" stored="true" multiValued="false" />
     <field name="title" type="text" indexed="true" stored="true" multiValued="false" />
     <field name="content" type="text" indexed="true" stored="true" multiValued="false" />
     <field name="content_ocr" type="ocr" indexed="true" stored="true" multiValued="false" termPayloads="true" termOffsets="true" termPositions="true" termVectors="true" />
 
-    <field name="page_dimensions" type="string" indexed="false" stored="true" multiValued="true" />
+    <field name="page_number" type="int" indexed="true"  stored="true"  multiValued="false" />
+    <field name="page_dimension" type="string" indexed="false" stored="true" multiValued="true" />
 
     <field name="path" type="string" indexed="false" stored="true" multiValued="false" />
 
@@ -39,11 +41,8 @@
     <!-- field to use to determine and enforce document uniqueness. -->
     <uniqueKey>id</uniqueKey>
 
-    <!-- field for the QueryParser to use when an explicit fieldname is absent -->
-    <defaultSearchField>content_ocr</defaultSearchField>
-
     <!-- SolrQueryParser configuration: defaultOperator="AND|OR" -->
-    <solrQueryParser defaultOperator="OR"/>
+    <!--solrQueryParser defaultOperator="OR"/-->
 
     <!--
         Field Types
@@ -53,10 +52,12 @@
       <analyzer>
         <tokenizer class="solr.WhitespaceTokenizerFactory"/>
         <filter class="solr.DelimitedPayloadTokenFilterFactory" encoder="identity" />
+        <!-- The payload buffer works around WDF removing payloads from tokens by copying and replacing later in the chain -->
+        <filter class="com.o19s.payloads.filter.PayloadBufferFilterFactory" />
         <filter class="solr.LowerCaseFilterFactory" />
         <filter class="solr.WordDelimiterFilterFactory" />
         <filter class="solr.KStemFilterFactory" />
-
+        <filter class="com.o19s.payloads.filter.PayloadBufferFilterFactory" />
       </analyzer>
     </fieldType>
 

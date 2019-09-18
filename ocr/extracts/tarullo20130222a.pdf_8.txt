@@ -1,0 +1,53 @@
+
+- 7 - 
+ 
+
+ 
+ 
+
+crisis components of the shadow banking system are probably gone forever, current examples 
+
+include money market funds, the triparty repo market, and securities lending.   
+
+From the perspective of financial stability, the parts of the shadow banking system of 
+
+most concern are those that create assets thought to be safe, short-term, and liquid--in effect, cash 
+
+equivalents.  For a variety of reasons, demand for such assets has grown steadily in recent years, 
+
+and is not likely to reverse direction in the foreseeable future.  Yet these are the assets whose 
+
+funding is most likely to run in periods of stress, as investors realize that their resemblance to 
+
+cash or insured deposits in normal times has disappeared in the face of uncertainty about their 
+
+underlying value.  And, as was graphically illustrated during the crisis, the resulting forced sales 
+
+of assets whose values are already under pressure can accelerate an adverse feedback loop, in 
+
+which all firms with similar assets suffer mark-to-market losses, which, in turn, can lead to more 
+
+fire sales.  This kind of contagion lay at the heart of the financial stresses of 2007 and 2008. 
+
+ As already noted, pre-crisis shortcomings at the intersection of microprudential and 
+
+macroprudential regulation have motivated a variety of reforms, many explicitly directed at the 
+
+problem of too-big-to-fail institutions.  While some of these reforms remain unfinished, and 
+
+some additional measures are needed, there has been considerable progress.  Unfortunately, the 
+
+same cannot be said with respect to shadow banking and, more generally, the vulnerabilities 
+
+associated with wholesale short-term funding.  These vulnerabilities involve both large, 
+
+prudentially regulated institutions, and thus too-big-to-fail concerns, and the broader financial 
+
+system.  Except for the liquidity requirements agreed to in the Basel Committee, however, the 
+
+liability side of the balance sheets of financial firms has barely been addressed in the reform 
+
+agenda.  Yet here is where the systemic problems of interconnectedness and contagion are most 
+
+apparent.  And, as evidenced by the funding stresses experienced by a number of European 
+

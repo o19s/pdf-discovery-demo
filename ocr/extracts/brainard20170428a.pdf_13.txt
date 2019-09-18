@@ -1,0 +1,54 @@
+
+- 12 - 
+
+On the other side of the debate, fintech companies are concerned that banks could use 
+
+their control over consumer data access in the context of bilateral contracts with data aggregators 
+
+to leverage their position in order to impede competition elsewhere in the stack.  This argument 
+
+about access and competition echoes similar concerns in the smartphone arena.24  
+
+Further, third-party developers argue that open standards for data access can help banks 
+
+meet consumers’ expectations for mobile banking by providing access to the fintech apps that 
+
+best serve their needs.  The relatively open architecture of the iPhone platform means that Apple 
+
+profits from outside developers’ products without having to design or invest in them directly.  
+
+For instance, Apple didn’t include a home-grown mapping app during the first few years of the 
+
+iPhone.25  Instead, it relied on Google to provide that important function for its smartphones 
+
+before trying to build its own mapping tool--a process that took a number of iterations before 
+
+getting it right.  Open platform strategies may mean that banks can essentially outsource product 
+
+development to fintech firms.26  This could be a boon--particularly for small community banks 
+
+                                                           
+24 When the iPhone first launched, for instance, one phone provider paid a premium for exclusive access to the 
+smartphone. This meant that, for several years, consumers that wanted the iPhone also had to enter relationships 
+with the only Internet service provider platform that offered the phone.  See, e.g., Saul Hansell, “Why AT&T Wants 
+to Keep the iPhone Away from Verizon,” New York Times, April 22, 2009, 
+https://bits.blogs.nytimes.com/2009/04/22/why-att-wants-to-keep-the-iphone-away-from-verizon/ (“AT&T is paying 
+Apple an unusually high subsidy on top of the $199 and $299 paid by iPhone buyers. But it appears to be getting 
+quite a return on that investment.”) At the same time, Apple has used its own iPhone platform to affect the 
+development of products further up the stack.  While much of the iPhone is an open platform for third-party 
+developers, developers do not have access to the iPhone’s secure element and Near Field Communication (NFC) 
+antenna--key components of digital wallet technologies.  This means that Apple Pay is the only “tap-to-pay” NFC 
+digital wallet available for iPhones--and that Apple Pay competitors, like Android Pay and Samsung Pay, are unable 
+to access 40 percent of the smartphones in the United States. See, e.g., Philip Elmer-DeWitt, “About Apple’s 40% 
+Share of the U.S. Smartphone Market,” Fortune, February 11, 2016, http://fortune.com/2016/02/11/apple-iphone-
+ios-share/.  When a group of Australia’s largest banks recently petitioned the country’s antitrust authority to allow 
+them to band together to require Apple to unlock access to the NFC antenna, for use by their digital wallets, their 
+request was denied.  See, e.g., Simon Sharwood, “Banking Group Denied Access to iPhones’ NFC Chips for 
+alt.Apple.Pay,” Register, April 3, 2017, 
+www.theregister.co.uk/2017/04/03/banking_group_denied_access_to_iphones_nfc_chips_for_altapplepay/   
+25 See, e.g., Chance Miller, Apple Maps Now Used 3x as Often as Google Maps on iOS, Serving 5B Requests per 
+Week, 9to5Mac, December 7, 2015, https://9to5mac.com/2015/12/07/apple-maps-usage-numbers/.  
+26 For example, small business lender Kabbage, Inc. has entered agreements with large banks, where Kabbage 
+licenses its data analysis-heavy customer acquisition platform to banking partners who then go on to originate, fund, 
+and service the underlying loans. See, e.g., Kabbage Inc., “Kabbage and Santander UK Partner to Accelerate SMB 
+

@@ -1,0 +1,27 @@
+
+1960 1963 1966 1969 1972 1975 1978 1981 1984 1987 1990 1993 1996 1999 2002 2005 2008 2011 2014
+-2
+
+ 0
+
+ 2
+
+ 4
+
+ 6
+
+ 8
+
+10
+
+12
+Percent
+
+Total PCE
+Core PCE
+
+Annualized 12-Month PCE and Core PCE Inflation
+
+  Note:  PCE is personal consumption expenditures.
+  Source:  U.S. Department of Labor, Bureau of Labor Statistics.
+

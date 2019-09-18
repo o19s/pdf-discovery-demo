@@ -1,0 +1,51 @@
+
+- 10 - 
+
+forward to collect consumer data for use by fintech developers without the permission or even 
+
+potentially without the knowledge of the bank.  Instead, data aggregators and fintech developers 
+
+directly ask consumers to give them their online banking logins and passwords.  Then, in a 
+
+process commonly called “screen scraping,” data aggregators log onto banks’ online consumer 
+
+websites, as if they were the actual consumers, and extract information.  Some banks report that 
+
+as much as 20 to 40 percent of online banking logins is attributable to data aggregators.  They 
+
+even assert that they have trouble distinguishing whether a computer system that is logging in 
+
+multiple times a day is a consumer, a data aggregator, or a cyber attack.  
+
+For community banks with limited resources, the necessary investments in API 
+
+technology and in negotiating and overseeing data-sharing agreements with data aggregators and 
+
+third-party providers may be beyond their reach, especially as they usually rely on service 
+
+providers for their core technology.  Some fintech firms argue that screen scraping--which has 
+
+drawn the most complaints about data security--may be the most effective tool for the customers 
+
+of small community banks to access the financial apps they prefer--and thereby necessary to 
+
+remain competitive until more effective broader industry solutions are developed.   
+
+Clearly, getting these connectivity questions right, including the need to manage the 
+
+consumer protection risks, is critically important. It could make the difference between a world 
+
+in which the fintech wave helps community banks become the platforms of the future, on the one 
+
+hand, or, on the other hand, a world in which fintech instead further widens the gulf between 
+
+community banks and the largest banks. 
+
+                                                           
+our solutions limit or restrict our ability to access or use such information, we may be required to attempt to obtain 
+the information, if at all, through end user-permissioned data scraping or other means that could be more costly and 
+time-consuming, and less effective or efficient. . . . The legal environment surrounding data scraping and similar 
+means of obtaining access to information on third-party websites is not completely clear and is evolving, and one or 
+more third parties could assert claims against us seeking damages or to prevent us from accessing information in that 
+manner.”) 
+

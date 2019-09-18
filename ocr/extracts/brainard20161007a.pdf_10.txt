@@ -1,0 +1,52 @@
+
+ - 9 - 
+
+associated with evolving financial technologies has raised questions about the 
+
+applicability of existing licenses and their adequacy to new business models.  For 
+
+instance, the Monetary Authority of Singapore recently issued a consultation paper that 
+
+proposes an activity-based payments framework as a way to address the introduction of 
+
+non-traditional payment providers.2  The United States has seen several noteworthy 
+
+recent developments, including the New York State Department of Financial Services’ 
+
+BitLicense, a distributed ledger company, securing Federal Reserve Bank of New York 
+
+approval for participation in the National Settlement Service, and, most recently, 
+
+discussion by the OCC of a limited-purpose charter. 
+
+Ongoing Engagement  
+
+Because of the notable potential of distributed ledger technology, financial 
+
+authorities, both domestic and international, will follow these developments with keen 
+
+interest.  At the Federal Reserve, we expect to publish a research paper later this year that 
+
+summarizes some of the key findings from our industry engagement so far.  Going 
+
+forward, we will continue to deepen our engagement with a range of financial 
+
+institutions, technologists, multi-stakeholder consortia, and academic experts to refine our 
+
+understanding of the new technologies, along with their possibilities and limitations, with 
+
+a particular focus on our responsibilities for the payments system, as well as our 
+
+oversight of financial market intermediaries.  We will also continue to discuss these 
+
+issues with other central banks and authorities around the world.  We will work together 
+
+                                                 
+2 See 
+
+www.mas.gov.sg/~/media/resource/publications/consult_papers/2016/Proposed%20Activity%20Based%20
+
+Payments%20Framework%20and%20Establishment%20of%20a%20National%20Payments%20Council.p
+
+df.  
+

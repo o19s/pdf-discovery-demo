@@ -1,0 +1,52 @@
+
+- 14 - 
+ 
+
+
+that question is answered affirmatively, whether the imposition of such standards would lead to a 
+
+significant arbitrage through increased participation by those outside the regulatory perimeter.  It 
+
+does not seem far-fetched to think that, with time and sufficient economic incentive, the 
+
+financial, technological, and regulatory barriers to the disintermediation of prudentially regulated 
+
+dealers could be overcome.  Indeed, there have already been reports of some hedge funds 
+
+exploring the possibility of disintermediating dealers by lending cash against securities collateral 
+
+to other market participants. 
+
+ For this reason, there is a need to supplement prudential bank regulation with a third set 
+
+of policy options in the form of regulatory tools that can be applied on a market-wide basis.  That 
+
+is, regulation would focus on particular kinds of transactions, rather than just the nature of the 
+
+firm engaging in the transactions.  To date, over-the-counter derivatives reform is the primary 
+
+example of a post-crisis effort at market-wide regulation.5  Given that the 2007–2008 financial 
+
+crisis was driven more by disruptions in the SFT markets than by disruptions in the over-the-
+
+counter derivative markets, comparable attention to SFT markets is surely needed.  Over the past 
+
+two years, the Financial Stability Board (FSB) has been evaluating proposals for a system of 
+
+haircuts and margin requirements for SFTs.  In its broadest form, a system of numerical floors 
+
+for SFT haircuts would require any entity that wants to borrow against any security to post a 
+
+minimum amount of excess margin that would vary depending on the asset class of the collateral.  
+
+Like minimum margin requirements for derivatives, numerical floors for SFT haircuts would be 
+
+                                                            
+5 Although the Dodd-Frank Act gives the Commodity Futures Trading Commission and the Securities and Exchange 
+Commission primary responsibility in this area, a broad range of federal financial regulators (including the Federal 
+Reserve) is responsible for developing margin requirements for over-the-counter derivatives transactions.  These 
+requirements will limit the amount of leverage that market participants can take on through the use of derivative 
+instruments.  In addition, by requiring margin to be posted at the outset of a transaction and mark-to-market gains 
+and losses to be continually offset through transfers of additional collateral, these requirements will help to avoid 
+situations in which firms face margin calls only when they are most pressed for liquidity. 
+

@@ -1,0 +1,60 @@
+
+ - 22 - 
+
+channels that can be grouped under the heading of securities financing transactions 
+
+(SFTs).
+24
+
+  The use of such funding surely has the potential to increase again during 
+
+periods of rapid asset appreciation and ready access to leverage.  While SFTs are an 
+
+important and useful part of securities markets, without effective regulation they can 
+
+create a large run risk, and thus can increase systemic problems that may develop in 
+
+various asset and lending markets. 
+
+The risks associated with short-term funding are as much or more 
+
+macroprudential as they are firm-specific.  From a microprudential perspective, SFTs are 
+
+low risk, because the borrowing is short-dated, overcollateralized, marked-to-market 
+
+daily, and subject to remargining requirements.  Capital charges are low because credit 
+
+risk is low.  The Liquidity Coverage Ratio (LCR), recently adopted by the Basel 
+
+Committee and soon to be implemented in the United States through a proposed 
+
+rulemaking, is an important step forward for financial regulation, since it will be the first 
+
+broadly applicable quantitative liquidity requirement for banking firms.  But it, too, has a 
+
+principally microprudential focus, since it rests on the implicit premise that maturity-
+
+matched books at individual firms present relatively low risks.   
+
+While maturity mismatch by core intermediaries is a key financial stability risk in 
+
+wholesale funding markets, it is not the only one.  Even if an intermediary’s book of 
+
+securities’ financing transactions is perfectly matched, a reduction in the intermediary’s 
+
+access to funding can force the firm to engage in asset fire sales or to abruptly withdraw 
+
+credit from customers.  The intermediary’s customers are likely to be highly leveraged 
+
+                                                                                                                                                 
+and supervisory expectations.  But it is also true that deposits were a safe haven for many households and 
+
+non-household investors during the crisis.  It may be that, as financial and economic conditions continue to 
+
+normalize, households and other investors will move more deposits into other investment vehicles. 
+24
+
+ Included in this grouping are repo, reverse repo, securities lending and borrowing, and securities margin 
+
+lending. 
+

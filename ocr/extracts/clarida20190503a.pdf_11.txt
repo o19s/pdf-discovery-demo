@@ -1,0 +1,51 @@
+
+ - 10 - 
+
+path for policy and thus the term premium.  Moreover, fluctuations in the term premium 
+
+on U.S. Treasury yields are driven in part by a significant “global” factor, which 
+
+complicates efforts to treat the slope of the yield curve as a sufficient statistic for the 
+
+expected path of U.S. monetary policy (Clarida, 2018c).  Again, here, surveys of market 
+
+participants can provide useful information—for example, about “the expected average 
+
+federal funds rate over the next 10 years,” which provides an alternative way to identify 
+
+the term premium component in the U.S. Treasury curve. 
+
+Quotes from the Treasury Inflation-Protected Securities (TIPS) market can 
+
+provide valuable information about two key inputs to monetary policy analysis:  long-run 
+
+r* and expected inflation.14  Direct reads of TIPS spot rates and forward rates are signals 
+
+of the levels of real interest rates that investors expect at various horizons, and they can 
+
+be used to complement model-based estimates of r*.  In addition, TIPS market data, 
+
+together with nominal Treasury yields, can be used to construct measures of “breakeven 
+
+inflation” or inflation compensation that provide a noisy signal of market expectations of 
+
+future inflation.  But, again, a straight read of breakeven inflation needs to be augmented 
+
+with a model to filter out the liquidity and risk premium components that place a wedge 
+
+between inflation compensation and expected inflation. 
+
+As is the case with the yield curve and interest rate futures, it is useful to compare 
+
+estimates of expected inflation derived from breakeven inflation data with estimates of 
+
+expected inflation obtained from surveys—for example, the expected inflation over the 
+
+                                                 
+14 Well before the launch of the TIPS market, Friedman (1984) stressed the benefits to monetary policy 
+analysis that would arise from the availability of market-based estimates of longer-term inflation 
+expectations, and he contrasted that situation with the one then prevailing, in which it was difficult to 
+ascertain the real yields implied by the market’s longer-term nominal yields.  In a similar vein, Campbell 
+and Clarida (1987, p. 105) observed—also in the pre-TIPS era—that “it is hard to measure expected long-
+term inflation rates.” 
+

@@ -1,0 +1,46 @@
+
+ - 12 - 
+
+do—complement the predictions from macro models and market prices (figure 6).15  Yes, 
+
+the Fed’s job would be (much) easier if the real world of 2019 satisfied the requirements 
+
+to run Friedman’s k-percent policy rule, but it does not and has not for at least 50 years, 
+
+and our policy framework must and does reflect this reality. 
+
+This reality includes the fact that the U.S. economy is in a very good place.  The 
+
+unemployment rate is at a 50-year low, real wages are rising in line with productivity, 
+
+inflationary pressures are muted, and expected inflation is stable.  Moreover, the federal 
+
+funds rate is now in the range of estimates of its longer-run neutral level, and the 
+
+unemployment rate is not far below many estimates of u*.  Plugging these estimates into 
+
+a 1993 Taylor rule produces a federal funds rate very close to our current target range for 
+
+the policy rate.16  So with the economy operating at or very close to the Fed’s dual-
+
+mandate objectives and with the policy rate in the range of FOMC participants’ estimates 
+
+of neutral, we can, I believe, afford to be data dependent—in both senses of the term as I 
+
+have discussed—as we assess what, if any, further adjustments in our policy stance might 
+
+be required to maintain our dual-mandate objectives of maximum employment and price 
+
+stability. 
+
+
+
+                                                 
+15 It is important to note that the range of model estimates that is shown in the shaded portion of figure 6 is 
+not a confidence interval.  If parameter uncertainty in the estimates was allowed for, the range would be 
+wider still.  Yield curve data can also be used to compute estimates of the neutral rate of interest, as in 
+Bauer and Rudebusch (2019). 
+16 Figure 7 summarizes the overall pattern displayed over time of various model-based estimates of r*.  
+Recent r* estimates from the models considered, as well as their confidence intervals, are shown in figure 
+8.  The sources for both figures are given at the bottom of figure 8. 
+

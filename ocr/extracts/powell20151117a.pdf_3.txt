@@ -1,0 +1,44 @@
+
+2 
+ 
+
+central clearing can bring to an OTC market.  The tangled and highly opaque 
+
+picture of a purely bilateral market is replaced by the neat hub-and-spoke network 
+
+in which a CCP is buyer to every seller, and seller to every buyer, allowing netting 
+
+and greater transparency for participants and regulators alike.  Of course, reality is 
+
+not so elegant, as Figure 2 illustrates.  There are multiple CCPs, even within 
+
+product classes, and major dealers act as clearing members across a broad network 
+
+of CCPs.  Clearing members also perform a range of services for CCPs, including 
+
+custody, liquidity provision, and settlement.  By design, increased central clearing 
+
+will concentrate risks in CCPs; it is essential that, as these risks accumulate, the 
+
+CCPs build up their ability to manage them.  It is often noted that CCPs made it 
+
+through the recent financial crisis without direct government assistance.  But many 
+
+of their major clearing members did receive such assistance.  CCPs must now plan 
+
+for a world in which these large firms will fail and be resolved without government 
+
+support.  
+
+Recognizing the importance of strengthening our financial market 
+
+infrastructure, the regulatory community has clarified and significantly raised 
+
+expectations for CCPs and all key financial market infrastructures (FMIs or market 
+
+infrastructures).  These heightened expectations are set forth in the Principles for 
+
+Financial Market Infrastructures (or PFMIs), which were adopted in 2012 by the 
+
+Committee on Payment and Market Infrastructures (CPMI) and the International 
+

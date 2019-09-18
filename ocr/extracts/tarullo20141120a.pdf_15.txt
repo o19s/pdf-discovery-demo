@@ -1,0 +1,53 @@
+
+- 14 - 
+ 
+
+Under the enhancement of the international G-SIB surcharge being developed by the 
+
+Federal Reserve, the formula used to set risk-based capital surcharge levels for U.S. G-SIBs 
+
+would incorporate each U.S. G-SIB’s reliance on short-term wholesale funding.  Greater reliance 
+
+on short-term wholesale funding leaves firms more vulnerable to runs that impose externalities 
+
+on the entire financial system.  Requiring higher capital levels at such firms will improve their 
+
+chances of maintaining access to market funding in periods of stress by providing greater 
+
+assurance of their solvency to counterparties. 
+
+The LCR and NSFR developed in the Basel Committee are path-breaking measures that 
+
+create quantitative liquidity requirements.  Still, they do not fully cover all facets of liquidity 
+
+risk.  We are trying to address those residual risks in two ways--first, by adding certain 
+
+requirements in our domestic implementation of the international standards and, second, through 
+
+our supervisory program. 
+
+As to augmenting the international standards, let me give two examples.  First, the Basel 
+
+LCR does not impose any regulatory charge on a bank’s use of overnight funding to fund assets 
+
+that mature in less than 30 days.  This lacuna leaves open the possibility of a significant maturity 
+
+mismatch within the 30-day LCR window.  The U.S. LCR fills this gap by imposing a regulatory 
+
+charge on maturity mismatch within the 30-day period.14  Second, because the Basel LCR and 
+
+the NSFR each calculate the liquidity position of a firm on a fully consolidated basis, neither 
+
+adequately addresses the risk that stress could occur in one part of the organization while the 
+
+liquidity needed to deal with that stress is trapped in another.  In the U.S. LCR, a holding 
+
+14 While the original version of the NSFR had a similar shortcoming, the newly finalized version partially redresses 
+that problem by giving banks an incentive to reduce maturity mismatches within the one-year window.  More 
+specifically, the NSFR now allows firms to recognize as stable funding 50 percent of certain liabilities with a 
+residual maturity between six months and one year, including funding from central banks and financial institutions, 
+and requires them to hold some stable funding against most assets that mature in under one year. 
+
+
+
+

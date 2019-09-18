@@ -1,0 +1,26 @@
+
+Useful Framework
+
+•  A  s im p le  m o d e l o f  in v es tm en t and  fin an cin g  d ec is io n :
+
+\[ \mathop{\max}_{I,D}\ \ \ {\theta f(I) - \delta D - I \frac{\gamma}{2}(d-d̂ *)̂ 2}\ \ \ (d=D/I)  
+
+\\ \mathrm{s.t.}\ I=D+E \]
+
+•  \( \delta D \) =  t o t a l  p r e m i u m  o n  d e b t  f i n a n c e
+• \( \frac{\gamma}{2}(d-d̂ *) 2̂ \)= c o s t  o f  d e v i a t i n g  f r o m  " o p t i m a l "  c a p i t a l  s t r u c t u r e  \( d̂* \)
+
+•  O p tim al in v estm en t and  cap ita l structure:
+
+\[ d-d̂ *=-\delta/\gamma \\  \theta 
+
+f̂ \prime(I)=\delta d-\deltâ 2/2\gamma \]
+
+•  Im p lica tion s:
+
+( a )  \( I\downarrow \) b e c a u s e  e i t h e r  \( \theta\downarrow \) o r  \( \delta\uparrow \)
+
+( b )  \( \delta\uparrow\Rightarrow{D/E\downarrow\ and\ I\downarrow} \) b u t  \( \theta\uparrow \) h a s  n o  e f f e c t  o n  l e v e r a g e — o n l y   \( I\downarrow \)
+
+( c )  \( {D\downarrow,\ E\uparrow\ and\ I\downarrow}\Rightarrow\delta\uparrow \) 
+

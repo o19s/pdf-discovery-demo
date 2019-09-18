@@ -1,0 +1,51 @@
+
+- 3 - 
+ 
+
+
+ The consequences of this neglect were dramatic.  When questions arose about the quality 
+
+of the assets on which the shadow banking system was based--notably, those tied to poorly 
+
+underwritten subprime mortgages--a classic adverse feedback loop ensued.  With lenders 
+
+increasingly unwilling to extend credit against these assets, liquidity-strained institutions found 
+
+themselves forced to sell positions, which placed additional downward pressure on asset prices, 
+
+thereby accelerating margin calls for leveraged actors and amplifying mark-to-market losses for 
+
+all holders of the assets.  The margin calls and booked losses would start another round in the 
+
+adverse feedback loop.  
+
+Meanwhile, as demonstrated by the intervention of the government when Bear Stearns 
+
+and AIG were failing, and by the repercussions of Lehman Brothers’ failure, the universe of 
+
+financial firms that appeared too-big-to-fail during periods of stress included more than insured 
+
+depository institutions and extended beyond the perimeter of traditional safety and soundness 
+
+regulation.  The investments by the Treasury Department from the Troubled Asset Relief 
+
+Program (TARP) and guarantees by the Federal Deposit Insurance Corporation (FDIC) from the 
+
+Temporary Liquidity Guarantee Program to each of the nation's largest institutions in the fall of 
+
+2008 revealed the government's view that, under then-prevailing circumstances, a very real threat 
+
+to the nation's entire financial system was best addressed by shoring up the nation's largest 
+
+financial firms.  
+
+The Regulatory Response 
+
+ This brief and highly stylized history is intended to recall that there were two major 
+
+regulatory challenges revealed by the crisis.  First was the problem of too-big-to-fail financial 
+
+firms, both those that had been inadequately regulated within the perimeter of prudential rules 
+
+and those like the large, free-standing investment banks that lay outside that perimeter.  Second 
+

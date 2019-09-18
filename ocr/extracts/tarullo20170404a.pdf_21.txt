@@ -1,0 +1,54 @@
+
+
+20 
+ 
+
+somewhat on the side of higher capital requirements for these firms.  Indeed, there are some 
+
+academics and others who continue to make a case for even higher capital requirements.   
+
+The inclusion of the surcharges would allow the Federal Reserve to relax some of the 
+
+conservative assumptions currently made in the stress test without lowering the overall post-
+
+stress capital requirements for G-SIBs.18  While conservative assumptions were appropriate 
+
+coming out of the financial crisis in the early days of the stress test, the SCB and its inclusion of 
+
+the surcharges would offer an opportunity to update these assumptions without reducing the 
+
+overall capital requirements for G-SIBs.  At the same time, relaxing these assumptions would 
+
+result in a modest decline in the effective capital requirements of the non-G-SIB participating 
+
+banks when, as I hope and expect, the Board of Governors moves forward with a rulemaking 
+
+implementing the SCB idea.19 
+
+Adoption of the SCB should remove a bit more of the drama originally associated with 
+
+the annual announcement of the stress test results.  But some would remain, particularly given 
+
+the possibility of a qualitative objection, even where the supervisory model shows that the firm 
+
+would have enough capital to remain a viable intermediary in the event something like the 
+
+severely adverse scenario came to pass.  Although the largest firms, unlike those with less than 
+
+$250 billion in assets, are not yet generally meeting all supervisory expectations around stress 
+
+testing and capital planning, they have each made substantial progress since 2009.  With a few 
+
+exceptions, the issues observed during recent Comprehensive Capital Analysis and Review 
+
+                                                 
+18  This would likely include replacing the supervisory model’s current assumption that a firm’s balance sheet 
+increases during the severely adverse scenario with a simpler assumption under which a balance sheet and risk-
+weighted assets remain constant and relaxing the assumption that all of a firm’s planned dividends and share 
+repurchases would proceed during CCAR’s two-year planning horizon.  Instead, given the SCB’s continuous 
+constraint on distributions, we would assume a firm will maintain its dividends for one year while reducing its share 
+repurchases.   
+19 Based upon data from the 2015 and 2016 CCAR exercises, Federal Reserve staff estimates that the SCB would 
+reduce by at least $10 billion the aggregate amount of common equity tier 1 capital the non-G-SIBs would need to 
+maintain to avoid limitations on capital distributions.  
+

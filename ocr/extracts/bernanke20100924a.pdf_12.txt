@@ -1,0 +1,58 @@
+
+-11- 
+ 
+
+distribute model, recent legislation requires regulatory agencies, including the Federal 
+
+Reserve, to develop new standards applicable to securitization activities that would better 
+
+align the incentives faced by market participants involved in the various stages of the 
+
+securitization process.7
+
+Information economics and principal-agent theory are also essential to 
+
+understanding the problems created by so-called too-big-to-fail financial institutions.  
+
+Prior to the crisis, market participants believed that large, complex, and interconnected 
+
+financial firms would not be allowed to fail during a financial crisis.  And, as you know, 
+
+authorities both in the United States and abroad did in fact intervene on a number of 
+
+occasions to prevent the failure of such firms--not out of any special consideration for the 
+
+owners, managers, or creditors of these firms, but because of legitimate concerns about 
+
+potential damage to the financial system and the broader economy.  However, although 
+
+the instability caused by the failure or near-failure of some large firms did indeed prove 
+
+very costly, in some sense the real damage was done before the crisis.  If creditors in 
+
+  And the Securities and Exchange Commission has been charged 
+
+with developing new rules to reduce conflicts of interest at credit rating agencies. 
+
+                                                 
+7 The requirements related to credit risk were contained in section 941 of the Dodd-Frank Wall Street 
+Reform and Consumer Protection Act, Pub. L. No. 111-203 (July 2010); with regard to compensation 
+practices, see Board of Governors of the Federal Reserve System (2009), “Federal Reserve Issues Proposed 
+Guidance on Incentive Compensation,” press release, October 22, 
+www.federalreserve.gov/newsevents/press/bcreg/20091022a.htm; also see Board of Governors of the 
+Federal Reserve System (2010), “Federal Reserve, OCC, OTS, FDIC Issue Final Guidance on Incentive 
+Compensation,” joint press release, June 21, 
+www.federalreserve.gov/newsevents/press/bcreg/20100621a.htm. 
+ Why might government intervention be needed to improve private-sector incentives, when incentives 
+presumably exist for the private-sector principals and agents to work out the best incentive structure for 
+themselves?  The possibility of problems arising regarding collective action when a firm has many 
+shareholders is one rationale.  The standard reason for intervening in banks’ risk-taking practices is the 
+existence of deposit insurance, which itself distorts private risk-taking incentives by eliminating any 
+incentive of depositors to monitor the activities of their bank; for an early discussion, see John Kareken and 
+Neil Wallace (1978), “Deposit Insurance and Bank Regulation:  A Partial-Equilibrium Exposition,” 
+Journal of Business, vol. 51 (July), pp. 413-38.  Indeed, the Federal Reserve invoked a “safety and 
+soundness” rationale for its guidance on incentive compensation practices.  More generally, as the crisis 
+revealed, bad incentives can lead to problems that affect not just the individuals involved but the broader 
+financial system as well; such spillovers suggest that regulation can help improve outcomes. 
+ 
+

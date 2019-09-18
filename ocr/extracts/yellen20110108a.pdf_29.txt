@@ -1,0 +1,12 @@
+
+Figure 4: Recent Movements in U.S. Treasury Yields 
+
+
+     Note:  This figure depicts the evolution of yields on Treasury securities over the period from November 1 to December 31, 
+2010.  The solid line denotes the 10-year nominal Treasury yield, which is computed using a smoothed yield curve estimated by 
+staff from off-the-run Treasury coupon securities. The dashed line denotes the yield on 10-year Treasury inflation-protected 
+securities (TIPS), which is computed by staff using a smoothed inflation-indexed yield curve. The vertical lines mark the 
+following dates:  the Federal Open Market Committee meeting statements issued on November 3 and December 14;  the 
+employment reports published by the U.S. Bureau of Labor Statistics on November 5 and December 3; and the announcement  
+of a fiscal package on December 6.     
+

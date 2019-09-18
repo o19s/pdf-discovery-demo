@@ -1,0 +1,50 @@
+
+- 10 - 
+ 
+
+20% to more than 100% over the Basel III requirements, depending on choices made among 
+
+plausible assumptions. 
+
+Another methodology uses macroeconomic models to estimate both the costs and 
+
+benefits of higher capital requirements to the economy as a whole.  The motivation for this 
+
+“long-run economic impact” approach is still macroprudential, even though it differs from that 
+
+informing the expected impact approach.  However, isolating the effects of capital levels within a 
+
+general macroeconomic model is a very challenging task and, perhaps for that reason, it 
+
+produced lower implied increases in capital requirements than did the expected impact approach. 
+
+A third methodology tries to determine how much additional capital would be needed to 
+
+offset any reduction in funding costs associated with the perceived too-big-to-fail status of SIFIs.  
+
+The capital requirement increases implied by this approach were considerably higher than for the 
+
+other two approaches.  However, the results seemed even more sensitive to changes in 
+
+reasonable initial assumptions than did the other two models.  Moreover, while the possible 
+
+moral hazard and competitive funding advantage associated with SIFIs are certainly of concern, 
+
+they do not relate directly to the conceptual foundation for enhanced capital requirements, which 
+
+lies in the negative externalities associated with a SIFI failure. 
+
+In reaching our final view on calibration, the Federal Reserve Board will consider all 
+
+these approaches, though I note that the expected impact methodology has had the most 
+
+influence on our staff’s analysis.  We will also take account of observations from academics and 
+
+financial institutions.  We are certainly mindful of the uncertainties associated with these 
+
+methodologies.  But, at the same time, we cannot ignore the costs to society that the failures of 
+
+SIFIs would cause the financial system and the economy more generally.   
+
+
+

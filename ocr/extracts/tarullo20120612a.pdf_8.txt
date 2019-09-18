@@ -1,0 +1,50 @@
+
+- 7 - 
+
+
+cash lenders.  Because the composition and size of broker-dealers’ inventories can change 
+
+rapidly with the levels of trading activity, broker-dealers find the very flexible and inexpensive 
+
+short-term financing offered by triparty repos to be extremely attractive.  To the extent that this 
+
+borrowing appeared riskless to lenders, broker-dealers were potential suppliers through triparty 
+
+repos of the safe, liquid assets that were in such demand.     
+
+Broker-dealers who borrow in the triparty repo market want to have access to their 
+
+securities for routine trading purposes—for example, to make deliveries to clients during the day.  
+
+To allow for that, the market developed a critical operational feature called the ―daily unwind.‖  
+
+Each day, the clearing banks ―unwind‖ all repo trades, returning securities to borrowers and cash 
+
+to lenders, even for longer-dated term transactions.  However, the securities still require 
+
+financing during the day.  To this end, borrowers rely on intraday overdrafts at the two major 
+
+clearing banks.  At the end of the day, the transactions are ―re-wound.‖  Thus, the risks 
+
+associated with the portfolios of securities are fully transferred twice each day.   
+
+The lenders in this market widely believed that the two clearing banks would always 
+
+unwind their maturing trades in the morning, returning cash to their account, despite no 
+
+contractual provision requiring that the clearing banks do so.  The fact that lenders believed they 
+
+were protected in this way by the clearing bank helped perpetuate the illusion that, particularly 
+
+when lending overnight, they were invested in a money-like asset that would always be highly 
+
+liquid and safe, even though in reality the borrower was usually an entity that could go bankrupt.   
+
+This illusion faded as the financial crisis progressed.  Significant strains were created by 
+
+concerns about the financial strength of the broker-dealers, uncertainty about the value of the 
+
+underlying collateral, and belated recognition that the clearing banks were not contractually 
+
+obligated to unwind maturing trades.  Only when the prospect of dealer failures became very 
+

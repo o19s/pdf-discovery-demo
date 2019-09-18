@@ -1,0 +1,57 @@
+
+ - 14 - 
+
+bonds as collateral to borrow Treasury securities from the pension fund.  And why would 
+
+the pension fund see this transaction as beneficial?  Tying back to the theme of reaching 
+
+for yield, perhaps it is looking to goose its reported returns with the securities-lending 
+
+income without changing the holdings it reports on its balance sheet. 
+
+There are two points worth noting about these transactions.  First, they reproduce 
+
+some of the same unwind risks that would exist had the clearinghouse lowered its own 
+
+collateral standards in the first place.  To see this point, observe that if the junk bonds fall 
+
+in value, the insurance company will face a margin call on its collateral swap with the 
+
+dealer.  It will therefore have to scale back this swap, which in turn will force it to 
+
+partially unwind its derivatives trade--just as would happen if it had posted the junk 
+
+bonds directly to the clearinghouse.  Second, the transaction creates additional 
+
+counterparty exposures--the exposures between the insurance company and the dealer, 
+
+and between the dealer and the pension fund.  
+
+As I said, we don’t have evidence to suggest that the volume of such transactions 
+
+is currently large.  But with a variety of new regulatory and institutional initiatives on the 
+
+horizon that will likely increase the demand for pristine collateral--from the Basel III 
+
+Liquidity Coverage Ratio, to centralized clearing, to heightened margin requirements for 
+
+noncleared swaps--there appears to be the potential for rapid growth in this area.  Some 
+
+evidence suggestive of this growth potential is shown in exhibit 8, which is based on 
+
+responses by a range of dealer firms to the Federal Reserve’s Senior Credit Officer 
+
+Opinion Survey on Dealer Financing Terms.
+21
+
+  As can be seen, while only a modest 
+
+fraction of those surveyed reported that they were currently engaged in collateral 
+
+                                                 
+21
+
+ The Senior Credit Officer Opinion Survey on Dealer Financing Terms is available on the Federal 
+
+Reserve’s website at www.federalreserve.gov/econresdata/releases/scoos.htm. 
+
