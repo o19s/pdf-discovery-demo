@@ -1,20 +1,3 @@
-## How to run
-
-1. Run the extraction process, creating the working docs in the `/extracts` directory from the PDF's in `/files`.
-
-```
-pwsh extract-directory.ps1 ./files
-```
-
-1. Create Solr documents.
-
-```
-pwsh create-solr-docs.ps1 ./extracts ./files ./docs_for_solr/
-```
-
-
-
-
 ## Bugs/ Issues
 
 1. UnsolicitedCreditOffers2004.pdf has the .json version of the file is not pure json.s

@@ -30,6 +30,23 @@ npx vue-cli-service build --target lib --name pdfviewer ./src/components/PDFVIew
 
 copy the `dist` directory contents into `/app/pdfviewer/`
 
+## Text Extraction and OCR process
+
+From the `./ocr/` directory, there are some Powershell ( ;-) ) scripts to recreate the files if you want.
+
+1. Run the extraction process, creating the working docs in the `/extracts` directory from the PDF's in `/files`.
+
+```
+pwsh extract-directory.ps1 ./files
+```
+
+1. Create Solr documents.
+
+```
+pwsh create-solr-docs.ps1 ./extracts ./files ./docs_for_solr/
+```
+
+
 ## Run Solr Demo
 
 ### setup from project root
