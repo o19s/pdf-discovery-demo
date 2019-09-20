@@ -13,21 +13,20 @@ $(document).ready(function () {
   // reset the search input
   $('form input[type="text"]')[0].value = decodeURIComponent(query.replace(/\+/g, '%20'));
 
-  $.getJSON('//' + window.location.hostname + ':8983/solr/documents/select?q=' + query + '&fl=id,content,path,page_dimensions&group=on&group.field=doc_id', function(data) {
-    renderResultsList(data.grouped.doc_id.groups)
+  $.getJSON('//' + window.location.hostname + ':8983/solr/documents/select?q={!parent which="content_type:parentDocument"}' + query + '&fl=id,content_type,path,[child parentFilter=content_type:parentDocument limit=1]', function(data) {
+    renderResultsList(data.response.docs)
   })
 
   function renderResultsList(results) {
     $(results).each(function(index, result) {
       var resultMarkup =  '<div class="result-item">';
-          resultMarkup +=  '<a href="/details.html?id=' + result.groupValue + '&query=' + query +'">';
-          resultMarkup +=    '<h2>' + result.groupValue + '</h2>';
+          resultMarkup +=  '<a href="/details.html?id=' + result.id + '&query=' + query +'">';
+          resultMarkup +=    '<h2>' + result.id + '</h2>';
           resultMarkup +=  '</a>';
-          resultMarkup += '<p>' + result.doclist.docs[0].content.slice(0, 200) + '</p>';
+          resultMarkup += '<p>' + result._childDocuments_[0].content.slice(0, 200) + '</p>';
           resultMarkup += '</div>';
 
       $resultsList.append(resultMarkup)
     })
   }
 });
-

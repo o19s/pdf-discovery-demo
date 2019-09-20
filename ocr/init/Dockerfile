@@ -17,10 +17,10 @@ RUN npm install http-server -g
 
 
 
-ADD init /code
+ADD init /init
 ADD docs_for_solr /docs_for_solr
 ADD files /files
 
-WORKDIR /code
+WORKDIR /init
 
 CMD ./init.sh

@@ -1,16 +1,4 @@
-## How to run
-
-1. Run the extraction process, creating the working docs in the `/extracts` directory from the PDF's in `/files`.
-
-```
-pwsh extract-directory.ps1 ./files
-```
-
-1. Create Solr documents.
-
-```
-pwsh create-solr-docs.ps1 ./extracts ./files ./docs_for_solr/
-```
+## Parent childDoc
 
 
 
@@ -25,6 +13,8 @@ Extracting 'image0.tif' (image/tiff) to ./image0.tif
     "Author": "Federal Reserve Board",
     "Content-Length": "345888",
 ```
+
+This is now fixed by scrubbing JSON.
 
 
 java -cp ./tika-properties:tika-app-1.22.jar org.apache.tika.cli.TikaCLI --xmp --jsonRecursive --extract --pretty-print -x ./files/odd-files/UnsolicitedCreditOffers2004.pdf
