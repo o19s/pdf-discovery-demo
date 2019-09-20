@@ -63,6 +63,10 @@ foreach ($base_file in $base_files) {
 
   $pages = $tika_content.SelectNodes("//x:div[@class='ocr_page']",$nsmgr)
 
+  [System.Collections.ArrayList]$child_docs = @()
+  $parent_doc = @([pscustomobject]@{id=$outputFile;content_type="parentDocument";path=$path;_childDocuments_=$child_docs})
+
+
   $page_number = 0
   foreach ($page in $pages){
     $page_number++
@@ -76,25 +80,30 @@ foreach ($base_file in $base_files) {
     $text_file = $outputPath + "_" + $page_number +  '.txt'
     $text = (Get-Content $text_file)
 
-    $jsonDoc = [pscustomobject]@{
+    $childDoc = @{
         id = $outputFile + "_" + $page_number
-        doc_id = $outputFile
-        content_type = "pdf"
+        parent_id = $outputFile
+        content_type = "childDocument"
         page_dimension = $page_dimension
         page_number = $page_number
-        path = $path
         content = [string]$text
         content_ocr = [string]$hocr
-        document_type = $actual_document_type
+
     }
-    # Uncomment to see the json to be sent to Solr
-    #$jsonDoc
 
-    $jsonDoc = $jsonDoc | ConvertTo-Json
 
-    $extract_file = $target_solr_docs + $outputFile + "_" + $page_number + '.json'
-    Set-Content -Path $extract_file -Value $jsonDoc
+
+    $child_docs.add($childDoc)
   }
+
+  $parent_doc = $parent_doc | ConvertTo-Json
+
+  $parent_doc = "[" + $parent_doc + "]"
+
+  # Uncomment to see the json to be sent to Solr
+  #$parent_doc
+  $extract_file = $target_solr_docs + $outputFile + '.json'
+  Set-Content -Path $extract_file -Value $parent_doc
 
 
 }

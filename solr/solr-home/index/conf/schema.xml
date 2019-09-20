@@ -7,24 +7,22 @@
     -->
 
     <field name="id" type="string" indexed="true" stored="true" multiValued="false" />
-    <field name="doc_id" type="string" indexed="true" stored="true" multiValued="false" />
+    <field name="parent_id" type="string" indexed="true" stored="true" multiValued="false" />
 
-    <field name="content_type" type="string" indexed="true" stored="true" multiValued="false" />
+
+
+    <!-- Document level (parent) Fields -->
     <field name="title" type="text" indexed="true" stored="true" multiValued="false" />
+    <field name="path" type="string" indexed="false" stored="true" multiValued="false" />
+    <field name="content_type" type="string" indexed="true" stored="true" multiValued="false" />    
+
+    <!-- Page Level (child) Fields -->
     <field name="content" type="text" indexed="true" stored="true" multiValued="false" />
     <field name="content_ocr" type="ocr" indexed="true" stored="true" multiValued="false" termPayloads="true" termOffsets="true" termPositions="true" termVectors="true" />
 
     <field name="page_number" type="int" indexed="true"  stored="true"  multiValued="false" />
     <field name="page_dimension" type="string" indexed="false" stored="true" multiValued="true" />
 
-    <field name="path" type="string" indexed="false" stored="true" multiValued="false" />
-
-
-    <field name="release_date" type="date" indexed="true" stored="true" multiValued="false" />
-    <field name="speaker" type="string" indexed="true" stored="true" multiValued="false" />
-    <field name="event_name" type="string" indexed="true" stored="true" multiValued="false" />
-    <field name="event_location" type="string" indexed="true" stored="true" multiValued="false" />
-    <field name="document_type" type="string" indexed="true" stored="true" multiValued="false" />
 
     <!--
         Copy fields
@@ -33,6 +31,7 @@
     <!--
         Internal schema configuration settings
     -->
+    <!-- Specifically _root_ is used by Parent/Child indexing -->
     <field name="_root_" type="string" indexed="true" stored="false"/>
 
     <!-- Used by Solr for optimistic concurrency -->
@@ -41,8 +40,6 @@
     <!-- field to use to determine and enforce document uniqueness. -->
     <uniqueKey>id</uniqueKey>
 
-    <!-- SolrQueryParser configuration: defaultOperator="AND|OR" -->
-    <!--solrQueryParser defaultOperator="OR"/-->
 
     <!--
         Field Types
