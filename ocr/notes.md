@@ -1,3 +1,8 @@
+## Parent childDoc
+
+
+
+
 ## Bugs/ Issues
 
 1. UnsolicitedCreditOffers2004.pdf has the .json version of the file is not pure json.s
@@ -8,6 +13,8 @@ Extracting 'image0.tif' (image/tiff) to ./image0.tif
     "Author": "Federal Reserve Board",
     "Content-Length": "345888",
 ```
+
+This is now fixed by scrubbing JSON.
 
 
 java -cp ./tika-properties:tika-app-1.22.jar org.apache.tika.cli.TikaCLI --xmp --jsonRecursive --extract --pretty-print -x ./files/odd-files/UnsolicitedCreditOffers2004.pdf
