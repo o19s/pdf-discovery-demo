@@ -14,7 +14,7 @@
     <!-- Document level (parent) Fields -->
     <field name="title" type="text" indexed="true" stored="true" multiValued="false" />
     <field name="path" type="string" indexed="false" stored="true" multiValued="false" />
-    <field name="content_type" type="string" indexed="true" stored="true" multiValued="false" />    
+    <field name="content_type" type="string" indexed="true" stored="true" multiValued="false" />
 
     <!-- Page Level (child) Fields -->
     <field name="content" type="text" indexed="true" stored="true" multiValued="false" />
@@ -48,7 +48,7 @@
     <fieldType name="ocr" stored="false" indexed="true" class="solr.TextField">
       <analyzer>
         <tokenizer class="solr.WhitespaceTokenizerFactory"/>
-        <filter class="solr.DelimitedPayloadTokenFilterFactory" encoder="identity" />
+        <filter class="solr.DelimitedPayloadTokenFilterFactory" encoder="com.o19s.payloads.Base64Encoder" />
         <!-- The payload buffer works around WDF removing payloads from tokens by copying and replacing later in the chain -->
         <filter class="com.o19s.payloads.filter.PayloadBufferFilterFactory" />
         <filter class="solr.LowerCaseFilterFactory" />
