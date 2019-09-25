@@ -72,20 +72,6 @@
       </analyzer>
     </fieldType>
 
-    <!-- Beider-Morse Phonetic Matching (BMPM) is better at matching names -->
-    <fieldType name="bmpm" class="solr.TextField" positionIncrementGap="100">
-      <analyzer type="index">
-        <tokenizer class="solr.StandardTokenizerFactory"/>
-        <filter class="solr.LowerCaseFilterFactory"/>
-        <filter class="solr.BeiderMorseFilterFactory" nameType="GENERIC" ruleType="APPROX" concat="true" languageSet="auto"/>
-      </analyzer>
-      <analyzer type="query">
-        <tokenizer class="solr.StandardTokenizerFactory"/>
-        <filter class="solr.LowerCaseFilterFactory"/>
-        <filter class="solr.BeiderMorseFilterFactory" nameType="GENERIC" ruleType="APPROX" concat="true" languageSet="auto"/>
-      </analyzer>
-    </fieldType>
-
     <!-- Simple types -->
     <fieldtype name="string" class="solr.StrField"      sortMissingLast="true" omitNorms="true"/>
     <fieldType name="long"   class="solr.TrieLongField" precisionStep="0" positionIncrementGap="0"/>
