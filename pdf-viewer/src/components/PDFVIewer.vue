@@ -83,10 +83,10 @@ export default {
 
       if (this.highlights && this.highlights.payloads) {
         Object.keys(this.highlights.payloads).forEach(payloadDoc => {
-          let highlihtTerms = this.highlights.payloads[payloadDoc].content_ocr
-          Object.keys(highlihtTerms).forEach(term => {
-            highlihtTerms[term].forEach(highlight => {
-              let [targetPageNumber, ...coordinates] = atob(highlight).split(' ').filter(Number)
+          let highlightTerms = this.highlights.payloads[payloadDoc].content_ocr
+          Object.keys(highlightTerms).forEach(term => {
+            highlightTerms[term].forEach(highlight => {
+              let [targetPageNumber, ...coordinates] = highlight.split(' ').filter(Number)
               if (pageNumber.toString() === targetPageNumber.toString()) {
                 this.addHighlightToPDF(pageNumber, coordinates)
               }
