@@ -66,7 +66,7 @@ export default {
 
       let loadingTask = this.pdfjsLib.getDocument({
         url: `http://${window.location.hostname}:8443/lots-of-files/${this.id}`,
-        disableFontFace: true
+        disableFontFace: false
       })
       loadingTask.promise.then((pdfDocument) => {
         this.PDFViewer.setDocument(pdfDocument)
