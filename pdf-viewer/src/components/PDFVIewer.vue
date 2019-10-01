@@ -65,7 +65,8 @@ export default {
       })
 
       let loadingTask = this.pdfjsLib.getDocument({
-        url: `http://${window.location.hostname}:8443/lots-of-files/${this.id}`,
+        // url: `http://${window.location.hostname}:8443/lots-of-files/${this.id}`,
+        url: `http://pdf-discovery-demo.dev.o19s.com:8443/lots-of-files/${this.id}`,
         disableFontFace: false
       })
       loadingTask.promise.then((pdfDocument) => {
