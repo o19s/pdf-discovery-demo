@@ -74,10 +74,29 @@
     <requestParsers enableRemoteStreaming="false" multipartUploadLimitInKB="2048" formdataUploadLimitInKB="2048" />
   </requestDispatcher>
 
-  <requestHandler name="standard" class="solr.StandardRequestHandler" default="true">
+  <!-- Handling of params inspired by https://lucidworks.com/post/custom-solr-request-params/ -->
+  <requestHandler name="/serp" class="solr.StandardRequestHandler" default="true">
     <lst name="defaults">
       <str name="echoParams">all</str>
       <str name="df">content_ocr</str>
+      <str name="fl">id,content_type,path,[child parentFilter=content_type:parentDocument limit=1]</str>
+      <!--str name="q">{!parent%20which=%22content_type:parentDocument%22}{!v=$qq}</str-->
+    </lst>
+  </requestHandler>
+
+  <requestHandler name="/detail" class="solr.StandardRequestHandler" default="false">
+    <lst name="defaults">
+      <str name="echoParams">all</str>
+      <str name="df">content_ocr</str>
+      <str name="fl">id,path,page_dimension,page_number</str>
+      <str name="hl">on</str>
+      <str name="hl.snippets">500</str>
+      <str name="hl.fl=content">content</str>
+      <str name="wt">json</str>
+      <str name="pl">on</str>
+      <str name="rows">1000</str>
+      <str name="sort">page_number ASC</str>
+
     </lst>
     <arr name="last-components">
        <str>payload</str>
