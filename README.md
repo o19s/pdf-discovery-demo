@@ -50,6 +50,14 @@ pwsh extract-directory.ps1 ./files
 pwsh create-solr-docs.ps1 ./extracts ./files ./docs_for_solr/
 ```
 
+### Interested in manually extracting content from Tika Server?
+
+From the `./ocr/` directory run:
+
+```
+curl -T files/bcreg20090424a1.pdf http://pdf-discovery-demo.dev.o19s.com:9998/rmeta --header "X-Tika-OCRLanguage: eng" --header "X-Tika-PDFOcrStrategy: ocr_and_text_extraction" --header "X-Tika-OCRoutputType: hocr"
+```
+
 
 ## Run Solr Demo
 
