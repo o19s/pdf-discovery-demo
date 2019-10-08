@@ -59,9 +59,7 @@ curl -T files/bcreg20090424a1.pdf http://pdf-discovery-demo.dev.o19s.com:9998/rm
 ```
 
 
-## Run Solr Demo
-
-### setup from project root
+## Run the Demo using Docker
 
 ```
 docker-compose down -v
@@ -69,8 +67,9 @@ docker-compose build
 docker-compose up
 ```
 
-And then browse to
+And then browse to http://localhost:8080/
 
+To see payloads in action in Solr then run:
 ```
 http://localhost:8983/solr/documents/select?fl=id,content,path,page_dimensions&hl=on&hl.snippets=10&hl.fl=content&indent=on&q=taxes&wt=json&pl=on&echoParams=all
 ```
