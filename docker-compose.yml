@@ -44,6 +44,13 @@ services:
       - solr
       - zookeeper
 
+  tika-t3:
+    build:
+      context: ./tika-server-tesseract-3
+    image: osc/tika-server-tesseract-3
+    ports:
+      - "9988:9988"
+
   tika:
     image: logicalspark/docker-tikaserver
     ports:

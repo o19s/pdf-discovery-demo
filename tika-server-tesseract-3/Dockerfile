@@ -3,6 +3,7 @@ MAINTAINER epugh@opensourceconnections.com
 
 ENV TIKA_VERSION 1.22
 ENV TIKA_SERVER_URL https://www.apache.org/dist/tika/tika-server-$TIKA_VERSION.jar
+ENV TIKA_PORT 9988
 
 RUN	apt-get update
 RUN apt-get install -y software-properties-common
@@ -20,5 +21,5 @@ RUN apt-get install gnupg openjdk-11-jdk curl gdal-bin tesseract-ocr \
 	&& curl -sSL "$NEAREST_TIKA_SERVER_URL" -o /tika-server-${TIKA_VERSION}.jar \
 	&& apt-get clean -y && rm -rf /var/lib/apt/lists/* /tmp/* /var/tmp/*
 
-EXPOSE 9998
-ENTRYPOINT java -jar /tika-server-${TIKA_VERSION}.jar -h 0.0.0.0
+EXPOSE ${TIKA_PORT}
+ENTRYPOINT java -jar /tika-server-${TIKA_VERSION}.jar -h 0.0.0.0 --port ${TIKA_PORT}
