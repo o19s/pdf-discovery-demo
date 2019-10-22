@@ -23,3 +23,14 @@ So, running it with pairwise, we have one issue, wihth is OCR has `Iam` and text
 npm install http-server -g
 
 http-server ../files --cors --ssl --cert ./cert.pem --key ./key.pem
+
+## Manually run Processing
+
+```
+java -cp ./tika-properties:tika-app-1.22.jar org.apache.tika.cli.TikaCLI --xmp --jsonRecursive --extract --pretty-print -x ./files/lots-of-files/bernanke_20100203a.pdf
+```
+
+java -cp tika-app-1.22.jar org.apache.tika.cli.TikaCLI --config=default-tika-config.xml --xmp --jsonRecursive --extract --pretty-print -x ./files/lots-of-files/bernanke_20100203a.pdf
+
+
+java -cp tika-app-1.23-SNAPSHOT.jar org.apache.tika.cli.TikaCLI --config=/Users/epugh/Documents/clients/federal_reserve/speeches/pdf-discovery-demo/ocr/default-tika-config.xml --jsonRecursive --extract --pretty-print -v -x ./files/lots-of-files/bernanke_20100203a.pdf
