@@ -77,8 +77,12 @@ export default {
       })
     },
     renderHighlightsOnPage (pageNumber) {
-      // bail if we've already set up the highlights for this page
-      if (this.renderedPages.includes(pageNumber)) {
+      // bail if we've already set up the highlights for this page and the
+      // page is still loaded by PDFjs
+      let targetPage = document.querySelector(`[data-page-number="${pageNumber}"]`)
+      let isLoaded = targetPage.getAttribute('data-loaded') === 'true'
+
+      if (isLoaded && this.renderedPages.includes(pageNumber)) {
         return
       }
 
@@ -87,7 +91,7 @@ export default {
 
       if (this.highlights && this.highlights.payloads) {
         Object.keys(this.highlights.payloads).forEach(payloadDoc => {
-          let highlightTerms = this.highlights.payloads[payloadDoc].content_ocr
+          let highlightTerms = this.highlights.payloads[payloadDoc].SpeechContentOcr
           Object.keys(highlightTerms).forEach(term => {
             highlightTerms[term].forEach(highlight => {
               let [targetPageNumber, ...coordinates] = highlight.split(' ').filter(Number)
@@ -104,7 +108,7 @@ export default {
     addHighlightToPDF (pageNumber, coordinates) {
       let doc = this.highlights.pageDict[pageNumber]
 
-      let [pageWidth, pageHeight] = doc.page_dimension[0].split(' ').slice(3)
+      let [pageWidth, pageHeight] = doc.PageDimension[0].split(' ').slice(2)
       let [x1, y1, x2, y2] = coordinates
       let highlight = document.createElement('span')
       let targetPage = document.querySelector(`[data-page-number="${pageNumber}"]`)
