@@ -77,18 +77,6 @@ export default {
       })
     },
     renderHighlightsOnPage (pageNumber) {
-      // bail if we've already set up the highlights for this page and the
-      // page is still loaded by PDFjs
-      let targetPage = document.querySelector(`[data-page-number="${pageNumber}"]`)
-      let isLoaded = targetPage.getAttribute('data-loaded') === 'true'
-
-      if (isLoaded && this.renderedPages.includes(pageNumber)) {
-        return
-      }
-
-      // register that we've rendered the highlights on this page
-      this.renderedPages.push(pageNumber)
-
       if (this.highlights && this.highlights.payloads) {
         Object.keys(this.highlights.payloads).forEach(payloadDoc => {
           let highlightTerms = this.highlights.payloads[payloadDoc].SpeechContentOcr
