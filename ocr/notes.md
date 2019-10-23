@@ -33,4 +33,13 @@ java -cp ./tika-properties:tika-app-1.22.jar org.apache.tika.cli.TikaCLI --xmp -
 java -cp tika-app-1.22.jar org.apache.tika.cli.TikaCLI --config=default-tika-config.xml --xmp --jsonRecursive --extract --pretty-print -x ./files/lots-of-files/bernanke_20100203a.pdf
 
 
-java -cp tika-app-1.23-SNAPSHOT.jar org.apache.tika.cli.TikaCLI --config=/Users/epugh/Documents/clients/federal_reserve/speeches/pdf-discovery-demo/ocr/default-tika-config.xml --jsonRecursive --extract --pretty-print -v -x ./files/lots-of-files/bernanke_20100203a.pdf
+java -cp tika-app-1.23-SNAPSHOT.jar org.apache.tika.cli.TikaCLI --config=default-tika-config.xml --jsonRecursive --extract --pretty-print -v -x ./files/lots-of-files/bernanke_20100203a.pdf
+
+
+pwsh extract.ps1 /Users/epugh/Google\ Drive\ File\ Stream/My\ Drive/frb_speeches/testimony/bernanke20100721a.pdf
+
+pwsh create-solr-docs.ps1 ./temp/extracts ./temp/files ./temp/solr
+
+curl --user admin:3YnRnaMk7sLbc "http://localhost:8983/solr/admin/collections?action=CREATE&name=documents&collection.configName=configuration1&numShards=2&maxShardsPerNode=2"
+
+  curl -X POST -H "Content-Type: application/json" --data-binary @./temp/solr/alvarez20140715a.pdf.json http://localhost:8983/solr/documents/update?commit=true
