@@ -36,6 +36,10 @@ And the script witll build and copy the `dist` directory contents into `/app/pdf
 
 From the `./ocr/` directory, there are some Powershell ( ;-) ) scripts to recreate the files if you want.
 
+1. Make sure you have Tesseract installed.  `brew install tesseract` on OSX.
+
+1. Check the `./tika-properties/.../TesseractOCRConfig.properties` file, make sure it points to your Tesseract setup.
+
 1. Run the extraction process, creating the working docs in the `/extracts` directory from the PDF's in `/files`.
 
 ```
@@ -48,10 +52,16 @@ pwsh extract-directory.ps1 ./files
 pwsh create-solr-docs.ps1 ./extracts ./files ./docs_for_solr/
 ```
 
+### Interested in manually extracting content from Tika Server?
 
-## Run Solr Demo
+From the `./ocr/` directory run:
 
-### setup from project root
+```
+curl -T files/bcreg20090424a1.pdf http://pdf-discovery-demo.dev.o19s.com:9998/rmeta --header "X-Tika-OCRLanguage: eng" --header "X-Tika-PDFOcrStrategy: ocr_and_text_extraction" --header "X-Tika-OCRoutputType: hocr"
+```
+
+
+## Run the Demo using Docker
 
 ```
 docker-compose down -v
@@ -59,8 +69,9 @@ docker-compose build
 docker-compose up
 ```
 
-And then browse to
+And then browse to http://localhost:8080/
 
+To see payloads in action in Solr then run:
 ```
 http://localhost:8983/solr/documents/select?fl=id,content,path,page_dimensions&hl=on&hl.snippets=10&hl.fl=content&indent=on&q=taxes&wt=json&pl=on&echoParams=all
 ```

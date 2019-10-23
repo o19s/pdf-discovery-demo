@@ -12,7 +12,7 @@
   }
 
   function loadPDFViewer () {
-    let pdfViewerModule = document.createElement('script');
+    var pdfViewerModule = document.createElement('script');
     pdfViewerModule.type = 'text/javascript';
     pdfViewerModule.src = './pdfviewer/pdfviewer.umd.min.js';
     head.appendChild(pdfViewerModule);
@@ -23,7 +23,7 @@
   }
 
   function pdfViewerBootstrap () {
-    let pdfViewerBootstrap = document.createElement('script');
+    var pdfViewerBootstrap = document.createElement('script');
     pdfViewerBootstrap.type = 'text/javascript';
     pdfViewerBootstrap.src = './pdfviewer.bootstrap.js';
     head.appendChild(pdfViewerBootstrap);

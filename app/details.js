@@ -24,7 +24,7 @@ $(document).ready(function () {
     // 200ms waiting for the data to be ready
     renderPDF: window.frb && typeof window.frb.renderPDF !== "undefined"
       ? window.frb.renderPDF
-      : function () { window.setTimeout(() => {
+      : function () { window.setTimeout(function () {
         window.frb.renderPDF();
       }, 200); },
     docId: docId,

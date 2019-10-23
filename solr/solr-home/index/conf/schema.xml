@@ -49,7 +49,7 @@
     <fieldType name="ocr" stored="false" indexed="true" class="solr.TextField">
       <analyzer>
         <tokenizer class="solr.WhitespaceTokenizerFactory"/>
-        <filter class="solr.DelimitedPayloadTokenFilterFactory" encoder="identity" />
+        <filter class="solr.DelimitedPayloadTokenFilterFactory" encoder="com.o19s.payloads.Base64Encoder" />
         <!-- The payload buffer works around WDF removing payloads from tokens by copying and replacing later in the chain -->
         <filter class="com.o19s.payloads.filter.PayloadBufferFilterFactory" />
         <filter class="solr.LowerCaseFilterFactory" />
@@ -70,20 +70,6 @@
         <tokenizer class="solr.StandardTokenizerFactory"/>
         <filter class="solr.LowerCaseFilterFactory"/>
         <filter class="solr.KStemFilterFactory" />
-      </analyzer>
-    </fieldType>
-
-    <!-- Beider-Morse Phonetic Matching (BMPM) is better at matching names -->
-    <fieldType name="bmpm" class="solr.TextField" positionIncrementGap="100">
-      <analyzer type="index">
-        <tokenizer class="solr.StandardTokenizerFactory"/>
-        <filter class="solr.LowerCaseFilterFactory"/>
-        <filter class="solr.BeiderMorseFilterFactory" nameType="GENERIC" ruleType="APPROX" concat="true" languageSet="auto"/>
-      </analyzer>
-      <analyzer type="query">
-        <tokenizer class="solr.StandardTokenizerFactory"/>
-        <filter class="solr.LowerCaseFilterFactory"/>
-        <filter class="solr.BeiderMorseFilterFactory" nameType="GENERIC" ruleType="APPROX" concat="true" languageSet="auto"/>
       </analyzer>
     </fieldType>
 
