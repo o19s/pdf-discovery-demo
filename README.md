@@ -1,16 +1,18 @@
 # PDF.JS End-to-End Search / Snippets / Highlighting
 
+This is a demonstration project that leverages the Solr Payload Component from https://github.com/o19s/payload-component and the Offset Highlighter Component from https://github.com/o19s/offset-hl-formatter to make PDF documents both searchable and have highlighting of text in context.
+
 ## Quickstart!
 
-Just do `docker-compose up` and then browse to http://localhost:8080.
+Just run `docker-compose up` and then browse to http://localhost:8080.  You will need to wait till the _init_ process finishes loading all of the Solr documents to use the website properly.
+
 
 Solr is running on http://localhost:8983, with a CORS version at http://localhost:8000, and PDF images are served up on http://localhost:8443.
 
 You may need to do `docker-compose down -v` if you have already run the demo.
 
-Online you can access the app at http://165.22.182.252:8080/
+You can also access this demo at http://pdf-discovery-demo.dev.o19s.com:8080/
 
-You will need to wait till the _init_ process finishes loading all of the Solr documents to use the website properly.
 
 ## Vue Component
 `cd` into the `pdf-viewer` directory.
@@ -25,10 +27,10 @@ npm run serve
 from inside the `pdf-viewer` directory:
 
 ```
-npx vue-cli-service build --target lib --name pdfviewer ./src/components/PDFVIewer.vue
+./build.sh
 ```
 
-copy the `dist` directory contents into `/app/pdfviewer/`
+And the script witll build and copy the `dist` directory contents into `/app/pdfviewer/`
 
 ## Text Extraction and OCR process
 

@@ -136,10 +136,10 @@
       </fragmenter>
 
       <!-- Configure the standard formatter -->
-      <!--formatter name="html"
+      <formatter name="html"
                  default="true"
-                 class="org.osc.ocr.format.OCRFormatter">
-      </formatter-->
+                 class="com.o19s.labs.OffsetFormatter">
+      </formatter>
 
       <!-- Configure the standard encoder -->
       <encoder name="html"

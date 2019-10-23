@@ -14,7 +14,7 @@ Write-Host "Processing $outputFile"
 
 $extract_file_json = "./extracts/" + $outputFile + ".json"
 
-$extract_file_json = Resolve-Path $extract_file_json
+#$extract_file_json = Resolve-Path $extract_file_json
 
 #Write-Host "The extract file is $extract_file_json"
 
@@ -24,8 +24,8 @@ if(![System.IO.File]::Exists($extract_file_json)){
   $extract_file_json = "./extracts/" + $outputFile + ".json"
   Write-Host "About to Tika Extract PDF file $pdf_file"
 
-  $result = curl -T $pdf_file http://pdf-discovery-demo.dev.o19s.com:9998/rmeta --header "X-Tika-OCRLanguage: eng" --header "X-Tika-PDFOcrStrategy: ocr_and_text_extraction" --header "X-Tika-OCRoutputType: hocr"
-  #$result = java -cp ./tika-properties:tika-app-1.22.jar org.apache.tika.cli.TikaCLI --xmp --jsonRecursive --extract --pretty-print -x $pdf_file
+  #$result = curl -T $pdf_file http://pdf-discovery-demo.dev.o19s.com:9998/rmeta --header "X-Tika-OCRLanguage: eng" --header "X-Tika-PDFOcrStrategy: ocr_and_text_extraction" --header "X-Tika-OCRoutputType: hocr"
+  $result = java -cp ./tika-properties:tika-app-1.22.jar org.apache.tika.cli.TikaCLI --xmp --jsonRecursive --extract --pretty-print -x $pdf_file
 
   Set-Content -Path $extract_file_json -Value $result
   Write-Host "Done with extract, now converting"

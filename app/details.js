@@ -32,7 +32,7 @@ $(document).ready(function () {
     highlights: {}
   }
 
-  $.getJSON('//' + window.location.hostname + ':8983/solr/documents/select?q=' + query + '&fq=parent_id:' + docId + '&fl=id,path,page_dimension,page_number&hl=on&hl.snippets=500&hl.fl=content&indent=on&wt=json&pl=on&rows=1000&sort=page_number ASC', function(data) {
+  $.getJSON('//' + window.location.hostname + ':8983/solr/documents/select?q=' + query + '&fq=parent_id:' + docId + '&fl=id,path,page_dimension,page_number&hl=on&hl.fragsize=500&hl.snippets=500&hl.fl=content_ocr&indent=on&wt=json&pl=on&rows=1000&sort=page_number ASC', function(data) {
     window.frb.highlights = data
 
     // Setup page number to doc dictionary
@@ -46,11 +46,11 @@ $(document).ready(function () {
     for (var key in data.highlighting) {
       var highlightPageNumber = key.split('.pdf_')[1]
 
-      for (var highlightKey in data.highlighting[key].content) {
+      for (var highlightKey in data.highlighting[key].content_ocr) {
         snippets.push({
           page_number: highlightPageNumber,
           index: highlightKey,
-          highlight: data.highlighting[key].content[highlightKey]
+          highlight: data.highlighting[key].content_ocr[highlightKey]
         })
       }
     }
@@ -58,10 +58,20 @@ $(document).ready(function () {
     renderSnippetsList(snippets)
   })
 
+  // Removes payload data from snippet
+  function stripPayloads(snippet) {
+    return snippet.replace(/[\|][^\s|</em>]+/g, '');
+  }
+
   function renderSnippetsList(snippets) {
     $(snippets).each(function(index, snippet) {
-      var snippetMarkup =  '<div class="snippet-item" data-pdf-page="' + snippet.page_number + '" data-highlight-index="' + snippet.index + '">';
-          snippetMarkup +=   '<p>...' + snippet.highlight + '...</p>';
+      var html = $.parseHTML(snippet.highlight);
+
+      var startOffset = $(html).filter('em').first().attr('data-start-offset');
+      var endOffset = $(html).filter('em').last().attr('data-end-offset');
+
+      var snippetMarkup =  '<div class="snippet-item" data-end-offset="' + endOffset +'" data-start-offset="' + startOffset + '" data-pdf-page="' + snippet.page_number + '" data-highlight-index="' + snippet.index + '">';
+          snippetMarkup +=   '<p>...' + stripPayloads(snippet.highlight) + '...</p>';
           snippetMarkup += '</div>';
 
       $('#the-snippet-list').find('.results').append(snippetMarkup)
@@ -81,32 +91,40 @@ $(document).ready(function () {
   $(document).on('click', '.snippet-item', function() {
     $('.snippet-item').removeClass('selected');
     $(this).addClass('selected');
-    scrollPdfViewer($(this).data('pdf-page'), $(this).data('highlight-index'));
+    scrollPdfViewer($(this).data('pdf-page'), $(this).data('start-offset'), $(this).data('end-offset'));
   })
 
   var $targetHighlight = false
 
-  function scrollPdfViewer(pageNumber, index) {
+  function scrollPdfViewer(pageNumber, startOffset, endOffset) {
     var $pdfViewer = $('#the-frb-pdf-viewer .pdf-viewer-container');
     var $targetPage = $pdfViewer.find('.page[data-page-number="' + pageNumber + '"]');
     var pageOffset = $targetPage.offset().top - $targetPage.closest('#pdf-viewer').offset().top - $targetPage.closest('#pdf-viewer').scrollTop();
 
     $pdfViewer.animate({ scrollTop: pageOffset}, 800);
 
-    checkForHighlight($pdfViewer, $targetPage, index);
+    checkForHighlight($pdfViewer, $targetPage, startOffset, endOffset);
   }
 
-  function checkForHighlight(viewer, page, index) {
-    $targetHighlight = page.find('span.box-highlight')[index]
+  function checkForHighlight(viewer, page, startOffset, endOffset) {
+    var highlightsFound = false;
 
-    if ($targetHighlight) {
-       var highlightOffset = $($targetHighlight).offset().top - $($targetHighlight).closest('#pdf-viewer').offset().top - $($targetHighlight).closest('#pdf-viewer').scrollTop() - 150
-      viewer.animate({ scrollTop: highlightOffset, easing: 'linear'}, 500);
-      $('span.box-highlight').removeClass('active')
-      $($targetHighlight).addClass('active')
-    } else {
+    $('span.box-highlight').removeClass('active')
+    page.find('span.box-highlight').each(function() {
+      var snippetStart = $(this).data('start-offset')
+      var snippetEnd = $(this).data('end-offset')
+
+      if (startOffset <= snippetStart && endOffset >= snippetEnd) {
+        highlightsFound = true;
+        var highlightOffset = $(this).offset().top - $(this).closest('#pdf-viewer').offset().top - $(this).closest('#pdf-viewer').scrollTop() - 150
+        viewer.animate({ scrollTop: highlightOffset, easing: 'linear'}, 500);
+        $(this).addClass('active')
+      }
+    })
+
+    if (!highlightsFound) {
       window.setTimeout(function() {
-        checkForHighlight(viewer, page, index);
+        checkForHighlight(viewer, page, startOffset, endOffset);
       }, 200)
     }
   }
