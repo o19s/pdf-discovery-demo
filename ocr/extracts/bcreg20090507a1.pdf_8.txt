@@ -1,0 +1,47 @@
+
+adverse scenario. As shown in Figure 1, this loss rate is higher than two-year loss rates observed for U.S. commercial banks from 1920 to 2007/2008. 
+In addition to the sharpest two-year drop in residential house prices since then, and a projected further steep decline in the what-if adverse scenario, 
+he rise in the unemployment rate in the scenario would be more severe than any U.S. recession since the 1930s.4 [Footnote 4.Another reference for the 
+estimated loss rates in the SCAP is where they stand relative to estimates made recently by other analysts. Unfortunately, many of the loss estimates 
+are not directly comparable because they are for different time horizons (for example, lifetime losses) or are based on different economic scenarios. 
+However, based on assessments that we can make with the available information, the SCAP estimates appear to be about in the middle of the range 
+of these other estimates. End footnote 4.]  
+
+Figure 1: Commercial Bank Two-Year Loan Loss Rates 
+1921 -2008 
+[Graphic. A line chart plots commercial bank two-year loan loss rates from 1921 through 2008. Unit is percent. The 
+curve remains below 2 percent for nearly the entire period. The curve reaches a peak between 8 
+and 9 percent in the early 1930s. SCAP Total Loan Loss Rates are represented by a horizontal line 
+at 9.1 percent. 
+Sources: International Monetary Fund (1920 - 1933), Federal Deposit Insurance Corporation (1934 - 2007), 
+and commercial bank reports on condition and income (2008). End of graphic.] 
+
+Table 2 also reports aggregate projections for losses on securities held in the available-for-sale 
+(AFS) and held-to-maturity (HTM) investment portfolios and, for BHCs with trading account assets 
+exceeding $100 billion, losses on trading and counterparty credit risk losses. These losses represent a 
+significant share of the total. 
+To evaluate losses for securities in the AFS and HTM portfolios, supervisors focused on securities 
+subject to credit risk. At the end of 2008, the 19 BHCs held $1.5 trillion of securities, more than one-half 
+of which were Treasury, agencies, or sovereign securities, or high-grade municipal debt, and so are 
+subject to no or limited credit risk. Only about $200 billion was in non-agency mortgage-backed 
+securities (MBS) and only a portion of these were recent vintage or were backed by riskier nonprime 
+mortgages. Remaining material exposures included corporate bonds, mutual funds, and other asset-
+backed securities. For securitized assets, supervisors assessed if the security would become impaired 
+during its lifetime. If the current level of credit support was considered insufficient to cover expected 
+losses, the security was written down to fair value with a corresponding "other than temporary 
+impairment" (OTTI) charge, equal to the difference between book and market value. These OTTI 
+charges equaled $35 billion in the more adverse scenario, with almost one-half of the estimated losses 
+coming from the non-agency MBS.5 
+
+[Footnote 5. 
+To recognize losses in the more adverse scenario, supervisors chose a conservative approach. Financial 
+Accounting Standards Board (FASB) Staff Position FAS 115-2 and FAS 124-2, Recognition and Presentation of Other-
+Than-Temporary Impairments, April 9, 2009, regards debt securities held in the AFS and HTM accounts and 
+focuses on whether firms intend to sell an impaired security or whether it is more-likely-than-not that firms will be 
+required to sell the security before recovery of its cost basis. If either of these conditions is met, the firm must 
+recognize OTTI. The FASB’s guidance holds that a firm’s determination of its ability to hold a security to recovery 
+should consider sources of uncertainty. Supervisors believed it prudent to incorporate the possibility that firms may 
+not be able to hold a security to recovery under conditions more stressful than expected. Thus for those securities 
+estimated or recommended by supervisors to be other than temporarily impaired, the loss was equal to the 
+difference between the investment’s amortized cost basis and its fair value. End footnote 5.] 
+

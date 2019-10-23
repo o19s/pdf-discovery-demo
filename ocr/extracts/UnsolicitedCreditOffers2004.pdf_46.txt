@@ -1,0 +1,53 @@
+
+42 Board of Governors of the Federal Reserve System 
+
+Second, the fraud control systems of the card issuers work best for situations, such as 
+those related to prescreened solicitations, in which the card issuer already knows a bit 
+about the customer and can use this information to help with verification of responses to 
+the solicitation.35 If, for example, a thief steals a prescreened solicitation and sends a 
+false response to the card issuer, the incoming returned document still faces a variety of 
+fraud controls, including the requirement that activation of the card be completed with a 
+call from the home telephone. In particular, if the thief requests a change of address to 
+complete the theft, the returned solicitation is automatically directed to fraud control, 
+since it exhibits characteristics that raise concerns. The card issuing firm may still 
+eventually issue the card, but not without further screening that often includes manual 
+checking of the address change request by telephone or other means out of the control of 
+the potential thief. 
+
+Such control systems apparently are a large part of the reason why card issuers estimate 
+that only a small portion of credit card fraud arises from prescreened solicitations. There 
+is almost no publicly available information about the volume of losses arising from 
+prescreened solicitations, but information that is available suggests the total is 
+comparatively small. According to a report of an interview with a large card issuer, 
+“prescreening has the lowest incidence rate of application fraud versus other application 
+channels.” This issuer told the Information Policy Institute that the fraudulent use of 
+prescreened solicitations “accounts for less than 20 percent of identity theft losses at the 
+company, which in turn constitute only a small fraction of its total fraud losses.” 
+According to the issuer, most application fraud involving prescreened offers is committed 
+by “someone familiar to the victim,” such as a family member or relative.36 The 
+Information Policy Institute concludes that limitations on prescreening as a method of 
+new account acquisition likely will increase identity theft because prescreening is now 
+such an important channel for acquiring new accounts, and other acquisition channels are 
+associated with greater amounts of identity theft than prescreened solicitations.37 
+
+In congressional testimony on June 19, 2003, an executive at Chase Cardmember 
+Services documented the infrequent nature of identity theft associated with prescreened 
+solicitations and some of the reasons for its infrequency.38 According to Chase, identity 
+theft that “involves the unlawful acquisition and use of another person’s information to 
+obtain credit, or the use of that information to create a fictitious identity to establish an 
+account” amounts to only about 3 percent of their fraud cases. Closely related account-
+takeover fraud amounts to about 1 percent of their fraud cases.39 
+
+35 A flow chart of the entire process associated with a prescreened solicitation program appears in 
+Information Policy Institute, The Fair Credit Reporting Act, appendix F, pp. 91-93. 
+
+36 Quoted passages are from Information Policy Institute, The Fair Credit Reporting Act, p. 61. 
+37 Information Policy Institute, The Fair Credit Reporting Act, p. 62. 
+38 Michael D. Cunningham (2003), “Statement,” in The Fair Credit Reporting Act and Issues 
+
+Presented by Reauthorization of the Expiring Preemption Provisions, Hearings before the Committee on 
+Banking, Housing, and Urban Affairs, U.S. Senate, May 20, June 19, and July 10, 29, and 31, Senate 
+Hearing 108-579, 108 Cong. (Washington: Government Printing Office), pp. 99-101. 
+
+39 Cunningham, “Statement,” p. 100. 
+

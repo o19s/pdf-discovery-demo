@@ -1,0 +1,72 @@
+
+Table 3: Supervisory Capital Assessment Program 
+Estimates for 19 Participating Bank Holding Companies 
+Billions of Dollars 
+
+AmEx BofA BB&T BNYM CapOne Citi FifthThird GMAC Goldman JPMC KeyCorp Met Life 
+
+Morgan 
+
+Stanley PNC Regions State St SunTrust USB Wells Total 
+
+Tier 1 Capital 10.1 173.2 13.4 15.4 16.8 118.8 11.9 17.4 55.9 136.2 11.6 30.1 47.2 24.1 12.1 14.1 17.6 24.4 86.4 836.7 
+
+Tier 1 Common Capital 10.1 74.5 7.8 11.0 12.0 22.9 4.9 11.1 34.4 87.0 6.0 27.8 17.8 11.7 7.6 10.8 9.4 11.8 33.9 412.5 
+
+Risk-Weighted Assets 104.4 1,633.8 109.8 115.8 131.8 996.2 112.6 172.7 444.8 1,337.5 106.7 326.4 310.6 250.9 116.3 69.6 162.0 230.6 1,082.3 7,814.8 
+
+Estimated for 2009 and 2010 for the More Adverse Scenario 
+AmEx BofA BB&T BNYM CapOne Citi FifthThird GMAC Goldman JPMC KeyCorp Met Life Morgan 
+
+Stanley 
+PNC Regions State St SunTrust USB Wells Total 
+
+Total Loss estimates (Before purchase accounting adjustments) 11.2 136.6 8.7 5.4 13.4 104.7 9.1 9.2 17.8 97.4 6.7 9.6 19.7 18.8 9.2 8.2 11.8 15.7 86.1 599.2 
+Loss estimate: First Lien Mortgages -na- 22.1 1.1 0.2 1.8 15.3 1.1 2.0 -na- 18.8 0.1 0.0 -na- 2.4 1.0 -na- 2.2 1.8 32.4 102.3 
+Loss estimate: Second/Junior Lien Mortgages -na- 21.4 0.7 -na- 0.7 12.2 1.1 1.1 -na- 20.1 0.6 0.0 -na- 4.6 1.1 -na- 3.1 1.7 14.7 83.2 
+Loss estimate: Commercial & Industrial Loans -na- 15.7 0.7 0.4 1.5 8.9 2.8 1.0 0.0 10.3 1.7 0.0 0.1 3.2 1.2 0.0 1.5 2.3 9.0 60.1 
+Loss estimate: Commercial Real Estate Loans -na- 9.4 4.5 0.2 1.1 2.7 2.9 0.6 -na- 3.7 2.3 0.8 0.6 4.5 4.9 0.3 2.8 3.2 8.4 53.0 
+Loss estimate: Credit Card Loans 8.5 19.1 0.2 -na- 3.6 19.9 0.4 -na- -na- 21.2 0.0 -na- -na- 0.4 -na- -na- 0.1 2.8 6.1 82.4 
+Loss estimate: Securities (AFS and HTM) -na- 8.5 0.2 4.2 0.4 2.9 0.0 0.5 0.1 1.2 0.1 8.3 -na- 1.3 0.2 1.8 0.0 1.3 4.2 35.2 
+Loss estimate: Trading & Counterparty -na- 24.1 -na- -na- -na- 22.4 -na- -na- 17.4 16.7 -na- -na- 18.7 -na- -na- -na- -na- -na- -na- 99.3 
+Loss estimate: Other (1) [see table footnote (1)] 2.7 16.4 1.3 0.4 4.3 20.4 0.9 4.0 0.3 5.3 1.8 0.5 0.2 2.3 0.8 6.0 2.1 2.8 11.3 83.7 
+
+Total Loss Rate on Loans (2) [see table footnote (2)] 14.3% 10.0% 8.6% 2.6% 11.7% 10.9% 10.5% 6.6% 0.9% 10.0% 8.5% 2.1% 0.4% 9.0% 9.1% 4.4% 8.3% 7.8% 8.8% 9.1% 
+Loss Rate: First Lien Mortgages -na- 6.8% 4.5% 5.0% 10.7% 8.0% 10.3% 10.2% -na- 10.2% 3.4% 5.0% -na- 8.1% 4.1% -na- 8.2% 5.7% 11.9% 8.8% 
+Loss Rate: Second/Junior Lien Mortgages -na- 13.5% 8.8% -na- 19.9% 19.5% 8.7% 21.2% -na- 13.9% 6.3% 14.1% -na- 12.7% 11.9% -na- 13.7% 8.8% 13.2% 13.8% 
+Loss Rate: Commercial & Industrial Loans -na- 7.0% 4.5% 5.0% 9.7% 5.8% 11.0% 2.7% 1.2% 6.8% 7.9% 0.0% 2.4% 6.0% 7.0% 22.8% 5.2% 5.4% 4.8% 6.1% 
+Loss Rate: Commercial Real Estate Loans -na- 9.1% 12.6% 9.9% 6.0% 7.4% 13.9% 33.3% -na- 5.5% 12.5% 2.1% 45.2% 11.2% 13.7% 35.5% 10.6% 10.2% 5.9% 8.5% 
+Loss Rate: Credit Card Loans 20.2% 23.5% 18.2% -na- 18.2% 23.0% 22.3% -na- -na- 22.4% 37.9% -na- -na- 22.3% -na- -na- 17.4% 20.3% 26.0% 22.5% 
+
+Memo: Purchase Accounting Adjustments 0.0 13.3 0.0 0.0 1.5 0.0 0.0 0.0 0.0 19.9 0.0 0.0 0.0 5.9 0.0 0.0 0.0 0.0 23.7 64.3 
+
+Resources Other Than Capital to Absorb Losses in the More Adverse Scenario (3) 
+[see table footnote (3)] 11.9 74.5 5.5 6.7 9.0 49.0 5.5 -0.5 18.5 72.4 2.1 5.6 7.1 9.6 3.3 4.3 4.7 13.7 60.0 362.9 
+
+SCAP Buffer Added for More Adverse Scenario 
+(SCAP Buffer is defined as additional Tier 1 Common/contingent Common) 
+
+AmEx BofA BB&T BNYM CapOne Citi FifthThird GMAC Goldman JPMC KeyCorp Met Life Morgan 
+Stanley 
+
+PNC Regions State St SunTrust USB Wells Total 
+
+Indicated SCAP buffer as of December 31, 2008 0.0 46.5 0.0 0.0 0.0 92.6 2.6 6.7 0.0 0.0 2.5 0.0 8.3 2.3 2.9 0.0 3.4 0.0 17.3 185.0 
+Less: Capital Act ions and Effects of Q1 2009 Results (4) (5) (6) (7) [see table footnotes (4) through (7)] 0.2 12.7 0.1 -0.2 -0.3 87.1 1.5 -4.8 7.0 2.5 0.6 0.6 6.5 1.7 0.4 0.2 1.3 0.3 3.6 110.4 
+
+SCAP Buffer (8) (9) (10) [see table footnotes (8) through (10)] 0.0 33.9 0.0 0.0 0.0 5.5 1.1 11.5 0.0 0.0 1.8 0.0 1.8 0.6 2.5 0.0 2.2 0.0 13.7 74.6 
+
+(1) Includes other consumer and non-consumer loans and miscellaneous commitments and obligations 
+(2) Includes losses on other consumer and non-consumer loans 
+(3) Resources to absorb losses include pre-provision net revenue less the change in the allowance for loan and lease losses 
+(4) Capital actions include completed or contracted transactions since Q4 2008 
+(5) For BofA, includes capital benefit from risk-weighted asset impact of eligible asset guarantee 
+(6) For Citi, includes impact of preferred exchange offers announced on February 27, 2009 
+(7) Total includes only capital actions and effects of Q1 2009 results for firms that need to establish a SCAP buffer 
+(8) There may be a need to establish an additional Tier 1 capital buffer, but this would be satisfied by the additional 
+
+Tier 1 Common capital buffer unless otherwise specified for a particular BHC 
+(9) GMAC needs to augment the capital buffer with $11.5 billion of Tier 1 Common/contingent Common of which $9.1 billion must be new Tier 1 capital 
+(10) Regions needs to augment the capital buffer with $2.5 billion of Tier 1 Common/contingent Common of which $400 million must be new Tier 1 capital 
+Note: Numbers may not sum due to rounding 
+

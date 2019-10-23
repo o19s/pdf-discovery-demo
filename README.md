@@ -27,10 +27,10 @@ npm run serve
 from inside the `pdf-viewer` directory:
 
 ```
-npx vue-cli-service build --target lib --name pdfviewer ./src/components/PDFVIewer.vue
+./build.sh
 ```
 
-copy the `dist` directory contents into `/app/pdfviewer/`
+And the script witll build and copy the `dist` directory contents into `/app/pdfviewer/`
 
 ## Text Extraction and OCR process
 

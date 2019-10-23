@@ -1,0 +1,46 @@
+
+24 Board of Governors of the Federal Reserve System 
+
+the credit limits established for a revolving account when they report account information 
+to CRAs (although not always, particularly in the past). Summing the reported credit 
+limits on each revolving account available to an individual gives an estimate of the 
+aggregate credit limit on accounts of this type for each individual. In those cases in 
+which creditors fail to report the credit limit on the account to the CRA, the typical 
+industry practice is to assume that the highest balance ever reported as owed on the 
+account is the limit, and that approach is employed here. 
+
+Sorting the opt-out list according to credit limit on revolving accounts shows that about 
+13 percent of the individuals in the top quintile of credit-line holders have opted out of 
+receiving additional prescreened solicitations. Only 4 percent of individuals with a total 
+revolving credit line in the bottom quintile have opted out. 
+
+Total Balances and Utilization Rate on Revolving Accounts 
+
+Another measure of credit availability and use is the amount actually owed on revolving 
+credit accounts. In this case, the sample of credit records shows that those in the highest 
+quintile of individuals arrayed by balances owed are more likely to opt out of further 
+prescreened solicitations than individuals in the lower quintiles. The ratio of balance 
+outstanding to the total credit limit for each individual permits construction of an overall 
+credit “utilization rate.” When evaluating the credit risk posed by a prospective borrower, 
+creditors often consider such a ratio. In this case, the sample data indicate that those 
+individuals with utilization ratios in the middle range are about twice as likely to opt out 
+as those with ratios at the extremes. Individuals with credit utilization rates in the lowest 
+and highest quintiles may desire additional credit opportunities and so they may be less 
+likely to opt out. 
+
+Number of Mortgage Accounts 
+
+Credit records also include information on mortgages. The sample data indicate that 
+about one-fourth of the individuals represented had a mortgage loan outstanding. About 
+11 percent of the individuals with a mortgage in good standing have placed their names 
+on the opt-out list, compared with 5 percent among those who do not have such a 
+mortgage. 
+
+Credit Score 
+
+Most individuals have good credit histories, as reflected in the distribution of credit 
+scores across the population of individuals with credit records (table 3 and figure 2). 
+Assuming they satisfy other underwriting requirements, such individuals pose relatively 
+little credit risk to prospective lenders. Creditors vary somewhat in the thresholds they 
+use to identify individuals who pose relatively little credit risk, but in general those with 
+

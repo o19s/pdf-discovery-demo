@@ -86,8 +86,9 @@ foreach ($base_file in $base_files) {
         content_type = "childDocument"
         page_dimension = $page_dimension
         page_number = $page_number
-        content = [string]$text
+        content = [string]$hocr -replace ("[\|][^\s]+"),''
         content_ocr = [string]$hocr
+        content_extracted = [string]$text
 
     }
 

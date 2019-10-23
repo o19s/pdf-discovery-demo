@@ -1,0 +1,51 @@
+
+40 Board of Governors of the Federal Reserve System 
+
+devoted one of its five sessions to the question of defining identity theft.29 Variations in 
+the definition of identity theft result in varying assessments of its frequency and 
+significance. 
+
+Discussions at the Philadelphia conference showed that law enforcement agencies usually 
+employ what might be called a broad definition of identity theft. Such a definition 
+encompasses any misconduct in the use of a consumer’s identifying information, 
+including the theft or misuse of credit cards or card numbers, but it also includes frauds 
+involving employment, government documents, and telecommunications and utilities. 
+Under a definition of this kind, frauds arising from lost credit cards, inappropriate use of 
+credit cards by relatives, or even the use of cards after a wallet theft or purse snatching 
+could be considered identity theft. For law enforcement agencies, credit card fraud is 
+sometimes associated with a violent robbery but usually not, and the subtleties of a 
+narrower definition of identity theft are not typically necessary for their purposes. 
+
+In contrast, financial institutions often use a narrower definition of identity theft that 
+focuses on the acquisition of new credit accounts or the takeover of existing accounts by, 
+for example, making unauthorized changes to the addresses on accounts and applying for 
+new credit cards or personal identification numbers (PINs). Under this narrower 
+definition, traditional payment fraud, such as fraud resulting from lost, stolen, or misused 
+credit cards or card numbers, is not identity theft. Financial institutions prefer this 
+narrower definition because their security forces and procedures employ different fraud-
+prevention techniques to counteract different types of fraud-related behaviors. For 
+financial institutions and their security officials, preventing “identity theft” under their 
+definition involves controls on procedures when opening new accounts or changing 
+consumer information such as addresses on existing accounts. On the other hand, 
+traditional payment fraud is controlled by other means, such as requiring PINs at 
+automated teller machines or using computer programs to monitor accounts for signs of 
+unusual activity. 
+
+Attending to the details of the definition are important because the different definitions 
+produce substantially different estimates of the volume of identity theft. The Consumer 
+Sentinel database developed and maintained by the FTC makes available to law 
+enforcement agencies complaints about fraudulent activities received by the FTC and 
+more than 100 other organizations.30 Under a broad definition of identity theft, this 
+source suggests that about 42 percent of complaints of fraud posted to the database in 
+2003 consisted of identity theft. The majority of these involved telephone or utilities 
+fraud, employment fraud, government documents fraud, and other bank fraud. The 
+
+29 The February 10, 2004, conference at the Federal Reserve Bank of Philadelphia, entitled “Identity 
+Theft: Where Do We Go From Here?” was sponsored by the Payment Cards Center of the Federal Reserve 
+Bank of Philadelphia and the Gartner Fellows Program; for a summary of the conference, see Julia S. 
+Cheney (2004), “Identity Theft: Where Do We Go From Here?” conference summary, Payment Cards 
+Center, Federal Reserve Bank of Philadelphia (April), www.phil.frb.org/pcc/papers/identitytheft_0404.pdf. 
+
+30 See Federal Trade Commission (2004), National and State Trends in Fraud & Identity Theft, 
+January-December 2003 (Washington: FTC, January 22). 
+
