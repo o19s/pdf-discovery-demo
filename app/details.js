@@ -32,7 +32,7 @@ $(document).ready(function () {
     highlights: {}
   }
 
-  $.getJSON('//' + window.location.hostname + ':8983/solr/documents/select?q=' + query + '&fq=parent_id:' + docId + '&fl=id,path,page_dimension,page_number&hl=on&hl.snippets=500&hl.fl=content&indent=on&wt=json&pl=on&rows=1000&sort=page_number ASC', function(data) {
+  $.getJSON('//' + window.location.hostname + ':8983/solr/documents/select?q=' + query + '&fq=parent_id:' + docId + '&fl=id,path,page_dimension,page_number&hl=on&hl.fragsize=500&hl.snippets=500&hl.fl=content_ocr&indent=on&wt=json&pl=on&rows=1000&sort=page_number ASC', function(data) {
     window.frb.highlights = data
 
     // Setup page number to doc dictionary
@@ -46,11 +46,11 @@ $(document).ready(function () {
     for (var key in data.highlighting) {
       var highlightPageNumber = key.split('.pdf_')[1]
 
-      for (var highlightKey in data.highlighting[key].content) {
+      for (var highlightKey in data.highlighting[key].content_ocr) {
         snippets.push({
           page_number: highlightPageNumber,
           index: highlightKey,
-          highlight: data.highlighting[key].content[highlightKey]
+          highlight: data.highlighting[key].content_ocr[highlightKey]
         })
       }
     }
@@ -58,10 +58,20 @@ $(document).ready(function () {
     renderSnippetsList(snippets)
   })
 
+  // Removes payload data from snippet
+  function stripPayloads(snippet) {
+    return snippet.replace(/[\|][^\s|</em>]+/g, '');
+  }
+
   function renderSnippetsList(snippets) {
     $(snippets).each(function(index, snippet) {
-      var snippetMarkup =  '<div class="snippet-item" data-pdf-page="' + snippet.page_number + '" data-highlight-index="' + snippet.index + '">';
-          snippetMarkup +=   '<p>...' + snippet.highlight + '...</p>';
+      var html = $.parseHTML(snippet.highlight);
+
+      var startOffset = $(html).filter('em').first().attr('data-start-offset');
+      var endOffset = $(html).filter('em').last().attr('data-end-offset');
+
+      var snippetMarkup =  '<div class="snippet-item" data-end-offset="' + endOffset +'" data-start-offset="' + startOffset + '" data-pdf-page="' + snippet.page_number + '" data-highlight-index="' + snippet.index + '">';
+          snippetMarkup +=   '<p>...' + stripPayloads(snippet.highlight) + '...</p>';
           snippetMarkup += '</div>';
 
       $('#the-snippet-list').find('.results').append(snippetMarkup)
