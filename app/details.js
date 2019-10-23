@@ -91,32 +91,40 @@ $(document).ready(function () {
   $(document).on('click', '.snippet-item', function() {
     $('.snippet-item').removeClass('selected');
     $(this).addClass('selected');
-    scrollPdfViewer($(this).data('pdf-page'), $(this).data('highlight-index'));
+    scrollPdfViewer($(this).data('pdf-page'), $(this).data('start-offset'), $(this).data('end-offset'));
   })
 
   var $targetHighlight = false
 
-  function scrollPdfViewer(pageNumber, index) {
+  function scrollPdfViewer(pageNumber, startOffset, endOffset) {
     var $pdfViewer = $('#the-frb-pdf-viewer .pdf-viewer-container');
     var $targetPage = $pdfViewer.find('.page[data-page-number="' + pageNumber + '"]');
     var pageOffset = $targetPage.offset().top - $targetPage.closest('#pdf-viewer').offset().top - $targetPage.closest('#pdf-viewer').scrollTop();
 
     $pdfViewer.animate({ scrollTop: pageOffset}, 800);
 
-    checkForHighlight($pdfViewer, $targetPage, index);
+    checkForHighlight($pdfViewer, $targetPage, startOffset, endOffset);
   }
 
-  function checkForHighlight(viewer, page, index) {
-    $targetHighlight = page.find('span.box-highlight')[index]
+  function checkForHighlight(viewer, page, startOffset, endOffset) {
+    var highlightsFound = false;
 
-    if ($targetHighlight) {
-       var highlightOffset = $($targetHighlight).offset().top - $($targetHighlight).closest('#pdf-viewer').offset().top - $($targetHighlight).closest('#pdf-viewer').scrollTop() - 150
-      viewer.animate({ scrollTop: highlightOffset, easing: 'linear'}, 500);
-      $('span.box-highlight').removeClass('active')
-      $($targetHighlight).addClass('active')
-    } else {
+    $('span.box-highlight').removeClass('active')
+    page.find('span.box-highlight').each(function() {
+      var snippetStart = $(this).data('start-offset')
+      var snippetEnd = $(this).data('end-offset')
+
+      if (startOffset <= snippetStart && endOffset >= snippetEnd) {
+        highlightsFound = true;
+        var highlightOffset = $(this).offset().top - $(this).closest('#pdf-viewer').offset().top - $(this).closest('#pdf-viewer').scrollTop() - 150
+        viewer.animate({ scrollTop: highlightOffset, easing: 'linear'}, 500);
+        $(this).addClass('active')
+      }
+    })
+
+    if (!highlightsFound) {
       window.setTimeout(function() {
-        checkForHighlight(viewer, page, index);
+        checkForHighlight(viewer, page, startOffset, endOffset);
       }, 200)
     }
   }

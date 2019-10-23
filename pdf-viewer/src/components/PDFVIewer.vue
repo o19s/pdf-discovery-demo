@@ -87,7 +87,7 @@ export default {
             highlihtTerms[term].forEach(highlight => {
               let [targetPageNumber, ...coordinates] = atob(highlight.payload).split(' ').filter(Number)
               if (pageNumber.toString() === targetPageNumber.toString()) {
-                this.addHighlightToPDF(pageNumber, coordinates)
+                this.addHighlightToPDF(pageNumber, coordinates, highlight.startOffset, highlight.endOffset)
               }
             })
           })
@@ -96,7 +96,7 @@ export default {
         console.error('target PDF not found in result set')
       }
     },
-    addHighlightToPDF (pageNumber, coordinates) {
+    addHighlightToPDF (pageNumber, coordinates, startOffset, endOffset) {
       let doc = this.highlights.pageDict[pageNumber]
 
       let [pageWidth, pageHeight] = doc.page_dimension[0].split(' ').slice(3)
@@ -105,6 +105,8 @@ export default {
       let targetPage = document.querySelector(`[data-page-number="${pageNumber}"]`)
 
       // set the relative position for the highlight
+      highlight.setAttribute('data-end-offset', endOffset);
+      highlight.setAttribute('data-start-offset', startOffset);
       highlight.setAttribute('class', 'box-highlight')
       highlight.setAttribute('style', `
         top:${(y1 / pageHeight) * 100}%;
