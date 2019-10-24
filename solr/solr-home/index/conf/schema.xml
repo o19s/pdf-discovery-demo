@@ -22,6 +22,7 @@
     <!-- Page Level (child) Fields -->
     <field name="content" type="text" indexed="true" stored="true" multiValued="false" />
     <field name="content_ocr" type="ocr" indexed="true" stored="true" multiValued="false" termPayloads="true" termOffsets="true" termPositions="true" termVectors="true" />
+    <field name="content_extracted" type="text" indexed="true" stored="true" multiValued="false" />
 
     <field name="page_number" type="int" indexed="true"  stored="true"  multiValued="false" />
     <field name="page_dimension" type="string" indexed="false" stored="true" multiValued="true" />

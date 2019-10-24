@@ -11,7 +11,7 @@ RUN set -e; \
 ADD tika-app-1.22.jar /opt/tika/tika-app-1.22.jar
 
 # Add customizations
-ADD lib/solr-payloads-1.0.2-solr7.1.0-SNAPSHOT.jar /opt/solr/server/solr-webapp/webapp/WEB-INF/lib/solr-payloads-1.0.2-solr7.1.0-SNAPSHOT.jar
+ADD lib/*.jar /opt/solr/server/solr-webapp/webapp/WEB-INF/lib/
 ADD web.xml /opt/solr/server/solr-webapp/webapp/WEB-INF
 
 COPY solr-home /solr-config

@@ -69,30 +69,25 @@ export default {
       })
 
       let loadingTask = this.pdfjsLib.getDocument({
-        url: `${this.documentPath}${this.id}`,
-        disableFontFace: false
+        url: `http://${window.location.hostname}:8443/${this.id}`
       })
       loadingTask.promise.then((pdfDocument) => {
         this.PDFViewer.setDocument(pdfDocument)
       })
     },
     renderHighlightsOnPage (pageNumber) {
-      // bail if we've already set up the highlights for this page
-      if (this.renderedPages.includes(pageNumber)) {
-        return
-      }
-
-      // register that we've rendered the highlights on this page
-      this.renderedPages.push(pageNumber)
-
       if (this.highlights && this.highlights.payloads) {
         Object.keys(this.highlights.payloads).forEach(payloadDoc => {
-          let highlightTerms = this.highlights.payloads[payloadDoc].content_ocr
+          let highlightTerms = this.highlights.payloads[payloadDoc].SpeechContentOcr
+            ? this.highlights.payloads[payloadDoc].SpeechContentOcr
+            : this.highlights.payloads[payloadDoc].content_ocr
           Object.keys(highlightTerms).forEach(term => {
             highlightTerms[term].forEach(highlight => {
-              let [targetPageNumber, ...coordinates] = highlight.split(' ').filter(Number)
+              let [targetPageNumber, ...coordinates] = highlight.payload
+                ? highlight.payload.split(' ').filter(Number)
+                : highlight.split(' ').filter(Number)
               if (pageNumber.toString() === targetPageNumber.toString()) {
-                this.addHighlightToPDF(pageNumber, coordinates)
+                this.addHighlightToPDF(pageNumber, coordinates, highlight.startOffset, highlight.endOffset)
               }
             })
           })
@@ -101,15 +96,19 @@ export default {
         console.error('target PDF not found in result set')
       }
     },
-    addHighlightToPDF (pageNumber, coordinates) {
+    addHighlightToPDF (pageNumber, coordinates, startOffset, endOffset) {
       let doc = this.highlights.pageDict[pageNumber]
-
-      let [pageWidth, pageHeight] = doc.page_dimension[0].split(' ').slice(3)
+      let pageDimension = doc.pageDimension
+        ? doc.pageDimension
+        : doc.page_dimension
+      let [pageWidth, pageHeight] = pageDimension[0].split(' ').slice(3)
       let [x1, y1, x2, y2] = coordinates
       let highlight = document.createElement('span')
       let targetPage = document.querySelector(`[data-page-number="${pageNumber}"]`)
 
       // set the relative position for the highlight
+      highlight.setAttribute('data-end-offset', endOffset)
+      highlight.setAttribute('data-start-offset', startOffset)
       highlight.setAttribute('class', 'box-highlight')
       highlight.setAttribute('style', `
         top:${(y1 / pageHeight) * 100}%;
