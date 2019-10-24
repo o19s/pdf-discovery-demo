@@ -21,9 +21,10 @@
  It is *not* a good example to work from.
 -->
 <config>
-  <luceneMatchVersion>6.1</luceneMatchVersion>
+  <luceneMatchVersion>7.1</luceneMatchVersion>
 
-
+  <lib dir="${solr.install.dir:../../../..}/contrib/extraction/lib" regex=".*\.jar" />
+  <lib dir="${solr.install.dir:../../../..}/dist/" regex="solr-cell-\d.*\.jar" />
   <!--  The DirectoryFactory to use for indexes.
         solr.StandardDirectoryFactory, the default, is filesystem based.
         solr.RAMDirectoryFactory is memory based, not persistent, and doesn't work with replication. -->
@@ -85,6 +86,21 @@
   </requestHandler>
   <requestHandler name="/analysis/field" startup="lazy" class="solr.FieldAnalysisRequestHandler" />
   <requestHandler name="/update" class="solr.UpdateRequestHandler"  />
+
+  <requestHandler name="/update/extract"
+                  class="solr.extraction.ExtractingRequestHandler" >
+    <str name="parseContext.config">parseContext.xml</str>
+    <lst name="defaults">
+      <str name="lowernames">true</str>
+      <str name="uprefix">attr_</str>
+      <str name="multipartUploadLimitInKB">20480</str> Limit to 20 MB PDF
+
+      <!-- capture link hrefs but ignore div attributes -->
+      <!--str name="captureAttr">true</str>
+      <str name="fmap.a">links</str>
+      <str name="fmap.div">ignored_</str-->
+    </lst>
+  </requestHandler>
 
   <requestHandler name="/admin/ping" class="solr.PingRequestHandler">
     <lst name="invariants">

@@ -41,6 +41,10 @@
     <!-- Used by Solr for optimistic concurrency -->
     <field name="_version_" type="long" indexed="true" stored="true"/>
 
+    <dynamicField name="ignored_*" type="ignored" multiValued="true"/>
+
+    <dynamicField name="attr_*" type="text" indexed="true" stored="true" multiValued="true"/>
+
     <!-- field to use to determine and enforce document uniqueness. -->
     <uniqueKey>id</uniqueKey>
 
@@ -48,6 +52,11 @@
     <!--
         Field Types
     -->
+
+    <!-- since fields of this type are by default not stored or indexed,
+     any data added to them will be ignored outright.  -->
+    <fieldType name="ignored" stored="false" indexed="false" multiValued="true" class="solr.StrField" />
+
     <!-- OCR Payloads -->
     <fieldType name="ocr" stored="false" indexed="true" class="solr.TextField">
       <analyzer>
