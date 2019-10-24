@@ -1,11 +1,11 @@
 <entries>
-19 	  <entry class="org.apache.tika.parser.pdf.PDFParserConfig" impl="org.apache.tika.parser.pdf.PDFParserConfig">
-20 	    <property name="extractInlineImages" value="true"/>
-        <property name="ocrStrategy" value="OCR_AND_TEXT_EXTRACTION"/>
-21 	  </entry>
-19 	  <entry class="org.apache.tika.parser.ocr.TesseractOCRConfig" impl="org.apache.tika.parser.ocr.TesseractOCRConfig">
-20 	    <property name="outputType" value="HOCR"/>
-        <property name="language" value="eng"/>
-        <property name="pageSegMode" value="1"/>
-21 	  </entry>
-22 	</entries>
+  <entry class="org.apache.tika.parser.pdf.PDFParserConfig" impl="org.apache.tika.parser.pdf.PDFParserConfig">
+    <property name="extractInlineImages" value="true"/>
+    <property name="ocrStrategy" value="OCR_AND_TEXT_EXTRACTION"/>
+  </entry>
+  <entry class="org.apache.tika.parser.ocr.TesseractOCRConfig" impl="org.apache.tika.parser.ocr.TesseractOCRConfig">
+    <property name="outputType" value="HOCR"/>
+    <property name="language" value="eng"/>
+    <property name="pageSegMode" value="1"/>
+  </entry>
+</entries>
