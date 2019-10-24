@@ -8,7 +8,7 @@ RUN set -e; \
   rm -rf /var/lib/apt/lists/*
 
 # Add Tika
-ADD tika-app-1.22.jar /opt/tika/tika-app-1.22.jar
+#ADD tika-app-1.22.jar /opt/tika/tika-app-1.22.jar
 
 # Add customizations
 ADD lib/*.jar /opt/solr/server/solr-webapp/webapp/WEB-INF/lib/
