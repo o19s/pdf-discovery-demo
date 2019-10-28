@@ -99,7 +99,7 @@ Todos:
 3) try out the
 
 
-curl 'http://localhost:8983/solr/documents/update/extract?literal.id=doc1&commit=true&parseContext.config=/opt/tika/tika-config.xml' -F "myfile=@files/alvarez20140715a.pdf"
+curl 'http://localhost:8983/solr/documents/update/extract?literal.id=doc1&commit=true -F "myfile=@files/alvarez20140715a.pdf"
 
 # Does HOCR response
-curl 'http://localhost:8983/solr/documents/update/extract?literal.id=doc2&commit=true&parseContext.config=/opt/tika/tika-config.xml&extractOnly=true' -F "myfile=@files/alvarez20140715a.pdf"
+curl 'http://localhost:8983/solr/documents/update/extract?literal.id=doc2&commit=true&extractOnly=true' -F "myfile=@files/alvarez20140715a.pdf"
