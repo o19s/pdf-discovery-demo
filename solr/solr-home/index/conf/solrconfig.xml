@@ -101,7 +101,12 @@
                   class="solr.extraction.ExtractingRequestHandler" >
     <str name="parseContext.config">parseContext.xml</str>
     <lst name="defaults">
-
+      <!-- capture link hrefs but ignore div attributes -->
+      <!--str name="captureAttr">true</str>
+      <str name="capture">div</str>
+      <str name="fmap.div">attr_div</str>
+      <str name="fmap.span">attr_span</str-->
+      <!--str name="fmap.div">ignored_</str-->
       <str name="lowernames">true</str>
       <str name="uprefix">attr_</str>
       <str name="multipartUploadLimitInKB">20480</str> Limit to 20 MB PDF

@@ -25,6 +25,11 @@ function processAdd(cmd) {
   doc.addChildDocument(doc2);
   logger.info("here is comes part2: " + doc.hasChildDocuments());
 
+  var doc4 = new Packages.org.apache.solr.common.SolrInputDocument();
+  doc4.setField( "id", "doc4");
+  logger.info("here comes doc4-: " + doc4.getFieldValue("id"));
+
+
 
 // Set a field value:
 //  doc.setField("foo_s", "whatever");
