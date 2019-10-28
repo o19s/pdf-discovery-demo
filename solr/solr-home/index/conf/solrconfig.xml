@@ -107,9 +107,9 @@
       <str name="fmap.div">attr_div</str>
       <str name="fmap.span">attr_span</str-->
       <!--str name="fmap.div">ignored_</str-->
-      <str name="lowernames">true</str>
+      <!--str name="lowernames">true</str-->
       <str name="uprefix">attr_</str>
-      <str name="multipartUploadLimitInKB">20480</str> Limit to 20 MB PDF
+      <str name="multipartUploadLimitInKB">20480</str> <!--Limit to 20 MB PDF-->
       <str name="update.chain">process-speech-from-extracted-text</str>
     </lst>
   </requestHandler>

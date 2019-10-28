@@ -106,3 +106,7 @@ curl 'http://localhost:8983/solr/documents/update/extract?literal.id=doc2&commit
 
 # Store via /update/speeches end point.
 curl 'http://localhost:8983/solr/documents/update/speeches?literal.id=doc2&commit=true' -F "myfile=@files/alvarez20140715a.pdf"
+
+# Need to debug javascirpt `process-speech.js`?
+
+`npm test-parsing-ocr-text.js`
