@@ -94,11 +94,18 @@
       <str name="lowernames">true</str>
       <str name="uprefix">attr_</str>
       <str name="multipartUploadLimitInKB">20480</str> Limit to 20 MB PDF
+    </lst>
+  </requestHandler>
 
-      <!-- capture link hrefs but ignore div attributes -->
-      <!--str name="captureAttr">true</str>
-      <str name="fmap.a">links</str>
-      <str name="fmap.div">ignored_</str-->
+  <requestHandler name="/update/speeches"
+                  class="solr.extraction.ExtractingRequestHandler" >
+    <str name="parseContext.config">parseContext.xml</str>
+    <lst name="defaults">
+
+      <str name="lowernames">true</str>
+      <str name="uprefix">attr_</str>
+      <str name="multipartUploadLimitInKB">20480</str> Limit to 20 MB PDF
+      <str name="update.chain">process-speech-from-extracted-text</str>
     </lst>
   </requestHandler>
 
@@ -110,6 +117,24 @@
       <str name="echoParams">all</str>
     </lst>
   </requestHandler>
+
+
+  <updateRequestProcessorChain name="process-speech-from-extracted-text">
+    <processor class="solr.StatelessScriptUpdateProcessorFactory">
+      <arr name="script">
+        <str name="script">process-speech.js</str>
+        <!--str name="script">second-processor.py</str-->
+      </arr>
+      <lst name="params">
+        <bool name="a_bool_value">true</bool>
+        <int name="and_int_value">3</int>
+      </lst>
+    </processor>
+    <processor class="solr.LogUpdateProcessorFactory" />
+    <processor class="solr.RunUpdateProcessorFactory" />
+  </updateRequestProcessorChain>
+
+
 
 
 

@@ -103,3 +103,6 @@ curl 'http://localhost:8983/solr/documents/update/extract?literal.id=doc1&commit
 
 # Does HOCR response
 curl 'http://localhost:8983/solr/documents/update/extract?literal.id=doc2&commit=true&extractOnly=true' -F "myfile=@files/alvarez20140715a.pdf"
+
+# Store via /update/speeches end point.
+curl 'http://localhost:8983/solr/documents/update/speeches?literal.id=doc2&commit=true' -F "myfile=@files/alvarez20140715a.pdf"
