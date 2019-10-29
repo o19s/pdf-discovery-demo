@@ -1,5 +1,5 @@
 // Test file of parsing the text based HOCR format.
-// Run as a console command using NPM: npm test.js
+// Run as a console command using NPM: node test-parsing-ocr-text.js
 
 var text = `df:docinfo:custom:Company
  access_permission:can_print true
@@ -245,7 +245,8 @@ for state member banks).
 function btoa(str) {
   if (Buffer.byteLength(str) !== str.length)
     throw new Error('bad string!');
-  return Buffer(str, 'binary').toString('base64');
+  //return Buffer(str, 'binary').toString('base64');
+  return str;
 }
 
 //console.log(text);
@@ -253,17 +254,79 @@ function btoa(str) {
 
 
 var pages = text.split(/ocr_page page_1/)
-console.log(pages.length);
+//console.log(pages.length);
 var lines = pages[1].split("\n");
 //console.log(lines[0]);
 var page_bbox = lines[0].split(";")[1].replace("bbox","").trim()
 
 var page_words = pages[1].split(/ocrx_word/);
-console.log(page_words[1])
-var word_pair = page_words[1].split(/ltr/);
+//console.log(page_words[1])
+//var word_pairs = page_words[1].split(/ltr/);
+//console.log(word_pairs[1].trim() + '|' + btoa(word_pairs[0].split(/bbox/)[1].split(/;/)[0].trim()));
 
-console.log(word_pair[1].trim() + '|' + btoa(word_pair[0].split(/bbox/)[1].split(/;/)[0].trim()));
+var token_array = [];
 
-for (var i = 1; i < pages.length;i++){
+for (var i = 1; i <= pages.length;i++){
   console.log(i)
+}
+
+for (var i = 1; i <= page_words.length;i++){
+  console.log("");
+  console.log("pw:" + page_words[i])  ;
+
+  //var word_pair = page_words[i].split(/ltr/);
+  var line = page_words[i];
+  if (line == undefined){
+    continue;
+  }
+  var tokens = line.trim().split(" ");
+  //console.log(tokens);
+  //console.log("length: " + tokens.length);
+  if (tokens[9] === 'ltr'){
+    token = tokens[10];
+  }
+  else if (tokens[8] === 'eng'){
+    token = tokens[9];
+  }
+  else {
+    console.log("Oh crap!");
+  }
+  token_array.push(token.replace(/\s+/g, '')  + '|' + btoa(line.split(/bbox/)[1].split(/;/)[0].trim()))
+
+
+
+  //console.log("token:" + token.trim() + '|' + btoa(line.split(/bbox/)[1].split(/;/)[0].trim())("[\|][^\s]+"),'');
+
+}
+
+console.log("JHere come all the tokens");
+console.log(token_array);
+
+console.log("Now lets go pull out extracted text")
+
+
+
+var myArray = text.split(/^\s?page\s?$/);
+
+//console.log(myArray[0]);
+console.log(myArray.length);
+
+var lines = text.split("\n");
+var foundPage = -1;
+var foundOcr = -1;
+for (i = 0; i < lines.length;i++){
+
+//  console.log(lines[i].trim())
+  if (lines[i].trim() == 'page'){
+    foundPage = i;
+  }
+  if (lines[i].trim() == 'ocr'){
+    foundOcr = i;
+  }
+  if (foundPage > -1 & foundOcr > -1){
+    console.log("Range from " + foundPage + " to " + foundOcr);
+    console.log(lines.slice(foundPage+1,foundOcr).join(" "));
+    foundPage = -1;
+    foundOcr = -1;
+  }
 }
