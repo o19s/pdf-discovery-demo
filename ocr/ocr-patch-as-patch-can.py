@@ -8,13 +8,16 @@ def test():
 
   ocr = "Nor if the winer of our discontent Ma de glorIous sommer in the is sun of York; And pll the douds that lour'd upon our houw In the deeq dosom of the oCean."
 
-  l1 = txt.split(' ')
+  correct = txt.split(' ')
+  wrong = ocr.split(' ')
+  patched = patch_list(correct, wrong)
 
-  l2 = ocr.split(' ')
-  l3 = ocr.split(' ')
+  print('OCR ' + ocr)
+  print('PCH ' + ' '.join(patched))
+  print('TXT ' + ' '.join(correct))
 
-  window_size = 3
-  windows = windowed(l1, window_size)
+def patch_list(source=[], target=[], window_size=3):
+  windows = windowed(source, window_size)
 
   pidx = 0
   tidx = 0
@@ -25,28 +28,23 @@ def test():
   potential = []
 
   while not finished:
-    if len(l1) < pidx:
+    if len(source) < pidx:
       # end of patch list
-      print('FINISHED')
       finished = True
       continue
 
-    patch = tuple(l1[pidx:pidx+window_size])
-    candidate = tuple(l2[tidx:tidx+window_size])
-    print('COMPARING {}:{}'.format(candidate, patch))
+    patch = tuple(source[pidx:pidx+window_size])
+    candidate = tuple(target[tidx:tidx+window_size])
 
     if len(patch) != len(candidate):
-      print('REACHED LAST PATCH {}:{}'.format(candidate, patch))
       # end of tokens, advance patch, start again from last match
       pidx = tidx = tidx+1
-      patch = tuple(l1[pidx:pidx+window_size])
-      candidate = tuple(l2[tidx:tidx+window_size])
-      print('Starting over at {}:{}'.format(candidate, patch))
+      patch = tuple(source[pidx:pidx+window_size])
+      candidate = tuple(target[tidx:tidx+window_size])
       continue
 
     if patch == candidate:
       # exact match, advance next patch window
-      print('EXACT {}:{}'.format(candidate, patch))
       tidx = pidx = pidx+1
       continue
 
@@ -73,29 +71,34 @@ def test():
 
 
     if word_close_enough and (pre_close_enough and post_close_enough):
-      l2[tidx+1] = l1[pidx+1]
-      patches.append((cword,pword))
-      print('PATCHED {}:{}'.format(cword, pword))
+      target[tidx+1] = source[pidx+1]
+      patches.append((tidx+1,pidx+1))
       continue
 
-    print('MISMATCH {}:{}'.format(candidate, patch))
     tidx = tidx+1
 
+  return target, patches
 
-  print('OCR ' + ' '.join(l3))
-  print('PCH ' + ' '.join(l2))
-  print('TXT ' + ' '.join(l1))
-  pp(patches)
-  pp(potential)
-  # for window in windows:
-  #   for i, t in enumerate(l2):
-  #     patch_index = i
-  #     span = tuple(l2[i:i+window_size])
-  #     if span == window:
-  #       # advance both
-  #       patch_index = patch_index
-  #     print('{}:{}'.format(span, window))
+def cli():
+  import argparse
+  parser = argparse.ArgumentParser()
+  parser.add_argument('--ocr', help='the ocr tokens file')
+  parser.add_argument('--pdf', help='the pdf tokens file')
 
+  args = parser.parse_args()
+  ocr = []
+  pdf = []
+  with open(args.ocr,'r') as o:
+    for line in o:
+        ocr = list([w.split('|') for w in line.split()])
+  with open(args.pdf,'r') as p:
+    pdf_txt = p.read().replace('\n', ' ')
+    pdf = list([w for w in pdf_txt.split()])
+  ocr_tokens = list([o[0] for o in ocr])
+  patched, patches = patch_list(pdf, ocr_tokens)
+  final = ' '.join(['{}|{}'.format(*i) for i in zip(patched, [o[1] for o in ocr])])
+  print(final)
 
 if __name__ == "__main__":
-  test()
+  cli()
+
