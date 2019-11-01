@@ -72,7 +72,8 @@
   <requestHandler name="/replication" class="solr.ReplicationHandler" startup="lazy" />
 
   <requestDispatcher handleSelect="true" >
-    <requestParsers enableRemoteStreaming="false" multipartUploadLimitInKB="2048" formdataUploadLimitInKB="2048" />
+    <!-- Increased to support /update/speeches end point -->
+    <requestParsers enableRemoteStreaming="false" multipartUploadLimitInKB="20480" formdataUploadLimitInKB="20480" />
   </requestDispatcher>
 
   <requestHandler name="standard" class="solr.StandardRequestHandler" default="true">

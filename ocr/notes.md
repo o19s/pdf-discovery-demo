@@ -106,7 +106,16 @@ curl 'http://localhost:8983/solr/documents/update/extract?literal.id=doc2&commit
 
 # Store via /update/speeches end point.
 curl 'http://localhost:8983/solr/documents/update/speeches?literal.id=doc2&commit=true' -F "myfile=@files/alvarez20140715a.pdf"
+curl 'http://localhost:8983/solr/documents/update/speeches?commit=true&fmap.stream_name=id' -F "myfile=@files/alvarez20140715a.pdf"
+http://localhost:8983/solr/documents/select?fq=content_type:childDocument&q=parent_id:alvarez20140715a.pdf&sort=page_number%20asc&wt=xml
+
+curl 'http://localhost:8983/solr/documents/update/speeches?commit=true&fmap.stream_name=id' -F "myfile=@files/alvarez20140715a.pdf"
 
 # Need to debug javascirpt `process-speech.js`?
 
 `npm test-parsing-ocr-text.js`
+
+# How to load test the Tika/Tesseract/Solr stack
+```
+post -url http://localhost:8983/solr/documents/update/speeches -filetypes pdf -out yes https://www.federalreserve.gov/newsevents/speech/powell20191008a.htm
+```
