@@ -30,10 +30,10 @@ http-server ../files --cors --ssl --cert ./cert.pem --key ./key.pem
 java -cp ./tika-properties:tika-app-1.22.jar org.apache.tika.cli.TikaCLI --xmp --jsonRecursive --extract --pretty-print -x ./files/lots-of-files/bernanke_20100203a.pdf
 ```
 
-java -cp tika-app-1.22.jar org.apache.tika.cli.TikaCLI --config=default-tika-config.xml --xmp --jsonRecursive --extract --pretty-print -x ./files/lots-of-files/bernanke_20100203a.pdf
+java -cp tika-app-1.22.jar org.apache.tika.cli.TikaCLI --config=tika-config.xml --xmp --jsonRecursive --extract --pretty-print -x ./files/lots-of-files/bernanke_20100203a.pdf
 
 
-java -cp tika-app-1.23-SNAPSHOT.jar org.apache.tika.cli.TikaCLI --config=default-tika-config.xml --jsonRecursive --extract --pretty-print -v -x ./files/lots-of-files/bernanke_20100203a.pdf
+java -cp tika-app-1.23-SNAPSHOT.jar org.apache.tika.cli.TikaCLI --config=tika-config.xml --jsonRecursive --extract --pretty-print -v -x ./files/lots-of-files/bernanke_20100203a.pdf
 
 
 pwsh create-solr-docs.ps1 ./temp/extracts ./temp/files ./temp/solr
