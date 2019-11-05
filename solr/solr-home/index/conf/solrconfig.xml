@@ -21,9 +21,10 @@
  It is *not* a good example to work from.
 -->
 <config>
-  <luceneMatchVersion>6.1</luceneMatchVersion>
+  <luceneMatchVersion>7.1</luceneMatchVersion>
 
-
+  <lib dir="${solr.install.dir:../../../..}/contrib/extraction/lib" regex=".*\.jar" />
+  <lib dir="${solr.install.dir:../../../..}/dist/" regex="solr-cell-\d.*\.jar" />
   <!--  The DirectoryFactory to use for indexes.
         solr.StandardDirectoryFactory, the default, is filesystem based.
         solr.RAMDirectoryFactory is memory based, not persistent, and doesn't work with replication. -->
@@ -71,7 +72,8 @@
   <requestHandler name="/replication" class="solr.ReplicationHandler" startup="lazy" />
 
   <requestDispatcher handleSelect="true" >
-    <requestParsers enableRemoteStreaming="false" multipartUploadLimitInKB="2048" formdataUploadLimitInKB="2048" />
+    <!-- Increased to support /update/speeches end point -->
+    <requestParsers enableRemoteStreaming="false" multipartUploadLimitInKB="20480" formdataUploadLimitInKB="20480" />
   </requestDispatcher>
 
   <requestHandler name="standard" class="solr.StandardRequestHandler" default="true">
@@ -86,6 +88,33 @@
   <requestHandler name="/analysis/field" startup="lazy" class="solr.FieldAnalysisRequestHandler" />
   <requestHandler name="/update" class="solr.UpdateRequestHandler"  />
 
+  <requestHandler name="/update/extract"
+                  class="solr.extraction.ExtractingRequestHandler" >
+    <str name="parseContext.config">parseContext.xml</str>
+    <lst name="defaults">
+      <str name="lowernames">true</str>
+      <str name="uprefix">attr_</str>
+      <str name="multipartUploadLimitInKB">20480</str> Limit to 20 MB PDF
+    </lst>
+  </requestHandler>
+
+  <requestHandler name="/update/speeches"
+                  class="solr.extraction.ExtractingRequestHandler" >
+    <str name="parseContext.config">parseContext.xml</str>
+    <lst name="defaults">
+      <!-- capture link hrefs but ignore div attributes -->
+      <!--str name="captureAttr">true</str>
+      <str name="capture">div</str>
+      <str name="fmap.div">attr_div</str>
+      <str name="fmap.span">attr_span</str-->
+      <!--str name="fmap.div">ignored_</str-->
+      <!--str name="lowernames">true</str-->
+      <str name="uprefix">attr_</str>
+      <str name="multipartUploadLimitInKB">20480</str> <!--Limit to 20 MB PDF-->
+      <str name="update.chain">process-speech-from-extracted-text</str>
+    </lst>
+  </requestHandler>
+
   <requestHandler name="/admin/ping" class="solr.PingRequestHandler">
     <lst name="invariants">
       <str name="q">solrpingquery</str>
@@ -94,6 +123,24 @@
       <str name="echoParams">all</str>
     </lst>
   </requestHandler>
+
+
+  <updateRequestProcessorChain name="process-speech-from-extracted-text">
+    <processor class="solr.StatelessScriptUpdateProcessorFactory">
+      <arr name="script">
+        <str name="script">process-speech.js</str>
+        <!--str name="script">second-processor.py</str-->
+      </arr>
+      <lst name="params">
+        <bool name="a_bool_value">true</bool>
+        <int name="and_int_value">3</int>
+      </lst>
+    </processor>
+    <processor class="solr.LogUpdateProcessorFactory" />
+    <processor class="solr.RunUpdateProcessorFactory" />
+  </updateRequestProcessorChain>
+
+
 
 
 

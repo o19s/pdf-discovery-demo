@@ -16,6 +16,9 @@
     <field name="path" type="string" indexed="false" stored="true" multiValued="false" />
     <field name="content_type" type="string" indexed="true" stored="true" multiValued="false" />
 
+    <field name="file_binary_base64" type="binary" indexed="false" stored="true" multiValued="false" />
+    <field name="file_binary_base64_str" type="string" indexed="false" stored="true" multiValued="false" />
+
     <!-- Page Level (child) Fields -->
     <field name="content" type="text" indexed="true" stored="true" multiValued="false" />
     <field name="content_ocr" type="ocr" indexed="true" stored="true" multiValued="false" termPayloads="true" termOffsets="true" termPositions="true" termVectors="true" />
@@ -38,6 +41,10 @@
     <!-- Used by Solr for optimistic concurrency -->
     <field name="_version_" type="long" indexed="true" stored="true"/>
 
+    <dynamicField name="ignored_*" type="ignored" multiValued="true"/>
+
+    <dynamicField name="attr_*" type="text" indexed="true" stored="true" multiValued="true"/>
+
     <!-- field to use to determine and enforce document uniqueness. -->
     <uniqueKey>id</uniqueKey>
 
@@ -45,6 +52,11 @@
     <!--
         Field Types
     -->
+
+    <!-- since fields of this type are by default not stored or indexed,
+     any data added to them will be ignored outright.  -->
+    <fieldType name="ignored" stored="false" indexed="false" multiValued="true" class="solr.StrField" />
+
     <!-- OCR Payloads -->
     <fieldType name="ocr" stored="false" indexed="true" class="solr.TextField">
       <analyzer>
@@ -78,5 +90,6 @@
     <fieldType name="long"   class="solr.TrieLongField" precisionStep="0" positionIncrementGap="0"/>
     <fieldType name="int"    class="solr.TrieIntField"  precisionStep="8" positionIncrementGap="0"/>
     <fieldType name="date"   class="solr.TrieDateField" precisionStep="6" positionIncrementGap="0"/>
+    <fieldtype name="binary" class="solr.BinaryField"   />
 
 </schema>

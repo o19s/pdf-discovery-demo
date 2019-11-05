@@ -34,7 +34,6 @@ curl --user admin:3YnRnaMk7sLbc "http://solr:8983/solr/admin/collections?action=
 echo "Sleeping 5"
 sleep 5
 
-cd /code
 
 echo "Load all the extracts"
 ./load_sample_files.sh /docs_for_solr http://solr:8983/solr/documents/update

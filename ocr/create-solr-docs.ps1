@@ -63,8 +63,11 @@ foreach ($base_file in $base_files) {
 
   $pages = $tika_content.SelectNodes("//x:div[@class='ocr_page']",$nsmgr)
 
+  $file_binary_base64 = [Convert]::ToBase64String([System.IO.File]::ReadAllBytes($file))
+
   [System.Collections.ArrayList]$child_docs = @()
-  $parent_doc = @([pscustomobject]@{id=$outputFile;content_type="parentDocument";path=$path;_childDocuments_=$child_docs})
+  $parent_doc = @([pscustomobject]@{id=$outputFile;file_binary_base64=$file_binary_base64;content_type="parentDocument";path=$path;_childDocuments_=$child_docs})
+
 
 
   $page_number = 0
@@ -76,6 +79,8 @@ foreach ($base_file in $base_files) {
 
     $hocr_file = $outputPath + "_" + $page_number + '.hocr'
     $hocr = (Get-Content $hocr_file)
+
+
 
     $text_file = $outputPath + "_" + $page_number +  '.txt'
     $text = (Get-Content $text_file)

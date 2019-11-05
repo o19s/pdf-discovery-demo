@@ -1,0 +1,102 @@
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>End-to-End Demo - Search</title>
+
+  <link rel="stylesheet" href="./style.css">
+
+<script src="http://mozilla.github.io/pdf.js/build/pdf.js"></script>
+
+  <script
+  src="https://code.jquery.com/jquery-3.4.1.min.js"
+  integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+  crossorigin="anonymous"></script>
+
+
+<script type="text/javascript">
+
+ $(document).on('click', '.deleteImage', function(e) {
+
+var documentid = $("#solr_doc_id").val();
+alert("Looking for " + documentid);
+
+  $.ajax({
+             url: "http://localhost:8983/solr/documents/select?csv.header=false&fl=file_binary_base64&fq=content_type:parentDocument&omitHeader=true&q=id:" + documentid + "&wt=csv",
+             type: "GET",
+             headers: {
+                "Authorization" : "Basic " +  btoa("user:pw")
+             },
+             xhrFields: {
+                 withCredentials: true
+             },
+             mimeType: "text/plain; charset=x-user-defined"
+         }).done(function( data, textStatus, jqXHR ) {
+             $("#image").attr('src', 'data:image/jpeg;base64,' + data);
+             alert(data);
+             //$("#image").attr('src', 'data:image/jpeg;base64,' + base64encode(data));
+
+             // atob() is used to convert base64 encoded PDF to binary-like data.
+             // (See also https://developer.mozilla.org/en-US/docs/Web/API/WindowBase64/
+             // Base64_encoding_and_decoding.)
+             var pdfData = atob(data);
+
+             // Loaded via <script> tag, create shortcut to access PDF.js exports.
+             var pdfjsLib = window['pdfjs-dist/build/pdf'];
+
+             // The workerSrc property shall be specified.
+             pdfjsLib.GlobalWorkerOptions.workerSrc = 'http://mozilla.github.io/pdf.js/build/pdf.worker.js';
+
+             // Using DocumentInitParameters object to load binary data.
+             var loadingTask = pdfjsLib.getDocument({data: pdfData});
+             loadingTask.promise.then(function(pdf) {
+               console.log('PDF loaded');
+
+               // Fetch the first page
+               var pageNumber = 1;
+               pdf.getPage(pageNumber).then(function(page) {
+                 console.log('Page loaded');
+
+                 var scale = 1.5;
+                 var viewport = page.getViewport({scale: scale});
+
+                 // Prepare canvas using PDF page dimensions
+                 var canvas = document.getElementById('the-canvas');
+                 var context = canvas.getContext('2d');
+                 canvas.height = viewport.height;
+                 canvas.width = viewport.width;
+
+                 // Render PDF page into canvas context
+                 var renderContext = {
+                   canvasContext: context,
+                   viewport: viewport
+                 };
+                 var renderTask = page.render(renderContext);
+                 renderTask.promise.then(function () {
+                   console.log('Page rendered');
+                 });
+               });
+             }, function (reason) {
+               // PDF loading error
+               console.error(reason);
+             });
+         }).fail(function( jqXHR, textStatus, errorThrown ) {
+             alert("fail: " + errorThrown);
+         });
+});
+
+
+  </script>
+  </head>
+  <body>
+    <h2>Demonstration of loading a Base64 encoded binary file directly from Solr</h2>
+
+    <p/>
+<input type="text" id="solr_doc_id" class="solr_doc_id" value="alvarez20140715a.pdf"/>
+<input type="button" name="delete-image" class="deleteImage" value="Load PDF">
+
+
+<canvas id="the-canvas"></canvas>
+    </body>
+    </html>
