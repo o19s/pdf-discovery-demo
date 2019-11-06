@@ -99,8 +99,8 @@ export default {
     },
     addHighlightToPDF (pageNumber, coordinates, startOffset, endOffset) {
       let doc = this.highlights.pageDict[pageNumber]
-      let pageDimension = doc.pageDimension
-        ? doc.pageDimension
+      let pageDimension = doc.PageDimension
+        ? doc.PageDimension
         : doc.page_dimension
       let [pageWidth, pageHeight] = pageDimension[0].split(' ').slice(3)
       let [x1, y1, x2, y2] = coordinates
