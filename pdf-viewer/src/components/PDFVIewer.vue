@@ -69,7 +69,8 @@ export default {
       })
 
       let loadingTask = this.pdfjsLib.getDocument({
-        url: `http://${window.location.hostname}:8443/${this.id}`
+        // url: `http://${window.location.hostname}:8443/${this.id}`
+        url: `${this.documentPath}${this.id}`
       })
       loadingTask.promise.then((pdfDocument) => {
         this.PDFViewer.setDocument(pdfDocument)
