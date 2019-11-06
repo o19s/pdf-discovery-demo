@@ -13,6 +13,18 @@ You may need to do `docker-compose down -v` if you have already run the demo.
 
 You can also access this demo at http://pdf-discovery-demo.dev.o19s.com:8080/
 
+## I want to learn how this works!
+There are actually a couple of things that you can learn from this project.  They are written up on the wiki:
+
+1. [Using Tika/Tesseract standalone outside of Solr](https://github.com/o19s/pdf-discovery-demo/wiki/1.-Using-Tika-and-Tesseract-Outside-of-Solr).
+1. [Using Tika/Tesseract as an API exposed by Solr via ExtractingRequestHandler](https://github.com/o19s/pdf-discovery-demo/wiki/2.-Using-Tika-and-Tesseract-as-an-API-exposed-by-Solr-via-ExtractingRequestHandler)
+1. [Parsing Tika/Tesseract output inside of Solr via the StatelessScriptUpdateProcessorFactory](https://github.com/o19s/pdf-discovery-demo/wiki/3.-Parsing-Tika-Tesseract-Output-Inside-of-Solr-via-StatelessScriptUpdateProcessorFactory)
+1. [Tesseract 3 and Tika](https://github.com/o19s/pdf-discovery-demo/wiki/Tesseract-3-and-Tika).
+1. [Store binary data in Solr and serve it up like a object store!](https://github.com/o19s/pdf-discovery-demo/wiki/Store-binary-data-in-Solr-and-serve-it-up-like-a-object-store!)
+
+
+
+# Development
 
 ## Vue Component
 `cd` into the `pdf-viewer` directory.
