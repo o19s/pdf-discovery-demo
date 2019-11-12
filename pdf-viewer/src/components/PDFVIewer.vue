@@ -26,15 +26,14 @@ export default {
     },
     documentPath: {
       type: String,
-      required: true
+      default: '/'
     }
   },
   data () {
     return {
       pdfjsLib: null,
       PDFViewer: null,
-      viewportWidth: 0,
-      renderedPages: []
+      viewportWidth: 0
     }
   },
   mounted () {
@@ -51,7 +50,6 @@ export default {
       this.viewportWidth = this.$refs['pdf-viewer-container'].offsetWidth
       this.PDFViewer.currentScaleValue = 1.0001
       this.PDFViewer.currentScaleValue = this.pdfScale
-      this.renderedPages = []
     },
     initializeViewer () {
       this.PDFViewer = new PDFJS.PDFViewer({
@@ -107,15 +105,28 @@ export default {
       let highlight = document.createElement('span')
       let targetPage = document.querySelector(`[data-page-number="${pageNumber}"]`)
 
+      // set up highlight position and size
+      const highlightSize = {}
+      highlightSize.top = (y1 / pageHeight) * 100
+      highlightSize.left = (x1 / pageWidth) * 100
+      highlightSize.height = ((y2 / pageHeight) - (y1 / pageHeight)) * 100
+      highlightSize.width = ((x2 / pageWidth) - (x1 / pageWidth)) * 100
+
+      Object.keys(highlightSize).forEach((dimension) => {
+        if (!highlightSize[dimension]) {
+          console.error(`Undefined sizing variable for highlight: highlightSize.${dimension} evaluated to ${highlightSize[dimension]}. Highlight will not render correctly. This is probably an issue with payload data being provided to the application.`)
+        }
+      })
+
       // set the relative position for the highlight
       highlight.setAttribute('data-end-offset', endOffset)
       highlight.setAttribute('data-start-offset', startOffset)
       highlight.setAttribute('class', 'box-highlight')
       highlight.setAttribute('style', `
-        top:${(y1 / pageHeight) * 100}%;
-        left:${(x1 / pageWidth) * 100}%;
-        height:${((y2 / pageHeight) - (y1 / pageHeight)) * 100}%;
-        width:${((x2 / pageWidth) - (x1 / pageWidth)) * 100}%;
+        top:${highlightSize.top}%;
+        left:${highlightSize.left}%;
+        height:${highlightSize.height}%;
+        width:${highlightSize.width}%;
       `)
 
       // add the highlight to the page
