@@ -23,7 +23,7 @@ var documentid = $("#solr_doc_id").val();
 alert("Looking for " + documentid);
 
   $.ajax({
-             url: "http://localhost:8983/solr/documents/select?csv.header=false&fl=file_binary_base64&fq=content_type:parentDocument&q=id:" + documentid + "&wt=csv",
+             url: '//' + window.location.hostname + ":8983/solr/documents/select?csv.header=false&fl=file_binary_base64&fq=content_type:parentDocument&q=id:" + documentid + "&wt=csv",
              type: "GET",
              headers: {
                 "Authorization" : "Basic " +  btoa("user:pw")
