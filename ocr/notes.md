@@ -111,11 +111,16 @@ http://localhost:8983/solr/documents/select?fq=content_type:childDocument&q=pare
 
 curl 'http://localhost:8983/solr/documents/update/speeches?commit=true&fmap.stream_name=id' -F "myfile=@files/alvarez20140715a.pdf"
 
-# Need to debug javascirpt `process-speech.js`?
+# Need to debug the JavaScript file `process-speech.js`?
 
+There is a copy that runs outside of Solr:
 `npm test-parsing-ocr-text.js`
 
 # How to load test the Tika/Tesseract/Solr stack
 ```
 post -url http://localhost:8983/solr/documents/update/speeches -filetypes pdf -out yes https://www.federalreserve.gov/newsevents/speech/powell20191008a.htm
 ```
+
+## Using scrapy.  https://scrapy.org/
+
+Run the spider via `scrapy runspider download_pdf_files_spider.py`
