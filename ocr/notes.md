@@ -27,13 +27,13 @@ http-server ../files --cors --ssl --cert ./cert.pem --key ./key.pem
 ## Manually run Processing
 
 ```
-java -cp ./tika-properties:tika-app-1.22.jar org.apache.tika.cli.TikaCLI --xmp --jsonRecursive --extract --pretty-print -x ./files/lots-of-files/bernanke_20100203a.pdf
+java -cp ./tika-properties:tika-app-1.23.jar org.apache.tika.cli.TikaCLI --xmp --jsonRecursive --extract --pretty-print -x ./files/lots-of-files/bernanke_20100203a.pdf
 ```
 
-java -cp tika-app-1.22.jar org.apache.tika.cli.TikaCLI --config=tika-config.xml --xmp --jsonRecursive --extract --pretty-print -x ./files/lots-of-files/bernanke_20100203a.pdf
+java -cp tika-app-1.23.jar org.apache.tika.cli.TikaCLI --config=tika-config.xml --xmp --jsonRecursive --extract --pretty-print -x ./files/lots-of-files/bernanke_20100203a.pdf
 
 
-java -cp tika-app-1.23-SNAPSHOT.jar org.apache.tika.cli.TikaCLI --config=tika-config.xml --jsonRecursive --extract --pretty-print -v -x ./files/lots-of-files/bernanke_20100203a.pdf
+java -cp tika-app-1.23.jar org.apache.tika.cli.TikaCLI --config=tika-config.xml --jsonRecursive --extract --pretty-print -v -x ./files/lots-of-files/bernanke_20100203a.pdf
 
 
 pwsh create-solr-docs.ps1 ./temp/extracts ./temp/files ./temp/solr
@@ -117,10 +117,18 @@ There is a copy that runs outside of Solr:
 `npm test-parsing-ocr-text.js`
 
 # How to load test the Tika/Tesseract/Solr stack
-```
-post -url http://localhost:8983/solr/documents/update/speeches -filetypes pdf -out yes https://www.federalreserve.gov/newsevents/speech/powell20191008a.htm
-```
 
-## Using scrapy.  https://scrapy.org/
+We use the scrapy project https://scrapy.org/ to download lots of PDFs and then load them.
 
-Run the spider via `scrapy runspider download_pdf_files_spider.py`
+Run the spider via `scrapy runspider download_pdf_files_spider.py` which populates the `/ocr/load_testing_files/` directory.
+
+If you have a local Solr, not the dockerized one, then you will need to load our configuration and jar files
+
+bin/solr create_collection -c mycoll -d /tmp/myconfig
+
+Then run `./load_test_loading_pdfs.sh`
+
+
+# Testing JSON output
+
+java -cp tika-app-1.23.jar org.apache.tika.cli.TikaCLI --config=tika-config.xml --xmp --jsonRecursive --extract --pretty-print -x ./files/alvarez20140715a.pdf
