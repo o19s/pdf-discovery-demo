@@ -1,0 +1,15 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: "{{ include "tika.fullname" . }}-test-connection"
+  labels:
+{{ include "tika.labels" . | nindent 4 }}
+  annotations:
+    "helm.sh/hook": test-success
+spec:
+  containers:
+    - name: wget
+      image: busybox
+      command: ['wget']
+      args:  ['{{ include "tika.fullname" . }}:{{ .Values.service.port }}']
+  restartPolicy: Never

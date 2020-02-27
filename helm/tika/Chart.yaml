@@ -1,0 +1,9 @@
+apiVersion: "v2"
+name: "tika"
+type: application
+version: 0.1.0
+appVersion: 1.23
+description: "A Helm chart to install Apache Tika: https://tika.apache.org/"
+keywords:
+  - "tika"
+home: "https://tika.apache.org/"
