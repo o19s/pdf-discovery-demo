@@ -100,7 +100,7 @@ export default {
       let pageDimension = doc.PageDimension
         ? doc.PageDimension
         : doc.page_dimension
-      let [pageWidth, pageHeight] = pageDimension[0].split(' ').slice(2)
+      let [pageWidth, pageHeight] = pageDimension[0].trim().split(' ').slice(2)
       let [x1, y1, x2, y2] = coordinates
       let highlight = document.createElement('span')
       let targetPage = document.querySelector(`[data-page-number="${pageNumber}"]`)
