@@ -4,7 +4,7 @@ This is a demonstration project that leverages the Solr Payload Component from h
 
 ## Quickstart!
 
-Just run `docker-compose up` and then browse to http://localhost:8080.  You will need to wait till the _init_ process finishes loading all of the Solr documents to use the website properly.
+Just run `docker-compose up --build` and then browse to http://localhost:8080.  You will need to wait till the _init_ process finishes loading all of the Solr documents to use the website properly.
 
 
 Solr is running on http://localhost:8983, with a CORS version at http://localhost:8000, and PDF images are served up on http://localhost:8443.
@@ -47,6 +47,8 @@ And the script witll build and copy the `dist` directory contents into `/app/pdf
 ## Text Extraction and OCR process
 
 From the `./ocr/` directory, there are some Powershell ( ;-) ) scripts to recreate the files if you want.
+
+1. `cd ./ocr`
 
 1. Make sure you have Tesseract installed.  `brew install tesseract` on OSX.
 

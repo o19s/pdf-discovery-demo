@@ -37,8 +37,6 @@
 
   init:
     image: harbor.dev.o19s.com/pdf-discovery-demo/init:latest
-    ports:
-     - "8443:8443"
     links:
       - solr
       - zookeeper

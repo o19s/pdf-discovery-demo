@@ -1,5 +1,13 @@
-## setup from project root
+# How to run OCR process
 
+put file into ./ocr/files/
+
+> pwsh extract-directory.ps1 ./staging/files
+
+> pwsh create-solr-docs.ps1 ./extracts ./files ./docs_for_solr/
+
+
+## setup from project root
 ```
 docker-compose up
 ```
