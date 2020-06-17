@@ -1,6 +1,10 @@
 # PDF.JS End-to-End Search / Snippets / Highlighting
 
-This is a demonstration project that leverages the Solr Payload Component from https://github.com/o19s/payload-component and the Offset Highlighter Component from https://github.com/o19s/offset-hl-formatter to make PDF documents both searchable and have highlighting of text in context.
+This is a demonstration project that leverages the Solr Payload Component from https://github.com/o19s/payload-component and the Offset Highlighter Component from https://github.com/o19s/offset-hl-formatter, as well as [pdf.js](https://mozilla.github.io/pdf.js/) to make PDF documents searchable and have highlighting of matches with the text in context of the PDF.
+
+## Online Demo!
+
+Checkout how amazing this is at http://pdf-discovery-demo.dev.o19s.com:8080/ ;-)
 
 ## Quickstart!
 
@@ -11,7 +15,7 @@ Solr is running on http://localhost:8983, with a CORS version at http://localhos
 
 You may need to do `docker-compose down -v` if you have already run the demo.
 
-You can also access this demo at http://pdf-discovery-demo.dev.o19s.com:8080/
+
 
 ## I want to learn how this works!
 There are actually a couple of things that you can learn from this project.  They are written up on the wiki:
