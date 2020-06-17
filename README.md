@@ -48,6 +48,8 @@ And the script witll build and copy the `dist` directory contents into `/app/pdf
 
 From the `./ocr/` directory, there are some Powershell ( ;-) ) scripts to recreate the files if you want.
 
+1. `cd ./ocr`
+
 1. Make sure you have Tesseract installed.  `brew install tesseract` on OSX.
 
 1. Check the `./tika-properties/.../TesseractOCRConfig.properties` file, make sure it points to your Tesseract setup.
