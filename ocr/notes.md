@@ -35,13 +35,13 @@ http-server ../files --cors --ssl --cert ./cert.pem --key ./key.pem
 ## Manually run Processing
 
 ```
-java -cp ./tika-properties:tika-app-1.23.jar org.apache.tika.cli.TikaCLI --xmp --jsonRecursive --extract --pretty-print -x ./files/lots-of-files/bernanke_20100203a.pdf
+java -cp ./tika-properties:tika-app-1.24.1.jar org.apache.tika.cli.TikaCLI --xmp --jsonRecursive --extract --pretty-print -x ./files/lots-of-files/bernanke_20100203a.pdf
 ```
 
-java -cp tika-app-1.23.jar org.apache.tika.cli.TikaCLI --config=tika-config.xml --xmp --jsonRecursive --extract --pretty-print -x ./files/lots-of-files/bernanke_20100203a.pdf
+java -cp tika-app-1.24.1.jar org.apache.tika.cli.TikaCLI --config=tika-config.xml --xmp --jsonRecursive --extract --pretty-print -x ./files/lots-of-files/bernanke_20100203a.pdf
 
 
-java -cp tika-app-1.23.jar org.apache.tika.cli.TikaCLI --config=tika-config.xml --jsonRecursive --extract --pretty-print -v -x ./files/lots-of-files/bernanke_20100203a.pdf
+java -cp tika-app-1.24.1.jar org.apache.tika.cli.TikaCLI --config=tika-config.xml --jsonRecursive --extract --pretty-print -v -x ./files/lots-of-files/bernanke_20100203a.pdf
 
 
 pwsh create-solr-docs.ps1 ./temp/extracts ./temp/files ./temp/solr
@@ -88,7 +88,7 @@ After with base64PDF
   d) Create final child documents.
   e) Pass on to indexing pipeline.
 
-  Copy tika-app-1.23.jar up to Solr.   Do it all in ScriptingUpdateRequestHandler
+  Copy tika-app-1.24.1.jar up to Solr.   Do it all in ScriptingUpdateRequestHandler
 
 OR
 
@@ -139,4 +139,4 @@ Then run `./load_test_loading_pdfs.sh`
 
 # Testing JSON output
 
-java -cp tika-app-1.23.jar org.apache.tika.cli.TikaCLI --config=tika-config.xml --xmp --jsonRecursive --extract --pretty-print -x ./files/alvarez20140715a.pdf
+java -cp tika-app-1.24.1.jar org.apache.tika.cli.TikaCLI --config=tika-config.xml --xmp --jsonRecursive --extract --pretty-print -x ./files/alvarez20140715a.pdf

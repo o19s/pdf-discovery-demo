@@ -7,7 +7,7 @@ Param(
 Write-Host "About to hocr PDF file " + $pdf_file
 
 $result = curl -T $pdf_file http://localhost:9998/rmeta --header "X-Tika-OCRLanguage: eng" --header "X-Tika-PDFOcrStrategy: ocr_and_text_extraction" --header "X-Tika-OCRoutputType: hocr"
-#$result = java -cp ./tika-properties:tika-app-1.23.jar org.apache.tika.cli.TikaCLI --xmp --jsonRecursive --extract --pretty-print -x $pdf_file
+#$result = java -cp ./tika-properties:tika-app-1.24.1.jar org.apache.tika.cli.TikaCLI --xmp --jsonRecursive --extract --pretty-print -x $pdf_file
 
 
 $outputFile = Split-Path $pdf_file -leaf
