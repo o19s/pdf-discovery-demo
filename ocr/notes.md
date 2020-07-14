@@ -433,9 +433,9 @@ sort(
       gt(count,5),
       not(matches(token, "\d")),
       not(matches(token, "\."))
-    ),
-    on="count desc"
-  )
+    )
+  ),
+  by="count desc"
 )
   ' http://localhost:8983/solr/documents/stream           
 ```
