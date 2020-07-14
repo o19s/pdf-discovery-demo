@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<properties>
+  <parsers>
+    <parser class="org.apache.tika.parser.DefaultParser">
+\      <parser-exclude class="org.apache.tika.parser.pdf.PDFParser"/>
+    </parser>
+    <parser class="org.apache.tika.parser.pdf.PDFParser">
+      <params>
+        <param name="ocrStrategy" type="string">no_ocr</param>
+      </params>
+    </parser>
+  </parsers>
+</properties>
