@@ -572,3 +572,10 @@ Then run `./load_test_loading_pdfs.sh`
 # Testing JSON output
 
 java -cp tika-app-1.24.1.jar org.apache.tika.cli.TikaCLI --config=tika-config.xml --xmp --jsonRecursive --extract --pretty-print -x ./files/alvarez20140715a.pdf
+
+
+
+Ideas:
+1) Look at the spellchecker to expand your query.
+2) Look at the stats that OCR tools use.
+3) Think about solving the "tion" using a stemmer? Instead of solving by fixing the OCR token stream
