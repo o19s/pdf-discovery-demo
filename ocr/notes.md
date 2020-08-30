@@ -2,10 +2,11 @@
 
 put file into ./ocr/files/
 
-> pwsh extract-directory.ps1 ./staging/files
+> pwsh extract-directory.ps1 ./ocr/files ./orc/extracts
 
 > pwsh create-solr-docs.ps1 ./extracts ./files ./docs_for_solr/
 
+_Note: if you don't want to pollute the Git history, you can use a different directory, just fix the paths_
 
 ## setup from project root
 ```
