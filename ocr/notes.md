@@ -37,6 +37,11 @@ So, running it with pairwise, we have one issue, which is that OCR has `Iam` and
 
 ## Tika Eval
 
+We are interested in some specific old files that were done in typewritter and Digitized for FRASER.
+So, in the below docs add a filter parameter: `-fileList digitized_for_fraser_pdfs.txt`
+
+
+
 > cd ocr/
 
 Extract the original "Digitized for FRASER" electronic text, as our baseline.
@@ -52,11 +57,11 @@ Okay, time to run the analytics!
 > java -jar tika-eval-1.24.1.jar Report -db measure_quality/comparisondb  -rd measure_quality/reports
 
 So..    That was fine and dandy, but honestly, maybe what we care about are the old ones?  That would
-be 1634473.pdf, 1743612.pdf, and 1743664.pdf.  Lets retest just those.
+be 1634473.pdf, 1743612.pdf, and 1743664.pdf.  Lets re-test just those.
 
-> java -jar tika-app-1.24.1.jar -c ./measure_quality/tika-config-no-ocr.xml -J -t -i files -o measure_quality/extractsDigitizedOnlyA -fileList pdfs_old.csv
+> java -jar tika-app-1.24.1.jar -c ./measure_quality/tika-config-no-ocr.xml -J -t -i files -o measure_quality/extractsDigitizedOnlyA -fileList measure_quality/digitized_for_fraser_pdfs.txt
 
-> java -jar tika-app-1.24.1.jar -c ./measure_quality/tika-config-ocr-only.xml -J -t -i files -o measure_quality/extractsDigitizedOnlyB -fileList pdfs_old.csv
+> java -jar tika-app-1.24.1.jar -c ./measure_quality/tika-config-ocr-only.xml -J -t -i files -o measure_quality/extractsDigitizedOnlyB -fileList measure_quality/digitized_for_fraser_pdfs.txt
 
 And make some reports:
 
