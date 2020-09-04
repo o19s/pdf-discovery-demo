@@ -1,8 +1,10 @@
 # How to run OCR process
 
-put file into ./ocr/files/
+put source PDF files into ./ocr/files/
 
-> pwsh extract-directory.ps1 ./ocr/files ./orc/extracts
+> cd ocr/
+
+> pwsh extract-directory.ps1 ./files ./extracts
 
 > pwsh create-solr-docs.ps1 ./extracts ./files ./docs_for_solr/
 
@@ -59,15 +61,15 @@ Okay, time to run the analytics!
 So..    That was fine and dandy, but honestly, maybe what we care about are the old ones?  That would
 be 1634473.pdf, 1743612.pdf, and 1743664.pdf.  Lets re-test just those.
 
-> java -jar tika-app-1.24.1.jar -c ./measure_quality/tika-config-no-ocr.xml -J -t -i files -o measure_quality/extractsDigitizedOnlyA -fileList measure_quality/digitized_for_fraser_pdfs.txt
+> java -jar tika-app-1.24.1.jar -c ./measure_quality/tika-config-no-ocr.xml -J -t -i files -o measure_quality/digitizedForFraserExtracts -fileList measure_quality/digitized_for_fraser_pdfs.txt
 
-> java -jar tika-app-1.24.1.jar -c ./measure_quality/tika-config-ocr-only.xml -J -t -i files -o measure_quality/extractsDigitizedOnlyB -fileList measure_quality/digitized_for_fraser_pdfs.txt
+> java -jar tika-app-1.24.1.jar -c ./measure_quality/tika-config-ocr-only.xml -J -t -i files -o measure_quality/tesseractExtracts -fileList measure_quality/digitized_for_fraser_pdfs.txt
 
 And make some reports:
 
-> java -jar tika-eval-1.24.1.jar Compare -extractsA measure_quality/extractsDigitizedOnlyA -extractsB measure_quality/extractsDigitizedOnlyB -db measure_quality/comparisondbDigitizedOnly
+> java -jar tika-eval-1.24.1.jar Compare -extractsA measure_quality/digitizedForFraserExtracts -extractsB measure_quality/tesseractExtracts -db measure_quality/fraserVsTesseract
 
-> java -jar tika-eval-1.24.1.jar Report -db measure_quality/comparisondbDigitizedOnly  -rd measure_quality/reportsDigitizedOnly
+> java -jar tika-eval-1.24.1.jar Report -db measure_quality/fraserVsTesseract  -rd measure_quality/reportsDigitizedOnly
 
 So, B looks amazingly better, however, this is due to a quirk where the text in 1634473.pdf is exported as `F e d e r a l R e s e r v e` instead of `Federal Reserve` for some reason.  However, Adobe Acrobat does list it as `Federal Reserve`, so maybe a quirk of Tika/PDFBox?
 
