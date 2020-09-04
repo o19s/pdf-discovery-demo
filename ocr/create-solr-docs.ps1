@@ -26,7 +26,8 @@ foreach ($base_file in $base_files) {
 
   Write-Host $base_file
 
-  $json = (Get-Content $base_file -Raw) | ConvertFrom-Json
+  # some docs have both "created" and "Created", which needs the -asHashtable
+  $json = (Get-Content $base_file -Raw) | ConvertFrom-Json #-AsHashtable
   $tika_content = [xml]$json.'X-TIKA:content'
 
   Write-Host $json
