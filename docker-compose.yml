@@ -26,7 +26,7 @@ services:
       - ./volumes/solr_backup:/solr_backup
     links:
       - zookeeper
-    command: "bash -c '/opt/solr/bin/solr start -f -z zookeeper:2181 -Dbootstrap_confdir=/solr-config/index/conf'"
+    command: "bash -c './post-hooks.sh & /opt/solr/bin/solr start -f -z zookeeper:2181 -Denable.packages=true -Dbootstrap_confdir=/solr-config/index/conf'"
 
   solr-proxy:
     build: ./solr-proxy
