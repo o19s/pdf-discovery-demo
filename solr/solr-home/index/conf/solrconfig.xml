@@ -21,7 +21,7 @@
  It is *not* a good example to work from.
 -->
 <config>
-  <luceneMatchVersion>7.1</luceneMatchVersion>
+  <luceneMatchVersion>8.6</luceneMatchVersion>
 
   <lib dir="${solr.install.dir:../../../..}/contrib/extraction/lib" regex=".*\.jar" />
   <lib dir="${solr.install.dir:../../../..}/dist/" regex="solr-cell-\d.*\.jar" />
@@ -150,7 +150,7 @@
   </admin>
 
 
-  <searchComponent class="com.o19s.payloads.component.PayloadComponent" name="payload" />
+  <searchComponent class="solr-payloads:com.o19s.payloads.component.PayloadComponent" name="payload" />
     <!-- Highlighting Component
 
        http://wiki.apache.org/solr/HighlightingParameters
@@ -185,7 +185,7 @@
       <!-- Configure the standard formatter -->
       <formatter name="html"
                  default="true"
-                 class="com.o19s.labs.OffsetFormatter">
+                 class="solr-payloads:com.o19s.hl.OffsetFormatter">
       </formatter>
 
       <!-- Configure the standard encoder -->
