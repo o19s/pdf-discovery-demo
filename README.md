@@ -78,6 +78,27 @@ From the `./ocr/` directory run:
 curl -T files/bcreg20090424a1.pdf http://pdf-discovery-demo.dev.o19s.com:9998/rmeta --header "X-Tika-OCRLanguage: eng" --header "X-Tika-PDFOcrStrategy: ocr_and_text_extraction" --header "X-Tika-OCRoutputType: hocr"
 ```
 
+## Using Solr Packages 101
+
+Make sure your solrconfig.xml has the name `com.o19s.hl.OffsetFormatter` instead of the old `com.o19s.labs.OffsetFormatter`:
+
+```
+<formatter name="html"
+           default="true"
+           class="com.o19s.hl.OffsetFormatter">
+</formatter>
+```
+
+Delete the old `offset-hl-formatter-1.0.1-solr7.1.0-SNAPSHOT.jar` and `solr-payloads-1.0.3-solr7.1.0-SNAPSHOT.jar` jars from the deployment process, we have nice shiny packages now!!!!
+
+Make sure Solr is package enabled on startup, we need another parameter.  (Lets verify install script).  `-Denable.packages=true`
+
+
+
+
+
+
+
 
 ## Run the Demo using Docker
 
@@ -93,6 +114,23 @@ To see payloads in action in Solr then run:
 ```
 http://localhost:8983/solr/documents/select?fl=id,content,path,page_dimensions&hl=on&hl.snippets=10&hl.fl=content&indent=on&q=taxes&wt=json&pl=on&echoParams=all
 ```
+
+## Using Solr Packages 101
+
+Make sure your solrconfig.xml has the name `com.o19s.hl.OffsetFormatter` instead of the old `com.o19s.labs.OffsetFormatter`:
+
+```
+<formatter name="html"
+           default="true"
+           class="com.o19s.hl.OffsetFormatter">
+</formatter>
+```
+
+Delete the old `offset-hl-formatter-1.0.1-solr7.1.0-SNAPSHOT.jar` and `solr-payloads-1.0.3-solr7.1.0-SNAPSHOT.jar` jars from the deployment process, we have nice shiny packag
+es now!!!!
+
+Make sure Solr is package enabled on startup, we need another parameter.  (Lets verify install script).  `-Denable.packages=true`
+
 
 
 ## Building Docker images
