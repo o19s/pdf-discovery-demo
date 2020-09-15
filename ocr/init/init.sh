@@ -6,8 +6,9 @@
 #	sleep 5
 #done
 #echo "Sleeping 15"
-#sleep 15
+sleep 15
 ./wait-for-solr.sh --max-attempts 10 --wait-seconds 4 --solr-url http://solr:8983
+sleep 30
 
 #echo "Uploading security.json to ZK"
 #/opt/solr/server/scripts/cloud-scripts/zkcli.sh -zkhost zookeeper:2181 -cmd putfile /security.json /code/security.json
