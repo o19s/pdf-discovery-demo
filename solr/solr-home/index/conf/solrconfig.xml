@@ -52,7 +52,9 @@
        modification REST API calls will be allowed; otherwise, error responses will be
        sent back for these requests.
   -->
-  <schemaFactory class="ClassicIndexSchemaFactory"/>
+  <schemaFactory class="ManagedIndexSchemaFactory">
+    <bool name="mutable">true</bool>
+  </schemaFactory>
 
   <updateHandler class="solr.DirectUpdateHandler2">
     <updateLog>

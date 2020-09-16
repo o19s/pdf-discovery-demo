@@ -21,7 +21,7 @@
 
     <!-- Page Level (child) Fields -->
     <field name="content" type="text" indexed="true" stored="true" multiValued="false" />
-    <field name="content_ocr" type="ocr" indexed="true" stored="true" multiValued="false" termPayloads="true" termOffsets="true" termPositions="true" termVectors="true" />
+    <!--field name="content_ocr" type="ocr" indexed="true" stored="true" multiValued="false" termPayloads="true" termOffsets="true" termPositions="true" termVectors="true" /-->
     <field name="content_extracted" type="text" indexed="true" stored="true" multiValued="false" />
 
     <field name="page_number" type="int" indexed="true"  stored="true"  multiValued="false" />
@@ -58,19 +58,23 @@
     <fieldType name="ignored" stored="false" indexed="false" multiValued="true" class="solr.StrField" />
 
     <!-- OCR Payloads -->
+    <!--
     <fieldType name="ocr" stored="false" indexed="true" class="solr.TextField">
       <analyzer>
         <tokenizer class="solr.WhitespaceTokenizerFactory"/>
         <filter class="solr.DelimitedPayloadTokenFilterFactory" encoder="solr-payloads:com.o19s.payloads.Base64Encoder" />
+      -->
         <!-- The payload buffer works around WDF removing payloads from tokens by copying and replacing later in the chain -->
+        <!--
         <filter class="solr-payloads:com.o19s.payloads.filter.PayloadBufferFilterFactory" />
         <filter class="solr.LowerCaseFilterFactory" />
         <filter class="solr.WordDelimiterFilterFactory" />
         <filter class="solr.KStemFilterFactory" />
         <filter class="solr-payloads:com.o19s.payloads.filter.PayloadBufferFilterFactory" />
+
       </analyzer>
     </fieldType>
-
+  -->
     <!-- Simple text analysis -->
     <fieldType name="text" class="solr.TextField" positionIncrementGap="100">
       <analyzer type="index">
