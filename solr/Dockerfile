@@ -1,4 +1,4 @@
-FROM solr:8.6.2
+FROM solrmaster
 
 # Add Tesseract
 USER root
