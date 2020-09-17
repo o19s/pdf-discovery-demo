@@ -35,6 +35,44 @@ curl --user admin:3YnRnaMk7sLbc "http://solr:8983/solr/admin/collections?action=
 echo "Sleeping 5"
 sleep 5
 
+echo "Adding OCR field type"
+curl -X POST -H 'Content-type:application/json' --data-binary '{
+   "add-field-type" : {
+      "name":"ocr",
+      "stored": "false",
+      "indexed": "true",
+      "class":"solr.TextField",
+      "analyzer" : {
+         "tokenizer":{
+            "class":"solr.WhitespaceTokenizerFactory" },
+         "filters":[
+           { "class":"solr.DelimitedPayloadTokenFilterFactory","encoder":"solr-payloads:com.o19s.payloads.Base64Encoder" },
+           { "class":"solr-payloads:com.o19s.payloads.filter.PayloadBufferFilterFactory" },
+           { "class":"solr.LowerCaseFilterFactory" },
+           { "class":"solr.WordDelimiterFilterFactory" },
+           { "class":"solr.KStemFilterFactory" },
+           { "class":"solr-payloads:com.o19s.payloads.filter.PayloadBufferFilterFactory" },
+         ]
+     }
+   }
+ }' http://solr:8983/solr/documents/schema
+
+echo "Adding content_ocr"
+curl -X POST -H 'Content-type:application/json' --data-binary '{
+   "add-field" : {
+      "name":"content_ocr",
+      "type": "ocr",
+      "stored": "true",
+      "indexed": "true",
+      "multiValued": "false",
+      "termPayloads": "true",
+      "termOffsets": "true",
+      "termPositions": "true",
+      "termVectors": "true"
+   }
+ }' http://solr:8983/solr/documents/schema
+
+
 
 echo "Load all the extracts"
 ./load_sample_files.sh /docs_for_solr http://solr:8983/solr/documents/update
