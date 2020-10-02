@@ -21,7 +21,7 @@
  It is *not* a good example to work from.
 -->
 <config>
-  <luceneMatchVersion>7.1</luceneMatchVersion>
+  <luceneMatchVersion>8.6</luceneMatchVersion>
 
   <lib dir="${solr.install.dir:../../../..}/contrib/extraction/lib" regex=".*\.jar" />
   <lib dir="${solr.install.dir:../../../..}/dist/" regex="solr-cell-\d.*\.jar" />

@@ -21,16 +21,13 @@ services:
       - "2181:2181"
       - "2888:2888"
       - "3888:3888"
-    volumes:
-      - ./volumes/zoo_data:/data
 
   solr:
     build: ./solr
     ports:
      - "8983:8983"
     volumes:
-      - ./volumes/opt_solr_server_solr_documents_s1r1:/opt/solr/server/solr/documents_shard1_replica_n1
-      - ./volumes/opt_solr_server_solr_documents_s2r1:/opt/solr/server/solr/documents_shard2_replica_n1
+      - ./volumes/solr_backup:/solr_backup
     links:
       - zookeeper
     command: "bash -c '/opt/solr/bin/solr start -f -z zookeeper:2181 -Dbootstrap_confdir=/solr-config/index/conf'"
