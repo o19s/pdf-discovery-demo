@@ -15,6 +15,11 @@ Write-Host "Extracts in :" $directory_path
 Write-Host "PDF Files:" $files_root_path
 Write-Host "Solr Docs:" $target_solr_docs
 
+if(!(Test-Path($target_solr_docs))){
+  New-Item -Path $target_solr_docs -ItemType Directory
+}
+
+
 $files_root_path = Resolve-Path $files_root_path
 
 $base_files = Get-ChildItem -Path $directory_path –Recurse | Where-Object {$_.Extension -eq ".json"}

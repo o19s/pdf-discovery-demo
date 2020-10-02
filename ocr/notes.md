@@ -5,8 +5,10 @@ put source PDF files into ./ocr/files/
 > cd ocr/
 
 > pwsh extract-directory.ps1 ./files ./extracts
+> pwsh extract-directory.ps1 ./files2 ./extracts2
 
 > pwsh create-solr-docs.ps1 ./extracts ./files ./docs_for_solr/
+> pwsh create-solr-docs.ps1 ./extracts2 ./files2 ./docs_for_solr2/
 
 _Note: if you don't want to pollute the Git history, you can use a different directory, just fix the paths_
 

@@ -37,6 +37,7 @@ sleep 5
 
 echo "Load all the extracts"
 ./load_sample_files.sh /docs_for_solr http://solr:8983/solr/documents/update
+./load_sample_files.sh /docs_for_solr2 http://solr:8983/solr/documents/update
 echo "Done with setup"
 
 # No longer need this because the PDF's are ALSO served up in the ./app image.
