@@ -25,7 +25,7 @@ We need a security.json file to be deployed in order to be able to use API's to 
 
 1. Lets Restore
 
-> curl 'http://localhost:8983/solr/admin/collections?action=RESTORE&name=documentsv7&location=/solr_backup&collection=restored_documents' -H 'Content-type:application/json'
+> curl 'http://localhost:8983/solr/admin/collections?action=RESTORE&name=documentsv7&location=/solr_backup&collection=documentsv7' -H 'Content-type:application/json'
 
 
 1. Lets deploy the Updated configset.
@@ -42,5 +42,26 @@ edit `solrconfig.xml` and set luceneMatchVersion to 8.6
 
 > curl 'http://localhost:8983/solr/admin/collections?action=REINDEXCOLLECTION&name=documentsv7&target=documentsv8&configName=documentsv8&numShards=2&maxShardsPerNode=2&async=99' -H 'Content-type:application/json'
 
+Check the status with
+
+> curl 'http://localhost:8983/solr/admin/colle
+-type:application/json'
+
 
 1. Point the UI at the new front end and confirm it works.
+
+
+
+### Instructions for upgrading software.
+
+> docker run -p 8983:8983 ubuntu
+
+DO the wget to get Solr 7.1 and run the install script.
+
+Do the command to install zookeeper that comes with 7.1
+
+Do the command to uninstall Solr 7.1
+
+Do the command to uninstall Zookeeper.
+
+Do the command to download 8.6.2
