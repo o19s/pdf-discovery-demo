@@ -54,9 +54,18 @@ Check the status with
 
 ### Instructions for upgrading software.
 
-> docker run -p 8983:8983 ubuntu
+> docker run -it -p 8983:8983 ubuntu
+> docker cp ~/Downloads/solr-7.1.0.tgz 0c6e85257d02:/
+> docker cp ~/Downloads/solr-8.6.0.tgz 0c6e85257d02:/
 
-DO the wget to get Solr 7.1 and run the install script.
+> apt update
+> apt-get install lsof
+> apt-get install openjdk-8-jdk
+
+> tar xzf solr-8.6.2.tgz solr-8.6.2/bin/install_solr_service.sh --strip-components=2
+
+> ./install_solr_service.sh solr-8.6.2.tgz -f
+
 
 Do the command to install zookeeper that comes with 7.1
 
