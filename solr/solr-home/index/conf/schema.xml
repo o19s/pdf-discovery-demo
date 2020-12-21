@@ -36,7 +36,10 @@
         Internal schema configuration settings
     -->
     <!-- Specifically _root_ is used by Parent/Child indexing -->
-    <field name="_root_" type="string" indexed="true" stored="false"/>
+
+    <field name="_root_" type="string" indexed="true" stored="true"/>
+    <fieldType name="_nest_path_" class="solr.NestPathField" />
+    <field name="_nest_path_" type="_nest_path_"/>
 
     <!-- Used by Solr for optimistic concurrency -->
     <field name="_version_" type="long" indexed="true" stored="true"/>
