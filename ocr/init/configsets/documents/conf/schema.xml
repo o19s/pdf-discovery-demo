@@ -37,9 +37,14 @@
     -->
     <!-- Specifically _root_ is used by Parent/Child indexing -->
 
-    <field name="_root_" type="string" indexed="true" stored="true"/>
+    <field name="_root_" type="string" indexed="true" stored="false" docValues="false" />
+    <!--
+    We currently do NOT have this set up in the main client site, so I am commenting this out.  Also, if we enable this,
+    and we should, then we need to update the front end, as now we will have proper nested docs instead of what they call
+    "anonymous" docs being returned in a single flat list.
     <fieldType name="_nest_path_" class="solr.NestPathField" />
     <field name="_nest_path_" type="_nest_path_"/>
+    -->
 
     <!-- Used by Solr for optimistic concurrency -->
     <field name="_version_" type="long" indexed="true" stored="true"/>
