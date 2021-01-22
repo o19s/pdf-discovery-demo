@@ -64,13 +64,13 @@
     <fieldType name="ocr" stored="false" indexed="true" class="solr.TextField">
       <analyzer>
         <tokenizer class="solr.WhitespaceTokenizerFactory"/>
-        <filter class="solr.DelimitedPayloadTokenFilterFactory" encoder="com.o19s.payloads.Base64Encoder" />
+        <!--filter class="solr.DelimitedPayloadTokenFilterFactory" encoder="com.o19s.payloads.Base64Encoder" /-->
         <!-- The payload buffer works around WDF removing payloads from tokens by copying and replacing later in the chain -->
-        <filter class="com.o19s.payloads.filter.PayloadBufferFilterFactory" />
+        <!--filter class="com.o19s.payloads.filter.PayloadBufferFilterFactory" /-->
         <filter class="solr.LowerCaseFilterFactory" />
         <filter class="solr.WordDelimiterFilterFactory" />
         <filter class="solr.KStemFilterFactory" />
-        <filter class="com.o19s.payloads.filter.PayloadBufferFilterFactory" />
+        <!--filter class="com.o19s.payloads.filter.PayloadBufferFilterFactory" /-->
       </analyzer>
     </fieldType>
 
