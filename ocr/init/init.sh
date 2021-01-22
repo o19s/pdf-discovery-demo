@@ -1,40 +1,32 @@
 #!/bin/bash
 
-# Wait until Solr is ready
-#until wait-for-it.sh solr:8983  ";" ; do
-#	echo "Waiting on MySQL init..."
-#	sleep 5
-#done
-#echo "Sleeping 15"
-#sleep 15
-./wait-for-solr.sh --max-attempts 10 --wait-seconds 4 --solr-url http://solr:8983
+# This script goes through the steps of setting up Solr for the PDF Discovery Demo.
+set -e
 
-echo "Uploading security.json to ZK"
-
-java -jar ./jackhanna-0.0.4-SNAPSHOT.jar zookeeper:2181 putfile --file security.json --zkFile /security.json
+# Ansi color code variables
+ERROR='\033[0;31m[QUICKSTART] '
+MAJOR='\033[0;34m[QUICKSTART] '
+MINOR='\033[0;37m[QUICKSTART]    '
+RESET='\033[0m' # No Color
 
 
+echo -e "${MAJOR}Waiting for Solr cluster to start up and the one node to be online.${RESET}"
+./wait-for-solr-cluster.sh
 
-#/opt/solr/server/scripts/cloud-scripts/zkcli.sh -zkhost zookeeper:2181 -cmd putfile /security.json /code/security.json
-sleep 5 #give ZK chance to sync with Solr first
+echo -e "${MINOR}upload security.json to zookeeper${RESET}"
+java -jar ./jackhanna-0.0.4-SNAPSHOT.jar zoo1:2181 putfile --file security.json --zkFile /security.json
 
-#echo "Creating admin user"
-#curl --user solr:SolrRocks http://solr:8983/solr/admin/authentication -H 'Content-type:application/json' -d '{
-#  "set-user": {"admin" : "3YnRnaMk7sLbc","user" : "3YnRnaMk7sLbc"}
-#}'
+echo -e "${MINOR}wait for security.json to be available to solr${RESET}"
+./wait-for-zk-200.sh
 
-#echo "Creating new roles"
-#curl --user solr:SolrRocks http://solr:8983/solr/admin/authorization -H 'Content-type:application/json' -d '{
-# "set-user-role": {"admin":["admin","dev"]},
-# "set-user-role": {"user":["admin","dev"]}
-#}'
+echo -e "${MAJOR}Package documents configset.${RESET}"
+(cd configsets/documents/conf && zip -r - *) > ./configsets/documents.zip
+echo -e "${MINOR}Upload documents.zip configset${RESET}"
+curl  --user solr:SolrRocks -X POST --header "Content-Type:application/octet-stream" --data-binary @./configsets/documents.zip "http://solr:8983/solr/admin/configs?action=UPLOAD&name=documents"
 
-#echo "Deleting default Solr user"
-#curl --user admin:3YnRnaMk7sLbc http://solr:8983/solr/admin/authentication -H 'Content-type:application/json' -d  '{
-#                "delete-user": ["solr"]}'
 
 echo "Creating documents collection...."
-curl --user solr:SolrRocks "http://solr:8983/solr/admin/collections?action=CREATE&name=documents&collection.configName=configuration1&numShards=2&maxShardsPerNode=2" #place holder
+curl --user solr:SolrRocks "http://solr:8983/solr/admin/collections?action=CREATE&name=documents&collection.configName=documents&numShards=2&maxShardsPerNode=2"
 
 echo "Sleeping 5"
 sleep 5

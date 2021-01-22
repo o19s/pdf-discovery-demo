@@ -1,4 +1,5 @@
-FROM solr:8.6.3
+#FROM solr:8.6.3
+FROM apache/solr:9.0.0-SNAPSHOT
 
 # Add Tesseract
 USER root
@@ -12,11 +13,13 @@ RUN mkdir -p /home/solr/ # Cache dir for fonts from Tika.
 RUN chown -R 8983:8983 /home/solr
 
 # Add Solr customizations
+RUN ls /opt/solr/server/solr-webapp/
+
 ADD lib/*.jar /opt/solr/server/solr-webapp/webapp/WEB-INF/lib/
 ADD web.xml /opt/solr/server/solr-webapp/webapp/WEB-INF
 
-COPY solr-home /solr-config
-ADD set_heap.sh /docker-entrypoint-initdb.db
+#COPY solr-home /solr-config
+#ADD set_heap.sh /docker-entrypoint-initdb.db
 RUN chown -R 8983:8983 /opt/solr/server/solr
 
 USER solr
