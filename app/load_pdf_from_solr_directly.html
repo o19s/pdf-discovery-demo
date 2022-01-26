@@ -20,20 +20,14 @@
  $(document).on('click', '.deleteImage', function(e) {
 
 var documentid = $("#solr_doc_id").val();
-alert("Looking for " + documentid);
+console.log("Looking for " + documentid);
 
   $.ajax({
              url: '//' + window.location.hostname + ":8983/solr/documents/select?csv.header=false&fl=file_binary_base64&fq=content_type:parentDocument&q=id:" + documentid + "&wt=csv",
              type: "GET",
-             headers: {
-                "Authorization" : "Basic " +  btoa("user:pw")
-             },
-             xhrFields: {
-                 withCredentials: true
-             },
              mimeType: "text/plain; charset=x-user-defined"
          }).done(function( data, textStatus, jqXHR ) {
-             alert(data);
+             console.log(data);
 
              // atob() is used to convert base64 encoded PDF to binary-like data.
              // (See also https://developer.mozilla.org/en-US/docs/Web/API/WindowBase64/
