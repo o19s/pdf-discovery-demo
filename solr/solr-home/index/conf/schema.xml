@@ -37,9 +37,12 @@
     -->
     <!-- Specifically _root_ is used by Parent/Child indexing -->
 
-    <field name="_root_" type="string" indexed="true" stored="true"/>
+    <field name="_root_" type="string" indexed="true" stored="false" docValues="false" />
+
+    <!-- SOLR-12519 enforces either use _nest_path_ or parentFilter but not both
     <fieldType name="_nest_path_" class="solr.NestPathField" />
     <field name="_nest_path_" type="_nest_path_"/>
+    -->
 
     <!-- Used by Solr for optimistic concurrency -->
     <field name="_version_" type="long" indexed="true" stored="true"/>
