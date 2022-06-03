@@ -134,7 +134,7 @@
   </admin>
 
 
-  <searchComponent class="com.o19s.payloads.component.PayloadComponent" name="payload" />
+  <searchComponent class="solr-payloads:com.o19s.payloads.component.PayloadComponent" name="payload" />
     <!-- Highlighting Component
 
        http://wiki.apache.org/solr/HighlightingParameters
@@ -169,7 +169,7 @@
       <!-- Configure the standard formatter -->
       <formatter name="html"
                  default="true"
-                 class="com.o19s.labs.OffsetFormatter">
+                 class="solr-payloads:com.o19s.hl.OffsetFormatter">
       </formatter>
 
       <!-- Configure the standard encoder -->
