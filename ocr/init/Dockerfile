@@ -8,7 +8,11 @@ RUN apt-get update && apt-get install -y \
 ADD init /init
 ADD docs_for_solr /docs_for_solr
 ADD docs_for_solr2 /docs_for_solr2
+ADD docs_for_solr3 /docs_for_solr3
 ADD files /files
+ADD files2 /files2
+ADD files3 /file3
+
 
 WORKDIR /init
 
