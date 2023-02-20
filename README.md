@@ -15,8 +15,6 @@ Solr is running on http://localhost:8983, with a CORS version at http://localhos
 
 You may need to do `docker-compose down -v` if you have already run the demo.
 
-
-
 ## I want to learn how this works!
 There are actually a couple of things that you can learn from this project.  They are written up on the wiki:
 
@@ -25,8 +23,6 @@ There are actually a couple of things that you can learn from this project.  The
 1. [Parsing Tika/Tesseract output inside of Solr via the StatelessScriptUpdateProcessorFactory](https://github.com/o19s/pdf-discovery-demo/wiki/3.-Parsing-Tika-Tesseract-Output-Inside-of-Solr-via-StatelessScriptUpdateProcessorFactory)
 1. [Tesseract 3 and Tika](https://github.com/o19s/pdf-discovery-demo/wiki/Tesseract-3-and-Tika).
 1. [Store binary data in Solr and serve it up like a object store!](https://github.com/o19s/pdf-discovery-demo/wiki/Store-binary-data-in-Solr-and-serve-it-up-like-a-object-store!)
-
-
 
 # Development
 
@@ -46,7 +42,7 @@ from inside the `pdf-viewer` directory:
 ./build.sh
 ```
 
-And the script witll build and copy the `dist` directory contents into `/app/pdfviewer/`
+And the script will build and copy the `dist` directory contents into `/app/pdfviewer/`
 
 ## Text Extraction and OCR process
 
@@ -93,13 +89,6 @@ Delete the old `offset-hl-formatter-1.0.1-solr7.1.0-SNAPSHOT.jar` and `solr-payl
 
 Make sure Solr is package enabled on startup, we need another parameter.  (Lets verify install script).  `-Denable.packages=true`
 
-
-
-
-
-
-
-
 ## Run the Demo using Docker
 
 ```
@@ -130,8 +119,6 @@ Delete the old `offset-hl-formatter-1.0.1-solr7.1.0-SNAPSHOT.jar` and `solr-payl
 es now!!!!
 
 Make sure Solr is package enabled on startup, we need another parameter.  (Lets verify install script).  `-Denable.packages=true`
-
-
 
 ## Building Docker images
 Build the docker images from scratch via:
