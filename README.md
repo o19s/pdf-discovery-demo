@@ -15,8 +15,6 @@ Solr is running on http://localhost:8983, with a CORS version at http://localhos
 
 You may need to do `docker-compose down -v` if you have already run the demo.
 
-
-
 ## I want to learn how this works!
 There are actually a couple of things that you can learn from this project.  They are written up on the wiki:
 
@@ -25,8 +23,6 @@ There are actually a couple of things that you can learn from this project.  The
 1. [Parsing Tika/Tesseract output inside of Solr via the StatelessScriptUpdateProcessorFactory](https://github.com/o19s/pdf-discovery-demo/wiki/3.-Parsing-Tika-Tesseract-Output-Inside-of-Solr-via-StatelessScriptUpdateProcessorFactory)
 1. [Tesseract 3 and Tika](https://github.com/o19s/pdf-discovery-demo/wiki/Tesseract-3-and-Tika).
 1. [Store binary data in Solr and serve it up like a object store!](https://github.com/o19s/pdf-discovery-demo/wiki/Store-binary-data-in-Solr-and-serve-it-up-like-a-object-store!)
-
-
 
 # Development
 
@@ -46,7 +42,7 @@ from inside the `pdf-viewer` directory:
 ./build.sh
 ```
 
-And the script witll build and copy the `dist` directory contents into `/app/pdfviewer/`
+And the script will build and copy the `dist` directory contents into `/app/pdfviewer/`
 
 ## Text Extraction and OCR process
 
@@ -55,13 +51,14 @@ From the `./ocr/` directory, there are some Powershell ( ;-) ) scripts to recrea
 1. `cd ./ocr`
 
 1. Make sure you have Tesseract installed.  `brew install tesseract` on OSX.
+Alternatively, check that the script `extract.ps1` isn't pointing at the hosted pdf-discovery-demo version of Tika ;-)  Or, if it is, then that's okay.
 
 1. Check the `./tika-properties/.../TesseractOCRConfig.properties` file, make sure it points to your Tesseract setup.
 
-1. Run the extraction process, creating the working docs in the `/extracts` directory from the PDF's in `/files`.
+1. Run the extraction process, creating the working docs in the `/extracts` directory from the PDF's in `/files`.   We have already a pattern of `filesN` and `extractsN`.  
 
 ```
-pwsh extract-directory.ps1 ./files
+pwsh extract-directory.ps1 ./files ./extracts
 ```
 
 1. Create Solr documents.
@@ -69,6 +66,10 @@ pwsh extract-directory.ps1 ./files
 ```
 pwsh create-solr-docs.ps1 ./extracts ./files ./docs_for_solr/
 ```
+
+1. Make sure if you add a new `docs_for_solrN` directory, that you also add it to the `./ocr/Dockerfile` COPY command.   You will also need to add it to the `./app/Dockerfile` COPY command.
+
+1. Now stand up the app with `docker-compose up --build`
 
 ### Interested in manually extracting content from Tika Server?
 
@@ -92,13 +93,6 @@ Make sure your solrconfig.xml has the name `com.o19s.hl.OffsetFormatter` instead
 Delete the old `offset-hl-formatter-1.0.1-solr7.1.0-SNAPSHOT.jar` and `solr-payloads-1.0.3-solr7.1.0-SNAPSHOT.jar` jars from the deployment process, we have nice shiny packages now!!!!
 
 Make sure Solr is package enabled on startup, we need another parameter.  (Lets verify install script).  `-Denable.packages=true`
-
-
-
-
-
-
-
 
 ## Run the Demo using Docker
 
@@ -130,8 +124,6 @@ Delete the old `offset-hl-formatter-1.0.1-solr7.1.0-SNAPSHOT.jar` and `solr-payl
 es now!!!!
 
 Make sure Solr is package enabled on startup, we need another parameter.  (Lets verify install script).  `-Denable.packages=true`
-
-
 
 ## Building Docker images
 Build the docker images from scratch via:

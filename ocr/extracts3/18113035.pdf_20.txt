@@ -1,0 +1,43 @@
+
+AILA’S Top 25 Practice Success Tips of 2018      20
+
+17) Cyberattack Reminders — 
+Vigilance Is Best Defense
+Cyberattacks happen often. Firm size does not matter. 80 percent of 
+businesses—large and small—report attacks. Familiarize yourself with 
+current hacks so you and staff do not fall for them:
+
+A client’s email was hacked. Unaware of the breach for months, the 
+lurking perpetrator struck when the settlement came through. She 
+posed as the client, sent an email requesting funds be wired promptly. 
+The law firm was out hundreds of thousands of dollars. Establish a 
+policy of never wiring money to a client before the client is called on 
+the phone. They could have avoided the loss, but not the information 
+breach. Check if your email accounts have been compromised 
+at www.haveibeenpwned.com
+
+Same facts, but the settlement check was prepared for the client 
+who showed up to get the check on time. But the crook had arrived 10 
+minutes earlier and posed as her. Always have your staff ask for photo 
+ID before they help a client to funds or information. The number one 
+vehicle for phishing attacks is still email.
+
+A paralegal at an immigration firm visits Facebook on her lunch hour. 
+In a moment of glee, she clicks on a $75-off coupon for Bed Bath and 
+Beyond and fills out the survey. Nothing happens. Later that day, a note 
+appears on everyone’s screen: “All your files have been encrypted. To 
+unencrypt them send $1,500 in Bitcoin to XXX by XXX date.” The firm 
+pays the ransom, but the hacker doesn’t unencrypt the files. The firm is 
+down for 10 days and struggles to fill its data holes.
+
+A lawyer gets nominated for an award email. She calls because she 
+knows clicking might not be safe. They interview her, asking about her 
+life. She never hears back. She realizes they were mining her information 
+(i.e. social engineering).
+
+Cybersecurity attacks are constantly shifting. Train your staff to 
+recognize scams and tell someone when things go wrong so the firm 
+can address it effectively.
+
+AILA Doc. No. 18113035. (Posted 11/30/18)
+

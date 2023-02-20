@@ -1,0 +1,35 @@
+
+AILA’S Top 25 Practice Success Tips of 2018      11
+
+9) Quick Steps to Making  
+Email Easier
+Quick Steps to Making Email Easier
+
+Here is how to create and use Quick Steps in Outlook to manage email 
+easily, avoid redundant steps, and be more efficient.
+
+How to Create a Quick Step
+
+Quick Steps can be found in the middle of the Home Ribbon:
+
+Microsoft gives some sample common Quick Steps that need tailoring 
+to your situation. For example, click on Team Email to create an email list 
+for a team you commonly email all together, to email the team ever after 
+with one click.
+
+Manage your quick steps by selecting it from the dropdown menu, 
+clicking the Quick Step you want to change. Edit the team or make a 
+Duplicate of it to modify and rename the team for a different group  
+email list.
+
+Rename the team to something else and save to distinguish it easily in 
+the Quick Steps gallery.
+
+Another useful quickstep is Categorize message. Click these words in 
+the list or click Create New and select it from the dropdown menu. A 
+second dropdown menu will give you the categories as you currently 
+have them labeled. For example, my categories are labeled and color 
+coded like this:
+
+AILA Doc. No. 18113035. (Posted 11/30/18)
+

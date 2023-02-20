@@ -1,0 +1,62 @@
+
+AILA’S Top 25 Practice Success Tips of 2018      22
+
+19) Making Unbreakable 
+Passwords
+The average computer user has 40 password-protected accounts but 
+only uses about five different passwords on them. Everyone says we 
+are not supposed to reuse passwords, but no one could remember 40 
+passwords. So, here are some manageable solutions:
+
+Use a password manager. LastPass, Dashlane, StickyPassword, 
+and 1Password are examples of password managers that will create 
+and store your passwords. Prices range from $12 to $40 per year. The 
+right program will be easy to use, notify you of breaches and what 
+passwords must be changed, and have two-factor authentication 
+options. (LastPass was hacked, but no information was breached 
+because their encryption worked.)
+
+Use two-factor authentication (2FA). If you skip the password manager, 
+at least use 2FA. This is easy to set up on most accounts. There are 
+several types, the strongest being by application. The first time you log 
+into an account, it will require a password and a randomly generated 
+code that changes every minute. Once that device is “remembered,” 
+
+it will not ask for the random code again (or rarely). Google 
+Authenticator and Microsoft Authenticator are common examples.
+
+All devices should be password protected. Have an automatic lock and 
+password on your work computer when it is inactive for a period. Do not 
+keep passwords on your computer and do not keep old password reset 
+emails after they are used.
+
+Protecting your password goes beyond just firm data. It includes 
+securing other accounts, such as your AILA account. Your password 
+should be unique but easy for you to remember!
+
+Finally, if you do reuse your favorite passwords, do not reuse the law firm 
+passwords under any circumstance. Make a list of all your password 
+protected sites and rate them by risk and security needs, then make a 
+“never-reuse” list of the most sensitive ones.
+
+20) Honing Your Phishing Radar
+When it comes to protecting your firm and its clients, the best defense 
+is a good offense. Use these cyberthreat educational tools (and beware 
+of other free services that purport to be trainings in cybersecurity, as 
+hackers actually use these as bait to get you to click on them.) Do not 
+use other free sites without verification from an IT or cybersecurity 
+specialist to educate yourself and your staff to avoid the pain of 
+computer malware, hacks, scams, ransomware, and breaches:
+
+Cisco’s OpenDNS has a Phishing Quiz that tests your ability to spot 
+spoofed websites. Even a trained eye can miss things or not know the 
+latest scams. Take the quiz to keep yourself sharp. After taking it, click on 
+“find out why” to get concrete things to look for instead of guessing.
+
+SonicWall also has a phishing IQ test and resources for learning more. 
+(By the way, looking at their current attack map is utterly mesmerizing.)
+
+Do Duo’s Phishing Assessment to determine vulnerabilities.
+
+AILA Doc. No. 18113035. (Posted 11/30/18)
+

@@ -42,5 +42,6 @@ sleep 5
 
 echo "Load all the extracts"
 ./load_sample_files.sh /docs_for_solr http://solr:8983/solr/documents/update
-./load_sample_files.sh /docs_for_solr2 http://solr:8983/solr/documents/update
+#./load_sample_files.sh /docs_for_solr2 http://solr:8983/solr/documents/update
+./load_sample_files.sh /docs_for_solr3 http://solr:8983/solr/documents/update
 echo "Done with setup"

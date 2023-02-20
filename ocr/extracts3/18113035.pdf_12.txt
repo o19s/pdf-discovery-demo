@@ -1,0 +1,66 @@
+
+AILA’S Top 25 Practice Success Tips of 2018      12
+
+Your categories may be labeled by client name, case type, or still set on 
+the defaults. To customize them see Create and assign color  categories.
+
+Select the category you wish to make a Quick Step. For example, here 
+we take the Important (dark red) category. Rename the Quick Step 
+“Important” to match the category at the top where it says Name, by 
+typing over Categorize message (otherwise you end up with several 
+categorize message quick steps). You can even create a shortcut 
+key at the bottom. The dropdown menu on Shortcut key starts with 
+Ctrl+Shift+1 and ascends, but you can also tailor these to your own use.
+
+The Quick Steps 
+function is flexible and 
+customizable as a 
+series of steps. Which 
+Quick Steps to create 
+depends on the way 
+your personal work 
+flows. For example, 
+your Quick Step could 
+push the email to a 
+follow-up folder, flag 
+it, forward it to your 
+supervising attorney 
+for follow up with a 
+flag for him next week, 
+say FYI, and create 
+an appointment with 
+an attachment by a 
+click of the mouse or Ctrl+Shift+5. A different click could send it to your 
+receptionist with a subject line of, “please set appointment” and create 
+a task so you follow up with her to know how it went and when the 
+appointment could be scheduled for.
+
+To choose what to Quick Step, think about what you do repetitively 
+or struggle to keep on track, and see if there is some of that you can 
+shirk onto Outlook to do for you. For example, if you frequently have 
+appointment requests you send out and do not get a response, set a 
+flag to follow up next week, or if you fail to prepare for meetings you set, 
+create a task with a text message.
+
+Two Small Warnings
+
+Be wary of automatically putting something in a folder that you never 
+test out your Quick Steps to make sure they work the way you want. 
+Sometimes one thinks the steps work one way, but they end up being a 
+little different when tested. Tweak accordingly.
+
+A Treasure Trove of Knowledge
+
+If you want more technology tips like these, visit The Chicago Bar 
+Association Law Practice Management  and Technology How To… Video 
+Library at Microsoft Office Category. A personal favorite is Use  Microsoft 
+Outlook Add-ons for Productivity. A wealth of trainings for lawyer 
+law office management can be had by all since the Director of CBA’s 
+program, Catherine Sanders Reach, graciously opened the training files 
+to the public recently.
+
+Happy Quick Stepping. May the Gods of Efficiency smile upon you this 
+day and all others.
+
+AILA Doc. No. 18113035. (Posted 11/30/18)
+

@@ -1,0 +1,57 @@
+
+AILA’S Top 25 Practice Success Tips of 2018      23
+
+Hire a company to test and train your staff. The best training brings the 
+problem to life in a current, controlled environment—things like sending 
+a spoofed-phishing email that says, “Click here to win a free iWatch!” to 
+see how many employees click. LMG Security and Sensei Enterprises, 
+Inc. have trained and helped law firms across the country with 
+prevention and breach.
+
+Though email is still the number one threat, phishing scams have been 
+popping up on Facebook, Twitter, and other social media platforms. Have 
+policies and procedures that cover personal website surfing on firm 
+computers. Update all your software applications and remember that 
+phones can catch viruses, too. Take your time and turn on your phishing 
+radar when online. Whenever in doubt about an email you received, call 
+the sending party on the phone before clicking any link or attachment. 
+(If you don’t know the sender, beware that the person answering the 
+phone may be part of the scam.)
+
+21) Creating Hotkeys to 
+Streamline Processes
+You can customize Hotkeys for your specific workflow. (Since Microsoft 
+products are used by most immigration lawyers, we will use it to 
+demonstrate.) For example, if you were following the Formatting Text 
+Hotkeys workflow (step 4) in Hotkeys: The Key to Efficiency and wished 
+there was a Hotkey for turning the text from Times New Roman to Calibri, 
+you could make it so by assigning it like this:
+
+1. Go to Word Options.
+2. Select Customization from the menu on the left.
+3. Select Customize button towards the bottom. It will bring up the 
+
+Customize Keyboard menu.
+4. Find Fonts in the Categories menu on the left. (There are hundreds 
+
+of options.)
+
+5. Find Calibri in the Fonts menu on the right.
+6. Type the keys you want to assign in the Press new shortcut 
+
+key box.
+
+Careful with taking an already assigned key and reassigning it 
+though. Ctrl+B won’t make text bold if you assign it to another action.
+
+This example is in Microsoft products, but you can customize hotkeys in 
+other products as well.
+
+Customize shortcuts in Google
+
+Customize shortcuts in Mac
+
+Customize shortcuts in Microsoft
+
+AILA Doc. No. 18113035. (Posted 11/30/18)
+
