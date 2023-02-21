@@ -11,7 +11,7 @@ ADD docs_for_solr2 /docs_for_solr2
 ADD docs_for_solr3 /docs_for_solr3
 ADD files /files
 ADD files2 /files2
-ADD files3 /file3
+ADD files3 /files3
 
 
 WORKDIR /init

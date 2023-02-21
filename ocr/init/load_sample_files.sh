@@ -1,9 +1,6 @@
 #!/bin/bash
 
-#PATH_TO_SAMPLE_PPTX=./sample_powerpoints
 PATH_TO_SAMPLE_DOCS=$1
-#UPLOAD_ENDPOINT=http://powerpoint-discovery-demo.dev.o19s.com:8080/documents
-#UPLOAD_ENDPOINT=http://api:8080/documents
 UPLOAD_ENDPOINT=$2
 #UPLOAD_ENDPOINT=http://localhost:8080/documents
 

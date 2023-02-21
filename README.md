@@ -138,10 +138,10 @@ Deploy to our private Docker registry http://harbor.dev.o19s.com:
 ```
 docker login harbor.dev.o19s.com
 
-docker tag pdf-discovery-demo_solr-proxy harbor.dev.o19s.com/pdf-discovery-demo/solr-proxy
-docker tag pdf-discovery-demo_app harbor.dev.o19s.com/pdf-discovery-demo/app
-docker tag pdf-discovery-demo_solr harbor.dev.o19s.com/pdf-discovery-demo/solr
-docker tag pdf-discovery-demo_init harbor.dev.o19s.com/pdf-discovery-demo/init
+docker tag pdf-discovery-demo-solr-proxy harbor.dev.o19s.com/pdf-discovery-demo/solr-proxy
+docker tag pdf-discovery-demo-app harbor.dev.o19s.com/pdf-discovery-demo/app
+docker tag pdf-discovery-demo-solr harbor.dev.o19s.com/pdf-discovery-demo/solr
+docker tag pdf-discovery-demo-init harbor.dev.o19s.com/pdf-discovery-demo/init
 
 docker push harbor.dev.o19s.com/pdf-discovery-demo/solr-proxy
 docker push harbor.dev.o19s.com/pdf-discovery-demo/app
