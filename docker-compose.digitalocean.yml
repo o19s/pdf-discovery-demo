@@ -35,6 +35,6 @@
       - zookeeper
 
   tika:
-    image: logicalspark/docker-tikaserver
+    image: logicalspark/docker-tikaserver:1.28.3
     ports:
       - "9998:9998"
