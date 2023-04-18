@@ -28,13 +28,6 @@
       - zookeeper
     command: "bash -c '/opt/solr/bin/solr start -f -z zookeeper:2181 -Dbootstrap_confdir=/solr-config/index/conf'"
 
-  solr-proxy:
-    image: harbor.dev.o19s.com/pdf-discovery-demo/solr-proxy:latest
-    ports:
-      - "8000:80"
-    links:
-      - solr
-
   init:
     image: harbor.dev.o19s.com/pdf-discovery-demo/init:latest
     links:

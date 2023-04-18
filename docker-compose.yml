@@ -28,13 +28,6 @@ services:
       - zookeeper
     command: "bash -c '/opt/solr/bin/solr start -f -z zookeeper:2181 -Dbootstrap_confdir=/solr-config/index/conf'"
 
-  solr-proxy:
-    build: ./solr-proxy
-    ports:
-      - "8000:80"
-    links:
-      - solr
-
   init:
     build:
       context: ./ocr
