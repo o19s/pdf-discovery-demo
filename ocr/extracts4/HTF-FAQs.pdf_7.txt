@@ -1,0 +1,56 @@
+
+  7 
+
+When was the Housing Trust Fund (HTF) functionality implemented in IDIS and how do I 
+gain access to this system? 
+
+Updated: August 3, 2016 
+ 
+The Housing Trust Fund (HTF) was implemented in HUD’s Integrated Disbursement and 
+Information System (IDIS) on Monday, July 25, 2016. HUD requires HTF grantees to use IDIS 
+when committing funds to HTF-assisted projects, disbursing HTF funds for eligible costs, and 
+reporting HTF accomplishments. HTF grantees must complete an IDIS Online Access Form in 
+order to gain access to the system for HTF. The form must be signed by the grantee official 
+approving the user request. This signature must be notarized. The completed, signed, and 
+notarized IDIS Online Access Form should be submitted to the HTF grantee’s local HUD field 
+office for final signature and processing. Please note that current IDIS users that have user 
+rights for other CPD programs (e.g., HOME, CDBG, ESG, HOPWA, etc.) are not required to 
+complete a new IDIS Online Access Form for the HTF program. The HTF program can be 
+added to an active user profile by the Local Grantee or Field Office Administrators. 
+ 
+Please submit any questions regarding IDIS access for HTF to your local HUD field office, or 
+the Ask a Question portal located on the HUD Exchange. To submit a question to the IDIS 
+AAQ portal, select “IDIS: Integrated Disbursement and Information System” from the “My 
+question is related to” drop down list on Step 2 of the question submission process.  
+
+When must a State notify HUD which agency will administer its Housing Trust Funds 
+(HTF) and how does a State designate the State agency or State-Designated Entity to 
+administer the HTF program? 
+
+Updated: February 13, 2015 
+
+Per 24 CFR 93.100, each State is required to notify (the Secretary of) HUD of its intent to 
+become a grantee for HTF funding within 30 days after HUD publishes the formula allocation 
+amounts (these amounts are expected to be published by April 2016). The notification letter 
+must also inform HUD of the contact information for the State department/agency or State-
+Designated Entity (SDE) that will administer its HTF funds. Only one State department/agency 
+or SDE can be designated as the HTF grantee. 
+
+Please provide the following contact information: 
+
+ First Name 
+
+ Last Name 
+
+ Title 
+
+ Department 
+
+ Agency 
+
+ Phone 
+
+ Email 
+
+ Address 
+
