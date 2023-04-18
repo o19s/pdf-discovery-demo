@@ -17,6 +17,7 @@ COPY app .
 COPY ocr/files/ .
 COPY ocr/files2/ .
 COPY ocr/files3/ .
+COPY ocr/files4/ .
 
 # build app for production with minification
 #RUN npm run build

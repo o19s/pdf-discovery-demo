@@ -10,6 +10,7 @@
     image: harbor.dev.o19s.com/pdf-discovery-demo/app:latest
     ports:
       - 8080:8080
+      - 80:8080
     links:
       - solr
 
@@ -28,13 +29,6 @@
       - zookeeper
     command: "bash -c '/opt/solr/bin/solr start -f -z zookeeper:2181 -Dbootstrap_confdir=/solr-config/index/conf'"
 
-  solr-proxy:
-    image: harbor.dev.o19s.com/pdf-discovery-demo/solr-proxy:latest
-    ports:
-      - "8000:80"
-    links:
-      - solr
-
   init:
     image: harbor.dev.o19s.com/pdf-discovery-demo/init:latest
     links:
@@ -42,6 +36,6 @@
       - zookeeper
 
   tika:
-    image: logicalspark/docker-tikaserver
+    image: logicalspark/docker-tikaserver:1.28.3
     ports:
       - "9998:9998"

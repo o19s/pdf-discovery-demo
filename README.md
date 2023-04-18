@@ -4,14 +4,14 @@ This is a demonstration project that leverages the Solr Payload Component from h
 
 ## Online Demo!
 
-Checkout how amazing this is at http://pdf-discovery-demo.dev.o19s.com:8080/ ;-)
+Checkout how amazing this is at http://pdf-discovery-demo.dev.o19s.com/ ;-)
 
 ## Quickstart!
 
 Just run `docker-compose up --build` and then browse to http://localhost:8080.  You will need to wait till the _init_ process finishes loading all of the Solr documents to use the website properly.
 
 
-Solr is running on http://localhost:8983, with a CORS version at http://localhost:8000, and PDF images are served up on http://localhost:8443.
+Solr is running on http://localhost:8983, and PDF images are served up on http://localhost:8443.
 
 You may need to do `docker-compose down -v` if you have already run the demo.
 
@@ -55,7 +55,7 @@ Alternatively, check that the script `extract.ps1` isn't pointing at the hosted 
 
 1. Check the `./tika-properties/.../TesseractOCRConfig.properties` file, make sure it points to your Tesseract setup.
 
-1. Run the extraction process, creating the working docs in the `/extracts` directory from the PDF's in `/files`.   We have already a pattern of `filesN` and `extractsN`.  
+1. Run the extraction process, creating the working docs in the `./ocr/extracts` directory from the PDF's in `./ocr/files`.   We have already a pattern of separate directory pairs of input `filesN` and output `extractsN`.  
 
 ```
 pwsh extract-directory.ps1 ./files ./extracts
@@ -63,11 +63,16 @@ pwsh extract-directory.ps1 ./files ./extracts
 
 1. Create Solr documents.
 
+The output will end up in a `docs_for_solrN`.
+
 ```
 pwsh create-solr-docs.ps1 ./extracts ./files ./docs_for_solr/
 ```
 
-1. Make sure if you add a new `docs_for_solrN` directory, that you also add it to the `./ocr/Dockerfile` COPY command.   You will also need to add it to the `./app/Dockerfile` COPY command.
+1. Update Scripts for any new `docs_for_solrN` folder:
+ 1. Add it to the `./ocr/init/Dockerfile` COPY command.   
+ 1. You will also need to add it to the `./app/Dockerfile` COPY command.
+ 1. Update the `./ocr/init/init.sh` to load the files.
 
 1. Now stand up the app with `docker-compose up --build`
 
@@ -138,12 +143,10 @@ Deploy to our private Docker registry http://harbor.dev.o19s.com:
 ```
 docker login harbor.dev.o19s.com
 
-docker tag pdf-discovery-demo-solr-proxy harbor.dev.o19s.com/pdf-discovery-demo/solr-proxy
 docker tag pdf-discovery-demo-app harbor.dev.o19s.com/pdf-discovery-demo/app
 docker tag pdf-discovery-demo-solr harbor.dev.o19s.com/pdf-discovery-demo/solr
 docker tag pdf-discovery-demo-init harbor.dev.o19s.com/pdf-discovery-demo/init
 
-docker push harbor.dev.o19s.com/pdf-discovery-demo/solr-proxy
 docker push harbor.dev.o19s.com/pdf-discovery-demo/app
 docker push harbor.dev.o19s.com/pdf-discovery-demo/solr
 docker push harbor.dev.o19s.com/pdf-discovery-demo/init

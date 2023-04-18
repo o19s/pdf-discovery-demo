@@ -9,9 +9,11 @@ ADD init /init
 ADD docs_for_solr /docs_for_solr
 ADD docs_for_solr2 /docs_for_solr2
 ADD docs_for_solr3 /docs_for_solr3
+ADD docs_for_solr4 /docs_for_solr4
 ADD files /files
 ADD files2 /files2
 ADD files3 /files3
+ADD files4 /files4
 
 
 WORKDIR /init
