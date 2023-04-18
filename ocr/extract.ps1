@@ -73,7 +73,10 @@ foreach ($page in $pages){
 
     $payload=[Convert]::ToBase64String([System.Text.Encoding]::ASCII.GetBytes($payload))
 
-    $hocr_output = $hocr_output + $word.InnerText + "|" + $payload + " "
+    # We use the pipe character as a delimiter in our payload in Solr, therefore can't have it in tokens.
+    $token = $word.InnerText.replace("|", "I")
+
+    $hocr_output = $hocr_output + $token + "|" + $payload + " "
   }
 
   Set-Content -Path $extract_file_text -Value $page.p
