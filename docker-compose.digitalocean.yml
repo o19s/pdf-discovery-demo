@@ -10,6 +10,7 @@
     image: harbor.dev.o19s.com/pdf-discovery-demo/app:latest
     ports:
       - 8080:8080
+      - 80:8080
     links:
       - solr
 

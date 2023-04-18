@@ -4,14 +4,14 @@ This is a demonstration project that leverages the Solr Payload Component from h
 
 ## Online Demo!
 
-Checkout how amazing this is at http://pdf-discovery-demo.dev.o19s.com:8080/ ;-)
+Checkout how amazing this is at http://pdf-discovery-demo.dev.o19s.com/ ;-)
 
 ## Quickstart!
 
 Just run `docker-compose up --build` and then browse to http://localhost:8080.  You will need to wait till the _init_ process finishes loading all of the Solr documents to use the website properly.
 
 
-Solr is running on http://localhost:8983, with a CORS version at http://localhost:8000, and PDF images are served up on http://localhost:8443.
+Solr is running on http://localhost:8983, and PDF images are served up on http://localhost:8443.
 
 You may need to do `docker-compose down -v` if you have already run the demo.
 
@@ -143,12 +143,10 @@ Deploy to our private Docker registry http://harbor.dev.o19s.com:
 ```
 docker login harbor.dev.o19s.com
 
-docker tag pdf-discovery-demo-solr-proxy harbor.dev.o19s.com/pdf-discovery-demo/solr-proxy
 docker tag pdf-discovery-demo-app harbor.dev.o19s.com/pdf-discovery-demo/app
 docker tag pdf-discovery-demo-solr harbor.dev.o19s.com/pdf-discovery-demo/solr
 docker tag pdf-discovery-demo-init harbor.dev.o19s.com/pdf-discovery-demo/init
 
-docker push harbor.dev.o19s.com/pdf-discovery-demo/solr-proxy
 docker push harbor.dev.o19s.com/pdf-discovery-demo/app
 docker push harbor.dev.o19s.com/pdf-discovery-demo/solr
 docker push harbor.dev.o19s.com/pdf-discovery-demo/init
