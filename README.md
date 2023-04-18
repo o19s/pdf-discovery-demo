@@ -55,7 +55,7 @@ Alternatively, check that the script `extract.ps1` isn't pointing at the hosted 
 
 1. Check the `./tika-properties/.../TesseractOCRConfig.properties` file, make sure it points to your Tesseract setup.
 
-1. Run the extraction process, creating the working docs in the `/extracts` directory from the PDF's in `/files`.   We have already a pattern of `filesN` and `extractsN`.  
+1. Run the extraction process, creating the working docs in the `./ocr/extracts` directory from the PDF's in `./ocr/files`.   We have already a pattern of separate directory pairs of input `filesN` and output `extractsN`.  
 
 ```
 pwsh extract-directory.ps1 ./files ./extracts
@@ -63,11 +63,16 @@ pwsh extract-directory.ps1 ./files ./extracts
 
 1. Create Solr documents.
 
+The output will end up in a `docs_for_solrN`.
+
 ```
 pwsh create-solr-docs.ps1 ./extracts ./files ./docs_for_solr/
 ```
 
-1. Make sure if you add a new `docs_for_solrN` directory, that you also add it to the `./ocr/Dockerfile` COPY command.   You will also need to add it to the `./app/Dockerfile` COPY command.
+1. Update Scripts for any new `docs_for_solrN` folder:
+ 1. Add it to the `./ocr/init/Dockerfile` COPY command.   
+ 1. You will also need to add it to the `./app/Dockerfile` COPY command.
+ 1. Update the `./ocr/init/init.sh` to load the files.
 
 1. Now stand up the app with `docker-compose up --build`
 
