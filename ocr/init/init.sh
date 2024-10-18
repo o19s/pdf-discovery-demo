@@ -5,9 +5,11 @@
 #	echo "Waiting on MySQL init..."
 #	sleep 5
 #done
-#echo "Sleeping 15"
+echo "Sleeping 15"
 sleep 15
 ./wait-for-solr.sh --max-attempts 10 --wait-seconds 4 --solr-url http://solr:8983
+
+echo "Sleeping 30 more"
 sleep 30
 
 echo "Uploading security.json to ZK"
